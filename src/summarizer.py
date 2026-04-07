@@ -82,9 +82,16 @@ def summarize_articles(
             success += 1
             logger.debug(f"要約完了: {group.title[:50]}")
         except Exception as e:
+            # 必ず実際のエラーをログに残す
+            logger.error(f"Gemini エラー [{type(e).__name__}]: {e}")
             error_str = str(e).lower()
-            if "429" in error_str or "quota" in error_str or "rate" in error_str:
-                # Free tier daily/minute limit reached → skip all remaining
+            # 429 / ResourceExhausted のみレート制限と判定（"rate"は誤検知しやすいため除外）
+            is_rate_limit = (
+                "429" in str(e)
+                or "resource_exhausted" in error_str
+                or "quota_exceeded" in error_str
+            )
+            if is_rate_limit:
                 rate_limited = True
                 skipped += 1
                 logger.warning(
@@ -92,7 +99,8 @@ def summarize_articles(
                     "この実行の残り記事は要約なしで通知します。"
                 )
             else:
-                logger.error(f"要約失敗 '{group.title[:40]}': {e}")
+                # レート制限以外のエラーはこの記事だけスキップして継続
+                skipped += 1
         finally:
             last_call_time = time.time()
 

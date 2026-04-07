@@ -1,0 +1,79 @@
+name: News Monitor
+
+on:
+  schedule:
+    # JST 9:00 / 12:00 / 15:00 / 18:00 / 21:00 に実行
+    # (UTC 0:00 / 3:00 / 6:00 / 9:00 / 12:00)
+    # 頻度を変える場合: https://crontab.guru/
+    - cron: "0 0,3,6,9,12 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+# 同時実行を防止（状態ファイルの競合回避）
+concurrency:
+  group: news-monitor
+  cancel-in-progress: false
+
+# 状態ファイルをリポジトリにコミットするため write 権限が必要
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      # --------------------------------------------------------
+      # 1. チェックアウト
+      # --------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # GITHUB_TOKEN でプッシュできるようにする
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # 常に最新の状態ファイルを取得
+          fetch-depth: 1
+
+      # --------------------------------------------------------
+      # 2. Python セットアップ
+      # --------------------------------------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # --------------------------------------------------------
+      # 3. ニュースモニタリング実行
+      # --------------------------------------------------------
+      - name: Run news monitor
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python src/main.py
+
+      # --------------------------------------------------------
+      # 4. 状態ファイルをコミット・プッシュ
+      # --------------------------------------------------------
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 変更があるファイルのみステージング
+          git add data/seen_articles.json
+          git add logs/news_monitor.log 2>/dev/null || true
+
+          # 差分がある場合のみコミット
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update monitoring state [skip ci]"
+            # 他のジョブがプッシュしていた場合に備えてリベース
+            git pull --rebase origin "${{ github.ref_name }}" || true
+            git push
+            echo "✅ 状態ファイルをコミット・プッシュしました"
+          else
+            echo "ℹ️ 変更なし。コミットをスキップします"
+          fi

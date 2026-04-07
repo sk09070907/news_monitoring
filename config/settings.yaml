@@ -1,0 +1,76 @@
+# ============================================================
+# ニュースモニタリング設定
+# ※ 企業リストは config/companies.yaml を編集してください
+# ============================================================
+
+# -----------------------------------------------------------
+# ニュースソース設定
+# enabled: false にすると個別に無効化できます
+# -----------------------------------------------------------
+news_sources:
+  - name: "Google News (日本語)"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    # site_filter なし = 全ニュースサイト対象
+
+  - name: "Reuters"
+    type: google_news
+    enabled: true
+    language: en
+    country: US
+    site_filter: "reuters.com"
+
+  - name: "Bloomberg"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    site_filter: "bloomberg.co.jp"
+
+  - name: "PR TIMES"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    site_filter: "prtimes.jp"
+
+# -----------------------------------------------------------
+# 類似記事グループ化設定
+# -----------------------------------------------------------
+# 類似度しきい値 (0.0〜1.0)
+# 高いほど厳密（まとめにくくなる） / 低いほど積極的にまとめる
+# 推奨: 0.6〜0.75
+similarity_threshold: 0.65
+
+# 1ソース・1キーワードあたりの最大取得件数
+max_articles_per_source: 30
+
+# -----------------------------------------------------------
+# 状態管理設定
+# -----------------------------------------------------------
+state:
+  # この日数より古い既読記事を状態ファイルから削除
+  cleanup_days: 7
+
+# -----------------------------------------------------------
+# Discord通知設定
+# -----------------------------------------------------------
+discord:
+  # 1メッセージあたりの最大Embed数（Discord上限: 10）
+  max_embeds_per_message: 10
+  # メッセージ間の待機秒数（レート制限対策）
+  delay_between_messages: 1.5
+
+# -----------------------------------------------------------
+# AI要約設定
+# ANTHROPIC_API_KEY が未設定の場合は自動でスキップ
+# -----------------------------------------------------------
+summarization:
+  enabled: true
+  # Gemini 2.0 Flash（無料枠あり）
+  # 無料枠: 15 RPM / 1,500 RPD / 1M TPD
+  model: "gemini-2.0-flash"
+  # 要約の言語指示
+  language: "日本語"

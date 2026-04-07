@@ -1,0 +1,15 @@
+# 環境変数（絶対にコミットしないこと）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# ログ（容量が大きい場合はコメントアウト解除）
+# logs/*.log
+# logs/*.log.*

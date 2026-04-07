@@ -4,7 +4,9 @@ All sources (Reuters, Bloomberg, PR TIMES, general) use Google News RSS
 for maximum stability and zero cost.
 """
 
+import html as html_mod
 import logging
+import re
 import time
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -46,6 +48,14 @@ class Article:
 # ------------------------------------------------------------------
 
 
+def _strip_html(text: str) -> str:
+    """Remove HTML tags and decode entities."""
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html_mod.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def _parse_published(entry) -> Optional[datetime]:
     if hasattr(entry, "published_parsed") and entry.published_parsed:
         try:
@@ -75,7 +85,7 @@ def _fetch_rss(url: str, company: str, source_name: str, max_items: int) -> list
 
             desc = None
             if hasattr(entry, "summary") and entry.summary:
-                desc = entry.summary[:600]
+                desc = _strip_html(entry.summary)[:400] or None
 
             articles.append(
                 Article(

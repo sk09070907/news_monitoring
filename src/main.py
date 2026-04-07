@@ -13,6 +13,7 @@ Environment variables required:
 import logging
 import os
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # Allow importing sibling modules without installing the package
@@ -81,6 +82,18 @@ def main() -> None:
     # ---- Fetch articles --------------------------------------------
     all_articles = fetch_all_articles(companies, settings)
     logger.info(f"RSS 取得件数: {len(all_articles)}")
+
+    # ---- Date filter: drop articles older than max_article_age_hours ----
+    max_age_hours: int = settings.get("max_article_age_hours", 48)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    before = len(all_articles)
+    all_articles = [
+        a for a in all_articles
+        if a.published is None or a.published >= cutoff
+    ]
+    dropped = before - len(all_articles)
+    if dropped:
+        logger.info(f"日付フィルタ: {dropped} 件を除外 ({max_age_hours}時間以上前の記事)")
 
     # ---- Filter already-seen articles ------------------------------
     state = StateManager()

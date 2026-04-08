@@ -198,5 +198,24 @@ def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
             seen_urls.add(a.url)
             unique.append(a)
 
-    logger.info(f"RSS 取得完了: 全{len(all_articles)}件 → URL重複除去後 {len(unique)}件")
-    return unique
+    # Relevance filter: title or description must contain at least one keyword
+    # Prevents Google News noise (unrelated articles that happen to rank in search)
+    keyword_map: dict[str, list[str]] = {
+        cfg["name"]: _extract_keywords(cfg) for cfg in companies
+    }
+    relevant: list[Article] = []
+    noise_count = 0
+    for a in unique:
+        keywords_for_company = keyword_map.get(a.company, [])
+        text = (a.title + " " + (a.description or "")).lower()
+        if any(kw.lower() in text for kw in keywords_for_company):
+            relevant.append(a)
+        else:
+            noise_count += 1
+            logger.debug(f"ノイズ除外: [{a.company}] {a.title[:60]}")
+
+    if noise_count:
+        logger.info(f"関連性フィルタ: {noise_count} 件のノイズを除外 ({len(relevant)} 件残)")
+
+    logger.info(f"RSS 取得完了: 全{len(all_articles)}件 → 重複除去・ノイズ除外後 {len(relevant)}件")
+    return relevant

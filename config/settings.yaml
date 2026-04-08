@@ -73,8 +73,9 @@ discord:
 # -----------------------------------------------------------
 summarization:
   enabled: true
-  # Gemini 2.0 Flash（無料枠あり）
-  # 無料枠: 15 RPM / 1,500 RPD / 1M TPD
-  model: "gemini-2.0-flash"
+  # Groq（無料枠: 30 RPM / 14,400 RPD）
+  # 他のモデル候補: llama-3.1-8b-instant（より高速・軽量）
+  model: "llama-3.3-70b-versatile"
+  max_tokens: 300
   # 要約の言語指示
   language: "日本語"

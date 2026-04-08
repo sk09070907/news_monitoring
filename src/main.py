@@ -114,13 +114,13 @@ def main() -> None:
     groups = deduplicate_and_group(new_articles, settings)
 
     # ---- AI summarization ------------------------------------------
-    api_key = os.environ.get("GOOGLE_API_KEY", "")
+    api_key = os.environ.get("GROQ_API_KEY", "")
     if api_key and settings.get("summarization", {}).get("enabled", True):
         logger.info("AI 要約を生成中...")
         groups = summarize_articles(groups, api_key, settings)
     else:
         if not api_key:
-            logger.warning("GOOGLE_API_KEY 未設定 → AI 要約をスキップ")
+            logger.warning("GROQ_API_KEY 未設定 → AI 要約をスキップ")
 
     # ---- Discord notifications -------------------------------------
     webhook_url = os.environ.get("DISCORD_WEBHOOK_URL", "")

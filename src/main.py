@@ -95,6 +95,18 @@ def main() -> None:
     if dropped:
         logger.info(f"日付フィルタ: {dropped} 件を除外 ({max_age_hours}時間以上前の記事)")
 
+    # ---- Title exclude filter --------------------------------------
+    exclude_patterns: list[str] = settings.get("title_exclude_patterns", [])
+    if exclude_patterns:
+        before = len(all_articles)
+        all_articles = [
+            a for a in all_articles
+            if not any(p in a.title for p in exclude_patterns)
+        ]
+        dropped = before - len(all_articles)
+        if dropped:
+            logger.info(f"タイトル除外フィルタ: {dropped} 件を除外")
+
     # ---- Filter already-seen articles ------------------------------
     state = StateManager()
     new_articles = state.filter_new(all_articles)

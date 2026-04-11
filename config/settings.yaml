@@ -74,6 +74,27 @@ news_sources:
     country: JP
     site_filter: "release.nikkei.co.jp"
 
+  - name: "時事通信"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    site_filter: "jiji.com"
+
+  - name: "NHK"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    site_filter: "nhk.or.jp"
+
+  - name: "日刊工業新聞"
+    type: google_news
+    enabled: true
+    language: ja
+    country: JP
+    site_filter: "nikkan.co.jp"
+
 # -----------------------------------------------------------
 # タイトル除外フィルタ
 # タイトルにこれらの文字列が含まれる記事は通知しない
@@ -153,7 +174,7 @@ title_exclude_patterns:
 # 類似度しきい値 (0.0〜1.0)
 # 高いほど厳密（まとめにくくなる） / 低いほど積極的にまとめる
 # 推奨: 0.6〜0.75
-similarity_threshold: 0.65
+similarity_threshold: 0.75
 
 # 1ソース・1キーワードあたりの最大取得件数
 max_articles_per_source: 30

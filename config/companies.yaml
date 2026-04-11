@@ -4,36 +4,617 @@
 # ============================================================
 #
 # 【フィールド説明】
-#   name         : 表示名（Discord通知に使用）※必須
-#   official     : 正式名称（例: 三井物産株式会社）
-#   english      : 英語名（例: Mitsui & Co）
-#   short        : 略称（name と異なる場合のみ）
-#   ticker       : ティッカーシンボル（例: MITSY）
-#   code         : 証券コード（例: 8031）
-#   extra        : 上記以外に検索したい追加キーワード（リスト形式）
+#   name    : 表示名（Discord通知に使用）※必須
+#   english : 英語名（Reuters・Bloomberg等の英語記事をカバー）
+#   short   : 略称（SMBCなど。nameと異なる場合のみ）
+#   code    : 証券コード（任意）
+#   extra   : その他追加キーワード（リスト形式、任意）
 #
-# ※ official / english / ticker / code はすべて検索キーワードとして使用されます
+# ※ 社会福祉法人・投資法人は除外済み
 # ============================================================
 
 companies:
+
+  # ── 総合商社 ────────────────────────────────────────────
   - name: "三井物産"
-    official: "三井物産株式会社"
     english: "Mitsui & Co"
-    ticker: "MITSY"
     code: "8031"
 
   - name: "三菱商事"
-    official: "三菱商事株式会社"
     english: "Mitsubishi Corporation"
-    ticker: "MSBHF"
     code: "8058"
 
-  # 追加テンプレート:
+  - name: "伊藤忠商事"
+    english: "Itochu Corporation"
+    short: "伊藤忠"
+    code: "8001"
+
+  - name: "住友商事"
+    english: "Sumitomo Corporation"
+    short: "住商"
+    code: "8053"
+
+  - name: "豊田通商"
+    english: "Toyota Tsusho"
+    code: "8015"
+
+  # ── 通信 ────────────────────────────────────────────────
+  - name: "NTT"
+    english: "Nippon Telegraph and Telephone"
+    extra:
+      - "日本電信電話"
+    code: "9432"
+
+  # ── 建設・エンジニアリング ──────────────────────────────
+  - name: "太平洋開発"
+    english: "Taiheiyo Development"
+
+  - name: "鹿島建設"
+    english: "Kajima Corporation"
+    short: "鹿島"
+    code: "1812"
+
+  - name: "三機工業"
+    english: "Sanki Engineering"
+    code: "1961"
+
+  - name: "東洋エンジニアリング"
+    english: "Toyo Engineering"
+    short: "TEC"
+    code: "6330"
+
+  # ── 食品・飲料 ──────────────────────────────────────────
+  - name: "サッポロホールディングス"
+    english: "Sapporo Holdings"
+    short: "サッポロ"
+    code: "2501"
+
+  - name: "アサヒグループホールディングス"
+    english: "Asahi Group Holdings"
+    short: "アサヒ"
+    code: "2502"
+
+  - name: "ニップン"
+    english: "Nippn Corporation"
+    extra:
+      - "日本製粉"
+    code: "2001"
+
+  # ── 紙・パルプ ──────────────────────────────────────────
+  - name: "日本製紙"
+    english: "Nippon Paper Industries"
+    code: "3893"
+
+  - name: "王子ホールディングス"
+    english: "Oji Holdings"
+    extra:
+      - "王子製紙"
+    code: "3861"
+
+  # ── 化学 ────────────────────────────────────────────────
+  - name: "東亞合成"
+    english: "Toagosei"
+    code: "4045"
+
+  - name: "デンカ"
+    english: "Denka Company"
+    code: "4061"
+
+  - name: "三井化学"
+    english: "Mitsui Chemicals"
+    code: "4183"
+
+  - name: "ダイセル"
+    english: "Daicel Corporation"
+    code: "4202"
+
+  - name: "日本化学産業"
+    english: "Nippon Chemical Industrial"
+    code: "4092"
+
+  - name: "大日精化工業"
+    english: "Dainichiseika Color & Chemicals"
+    code: "4116"
+
+  # ── エネルギー（石油・ガス） ────────────────────────────
+  - name: "ENEOSホールディングス"
+    english: "ENEOS Holdings"
+    short: "ENEOS"
+    code: "5020"
+
+  - name: "ミツウロコグループホールディングス"
+    english: "Mitsuiuroko Group Holdings"
+    short: "ミツウロコ"
+
+  - name: "東京瓦斯"
+    english: "Tokyo Gas"
+    short: "東京ガス"
+    code: "9531"
+
+  - name: "大阪瓦斯"
+    english: "Osaka Gas"
+    short: "大阪ガス"
+    code: "9532"
+
+  - name: "西部瓦斯"
+    english: "Saibu Gas"
+    short: "西部ガス"
+    code: "9536"
+
+  - name: "広島ガス"
+    english: "Hiroshima Gas"
+
+  # ── セメント・建材 ──────────────────────────────────────
+  - name: "太平洋セメント"
+    english: "Taiheiyo Cement"
+    code: "5233"
+
+  # ── 鉄鋼・金属 ──────────────────────────────────────────
+  - name: "JFEホールディングス"
+    english: "JFE Holdings"
+    short: "JFE"
+    code: "5411"
+
+  - name: "日本製鋼所"
+    english: "Japan Steel Works"
+    short: "JSW"
+    code: "5631"
+
+  - name: "三井金属鉱業"
+    english: "Mitsui Mining & Smelting"
+    short: "三井金属"
+    code: "5706"
+
+  # ── 電線・電子部品 ──────────────────────────────────────
+  - name: "フジクラ"
+    english: "Fujikura"
+    code: "5803"
+
+  - name: "アルプスアルパイン"
+    english: "Alps Alpine"
+    code: "6770"
+
+  - name: "ジーエス・ユアサコーポレーション"
+    english: "GS Yuasa"
+    short: "GSユアサ"
+    code: "6674"
+
+  # ── 電機・重工業 ────────────────────────────────────────
+  - name: "東芝"
+    english: "Toshiba"
+    code: "6502"
+
+  - name: "東光高岳"
+    english: "Toko Electric"
+
+  - name: "京三製作所"
+    english: "Kyosan Electric Manufacturing"
+    code: "6742"
+
+  - name: "IHI"
+    english: "IHI Corporation"
+    code: "7013"
+
+  - name: "アイ・エイチ・アイ・エアロスペース"
+    english: "IHI Aerospace"
+    short: "IHIエアロスペース"
+
+  - name: "三井E&S"
+    english: "Mitsui E&S"
+    code: "7003"
+
+  - name: "東京計器"
+    english: "Tokyo Keiki"
+    code: "7721"
+
+  # ── 自動車・輸送機器 ────────────────────────────────────
+  - name: "トヨタ自動車"
+    english: "Toyota Motor"
+    short: "トヨタ"
+    code: "7203"
+
+  - name: "アイシン"
+    english: "Aisin"
+    code: "7259"
+
+  # ── 精密機器・文具 ──────────────────────────────────────
+  - name: "パイロットコーポレーション"
+    english: "Pilot Corporation"
+    short: "Pilot"
+    code: "7846"
+
+  # ── 楽天グループ ────────────────────────────────────────
+  - name: "楽天"
+    english: "Rakuten Group"
+    extra:
+      - "楽天グループ"
+    code: "4755"
+
+  - name: "楽天信託"
+    english: "Rakuten Trust"
+
+  - name: "楽天カード"
+    english: "Rakuten Card"
+
+  # ── 流通・小売 ──────────────────────────────────────────
+  - name: "イオン"
+    english: "Aeon"
+    code: "8267"
+
+  - name: "イオンモール"
+    english: "Aeon Mall"
+    code: "8905"
+
+  # ── 鉄道・交通 ──────────────────────────────────────────
+  - name: "東日本旅客鉄道"
+    english: "East Japan Railway"
+    short: "JR東日本"
+    extra:
+      - "JR East"
+    code: "9020"
+
+  - name: "東海旅客鉄道"
+    english: "Central Japan Railway"
+    short: "JR東海"
+    extra:
+      - "JR Central"
+    code: "9022"
+
+  - name: "西日本旅客鉄道"
+    english: "West Japan Railway"
+    short: "JR西日本"
+    extra:
+      - "JR West"
+    code: "9021"
+
+  - name: "西武ホールディングス"
+    english: "Seibu Holdings"
+    short: "西武"
+    code: "9024"
+
+  - name: "近畿日本鉄道"
+    english: "Kintetsu"
+    short: "近鉄"
+
+  - name: "近鉄グループホールディングス"
+    english: "Kintetsu Group Holdings"
+    short: "近鉄グループ"
+    code: "9041"
+
+  - name: "阪急阪神ホールディングス"
+    english: "Hankyu Hanshin Holdings"
+    short: "阪急阪神"
+    code: "9042"
+
+  - name: "京成ホールディングス"
+    english: "Keisei Holdings"
+    short: "京成"
+    code: "9009"
+
+  # ── 物流・倉庫 ──────────────────────────────────────────
+  - name: "センコーグループホールディングス"
+    english: "Senko Group Holdings"
+    short: "センコー"
+    code: "9069"
+
+  - name: "商船三井"
+    english: "Mitsui O.S.K. Lines"
+    short: "MOL"
+    code: "9104"
+
+  - name: "三井倉庫ホールディングス"
+    english: "Mitsui-Soko Holdings"
+    short: "三井倉庫"
+    code: "9302"
+
+  # ── 電力 ────────────────────────────────────────────────
+  - name: "東京電力ホールディングス"
+    english: "Tokyo Electric Power"
+    short: "東電"
+    extra:
+      - "TEPCO"
+    code: "9501"
+
+  - name: "東京電力パワーグリッド"
+    english: "TEPCO Power Grid"
+    extra:
+      - "TEPCO PG"
+
+  - name: "東京電力エナジーパートナー"
+    english: "TEPCO Energy Partner"
+    extra:
+      - "TEPCO EP"
+
+  - name: "東京電力リニューアブルパワー"
+    english: "TEPCO Renewable Power"
+    extra:
+      - "TEPCO RP"
+
+  - name: "関西電力"
+    english: "Kansai Electric Power"
+    short: "関電"
+    extra:
+      - "KEPCO"
+    code: "9503"
+
+  - name: "中部電力"
+    english: "Chubu Electric Power"
+    short: "中電"
+    extra:
+      - "CHUDEN"
+    code: "9502"
+
+  - name: "中国電力"
+    english: "Chugoku Electric Power"
+    code: "9504"
+
+  - name: "北陸電力"
+    english: "Hokuriku Electric Power"
+    code: "9505"
+
+  - name: "東北電力"
+    english: "Tohoku Electric Power"
+    code: "9506"
+
+  - name: "四国電力"
+    english: "Shikoku Electric Power"
+    extra:
+      - "よんでんグループ"
+    code: "9507"
+
+  - name: "九州電力"
+    english: "Kyushu Electric Power"
+    short: "九電"
+    code: "9508"
+
+  - name: "北海道電力"
+    english: "Hokkaido Electric Power"
+    short: "北電"
+    code: "9509"
+
+  # ── 原子力・エネルギー ──────────────────────────────────
+  - name: "日本原子力発電"
+    english: "Japan Atomic Power"
+    short: "日本原電"
+    extra:
+      - "JAPC"
+
+  - name: "日本原燃"
+    english: "Japan Nuclear Fuel"
+    extra:
+      - "JNFL"
+
+  # ── 銀行 ────────────────────────────────────────────────
+  - name: "三菱UFJフィナンシャル・グループ"
+    english: "Mitsubishi UFJ Financial Group"
+    short: "MUFG"
+    code: "8306"
+
+  - name: "三菱UFJ銀行"
+    english: "MUFG Bank"
+    extra:
+      - "Bank of Tokyo-Mitsubishi UFJ"
+
+  - name: "三菱UFJ信託銀行"
+    english: "Mitsubishi UFJ Trust and Banking"
+    short: "MUTB"
+
+  - name: "三井住友フィナンシャルグループ"
+    english: "Sumitomo Mitsui Financial Group"
+    short: "SMFG"
+    code: "8316"
+
+  - name: "三井住友銀行"
+    english: "Sumitomo Mitsui Banking Corporation"
+    short: "SMBC"
+
+  - name: "みずほフィナンシャルグループ"
+    english: "Mizuho Financial Group"
+    short: "みずほFG"
+    code: "8411"
+
+  - name: "みずほ銀行"
+    english: "Mizuho Bank"
+
+  - name: "SBI新生銀行"
+    english: "SBI Shinsei Bank"
+    extra:
+      - "新生銀行"
+    code: "8303"
+
+  - name: "あおぞら銀行"
+    english: "Aozora Bank"
+    code: "8304"
+
+  - name: "山陰合同銀行"
+    english: "San-in Godo Bank"
+    short: "ごうぎん"
+    code: "8381"
+
+  - name: "名古屋銀行"
+    english: "Bank of Nagoya"
+    code: "8522"
+
+  - name: "西京銀行"
+    english: "Saikyo Bank"
+    code: "8383"
+
+  - name: "愛媛銀行"
+    english: "Ehime Bank"
+    code: "8541"
+
+  - name: "農林中央金庫"
+    english: "Norinchukin Bank"
+    short: "農中"
+
+  - name: "日本政策投資銀行"
+    english: "Development Bank of Japan"
+    short: "DBJ"
+
+  # ── 信託・信用金庫 ──────────────────────────────────────
+  - name: "三井住友トラストグループ"
+    english: "Sumitomo Mitsui Trust Holdings"
+    short: "三井住友トラスト"
+    code: "8309"
+
+  - name: "三井住友信託銀行"
+    english: "Sumitomo Mitsui Trust Bank"
+    short: "SMTB"
+
+  - name: "京都信用金庫"
+    english: "Kyoto Shinkin Bank"
+    short: "京信"
+
+  - name: "京都中央信用金庫"
+    english: "Kyoto Chuo Shinkin Bank"
+
+  # ── 証券 ────────────────────────────────────────────────
+  - name: "野村ホールディングス"
+    english: "Nomura Holdings"
+    short: "野村"
+    code: "8604"
+
+  - name: "大和証券グループ本社"
+    english: "Daiwa Securities Group"
+    short: "大和証券"
+    code: "8601"
+
+  - name: "SBIホールディングス"
+    english: "SBI Holdings"
+    short: "SBI"
+    code: "8473"
+
+  # ── 保険 ────────────────────────────────────────────────
+  - name: "日本生命保険相互会社"
+    english: "Nippon Life Insurance"
+    short: "ニッセイ"
+    extra:
+      - "日本生命"
+
+  # ── クレジット・信販・リース ────────────────────────────
+  - name: "クレディセゾン"
+    english: "Credit Saison"
+    short: "セゾン"
+    code: "8253"
+
+  - name: "オリックス"
+    english: "ORIX"
+    code: "8591"
+
+  - name: "ジャックス"
+    english: "JACCS"
+    code: "8584"
+
+  - name: "オリエントコーポレーション"
+    english: "Orient Corporation"
+    short: "オリコ"
+    code: "8585"
+
+  - name: "オリコプロダクトファイナンス"
+    english: "Orico Product Finance"
+
+  - name: "ジェーシービー"
+    english: "JCB"
+    extra:
+      - "Japan Credit Bureau"
+
+  - name: "東京センチュリー"
+    english: "Tokyo Century"
+    code: "8439"
+
+  - name: "三井住友ファイナンス＆リース"
+    english: "Sumitomo Mitsui Finance and Leasing"
+    short: "SMFL"
+
+  - name: "三井住友トラスト・パナソニックファイナンス"
+    english: "Sumitomo Mitsui Trust Panasonic Finance"
+    short: "SMTPF"
+
+  - name: "JA三井リース"
+    english: "JA Mitsui Leasing"
+
+  - name: "JECC"
+    english: "Japan Electronic Computer Company"
+
+  - name: "アコム"
+    english: "ACOM"
+    code: "8572"
+
+  - name: "芙蓉総合リース"
+    english: "Fuyo General Lease"
+    code: "8424"
+
+  - name: "トヨタファイナンス"
+    english: "Toyota Finance"
+
+  - name: "アプラス"
+    english: "Aplus"
+
+  - name: "TBJH"
+    english: "TBJH"
+
+  # ── 不動産 ──────────────────────────────────────────────
+  - name: "三井不動産"
+    english: "Mitsui Fudosan"
+    code: "8801"
+
+  - name: "野村不動産ホールディングス"
+    english: "Nomura Real Estate Holdings"
+    short: "野村不動産"
+    code: "3231"
+
+  - name: "森ビル"
+    english: "Mori Building"
+
+  - name: "森トラスト・ホールディングス"
+    english: "Mori Trust Holdings"
+    short: "森トラスト"
+
+  - name: "ザイマックスグループ"
+    english: "Xymax Group"
+    short: "ザイマックス"
+
+  - name: "ザイマックス"
+    english: "Xymax"
+
+  - name: "室町建物"
+    english: "Muromachi Tatemono"
+
+  - name: "室町殖産"
+    english: "Muromachi Shokusan"
+
+  - name: "銀泉"
+    english: "Ginsen"
+
+  # ── エンタメ・メディア ────────────────────────────────────
+  - name: "東映"
+    english: "Toei Company"
+    code: "9605"
+
+  # ── 医療 ────────────────────────────────────────────────
+  - name: "三井記念病院"
+    english: "Mitsui Memorial Hospital"
+
+  # ── REIT・不動産ファンド ────────────────────────────────
+  - name: "日本ビルファンド"
+    english: "Nippon Building Fund"
+    extra:
+      - "NBF"
+
+  - name: "三井不動産アコモデーションファンド"
+    english: "Mitsui Fudosan Accommodation Fund"
+
+  - name: "ニッセイプライベートリート"
+    english: "Nissay Private REIT"
+
+  # ── その他 ──────────────────────────────────────────────
+  - name: "アイマル"
+    english: "Aimaru"
+
+  # 企業を追加する場合は以下の形式でコピーして追加してください:
   # - name: "企業表示名"
-  #   official: "正式名称株式会社"
   #   english: "English Name"
-  #   short: "略称"          # name と同じなら省略可
-  #   ticker: "TICKER"       # 東証・NYSE等のティッカー（任意）
-  #   code: "0000"           # 証券コード（任意）
-  #   extra:                 # その他のキーワード（任意）
-  #     - "別名・旧社名など"
+  #   short: "略称"       # 任意
+  #   code: "0000"        # 任意
+  #   extra:              # 任意
+  #     - "別名"

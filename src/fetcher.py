@@ -135,6 +135,7 @@ def _extract_keywords(company_cfg: dict) -> list[str]:
     """
     name: str = company_cfg.get("name", "")
     candidates = [
+        name,                            # 表示名を常に先頭に含める
         company_cfg.get("official", ""),
         company_cfg.get("english", ""),
         company_cfg.get("short", ""),

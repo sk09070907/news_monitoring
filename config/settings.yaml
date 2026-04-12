@@ -104,6 +104,14 @@ title_exclude_patterns:
   - "AI値動き解説"
   - "FISCO銘柄コメント"
   - "アナリスト評価"
+  # 人事異動
+  - "人事異動"
+  - "人事"
+  - "就任"
+  - "退任"
+  - "社長交代"
+  # Reuters株価ページ（"About XXX - Reuters"形式）
+  - "About "
   # スポーツ種目
   - "サッカー"
   - "野球"

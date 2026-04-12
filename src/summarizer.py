@@ -26,13 +26,13 @@ def _build_prompt(group: ArticleGroup, language: str = "日本語") -> str:
         multi_source_note = "\n\n【複数メディアが報道】\n" + "\n".join(lines)
 
     return (
-        f"以下のニュースを{language}で2〜3文に要約してください。\n"
-        "重要な数字・企業への影響・背景があれば含めてください。\n"
+        f"以下のニュース記事の内容を{language}で2〜3文に要約してください。\n"
+        "【重要】記事に書かれている出来事・事実・数字のみを要約すること。"
+        "企業の一般的な説明や背景知識は一切不要。\n"
         "箇条書きは使わず、自然な文章で答えてください。\n"
         f"{multi_source_note}\n\n"
-        f"企業名: {primary.company}\n"
         f"タイトル: {primary.title}\n"
-        f"内容: {content}\n\n"
+        f"記事内容: {content}\n\n"
         "要約:"
     )
 

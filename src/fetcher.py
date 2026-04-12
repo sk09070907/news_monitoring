@@ -2,13 +2,15 @@
 Fetches news articles from Google News RSS feeds.
 All sources (Reuters, Bloomberg, PR TIMES, general) use Google News RSS
 for maximum stability and zero cost.
+Requests are parallelized with ThreadPoolExecutor to stay within GitHub Actions timeout.
 """
 
 import html as html_mod
 import logging
 import re
 import time
-from dataclasses import dataclass, field
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Optional
 from urllib.parse import quote
@@ -21,10 +23,11 @@ logger = logging.getLogger(__name__)
 _HTTP_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; NewsMonitor/1.0; "
-        "+https://github.com/your-username/monitoring_news_claude)"
+        "+https://github.com/sk09070907/news_monitoring)"
     )
 }
 _REQUEST_TIMEOUT = 20  # seconds
+_MAX_WORKERS = 5       # parallel RSS fetches (too high causes SSL errors from Google)
 
 
 # ------------------------------------------------------------------
@@ -120,33 +123,21 @@ def _build_google_news_url(keyword: str, site_filter: str, language: str, countr
     )
 
 
-# ------------------------------------------------------------------
-# Public API
-# ------------------------------------------------------------------
-
-
 def _extract_keywords(company_cfg: dict) -> list[str]:
     """
     Build a deduplicated keyword list from all name fields.
-
-    Field priority (all non-empty values become search keywords):
-      official, english, short, ticker, code, extra[]
-    If none are set, falls back to `name`.
     """
     name: str = company_cfg.get("name", "")
     candidates = [
-        name,                            # 表示名を常に先頭に含める
+        name,
         company_cfg.get("official", ""),
         company_cfg.get("english", ""),
         company_cfg.get("short", ""),
         company_cfg.get("ticker", ""),
         company_cfg.get("code", ""),
-        # legacy flat keywords list (backwards compatible)
         *company_cfg.get("keywords", []),
-        # new extra list
         *company_cfg.get("extra", []),
     ]
-    # Keep insertion order, drop empty strings and duplicates
     seen: set[str] = set()
     result: list[str] = []
     for kw in candidates:
@@ -157,39 +148,62 @@ def _extract_keywords(company_cfg: dict) -> list[str]:
     return result or [name]
 
 
+# ------------------------------------------------------------------
+# Public API
+# ------------------------------------------------------------------
+
+
 def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
     """
     Fetch articles for all companies from all configured sources.
-    Returns a deduplicated list of Article objects.
+    Uses ThreadPoolExecutor for parallel RSS fetching.
     """
     sources = [s for s in settings.get("news_sources", []) if s.get("enabled", True)]
     max_per_source = settings.get("max_articles_per_source", 30)
 
-    all_articles: list[Article] = []
+    # Build all (url, company_name, source_name) tasks upfront
+    # Key optimization: use only ONE search keyword per source per company
+    #   - Japanese sources → search by `name` (日本語名)
+    #   - English sources  → search by `english` (英語名), fallback to `name`
+    # All other keywords (short, code, extra...) are used only in the relevance filter.
+    # This reduces requests from ~(keywords × sources) to (1 × sources) per company.
+    tasks: list[tuple[str, str, str]] = []
+    keyword_map: dict[str, list[str]] = {}
 
     for company_cfg in companies:
         company_name: str = company_cfg["name"]
-        keywords: list[str] = _extract_keywords(company_cfg)
+        keyword_map[company_name] = _extract_keywords(company_cfg)
 
-        for keyword in keywords:
-            for source in sources:
-                source_type = source.get("type", "google_news")
+        ja_keyword = company_cfg.get("name", "")
+        en_keyword = company_cfg.get("english", "") or company_cfg.get("name", "")
 
-                if source_type == "google_news":
-                    url = _build_google_news_url(
-                        keyword=keyword,
-                        site_filter=source.get("site_filter", ""),
-                        language=source.get("language", "ja"),
-                        country=source.get("country", "JP"),
-                    )
-                    articles = _fetch_rss(url, company_name, source["name"], max_per_source)
-                    all_articles.extend(articles)
-                else:
-                    logger.warning(f"未知のソースタイプ: {source_type}")
+        for source in sources:
+            if source.get("type", "google_news") != "google_news":
+                continue
+            lang = source.get("language", "ja")
+            keyword = en_keyword if lang == "en" else ja_keyword
+            url = _build_google_news_url(
+                keyword=keyword,
+                site_filter=source.get("site_filter", ""),
+                language=lang,
+                country=source.get("country", "JP"),
+            )
+            tasks.append((url, company_name, source["name"]))
 
-                time.sleep(0.8)  # Polite delay between requests
+    logger.info(f"RSS フェッチ開始: {len(tasks)} リクエスト / 並列数 {_MAX_WORKERS}")
 
-            time.sleep(0.5)  # Delay between keywords
+    all_articles: list[Article] = []
+    with ThreadPoolExecutor(max_workers=_MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(_fetch_rss, url, company, source_name, max_per_source): (company, source_name)
+            for url, company, source_name in tasks
+        }
+        for future in as_completed(futures):
+            try:
+                all_articles.extend(future.result())
+            except Exception as e:
+                company, source_name = futures[future]
+                logger.error(f"フェッチ失敗 ({source_name} / {company}): {e}")
 
     # Deduplicate by exact URL
     seen_urls: set[str] = set()
@@ -200,10 +214,6 @@ def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
             unique.append(a)
 
     # Relevance filter: title or description must contain at least one keyword
-    # Prevents Google News noise (unrelated articles that happen to rank in search)
-    keyword_map: dict[str, list[str]] = {
-        cfg["name"]: _extract_keywords(cfg) for cfg in companies
-    }
     relevant: list[Article] = []
     noise_count = 0
     for a in unique:
@@ -216,7 +226,7 @@ def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
             logger.debug(f"ノイズ除外: [{a.company}] {a.title[:60]}")
 
     if noise_count:
-        logger.info(f"関連性フィルタ: {noise_count} 件のノイズを除外 ({len(relevant)} 件残)")
+        logger.info(f"関連性フィルタ: {noise_count} 件のノイズを除外")
 
-    logger.info(f"RSS 取得完了: 全{len(all_articles)}件 → 重複除去・ノイズ除外後 {len(relevant)}件")
+    logger.info(f"RSS 取得完了: 全{len(all_articles)}件 → 重複・ノイズ除外後 {len(relevant)}件")
     return relevant

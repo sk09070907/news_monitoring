@@ -47,7 +47,13 @@ jobs:
         run: pip install -r requirements.txt
 
       # --------------------------------------------------------
-      # 3. ニュースモニタリング実行
+      # 3. 企業リストをSecretから復元
+      # --------------------------------------------------------
+      - name: Restore companies config from secret
+        run: echo "${{ secrets.COMPANIES_YAML }}" > config/companies.yaml
+
+      # --------------------------------------------------------
+      # 4. ニュースモニタリング実行
       # --------------------------------------------------------
       - name: Run news monitor
         env:

@@ -10,6 +10,6 @@ __pycache__/
 venv/
 env/
 
-# ログ（容量が大きい場合はコメントアウト解除）
-# logs/*.log
-# logs/*.log.*
+# ログ（競合防止のためgit管理外）
+logs/*.log
+logs/*.log.*

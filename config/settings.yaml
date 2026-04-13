@@ -110,8 +110,10 @@ title_exclude_patterns:
   - "就任"
   - "退任"
   - "社長交代"
-  # Reuters株価ページ（"About XXX - Reuters"形式）
+  # Reuters株価・銘柄ページ
   - "About "
+  - "Stock Price"
+  - "Share Price"
   # スポーツ種目
   - "サッカー"
   - "野球"

@@ -18,16 +18,19 @@ from processor import ArticleGroup
 
 logger = logging.getLogger(__name__)
 
+# 重要記事の色
+_IMPORTANT_COLOR = 0xFF0000  # 赤
+
 # Palette of Discord embed colors cycled per company
 _PALETTE = [
     0x5865F2,  # Blurple
-    0xED4245,  # Red
     0x57F287,  # Green
     0xFEE75C,  # Yellow
     0xEB459E,  # Fuchsia
     0x9B59B6,  # Purple
     0xE67E22,  # Orange
     0x1ABC9C,  # Teal
+    0x3498DB,  # Blue
 ]
 
 
@@ -45,15 +48,27 @@ def _fmt_published(article) -> str:
 def _build_embed(group: ArticleGroup, color: int) -> dict:
     primary = group.primary
 
+    # 重要記事は色を赤に上書き
+    if group.is_important:
+        color = _IMPORTANT_COLOR
+
     # Description: AI summary → description → title (fallback)
     description = (group.ai_summary or primary.description or primary.title).strip()
     if len(description) > 350:
         description = description[:347] + "…"
 
+    # 重要ラベルとAIスコアをフッターに追加
+    footer_parts = [f"🏢 {group.company}"]
+    if group.is_important:
+        footer_parts.append("⚠️ 重要")
+    if group.importance_score > 0:
+        footer_parts.append(f"重要度: {'★' * group.importance_score}{'☆' * (5 - group.importance_score)}")
+    footer_text = "　".join(footer_parts)
+
     embed: dict = {
         "color": color,
         "description": description,
-        "footer": {"text": f"🏢 {group.company}"},
+        "footer": {"text": footer_text},
     }
 
     if primary.published:
@@ -61,7 +76,10 @@ def _build_embed(group: ArticleGroup, color: int) -> dict:
 
     if len(group.articles) == 1:
         # ---- Single source ----------------------------------------
-        embed["title"] = primary.title[:256]
+        title = primary.title[:256]
+        if group.is_important:
+            title = ("⚠️ " + primary.title)[:256]
+        embed["title"] = title
         embed["url"] = primary.url
         embed["fields"] = [
             {"name": "ソース", "value": primary.source, "inline": True},
@@ -69,7 +87,10 @@ def _build_embed(group: ArticleGroup, color: int) -> dict:
         ]
     else:
         # ---- Multiple sources (same story) ------------------------
-        embed["title"] = f"[{len(group.articles)}メディア] {primary.title[:220]}"
+        base_title = f"[{len(group.articles)}メディア] {primary.title[:220]}"
+        if group.is_important:
+            base_title = ("⚠️ " + base_title)[:256]
+        embed["title"] = base_title
         source_lines = [
             f"・[{a.source}]({a.url})" for a in group.articles[:8]
         ]

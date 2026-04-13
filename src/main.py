@@ -125,6 +125,17 @@ def main() -> None:
     # ---- Group similar articles ------------------------------------
     groups = deduplicate_and_group(new_articles, settings)
 
+    # ---- Keyword-based importance detection ------------------------
+    importance_keywords: list[str] = settings.get("importance_keywords", [])
+    if importance_keywords:
+        for group in groups:
+            text = (group.title + " " + (group.primary.description or "")).lower()
+            if any(kw in text for kw in importance_keywords):
+                group.is_important = True
+        important_count = sum(1 for g in groups if g.is_important)
+        if important_count:
+            logger.info(f"重要記事（キーワード判定）: {important_count} 件")
+
     # ---- AI summarization ------------------------------------------
     api_key = os.environ.get("GROQ_API_KEY", "")
     if api_key and settings.get("summarization", {}).get("enabled", True):

@@ -29,6 +29,8 @@ logger = logging.getLogger(__name__)
 class ArticleGroup:
     articles: list[Article] = field(default_factory=list)
     ai_summary: str = ""
+    is_important: bool = False      # キーワードまたはAIスコアで重要と判定
+    importance_score: int = 0       # AIスコア 1-5 (0=未判定)
 
     @property
     def primary(self) -> Article:

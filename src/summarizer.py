@@ -26,15 +26,50 @@ def _build_prompt(group: ArticleGroup, language: str = "日本語") -> str:
         multi_source_note = "\n\n【複数メディアが報道】\n" + "\n".join(lines)
 
     return (
-        f"以下のニュース記事の内容を{language}で2〜3文に要約してください。\n"
-        "【重要】記事に書かれている出来事・事実・数字のみを要約すること。"
-        "企業の一般的な説明や背景知識は一切不要。\n"
-        "箇条書きは使わず、自然な文章で答えてください。\n"
-        f"{multi_source_note}\n\n"
+        f"以下のニュース記事を分析してください。\n\n"
         f"タイトル: {primary.title}\n"
-        f"記事内容: {content}\n\n"
-        "要約:"
+        f"記事内容: {content}\n"
+        f"{multi_source_note}\n\n"
+        "【出力フォーマット（必ずこの形式で）】\n"
+        "SCORE: [1-5の整数のみ]\n"
+        "SUMMARY: [要約文]\n\n"
+        "【スコア基準】\n"
+        "5: 買収・合併・倒産・重大事故・不祥事・大幅業績修正など経営に直結する重大ニュース\n"
+        "4: 新規事業・大型契約・提携・訴訟・行政処分など注目度の高いニュース\n"
+        "3: 通常の事業活動・製品発表・人事以外の発表\n"
+        "2: 軽微な発表・業界全般の話題\n"
+        "1: 株価情報・定例報告・PR記事など重要度が低いもの\n\n"
+        "【要約の注意事項】\n"
+        f"・{language}で2〜3文\n"
+        "・記事に書かれている出来事・事実・数字のみを要約すること\n"
+        "・企業の一般的な説明や背景知識は一切不要\n"
+        "・箇条書きは使わず自然な文章で"
     )
+
+
+def _parse_response(text: str) -> tuple[str, int]:
+    """AIレスポンスからSCOREとSUMMARYを抽出する。"""
+    score = 0
+    summary = text.strip()
+
+    lines = text.strip().splitlines()
+    summary_lines = []
+    for line in lines:
+        if line.startswith("SCORE:"):
+            try:
+                score = int(line.replace("SCORE:", "").strip())
+                score = max(1, min(5, score))  # 1-5にクランプ
+            except ValueError:
+                pass
+        elif line.startswith("SUMMARY:"):
+            summary_lines.append(line.replace("SUMMARY:", "").strip())
+        elif summary_lines:
+            summary_lines.append(line)
+
+    if summary_lines:
+        summary = " ".join(summary_lines).strip()
+
+    return summary, score
 
 
 def summarize_articles(
@@ -78,9 +113,15 @@ def summarize_articles(
                 messages=[{"role": "user", "content": prompt}],
                 max_tokens=max_tokens,
             )
-            group.ai_summary = response.choices[0].message.content.strip()
+            raw = response.choices[0].message.content.strip()
+            summary, score = _parse_response(raw)
+            group.ai_summary = summary
+            group.importance_score = score
+            # スコア4以上は重要フラグを立てる（キーワード判定と合算）
+            if score >= 4:
+                group.is_important = True
             success += 1
-            logger.debug(f"要約完了: {group.title[:50]}")
+            logger.debug(f"要約完了 [スコア{score}]: {group.title[:50]}")
 
         except RateLimitError as e:
             rate_limited = True

@@ -145,6 +145,22 @@ def main() -> None:
         if not api_key:
             logger.warning("GROQ_API_KEY 未設定 → AI 要約をスキップ")
 
+    # ---- Score filter: スコア1（AI判定済み）は通知しない -----------
+    before = len(groups)
+    groups = [g for g in groups if g.importance_score != 1]
+    dropped = before - len(groups)
+    if dropped:
+        logger.info(f"スコアフィルタ: {dropped} 件を除外（スコア1）")
+
+    if not groups:
+        logger.info("通知対象記事なし（スコアフィルタ後）。終了します。")
+        state.mark_seen(new_articles)
+        cleanup_days = settings.get("state", {}).get("cleanup_days", 7)
+        state.cleanup_old_entries(cleanup_days)
+        state.save()
+        logger.info("=" * 60)
+        return
+
     # ---- Discord notifications -------------------------------------
     webhook_url = os.environ.get("DISCORD_WEBHOOK_URL", "")
     if webhook_url:

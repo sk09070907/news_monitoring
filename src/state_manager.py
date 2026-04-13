@@ -4,14 +4,30 @@ State is stored in data/seen_articles.json and committed back to the repo
 by the GitHub Actions workflow after each run.
 """
 
+import difflib
 import json
 import logging
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
     from fetcher import Article
+
+_NOISE_RE = re.compile(r"[【】「」『』〈〉《》\[\]()（）｢｣<>|｜・…。、，,!！?？\-－—]")
+_WS_RE = re.compile(r"\s+")
+
+
+def _normalize(title: str) -> str:
+    t = title.lower()
+    t = _NOISE_RE.sub(" ", t)
+    t = _WS_RE.sub(" ", t).strip()
+    return t
+
+
+def _title_similarity(a: str, b: str) -> float:
+    return difflib.SequenceMatcher(None, _normalize(a), _normalize(b)).ratio()
 
 logger = logging.getLogger(__name__)
 
@@ -74,6 +90,56 @@ class StateManager:
                     "source": a.source,
                     "seen_at": now,
                 }
+
+    def filter_seen_by_title(
+        self,
+        groups: list,
+        threshold: float = 0.75,
+        hours: int = 24,
+    ) -> list:
+        """
+        グループのタイトルが、過去N時間以内に通知済みの記事と
+        同一企業・類似タイトル（threshold以上）であれば除外する。
+        URLが異なる同じ話題の重複通知を防ぐ。
+        """
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+        bucket = self._state.get("articles", {})
+
+        # 企業ごとに最近のタイトル一覧を作成
+        recent_by_company: dict[str, list[str]] = {}
+        for info in bucket.values():
+            try:
+                seen_at = datetime.fromisoformat(info["seen_at"])
+                if seen_at.tzinfo is None:
+                    seen_at = seen_at.replace(tzinfo=timezone.utc)
+                if seen_at < cutoff:
+                    continue
+                company = info.get("company", "")
+                title = info.get("title", "")
+                if company and title:
+                    recent_by_company.setdefault(company, []).append(title)
+            except Exception:
+                pass
+
+        filtered = []
+        skipped = 0
+        for group in groups:
+            company = group.company
+            title = group.title
+            recent_titles = recent_by_company.get(company, [])
+            is_dup = any(
+                _title_similarity(title, seen_title) >= threshold
+                for seen_title in recent_titles
+            )
+            if is_dup:
+                logger.info(f"クロスラン重複除外: [{company}] {title[:60]}")
+                skipped += 1
+            else:
+                filtered.append(group)
+
+        if skipped:
+            logger.info(f"クロスラン重複フィルタ: {skipped} 件を除外")
+        return filtered
 
     def cleanup_old_entries(self, days: int = 7) -> None:
         """Delete entries older than `days` days to keep the file small."""

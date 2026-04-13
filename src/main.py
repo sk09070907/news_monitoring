@@ -152,8 +152,12 @@ def main() -> None:
     if dropped:
         logger.info(f"スコアフィルタ: {dropped} 件を除外（スコア1）")
 
+    # ---- Cross-run title dedup: 過去24h以内の通知済みと類似タイトルを除外 ----
+    similarity_threshold: float = settings.get("similarity_threshold", 0.75)
+    groups = state.filter_seen_by_title(groups, threshold=similarity_threshold, hours=24)
+
     if not groups:
-        logger.info("通知対象記事なし（スコアフィルタ後）。終了します。")
+        logger.info("通知対象記事なし（フィルタ後）。終了します。")
         state.mark_seen(new_articles)
         cleanup_days = settings.get("state", {}).get("cleanup_days", 7)
         state.cleanup_old_entries(cleanup_days)

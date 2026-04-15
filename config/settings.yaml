@@ -31,7 +31,7 @@ news_sources:
   # 株価上昇/下落系の記事は title_exclude_patterns で除外
   - name: "Polygon.io"
     type: polygon_news
-    enabled: true
+    enabled: false
 
   # ── 無効化（必要な場合は enabled: true に変更） ───────────
   - name: "東洋経済"

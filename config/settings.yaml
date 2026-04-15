@@ -85,14 +85,14 @@ news_sources:
 
   - name: "時事通信"
     type: google_news
-    enabled: false
+    enabled: true
     language: ja
     country: JP
     site_filter: "jiji.com"
 
   - name: "NHK"
     type: google_news
-    enabled: false
+    enabled: true
     language: ja
     country: JP
     site_filter: "nhk.or.jp"

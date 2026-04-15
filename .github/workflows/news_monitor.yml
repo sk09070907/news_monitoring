@@ -60,6 +60,7 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
         run: python src/main.py
 
       # --------------------------------------------------------

@@ -25,6 +25,14 @@ news_sources:
     country: US
     site_filter: "bloomberg.com"
 
+  # ── Polygon.io（米国上場・ADRのある企業のみ対象） ────────
+  # companies.yaml の各企業に ticker フィールドが必要
+  # POLYGON_API_KEY を GitHub Secrets に登録してください
+  # 株価上昇/下落系の記事は title_exclude_patterns で除外
+  - name: "Polygon.io"
+    type: polygon_news
+    enabled: true
+
   # ── 無効化（必要な場合は enabled: true に変更） ───────────
   - name: "東洋経済"
     type: google_news

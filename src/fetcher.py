@@ -1,7 +1,5 @@
 """
-Fetches news articles from Google News RSS feeds.
-All sources (Reuters, Bloomberg, PR TIMES, general) use Google News RSS
-for maximum stability and zero cost.
+Fetches news articles from Google News RSS and Polygon.io News API.
 Requests are parallelized with ThreadPoolExecutor to stay within GitHub Actions timeout.
 """
 
@@ -153,6 +151,58 @@ def _extract_keywords(company_cfg: dict) -> list[str]:
 # ------------------------------------------------------------------
 
 
+def _fetch_polygon_news(
+    ticker: str,
+    company_name: str,
+    api_key: str,
+    max_items: int,
+    published_utc_gte: str,
+) -> list[Article]:
+    """Fetch news from Polygon.io News API for a given ticker."""
+    articles: list[Article] = []
+    url = "https://api.polygon.io/v2/reference/news"
+    params = {
+        "ticker": ticker,
+        "published_utc.gte": published_utc_gte,
+        "order": "desc",
+        "limit": max_items,
+        "apiKey": api_key,
+    }
+    try:
+        resp = requests.get(url, params=params, timeout=_REQUEST_TIMEOUT, headers=_HTTP_HEADERS)
+        resp.raise_for_status()
+        data = resp.json()
+        for item in data.get("results", []):
+            title = item.get("title", "").strip()
+            link = item.get("article_url", "").strip()
+            if not title or not link:
+                continue
+            published = None
+            pub_str = item.get("published_utc", "")
+            if pub_str:
+                try:
+                    published = datetime.fromisoformat(pub_str.replace("Z", "+00:00"))
+                except Exception:
+                    pass
+            desc = item.get("description", "") or ""
+            articles.append(Article(
+                title=title,
+                url=link,
+                source="Polygon.io",
+                company=company_name,
+                published=published,
+                description=desc[:400] or None,
+            ))
+        logger.debug(f"Polygon.io / {ticker} ({company_name}): {len(articles)} 件取得")
+    except requests.exceptions.Timeout:
+        logger.warning(f"Polygon.io タイムアウト: {ticker} ({company_name})")
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Polygon.io HTTP エラー ({ticker} / {company_name}): {e}")
+    except Exception as e:
+        logger.error(f"Polygon.io 予期しないエラー ({ticker} / {company_name}): {e}")
+    return articles
+
+
 def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
     """
     Fetch articles for all companies from all configured sources.
@@ -190,6 +240,27 @@ def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
             )
             tasks.append((url, company_name, source["name"]))
 
+    # Polygon.io tasks (ticker が設定されている企業のみ)
+    import os
+    from datetime import timedelta
+    polygon_api_key = os.environ.get("POLYGON_API_KEY", "")
+    polygon_enabled = any(
+        s.get("type") == "polygon_news" and s.get("enabled", True)
+        for s in settings.get("news_sources", [])
+    )
+    polygon_tasks: list[tuple[str, str]] = []  # (ticker, company_name)
+    if polygon_api_key and polygon_enabled:
+        max_age = settings.get("max_article_age_hours", 12)
+        published_utc_gte = (
+            datetime.now(timezone.utc) - timedelta(hours=max_age)
+        ).strftime("%Y-%m-%dT%H:%M:%SZ")
+        for company_cfg in companies:
+            ticker = company_cfg.get("ticker", "").strip()
+            if ticker:
+                polygon_tasks.append((ticker, company_cfg["name"]))
+        if polygon_tasks:
+            logger.info(f"Polygon.io フェッチ開始: {len(polygon_tasks)} 銘柄")
+
     logger.info(f"RSS フェッチ開始: {len(tasks)} リクエスト / 並列数 {_MAX_WORKERS}")
 
     all_articles: list[Article] = []
@@ -198,12 +269,25 @@ def fetch_all_articles(companies: list[dict], settings: dict) -> list[Article]:
             executor.submit(_fetch_rss, url, company, source_name, max_per_source): (company, source_name)
             for url, company, source_name in tasks
         }
+        # Polygon.io tasks
+        polygon_futures = {}
+        if polygon_tasks and polygon_api_key:
+            max_per_source_polygon = settings.get("max_articles_per_source", 10)
+            for ticker, company_name in polygon_tasks:
+                f = executor.submit(
+                    _fetch_polygon_news,
+                    ticker, company_name, polygon_api_key,
+                    max_per_source_polygon, published_utc_gte,
+                )
+                polygon_futures[f] = (ticker, company_name)
+            futures.update(polygon_futures)
+
         for future in as_completed(futures):
             try:
                 all_articles.extend(future.result())
             except Exception as e:
-                company, source_name = futures[future]
-                logger.error(f"フェッチ失敗 ({source_name} / {company}): {e}")
+                key = futures[future]
+                logger.error(f"フェッチ失敗 ({key}): {e}")
 
     # Deduplicate by exact URL
     seen_urls: set[str] = set()

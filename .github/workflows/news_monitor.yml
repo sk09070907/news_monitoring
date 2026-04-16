@@ -71,6 +71,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Secretから書き込まれたcompanies.yamlを元のプレースホルダーに戻す
+          # （未ステージの変更として残るとgit pull --rebaseが失敗するため）
+          git checkout -- config/companies.yaml
+
           # 変更があるファイルのみステージング
           git add data/seen_articles.json
           git add logs/news_monitor.log 2>/dev/null || true
@@ -79,7 +83,7 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: update monitoring state [skip ci]"
             # 他のジョブがプッシュしていた場合に備えてリベース
-            git pull --rebase origin "${{ github.ref_name }}" || true
+            git pull --rebase origin "${{ github.ref_name }}"
             git push
             echo "✅ 状態ファイルをコミット・プッシュしました"
           else

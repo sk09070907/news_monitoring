@@ -16,14 +16,14 @@ news_sources:
     country: JP
     site_filter: "nikkei.com"
 
-  # Bloomberg: bloomberg.co.jpはbloomberg.comにリダイレクトされるため
-  # 英語版(bloomberg.com)の方が記事数・質ともに安定している
+  # Bloomberg: bloomberg.co.jp（日本語）で検索すると実際のニュース記事が取得できる
+  # bloomberg.com（英語）は企業プロフィールページが大量混入するため不採用
   - name: "Bloomberg"
     type: google_news
     enabled: true
-    language: en
-    country: US
-    site_filter: "bloomberg.com"
+    language: ja
+    country: JP
+    site_filter: "bloomberg.co.jp"
 
   # ── Polygon.io（米国上場・ADRのある企業のみ対象） ────────
   # companies.yaml の各企業に ticker フィールドが必要

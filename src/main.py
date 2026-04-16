@@ -145,12 +145,13 @@ def main() -> None:
         if not api_key:
             logger.warning("GROQ_API_KEY 未設定 → AI 要約をスキップ")
 
-    # ---- Score filter: スコア1（AI判定済み）は通知しない -----------
+    # ---- Score filter: スコア1〜3（AI判定済み）は通知しない -------
+    # スコア0はAI未判定（レート制限等）のため通知する（見逃し防止）
     before = len(groups)
-    groups = [g for g in groups if g.importance_score != 1]
+    groups = [g for g in groups if g.importance_score == 0 or g.importance_score >= 4]
     dropped = before - len(groups)
     if dropped:
-        logger.info(f"スコアフィルタ: {dropped} 件を除外（スコア1）")
+        logger.info(f"スコアフィルタ: {dropped} 件を除外（スコア1〜3）")
 
     # ---- Cross-run title dedup: 過去24h以内の通知済みと類似タイトルを除外 ----
     similarity_threshold: float = settings.get("similarity_threshold", 0.75)

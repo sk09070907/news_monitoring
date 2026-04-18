@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTk5OUVctZmVBaTgwU05CZkVCd1hlNmdFXy02Q0FSTENkQnJxdFRvZWxKR1lzN3dxU1dfU2pad0lBM3NlTUlLZEtNeG55T0VmZExabTd0b3ZvNW02R2dLMkg4RmdRb21ZRVZkdWVKUTEydkY5cFd2QnIzRmlqYl9PbEhYYS1RSElX?oc=5": {
-      "title": "8031.D - | Stock Price & Latest News - Reuters",
-      "company": "三井物産",
-      "source": "Reuters",
-      "seen_at": "2026-04-11T02:06:06.058036+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcFdlakZVdTZEMFdxZy12M3RYUTZWNXdBVGVQeEtSdnZKUjd2SWZmUWVrR0lfMHA1ZU1ESXRTUmw3NXF3dU9BTWFCNXI1QmJVamt1eWxGendkVGxqZzhvMTRSYXNVRms?oc=5": {
       "title": "三井物産セキュアディレクション、ランサムウェアグループを可視化するWebアプリ「CIG Ransomware Information Portal」を無料公開 - クラウド Watch",
       "company": "三井物産",
@@ -10823,7 +10817,25 @@
       "company": "SBIホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-04-17T21:38:32.160502+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU92dWRYYkJrSFpkTF9lR1hPWjZySHl1UGFOTjRDUXk3YUQ4Y1dfcWVyZjBaNTFBMWMwY2lRSzZfN1Fub1d3Zllna1QteGNicVZURHlFSkRkVURDbWFRX2tocHJ6NmVZelJ2aGVUdU5idWJjc0MyUVZMY1J3RjhGdzE5QmdZSkRBSnluN3dDNWphVUtzdkFxTmxRVW9FT2JzTGJZMTBfMjQ?oc=5": {
+      "title": "栄豊会が総会、発足の思い共有 トヨタ・近社長も出席 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-18T02:10:55.517011+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vaTQxVkoxckctSTB1UFFzSEpScHdEaWJTdEtpdVhRbWM4MUdDS0VJUWhKallzcUVxSlhyWHRUZTlvR0xQZU5iMVd2RXl0cW9OZDdTZkxQZUE0ODBiMUpQUW00bl94ejVDaHZEVFpzWXNTTzAyblNNYXc1WUw?oc=5": {
+      "title": "【神奈川県限定｜GW・初夏の電池整理に】膨張したリチウムイオンバッテリーを安全回収！5月も継続決定！危険な電池も1点7,700円で回収対応｜自治体で回収不可の電池もOK［SYSTR］ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-18T02:10:55.517011+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naGhBS2RBS2JGeGhzQ3E3eGk4Mkl2QXpCOWZLRTc3QjhBTW16OVBxV1dvYVdXcnQ3eUJLN1ZyN1VaOGNvTllIU2RXMkNrX01mcXVtUThndkpjTGRpRGQ2LWJzMlNqNnZhMVlF?oc=5": {
+      "title": "【千葉県｜GW明け5月】ガレージ・倉庫の膨張バッテリーを安全回収｜自治体で回収不可のリチウムイオン電池も対応 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-04-18T02:10:55.517011+00:00"
     }
   },
-  "last_updated": "2026-04-17T21:38:32.161267+00:00"
+  "last_updated": "2026-04-18T02:10:55.517933+00:00"
 }

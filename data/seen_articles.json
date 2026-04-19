@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE93UWJqY2JLMTMzU05jTVoya0dmWVF2b1RtYUNMcGQxV2FJVkhKeHhhODdxX01XbGdkaUpEMWViaUlOdk80QUMxTDJHY2pkeUdoUHA4dzAxWnFhc0tIMHYxR3lKT0V4LXJYTEtDcHFLM2w0SGJMT29xYg?oc=5": {
-      "title": "2501.T - | Stock Price & Latest News - Reuters",
-      "company": "サッポロホールディングス",
-      "source": "Reuters",
-      "seen_at": "2026-04-12T13:00:37.094911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bHJlMVRFSGRHc3hfNzVlRnhIcFhpeGhuY3F2b3lyRGR4ZTlXV19sNjduSWcxa08yQWNKbzhDZHp1LVBhcFc4ZFo4cEZuaVd3enZPTzBTM3ZhNnRMbndvWERqUUdLNTlXSEduOEotcWlvVjdtNkxHOQ?oc=5": {
-      "title": "6742.T - | Stock Price & Latest News - Reuters",
-      "company": "京三製作所",
-      "source": "Reuters",
-      "seen_at": "2026-04-12T13:00:37.094911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGFOSUFBSzloUkNJbmdVNTFHMWxZNWpkNUtZc1JKRmVWZThiNGpSMFc1MmJOSm5IMUZrb2xPc2VFOU1KMHdBaGV5OFVYWHVNTDdJX0FYUkUySFUtcXZ0SHJoanZ1LUhiS2toMzB6NTJ6elg4aGs0TFJ6YUcxNWNVTWdUS29Mb3pyNHQ1Qk40SVVxX1dlS0M4dHQtRG9sb0Fla1BMRThB?oc=5": {
-      "title": "蓄電所投資なお活況 東京センチュリーは1000億円、電力を安定供給 - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-12T13:00:37.094911+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tWDVFWVNtalZUVGZNRjB6SXQ2Zm9jdUJiWlRaVkpEdjd0bGVlUE9wc2U4RXlpeVFUYW94VTJTdEphc3RXMmE1TEhMVUtMRmlIUU91c2xjVGRoc0lQaFZKNDJXVlMzS3M?oc=5": {
       "title": "伊藤忠や三菱商事、事務職を再定義 「440万人余剰」時代に先手 - 日経ビジネス電子版",
       "company": "三菱商事",
@@ -4679,7 +4661,61 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-04-18T21:30:17.175518+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CQVRoZUtQbHpjcU9VdE1tdC0ydV9ZbXl3T0RmT0FyZlo4Vk1yWXQzWXlUSWNUWHFKRUlOcmlmejlFSTZibDRCNTN4emR1NGpTM3JRVmtMMjlNXzIwb2RqZUhveWVVdTQ?oc=5": {
+      "title": "NTT、窓ガラスに貼り6Gの死角なくす 液晶技術でメタ表面 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVo2Tkl6ZjRVOVdVaDMyZHgzeEFPMW05MTFUNnZiYXFEUUc1bTd6c0M5TWdVMXFQZkxIX25kd2YwRFhTSmk1WGVlN2QxQnd5RUtJWFNJYS1nYTQ3MGpZYlJweDloNjd1M3RWamR2Q0l4RGU4VDd0a3UzSUxMei1TRzg5MXZ4RF9RaWg1bmdSMGhPSThELWt0emtmaElqWDNHTi00S29LNTc?oc=5": {
+      "title": "NTT副社長 柳瀬唯夫氏 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0swX0hPa05qaXRPN25iZ25Ja21lXzg4Y0hHVnIyWDhvSldRSzNCdGROX21VR1NmTG44Wms3SXkwaVh4elZMeXhkR3IwSUpkSEE4RVhIcWhnZFRmajVoZTlIRzVCWUg0YUx2eGdFdVpFTGttbFJDbnFYOXJaS1ZzbHl4OVZ5a0I5ZWJpdQ?oc=5": {
+      "title": "東芝、不正会計の次に来る“銀行管理” - 日経ビジネス電子版",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pcXV0eFdZRlJvUWtBcHM0cF9Cc2NDejhxVkRrNXcwdDE1R0diMmpNWXB1cklNVVd5YTFEOHpxdkFMblNFT3VXbmNhUTJERnRzdnBkTVVDNE4xb2M1eWVVX0pDTEpOc00?oc=5": {
+      "title": "トヨタ、インドで中卒向け訓練校 体力づくりと人間性育成を重視 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNUFZemtIX3pvY3ZQbUFlTnlvUnZpYU5UTTVYUUprM3FQdXhOT2ZoNVNFbk52NkUyMjVhUF9XaC02WEdKRFI5czRJdEpqMUg2aDlqazBHbjRhQkFiMHVXZFpya2s5X2N1eEZxSQ?oc=5": {
+      "title": "トヨタ、部品種・仕様のさらなる削減へ 狙いは「工場の生産能力増強」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUVBUOVdQT0x4QkE1Q0F1UFRBQXFldUtwZWFwNnRwSENGLThReGNYTlNyRDF3UTZCNGV2RVE3R3kwNDlBTDM1clhlRHlMMVp3VDNkTkFRdS1heWFxbEhZ?oc=5": {
+      "title": "トヨタ式部品削減ネクスト - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwcjJlTHBTdEJjMjhuRmZ4Tk9FM0xteGxiSjVTQTQ0RklDRXZDWWxiUTByQnBOWnpqTDJial93OG15bUd1NVEweGRzMUxTTGI3RUMzX25xdDYxNEVqVnV1eXpLSnJOMlJTU2tHenh0Xy1XN0N2ZEpZ?oc=5": {
+      "title": "中国電、島根の大規模陸上風力に出資 商船三井など開発 - 日本経済新聞",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWZtcnJEa2ZVc3NrTnhnMi1RRnJTdU1PM2ZjZzc5bVhlc3JmZVNyY0V0dEthLUNLS2sycUVwd3V6T05DQjhpUnRIQWs4dHI3VUlELTY1a1pHUi1xYnJqSTBNSnR1NWNBUDNjZ0Q5OUFIaFBYMGtMRnJkRHRWM0FlY2FncFBrYk45Wm9iOHNHWFV1WERLSXNWcUZnSFpmVjZkVDNlSVNn?oc=5": {
+      "title": "みずほ銀行頭取 加藤勝彦氏 - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xSVJVdlM1STlpZkZ4UkVmRGN6ZWE1alEySHRFSTRCLU5BNWVpSDd0QkpWWVRaQnZVdnlsa1JJSXoyM2NTZjg4QzBQeVhzcm5kNjZiR1IxWnlza1JiYWQ5MWpHa3Z4R2s?oc=5": {
+      "title": "三井不動産レジが木造14階の試作住戸計画、VUILDが曲面シェルスラブ - 日経クロステック",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-19T21:31:56.467816+00:00"
     }
   },
-  "last_updated": "2026-04-19T12:59:15.261440+00:00"
+  "last_updated": "2026-04-19T21:31:56.468797+00:00"
 }

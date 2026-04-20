@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vZjVSOEREaU5pdFU1NFNiRk1sa0ZjZnFlazh5RHJrZXZnOG9QZkY5TlJzeGZNT3JZRGdUWC1JRi05bXIzNkR3TTl6dEh1aVBrY1Y0bWpyZ1hzNi14Zmc?oc=5": {
-      "title": "◎国際協力銀、三菱商事に３８００億円融資 - 時事通信ニュース",
-      "company": "三菱商事",
-      "source": "時事通信",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnUxMllldWtzcEF6dGgwem5TXzdGWHdYbXM1Qjk2NkFubGRZTUtEWU8yWlFwM2czblBBVnQ5UHBuS3hZd3Y1Tm1Qa3pFQ29wRlRmbmNDWXVPRGVTZlR4RnFENUtpSnNJTWgtOUVQaUJPWUplb2d2a05TYUlobGJ6UXVxQXIxallVRTJGRDNEeHVTTFh5T0t6cnJNWEtIWThWX1BwbklR?oc=5": {
-      "title": "京極町の名水でニジマス陸上養殖へ イオン北海道とエア・ウォーター - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMWNYeXl3aFk3WmZpSXJPQnVORHVVUmtMX3pTdXZFMW9peGFQbU9zQmk3RTg3N3hFcUhXV2U2Q1lsZHI3WHVMTjZyTGFvU2NhNWMwQmE5RXI2TFRNN1ZKVll4TGIxV20xTjlBX0Y2YmpJWmI0amF5OWQ2Z0Y?oc=5": {
-      "title": "バーチャレクス、東京電力エナジーパートナー株式会社のメール対応業務において生成AI活用による「業務プロセス最適化」を実現［バーチャレクス・コンサルティング］ - 日本経済新聞",
-      "company": "東京電力エナジーパートナー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWNHBrTzJudFdRUmJPNHEtUklOQUxLZTBXZld1UnRiZWloZ1dPNUt1NEdDZWJjQ2ppeU5GcUp1QWNvOGhtNTA2SjFoQnR2Y0cxUFB2NVE1UFg0ejg?oc=5": {
-      "title": "「中部電力ミライズ」のニュース・最新情報 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFBxcHZpb2hmdGtpeGp1Ym5uNFFjSzVISGJGRlZ0MkRHODVlTXFVakNzM0JhTWNxdFpNZk5FNkJwWkt6ZUVQbFZaZE5ET2ZMQ19VY1VobEtvVlFaZWFmUmVRQ1Q2Ul9JSTlNbTA4UTJHa205Q0I0QVEzSHlPaVpPSEsxVFVZaktrVzloakExRm9INzRhOHFvd1htS3pqLXpzUFhvejNCbjJ3UQ?oc=5": {
-      "title": "クレディセゾン、フリーローン保証審査にAI審査モデルを導入 - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Demd2WE1RUVlxQlA4MlVLOG9CejlXZDNjYjRFN3pkNVdIWVdpMmhWYndqQ1plMXljYXkxb2JuZHg3WEt4RHhTRmtWZUZ3ZzZBT2dZYUJnb3ZhaE80VUF1blRGUF8teDJoQ2c?oc=5": {
-      "title": "PKSHA、クレディセゾンとAI審査モデルを共同開発ー金融向けAIスコアリング技術を提供 - PR TIMES",
-      "company": "クレディセゾン",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3l3TU5HeG8yOWQ2cDhQZXhsdl9WUWZWbEU0eWJXREVvTXBIVjFpb08wbGJVSGY1d3preEtNRG9KanNJbHNobTM2SWxsbW1CVE9vejdpMDZ6cy10QlVwSmdZdE5WUnI5QVFQWTJGOUtVRVhQTUpVT2FsT2ZsUDdHekdCV1V5WVU?oc=5": {
-      "title": "「野村不動産」に関するプレスリリース一覧 - PR TIMES",
-      "company": "野村不動産ホールディングス",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-13T13:25:19.335951+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sRVlNUGhmWGlOUmdTNGNXRDJHLS1XSkZhVENrcWdXdDFjMUxWaHdFNzc3bDF6OS1XaHUxWDNUcTM1aDJRN3NrVnZlWGMtMEdXTUJ1SnJkU0hMRVU?oc=5": {
       "title": "挑戦する企業／三井物産（5）ブロイラーニーズ拡大 - 日刊工業新聞",
       "company": "三井物産",
@@ -4373,7 +4331,49 @@
       "company": "クレディセゾン",
       "source": "日本経済新聞",
       "seen_at": "2026-04-20T10:48:23.706666+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclBSTmVrTGlMR3pzS2lnZk0tWlRndU8xTms5QWlZczhnTUxzQVpLRU9pdWtIUXhJX1duMWpMNEZNNmpxb044MUhxTDhOMWR2eVRRZ1BHcFlCZ0lwNF9LR2laaXAxLXdHM1RVNG9KelhERHVFZm9RV1Y4c2ZGRzJKZWc0ekp0ejdlc2tkNW9YRUdQUW9iWWdFWVdTZGVYbkZ5Mmc2OF9B?oc=5": {
+      "title": "三菱商事、ベトナムで石炭火力稼働 中東抜きでエネルギー供給 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGlfZXdwaW9CVEVERnBIWENOZnJ3RmN5LVF2QUkyMEJDY2dSWTc0ck1meWg0SG5UaDZoWlV1UE45UVljNF9HQkMwTWxiUVNsOHZLN195TnltcmtGYkhtVWtxTG9aWXJkVWFEd1oxdHdVV05uZlFhUHowTWZjVVRRMUozbGRjZm01RXNXcFgxODViTmZrRllPazVUUG1WUUZ2LUppUVNDcEU?oc=5": {
+      "title": "トヨタ、11月までに海外3万8000台減産 中東影響で - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HQnVxWkwzT25INGRHOGxZUWpfRURnb1h3N0xGZE9HTlZGZU1WdkhLVzdoN2NfUi12QlNHTXdVWHZ4a2taUkpsYmd0WURYNlctOGxLSDA5MG9VdlJGcTJmZkZHcHhZa2lmS0I0?oc=5": {
+      "title": "日立、フィジカルAIで電力需給を予測・最適化・自動制御するHMAX IndustryのEMS「EMilia」を、自動車工場向けにトヨタ自動車東日本と共同で機能拡張し、納入 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHVNNVF6enJ0emVxNUU5YjJSRkJiVmZxVWlkWFUweWFrUWRmc09SVThmWTktWFUwTnRySGR5T2tMSl9EaVNjX2tzaGl4UjJ6RDJGSHpvNlRJSGRfS1RWenFoZUxVVlhKOVZ0TFc2U0doazhhbnhnVzhwZktaZHQzb21sX2JrdmVoNE0zcVZZYUo2MjB4OG5ZdjhVaHlXbVhuOXUwUHpRaFg?oc=5": {
+      "title": "日本国債、ブロックチェーンで担保管理 みずほ・野村など実証 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pcVNudnZjcVlaU3FwaTBJa2lIcU92bGp0QnQxaFczb3lEQzlIMlBYSHdjTVBwa3htZ25XQm1ScV9jX2VEaGNFb3hfejltVXV3WjVoaEFwT1JIMzN5TzA4b0s3M05VYnYyYXJEeWJIX0dDbkJoa0NxbkxiZmU?oc=5": {
+      "title": "クレディセゾンとコインチェック、暗号資産領域における業務提携契約を締結［クレディセゾン］ - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczlDSHhsY2poTVFYOGZLdHN1bWZpTEF4ck0xUVpfWnd5U1dYSUZOdG01SThsZ2I4bnFyc296QUlPQTlINDZhQ0hQZzJoa2U5NkpIVW40QzNNdkZ0Y0VXVGdKYm5zSUEyeXRlMmlpZWpyMXZ3UHhFc3Fnem0xSU85Uk92VUc1cHZzRDJBcU1uRXdpX18zYy1nZVdRN1dpQnM2WWtnY2Jn?oc=5": {
+      "title": "みずほ、アクティビストが株主提案 オリコの支配関係を問題視 - 日本経済新聞",
+      "company": "オリエントコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FX1ZFVUNaaTg5UnNuaFJRYW1pV01ub2hVWVJjWDJLaGRCbEJCTlR5TS0zMHNDamhkZkNmcTRCZWZNM2FoQU5iSEFIMldzcFhmb1I0WnpQenRxbXkwTkpXRXRpLUk0c0ZaUHYwbg?oc=5": {
+      "title": "三井不動産、日本橋―豊洲間でフル電動旅客船を定期航路 26日から - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-20T13:27:02.428871+00:00"
     }
   },
-  "last_updated": "2026-04-20T10:48:23.707394+00:00"
+  "last_updated": "2026-04-20T13:27:02.429556+00:00"
 }

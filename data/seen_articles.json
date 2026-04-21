@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MV2NqV2ZuX0J4dUVNN29wMzU5WjJoZF9qa1MwdlBoeWFkN2otS1FxTTI3TG1CUXVrZ09FSEVJdzlpY1F1X0xfWFY2VmxWUWE2SzFzUlBVWXh0TEd3ZHJYRnpGbVQyT2VVV0ZHbGhpM0o5NS1oa3NIMU5IWm9UdTQ?oc=5": {
-      "title": "住商、過疎地で貨客混載バス 住民乗り合いと買い物代行 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSbTlqV2ZWOHlkVXRvdlFySlhRaW8tSnFfNFBZdjg1VXJ1N2d3UllDMzN1TDNXOTEzYUluMk1NX3llTng0YmZwZVJyczlUcHhvWXU4MGMxd2FDX2h4Mm5feEJodDJ5dk41MzhmUg?oc=5": {
-      "title": "NTT・三井不動産など、「内幸町一丁目街区開発プロジェクト」の街区名称を「HIBIYA CROSSPARK」に決定 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OdC1NM3FRUGJveHZpWU05dnJlR003OTk5M0x2N1hneF9wY25yQ184dS11ZC1nSUlkaEZEY3lReVFxMFU4REVRUEFjQjlBaGR2RnJWeEhkd2hQU3JyV0pLZHl3RG80R1poRU1LMw?oc=5": {
-      "title": "NTTプレシジョンメディシン、健康経営コンサルティングで把握した課題をふまえ研修プログラムを強化 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tb1NkcUQzdnZIVXdDWjhSTjJwU2lleV9BdTNIZEdBeXNWMkg3Yzc5c0ZqR09UblB0dFhQbjFiS18ySThvSGFISUtBbTdmaFMwdkhyRV8wR1V0Vkd4UzVQcC1iSGFzZWtmZnc?oc=5": {
-      "title": "NTTデータ先端技術、ローカルLLM環境を利用した金融システム開発向け生成AI活用を検証 - PR TIMES",
-      "company": "NTT",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWjdtaGwxd2VWTExvWkRSOEdGaW5CcEFieC1RR3hnZXJNT091clp3cXM1VlhHVFBlMEk0MkhJcmFTZ1BQMkVRTm4xdWZoN0didS1rcnNVdUJ2S2FBN0hGeWZNdkt5UlRUcTA4?oc=5": {
-      "title": "「NTTドコモ Presents Lemino BOXING PHOENIX BATTLE 155」Leminoプレミアムにて独占生配信決定！2026年4月19日（日）15:00より生配信スタート - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkVTendNVXAydjA0eUU5MEVkUGV6YW10Uzh6YXdjODE5aWhrZ1BDQUh5c3lHaUp1WG5zOW5WeFFTYnVHUGc0bE5lenZNSE5DeW9nbUNfOTM1WWg3OXBOWExWZkh5d0F1QmQ5SzlSNXM3Q2J6R1RnMmJydElDakstcGtJbGJDUUplcmFHOTBIRHhzVUdzLTdBUHcwazY1aWlhOUVsR0tZb2M3VmwyUURrN21MX0xfcnNaeWhVV1hQTmVQamNWMlNUeEZhLXE?oc=5": {
-      "title": "ＴＯＲＩＣＯ[7138]：TORICO Ethereum座談会（Xスペース）開催のお知らせ 松田康生氏（楽天ウォレット シニアアナリスト）登壇 2026年4月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOT1ZnU09MUk5NQVRuQVpzU0s3cHVDMnV0Z1UzSjR1ZzZoZ2JMVE5FaVJHSFBpTjJOMlNNT2ZEM2s5SjQtNmJISVRJVE9MNDVLR091Y1JFV0VYbkUyVTVBV3o0NHZZX1hmd1E?oc=5": {
-      "title": "TORICO Ethereum座談会（Xスペース）開催のお知らせ 松田康生氏（楽天ウォレット シニアアナリスト）登壇 - PR TIMES",
-      "company": "楽天",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE54T3dBVXlOUmlNcWlsbWJIOUo3MXg0d3hLZGlRZXl1MEJ3ODVYbkpwdzM3cV94MUhiZE1FRjJhVzVqT1M1VlJ3UUdjOHhqamMyX3V0eXNhYjRZX3ptY2Y5dU9lNzZIUnZ1bFE?oc=5": {
-      "title": "物価高の中で最大99％OFF！！家計を救う「Dream market」 イオンモール新瑞橋店を新規オープン決定 - PR TIMES",
-      "company": "イオン",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZkNiOEk3czdqSVVQYWRHbDdKWm0wdGtyV2pVNWY3aVdjSWRfZjVkUFdTNmlBanBTVnI3aXp5ZTAyN3JiSzdFU2x4ODI5MDAwdkhEVHZ6QVFqV1ZzaTdwREtEaDZmb2NVUUE?oc=5": {
-      "title": "「ながらスマホ」防止啓発イベントをJR東日本・小田急電鉄・高輪警察署と合同で4月18日に開催 - PR TIMES",
-      "company": "東日本旅客鉄道",
-      "source": "PR TIMES",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1lzMFZzRFZTTlU1cEhaTHJ1d1NmZ3dDR2pTWlBIYW84ZTV3OFZwSlk2Z1RUdVFPNHhRcFhYYmRZdHhsbWhCZFNKNklrY2t5azg5VVRzNHVuSE11N2pPWUgyRm5tYm1FNGRKYWl0WGk2dXhfbTl5SkM1b1NXMGVkaFNTNGtPZWt2RkdfVnNJRmJyYjZkV21JbUVidXY4TlZ4Y1dvWllHVXpzT0gyLURwTnBHa2V0ZHFBeG1wQ21BUXktME5yTUpqM1E5aEg?oc=5": {
-      "title": "四国電力[9507]：阿南発電所３号機及び坂出発電所３号機の廃止について 2026年4月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "四国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRERxellOM1hMbC1aMk1ZdHNLd0hXS05Nc1VFbFFTWjdhUFhFYnBNTDVLQm9reEdVdWdOdmJ6anpCNlR1Tkh3MTVFQmJQN2tyNlQ1WlV2bFJhWDBqVmxFem9aSUZnLXNnaWdRQWRTdWpVRm94a2ZtdlBlbktlazF3cUhVdUphcUhNNWw4aWhROFkyWHNIS1Z0UkZjWlhsUWt6S1otb1dkWHFSd1JiRXV1eGpwbmRiVnBGamx5UW5xTWh3RGVqcWJHTTQzZVc?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：役員の異動に関するお知らせ 2026年4月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-14T07:31:29.346925+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLU9SQ19ZZGxYNk9HOEFpR0NUTTVXNGlCcGxBY2xVV1RVVUU2Nkk1eldmTG45MlpwWF8wNUI2LWsxZTVaaGVZVFBGT0xNNDdnakZuM3I5bWMtTUFuajlNclpwTXZtSkNSZ1RWLWVkSVlWajRwRUdqWW56VTEyZUtRR1pITzhIMEFYaTd1MVZmMm5VbmZkdEVZZXJpOTZWLXphZjFZdjRn?oc=5": {
       "title": "伊藤忠出資のCEC、ヒューリックに再エネ 800カ所で太陽光発電 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -4367,7 +4301,109 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-04-21T05:27:29.371139+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tdl84c18ta1BIc292ejV0NElNUFJvMk41U21jS0FkUVdUSTFXLWJIbUxvdE5BemJUcTZvZlBIaV9DdUtXbnByQjduQjYwVmFsWlJ5QnJDSnQ2aTRQME0zU2VJdnYtR3BzRG1F?oc=5": {
+      "title": "三井物産グループのGORIL、損保ジャパンの英語研修で「完遂率87%」を記録。リスニング力の向上にも寄与 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJeTZ4VVhDLUFwU3ZSQnZiYzI5XzFjMlU0VlNrQ2JQbWM4VWd5bzUxNHd1U2VidWNwMzBlSTZEd0xscWRVN1BvNk1rUzRucVRWbUEwTDdhOFhjbkdhcEl3LTk5RVMtS0I4SkJIaA?oc=5": {
+      "title": "イボキン、三井物産と業務提携 金属スクラップの安定供給で - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5objJmM1ZYUm5qV1lkWXA4RUtrM19MNURkdE5SMWhiTGEzQ2Y0MG52bUpXRDdNVC15ZzRQRF9MaV9YeWVIRVhnRFVReXhsOTJJbUdXbXZHMFA1RXFEX0VZdVpQeFJEa1ZDUlE?oc=5": {
+      "title": "サッポロホールディングス[2501]：米国事業における資産譲渡および生産体制の見直しに伴う譲渡益ならびに減損損失の計上に関するお知らせ 2026年4月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE14ZjlWNm5WRXhITVV2bFpMVGlUS3Y5UEF0SlpmX0hLUmpENTN1dGdKMTQ2RWE5Y1V0TWI5dmpYZHgtUHdvNGRRTmJEX0xDelZqdjZ4M0pwRjFUWUlMeld4T1FrQVZrQmE0aG1XcVdERTVrNTVvVkZTX1MxSkE?oc=5": {
+      "title": "“日常の喧騒を忘れてやすらげる心地よさ”と、“素材や製法にこだわり抜いたものづくり”を表現「北海道コーン茶」新CM『こだわりの北海道』篇［サッポロホールディングス ］ - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3YyR29KYWpObEl5Skl3bWpYck91S1ViZnU1N1ozSVE1X0xrSHhwWWszZkdfUmlkblN3MUVubTJnU0tLSlJkYjhWZWNiSEV3SVd3MHVlQ1Q1aW82OHJTUjlMRDEtdzEyaFBxLVJzTUtVYTZJbU5ycFJOTGxKM2pjQ2NOT0tYNy13UHEweEZoTHBPZTZUSEtYSHR5ajM3YzlEX2JaYURYeTc?oc=5": {
+      "title": "トヨタ、インドネシアでCATLと協業 専用ラインに120億円投資 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdmtmZUpSTzhEeXdra051WXdMLWtDT1ZQSzhBdXlHMGJ3VldFdVN2TVM5bXlKRFBGdVRHZldsRkYxX3dlT2tyMEM5LVlrQnBTTWdUYXgyTEZTXzctVWhkclBkX21MY3BleEswSg?oc=5": {
+      "title": "楽天G、東南アジアなど7カ国でオープンRAN実証 国の補助金も活用 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN3JpVzV4WGNYWHdOSU1FVHJRWHBKcmpCRE10M29TQS1nVmhIVmNlaGhIVFVjd3pWbDdhVXgtZDJGY20wbWk2dTFhcHNKeEptOXpxeEtXQTJ0aXF2VDJLdzR0ZDZRY0NCbmdn?oc=5": {
+      "title": "楽天レビュー4.64の実力派ヘアアイロン『Lena』リナ、人気ストレートアイロンをリニューアル発売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SUGR5a2VhNm9lTWl2ZHQyNDZDRVQyWGNYMHRralJlejhEa3hQdVZMam5NOGpMd0t5TGxjWlN3TWNGZGlmeUhNaHFOWXlManh4cjNGRlExTGRQeU1INV80enItYnAxOG1aY1Uw?oc=5": {
+      "title": "姫路濃厚豚骨「ラー麺ずんどう屋」フードコート初出店となる兵庫「イオンモール神戸北店」4月24日(金)グランドオープン！ - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTjJyRHM3RXpsM1NMbnZTUy1KWWVtRy12QXVxcTdybWJpb3pOYlBYVTVVSXozcm1JMmtGMk81clkxN3JqNHFTOXhFSnZVekdwQlZjYkhqNm9qR1pfQzFzZkxtNk1ocjFRNG9R?oc=5": {
+      "title": "Samsung Wallet、JR東日本と訪日旅行者が便利に使える「Welcome Suica Mobile・モバイルSuica」の協業を開始 - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUhpUTdtOXVYVThCQmp1a0RJR01XYTVqZW9iYlBKMnNJS1ltRUdTLVBWSkV0a1dhd2dpMnVJZEFzNTJKSi1OZkZPb2xqQmZReV94aHhkckpXbGF0OUg5RVMwejJIMnYxVnN4VHpMZEV0VzV4UXlURkJVMDlmTUZWZHhyVldJZDRwemN6aDRHbWZ0ZXhsY2JoZUlTbTM?oc=5": {
+      "title": "ETNの保証者である野村ホールディングス株式会社の 信用格付の変更に関するお知らせ - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrcDhrT2oxZjc3VWlHRDdfSmZBVkROWllVQlpxSW50V01xSzd1U1FJZFRucG03LU5qWl8yYkN3NTFHSllGbUlfdXloM3UwdkpIdFFiVTVwcTlSQldWa19FRGdVMEctN1BNbFE?oc=5": {
+      "title": "オリックス不動産投資法人[8954]：2026年2月期 決算短信(REIT) 2026年4月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYVhZUE93VFphanZ1Szcxal90S1JMdkVCN2d1SG5DUFM2WTZhcWxHYzhoa1ZEOERjUWJIYnJsTmt6SnFkLWEzOWF1QkFoR3B0VWExSm5qUGYxZ3FuX0FZSF9pVWhkRUtiRmdKYlRTengxYmhIaGZXZmV6ZVo?oc=5": {
+      "title": "ジャックス、三十三銀行と「教育ローン」の取り扱いを開始［ジャックス］ - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3kxc2dmOVBxR3IzVmVjd0F0ZGFTQzc4QnRfMnZQdHFFbWprWmxYTkY3Uk5HbU9YRFFuZFNaQjY5Q2gtMmg3Qk5PNHRrLXNhOEREbFg0bWNPN25ObGZlRGwxMi13UTBWY1Z4R0MxRTktd3dYNkFXaGlYSkh0VDNEZjRzSVJLZ0VGbHFPS1JaZWx3ZnV5X01zQi1YeDVXdnkxU0R6VW5LZTg?oc=5": {
+      "title": "「東京ミッドタウン日本橋」が27年秋に開業 三井不動産と野村不動産 - 日本経済新聞",
+      "company": "野村不動産ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vUjVfRk9haFczRVphSzZxVWlnZ2x1SHBnbXlNeE5veXhucDZPVmEwaWNxWU5sSWdBWmxOcGdGNEZxTFFsNDJKMTFIRElUTlpyNk5tSw?oc=5": {
+      "title": "東映がゲーム新ブランド＝ＰＣ、家庭用機向け提供 - 時事通信ニュース",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44V2NkdG5WR09Kekh3VEVXelJENXBGdmxsSFM3djhoTW12QmlvN0RFZ1J5YXRVUE85ZE0wOG5wQ1RsOVFTUTNIOHpJaFVaQ0pQR2FWVA?oc=5": {
+      "title": "◎東映がゲーム新ブランド - 時事通信ニュース",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hcmpiaml6bW1iT0pSRXBLVndNWnN5YTJ6cTkxU21EdERkeXIzNVJJUXNMbE54OWZUVXhyTXBLVXBpcnJmZ1ZmaFhOaXVWT1BEcW1PVl9OSEJFdW1qVTU5d21XRFk?oc=5": {
+      "title": "画像・写真：東映がゲーム新ブランド：時事ドットコム - 時事ドットコム",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE41bGZUSnFyVFYwTGd5bUdJemI5YnpubE5aczhId0VjSUQycUZpYkpVanZhVWgtQ3B1TjNFWDRzbmgyV3ByaDVWYWIxb3dOdDVHdldQVTNKdjNGSmRvSVFYNFNZUWh6UEtUN25j?oc=5": {
+      "title": "「東映ゲームズ」始動！東映株式会社 新たにゲーム事業ブランドを設立 - 時事ドットコム",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-04-21T07:48:56.074110+00:00"
     }
   },
-  "last_updated": "2026-04-21T05:27:29.371870+00:00"
+  "last_updated": "2026-04-21T07:48:56.074744+00:00"
 }

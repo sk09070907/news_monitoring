@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZHZGQnZaRnY1LTVUS21Fd1VpeWRlUHpIazV2SEp1c01ubk1wYTNvNjhlSFdZUzM1M2RXU0ZQVjBFU0ppZW1rMEpSTW94R0x6OUJONnN1b2ZPdnN6bGdPMjhKcTNlaEM1VC1tRg?oc=5": {
-      "title": "伊藤忠、JR東に不動産移管の深謀 用地や人流データの鉱脈掘り起こし - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjlOTWNtbXdOSmhva2ZTdGFtWHZFbXJRdTRqUDFsd1owUTIwb0t5WGZEaXBnenpzeC1JTk1WbWx2OFpMWHlTN2VCSVlocktjeHZqVUpDWk9PdlVYTVZNVkN6QmoyVnZVVTQ2N2Y0T2FCdTl1M0xDOHIyR0pIQ3NpaGk4Y3pqYXdrRjR4Y0tCamlMLXNIU2JuQlNFTDVVSEIwN0gyNkhn?oc=5": {
-      "title": "首都圏8.5万平方メートル再開発 JR東と伊藤忠、子会社統合 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4NkdIX05DalFXRFQ0czl3NE9qT25pVU5BSWlIMG9vUEtpSS0ySV8tVFl2SGJPeWc2aExqNXdEaGhlODhIU0syYkdDaU93ajZEVGFkbDZsSDBrNVZ4dHc?oc=5": {
-      "title": "◎ＪＲ東と伊藤忠、不動産で新会社 - 時事通信ニュース",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHZlb19mREhiX2FnbVZZNlg4WGlNS0tsSTZ0RDdMRnRfSk9ndmVQUDF2NHlPRGdvdXltZE8zSV9jNUF5aS01c3p1SEF0ek4wWEZVZld0aVJmamsxTVVJTWdMb3RROXl0SlVfdDFzZkUyNFlHYkFqYVlRSVZFSXo5dTVSdFU2VXowWHdxYjljMk9DZWg3SkxuczlkVUpHbUJjSE5VTFFR?oc=5": {
-      "title": "NTT、JAXAと衛星通信検証 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UQ3p5UVZiUV9vQWxmaEg0MHlueFV5cmFReG9PMVJvdHktajM2Qm5XY25BQU9uMncwUXFhYjJRMFJZMGNSUHYyNDlpMGRHQnczbTR0cU53SFB1SHJaOG9pbmMzVGN3dURwbGVleXhKWUtERXZHY2FmM0w0ZUI?oc=5": {
-      "title": "生活者はAIサービスを「負担の軽減」に活用する一方、「付加価値」としては「安心」「感動」といった感情的価値に期待［NTTドコモビジネスX］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUlvRVY5QmpLcjY3N1dnV1VUMUl6NS1IYVhrV25fVmoyUXA3YzlCSmlvQXNwZlJMTVZHbjRBRGgyekJacnlteVdyZmhVX01IejZxU2U2TzQ0c3BIREpXREJpZnFpcGdRaUdaTTQ3T1RObmQxczdBS0ZHejdhWWVXb1JrTTJnbVVvSGpGTzFfeF9xTEpoV2QtN1FVRDhtWjAwSU9OdGlqRnQ?oc=5": {
-      "title": "三菱電機、中国勢台頭に危機感 ローム・東芝と挑む生産コスト削減 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BWHVYLXhpUW5xTXM0OUlLcjY5OWRUYWg1aG14RWdfR1hNVEwxa29YNUpPNFEyNkE5OGQ4MnVhTnRNNzlwd2pCdzBnY1ZwaVNQVEY1cHVidDVkZjJzalBYTEpaVTdfVHd2NHU3cQ?oc=5": {
-      "title": "三菱電機、中国勢台頭に危機感 ローム・東芝と挑む生産コスト削減 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmZnS25BNkFvQlZhZDNZdFYxZHJIekN4X1U0Qmk2WXZCWkFjdGJIRnlFazZtX282V1V0aEpCazFhQTRablpnNkNmUndBMnMwSWZ3TF9xWEhfdUhPa1RZMGtnbXhlSWhKbV8xb1pwd2ppWE9LVUFCNlYxU2g5bDRIbEZyc2hKdlBmWUpJQmkzU3R0bkd0eTVHa3p2MFM3X25CMFRBbU5RVkI?oc=5": {
-      "title": "トヨタ式、次の100年 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDEzQS1JLW1ZeEw4ZEE4UGc4YlNDdTU0TVh4MkN1R0FqT1dRbE5TcDE4RnlzcFhnVGFGS2RSV29GOXhFQm5vOUZvaEJrVGtZaEFVQXY1ZDdBUDVCUWhuMjdYYVJoSV9yUFB2bU5ZN2JiaW1BdTdqT2hPaTZmNUNYMUhlV2ZVcUxOTWR1OWZjaUZIYy0yNGNxOHZ0WWwtZGpYc1NycDZR?oc=5": {
-      "title": "地震に負けぬ車部品供給網 アイシン、10年前の熊本の被災経験継承 中継倉庫や生産地を分散 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZHZRaGlMUXEyVUZtU3hOU09CTkswZE1JN1pCekdmUTBNeGRyRzhMekF2YjE5S0tKRExtblF5dWctQVlpNzZyU01FaDE5U1hJYzRXR3Y2NWVNeEhLc2ZjZXVNVTNYbngyam9LVV9ESHB5OG9idDlESzc0eTg?oc=5": {
-      "title": "「楽天ペイ」、兵庫県と大阪府を中心に展開する「関西スーパー」の全店舗で利用可能に［楽天ペイメント］ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE11bFI0dlFxUXNwNWFrYVgzRXBCRnFJei1oRkJLb3RYUnNqOG4xRkR5QzhLN2JCVktUdzVmeWFqU1g4Q3l2TWFIbkZqRGRfRkxpUXJMWG9SbEZiTW1oQ3BOZzlSQXNsWm9lOXpHcHFZVWVSWk1zNTZoUGhCUTA?oc=5": {
-      "title": "JR東日本グループと伊藤忠グループによる不動産事業分野における統合契約締結について［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxajdrUVF4U1pJUUlOZnVUeVlQLWpmZFNJWE4zWFMtazVJUDdzZlI1azUzYVRBdEYxUllTQzJ2REN0YkNuTDVXXzhzcXpLMjA1QzBkczRydWVOOTJKWFZKTDVJaGZoRlVXTkd3MQ?oc=5": {
-      "title": "九電、農業に本格参入 オール電化でイチゴ栽培 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazFycnVYbkhyR2pMM0tMend6eUgyZWN0bVJKRnNvSkYzYlhHRTBBSEhSanQyand4cTVveG5yTFpxb3p4YW5GSTJUSFhkdGJKVTE5SFdnemFySE85NHdTWUpmeG82S1dvYTRDZ3hxcmQ0U3ZwVGYtNDJKMzk3S3B3OVIzV0JhVl82R2pyNDJzQm1IMlRFTmhLMHVPbkxidkNUMkE?oc=5": {
-      "title": "事業承継支援 共同ファンド 東北銀、SBI系と - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoMkI5cksxOW12TnlOcFRvVGpyYzlJMms4ZlNLSTMzMHZOWWxmTXkwckNNc0FTd2k4QzhGU3FCZk9PZGh0RTNRRVh2VmNsTmstNks1ODBvME1OS3U0SlpRVk5hSVdRdGZmOUhfNERVdEVicnZNbTdMSkUwbWQ?oc=5": {
-      "title": "Transpose Platform主催、東大IPC共催・森ビル協賛の３社布陣、AIハッカソン「c0mpiled - San Fransokyo」開催！［TRANSPOSE PLATFORM MANAGEMENT, LLC］ - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-15T21:47:39.146771+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1NVLUcwRFdiUXowSGRlRkJKMzZsWGVRTWtWOXFFS2pGU29rdGdpQTJpS0FBTFRIZUtyRjFrMkNSbHlxRkNEamVmdlpQMXJvNzE4NEo3c29qSUo5bkhjVVlFVjZaOU9GeHdPWHBPTVJMeWYzT29lVjV1M2pScWZDczU4Smt0MTE3MEgwZXN0OHVMRnpaT2ZzanlkS0F0UzRYUC1Hb0NR?oc=5": {
       "title": "首都圏8.5万平方メートル再開発 JR東と伊藤忠、子会社統合 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -3281,7 +3197,61 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-04-22T21:46:57.362489+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUlZVnU4XzVkLU9OWHR3YnVVRXRlSEZ3SVMtZUpGQ1ExZVluejNjYTFyY0x1Z0s5MEd6NVFydXBXelU2QUs3UlBrRk9lWG9HaWxYaXBiS2ZjZ3lZVFZBTmZSZnltdlhJODJBU2J6NzlDeVpsRHY5Z1QxX19ucC15LVZzUWxkT3Nkd20wRzBILUVwTmRMbGZHcXp4SmRuVHA4SjFHVzA5WEg?oc=5": {
+      "title": "NEC・NTT、国産通信網巡る溝 株式売却浮上で電電ファミリーに暗雲 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9scG0tT0RuLW1zRmNGODZTVUI5bzhON0lyU2V1cHRCTEM1aU9iQkRPck5yYjU5Y2VPMFZlYjNVYVRjZm0zMHlFT3dRV1NjTWtOYzc0Qm15VFUxbS1sUUVxOGdOcG1pTjFKc1Z2LQ?oc=5": {
+      "title": "工作機械、超精密加工が兵器性能のコア 「東芝ココム」の教訓 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUhKbXJ6U1E5VVpnQnEyTmNRTHZhLTUtLXJ0UERISDBXUFgzTVRjNDdhVHBMb3FleHNMQjJMMTRpakR4LUFIN09fMjlTaVY3T0RBX3loaGpGS3d6Z2hkenlBMnlaRGl4Y19BMV8wekJUV3Z3dlkyb0NGQ0ptZGZpOGxQZnkzbG9oSjJXck5PSzRrQ3loU00xQWt2TmJRWVNKc3YzdEdR?oc=5": {
+      "title": "工作機械、超精密加工で兵器の性能を左右 「東芝ココム」の教訓 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZml3VTRnT01lcjkwV1hVWFZ5VnIyTjh3OEJuVjhiSThDbW1oMWVyTllxVGR5bC1oRUp3UXZienBvbVRoWUFaU0JZMWJDX1Y3bGFKOTdKaUdGU0xXaVBETTNmaTNhdTkzWWNhR0xIZi0yVjVPNmZYdGdOYTRHanc2eXhPZFl1N3FXVmpCelpZUDducFpDRkJHTGhRcjhFY0t5SEtHUGhOSkw?oc=5": {
+      "title": "工作機械、超精密加工が兵器性能のコア 「東芝ココム」の教訓 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdk1HWndvNWdCLU9kMEhIdmlwVGxPbE54YVpFd3VwdDAtUEFQb0dCYlJ3dzViTGpCeW0tci1YNDdpV3hrdG9XNDlrOVVsc3BOaVh2aVhCZTZyc19mNTdSeWE4OGtLdGRleEE?oc=5": {
+      "title": "東京計器 - 日本経済新聞",
+      "company": "東京計器",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2tpQ2x5Y204SzJQcHozOVd6ekY1a3hTckZPYnpGYUZvUVNmSDNNUlNySU5wQ3hXMGpMVmdhOVZnNl9lTDh6QXUyX2RQam1sNUtVM1RuLTlRZGZvdHdHRHgyOXhJT2FDRExJVTdQU1J6eFFCdS1DbXQxdm9iUVl0Mg?oc=5": {
+      "title": "トヨタから情報持ち出し 法令抵触の可能性―損保大手３社 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNby0zQ2dSYlNsYTc2M0lmT0JSMFZIcFNWSVpqNEFsV2M5WHR4VWYxX3pJX2Z5T2ZiNFl3MU4za0c2RktuWUwzTzNIa3ZTRzlOWmlCWGVKbENzOUpYeFBEQjl0dUdWSkNtWEhjUTdLcnBoTkwwLVhtc2RzemtaQkJsWFRnaGVHYVB0VTJySm00MXQxdzYtMWpvVVpXMmloZWJnb0hHQzduazMyLVFuRHFzS2dUbTBocU1XdXVyeXM1ci1iWGxsTURQbG9sNGc?oc=5": {
+      "title": "イオンファンタジー[4343]：ちょっぴりレトロな「キャラisオールスターズ レトロコインケース」を ４/29（水祝）より「かぷえぼ」にて展開 2026年4月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXNEa2FoY0ZQOWRmc1JxVXRkOE9aNkVod1Vrd0Y2ZTVGaEt5LXN4UFlGUGU1VHkydkFONXd2NjFxaHV6M0c0QjR3U1dVdVlpX2dHTThJY2duWThlS1YtV2stMGtUMUNiOEdQdGJxZTZpNE1Cel9oU1gweEtYRDJ0V3VzOGI3UGRCSEdEa3ktVlo0YVNIMWFDa1QydGdrb2VmSTU0VEw3c0U2bEJBdXhrR0RrTU9sbUVmakdIT25lczZhT2NxcXBMX3ExNjU?oc=5": {
+      "title": "イオンファンタジー[4343]：【ミューの森 開業3周年 もっと楽しく！もっと気軽に！】 第1弾 「もっと楽しく」企画 滞在そのものが体験になる、“共創型グランピング”へ進化 2026年4月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbW1CQVBucllfazFBMjJsWXNRNnV3OGkxNUxTVnBkcVlOQldILTVrQjBXZE9velAwX0ZJYlk4TnZhekNFblE4ZUtVcy0yWVV2ZzByQmJxbTd4Y25VazRSQ3Fic2VobC1LTHVz?oc=5": {
+      "title": "SUZUKI KATANA型 「ピザカッターナ」が「ノーティアムイオンモール白山店」で期間限定販売！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-04-23T02:30:34.463831+00:00"
     }
   },
-  "last_updated": "2026-04-22T21:46:57.362802+00:00"
+  "last_updated": "2026-04-23T02:30:34.464394+00:00"
 }

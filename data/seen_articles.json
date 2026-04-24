@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ed2ppVV9ocTJ0SzNfR0NXVENycUFDc3pTNHV1Vl9raEVmbmVxY2V4MXdmODFmVlpObTZ6dWp5Z0pqUE9aM0xqdkFieE4zcDhhRVZhSHZkR2JqOVFaU3BCU3ZwMjJDd2lhYlhN?oc=5": {
-      "title": "伊藤忠商事株式会社と日進ゴム株式会社が世界商標を共同保有する企画“MILVASTAソール”搭載、株式会社ONIが手掛ける最上位モデル「IRONHOLD PROMAX」誕生 - 時事ドットコム",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHcGUyODRySTRvSEVqbmpmb05jb3hKb0Z4ZlRyRDhhMVVNUW9jRWk3QnZId0t1VjdtVXUtVjNlN0ZOWUdRV3djcVBBOHc0WEFlZUVfaUVhZnlVV3p6LUZPZEs5VEJ4VHVSZ19Zcg?oc=5": {
-      "title": "NTTグループ、千葉県印西・白井エリアに「東京TKY12データセンター」開発プロジェクトを始動 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaUFN5VHVKWUNxNTkwV2pRS1pqUWNSckMzZDlqU1VhbVBOX2UxeUVkdGgyeDFhaHpvcks3dGNkMkVKbGd5Q05HOTNxOWR3eGNGeTg0VmFUc215ZnJ3MXhXVmZOOE1XMF9PX3JQdw?oc=5": {
-      "title": "フジクラの株価が反落 米コーニング株下落で利益確定売り - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iRU85VWZYLVZZblZIalZhWkMxTW5oM29aMkhaX2tsaEJlaVVsUVBwbEpzVUQ4YmVrVDV5Nk14eFpLTkprYW1fMmtjMFFHWEwzSVZaaFM5a0VnS3RMX2VLdFJia25UZ0E?oc=5": {
-      "title": "トヨタやエアバス、超電導で「究極モーター」 水素航空機や水素エンジン車に搭載へ - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GVlJaRGl2MW9PTzBNbTNmaDk3OWRheng4Z3FXaHBEWFhnanFacXZjSndwcjNmWWdKQXBKN2lUS3hQcUtuLUNILWd3UHlOdVdNSlFXWWhISk1pZC1iTFVmdldyUVlRcG9ZdUlV?oc=5": {
-      "title": "『鳥〇食堂×タニタカフェ』が兵庫県初上陸！\"食べて健康に\"タニタカフェとのコラボ店がイオンモール神戸北店に4月24日（金）オープン - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVdaUkhGanpYdkxWT1p6NWIwc3Q1QXlZT2hRUUtCZ2lfUTdaRFhvY0F0T3BXV1JDRDFhbFdwTXhwYTdTU1RIaENOaFhiZ2FhNnJ5RVJzLTA0YkNXLTFCM3JHQXVmNlV6VWQ1Z3N4ZF9oWVFYQTB3dDRJaXNtMUwyWl84MWt3NC03aWZjWEVabTMxU05kYjJ6YlFFRW9VVU5lSHc?oc=5": {
-      "title": "〈Leader's Voice〉データセンター接続待ちを半減 東電PG 金子禎則社長 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcDVmRVFIY2RERHpyRzh6bHRpay1UVTZzUVdzUlF6Y0k4X3poa181YnBadE9acG9mY3NDeGhLUVZyUU41VXlTS1B3WlJwczIxYzN4Z3duZGFzT285YXBvZDRabGlBaEd2bnQyNA?oc=5": {
-      "title": "黒部ダム（関西電力黒部川第４ダム） 富山県東部の立山町…：黒部ダム 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUNRcFF1VEdrVmFRTUJsOWZnckJNQlhBdnA5bDRXOGdFT2dHbGhtbTJKZ3c3a2dfbkZLV0ZiblVHSjFuVm1lU21yVTViZkxVTkZQUHBXM1duSTRCS1RuWFRnbDJkVXJaTjk1YzZIMVFBdnRpZTRNMGNUYWdVUm5UX3BLMTJ4X0g2dU5GTHBENGhIMzRnT0VDUmtwLVRCRThYUTA0T2lKdy0?oc=5": {
-      "title": "日本株ADR16日、売り優勢 みずほFGや三井住友FG下落 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjdSVDZjUlZRSng3Z1ZWOUlyT1VmcFI0YWdxWDB3bl9NTjJwLXVNTXpGWG5mcVN5QWIxa21GT0V0Y3EtQldJeFZHZmxjUXk1eDIxa3lzSU9nVjFXQ2NkRjlJM2NnVTFGdGU3S3l5dVJENzZYQ2NCbHIxYkd1M2s2czAtSGlEXzlpVHNabVc4OW1UZHhVR3hhUlAxcllFWU0tb0xiaFBn?oc=5": {
-      "title": "SBI、クールジャパンと共同ファンド エンタメ向け125億円 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T02:28:24.592794+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zZk05NGRJTUo2bnZfMm1LcU5CRGlDNnFvMGRDYi1yX3ltSDd0RlNWM25kbGNGZ0lReVV5MldSM0E2bjltYWJnckZuTVVQVXRaM3d5akJrMjhCWmUycEpCdUFTbUp5RWpYbFVJ?oc=5": {
       "title": "東急不動産が三菱商事とホーチミン市で手掛ける、日越合弁によるベトナム初の「アーバン・ハイドロセラピー・シティ」開発 - 時事ドットコム",
       "company": "三菱商事",
@@ -3455,7 +3401,67 @@
       "company": "森ビル",
       "source": "日本経済新聞",
       "seen_at": "2026-04-23T21:42:28.859513+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWgwb1RLYTJ0ejBPd3Ywb2pMdXZwVWd1QV83MHdXT0FQdDhleFhwZ2ZuMnJ5UlVNWl9NV3dNS2l4c19RYW9SRnpTMk9CVmxCLWhLa3FsT1UwUGlsTWFwa3ZoTlBuQmdETHd2cWZuRl9YTGpWX1VfYVA0dVFmUHdXQ1gta2VJYU94NEJfR0hCOU1yNEhQME91SGMyWDh2UFRKZ2Y2NTNR?oc=5": {
+      "title": "（新トップ）ニップン 大田尾亨氏 - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc0pGMVRtcmhwaHNOMDNESnItZ1o4ZXBIX2h6RXdvLS1uQ2xEM1c5ZFlvWWE5aDdZcEN1VjE2cl83WG1vNjc0TjBfejktRk52UlhwRWFmZ0lMMTRFNHZPVFBTY2stQUcxNFpZQQ?oc=5": {
+      "title": "フジクラ 投資支える技術力 6年前に教訓、収益性改善 光ファイバー成長に自信 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXViR3RqVTVGY09CakhhVWxIbjRMeklwNUtlS1J5ZXE2VVR4bENGUDI0akdKajZPZDhlLV95VXdXbmtneWlsVEtYYXlCZVZJSjB4d2pISk5Jby0tUlpYczY0eEhPWnE1ODhfSmJuV25wUUtodlRUdmRwRk9IOFBEU0VJbUNwLXJvVnJrNEx6UGVXWHROWkZvVm9IczY5bjAxT3NsSlVB?oc=5": {
+      "title": "MS&AD傘下の2社、行政処分後も情報持ち出し トヨタから - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sTmZ4cm5BYW5lSm41SVRaMTZhQXhRMzJGUnB0VmthNTFWbmhlSlZxOG5vRXZyNGJDdnhzUmpMWEMzemFjSkZwbU90R1BuZllBSkU0RFFUbGJuUUxRVzRPdl9hanQxU1lyYVdsQ1YwZmpTY202MXZqLU1nbzA?oc=5": {
+      "title": "【赤字覚悟40%OFF】楽天レビュー4,000件突破★高評価4.6！AI搭載11インチタブレット「DOOGEE U11」今だけ13,499円、在庫限りの衝撃セール開始［深圳市道格创想电子商务有限公司］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4aUthc3pWZnhNRElLOWVVYVgwNU92bk1BVXViVkZHQWgzaUkweGFPWUJqTmg4bVJaQ0dJSHZ6MUlJQlRjM0kzZkN3dkVHODJYbm40ZzBTZGQ0NnI5Y2JrWW9PNTM5TjFHSDJJ?oc=5": {
+      "title": "【赤字覚悟40%OFF】楽天レビュー4,000件突破★高評価4.6！AI搭載11インチタブレット「DOOGEE U11」今だけ13,499円、在庫限りの衝撃セール開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ub256THBnYnNlV1lCcW03dVZ4cVdIakFwTkFsZG9FODZhOXhZd3RWOTk0d3hlekxFak00WWFHU2Fhc1hrUlNCcndDYllTRnNtSjlTWEJYRzluMXlDTWxpWUd5ak11Mlhhb3c?oc=5": {
+      "title": "イオン九州[2653]：第54期定時株主総会招集ご通知 2026年4月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OQll5c3dPaTJILWJNX2JFMDA3VF9oSDVTcVlMeXp5a2tzckVPNlRhanp3aTRQVEk5SF9VMGxqSW1MOGhjMlU1Snh2VVZCWnBoQjl0UEt1MGY4Y2JJVXRRRnJiV0tTOUQxWFE?oc=5": {
+      "title": "イオン[8267]：2026年定時株主総会招集通知及び株主総会資料 2026年4月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVRhZXN5QjJvaFRUZVYwckZQUmRNckVwMVdya29YSGtfYVdpVDJBZTJSTzBfX3FLOFBiclVkS0Iwc3ZYakJCamhjUzl6aTRMcDVoY0FIcTk4Y3VUY1ZibW1ISmJfTVlERHlvam11Y0JONG4yTDAwUXpYYlhKeVB1Z2ROckxvNkxxVDVpRHAtSXVQTlhJUlhiMzgyQWg3Y3F1TG9HLWJweEVBVlhvMnlVYmpSbGlGT3NRVDZXUWJjRnNyTF84ZHFwWkJheGY?oc=5": {
+      "title": "イオン九州[2653]：第54期定時株主総会招集ご通知 2026年4月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ5cTZUQmZBYk45Z1VtTDJISnhwdFU5ZDIySmE5SjhXRzdkX2dFOFVmZFN4OXUtRUs4ajY4WUFGMUozNDhjV1VLRFNGV0FYVTNyWUVybjl2RXk3UFpmbmp6bF9LcHNlN2lKQy1yN2hvcnpCY09QUEVYQ1RqdHk0ZWRPekNhTkl3TzEwX2hkanpaX3FXTThvejlQYmFJNENfanc?oc=5": {
+      "title": "大分県・九電など脱炭素で協定 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSXF3Y0x6SUlpOU0zQUlSdzEyNGFrYWhXdnBzS0tzQWZjSVpubHFtYVJfTVVjWXE5WHpZZS0xQVRlMWtGVkx3dklQRE5aOEJwc1VhLVhPYnpZcFZRUlA2WE1ZNXBRR1BMUHc?oc=5": {
+      "title": "大和証券グループ本社[8601]：国内初のトークン化預金によるセキュリティトークン決済の実発行検証の完了のお知らせ 2026年4月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T02:31:25.406265+00:00"
     }
   },
-  "last_updated": "2026-04-23T21:42:28.860151+00:00"
+  "last_updated": "2026-04-24T02:31:25.406823+00:00"
 }

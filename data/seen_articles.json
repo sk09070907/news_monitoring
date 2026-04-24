@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHlST25mRWRJTDgwdGQ0ZlNobFptQTBabGJMSDNMQ05aZXNjRFl6ZVBUcDA0RThJY1lyQlBVNGhsRWpoUGZVSUZjb0N4ckVyYVVzb1hLbncxdFdIUnh3LXBZYUI0SmNaeHJmelMzdmQ5ZUc2UUQ4Q1dqLW9vUE0xSVV0bDN0QWd1dzZZaG44VUxYUzIxUWsxWklDTjBzWHdkNC1Z?oc=5": {
-      "title": "駆け上がった三菱商事株 相次ぐ大型投資で成長期待、割高感の指摘も - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tbXlKZldsR091U2JZNnNQNmhYZG1la3pVX0x4cmVaWlBEV1BQdzd4VlplVVYxSGhBMlJwQWRHZWdTTHBHSzdYdXVuUGljaVRjOFdTdXFNVlpVVmZYQkR1TmNrWWVKNWxyMXJKTkZVLS1uczdQVnhvUFgzM3c?oc=5": {
-      "title": "VantiqとNTT ExCパートナー、HR業務領域のバックオフィス支援での戦略的提携を拡大［VANTIQ］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFh3UnYyOG92cERFNldfalIxaFN0MmxxTmhlYmVTSjZrdHIwN3hxSDVfX2t2d1ZmV2FwNnMxaVlJRTFuMDQwa3dpcHdHcTl6aTF2OEtUMF9uZkxFVGJoOUpUaXZIanJrZEdyZkJFX0tsWlN2WHg5NFFLWjE4WHN2akpmVFFJS0xIdk1kQXdZVW5kZjRJWlJLQmc4aW5ZTUotV3lWY2lNaHM?oc=5": {
-      "title": "まちづくり、データ拠点軸 NTTグループ・白井市連携 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzB3Zy1GVzNPVUFhTmkyajJPXzNIbld3M3BGYmVhLVFoWkxRcHVObHFJNTlIa2dlS29xYS13RkQ2TGRabW1WZ3ZqNDVEUWZUVGRKRldjYkxLTTB3WkN5ejZWMFJ6T1pxcHc4VG1FakVBREx3aHJHQy0yVmU2WXhKeUxIVkowXzJrM0lXRlNEZlJxNzBwVF9iM29B?oc=5": {
-      "title": "NTTデータ、国内最大級データ拠点 千葉で、AI需要狙う - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wR0szelU2RWhDdnpjWGhGOWdLMEsweEFLbHpiNGtKSFg0c01xelFVTGdzQ2MtTGZzT0h2Zy0wMG1QbTROdWJUV1B1MUQxcTA0d2gwcVhmbXN3ZGt6cndVb0d1bGR0R2VGT2J3?oc=5": {
-      "title": "VantiqとNTT ExCパートナー、HR業務領域のバックオフィス支援での戦略的提携を拡大 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSll4WUF5cEJldm05a05yYXpWNnNRMFJTNjF5OG8tWUJ0elRad3RFSkNuRmRlcENnZnlLRVAxWHFrLURvUzlsNFlNVkl3Y194UXNxUGJWcHg4T0lvRUVGZ2lEc3U3clphQnVPZg?oc=5": {
-      "title": "サッポロ、飲食店に「エビス伝道師」 専門知識や3種の注ぎで認定 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjFtVVZrWEw4dlQ3TGJlazQzQmpfam5CUjlVbDJZNGZoZU5haGNNWEtFbk1NVUhrX1JWT1ZhWmp4LUJmVVZWTHRHU08tTDh6NzRvekk0bHNLNkhVdjZ6Y05yWUJuZWZya01jcXYyNWROREtwVW10Z0NSNlJRb2o5LWZ4ZndhblRnOEZ5MW9QSlVtT0NuRUdXQ2ZxbllHUDRzZFE?oc=5": {
-      "title": "サッポロ、飲食店に「エビス伝道師」 専門知識や3種の注ぎで認定 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzUyWmRYd3pQM0RWbzhqaUtuUkVYSVRTX09DRkRDY0dqdTVLRVVyeUhsN1FzRTYwRUdTTnFpdXJ5S3VkTGVPc2pUR18tMVkxaGVTY2ZybzdqenJRZVJucDN5X2d2eGI4VWRTdWNNZFhxLTA5ZkpjYXRndkJyTkdMY2hVNlZobWJQei1BZjU5RlRDOUpUZHY0cXFIZGhPbHVnV2c?oc=5": {
-      "title": "栄豊会が総会、発足の思い共有 トヨタ・近社長も出席 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelkwM05lYVlHRm9RLTlmZ2Z6bTVsczBTWE1qS2R2VnhSZ3Y3engyOE5NZ0NhM1M3bUpPT2JGZzBhVk5ta2E0Q0RJbzNtcThqZUNUSkJ1cWhlNUVzdWRpaU5QWnV2MElIMDgzdmJwQWlHTUtCT2JnZG94c3pyVl81SFhWRDZmM1pVa1lRLVpWY3ZKQ0EzRkpHX05ZVXpMRmwyNGxxWnV3?oc=5": {
-      "title": "楽天G、米AST株売却 衛星通信、700億円相当 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MeFZic3Fjbk5TaGFRcFJZYjZlQ2VyeGVNci1tUFJPV2FxMnBPVW9mUEcxS3FGR3Z0M293QVprMzY3bkt2M1NGZ21NdjZwZlFQR2FOTWZsMnFCOWtZN3UtLXlFb0JENHU3VHVz?oc=5": {
-      "title": "ISHIYAイオンモール札幌苗穂が4月23日(木)オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RaHZJMzdXajF2UjJwLXp5MEpJTVI2aThOMWZqcUJwT2NuUzlJbk5pRUF1Y0FwTDRCeWVLZXBSMlB6ZEhxRzBtTS1SR3FYbXozSmtDR1hBSV83UnVvUllQVmFBNGR3bm1OZHkyWjdkRTByYjdyLUFEMVQ2QzA?oc=5": {
-      "title": "ＲＥ１００電力、四国電力・東北電力管内の発電事業者様へ朗報［RE100電力］ - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX09COENGZjQyNzVxTHhQWnY0OXRTeFQ1M0JXRU1SQ2w0dHctaEJDbmVBekUwWnFCNmhDQnlFMGtxZXRmMlE3OGVyN1hZOVV2b1JxeS1yaDE1MkVZV2QwTlZSMGJmN2Vmb0RkZGJJd0FqYXRidnhsTWl2aDh0Z0JLVlB3UnB3Q3BuZ2tKUWtfaThCN1dCU0c2RTNKSC04bk1xWGFSQ19QV2Y?oc=5": {
-      "title": "日本株ADR17日、買い優勢 ホンダやみずほFGが高い - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SZ2N6TkNibkktbmFZWHd1TFczTGlTSDBxVHQ0YndCRm0yeWRjNWdNSkJ3ZkFFYWgxRjFUZjY5SDdHbVEtWmlSYVllcWF4WjBaWDl4cUFyWnlnNnNFYWFvWGZIUDlIQjV4VUxOLQ?oc=5": {
-      "title": "日本株ADR17日、買い優勢 ホンダやみずほFGが高い - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkUteEl1dWxiQTRrWkl6OVE1eUt2Wk90R2pwbWN3b3lQMjZLQVZMdFpXbGpHRnhBZFFNQUlPNUJwaEdnNmNlRE9vR01rRVR4eXV6Q1BybFY4RXFxbVY2ZUF0bzJsSGNfT0xGSEl2ZW5iUjM3UjNmNTFHQTNZV0lEYkdQOV9hRkhhaV9ZOW1BTFVhNDVLSTI1Vng0by1XX09iM3BIbnBB?oc=5": {
-      "title": "SBIHD、フジHD株買い増し - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-17T21:38:32.160502+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU92dWRYYkJrSFpkTF9lR1hPWjZySHl1UGFOTjRDUXk3YUQ4Y1dfcWVyZjBaNTFBMWMwY2lRSzZfN1Fub1d3Zllna1QteGNicVZURHlFSkRkVURDbWFRX2tocHJ6NmVZelJ2aGVUdU5idWJjc0MyUVZMY1J3RjhGdzE5QmdZSkRBSnluN3dDNWphVUtzdkFxTmxRVW9FT2JzTGJZMTBfMjQ?oc=5": {
       "title": "栄豊会が総会、発足の思い共有 トヨタ・近社長も出席 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -3641,7 +3557,67 @@
       "company": "野村不動産ホールディングス",
       "source": "時事通信",
       "seen_at": "2026-04-24T13:21:54.660852+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnhpVlF3cGJocHF2MUhhd3VHU2RSeEg5Sm1keE9aSVN5WE1XTTlOQjY4T0tUS3J1VGFqMVh1SjFIcmJpN0NFeWVNQmNkOFJOakZndldZVnFScF9SQ2FkYndpSHA1SW44UzdLblJJUGQ1ZGVpOG1wdWVHMGtWd3E3RGg4N3VYaDF6WUZsT0xoQXhGZFZXT3FCTmExbWRUdEJZQ2VCRk53?oc=5": {
+      "title": "「おぱんちゅうさぎ」アニメ化 伊藤忠、IP駆使で世界へ グッズ展開広げる - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkNZV1BwWW9BNzB6c1ExME9obDdQU0xiSEVTZXdzdXdYY1dUMjZVa01EN3FCU3FCRUJXbnFzWmxLRkhJTnUxdnBNYmJkU0tVYWNseTltenpPa1BMVG9wSnMweUNEQUFsbG9UM2NyX2VyckhaTHVNTnVHbFg5YXUyTnZNLUxWV0VIaEwtLWZFb053V1BzbFVDc0cyUUVPbUlvQlE?oc=5": {
+      "title": "太陽光発電所がチュニジアで稼働 豊田通商 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KZnBsQ0ljZG5KaGJiRDhRMjFBOXV6TExJR1NkSGV3Zm1XeExEOXFMTDgyaVRZQmZfcW9UWnFYX3ZOb2RMS0ZjUldOM2p5TmIwQ2hXUkd2eGR2bHZQZnlLRkFKT0F0SUJSR0E4TlFSYnZ5UlJUaFdGRzI0Qm4?oc=5": {
+      "title": "「原宿クエスト」全10店舗が4/24（金）にオープン［NTTアーバンソリューションズ］ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXROTzk3RVRwNFRXZ3dXM1NyanJXVzZqV210ak1fblYyeC1NbDNQV19jaUROM0NZV1lPZ19yZzFmRXJsaUgyZG5Bb2xGZy00V2pwTUpESmEzWHl2bjF2RllXb0xBVzRpYnNkdWhVM2VqZnU0bWJ4U2JyVVhXczkxT0hBby1hS082djlRZWR0bV9VMEU2eWMxZGtHVlVsR3pqTExrUFlR?oc=5": {
+      "title": "汎用樹脂統合、公取委が承認 三井化学など3社 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsN3BidDVYQzFJUF9LVXgtLTlCdERYcVR4VW9ZRmRYMVZySzZkcVd4aE1CSjdlUTVGV2lyOG1lb1NIM1BnY3pRdk5fRk1KRG9uZzh4MENQSHVEWmZaa1E?oc=5": {
+      "title": "◎三井住友海上とあいおい損保、トヨタからの情報持ち出しを謝罪 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGtLaGE1VHBFWGx2WVBqaDBEejhVa2RXVGR2Y3ZwZjJ4QlFaSnhmNC02OGpMUFhad0xJOFFYaDBfWW96QlhudnRMQXFXOGR5dEI0bGV6LUplNGVGc2tTZzE3R3c5OTdDREdvWUJIdGJRSXlyZkZvVUxqcWM5bTlNUkZieGZhVVAzSkxTSnduZUZhNDM5RGRnSXZ3M09kMndrVlZXb1Nn?oc=5": {
+      "title": "東電会長に横尾氏 産業革新投資機構CEO、初の金融出身 政府と調整 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aWHFPTnhKLS1Ud2dCRlZEdEp3eWVNZU5rbVpwenExSG82dG51T1h2Snhrbmp1QVNyeU9ROENiaE8tWWtEY1ZpQ3NIWW05YlVPa1VVejV3SzdqRDhwQ1Q2aTBTbWtMalhieldF?oc=5": {
+      "title": "「主食改革」のはくばく、三井住友銀行主幹事の「ESG/SDGs推進分析融資」によるシンジケートローンを締結 - 時事ドットコム",
+      "company": "三井住友銀行",
+      "source": "時事通信",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE91U3hhQ3FocG0xWndrUjd5SW1yOEtrZER4MllMU1NQSkMyek95ck13cjlqQW5SSjYweDdUV0htdDl0TUlYM2wxYnVjSjJadUliVThkSWRIWDdTejJiRlZoRHJsTEJMSzFPdTliZ2tYcW1EOHllSWZqR3pJd3Y?oc=5": {
+      "title": "「主食改革」のはくばく、三井住友銀行主幹事の「ESG/SDGs推進分析融資」によるシンジケートローンを締結［はくばく］ - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmFmNHF4MlNhSjhOSHkzOHl0MmRLa3RSb3Bpd2xKLVo2TVpJRjBjMEt0bW9hN2ZfTmZhajdLb2lSWThpR05tcEVJNFNQU0NhWTU5NW9NN2h4THpjVVhfclBhZ2J0Y1NHWUtFQ3FzbVFyYXRPSXBsa05GSEJ6emluZURXN2EtbHRlTG12RFRZeE5vM1ZZU0hmUV84XzFkZjN6aFE?oc=5": {
+      "title": "野村HDの前期純利益、2年連続最高 株高で6%増 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRFhjdE9IWXVBOTlqTmIxZGxFemhsWmVxd0tJUVA4aFlqQzU0ai1SNlVnVjNjb3V1N241SmRsYmtZWjlvU2xpNERzRjV0WXFUdGNvVmxRVndiYW13eEpFTlYzNkpzUXYxZ3RzUmphZzRJeU1vZnplUHBsQjkxM29wRGVHWW1uR1dQWnZSenZycjNVRXZucVhXUWY0Wjc1dHNRSGRweUs0Xy0?oc=5": {
+      "title": "福島銀副社長にSBIの森田氏 金融・デジタル強化 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-24T21:43:58.421652+00:00"
     }
   },
-  "last_updated": "2026-04-24T13:21:54.661436+00:00"
+  "last_updated": "2026-04-24T21:43:58.422178+00:00"
 }

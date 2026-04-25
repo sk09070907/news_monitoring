@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KV1Rjb0dkdzJoR3ZEdjdxUzdzYkJQWXliVnY1V2J4RUhMX2tFVjJEZmw0NnVCN1pkdzE5eUwwdkxzMjlBbVpBM3h0TU8zTy1WWWdqenBlNk1xWHNkYW5MVEVkblUwdW9lQ0MzbHBKYlhkQXBLU2ktRV92UVJHQQ?oc=5": {
-      "title": "駆け上がった三菱商事株 相次ぐ大型投資で成長期待、割高感の指摘も - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T07:06:11.291038+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckFBdXFvX1k4dGNwcG5NMUY3eURSOVpEZXBfOURyeHl0Q09oUWR0bGRXWGhoUzV2WDVLakE4U2NMMnhFWHl3TkNqVDNFRnlrOFlCTkd2cFVNVHItZERWZldEVnBEcXpVR0d0QVY0QXQ3R0FBNllJWlZ4b0tEclNlVVpQSUZwVkN3a3lmSWJnZWw0T1VLcFVtUklGNUFaT3ZqMmx3Q09R?oc=5": {
-      "title": "伊藤忠食品へのTOB成立 伊藤忠商事、7月完全子会社化 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T07:06:11.291038+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSGotdlZETnItZzRTU01BTFFnbV96UzBidmM5OHlRbVlvSWZzZkJvOG5SNzEtLXB1WDZlb3RyMGdkUWc0aVBoOUNhLS04cktpV005YVZkWDBrcDRud0s1Q29UMUROQk1QN2tvQg?oc=5": {
-      "title": "伊藤忠食品へのTOB成立 伊藤忠商事、7月完全子会社化 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T07:06:11.291038+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE45X1pPM1BVRm5TVUdrUmFQbUtjb1pxMTdLVHc5YzFBMDZVYml4ajN0LXVrTXh3RXZOMVhiYzJRMS1SYUlubTFCLWNESmZDRUVWaC1uNTN6Y2lOVkNsQldmSWtWM2ZDSGpMWG5yTGhFcFJIREZ3amVyWFdXd2E?oc=5": {
       "title": "JCB、キャッシュレス決済事業者向けに、「Marcs」を活用した加盟店審査サービスを提供開始［セカンドサイトアナリティカ］ - 日本経済新聞",
       "company": "ジェーシービー",
@@ -3647,7 +3629,43 @@
       "company": "東京電力ホールディングス",
       "source": "時事通信",
       "seen_at": "2026-04-25T05:11:04.234517+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tYUlWSWo5RHZQYk96ZUR2YnRoSi1PMWUxb1owaERWVjlxekdmcW1VV1AtUUxpV0VvNFAxaUNZV0VkOURjdEkybVpKV09TQjE5dnctTnNNanZPeGZoczU3Q0FWaWlCOVVYWXpYb0JRLVdBalBGUUsxZWZVb2s?oc=5": {
+      "title": "station社が発起人であるSTATION Ai発の共創チームが、IGアリーナ・中部電力・NTTドコモの3社が主催するプログラム「IGNAS」に採択［ステーション］ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZYjNIalZvcXA4a0FWVzByQUFfLTdoQnZKSWFHUzRqUnFadnMzbTVRY1NxZUhGbUZGZmo1Mjl6djhTS2d1TzdkbS1LamxWel9hcW5ISWRxdVNMQng1cGhNUnJDQ0VNZnZ5c2tv?oc=5": {
+      "title": "station社が発起人であるSTATION Ai発の共創チームが、IGアリーナ・中部電力・NTTドコモの3社が主催するプログラム「IGNAS」に採択 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OcnJCOXgzSm5MR0NrUXZacGJUQVB3aDB6N0g1dVlYRVJXVS1wRXVkZ3ZpM29UTnFFWmpYREdQVWR5bUVrRzJObElxdnJxc2Z1di1ZaTh6ZTF2LS15RFJPWWpvMlJPLXVfbWlCc2JEYmdjRlR6QXFaLWdNQUc?oc=5": {
+      "title": "並盛～特盛まで同一価格！「鉄鍋焼きスパ ゲッティ」イオンモール多摩平の森店に待望の2店舗目をオープン！［イオン］ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43UDB3TXg2RlpCa2J5WENMREFQT0w5U2wxWmNFX243NllLQWt6SzEwdGl6WU9iQ0RLU3RyWHM3c2ZvV1dKbVZTZHB5Y1RZWi1TQ2FvMWtaTjRndXl4T0dtMHJWWQ?oc=5": {
+      "title": "東電会長にＪＩＣの横尾敬介社長 初の金融出身、資本提携に注力へ - 時事ドットコム",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDUWF5WGFlUXo5VVA1QU5MTzFOYXkzQTlKLTJKNlhwTUYwWDZaS1V1bjRGdGw5Q0dQdDJYV1hUTFNxeXJsYllhRWFyQWZaSUEtYmlWRA?oc=5": {
+      "title": "◎東電会長にＪＩＣの横尾敬介社長 - 時事通信ニュース",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlVDRFZnVzTXF1aDNxOHN0WmJpTExaSUhEX3YyUXlEdlBfQnltNTM0ZmJSdnd5QmFHb20tVmV6WW95Z0RGWTE3aVlGOE5wLU1jLWdPUEpUTXhwOXl4VWozYi1JVHJMWkZaWWt3Ng?oc=5": {
+      "title": "三井住友銀行大阪本店ビルが竣工100年 ロビー天井などに当時の面影 - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T07:13:49.075245+00:00"
     }
   },
-  "last_updated": "2026-04-25T05:11:04.235007+00:00"
+  "last_updated": "2026-04-25T07:13:49.075818+00:00"
 }

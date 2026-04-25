@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU92dWRYYkJrSFpkTF9lR1hPWjZySHl1UGFOTjRDUXk3YUQ4Y1dfcWVyZjBaNTFBMWMwY2lRSzZfN1Fub1d3Zllna1QteGNicVZURHlFSkRkVURDbWFRX2tocHJ6NmVZelJ2aGVUdU5idWJjc0MyUVZMY1J3RjhGdzE5QmdZSkRBSnluN3dDNWphVUtzdkFxTmxRVW9FT2JzTGJZMTBfMjQ?oc=5": {
-      "title": "栄豊会が総会、発足の思い共有 トヨタ・近社長も出席 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T02:10:55.517011+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vaTQxVkoxckctSTB1UFFzSEpScHdEaWJTdEtpdVhRbWM4MUdDS0VJUWhKallzcUVxSlhyWHRUZTlvR0xQZU5iMVd2RXl0cW9OZDdTZkxQZUE0ODBiMUpQUW00bl94ejVDaHZEVFpzWXNTTzAyblNNYXc1WUw?oc=5": {
-      "title": "【神奈川県限定｜GW・初夏の電池整理に】膨張したリチウムイオンバッテリーを安全回収！5月も継続決定！危険な電池も1点7,700円で回収対応｜自治体で回収不可の電池もOK［SYSTR］ - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T02:10:55.517011+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naGhBS2RBS2JGeGhzQ3E3eGk4Mkl2QXpCOWZLRTc3QjhBTW16OVBxV1dvYVdXcnQ3eUJLN1ZyN1VaOGNvTllIU2RXMkNrX01mcXVtUThndkpjTGRpRGQ2LWJzMlNqNnZhMVlF?oc=5": {
-      "title": "【千葉県｜GW明け5月】ガレージ・倉庫の膨張バッテリーを安全回収｜自治体で回収不可のリチウムイオン電池も対応 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-04-18T02:10:55.517011+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NMDV1aElkcWstZ2hXbE1sRDk4MEZJc1pJU0NBLVpYUzJMN1QwV1dfMGJJUGJwNWdXcDBSZW1yZ0lXbUtPUnpUSmh4d0Y2UFJ0WG9CLW1jVUgyREJObzhxSkhSeVFPMUo0bnZORVNlSGJFdDBkYnVKdlFMamE?oc=5": {
       "title": "【千葉県｜GW明け5月】ガレージ・倉庫の膨張バッテリーを安全回収｜自治体で回収不可のリチウムイオン電池も対応［SYSTR］ - 日本経済新聞",
       "company": "イオン",
@@ -3617,7 +3599,31 @@
       "company": "SBIホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-04-24T21:43:58.421652+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QWjd4YWhEekNQVmE2TnhCRkw5Mk9QM01NazIxX2VSSGJUbEhfWG9zNjlnRlA1NDFiQkxEbHdQN05nSHVGTkREUnpFWkZTQ0FLdEl1Q2V1M2R2RWsyVXgyQW1FbnR4RkdnOXJqYWRZRkRiZEIyUjNpU3NLTk8?oc=5": {
+      "title": "アイシン福井、数千IP規模の工場IT資産を毎日自動で可視化 ― AIセキュリティ診断デバイス「MUSHIKAGO」導入事例を公開［Powder Keg Technologies］ - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T02:12:54.763540+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Tkhpdzd3bzFEVGxDNFYtNGJBRkVEQVZOS1oxblhUcmh3OFpHS090UDN0Ul9vbmUzWVJyWGxyRVlCQzI2dm92Q1gzVEdFY1VUYklYdXFpV1NQM3pGVGhKOEphMEJJTk9rZVhJ?oc=5": {
+      "title": "風薫る緑と果実の季節にまとめ買いのチャンス、4月後半楽天お買い物マラソンがスタート！（4/24-4/27）「Show !t」注目アイテムが目白押しです。amadana大好評販売中です。 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T02:12:54.763540+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pLTIyYnM3OFYwUnY5RmU0MmprakU1dHkzNE9VTVpoUk5xSkQtYkdaZjllRk5tbjd5eHZpZ2lkNFRoZ3VQMFQyc0hLWUd4WUJ5dHU0c2c0NWNXMFgtT1J2aXh3ZVFHRmx3bGc4?oc=5": {
+      "title": "【MOTTERU】4/24(金) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T02:12:54.763540+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44b19JSnVMZzAzYXZaZDBoRnI1V2pWMTRyUE9xbFFCbzdFcjNMSFZPRWZDSEFKajA3STdPcXZoRlZPMTMwX2c5a09IeFYybElFWTNiMjkwMV9oRUpZMk5penZMLURqdnZaNEpGNQ?oc=5": {
+      "title": "（新トップ）近鉄不動産 原史郎氏 - 日本経済新聞",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T02:12:54.763540+00:00"
     }
   },
-  "last_updated": "2026-04-24T21:43:58.422178+00:00"
+  "last_updated": "2026-04-25T02:12:54.763860+00:00"
 }

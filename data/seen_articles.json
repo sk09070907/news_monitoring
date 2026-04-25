@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE45X1pPM1BVRm5TVUdrUmFQbUtjb1pxMTdLVHc5YzFBMDZVYml4ajN0LXVrTXh3RXZOMVhiYzJRMS1SYUlubTFCLWNESmZDRUVWaC1uNTN6Y2lOVkNsQldmSWtWM2ZDSGpMWG5yTGhFcFJIREZ3amVyWFdXd2E?oc=5": {
-      "title": "JCB、キャッシュレス決済事業者向けに、「Marcs」を活用した加盟店審査サービスを提供開始［セカンドサイトアナリティカ］ - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T09:46:08.105093+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UzBTRXRXamVFSEw5TlZ3NUY1aUhjYmtVUkM0ZzJlVm5KT1JaaG5paHhONG9VNHpzS2Y1cGRDMWdidUJKMjlPT0ZNeDRjTlJ2THB4eGkya3ZmRmdtQjVfTEhZR3k?oc=5": {
       "title": "画像・写真：ソフトバンク７―０オリックス：時事ドットコム - 時事ドットコム",
       "company": "オリックス",
@@ -3665,7 +3659,37 @@
       "company": "三井住友銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-04-25T07:13:49.075245+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ga3V3ODlkS3pzODA5RUhNbnpGNnZreEFCU1RoR2lpNFY1OFVXSTZhZ25Pd2c3S1BROGN2MkJyOVZyVEprQXVPcXZoU3hrMUViU3FGRFRTOU5TUFZmYTROZnRwbFVZSWF4VzVrYQ?oc=5": {
+      "title": "ロームに残る1.3兆円のハードル 東芝･三菱電機との統合、株主が問う - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T09:52:03.323877+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdkdoaV9CZmcxZVo2aWhPSVdFazlUVUtTR0tRNURaMzBjdDY2ampaM2NfbXozcVFiT2ZDb1hEcFFuLVpUTjl5MEMtTlgySERsR215WkFvdnlLVHU0S24zNGFjTzM5dU5jdkZKSw?oc=5": {
+      "title": "東電会長に初の金融出身者 脱・電力ムラ、大胆な資本提携を推進へ - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T09:52:03.323877+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmU4VFZBd2RBXzltWURBTmZacmVWTE0yaHZObWwtMEVXS2pkUDJCZTdIbjZlQ3REelhlS3kzVDFyUlltUVNtR09ZdUZQOEpCQ2JncGdnUWlwTFpzUlFLRlFHa3R5WTBtcjM4b2JiYVpNNWpWemlDQ255enU4SVlIY292MGVrQ1h6RXU4UnhJMlRVS0txOXpHNA?oc=5": {
+      "title": "東電会長に初の金融出身者 脱・電力ムラ、大胆な資本提携を推進へ - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T09:52:03.323877+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UazRYZGlid3ZRcVF6MHAtZjhPTGpaTmhnTkprMnRmeHZNLVhRajN3anZlcjNmb24zWjhSRnpoTThZcldweVZ0dWx6cWVQZUJiaWh6MA?oc=5": {
+      "title": "○東電会長にＪＩＣの横尾社長 - 時事通信ニュース",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T09:52:03.323877+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80bUZfNWdzY0JIWjN0aERHTURBdkkwQzhqS0E1THY1bEJzdG00ekpzWWNmQ0Eya2hQaktQblpYamhIYmd6VldfSVlRYkxsOWJWeG1tQw?oc=5": {
+      "title": "東電会長にＪＩＣの横尾敬介社長＝初の金融出身、資本提携に注力へ - 時事通信ニュース",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T09:52:03.323877+00:00"
     }
   },
-  "last_updated": "2026-04-25T07:13:49.075818+00:00"
+  "last_updated": "2026-04-25T09:52:03.324453+00:00"
 }

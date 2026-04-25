@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZERyeFE3ZHJqdW5rTTVESWQ4di04VjFzYlhNQXg5SGhIOHFHWmtPLWVrRF93VHhTRWo4bW5aemFGVncxdEVRT184TFRyS3ZQOTYxMkYtNDJWOUhZRGlVMGxBLU1lTUNWQ3RhVA?oc=5": {
-      "title": "ローム東克己社長、パワー半導体の統合交渉を推進 東芝･三菱電機と - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-18T21:30:17.175518+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NE8zVWxmSnk3bGY5OW1BSFBodjhGdmpGekczX01xVHNqaU5mUmt1emVYMkVoQnpLVDFRUVNYMUNXT1lYWnhQaEx2NHBzTUJGd0RYMg?oc=5": {
-      "title": "◎ソフトバンク７―０オリックス - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-04-18T21:30:17.175518+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CQVRoZUtQbHpjcU9VdE1tdC0ydV9ZbXl3T0RmT0FyZlo4Vk1yWXQzWXlUSWNUWHFKRUlOcmlmejlFSTZibDRCNTN4emR1NGpTM3JRVmtMMjlNXzIwb2RqZUhveWVVdTQ?oc=5": {
       "title": "NTT、窓ガラスに貼り6Gの死角なくす 液晶技術でメタ表面 - 日経クロステック",
       "company": "NTT",
@@ -3701,7 +3689,25 @@
       "company": "東京電力ホールディングス",
       "source": "時事通信",
       "seen_at": "2026-04-25T13:01:18.906326+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0FxWXFsNGxueWRDaFVVRmJwUzhXemlNR2dRMG9kNUVuNERmenM2WjVZMi1iSy1Xb285cDFQQzJJS3I0dUJUZEl2WVNSall0VWhpb21IMkl5Y0tnaTZPQWJYN2pRbWxmVlJEX0d5Uk1Ia2ljbnM3TWoyeDNsQXo1MVFmbXptZms5UU02QVE3akNPS1JMMHF6NC11UUZfOEJtMnlLRU5VTGk?oc=5": {
+      "title": "東電会長に横尾氏、再建へ資本提携推進 初の金融出身 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T21:33:00.444688+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW01SVBacGN1WnZpMzRXUk5yRkZRb3BxczlITmUwaUtYcXdWR2wzTy1ZZVJtaTRXRlpvenhEWm5lYkcwRHlPU05aYTJIdFJ2NEFKa2pJX29KbkppTENObnhNUXJpa2R1YUN1U0hkM21xRUYzNlM1SjJGaHd2VGREcl9kWFloNEtyS3NENU1DNlJkOTRpU3JVTUhaTXg1a0x1Z29oX0d3?oc=5": {
+      "title": "大和証券会長・中田誠司さん 証券人44年目、生涯の支え - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T21:33:00.444688+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MY0hDUEw3T1NRWTExNWRwQ3Awd3h2MlNqaHFKM295N1RKM1ZpS3Z3SDVSeEZkNUZIeUhQQmpZUTNsY1RSZWE3MEoxREdSZmRwTlZFbktUYzQyZHJya2ZKcWdKdkNvZG5CUTdMQQ?oc=5": {
+      "title": "大和証券会長・中田誠司さん 証券人44年目、生涯の支え - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T21:33:00.444688+00:00"
     }
   },
-  "last_updated": "2026-04-25T13:01:18.906637+00:00"
+  "last_updated": "2026-04-25T21:33:00.445266+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UzBTRXRXamVFSEw5TlZ3NUY1aUhjYmtVUkM0ZzJlVm5KT1JaaG5paHhONG9VNHpzS2Y1cGRDMWdidUJKMjlPT0ZNeDRjTlJ2THB4eGkya3ZmRmdtQjVfTEhZR3k?oc=5": {
-      "title": "画像・写真：ソフトバンク７―０オリックス：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-04-18T12:59:43.071469+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZERyeFE3ZHJqdW5rTTVESWQ4di04VjFzYlhNQXg5SGhIOHFHWmtPLWVrRF93VHhTRWo4bW5aemFGVncxdEVRT184TFRyS3ZQOTYxMkYtNDJWOUhZRGlVMGxBLU1lTUNWQ3RhVA?oc=5": {
       "title": "ローム東克己社長、パワー半導体の統合交渉を推進 東芝･三菱電機と - 日本経済新聞",
       "company": "東芝",
@@ -3689,7 +3683,25 @@
       "company": "東京電力ホールディングス",
       "source": "時事通信",
       "seen_at": "2026-04-25T09:52:03.323877+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1gyZ2N0YUhRLXhIQmgxUnk3ZU1kRXEyNmNXdVdsUzhVb0x5SEVPLWtndHRGZWpudEMyMEpuSlRtV1N6T1RiOHF6V3I4TUNHLVFXUGUzRmo4eUNYZkxydmZtRTlJS1ByVDhNai1fNjZzcGszTmhDSU9MYTM3aHdOblVpUEEtV3BLR0JZRnoxQTJDNEFTNDh4QkpvZUZXRGY5bGhYLVhqUDk?oc=5": {
+      "title": "ロームに残る1.3兆円のハードル 東芝･三菱電機との統合、株主が問う - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T13:01:18.906326+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMF8xcHpOMEpLaTR6eVpvSFhnVm0wb1QyeHRDY0cyWi1Jd3VYOXVkdU5TZTRuWi05OTFwUGs1TGVJWTNma1pUZV9PU0syM0ppNDN2Z2kyTzJuUmd2eE5FUHh1ZWxoWlZtbGNfOWlZb3FCQlJVYkpfZlkzQms0SGlnLUI2THFWU0xNd2lEcDNia3Z1VHNTeDNsV1psSFh3cUw5VGFtbVJn?oc=5": {
+      "title": "東電会長に初の金融出身者 脱・電力ムラ、大胆な資本提携を推進へ - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-25T13:01:18.906326+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SajNRQy1jUzk2elk3Nl9LZnE1YVFTci11NzQtNW92bjJnR0pCTElneXoxc05vUGxvTWQ5U2hSaEhQS2FVRzMzb2VwWEk5VTVwQWZXMw?oc=5": {
+      "title": "東京電力ホールディングス（ＨＤ）が小林喜光会長の後任に、産業革新投資機構（ＪＩＣ）の横尾敬介社長を起用する方向で最終調整に入った - 時事通信ニュース",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-04-25T13:01:18.906326+00:00"
     }
   },
-  "last_updated": "2026-04-25T09:52:03.324453+00:00"
+  "last_updated": "2026-04-25T13:01:18.906637+00:00"
 }

@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CQVRoZUtQbHpjcU9VdE1tdC0ydV9ZbXl3T0RmT0FyZlo4Vk1yWXQzWXlUSWNUWHFKRUlOcmlmejlFSTZibDRCNTN4emR1NGpTM3JRVmtMMjlNXzIwb2RqZUhveWVVdTQ?oc=5": {
-      "title": "NTT、窓ガラスに貼り6Gの死角なくす 液晶技術でメタ表面 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVo2Tkl6ZjRVOVdVaDMyZHgzeEFPMW05MTFUNnZiYXFEUUc1bTd6c0M5TWdVMXFQZkxIX25kd2YwRFhTSmk1WGVlN2QxQnd5RUtJWFNJYS1nYTQ3MGpZYlJweDloNjd1M3RWamR2Q0l4RGU4VDd0a3UzSUxMei1TRzg5MXZ4RF9RaWg1bmdSMGhPSThELWt0emtmaElqWDNHTi00S29LNTc?oc=5": {
-      "title": "NTT副社長 柳瀬唯夫氏 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0swX0hPa05qaXRPN25iZ25Ja21lXzg4Y0hHVnIyWDhvSldRSzNCdGROX21VR1NmTG44Wms3SXkwaVh4elZMeXhkR3IwSUpkSEE4RVhIcWhnZFRmajVoZTlIRzVCWUg0YUx2eGdFdVpFTGttbFJDbnFYOXJaS1ZzbHl4OVZ5a0I5ZWJpdQ?oc=5": {
-      "title": "東芝、不正会計の次に来る“銀行管理” - 日経ビジネス電子版",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pcXV0eFdZRlJvUWtBcHM0cF9Cc2NDejhxVkRrNXcwdDE1R0diMmpNWXB1cklNVVd5YTFEOHpxdkFMblNFT3VXbmNhUTJERnRzdnBkTVVDNE4xb2M1eWVVX0pDTEpOc00?oc=5": {
-      "title": "トヨタ、インドで中卒向け訓練校 体力づくりと人間性育成を重視 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNUFZemtIX3pvY3ZQbUFlTnlvUnZpYU5UTTVYUUprM3FQdXhOT2ZoNVNFbk52NkUyMjVhUF9XaC02WEdKRFI5czRJdEpqMUg2aDlqazBHbjRhQkFiMHVXZFpya2s5X2N1eEZxSQ?oc=5": {
-      "title": "トヨタ、部品種・仕様のさらなる削減へ 狙いは「工場の生産能力増強」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUVBUOVdQT0x4QkE1Q0F1UFRBQXFldUtwZWFwNnRwSENGLThReGNYTlNyRDF3UTZCNGV2RVE3R3kwNDlBTDM1clhlRHlMMVp3VDNkTkFRdS1heWFxbEhZ?oc=5": {
-      "title": "トヨタ式部品削減ネクスト - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwcjJlTHBTdEJjMjhuRmZ4Tk9FM0xteGxiSjVTQTQ0RklDRXZDWWxiUTByQnBOWnpqTDJial93OG15bUd1NVEweGRzMUxTTGI3RUMzX25xdDYxNEVqVnV1eXpLSnJOMlJTU2tHenh0Xy1XN0N2ZEpZ?oc=5": {
-      "title": "中国電、島根の大規模陸上風力に出資 商船三井など開発 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWZtcnJEa2ZVc3NrTnhnMi1RRnJTdU1PM2ZjZzc5bVhlc3JmZVNyY0V0dEthLUNLS2sycUVwd3V6T05DQjhpUnRIQWs4dHI3VUlELTY1a1pHUi1xYnJqSTBNSnR1NWNBUDNjZ0Q5OUFIaFBYMGtMRnJkRHRWM0FlY2FncFBrYk45Wm9iOHNHWFV1WERLSXNWcUZnSFpmVjZkVDNlSVNn?oc=5": {
-      "title": "みずほ銀行頭取 加藤勝彦氏 - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xSVJVdlM1STlpZkZ4UkVmRGN6ZWE1alEySHRFSTRCLU5BNWVpSDd0QkpWWVRaQnZVdnlsa1JJSXoyM2NTZjg4QzBQeVhzcm5kNjZiR1IxWnlza1JiYWQ5MWpHa3Z4R2s?oc=5": {
-      "title": "三井不動産レジが木造14階の試作住戸計画、VUILDが曲面シェルスラブ - 日経クロステック",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-19T21:31:56.467816+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlVjSWE4cFVNSS1zdVgxSnFtT3FUMW50RnpINUFYSU1xTGlRRnBhMGk2enhzRnhMNi0xYmx4U084dlR6b2lIVjFvYjBIcEdaLVdhN3EwMmRUTzk3VmJkQmg5cmVJZXV2MVRTVldJR25kenVRZWUxTGdSa2t3T256SlBabXoydWJvcGxBQUtqcjU0Uk9ULUhJeWxZN3l5blBqWnlUZUpvUi0?oc=5": {
       "title": "レクサスにイルミネーション外装 トヨタ系、カスタム部品で若者開拓 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -3719,7 +3665,55 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-04-26T13:03:36.274027+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91OUpDdlkwRVZMZ25JUmVlcWxmU3BYNTA2NDdKVjNaOTJwUTZocTZNZGhQSmpXMmJVdDhzb3lENXVOY1BQeGRTaVVaeDIwVWdHeEMtS1pyaVoxY1BWLXVCaUVDdm9ZUUFkbGVPQTFDZjNhRmdyeGk4?oc=5": {
+      "title": "豊田通商、チュニジアで太陽光 国営企業に30年間売電 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbXFlaV9JcW9fNG1lRFA1ZFl0ZVNfeWlONG1mSUVSRFZvQ3VkSWJVVzdkNEt5YTI5YVRZOWJKU3FLT3JMaWNlaktrTG9XODBYRngzTjFRLVlEVDRqdFp4QnhVWXY0SVk?oc=5": {
+      "title": "NTTグループの施設管理DX、AIでBIMから情報引き出す実験開始 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LOWh5d3h2OFRjU0RDTUgyX1JqRm9VVldaVmo1TTA3MmZ2TTRuR0ZoSXVXMmU2QkwxSU1FUmRsdE5pMm50MFFULWQ5Z0l1RE5GcFY5WE8xc1JyS2txV1Q4cEN4cHMxUmZjbi1aVA?oc=5": {
+      "title": "21世紀版トヨタの部品共通化活動、エリア35は「攻め」ではなく「防衛」か - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVzNQcnFIRjIyOEdaY1VLZU5kTDJ3Qlg5X0RLNXR3OHh2V2N2ZG1CM21qRlZNWXZYemZlLVZDd2UwNGNlRjhsTUxVV18xVWJaMXB1ZF8xQWE1UTk4UExkZFdRRDJ1blRtWU5SZg?oc=5": {
+      "title": "楽天市場、「AIコンシェルジュ」で注文額41%増 スーパー店長の働き - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTVPNG1sZEgwZl9yS0p0X21wSWJlMEZwdFladHN5bGxUX1JmZHZCZFotQ3dZREhhdGltaUQySUVieXg5cERjU1ZLODBqQS00bzlWTjhfSE01MUU5X3ZOa2Y4ZWdWdUJUclVMeW5TTXRBdUFpTnJGSkZNWVdGd0JNLTFLMnRqbHc2TUVSbUhpSlNUSElzcndXVVBYdzlNdUQ0MWhrT2RZS0c?oc=5": {
+      "title": "楽天市場、「AIコンシェルジュ」で注文額41%増 スーパー店長の働き - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDU1WFBZQnRkbWZPY1EyMHI1N2RpaVAtZTh0ampLQlZLWS1PTDlydExHandXeF9DaUdhVzRIN1k0SFUzai1peFNCSDkwektCNnFURGdyN0VxTzJ5SmYxZ29TMGNEdmYwbW9wa0dzNE9DRDhFTHBzaU11UDBHQ1ZyM05NMWNPdkNMU2REcDVpemt2dTFuR043d3JadEJkdjczbDNoeUpR?oc=5": {
+      "title": "イオンモール、中国で350億円投資 割安飲食店を誘致 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWh0dkZRMTl4T3ltYXNMY3A1Sk9vUlVUSFpVY1lZSU5jVGY3bXQyVURUTWdzbmhhc2xiT0NJVUtHbnNveFVaX2xrcEQxTVN3bU9nbnZkV1NqbWRPMkNPUERHX20wcmo0YjE4aE5xdG53ZHRVWmpfU2Q2LTYyR1ZicGVMbFJMc2Q3alVRTDhIbzktd2FSVjFFemNONi0wN3NOcWNlSDlB?oc=5": {
+      "title": "「猶予は3年」マツキヨココM&A再始動、対イオン陣営構築急ぐ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVOTGVHYm9ULTBCbEFra0FPU1cyUzBFVzh5WXQtSW1YUnk5VEdVVU9sNzQ5OWFjMHNFU2E1dlROcTVPSjlnaC1XMzFFbWF2RWhZS2tEU2JvRy0yaDRYd01DVy0zNHllU21TU2NoSC1kanhVZlNZeFJNbnFCcUhZdU1WTHR1a1N0LXFBaEVBa25EZVVJcEZRRlZsTHRsS1VtTlpyLWl0NHRmQQ?oc=5": {
+      "title": "イオンモール、中国で350億円投資 割安飲食店を誘致 - 日本経済新聞",
+      "company": "イオンモール",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-26T21:34:29.298201+00:00"
     }
   },
-  "last_updated": "2026-04-26T13:03:36.274396+00:00"
+  "last_updated": "2026-04-26T21:34:29.298890+00:00"
 }

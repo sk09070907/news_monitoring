@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3Z6dVlsaEo2NFpROWt5S21nWGRDcy1JUEpDME43RnlXTF9XeE1KZkk5ckRLcDRzNzNvRnJvQTNSeUlMMC1RM0FBTFhoYXJhdXZSWHBDZ3Q3TjhCU2Q3N0dzb0hwMHlpdUx4THZOS0tRSXBqZXFRM3FKTUxmdEFQbUt5NFdDVG91bHZvVVNZc01ZWndJcEZZMlp0Ti1iVngtQnFZUFhNUjk?oc=5": {
-      "title": "伊藤忠商事、法人向け中古IT機器リユースに参入 資源循環後押し - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHa3RiQ2owaU9ieC03OC1RbVJ1VUcxUjd1M1E0bFFRSHRCZUxHemp3Y1B3UThoWWdScTFuWmhRUWMwQlM3cXhpZEp1dllPU1dkXzNwa3RNYXBDcklnTmtVUVJCZw?oc=5": {
-      "title": "トヨタから情報持ち出し 法令抵触の可能性―損保大手３社 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1TFdGRWVlOXY4MGxrQ2xNVlhjSmZiUExBakFfMks5SmRubEoyYkxQaDllZS1ickoxR01kSFVQSnR6VzV3MV9fT251TDJ1czRiRGdVelhMWUtOMjhJZWxLWkhkaw?oc=5": {
-      "title": "トヨタ、新サービス開発拠点を公開 静岡の「ウーブン・シティ」 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2JyaEZYQWhWb2V1clBsMVROcE1FMEtReHkxVXg2WUZ1UjFtYllNRFFuai1odDVIQ0ZORzF4ZFUzczZyTmR4ZHRhNng2WG02aURNd1E3Ny05cGk0QnJFQ19zZjRPeUhvcjJYblJJcWgyTFlOd1pGanNtWUZIZ0ZreWdB?oc=5": {
-      "title": "トヨタ、新サービス開発拠点を公開 静岡の「ウーブン・シティ」 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WRklHNmQ4c1duUWJyb1VRZzNPdUlYSWRYRlJXQnRCRUJvdG0xYTF6cmEtMUtqSmZwTl83VzZfSU5QVHU5RkJBaEgyTERmWlllRW9VdQ?oc=5": {
-      "title": "◎トヨタ、新サービス開発拠点を公開 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4dGRGZFUtcHRCWDRQOXNOVUFpNU9MMXJuaVBRb2lDVHhQbV9ZS1VFUVg5M0o0NWlLcGtCOWctT3RTNVl3ZWZ5eUFuQUJEOVlIUDlSTlVhaVZjbHBLdGFWM256NmhweTh2RkdR?oc=5": {
-      "title": "JR東日本スタートアッププログラム2025秋の採択企業について：時事ドットコム - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE12TW0zdUd1bVRLX3hNREVHVFFOVkNXRWxWRThPRm5JLTRhamlFVHZWS01LZW9PQWZ3Q24yTWlsYzFDWmVLR1FOU2xDSVJ1VUltVnEzUTF2US00cVJuMlpVaFhQSUNyZXctRTJ5SUppdUxTbVFMc0tOLUpCMjY?oc=5": {
-      "title": "JR東日本スタートアッププログラム2025秋の採択企業について［JR東日本スタートアップ］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T13:24:29.346335+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWkJCVndTOXJZU1ZEODFCQWxjN2E3Q1VvaDZFNHhPU09fZDhZb2MxR19VaXRzY25iaVF3Vy1nWGh3aFVSV0pnRzBXTzF6NWR4dDJwM1hFSnJnd3lUU3NlUjZoTURMaFplR19TeA?oc=5": {
       "title": "JERA幹部「三菱商事とは違う」 洋上風力、賭けの取締役会可決 - 日本経済新聞",
       "company": "三菱商事",
@@ -3769,5 +3727,5 @@
       "seen_at": "2026-04-29T10:55:48.331032+00:00"
     }
   },
-  "last_updated": "2026-04-29T10:55:48.331509+00:00"
+  "last_updated": "2026-04-29T13:52:30.051285+00:00"
 }

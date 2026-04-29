@@ -1,107 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FWWN5ci1hSkhvZE0yUm0wclRfcE1wYVJDdHlwRDNGREQ2aXFsbHh4amxSUF9LUkJMeEpCVUJEUE56VmpfeXRXSTZMeDNfNkNsWlNHUl8taktmWEZCM3dSbWJPSXh3amtTNVJn?oc=5": {
-      "title": "NTT アノードエナジーが開発、建設の「上頓野蓄電所」が完成 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Rl9OWG51TXNQTmNudWZvTWQ1VmtKV2xOMl9DUW1NMllva1NqVmpNV0dXN2VfYjRoUUQzU3IzX0tiS1Q3WjZyQUc0am5XNkFfN1hzLW9Yemo2SEtkVV9xb0dVQ3RDc3pvNl9v?oc=5": {
-      "title": "NTTインテグレーション、Google Cloud パートナー企業として「2026 Google Cloud パートナー・オブ・ザ・イヤー」を受賞～ 日本の公共部門におけるDX推進への貢献が評価 ～［NTTインテグレーション］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE55aXRwSWhUbzRPb1BRRjJGTUdYZDMxVm03NWNjSmxZUnBwcGpldi10OXY2S19aazBGeHRmbno1MzBNWEd3UHVfQnhBTmZMMllveWd4UkJPeDlTV1ctUGVVVnMwYkN6U01DdXRv?oc=5": {
-      "title": "アイシンの「可動式フロントスパッツ」がトヨタ新型「RAV4」（北米仕様）に初採用 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TWUt0cUVaanpaaVJRWmtkRmlZVlBEc09wMEJoVUlqcVhIRGxWTzlrN25sa1d1Yk5QVEJ3ZExBMHVXSVY3SUJ2UTZlQVNXdjc0Q01qX01qazVWUWpBVG1DX3ZjT0oteUhMOWZaX3d2V0hsS2FhMzVVX0FuVEc?oc=5": {
-      "title": "「楽天ラクマ」、商品の検品ができる「ラクマ最強鑑定」に関する意識調査結果を発表［楽天グループ］ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSmt3M0NKY2tKcXhsbkpSNVFHblp6dHI0T0FQNG1xVS11ZkNhNGxDY3JqM2Fqd0hBZ2ZHVzAxRVd2V1Y3Q2JZUHhEbzUzb2tZakRWYjJtQW5sNXF5UjhsXzV4MHE3UXNzaG9ZUQ?oc=5": {
-      "title": "楽天グループ、「楽天市場」で個性豊かな商品をセレクトした特設ページ「Diggly」を公開 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wYXZ5OTBTOHpQZlJoeUdvYjhIUWtPNlBpZ1ZNY003TWM3bThYcTNidHFEV3RuWG52dWhfa1hiMDhxZjJwRk1MRy1HNEV1dEpVeDNzUWtyZmxWMDJZNFdkUjVobUgtMjRNMWgxVQ?oc=5": {
-      "title": "楽天グループ、「楽天ラクマ」が「ラクマ最強鑑定」に関する意識調査の結果を発表 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SDE5OTNEd3h6ZHBzREtiTlp4cFdZNXZ1ZDhrM3JzRWJsUVJnenNxc0NsVWhSQ1NXNk9JMGM1aHk0bWc4ZGUzWmgxVEhIelU3YlRUOFQ4ZTlVMkdCVHduaC1RRHRTdGhRdVdyUw?oc=5": {
-      "title": "親と子の交流、読み聞かせする家庭では84%が「十分」 楽天G調べ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazltQ2ttTEM4QkpGOGhDckYyQ3BabUZYMzZSQXlIRi0tWWNlQmE1RHFnWno3TDRRX0NuLUUzVXFLNXRZTHZTaGF0ZHoxaTZuSDJ6cGxSMEEzcFZadjdIRTlreHhmLVZWWHVFeDhwaktNcXIxZ1owSG5rX1VKWGhDdmtYTWg4ZEU0RkxHZGplbXVGYzZqSTV4dC1KQ1NmRWZDYjR1blp4YVYtZw?oc=5": {
-      "title": "楽天グループ、「楽天ラクマ」が「ラクマ最強鑑定」に関する意識調査の結果を発表 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHcGEzUWEzczQ2cXhGYmVNRE9LTE1PdHdVZERsSDRlSEplVjRHS20xOW5ibW1HSjFWc0xpY1U0enpCVGhuZVdiWE44NExQZWFZYkhxZnZ1aVRMUUw3aFNPV1ZOOGdYNEpIYzR3?oc=5": {
-      "title": "「楽天ラクマ」、商品の検品ができる「ラクマ最強鑑定」に関する意識調査結果を発表 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUhkVVRPOFVKMEFwZk9HTnhtdzU4QldIZ0NwLW42a20xbkVHY0U2R3NtVkVLTEw5bFRCZ1gzQ2NKRUlTNlpGV1ZYMkxNdlNURGdDX3NZZkhISkFVcnJraGJXOThtUjliUjhyZFNGektWSGpCdzB6MUMweHBpVmZBU1lzUWFJeGxadV9LQ0tBS1NyMWJ1elhrdlYzOFhUS04xTU1YWWd3?oc=5": {
-      "title": "ファミマが配送減、イオンは省エネ投資前倒し 中東危機で緊急対策 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Y0xETmNuY2h3ZWdoWjczYUVYOVQwRTN1d2V2WFZWcGdEWmFfX3lPUm43Z1cwUEhmUW9HdGlMMkpRT2NtanVaYXpleEFJWVFOVVhydHNfR1oxWHU4R29UVTlTVXRnbGthM2hV?oc=5": {
-      "title": "JR東日本スタートアッププログラム2025秋の採択企業について：時事ドットコム - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1NnemRUVVRuYl9WTTFnSFdWMVFWOWNGb0VyUTBWbjR1U3NsQTRrZzUxbEV0VnFvaXQxV3FTMHh1OW00Sm9BclU1aGotM1dTTklVNFJQY3V0R0pBU1VHb2ZBWGdiSTdwczE1Y3BmSGNKZnhrQ0pIN0w0TzhaRDRPRmVQbzIxSUtERWZRZjRQblBkcHhyRXFEa1UzSzZIZllMa2dNVVY0SHRycEJMU1hEZmQ1U2h1bGdGcV8xOC1yU3ZXS0NMV0EtT3B2a1Y?oc=5": {
-      "title": "西武ホールディングス[9024]：（変更）「当社連結子会社の株式会社西武不動産による株式会社イーグランド（3294）に対する公開買付けの開始に関するお知らせ」及び公開買付開始公告の変更 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UEJSRlU2SEFzVnlwcXBqNzM0amNYSjd0TTc5WUNSbVdwTkFYUlVfbXpmTUZBNkpkS3ROYThoM0w4UDk1VE12YUpLSEhBckZoRlRnMTJsQ1JQVEtCZE1YV3N1bXJuZmdVM3c?oc=5": {
-      "title": "アールプランナー[2983]：子どもの未来を地域で支える。名古屋銀行の「めいぎん地域みらいサポート定期預金」へ 5,000 万円を預入れ 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "名古屋銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pc2dVdmswalkzRHlPUXJXNDJHRndWN0JjQVZITjBaYl9XWFczc1R2SWpNS0V0bDhUZ0JKNWxKQlI5Ym1zZGRRRVc2VGZaR3FsRnA5V205NEZ1MS1PTmhWMWxyOWVLbTMwRGFpQg?oc=5": {
-      "title": "三井不動産株価が続落 東京ドームのレジャー施設、営業休止で - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5td0RsQzAyaUVjNG0tblNYenNoV0l2bGhIT3FCUFUzME16TnRZMVZXQVhRQ0JEclMzcW1oNDlkeFFKV2tPS3IwZTdETDItRkRsTEVqN1dQV3hTTmJhb1pBUDVyTzlKUE81aDJ3V1IxRzZ0UkRjQ3hfMGdHRVc?oc=5": {
-      "title": "【三井ショッピングパーク ららぽーと横浜】「パンまみれフェス～パンから広がる小麦のごちそう～」2026年5月9日(土)～17日(日)開催！！［三井不動産商業マネジメント］ - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHBSd2pvYU5HWjI3SGhyeldSa3JyS2RocHRXNUdaSzl3YVVVR1ZOR0hYOFhoRmlPOEZ3NjdqWDlYb1lmQzZkMHhkazRGZVJXUVBTZnZfSk9SLUpFVzlUTE9mai1CNTR1VUE?oc=5": {
-      "title": "森ヒルズリート投資法人[3234]：資産運用会社である森ビル・インベストメントマネジメント株式会社と森ビル不動産投資顧問 株式会社の合併契約締結及び定款の一部変更に関するお知らせ 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lWWx1VXhIN3RXelB6S1RIeTlGc3hPMHVwMUhPSGw1QVhyeDZHR1IyeXRNYWw0S0VIWGdmTWFNU2RSdGcwRlA2QlRGQWF2QzljeXlkR3RZTTVSVHctSWphTVRrYVlDTm5WQnc?oc=5": {
-      "title": "三井不動産アコモデーションファンド投資法人[3226]：借入金の期限前弁済実施に関するお知らせ 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産アコモデーションファンド",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T07:45:03.167719+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSHZGUExWcFFUbEhsMHpDa1kzeUVzN0Y3dVZjUXFWRDNJZDRjWHZvZTgzZ3l6c1VFcmNuSDB4aHJEM3U0OHRCUTItRmxjSzAtSy1oeVlpSW9LWElfVVNRbEV3UFN3WmxSUnE4Sg?oc=5": {
       "title": "伊藤忠、法人向け中古IT機器リユースに参入 資源循環後押し - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -3971,7 +3869,25 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-04-29T05:53:59.885264+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURDeEhzMmtmd1JKSUtHTENKMEw5YWpBV1g3b3Y5OS1BX3FRZGNpVVMyZ2hyeWxTdTF3aTRQZC1oLW0ydEc3cHRUeVdCcU0wTlNua3FzNXNSSk9lUVhETmdCY096Q1lsM3RFUHRYWGlNZEJjYzJ0Nk1KSFgtUkNPYl9tWU9XaHVVRUJ5RE85cEQ3VkVUcF9vck9hYU16MzlzYmVUR2pQS3Y?oc=5": {
+      "title": "VRで車事故のヒヤリハット体験 トヨタ基金、園児・児童向け - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-29T08:14:39.726816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLUjZBOWtFNllLOWk2UVEzdDJMOWRiVkhSSnEtbkxySU5WeHBieDd1ZzM1dEVmNFVXLUZkX0RyX29vX25hUldaQ190Yl9uZ1phS21qVExIdnVmTDVQczZjNlVudnc3NjZFS1Zr?oc=5": {
+      "title": "株式会社スリーリングス、レディースジュエリーECサイト「J.GRACE」を2026年4月25日に再誕オープン― 楽天市場で約9年の実績を持つショップが改装期間を経て新たに始動 ― - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-29T08:14:39.726816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wbFpkZTNqZUx3VUZrU18yZDlpNXlSaDdsaW5HQU1uNS1JelVvdFIzTHhGUmp5alVSZFQzelluenFwZkJuRkpVbW0xYUNZYVA1SUZvRExJdkRMTmx2aS14dFV1QzZJcDFxdXFJ?oc=5": {
+      "title": "宮崎県で初開催！イオン鉄道フェスタinイオン宮崎店を開催します！【JR九州商事】 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-04-29T08:14:39.726816+00:00"
     }
   },
-  "last_updated": "2026-04-29T05:53:59.885759+00:00"
+  "last_updated": "2026-04-29T08:14:39.727204+00:00"
 }

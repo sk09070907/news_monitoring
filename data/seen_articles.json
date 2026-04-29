@@ -1,137 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSHZGUExWcFFUbEhsMHpDa1kzeUVzN0Y3dVZjUXFWRDNJZDRjWHZvZTgzZ3l6c1VFcmNuSDB4aHJEM3U0OHRCUTItRmxjSzAtSy1oeVlpSW9LWElfVVNRbEV3UFN3WmxSUnE4Sg?oc=5": {
-      "title": "伊藤忠、法人向け中古IT機器リユースに参入 資源循環後押し - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTGp4bm9XNjNMN0FrM2Rlc0ZodUcxUUl6YlJZQzRsa3JYenFxM2lWaU9PZUZaWmllR2pUS1Q1UXgtdVR5RlVUb0daLVkwSXNyYTNqUkR2S0Z5V0k5UUF5OVlwLWpIUDdQaWs0Nw?oc=5": {
-      "title": "NTT、LLM間の語彙の壁を克服する「トークン共通化」技術を確立 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbVVvaGttM2JtejR3RnprZURxZmR1OWYydmppelY4dGZUcG1KNW85LWxFRjBmamFFT0xpWF93NXdNSkk5MzVsMXlmYmFiVTJhNVBNU1dvSWoxMVBfU09DOS1Wd3k1cEpsNGZydW5XdEtBX05aMW5YLThERkI?oc=5": {
-      "title": "LLM間の「語彙の壁」を克服する世界初の「トークン共通化」技術を確立［NTT］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ySkQyMl9uOUdVVmg2QWJHS3ZKVmRnbUJVMEhuR1dmNVJkamh3eTdndzIyS19kcmpGVWFYMzFHRENsNkFtbU5BaDZQVHR5cXB4NW5zTW9ORlVnNWZRV24xSTNGNnRnVnNGU0Fj?oc=5": {
-      "title": "NTTデータ・エービック、投信市場概況（2026年3月）を公開 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EcFpTdF8tSG9FSm1OMHZXc2laZGZfdE1IM00zMzYyNEZnbTVPN0dibjBKMkVhZHVJcEE1clRsZ2poQy1SeW1nLWh6UGRSdUROcUdBMnIzLUpLVE1FYnc?oc=5": {
-      "title": "トヨタ、新サービス開発拠点を公開＝静岡の「ウーブン・シティ」 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CSXZTZW5zcG1lWVpyLUYtZGNzQjBvWXY5dVM3a1E3N090dC04dEt0M2h1QWlScHdGQkh4VExSUzZqSmx4eTFlZzRsVTBWbl8tOEZFaUhpeFBBWDJCNXI0dXRVa0M?oc=5": {
-      "title": "画像・写真：トヨタ、新サービス開発拠点を公開：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zeExKeXExdkJPTjJUZGM4MlpZVUtYVm1vOUhhdXgxbXV1MEV2bGZzeVRYWG9nMzFJY1FYeVpDUU9NY3huNzhIZmZraVNXeE5VTVh3Mg?oc=5": {
-      "title": "◎トヨタ、新サービス開発拠点を公開 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CclNVb21XcXhITUFlM1JtOV9NMTVZZWpaUE5jeFUwRU1VbWI0U1hpOHB5RHVuNTI4OUsyNFFjVnRrSS1qQ3pKenpXVG9fclNUb09aeGlIUE40c25nM3pNbDVSTHhvX3NvbE84TA?oc=5": {
-      "title": "東京海上日動火災など大手損保3社、トヨタへの出向者が情報持ち出し - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnQnJWMDkyYzNhSTlEY1ZKYWZJcUtTT1BWTGFtNVB0Y2JGUE4xajMxTmN4MzdMUXdVTDVYTEk0OVpFQ1U4WTFGc1NaeGhzclIwMVQ2cjhyTGJVQ3pWZ3Y3djJNcXRIS3A0eW5V?oc=5": {
-      "title": "マクアケ、楽天と連携し「出会いと共感」を軸とした新たなお買い物体験を提案 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iY1VGaFpXcWxYeG5GQk9WUWFHam5mR0c0MkJxbHd2d3BmNlNONllBQnBpZ3hOZ0ExYk5Vb0JZREkybVVTbDdCOTYwSDRleFVlcHJfZGM2X1JERGxoajlrRkg3UXNVMmdmb0pR?oc=5": {
-      "title": "「楽天市場」、個性豊かな商品をセレクトした特設ページ「Diggly」を公開 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSFBzbUxyQy12OGF0Z1VmZmotYzN1ZUZNZmhvNmNwckdBYkwwMWFMcTEwOXBia1lFbzdnYm5PMzljRHZNYXIxTFlxMWpMd09IYTZRcHBhTm1rMm5NdjViaGVyREptVE1uU0Jv?oc=5": {
-      "title": "楽天、「楽天スーパーナイター」に「楽天モンキーズ」の公式チアリーダー「Rakuten Girls」が参加することを発表 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqc0xsdHFYMjZFcW83NjRhV3RSZkx4WmtFdDg3WjJVSjFNOXdQYmpzMS1zcklVc0EybTBLV29UVlBETHJwX3UwN1JMRllDVUFNSGdEdUlKUVRBZXNpUFZfNmRaN1lFX2ZDQXhN?oc=5": {
-      "title": "【5/10まで・楽天市場限定】赤字覚悟30%OFF！13インチタブレット「DOOGEE U13セット版」-256GB＋豪華5点付きが25,900円【数量限定】 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBZVVCQ29sOFRzckZWcFlUNV8xQ09kY2JSaUduU3ZGTjdNRVRlMEpfVXFRajVyN2dDVG9ueEhJcTBtTDRQWnlUeGRwSnE2MVpOQm9SNzB1VUxSbjJNTDNYamo3YTdtT1Bzb0xyV3JJZkZiN2s4dW1WOEpqQ1I?oc=5": {
-      "title": "マクアケ、楽天と連携し「出会いと共感」を軸とした新たなお買い物体験を提案［マクアケ］ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxUnVDTU4wZmxTdy1zZ0xuOUNmVWR5UzZFUjFBTVVocXJONnMyUVV5MXFvRWVGb0RkdS1tMWtjVjYtbkcyRFlRUWg4QzFBb1UxSXZJaC1JaGdOVllpVmktYmJBMXJSY0ZIS0Z6c0JKV2NvVjEzcS15V3lONWk?oc=5": {
-      "title": "国内導入施設数No.1のサイトコントローラー「ねっぱん！サイトコントローラー＋＋」が 「分析ダッシュボード機能」をリリース ～データに基づいた戦略的な判断を、よりシンプルに、より速く～［楽天トラベルサービス］ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6VmUxWjZvbXo5TFYzWTg4cFlqejFoN3E5YjByUDdXZVZzTFY1bnlrcjNVUDlKOXdoYnlmM2d1RTdXUE85Y2l0blZPMlBEa3hxQVEwbGZiblFBaGZRaWZqX0FuWFhlNzhBOTNmZjY2WmlGaU5xYWt3QnkyMWs?oc=5": {
-      "title": "分散型AIデータセンターの一体運用をめざし、ワークロードシフト及び広域光ネットワーク技術の共同検討に合意［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zMGhzcjlaTGc5ZDJrazU1aGkzbk9RbXZMSGxjNUQ0cTIyR3o0VURTRVVxeU5Xc2xsT2dGb1hzeHplODdoNFFVdXl4b044U0V6Y194enlXb2EyVDlnQ1ZId0xUWW10cl96TUtJ?oc=5": {
-      "title": "Thinker、JR東日本の線路保守作業で実証へ ― 手探りピック＆プレイス技術をレール交換時の準備工程で活用 ― - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFk0WnBqcjlxZkN6ckxtNjhBd2lJRjdFRkVEaFpRbldmX3VEUnFDSUdKekNxWjBHRnYwMi1tMWgwZjBqNmY1bmtnOFFTTFcwZks5QTREM01DaGp6ZnlObVB4bHV3NnA3VXlGSVV0YUgxV1dHdGgtY3l3WUg?oc=5": {
-      "title": "世界初※、液化CO2輸送船へウインドチャレンジャー（硬翼帆式風力推進装置）を搭載［商船三井］ - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzhuVWN3eTh3eVQ1aDcxcm5fS0RhY3Jfanp6dE1KdUg5VmNrTnpaWURFeG1kalU4bUxJVG1JTDJoNUl4WHI0M3ZHUHp4TWR0ZUlqUkRVVXhzV3E1SFB2dzJrYVVkUmR4bFR6a0hWMFdzT1VsX1pPUnF5NTc2MzB5eEF6MVN4WURLM0FnN2NrQmppWGEtYUY3R2RGeXVxTjZsaVE?oc=5": {
-      "title": "関西電力､岐阜で3水力発電所の再開記念式典 設備更新で最大出力増 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXeF96WE9xemNqUHlYYWxIa0loVzc0R0I3QmtGcWNjQ1JFWmQwQWxNSzFOeDlLQVRDRGpMYWdhWVJPSm5DU3F6cFJBM0hnMFNSU0VxNENSN3ZndTdKODJidEl5Y1ZSUWs0REViXw?oc=5": {
-      "title": "関西電力､岐阜で3水力発電所の運転再開記念式典 設備更新で最大出力増 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Q0lseGV0dUVhN2VJTEtOYXBkQWwtUy14ckppX09sbnVHQ1BMRmNLeXZ2LURIRjh4Y3ZxOE45LU1hOUhkckxKaXdpUGQ3MnllajdIWXE4eUR2TGpHWmZvT09xamRKV3dnT3oyRw?oc=5": {
-      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE03eldtQVd0VnRFYTZXazNHVFUxYmRvNDNndkZzbnh1NmVXUWtEQ3VGc3hyTXhZdlU4aFlwYnlKY1lNeVB5anllY2ZPQV9FQXNWUWtvUkhNanU1ZjBpNjJ6UEoyNUNxMXgwYzM0?oc=5": {
-      "title": "子どもの未来を地域で支える。名古屋銀行の「めいぎん地域みらいサポート定期預金」へ5,000万円を預入れ - 時事ドットコム",
-      "company": "名古屋銀行",
-      "source": "時事通信",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VkdlMWtyMnViZUpNT1F2eXlvejk4Ny1qTmJwRFQ2TzB5azdJb01ycUZqTlp1b1J5aWR1NWdlUVdtVWp2aUhCaURjSlh3cWFxOWRlRVM1RWg2cGNXdU9BcFRGdks2c2V0YURzWUg5d29ENHVwTGc5bGFiMmE?oc=5": {
-      "title": "『赤坂七丁目 2番地区第一種市街地再開発事業』ABINC認証、SEGES認定を取得［野村不動産ホールディングス］ - 日本経済新聞",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-22T10:19:40.137429+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3Z6dVlsaEo2NFpROWt5S21nWGRDcy1JUEpDME43RnlXTF9XeE1KZkk5ckRLcDRzNzNvRnJvQTNSeUlMMC1RM0FBTFhoYXJhdXZSWHBDZ3Q3TjhCU2Q3N0dzb0hwMHlpdUx4THZOS0tRSXBqZXFRM3FKTUxmdEFQbUt5NFdDVG91bHZvVVNZc01ZWndJcEZZMlp0Ti1iVngtQnFZUFhNUjk?oc=5": {
       "title": "伊藤忠商事、法人向け中古IT機器リユースに参入 資源循環後押し - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -3887,7 +3755,19 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-04-29T08:14:39.726816+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzh3NkdFc252dnNJSTlfWGQ3Wm1lbHdyWk5BWVdOZ0g1ckRyMDR2N2lrUmJpVWkwakRTOWJGeDAxQkJlUnJzcnJBbHJ5SjFyMFRDa3JWZTNEU1dVQXd2c0laSFVUUlo5MHhTVmZLTFlncVJzd1lsMEUxZjE?oc=5": {
+      "title": "【楽天ランキング1位獲得・完売御礼】売り切れ続出の人気スマートウォッチ「AnyWise W1 Lite」再入荷、限定100台を8,900円で先着販売［深圳市道格创想电子商务有限公司］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-29T10:55:48.331032+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFdUU4cDNBOU1fNFRLR1h4Qy1mMTJWenhmZGlFS2tYUjBSdmFHNWVtNUc4bmc1UW11MzQ0YXdUWUVubFZZRFlUVlI4eVd3T2F3SnAyWXMzLVN3SXlPRldCbm5INzVHOTNKT3NV?oc=5": {
+      "title": "【楽天ランキング1位獲得・完売御礼】売り切れ続出の人気スマートウォッチ「AnyWise W1 Lite」再入荷、限定100台を8,900円で先着販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-04-29T10:55:48.331032+00:00"
     }
   },
-  "last_updated": "2026-04-29T08:14:39.727204+00:00"
+  "last_updated": "2026-04-29T10:55:48.331509+00:00"
 }

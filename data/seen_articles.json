@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUlZVnU4XzVkLU9OWHR3YnVVRXRlSEZ3SVMtZUpGQ1ExZVluejNjYTFyY0x1Z0s5MEd6NVFydXBXelU2QUs3UlBrRk9lWG9HaWxYaXBiS2ZjZ3lZVFZBTmZSZnltdlhJODJBU2J6NzlDeVpsRHY5Z1QxX19ucC15LVZzUWxkT3Nkd20wRzBILUVwTmRMbGZHcXp4SmRuVHA4SjFHVzA5WEg?oc=5": {
-      "title": "NEC・NTT、国産通信網巡る溝 株式売却浮上で電電ファミリーに暗雲 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9scG0tT0RuLW1zRmNGODZTVUI5bzhON0lyU2V1cHRCTEM1aU9iQkRPck5yYjU5Y2VPMFZlYjNVYVRjZm0zMHlFT3dRV1NjTWtOYzc0Qm15VFUxbS1sUUVxOGdOcG1pTjFKc1Z2LQ?oc=5": {
-      "title": "工作機械、超精密加工が兵器性能のコア 「東芝ココム」の教訓 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUhKbXJ6U1E5VVpnQnEyTmNRTHZhLTUtLXJ0UERISDBXUFgzTVRjNDdhVHBMb3FleHNMQjJMMTRpakR4LUFIN09fMjlTaVY3T0RBX3loaGpGS3d6Z2hkenlBMnlaRGl4Y19BMV8wekJUV3Z3dlkyb0NGQ0ptZGZpOGxQZnkzbG9oSjJXck5PSzRrQ3loU00xQWt2TmJRWVNKc3YzdEdR?oc=5": {
-      "title": "工作機械、超精密加工で兵器の性能を左右 「東芝ココム」の教訓 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZml3VTRnT01lcjkwV1hVWFZ5VnIyTjh3OEJuVjhiSThDbW1oMWVyTllxVGR5bC1oRUp3UXZienBvbVRoWUFaU0JZMWJDX1Y3bGFKOTdKaUdGU0xXaVBETTNmaTNhdTkzWWNhR0xIZi0yVjVPNmZYdGdOYTRHanc2eXhPZFl1N3FXVmpCelpZUDducFpDRkJHTGhRcjhFY0t5SEtHUGhOSkw?oc=5": {
-      "title": "工作機械、超精密加工が兵器性能のコア 「東芝ココム」の教訓 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdk1HWndvNWdCLU9kMEhIdmlwVGxPbE54YVpFd3VwdDAtUEFQb0dCYlJ3dzViTGpCeW0tci1YNDdpV3hrdG9XNDlrOVVsc3BOaVh2aVhCZTZyc19mNTdSeWE4OGtLdGRleEE?oc=5": {
-      "title": "東京計器 - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2tpQ2x5Y204SzJQcHozOVd6ekY1a3hTckZPYnpGYUZvUVNmSDNNUlNySU5wQ3hXMGpMVmdhOVZnNl9lTDh6QXUyX2RQam1sNUtVM1RuLTlRZGZvdHdHRHgyOXhJT2FDRExJVTdQU1J6eFFCdS1DbXQxdm9iUVl0Mg?oc=5": {
-      "title": "トヨタから情報持ち出し 法令抵触の可能性―損保大手３社 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNby0zQ2dSYlNsYTc2M0lmT0JSMFZIcFNWSVpqNEFsV2M5WHR4VWYxX3pJX2Z5T2ZiNFl3MU4za0c2RktuWUwzTzNIa3ZTRzlOWmlCWGVKbENzOUpYeFBEQjl0dUdWSkNtWEhjUTdLcnBoTkwwLVhtc2RzemtaQkJsWFRnaGVHYVB0VTJySm00MXQxdzYtMWpvVVpXMmloZWJnb0hHQzduazMyLVFuRHFzS2dUbTBocU1XdXVyeXM1ci1iWGxsTURQbG9sNGc?oc=5": {
-      "title": "イオンファンタジー[4343]：ちょっぴりレトロな「キャラisオールスターズ レトロコインケース」を ４/29（水祝）より「かぷえぼ」にて展開 2026年4月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXNEa2FoY0ZQOWRmc1JxVXRkOE9aNkVod1Vrd0Y2ZTVGaEt5LXN4UFlGUGU1VHkydkFONXd2NjFxaHV6M0c0QjR3U1dVdVlpX2dHTThJY2duWThlS1YtV2stMGtUMUNiOEdQdGJxZTZpNE1Cel9oU1gweEtYRDJ0V3VzOGI3UGRCSEdEa3ktVlo0YVNIMWFDa1QydGdrb2VmSTU0VEw3c0U2bEJBdXhrR0RrTU9sbUVmakdIT25lczZhT2NxcXBMX3ExNjU?oc=5": {
-      "title": "イオンファンタジー[4343]：【ミューの森 開業3周年 もっと楽しく！もっと気軽に！】 第1弾 「もっと楽しく」企画 滞在そのものが体験になる、“共創型グランピング”へ進化 2026年4月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbW1CQVBucllfazFBMjJsWXNRNnV3OGkxNUxTVnBkcVlOQldILTVrQjBXZE9velAwX0ZJYlk4TnZhekNFblE4ZUtVcy0yWVV2ZzByQmJxbTd4Y25VazRSQ3Fic2VobC1LTHVz?oc=5": {
-      "title": "SUZUKI KATANA型 「ピザカッターナ」が「ノーティアムイオンモール白山店」で期間限定販売！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-04-23T02:30:34.463831+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDZTh0alFtdXNyQS1LOEwydk9zcnRmcVBtV08yYU9vc1ZjUE55YkxaZ2Z0SVhpcERnd2pQU3A0M0hBOTBtRDBsYTNPa1ppN18wWURLcDZReUhOUlpubDY0UDd1MHJBZ25lSVE?oc=5": {
       "title": "アミタホールディングス[2195]：アミタHD、NTTドコモビジネスと共同で、「MEGURU STATION(r)」における使用済みプラスチック資源のトレーサビリティ運用成立を確認（福岡県大刀洗町） 2026年4月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "NTT",
@@ -3659,7 +3605,55 @@
       "company": "九州電力",
       "source": "日本経済新聞",
       "seen_at": "2026-04-29T21:56:41.092363+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU215emlrYjhKczNVdWduYWxRTU1BVFRUeEg4emlzZkw1U2lZTDlLZ2ZCYlV3WjFCbWkwYkVSRmVKdklRTEtvUWQwNlIwemYtNVF2bUJ2OHd5eWtfeXRIX3RYdjJyZ1R6QWozUm9GNDF6TnJBMkpwa2tpZF9lZk1MZ3g5QUxBenpFOTBva25oUEsxSUdNa2VteXR6VHB0SzVMYkNLM2x3?oc=5": {
+      "title": "ようやく動いた石化再編 三井化学社長が語る「進まなかった事情」 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5udmRWUkdJQXo5LXhRZWR6TEViOUtuV1pLSlhKeWwxckxKQ05LUFlpV2RqR0JUd0ZXUmxBSUYxTEljSm9KTGlELVNEYjRkUkhiUWpfQUxia2RYYmVwTERjOGxTZk9NX19QWE9N?oc=5": {
+      "title": "ワンダーファイ、インドネシアのイオンモールにおける体験型キッズスペースの開発に参画 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NTlZqeWoxWlhqbkhhSUtUT09iUGE1UVRvYWt1M1dlSFpPVkQ0SE9kdlZnWXhWYVhEUTg5cFN2YkVXdGVNYWItekx4OHNOMmlqczZzOTRtNmFHenlzMWFJRTZzV1NyaFBfUjRV?oc=5": {
+      "title": "LiTime、Sea Japan 2026に出展 軽量・長寿命・スマートなリン酸鉄リチウムイオンバッテリーで船舶電力システムの高度化を支援 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNGF1bFRWMnVhRHpNVHRkOUpobDZxT01RZGVINnoyUjFsX3VCNmE2N1ZQT2RzRjFlNno0TldzZ1VzM1lvSmtQdmdwTHo5ak1OMEtBWGswUjdSTkMySTZYLVRqblliYUZoaDh5QmdrTDBQOUg2bUhvc3NQTHo?oc=5": {
+      "title": "LiTime、Sea Japan 2026に出展 軽量・長寿命・スマートなリン酸鉄リチウムイオンバッテリーで船舶電力システムの高度化を支援［Starrysea Co., Limited］ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE55c1dQQVcycmE2RHhOZnZSdkZGVzJ5WmVQN1RPdnZYSFJjczZPRzdZX1JvYllFQTl0bkZwT2NIeGZTbVV2VlQ2Z0FKcXF4RDhIVWg4Xy01SHBHTFJ0N29GRjd4bERHY2JqYmNn?oc=5": {
+      "title": "『頭文字D』期間限定POPUPストア が「SAC'S BAR ANOTHER LOUNGE イオンモール三光店」に登場します。 - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qZ0ctWFl4ZWptSlhraWo3SW9taFlrXzhjQmQ4bzJGbFltMndZX1JIUDJ5WHlFb2ZtTmhtREhNUWx5eTMxT1lvbUppak81M3NWVkxYXzd1eTVKTFRmeEJJSVQzNHlBWFF1aElB?oc=5": {
+      "title": "GROWTH VERSE、山陰合同銀行のOMOの実現を通じた顧客体験向上に向け、自己成長型1to1マーケティングAIエージェント構築プロジェクトを開始 - 時事ドットコム",
+      "company": "山陰合同銀行",
+      "source": "時事通信",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1pSUnUxNUllWVZ1WTZJc0ZZbmxldU1vc3h4UjhwdG9NSTFMaVpRTGpveG1LRDNnUEt0RTVtNzRPTE5OaEk1QzhWQVJrdE9jeHJKcUx0V2IxcVRuZVIyM3o5MHFkc05vczY5Sjg2alpUdjFtNWtEZFo4SzR4dHFSOERLODVrY29GVkhHMQ?oc=5": {
+      "title": "変化の時代「変われる人」になるためには成功体験が必須 大和証券G副社長 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2h2UXVPMDc1Y0s0OGpOcVNBMF9UR0RyaW1HaGpWMmlRTy12clVqc2d0RmE3d1NUS0hPckRpNGl2OW1LWWR3cEdyOHZUNWVIdGVabFlzSWRjOFpGbTQtUkwzODExbm1FdDM3OG1Lai1RS255ZnUtXzZDal8?oc=5": {
+      "title": "放送50周年企画「Gメン'75 全話HDリマスターBlu-ray BOX」発売＆キャスト集合上映イベント決定【東映ビデオ】［東映ビデオ］ - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-04-30T02:46:41.794446+00:00"
     }
   },
-  "last_updated": "2026-04-29T21:56:41.092915+00:00"
+  "last_updated": "2026-04-30T02:46:41.795062+00:00"
 }

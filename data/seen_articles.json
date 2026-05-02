@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0FxWXFsNGxueWRDaFVVRmJwUzhXemlNR2dRMG9kNUVuNERmenM2WjVZMi1iSy1Xb285cDFQQzJJS3I0dUJUZEl2WVNSall0VWhpb21IMkl5Y0tnaTZPQWJYN2pRbWxmVlJEX0d5Uk1Ia2ljbnM3TWoyeDNsQXo1MVFmbXptZms5UU02QVE3akNPS1JMMHF6NC11UUZfOEJtMnlLRU5VTGk?oc=5": {
-      "title": "東電会長に横尾氏、再建へ資本提携推進 初の金融出身 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T21:33:00.444688+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW01SVBacGN1WnZpMzRXUk5yRkZRb3BxczlITmUwaUtYcXdWR2wzTy1ZZVJtaTRXRlpvenhEWm5lYkcwRHlPU05aYTJIdFJ2NEFKa2pJX29KbkppTENObnhNUXJpa2R1YUN1U0hkM21xRUYzNlM1SjJGaHd2VGREcl9kWFloNEtyS3NENU1DNlJkOTRpU3JVTUhaTXg1a0x1Z29oX0d3?oc=5": {
-      "title": "大和証券会長・中田誠司さん 証券人44年目、生涯の支え - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T21:33:00.444688+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MY0hDUEw3T1NRWTExNWRwQ3Awd3h2MlNqaHFKM295N1RKM1ZpS3Z3SDVSeEZkNUZIeUhQQmpZUTNsY1RSZWE3MEoxREdSZmRwTlZFbktUYzQyZHJya2ZKcWdKdkNvZG5CUTdMQQ?oc=5": {
-      "title": "大和証券会長・中田誠司さん 証券人44年目、生涯の支え - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T21:33:00.444688+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYTZsTUhhaWh4dm5acjFNOWVfcUM4UVRQZzBON3ZXbGtVcmg1RXNIR21ISXRFRTYzbmZuTmtaYkhjckJYRVhQQXZ6Z3R0eHZ5dGJxSEY0VU9WN1d2cFhnVlJuQ0o2RUZYZkpsbQ?oc=5": {
       "title": "イオンモール、27年に中国に350億円投資 消費低迷でテナント刷新 - 日本経済新聞",
       "company": "イオン",
@@ -3683,7 +3665,25 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-05-02T09:57:50.313611+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubWlpcldWQ2o4M0YyMXlaYThGZlNrelI1d29JNWRFUnZDVHdNVjBUbjRMMF8yNDVwc29DSVdpaUMyQ1FDRnVzNE9MNzY4NEVIcWxKYWpIWnc1VFdHckhoOHctTUFBWERkQnFUZXNDYVBCYm9SQy0tbEJrcmlIQ28?oc=5": {
+      "title": "トヨタEV､28年に90万台生産 日本勢EV戦略まとめ読み - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-02T21:36:01.774917+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0xNNV95eVZtTDF2VzR3cVpjUDJnOURwNldqSUIwV09GYzlBejB3WXRtY3V5bXpIcTNCdDc1czRJcEdYYnp5R1E4QkFJN2RTWjFRcksyc2FCZk5DakZhNlVHMVotaEotRU1kc3BScGRiY21mbTA2QUZjME5Kb1NUYkJuczlHZTlXcTdsdUZXbjd1UUlZRGtXbFlVSkRfcnREc1E?oc=5": {
+      "title": "トヨタ・スズキ、連携転機 「インド以西」でSUV勝負 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-02T21:36:01.774917+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNy04YWJrWUg5a3Q2Rk5kMDg5YldfSEVOOGRmSWd4TEYwclBWOTdsR2RnNmR0UFR1dHV6R2doeG5yVm80T2tPd0N5SE9UVm1ZWC10OTFQRkp6eDVVXzB5SFVhRFQ2d2pUM195RE95RkhERkdyNzczejl4S2NGVnA4RHJBQ0x1TEJEdTB1NWM4dnNiS2NvYnlQWk00Nloza2pGWG53NDZ3RDA?oc=5": {
+      "title": "トヨタ8日に26年3月期決算発表 中東緊迫の影響に注目 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-02T21:36:01.774917+00:00"
     }
   },
-  "last_updated": "2026-05-02T13:07:29.726504+00:00"
+  "last_updated": "2026-05-02T21:36:01.775520+00:00"
 }

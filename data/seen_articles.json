@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ga3V3ODlkS3pzODA5RUhNbnpGNnZreEFCU1RoR2lpNFY1OFVXSTZhZ25Pd2c3S1BROGN2MkJyOVZyVEprQXVPcXZoU3hrMUViU3FGRFRTOU5TUFZmYTROZnRwbFVZSWF4VzVrYQ?oc=5": {
-      "title": "ロームに残る1.3兆円のハードル 東芝･三菱電機との統合、株主が問う - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T09:52:03.323877+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdkdoaV9CZmcxZVo2aWhPSVdFazlUVUtTR0tRNURaMzBjdDY2ampaM2NfbXozcVFiT2ZDb1hEcFFuLVpUTjl5MEMtTlgySERsR215WkFvdnlLVHU0S24zNGFjTzM5dU5jdkZKSw?oc=5": {
-      "title": "東電会長に初の金融出身者 脱・電力ムラ、大胆な資本提携を推進へ - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T09:52:03.323877+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmU4VFZBd2RBXzltWURBTmZacmVWTE0yaHZObWwtMEVXS2pkUDJCZTdIbjZlQ3REelhlS3kzVDFyUlltUVNtR09ZdUZQOEpCQ2JncGdnUWlwTFpzUlFLRlFHa3R5WTBtcjM4b2JiYVpNNWpWemlDQ255enU4SVlIY292MGVrQ1h6RXU4UnhJMlRVS0txOXpHNA?oc=5": {
-      "title": "東電会長に初の金融出身者 脱・電力ムラ、大胆な資本提携を推進へ - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-25T09:52:03.323877+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UazRYZGlid3ZRcVF6MHAtZjhPTGpaTmhnTkprMnRmeHZNLVhRajN3anZlcjNmb24zWjhSRnpoTThZcldweVZ0dWx6cWVQZUJiaWh6MA?oc=5": {
-      "title": "○東電会長にＪＩＣの横尾社長 - 時事通信ニュース",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-04-25T09:52:03.323877+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80bUZfNWdzY0JIWjN0aERHTURBdkkwQzhqS0E1THY1bEJzdG00ekpzWWNmQ0Eya2hQaktQblpYamhIYmd6VldfSVlRYkxsOWJWeG1tQw?oc=5": {
-      "title": "東電会長にＪＩＣの横尾敬介社長＝初の金融出身、資本提携に注力へ - 時事通信ニュース",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-04-25T09:52:03.323877+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1gyZ2N0YUhRLXhIQmgxUnk3ZU1kRXEyNmNXdVdsUzhVb0x5SEVPLWtndHRGZWpudEMyMEpuSlRtV1N6T1RiOHF6V3I4TUNHLVFXUGUzRmo4eUNYZkxydmZtRTlJS1ByVDhNai1fNjZzcGszTmhDSU9MYTM3aHdOblVpUEEtV3BLR0JZRnoxQTJDNEFTNDh4QkpvZUZXRGY5bGhYLVhqUDk?oc=5": {
       "title": "ロームに残る1.3兆円のハードル 東芝･三菱電機との統合、株主が問う - 日本経済新聞",
       "company": "東芝",
@@ -3725,7 +3695,13 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-05-02T05:36:02.758399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGsxWUp5YmVhV0VPa3BZUEZ2UWxnU3ZBODJSQVpqN3pVdUttbjY0S0tyNkh0YW5pcW9BTWtCal8yZ0VlN3NpbVpKWmQ2cDFSaFNLaktsTTJkODFzVDR3TFpQejdsQ254V3FsMFFMd2xoMnNncVpST0VCZDlEZkFKTHlGQjlpNnFydFh0SVFtQUxGS3E0b01ORF85dkRTeGc0b1E?oc=5": {
+      "title": "トヨタ、スズキと連携関係に転機 主戦場「インド以西」でSUV勝負 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-02T09:57:50.313611+00:00"
     }
   },
-  "last_updated": "2026-05-02T07:42:04.745466+00:00"
+  "last_updated": "2026-05-02T09:57:50.313971+00:00"
 }

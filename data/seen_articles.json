@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91OUpDdlkwRVZMZ25JUmVlcWxmU3BYNTA2NDdKVjNaOTJwUTZocTZNZGhQSmpXMmJVdDhzb3lENXVOY1BQeGRTaVVaeDIwVWdHeEMtS1pyaVoxY1BWLXVCaUVDdm9ZUUFkbGVPQTFDZjNhRmdyeGk4?oc=5": {
-      "title": "豊田通商、チュニジアで太陽光 国営企業に30年間売電 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BbXFlaV9JcW9fNG1lRFA1ZFl0ZVNfeWlONG1mSUVSRFZvQ3VkSWJVVzdkNEt5YTI5YVRZOWJKU3FLT3JMaWNlaktrTG9XODBYRngzTjFRLVlEVDRqdFp4QnhVWXY0SVk?oc=5": {
-      "title": "NTTグループの施設管理DX、AIでBIMから情報引き出す実験開始 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LOWh5d3h2OFRjU0RDTUgyX1JqRm9VVldaVmo1TTA3MmZ2TTRuR0ZoSXVXMmU2QkwxSU1FUmRsdE5pMm50MFFULWQ5Z0l1RE5GcFY5WE8xc1JyS2txV1Q4cEN4cHMxUmZjbi1aVA?oc=5": {
-      "title": "21世紀版トヨタの部品共通化活動、エリア35は「攻め」ではなく「防衛」か - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVzNQcnFIRjIyOEdaY1VLZU5kTDJ3Qlg5X0RLNXR3OHh2V2N2ZG1CM21qRlZNWXZYemZlLVZDd2UwNGNlRjhsTUxVV18xVWJaMXB1ZF8xQWE1UTk4UExkZFdRRDJ1blRtWU5SZg?oc=5": {
-      "title": "楽天市場、「AIコンシェルジュ」で注文額41%増 スーパー店長の働き - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTVPNG1sZEgwZl9yS0p0X21wSWJlMEZwdFladHN5bGxUX1JmZHZCZFotQ3dZREhhdGltaUQySUVieXg5cERjU1ZLODBqQS00bzlWTjhfSE01MUU5X3ZOa2Y4ZWdWdUJUclVMeW5TTXRBdUFpTnJGSkZNWVdGd0JNLTFLMnRqbHc2TUVSbUhpSlNUSElzcndXVVBYdzlNdUQ0MWhrT2RZS0c?oc=5": {
-      "title": "楽天市場、「AIコンシェルジュ」で注文額41%増 スーパー店長の働き - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDU1WFBZQnRkbWZPY1EyMHI1N2RpaVAtZTh0ampLQlZLWS1PTDlydExHandXeF9DaUdhVzRIN1k0SFUzai1peFNCSDkwektCNnFURGdyN0VxTzJ5SmYxZ29TMGNEdmYwbW9wa0dzNE9DRDhFTHBzaU11UDBHQ1ZyM05NMWNPdkNMU2REcDVpemt2dTFuR043d3JadEJkdjczbDNoeUpR?oc=5": {
-      "title": "イオンモール、中国で350億円投資 割安飲食店を誘致 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWh0dkZRMTl4T3ltYXNMY3A1Sk9vUlVUSFpVY1lZSU5jVGY3bXQyVURUTWdzbmhhc2xiT0NJVUtHbnNveFVaX2xrcEQxTVN3bU9nbnZkV1NqbWRPMkNPUERHX20wcmo0YjE4aE5xdG53ZHRVWmpfU2Q2LTYyR1ZicGVMbFJMc2Q3alVRTDhIbzktd2FSVjFFemNONi0wN3NOcWNlSDlB?oc=5": {
-      "title": "「猶予は3年」マツキヨココM&A再始動、対イオン陣営構築急ぐ - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVOTGVHYm9ULTBCbEFra0FPU1cyUzBFVzh5WXQtSW1YUnk5VEdVVU9sNzQ5OWFjMHNFU2E1dlROcTVPSjlnaC1XMzFFbWF2RWhZS2tEU2JvRy0yaDRYd01DVy0zNHllU21TU2NoSC1kanhVZlNZeFJNbnFCcUhZdU1WTHR1a1N0LXFBaEVBa25EZVVJcEZRRlZsTHRsS1VtTlpyLWl0NHRmQQ?oc=5": {
-      "title": "イオンモール、中国で350億円投資 割安飲食店を誘致 - 日本経済新聞",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T21:34:29.298201+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcjA1akRKU1c1UFlSMWtBTFpaVUt5M0VOWEpLVGtxQWJidm1tcnJONklPQ0Rqb0kxM2lpWDU4YzVmOWNEQ0syRDh5aG5qYmwtTGEtalhDaWVnSXprSWdHYTlkUjRSaUw5MGZodA?oc=5": {
       "title": "XR開発のSTYLY、三菱商事とウルトラマンイベント 横浜で6〜11月 - 日本経済新聞",
       "company": "三菱商事",
@@ -3683,7 +3635,19 @@
       "company": "NTT",
       "source": "日本経済新聞",
       "seen_at": "2026-05-03T13:06:44.657625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU1NQ3JkS2U1NEVpVnVaSEcwME1VQVZuRnBPUjRaMnd4QUVYdTNsdFJRc01LcE96anh4emhRM0xKcWFPM1FsNm8yVktMcEFpY3FQYjZ5QUlmWHRoMTlyY1pxWHZqbTlWUXNUZmdGNkpFb29zWm52Rm9VdmxkNzlOZXhhMXM4X3RvUmdpcjVWWGx6d3VwX0NDN2VfWkNmU0hvX0h0dWh1Tkw?oc=5": {
+      "title": "西武渋谷店、再開発ビル群の谷間に沈む 跡地に求む「休める場所」 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-03T21:37:38.394301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQmlJcnBjd3o1LUQ4bDhoRnoxYU5WQXdtSlR1Qmh6STJ3OTFvNXdWdXNkUkZES0JYY2JJUDRJXzlpZXBLR1podnlrMG9LbC0tZG42MjZmWWZ2NVUtU1cybXltOUloNmlrT1hrNw?oc=5": {
+      "title": "アウトレット「体験」充実で国内客呼ぶ 三井不動産など売上高最高 - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-03T21:37:38.394301+00:00"
     }
   },
-  "last_updated": "2026-05-03T13:06:44.658214+00:00"
+  "last_updated": "2026-05-03T21:37:38.394753+00:00"
 }

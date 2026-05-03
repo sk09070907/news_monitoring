@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmtYMjVLZEhrbjNjX1poOGdleWdHSWpNOEJaTFFMMG12LVNaODVXSzRzcjRSZHN0Sy1jN3FmU2FPajNFOEhDSVVrN3I5Zks5dXJGNEJBS2g5dVd4NnpXUzJlZ0plR3NXZVJFWGpPVHVtdy1JUklFR0xFT1NjckR6TUxfTWRLZ0VrcFJuVWN2bHh1SWNRbnpBdFFpTHpKcXNqelB4REpIb3N0QQ?oc=5": {
-      "title": "イオンモール、27年に中国に350億円投資 消費低迷でテナント刷新 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-26T13:03:36.274027+00:00"
-    },
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE91OUpDdlkwRVZMZ25JUmVlcWxmU3BYNTA2NDdKVjNaOTJwUTZocTZNZGhQSmpXMmJVdDhzb3lENXVOY1BQeGRTaVVaeDIwVWdHeEMtS1pyaVoxY1BWLXVCaUVDdm9ZUUFkbGVPQTFDZjNhRmdyeGk4?oc=5": {
       "title": "豊田通商、チュニジアで太陽光 国営企業に30年間売電 - 日本経済新聞",
       "company": "豊田通商",
@@ -3683,7 +3677,13 @@
       "company": "NTT",
       "source": "日本経済新聞",
       "seen_at": "2026-05-03T05:58:24.156513+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zT2xseHFibVpqNmo5Z3RQNFp6VFA1eGRQbkFEWUo2UktET3E4WWNMZUtONnVpZXZ1SUVFNnBiRFJrdjlsYXJxWU5DYl96amZBZFpCeC1fUEJETUtrLVk1WG9QeWh0SndhOEs0dw?oc=5": {
+      "title": "NTT、化学物質のデータ共有基盤を開発 製造業400社に提供へ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-03T13:06:44.657625+00:00"
     }
   },
-  "last_updated": "2026-05-03T10:03:10.045430+00:00"
+  "last_updated": "2026-05-03T13:06:44.658214+00:00"
 }

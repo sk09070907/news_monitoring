@@ -1,149 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfeDVVMkRCV2dZQ2hqTkZ3UlpsQ0lXVncwWnljakZDWDhZclEyUUxGR3M4SklLSjVmM1E2YXh5RnV5NDhsSGVZMUtVWTNRaHQweTl1ZTBoUWhTSlhDclE2eWFya2JVVFROSXBN?oc=5": {
-      "title": "【ウルトラマンシリーズ60周年記念】横浜の街でストーリーに没入するARアクション体験『緊急指令！ウルトラマルチバース 地球防衛大作戦in 横浜赤レンガ倉庫』を開催 2026年6月5日(金)スタート！［三菱商事都市開発］ - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xUl9NS0ZzMERtZGtNclA3eVVSRHRQRlU1MUJZTTNycjY5UUFBYkVvVjZ2NGRnRnktNkYxWXcxeS1QM1hmNWhiMXZDaWxacnRHaEJpemo4VWpNMnlINjZpOTdfanhqVWs?oc=5": {
-      "title": "NTTデータGの国内データセンター続々、世界水準仕様でIT大手の需要狙う - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkhENXZkejBHT0pCMFZXNm5HaXNKSVBtSU5WNUI2OUczZnpjd3pGbzdEU0RzR29yLVpaa2dPaUdoVGpaVTVfaDFaU01hS2E2RUFDU2tsUExEQnJSelFiRGYtVFdmYUJMakVFLUJJU3RUeHJXaml3MEpBSWl4NVNmRzlKM21HZkVlUzJrNzZFcWtrUHZMVmk5eVU0OVdNUVJvNnFmamtn?oc=5": {
-      "title": "NTT、データ拠点3倍 33年度までに AI需要取り込み - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQlZmdnNBTzZBaGlHTWNlNy12S05DcUQ1eVpPMzktR191bEk5Szh5c0FzdThzUTFMZ0JSMkRxR0hObEtNS1lIeS1KdHFMNV9keGpuOWl5RmNBWnRJMkxRM2JRVW9RZmh1VWNrcw?oc=5": {
-      "title": "NTTデータ、車の走行記録から「脳の健康度」測定 国際自動車と連携 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WUZfdWhsTVRPdFF5QzhPY0cwdXYwQ2VNbERqbzdtRUxpN0Vqd0pBV041NlR3SGhNeURlQ2VUZlpxcDdvZXBtM3ItV2JYTDZUUGRRYUJPNUF5QlBDd0lvaFBMRjdPSDQ?oc=5": {
-      "title": "三井化学が構造式含む文献の調査AIエージェントを本格稼働、1カ月を1日に - 日経クロステック",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMXRXdUxIZkZOV2VISWNfLUIydndFd3djM0dFSklTV29Sc05UNXJjV25wZVN3endHRG9CdWt6VHNFMGt0aHUxSzJjWW4zMDh5UGxWZFpjV0xtYzVQRlQwS2RsMXRNSmlzZ01WeA?oc=5": {
-      "title": "トヨタ、TNGAに続くエリア35 「いいクルマ」造れるかが成否を分ける - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVNzcnpxbnVlcUYxVlY5bU5LZDNiVUROcEROTG02S0hnMFEyQjhJNzRxVFpWMy1pZmhvcjc3RzNKaEJpQldfTHJ5akNlQnJ0VFNmWXVmZnJiVDE5dmlFbmFjTVlKNlNLSFpVZzQyWG9aSmh3a2tRUEdpc045TktwYW9uMGQtMV9TRm9pTWR5OE9sdjJ3eDRiSlRnWW5iTWNmVnpWVQ?oc=5": {
-      "title": "トヨタの車1台利益、BYDの3倍 4割減でも首位維持 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sMTlOV2xiY2tFTE1xS1dQX1RzcHQtaGIwbUdHbGttb2pReGFsZjRVRzRQRDFrSHNCN0dXRWdTVktPUXpiZmxoRjJ1dmhDUG1PTm9zaDkyNGNjMDQtRExmVTRlaHFKbVdpMUhwUVllRV9LcTdUSGNGTHBrWHB5d2M?oc=5": {
-      "title": "トヨタの中東販売32%減 ホルムズ封鎖、スズキは59%減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkVLR0x1bW9hY1dQbWxaUl8xa2lCZ0RKMVdzUnhUd2JmOGFLZnRYMk00clNmU3RIY2JGY0NLcDBnUFdnX2NqVVNQY0tJWmIyS0VtZXhBeGdFa3FlOER1TF9qWHEwUEFMT0lzM2JRNTVnYWVoOXRtN2lkSkFwbm82WU81eW9wS21HSEtDM01tVUVmU2RVMk9OZWhjZngxWmxmWEhjbkV2S2M?oc=5": {
-      "title": "3月の中東販売、トヨタ32%減 スズキ59%減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0FwZzFIUHpfVVlQOVVBMmpVYzhsQkMxZlNwRFJMZWRfUVl0TDktLXp1R1E5T1pZOW1qbXhINFBaTl9GaU5LRDU4cFJPRl9YVmpXRk1SVlJaQkdpc0dfWUN1TkxnTEM5RlNkRzZfc2htS2M0ekptOTZWZEZ0Z0tTUXZaMGJiZUg3UHRxbXk3WTZWRlNzVjFuSE91SWxXT1VZYlRMak9kcEc?oc=5": {
-      "title": "トヨタ世界販売7%減 3月89万7871台、物流停滞響く - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkdTZVVQRmVpN2JXbWY5MmVxYWZVTVVFaEhQSkhidEV2c0swN3JyOGJ5UnhNWTVWd3ZlLWJWY3pRbXdPWl9ham9SdkRWaW9uQm9LMVQzMThvZUlBOHlwTTNxcW91eEZRU28yOVZuNE9RcFAwbzlJbnV3MVk2UmFQTGM2MWlYQ2F2OGFDMEFEbWVFU0d6U3lZSlRiNlpObTh0ZzFzV2lOM0E?oc=5": {
-      "title": "トヨタ系中堅部品4社の今期 3社最終減益、先行き警戒 車減産や資材高騰 中東情勢、影響見通せず - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tX1ZMaU0yNW00UDVJaXliUlZtdl9SRlVxMWVhV1U4QTcweXpULWxTSkJ5RXZIY3hSc1hqWS1rZll4LVhNRU5LcnAzQ0p2T1A5a0pybg?oc=5": {
-      "title": "「空飛ぶクルマ」、ＮＹでデモ飛行＝トヨタ出資の米新興 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02RlllbGNCNzl2MUtneThkVElxMGFFZVV4RzhXVHkydmEwSU5xbUdTWklkcVQ5OGF1SklXM21lWHJsdTVRUWwxVkNtMUxIMllpR2lORjNkcGk0NkdWc01SM0ZqZw?oc=5": {
-      "title": "「空飛ぶクルマ」、ＮＹでデモ飛行 トヨタ出資の米新興 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUy04VDJTRVFTLWtfREozNWRqR0VBY0wtcFlZODFIQzNoOVk1Tkt3VEYtTllQV1Zyb3VYeklHcmxXcDVfRTBrdEdkTERITTFLVmlIWXlRM2dNNy13YUpZZzBBVW5vUTFyY1V4bmxYbGZKV2s1WkNzSFJxTUZ5NDJwNnpFRW9QUmZpYlBqVm5abDBWZnhLNllOQkVZaDFlOEN6WFdiWkpn?oc=5": {
-      "title": "イオンフィナンシャルサービス、最終減益 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjd0YVQzVVlqTktTYTctLXIxMTN2U25zcm9KYzJsbEpIdjNHWFZyeXJ1Z3F1Y3pLdTZtdGk5SEFwQ21UdEhzc0Etb0NPS0xVT183TmxETURSWW50YldCaXI2anRvYzdXcGxNWUJ3Y0pXVHktcjFmNF93ekU3d1lKVURrN2pfY2wxeVVrYnRnTDl5dlNGNWNrWDh6bXRYbFlHS2JBMS13?oc=5": {
-      "title": "日本触媒、中国でリチウムイオン電池部材の生産5倍 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITDh6bnEwVm1JcklTVktsRnczN2owWUliYlMtenltM1B1dTlHR2p6SzNlOXZqN0IxSkpXNVA3M0ktb2lyQ2xzUHEwQ0pfRDNpZnhHdGxsSTZsMy1DZ19SSUdTbWZ4TnphRHNSaEE0UV9LcXAwV1hzN1lHZTg?oc=5": {
-      "title": "【産総研グループ：有料 テクノナレッジ講座】1日で学ぶ！リチウムイオン電池の製造実習講座 ～実体験で理解する電池構造と製造プロセス～（6/4,7/21 in 関西）［AIST Solutions］ - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wTE5ZUUQ5WDFqdUZmelY4LW9oQy1ZOGoxbkF3X0dqV2tnNnRNRzhYdHVhdTM1aEN0cTJGSDIya3JLNnR3NUMtMTZHaDVvMnNOZldONlRYZTFyLTJicERlTUhpYnF6TUYtOW1R?oc=5": {
-      "title": "津田沼駅近くに全6スクリーンの映画館が誕生！ 「イオンシネマ津田沼South」7月に開業 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1dQQ1VxSEQyY0NIX3ZQUWFSbEtUaTFHOWJlNHMyT1RSUkZuc3ctVElSQTlCNjc3QlljbEZmVkR3NVBSckx3eGZkV1Z3b09xM1JTUlFiZ2lmbURkc2xWb29DS1lEWHFUdDJIRm9SWW9IVm9uSVlYWEtON200bXhyb3BMcG8wclNWTzZQSGRBWHVDY0lCa1ZYWkhyMFEtZVlHTmc?oc=5": {
-      "title": "〈スクランブル〉海運株「万年割安」に転機 商船三井、物言う株主が注文 運賃市況に左右されぬ姿探る - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTVQSEtIS2RRNk9GTnNlZDBPWVVsdHFxaE43LV9FYklTVkRNNDNTLUpIN1FNcWRkVFhZX1FCenJ5QmZ0akxqMzRjeWhXZHVzX3dDaFR6LWZHN1A3azJpTklmaXp1UHk4bl9NcjJtYWdiZjVZQ2wtRFBwNUQ4SmM3bml2RFAyblZPbzBQeEFRX1BDYlNfUmN4Y3dOaUlWYWFzcXBYeHl3?oc=5": {
-      "title": "きんでん自社株買い 2237億円、関電が売却の意向 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE05eG5zVXdfOE1kdXhidmtUN0hudVhpem0tSmtrRnVOd09pRmJ0RktxeG5HRzhJbTg4a1I0UXBUV2hRRW1jQVBqYlZDdDREMXJvbUx4NGswVVhMc2ZWaXJvYzdmUXFMb0VSYlJkcGpsWGRfWkUzRmhncFVnekU?oc=5": {
-      "title": "ゲットワークスと北海道電力、道内におけるAIインフラを支えるコンテナ型データセンター新設・運用に関する業務提携を締結［ゲットワークス］ - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlFtYmpiWHVpbUo0MVR3bEQwZHBQNk8zLUxhWjBpd1Vfa0pVWDJWRi1aQjY5b3V3a3RTY0VjQVZtVVJSUU1xWS02NTZWLXdSdWVoVXpnekxnalctT2xXbHZzWXNWNXdEZmpEODBVQS1TUXNheC1HaHdPV3RDTV9pWTFDeU54TDZKRWtUc0d1U2Q4MXFFZjZGU2M4OEhCTzdyYXc?oc=5": {
-      "title": "大和証券G、オリックス銀を買収 3700億円 傘下銀合併へ、ネット銀3位に 不動産融資や信託強化 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjdtTV9BcHplcnlCbXpUUVdtZGpmSzVmazBqMDhsMEZ0bXNLN2s4UUctdnVRNnhEQmdYZW5GSTdvZW4wTktOVlhkRDIxSjVQbnJJVlhKRHBmeFZ6NEVvTlBfM0lYM0ZTVTF0aFNXV0tFU0ZuSFhFMG5JVWxfcXFLRDRSQ0I1cmgxM3RaV3hXR1pVVElNVWdia1NWWkZjajBmRVVaNkFpZ0k?oc=5": {
-      "title": "大和証券G、純利益14%増 前期12年ぶり最高 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yS0RjVUtnUFJKVjZrNmJyWEFhd1FhTWVULVc2dnRaWWRhZTdQdUN0LU1neHVzWl9VdV9Rd1VsRm91Unc2ekp0VnVMbTJ5NDhFVElPdmFqTUFlOXdibmE3by1aMFUwMG9ZbXlYaA?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFhsMEVSSktqMUlSbW5OY2NfN2pfR09vZEJvVVA0V0xfcmp5bEw5NDQ2R1Z3dWNkel9ZSW5TQmFNVFVJZFFNVUUzV3VEMVRFU3AxTTJqdUQ4TmVxTHlDVGNfc1NaVmFjTGt5WWhHQk55UDdVMHNnQnFHZUFEd2YzeDhEd2w3aDRzd2RYUDViQUhrX0s0TGJZMzJYbHVIbWRrY0g4eENZdTU?oc=5": {
-      "title": "筑邦銀、「SBI後」へ一手 岡三と金融商品仲介で新店舗 鶴久頭取 「他行とは資本提携せず」 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-27T21:56:20.060633+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWUdkN1pVZlJoZkRScFF4d1ViTGVOaTI4RHJNa1FMVjZIQ3J1cXdQa3gxMVh1TG1JVTI4NEFfTTM1X2tSMHZKaF83R014dUdTSGgxMjlQMkEyYUw1VVdQQ2QzaG5mUEJxb2xjTA?oc=5": {
       "title": "滋賀県豊郷町役場・NTTデータルウィーブ・サイバーリンク、豊郷小学校旧校舎群で顔認証技術を活用した来場者属性分析を開始 - 日本経済新聞",
       "company": "NTT",
@@ -2795,7 +2651,13 @@
       "company": "トヨタ自動車",
       "source": "時事通信",
       "seen_at": "2026-05-04T06:11:55.944102+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUNTYXItVmp1cmNvaVV6VERndGlJWFFtckxpdG5oTGtYR1VMeE5CNUVfS3E1YnItRG1GVlFVaWVyQWk4UUlYRW15YkhQQlFzenN5WVhSV2wzbk14U1RnRkwtZlowNWJiWXVkOEhqZWtqemFTYlVpWE9Da3c4QWFhSm5uTEljUExiSEplRVZTakJEMmxoLTZkWUpuc2xxRU5DSndlTFJIS1o?oc=5": {
+      "title": "トヨタ、米国で水素トラック40台導入 破産ニコラ承継の米社と提携 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-04T21:56:47.839100+00:00"
     }
   },
-  "last_updated": "2026-05-04T13:56:30.756602+00:00"
+  "last_updated": "2026-05-04T21:56:47.839583+00:00"
 }

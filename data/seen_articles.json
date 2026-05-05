@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWUdkN1pVZlJoZkRScFF4d1ViTGVOaTI4RHJNa1FMVjZIQ3J1cXdQa3gxMVh1TG1JVTI4NEFfTTM1X2tSMHZKaF83R014dUdTSGgxMjlQMkEyYUw1VVdQQ2QzaG5mUEJxb2xjTA?oc=5": {
-      "title": "滋賀県豊郷町役場・NTTデータルウィーブ・サイバーリンク、豊郷小学校旧校舎群で顔認証技術を活用した来場者属性分析を開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZUZEQ2VZXy0xaWh1SkJhOEx4VTN3VEVLM3BKTXFQaHpzUm8xTDQ0UnAxcU1KcFhWLUtQVXJWR1FUeUdrRzlBSXZNTjVoZUU4cnlaT0U3bVpRYkI4bUMybEtySURSdW5HUlE?oc=5": {
-      "title": "三井化学 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zaDk3cUF6WllRV09yWnRfY1ZRaUdKamhrZXd0SEtqTy1tWXVsN2FIX3Fmb2J5LUUxNUhBeHVMY044bXUzX1ptWlZWTE4zSlotejdmaERDdFR2Q0RubU9RV2xBMXZwTmZjenpF?oc=5": {
-      "title": "Green AI、株式会社東芝とソリューション利用パートナー契約を締結 - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVURPeWFTRWhRaDhHYzZqWWZSdURXSjZvRGVjRzBoS0Y5dmI4T2lqN25vS0t1MW0zc2FoT2hzeUx3M3pHenB0TW5lVWNETXlEa0JBY3hUOUxtQlVBamJ0ZE9EMWE0UDkyZzdMUXZyUFZqMUVIZVN6V2lYUktLckszUl9pWEtlMjhueC1VTkxsb1J3dHFsaVQxRUZQQlNWRUhQM21kQw?oc=5": {
-      "title": "トヨタの中東販売32%減 ホルムズ封鎖、スズキは59%減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dEZWNDRoTEVteTlUbWgxVHhIRTVXX0RkeGVKcXh6ZEhhbjFaQm54UkxpMzBJalRYOW1ESTJPajQ3N1VTSWR3aldxNnZLSVNSMXNmQ2NFRUo3Si1OTThvQ2lHYw?oc=5": {
-      "title": "「空飛ぶクルマ」、ＮＹでデモ飛行 トヨタ出資の米新興 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wV0wwTGhWQnZ5NzJoQmc4Z0JtSkVtalJwRUFCZEFOcFFyaXoxOFFKdUltUGFLUEQ0eER0R21SZnRMZTNDclh3alA2WDVYZ3FGalRoY184dDhhY2IzdHFhQmh3a25MSWtQaXc?oc=5": {
-      "title": "楽天Ｗブル - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsWmVOS3BFZlJSZ3BFdHFoWm1yaTRRZnpPSkF6c1k4NGtvU1M2UWRoektkWGc2M0h5N1FEek1GTTQyVW9BR2thc282LTQ0UklKOFJOaWRqQ200RXViRmZidml6cUJZVTJYLUE?oc=5": {
-      "title": "楽天ＥＴＦ－日経ダブルインバース指数連動型[1459]：2026年3月期 決算短信（2025年3月16日～2026年3月15日） 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wWlpvQ0MybVJNQ1hHY0pvVGdHdlJxYjBLXzRmMkctbDBLSVJ1ZFdleUM4Ymk5V2hjc0t1YXlia2l6Q0Zxam91dTByaTA4dVhjeXBBRHR6WGlVRTJNRFAzaG1kN0YzOGNYb2dpRg?oc=5": {
-      "title": "日本触媒、中国の合弁会社でリチウムイオン電池用電解質LiFSIの製造設備を増設 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WVXdfT0tObEZKbkowUU5KOWNYUDVRUWVZdEppWXBDcWRUdXFXWmJPM0luOVRyMDZ5VHJmNk5nMjhEQW5BT05EMWpZcURjR2pxOE1UaUlidm9SRG13VEJ0bHF1WkxwSzZHSlJfWA?oc=5": {
-      "title": "大和証券グループ本社株価が反落 オリックス銀行を3700億円で買収 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNDJ0TGsyZE1tR3oxWGpMZ2xaRWwyLVdVWldOOTBqd3ZiRV90TmJYSUpQa0NiR1paTWo1N3NNM3FPalg0VTZEQkhJc0FMWnhtQzRrMXgzM1IzdEtRX3lNNmhGYURJOTBPS25lVA?oc=5": {
-      "title": "大和証券G、純利益14%増 前期12年ぶり最高 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ01CX0NWelgzdXpzaU5zMEJma3NpVGdTNFFHcktTcXU2aVVzRUNqS3I4Y3RsdTdUOGN2STVMc1F0bnotcGtIcHVDTUltTnVaWGNDcDZkWjVlOTE4bnFDNVdab2dQU3NROXJLNVZ1c3lYVUcxTHlQR29IVDhGczlvNHhTSEhCSG5UX0ZJVmY5eTZNUXlpMFdZTlNib25CZGQ5V3c?oc=5": {
-      "title": "大和証券G、オリックス銀を買収 3700億円 傘下銀合併へ、ネット銀3位に 不動産融資や信託強化 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGpHelA4QWROUWh5UV9DU25pMEVIZndISnBXOUhBb0UtQ09IZGJwUkpvcjd2Vl91d0dFZ29nZDVaT3N3VU9XTm9FUE8ydnJQS0dwOW9tY0NVNjV3TXlOd1hxRVdCUWYzbmtBSXZCdEprQnBYSDg3T1R4R0k0RGVUVGtIRTFMSXYwelNiV0l5SF9tYndZd09SeWNpY05qd1FUZnZBMlBsVTc?oc=5": {
-      "title": "熊本「半導体パーク」始動 三井不動産、県と協定 中核拠点を整備 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-28T02:45:59.720661+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kb3V1cm4xUl9zUVZZdXdISnJmbzlZSmswRU0zNlVWYUlzSUlHYzhGUWxHYUNId1JfOVgzU2lJZGE0cHlmX2owekJtem50cm95S2Q5aWNIYTQzMmtIVGFUc1pMZ2NTeFVVVXc?oc=5": {
       "title": "住友商事[8053]：2027年3月期当社個別決算における関係会社株式売却益の計上に関するお知らせ 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "住友商事",
@@ -2669,7 +2597,25 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-05-05T02:36:09.984756+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdEs2OEdPaW5uSWwzX2hTakdpaXN1cDVyWWxIbXpwb2d4Q0tYVmtBUmhNQmJBNDQ4dnpzVW5JRkdhbXNycVF4Y1lmcTZXU1hnSmlOUjBOUVduWnBGY3d3V05rRnB6SWxPakVHeg?oc=5": {
+      "title": "トヨタ、米国で水素トラック40台導入 破産ニコラ承継の米社と提携 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-05T05:42:40.360644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iQTM0RHIySG5Mc3JPVXk2SThjekc1YjhncWo2OEwyalg2Rk1xYXFQV0dOMDJmQXgyOGJnd0ViTXpQbXRocm5USzVlRDhRUHlXZ0F2XzNGaGl1aFF6V2laZ0V4b0Y5NlU0ZkJIYzhSdE4yUGVKZ3VWN0trckU?oc=5": {
+      "title": "デカボスコアで脱炭素への貢献度を可視化。いつもの買い物で、お客さまの商品選びをサポート［イオン］ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-05T05:42:40.360644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSTdscDdrM2NMN2p2eW90Z3FVMFd0VjlSX3oyY0g2U2ZDMHdCbGh6aXBmN3RQakVQODNzdTRjR1RKNVJIYy1sdWp2VUM5Y0ttZno1b2Nzb1AwZndyWFRNbzFwUmpFR3lQOTRj?oc=5": {
+      "title": "岐阜のイオンモール土岐で家族で一日楽しめる！「春の美濃焼大陶器市」を4/18・19開催 陶器と地域の魅力を体感する2日間［美濃焼大陶器市実行委員会(土岐市陶磁器卸商業協同組合)］ - 日本経済新聞",
+      "company": "イオンモール",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-05T05:42:40.360644+00:00"
     }
   },
-  "last_updated": "2026-05-05T02:36:09.984987+00:00"
+  "last_updated": "2026-05-05T05:42:40.360952+00:00"
 }

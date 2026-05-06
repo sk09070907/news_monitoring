@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0ZTRrZUVHZVVpWElkaEpJT3plY19NbWhCcDlGZ1lLVEEwWF9pdGVDeUlGQk1FNFFLLVBLY05WT2hCR0ZnaEtFTkdDazU5Z0VWOXdmM3QtNGUza2R2SFM4QW5zZjVwUlNWVTRBM1ZidWV1bnlXbER2Y0RQNzE?oc=5": {
-      "title": "株式会社Leach、創業1年半で累計支援40社超を突破──東芝出身エンジニアCEOが語る中小企業AI化の現在地［Leach］ - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IYWtQSmRaMXNwVWxNSWtxUHlIamtTQl82TFQyTUJNYXhQUWFvcjdSWjFjZC1LaHNGV0pPRUo0dW1MZ3NkdlVIakRrb3llbTd2OVI3Q2xMSGVwbHpBWHV4RzRsbVE5OE9lX19n?oc=5": {
-      "title": "株式会社Leach、創業1年半で累計支援40社超を突破──東芝出身エンジニアCEOが語る中小企業AI化の現在地 - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxxX0hTblZaV3QwczQzSTQ4WUdKemt6WE80cXVLRkt1WE4wNVVCUTIzd180OUVaZTBVSXlUN0dSLUJ5azQyRUtPQm0xYmdWUzNkTkJpWWJrSFdVMC1zc3otUklaSjhhY2hOb0p5dGEzb0h1a1UxSEtQTF9qRzNfQ3kxQ1p1TnRZeDBOckkzXzQ3VGxLaS1ycmlsRkpWVzZ6YXVPNVhtWjk?oc=5": {
-      "title": "ナフサ 数カ月先見通せず トヨタ系部品今期、中東リスク懸念 取引先へ原材料の融通も - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FS1puYTJmTzNISFAtSk1DV0pteXpXZXFUOTFLUE1Bd2NmbUxZUldER3dPaEV2amM4UWRtQkpRQ29XNzZlTzFIYjAzc1FWVHhLTkl5bjRwYkEzeU5naDlJUmFzYXZrZzYyYmtB?oc=5": {
-      "title": "【楽天市場 5月10日まで1万円OFF】13.4インチ大画面×4G SIM対応の高性能タブレット「AORLYM P13PRO」、120Hz・Gemini AI・豪華6点セット付きで27,900円 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanZldTAwT0ZUamRaVUVYTjkwTkRWVFhtbm9TWEYzZ0s1eWotUUxLQzJtdHpNcE9pblkwa18weENoRmxIUm8yd0JaMUdEQjNVblo4NE1sWEp1czQwXzlROHpoU3plcS11UXUtUkxtX2tWSlUzWVJ5UUlYM0NxVEtNZGVnTkgwMDE1U215MW5OS3UwYm5hQk5nRmFmVkQ4bU94cGNrTk9QRTBlNWsxWG1NZXNXMGVKYWVyd1pBQWdLbFZ0QmNYNmdPZmk5ckI?oc=5": {
-      "title": "イオンファンタジー[4343]：（訂正）「第30回定時株主総会招集ご通知」の一部訂正について 2026年4月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOak9KNmRXaDNGVTVzT3JKeHhwWWgyNmlzVGpKcjktbEpPaGxGTTBraGM0cFNBU3l5RjZVT2Y3VHdQOG9Pc2NjbzBVSWl3bGIzWmJ0TjFBN05aamdIWEs3ZUwtZl9zcmh1N2dwai12N2J0RS1HUmZSdUo0ZlFpczRXaDZOWWRBRDhBMk9wWmtLejhoU3htZlhZSkphSUN4ZHFWOExLR2ppOEFwbzVyQ0hreXl3YmtHYUtTWFNJUldDWndhbENadkNfT09HU0U?oc=5": {
-      "title": "イオンファンタジー[4343]：Notice of Partial Amendment to the \"Notice of the 30th Ordinary General Meeting of Shareholders\" 2026年4月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE02T2xiTlppTloxNWhiZm04d2xibWdxM0NaNVR6WGlvcWM5VVVRcVJxRzFjeERxeFNQM2tOME9QLVRsUXlmMk9PMEx5UFloSDV5ci1pZk9ueVVQVTJwOTliT2dlYl9NUXpTLVE?oc=5": {
-      "title": "イオンファンタジー[4343]：Notice of Partial Amendment to the \"Notice of the 30th Ordinary General Meeting of Shareholders\" 2026年4月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T02:45:13.158154+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRUHFMZU5qaFZ5T1hVazZFamctME9hR2VwZkxnMnNDM2Z1OGJXVU1MbHNFelJTR2F0N21rRlNUN1BIRHNOQzl6NC0zVFdFOXQ4MFdLUDlteUJwTTZLVDNQTlg3MnJLdmVpamJNbVJnaXlfYmRVX3BZa0Q1SkM?oc=5": {
-      "title": "【楽天市場 5月10日まで1万円OFF】13.4インチ大画面×4G SIM対応の高性能タブレット「AORLYM P13PRO」、120Hz・Gemini AI・豪華6点セット付きで27,900円［深圳市新义腾飞电子商务有限公司］ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-29T05:53:59.885264+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURDeEhzMmtmd1JKSUtHTENKMEw5YWpBV1g3b3Y5OS1BX3FRZGNpVVMyZ2hyeWxTdTF3aTRQZC1oLW0ydEc3cHRUeVdCcU0wTlNua3FzNXNSSk9lUVhETmdCY096Q1lsM3RFUHRYWGlNZEJjYzJ0Nk1KSFgtUkNPYl9tWU9XaHVVRUJ5RE85cEQ3VkVUcF9vck9hYU16MzlzYmVUR2pQS3Y?oc=5": {
       "title": "VRで車事故のヒヤリハット体験 トヨタ基金、園児・児童向け - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1895,7 +1847,25 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-05-06T02:40:39.830846+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13UnRvU29NSDZiU2hXeGdtbi1zOTc1RTdBeVVvcUlDUVhoX2VjSjZzb3RnbGNaUnNlVzNlb2c1akRRYkZGUnFWQ3JpZFhrMGFFMFR4Y09pa3ZjdWllOERTN2ZSU2diS211Vjdj?oc=5": {
+      "title": "2026年サッポロビールお中元ギフトセット5月7日(木)発売のお知らせ - 時事ドットコム",
+      "company": "サッポロホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-05-06T05:56:40.927783+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fWW8xdXQxaFh0U25YbXVZUkJ6MUZwRFRkbDV0bDFMODNhejFpZHRsVktzd2JJRGxmQlowOUJGMWl4QWpSOWd1eU03akpucHplZzNGTGVSZkdsWVlZM1Z5Zm5jM0FSRWNHRTlJdA?oc=5": {
+      "title": "三菱UFJ銀行、京都で田植え体験イベント 収穫後は社員食堂でも提供 - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-06T05:56:40.927783+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWxpVFpaMTNYVHBYb1d3WE4tNTRmLTVDdVNVLVl3alo3SUI0Y1I0X2hOVzFNYzZoczNHRzNZLWZfYk5XVVNBRFMtWnJjQ2FQOE9RTV9Mb0tHTkFqZE1VVkh6Q3hEbWlmTENmd1RGS0x0UUpmQjVPZlpRNGdBNnp5azRubXU3R0dXdmxxemQyUmNxMHppel9lcEJYNXpYWHphdG5BYjN3?oc=5": {
+      "title": "三菱UFJ銀行、京都で田植え体験イベント 収穫後は社員食堂でも提供 - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-06T05:56:40.927783+00:00"
     }
   },
-  "last_updated": "2026-05-06T02:40:39.831084+00:00"
+  "last_updated": "2026-05-06T05:56:40.928055+00:00"
 }

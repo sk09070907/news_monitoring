@@ -1,149 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlNfZjFXaTVtTmkySUZBa0xlNHlrNGxfQ1o5ZVRNZVJNbU00WVNfOVNMbFoxSHlUWjBNVzBndW1mMEZWZ3AzeHZZTEhTNUZwb0pkRU9XOEhHWUJ4NmRvOHJmRzYtUmMyd2wzTWc4NnBRY2h4c2lKbVFqaFlpSXFSeFNMNE5GenlvMFhoXzNuMHpJanhkTkJzRlhxX0F0eE5CbVE?oc=5": {
-      "title": "豊田通商6年連続最高益 今期純利益8%増 自動車販売が好調 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmpWMHQ2U25Nd0ZzVkR5N3R1MW53MUJfOGFyS2RzQmNZTnZnYlliNlFaSVF3TFdZb1RzUy05YzRyd2s3Tkx4SUR5OGZROERQX1FHbGxPcXd6UnM4Mjg1YmMxMTI0YWdEemhaU3dwTjc5MVFwODQ1TXp1T1liNHc1eWdxWkpmcFJPbWxhZlpUcTZtQnQzVDEzdGNqcEZYS0Jua3c?oc=5": {
-      "title": "豊田通商へのTOB - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40X1F0LS00UUUwQklWZ2s2UHgteFFGRkpyWGNCWHZpaEVSNDd1d0hQbWxiQXNJUXRwX2RKZDBnWjVmZ2lWZzI2VFpWdDlUQTZqcjdYRnpGQXpBaUJwUDFkVlM4WEJGNTBXMUFzLQ?oc=5": {
-      "title": "豊田通商へのTOB - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnp2bVRQRTQ0Smw2aXBlN3NqOC1VSGwxb016d1RzaWZHTVIyNGJsSlU1aTNTMXFSU001UXFrYnBOZ29tRHZxT1dnR3FoNWhieDZRb2NuZ2FPUGlyRTJHeHZ0TVdlbjlROTA1YXZfTDFBZ0oyTFZ4enM4NDNZalFNWk16N2tDNUhKOElPUDQ3MWpyczA5ZUcxbUlIUXptRWRGSDc3cl81d1c?oc=5": {
-      "title": "アサヒ、アフリカ巨額買収の勝算 ビールで「幻の巨象」になれるか - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWNKb3FZNlgzTkM5eXlVWVhrVXhHakkydXFSS09pcFRXLVdHS1dvZzUzNlZfeXBMSUJWeEUyYUxMWVhkZDJmMUlXdng1RHV2SEVXa0d6ZWFsb1pCdGw0ZjdvZnlsMDBsMURUaGtiLVhFSmNqR0FVNVdqYVphVFAzYXVLS29rZ1RyLTFLb3lYa0UwNzVVbWtRMmh6M0YzUUZwNXdDT0p3?oc=5": {
-      "title": "JFE、インドで一貫製鉄 合弁、30年までに能力倍増 競合各社も設備増強 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUZmWHRyYml2aFk2MHJ1dlp1a042SktKNXhONHRtRWUwcUsyWVNsZjhVMzA5RVFPdzVKVnBPeEMyaXJ2cjdYeEwwMTlLSndQVVJBVXhyU0sxUkFGRno4RTlKMWhWRnhDUUdhSDBiTGhhRjhnM1JUNTBsS25rNHZySk0weWRaRWxiSHAwOHpKdXdzN0VvcDZV?oc=5": {
-      "title": "トヨタがインドに3工場新設 100万台生産、アフリカ・中東に輸出 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUUdaT0NYdHlOUTVfelduM2RCSXN5SDk3ZkpxMm90SnFkUS1QOE5aeXEyZzQxOGlZZG52cnFnRTZFZDBOa1lCUV92ejBodWY2aC1iSnBvR3lwYl9nRVRTTDJSaXQ4U1h5aHY1Qg?oc=5": {
-      "title": "青森のサンデー、スピード感持って改革 イオンの完全子会社化で - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVU41WjNrSmtqZHRkZXZNd2dCMFVHaUVvbVVjSkJ3Z3dmWTRVOUE0clpGSENoYTRaTWI5OUdVcUxadlprRDRiQjlaQTR3UEFWVlh5MDBPdkYxX3RPM0NZWWVxeVRwSVJGbThBYmk2UXF2Q2dQXzZ5bWdrTU9FZ3huYl9TcXlPN2ZpX2JZc21EOVZDMmFfOC1TazItNlNObFNKbEE?oc=5": {
-      "title": "西武HD、純利益98億円上振れ 繰り延べ税資産計上 前期 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZWdLRXZwX3FYS0hncDBRV0h0TzFHLUhwYjJHd0RxYzRKVFVoZ2NxYW1tN1Y2RGdLMjFpVWJvR3JQRmllazZxQkZTTW9zdjZNVUhlWUZRVDJGNWprcFRxR2FhZ2ctRm5Dd1E?oc=5": {
-      "title": "イラン原油輸出一人勝ち／王子HD、退職一時金全廃／商船三井・日立、浮体式DC（2026年5月1日版） - 日経ビジネス電子版",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ga05YS1AxeTdUTGRJdElqN2pzSVFLSHVrMkt0VWxadFVnY2FSc3hpT240MFhTVE9uYzIycU1HRkd5WWVNWGEyeUlXdHlmX2g0RmhQbUV5Uzl4dC1jRnZWaXhqWEo2LWs?oc=5": {
-      "title": "商船三井と日立、中古船再利用の浮体式データセンター 開発期間3年短縮 - 日経ビジネス電子版",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNDRPY29DYXI0VUdHNVBsLU1nUy1fWHJuU3NnWjY1ZS1ST2g3Vkl2WDc5TEx0cUpRVGxSMUYybklQc2V1dlVtejFZUUVFYWNfQ3F5Tmo3Um5Kamw3QW1IT3otQlB3b2xhQ2RrcQ?oc=5": {
-      "title": "商船三井社長、ホルムズ正常化「早くても7月」 見込み後ずれ - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVg5TThwelU4ZXlQbkZMN2pDb0xkUFpqOHFvdUpOd0RoRzNIaXJtSHY0dEZ2bFAxZGRfT21BWXFic0pvdUljLVhrWVNUXzJyNWhNamJ5ODgwbkpXX0lvTjBySlZzZUdhSWtxV1I2TG91RmxkMlQyWWZfc1F6QkxFWmdlT2Q2ZlBXUkgtN0lENXlic1lhbTBGWmFQeDVZS0FjMXpJaTZYZUY?oc=5": {
-      "title": "法人電気代上げ、5月一段と 中東緊迫で燃料高騰 東電、まず4月に1割 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pVzEyNjIwaWVuU2tidFBGdkd4V0pfalRkTnJhUFk5ckNLWUpFXzJ6UktndHhmUHF1ZmIyN1lIQS02aWFHdTJzenBPMVBvcjlmdTZuVw?oc=5": {
-      "title": "◎〔決算〕東電力ＨＤ、２６年３月期は４５４２億円の赤字 - 時事通信ニュース",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb000UkR5aFBqaURzN0FUTVJ2U29Jc2Jyb0VsVzlOS2xBZVhRc2l6X2R6NmdHcUtVcjV6My1WbHpoSWlSdzlOS3dubnBkZnJVM2NRLXg5M01ySTZQXzl0eXhfM28zVUluM1REX2c5RzRtZXRJZ2VrQ0FKQzMxZk9iVDRB?oc=5": {
-      "title": "東電会長にＪＩＣ横尾氏 初の金融出身、小早川社長は続投 - 時事ドットコム",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUy1UUXFlSTFDLXhqNkdQTmlhT1dzTXJlMkRfRElGTC1ObmdPY2J6Y0I2ejJaWlRod1B3LW5KR3lWM0NEb2NpcFpTWkxuYXJjSzBabTBsVEg5NHNxY3M5ZWFjUGZoN09LczJEWnhRMWdQdWhjR2ZjaGh6N181cjgyZWZB?oc=5": {
-      "title": "東電会長にＪＩＣ横尾氏 初の金融出身、小早川社長は続投 - 時事ドットコム",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDMXVkRTgxa2tmR1NMbUVjMFctWVFoejN6SVpQNVJPTzQ1b0hsZmJTd0d2RVVyalNhSWhsNGZLYmlLYlQ5QU5EY0Q0enFhSlZLTk16dA?oc=5": {
-      "title": "◎〔決算〕関西電力、２７年３月期は増収減益予想 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Skl2ek1WRGgxYTA2RzdLMDdKdzMwV2hPbElJQWF6cnFwd2Q2NmRpVmxKdThoZ3FxTnBxNU1qalNrVE03ZUZWVGx3TFRxS3dUSEc3RGdkcHFhd0QyOXFoU2EwOTBPZ0dnSjZKTA?oc=5": {
-      "title": "関西電力、成長投資3年で1兆円 次世代原子炉開発などに - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg1eDVBM3VjZjBWVG5HTXVaZENtMTBVa2FYemJkSmwyd0ItbmxRblpiRWplWGZkbHQ0c2FYMzcxSmZPQ1lfMXd6aEl0M29VSEROdjJsd29VRklfSEFXTmRVTi1hUThOVzdVYktjZkpvTTNrc3lFN2JjSzU0MGpQanIyT3Y0ZWRxbXo0NzM4TGFGaWItYzZGQkt5TUVqZ0VxRHc?oc=5": {
-      "title": "関西電力、成長投資に1兆円 年平均で8割増 新中計、次世代原子炉の開発急ぐ - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVpQTE5GclRYclc2WjNCWVBnUk9MejJyVmkzMk43bzFPQ2dHNzFkQWIxaWctdktUTE41YVRzMG9ud3dmdEFkeS1XQ3RUWW5nVi1kNmdDTEFfYzl6cHk1QTdwc2RJZGZPZmVsRFNjSUpxUGdqTkRpazZUYlhiNTNwR0hzT2U1dVZRUGQwYlhzM3JmTE4zbmNhbG1FY3plUER6MERTVHRXSEE?oc=5": {
-      "title": "関西電力、成長投資3年で1兆円 次世代原子炉開発などに - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40RFNjazBReHJNSHZWRHc4WHllVmltZFlnUjl1d0t4UXpES2poRkhjaDBaYnVValFsZHNiQllxZ01fUkxNaEp3YkpDSlY0S3JwYUsxY0hTeFVMQjRySTZhTmFpVV9zMTc2VGg4WA?oc=5": {
-      "title": "東北電力[9506]：臨時報告書 財政状態への影響 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVhDQU9jajcxZXRfNnVrT051aUQyemRlOFVrb0lTVC1fMEVackxSS2VlMUhEWWRRWFh3RWJoUmltRHp2QXdLVS1pZmNJRlZXZUExN2o5d1NxdGoxeUF6cDVMcTl2QzltcmxGT2NqNHZJa3dONEdmb183THZiZUVXUW5kVFBWem1fYTBoYnFhWHFqNHNHSlpmUHpMSndzQVZfZUE?oc=5": {
-      "title": "東北電力、27年3月期の業績予想見送り 中東危機で燃料費見通せず - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMThWWl9MOEk0VnpiYTNTZWVsRDB0d2RlZG5lSlo4dXF4b3ZRbGxXa3YtTlpRdWhuYU9uV0JfcE55MnJVeC1iTFRBU2tNUHBEUEZpRkRONVZTLTh4cHV1bzVKVENBZUItd1dNYw?oc=5": {
-      "title": "三井住友トラスト、純利益23%増 前期上振れ - 日本経済新聞",
-      "company": "三井住友トラストグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1pJc25CYWp4eW1DdGNCUTlmUXpQQW5XNFU1RjdJc1ZoQ25fblZrX1BJWGlPYkhIMUN5enduZzY5dmlkT3lNcF9ZT1Q0aUc0MmM0Y2FsNm1EUTRPel9DUFJZOEhuYk51S3BnZlozY3M4UDI3aHlzX1c2QVFGa0NCT2p1OWdSREgwT2hMZ1JUMWhseVY1X2tFSTItYjRNQlpyMFE?oc=5": {
-      "title": "SBI、米運用と投信 低コストで「オルカン」対抗 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE50dGVHNlRoRXItVUFDRWpUTWNUeXJaN29Ka1hJdnhTTDhCNHhDaktQUG1uTTR0aXFVU1k2N3pBRHROSWlGNlMtMTlGLS1lZ3MxUkhmOTJMWFp2bXhoWkoxa3F0NHJ1b3NrQm9jY3dHSUwxZl9NNTB4YmFEMkQ?oc=5": {
-      "title": "浦安D-Rocksホストゲームにて初の冠試合「東京センチュリーマッチ」を開催［東京センチュリー］ - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-04-30T21:55:08.322874+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGJQbGlRSm9kb1U3LWxuUEhtQ09GRUxRZV9jcGt1QmpWYXFPaUpDdE1jcXhOdUV1LWxLaVc0YUZQU2Ezd2JqNVVWU1NvWnA1aDN4ZlVjQi1VNlNtMFc1TzZRNzE0UG1Pcm1yVnF4RGh0SlhOLU1rWmYzejJUeHpYTEUxa21lT2tLNGlRNmdKOENndkZRaTk4UmFmY0xGeTlOOHo5TFhn?oc=5": {
       "title": "豊田通商6年連続最高益 今期純利益8%増 自動車販売が好調 - 日本経済新聞",
       "company": "豊田通商",
@@ -1487,7 +1343,67 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-05-07T21:54:10.729950+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWxrODQ2Y19XczRVZVY2Q3NUdE5xYmNPalZweEU1bFoyb05qYU1fSExta0VQSlhKaGNVUGllSHBWNUczdHJEUURXaXFQTUdVZFlyRmNoel9Hc2V6SXd1RU9IdjRQR0J5blNaWVF5QzFCZ0QzYzlqaHdSWklwM0cyRVdwLVZkWmVMeVlvb29VQUF5bXprVUFjQ0xtMk5xT0l1T1hRelRR?oc=5": {
+      "title": "NVIDIA、NTTのお株奪う「光技術」傾倒 米コーニングなど提携拡大 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWl0dWxpeElsWG8wWDRqNU1oM19aR3doNmZYczF4QUthTThPRjBkWl9UbkJkaVJPSHV6SS1wVXA0R2xZdFlUR2hOMlVhWndRZkwwTFh2N3VRclU2U053MHJodXJFckwydGFCUVhia0lhQWw2Q240alJmUXVFN09NSzlLT1RyUVA2X1ZSRjlIdVpjWGxvZ01Ud2NlZlhCQVJZSUhZR1lSRE4?oc=5": {
+      "title": "「クラウン」運転席 チェアに トヨタ紡織、小売市場参入 機能追加、仕事・作業も快走 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yMFJLOV9DMnhad3NrUHJGMjVEZl9RbVZSdzdZMjNXUW9OWmxoMVQ3enVPMzYweUxnWlE0a3k1UzJUNEt0OFJWeTY4NWtWb0o4U25TNnFHUzJRcHQ0S2dtQ2dCbWZaOEZsdmpR?oc=5": {
+      "title": "声優・上田麗奈さんがカーナビの声に!? 個性が豊かすぎる「クセきゃら！カーナビ」動画をトヨタが声の日に合わせて公開 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fbHJEekhFSC1uZE9WbzRwZ2ZiWE9ac0ZJRTZ1TVFQekQ2YnZlM3BYX1d5Z2ljakpLVnRXM2hiWHg1SFJRNld1S1ZmS05PbEtJMS12N01oR0JoUDV0Q0ZpemY0cUY0UDJ4VVNF?oc=5": {
+      "title": "2026年、母の日トレンド「ソーシャルギフト（eギフト）」の定番化、進む。母の日ギフトを提供するプラットフォーム各社の競争激化。利用経験25.0％に拡大、ソーシャルギフト普及で市場拡大、楽天も新規参入 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE80YzRRbDhlUGMxZzBxclRVNlZONEdkMHE5YXpidkQ5V3RlSFNnOURVSEFWRlhBUVZZUVM3enN6c05DbkZUR2poeFZxR2NHbmJHOVBNbnVyeVdlb2JIbExLQTVCVkdVb3VRVTQ0?oc=5": {
+      "title": "楽天ランキング1位獲得の【猫用爪とぎハウス】がお買い物マラソンで特別価格。コストフォーマンスに優れた\"替え芯4枚セット\"は追加予約販売開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzLUVfZ2xucXdWbWlTZnhYR04wZFdubE5jbGFSSDVPRi1lOVowN01jOTRwX01RVEJRMGdib3FxRzFfVlJpdmR2emFiVk4tZzQ1S0xzdDllYnNCaWZCVXd6MjRWSGdrVEEtMnc?oc=5": {
+      "title": "イオンフィナンシャルサービス[8570]：（訂正）第45期定時株主総会招集ご通知に際しての電子提供措置事項 2026年5月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1va2d0YUpsdF9CYjE5NWtDeTF1OVhGUnhhU01KYXczMTl4dVdpV0MyX1FIMEVsTFNJbUFQcFZvajZFc3NXQXA2eFhIT205Vm1Rb3lZejBQQUJNN1d2Z3F1ZkZqRGVLRUtkRmJB?oc=5": {
+      "title": "【イオンリテール】母の日に“ありがとう”を伝える商品を順次展開 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnRGh2andxd0huTEYtcm5YTkNvejIzTnBSbGNTU0wyYlNKSlkyci15MW1HSlhyaTFjS1FEbzZaSUhuQ3dxdFBST0Q5ZkdhSzJSMVBrVmZSOFBHNVR4TFBKa1YxSDJBZkdoY2tZ?oc=5": {
+      "title": "【ライブ配信/Zoom】「高安全性・高性能化に向けたリチウムイオン電池の電池技術― 材料・製造プロセス・電池解体からみる開発動向 ―」セミナー開催！6月12日（金）主催：(株)シーエムシー・リサーチ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHMtVUVCTVc3S2xydnBINkQyTWl6WEdOOU16WWRFS2lPRTEwelM2X0F3MnB2dUZyTV9QUm9sVndkRkZvTGtvTi1mMFRJUGwxWHp3VjhXYVk4OGpiTVRyZEh0YUM1c1UxZnQ2Q2VMZXNqeHc2UmRub3Y2dTNWWE40MG1xNDBoR0VKdmJsRnpzRkFsckVuSzBNYmlhUGpIVWRBTHRxYUNR?oc=5": {
+      "title": "関西電力、美浜原発3号機の運転停止 蒸気漏れで - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOGtBeC1NRUJSTmFjcjZ5aVBYWjluVWJhblpTa1NETE11c2g5ZEpnZUZqZnlQZ2NmT1hpY1hkQVp6c19rOTlYMG93Zlh0YUgxMlQ4emlfampWWXM2TGE2YkE1SQ?oc=5": {
+      "title": "美浜３号機で蒸気漏れ 運転停止、放射性物質の流出なし―関電 - 時事ドットコム",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-05-08T02:47:47.537403+00:00"
     }
   },
-  "last_updated": "2026-05-07T21:54:10.730136+00:00"
+  "last_updated": "2026-05-08T02:47:47.537777+00:00"
 }

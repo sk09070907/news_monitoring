@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGsxWUp5YmVhV0VPa3BZUEZ2UWxnU3ZBODJSQVpqN3pVdUttbjY0S0tyNkh0YW5pcW9BTWtCal8yZ0VlN3NpbVpKWmQ2cDFSaFNLaktsTTJkODFzVDR3TFpQejdsQ254V3FsMFFMd2xoMnNncVpST0VCZDlEZkFKTHlGQjlpNnFydFh0SVFtQUxGS3E0b01ORF85dkRTeGc0b1E?oc=5": {
-      "title": "トヨタ、スズキと連携関係に転機 主戦場「インド以西」でSUV勝負 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T09:57:50.313611+00:00"
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubWlpcldWQ2o4M0YyMXlaYThGZlNrelI1d29JNWRFUnZDVHdNVjBUbjRMMF8yNDVwc29DSVdpaUMyQ1FDRnVzNE9MNzY4NEVIcWxKYWpIWnc1VFdHckhoOHctTUFBWERkQnFUZXNDYVBCYm9SQy0tbEJrcmlIQ28?oc=5": {
       "title": "トヨタEV､28年に90万台生産 日本勢EV戦略まとめ読み - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1469,7 +1463,13 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-05-09T07:54:31.353434+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNGhUZ0poQkpaX0YzMWd3WUVycWVVdjBWN2hKYkRCSDRmQmpDeWZfTTUwUzdTelJMQk1wajRRQVUta01CTnZLck95WG4tdUttaHBvc0RDM1BROFphclNKSlJadWhURlU0MnJUOQ?oc=5": {
+      "title": "大成建設、三井物産と欧州に脱炭素コンクリ供給網 CO2排出9割削減 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T10:04:41.358592+00:00"
     }
   },
-  "last_updated": "2026-05-09T07:54:31.353573+00:00"
+  "last_updated": "2026-05-09T10:04:41.358943+00:00"
 }

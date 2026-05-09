@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubWlpcldWQ2o4M0YyMXlaYThGZlNrelI1d29JNWRFUnZDVHdNVjBUbjRMMF8yNDVwc29DSVdpaUMyQ1FDRnVzNE9MNzY4NEVIcWxKYWpIWnc1VFdHckhoOHctTUFBWERkQnFUZXNDYVBCYm9SQy0tbEJrcmlIQ28?oc=5": {
-      "title": "トヨタEV､28年に90万台生産 日本勢EV戦略まとめ読み - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T21:36:01.774917+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0xNNV95eVZtTDF2VzR3cVpjUDJnOURwNldqSUIwV09GYzlBejB3WXRtY3V5bXpIcTNCdDc1czRJcEdYYnp5R1E4QkFJN2RTWjFRcksyc2FCZk5DakZhNlVHMVotaEotRU1kc3BScGRiY21mbTA2QUZjME5Kb1NUYkJuczlHZTlXcTdsdUZXbjd1UUlZRGtXbFlVSkRfcnREc1E?oc=5": {
-      "title": "トヨタ・スズキ、連携転機 「インド以西」でSUV勝負 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T21:36:01.774917+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNy04YWJrWUg5a3Q2Rk5kMDg5YldfSEVOOGRmSWd4TEYwclBWOTdsR2RnNmR0UFR1dHV6R2doeG5yVm80T2tPd0N5SE9UVm1ZWC10OTFQRkp6eDVVXzB5SFVhRFQ2d2pUM195RE95RkhERkdyNzczejl4S2NGVnA4RHJBQ0x1TEJEdTB1NWM4dnNiS2NvYnlQWk00Nloza2pGWG53NDZ3RDA?oc=5": {
-      "title": "トヨタ8日に26年3月期決算発表 中東緊迫の影響に注目 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T21:36:01.774917+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTlNOSWlWblNraW5HbXBsYk0wTmR6WFVKamVNMVRJampMX0Z6Z1VvalJLMkdCRTBYbnl4TzhBQTJibno1QnhrYU9ySXJZWEpoNjloZm9yQ2d0UHhGZ3k2UFJSQTJHcUtJYjdaMnVRR1d2ZkxXTTVPa3c5SEc?oc=5": {
       "title": "moxymill単独ライブイベント『moxymill Special Day -6 Charms-』プレイガイド先行（抽選）受付開始！［NTTドコモ・スタジオ＆ライブ］ - 日本経済新聞",
       "company": "NTT",
@@ -1475,7 +1457,19 @@
       "company": "東日本旅客鉄道",
       "source": "日本経済新聞",
       "seen_at": "2026-05-09T13:14:24.768140+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjVLcHJqUklHS182cWVSQVJHelFxeFR4aHdWTnFqWUtXVVEzQmJzUnA2c0pIZVBJcV9KdnNyb3hqRTB4Qk9VYjN3d0hCczQzcS1LRFhiZFhRZ25FRFh3VEg3ajFwMlZ3YW9wd0o1RWFXZjJzd1pIZ0ZUc2c0Y21qT08zYVBJNlBwRlRhblhGdFctSTJaRFhSa0k5dlBHWThiRURCR19n?oc=5": {
+      "title": "大成建設、脱炭素コンクリを欧州に 三井物産と30年めど - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T21:39:08.339629+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MeFBFTG1hQkRJZDhBSG5ZMUp2TlcyczgyMi1TVC1NRU1ocnVsdlYtc1JZWUI1Y1dQdTgwQUZCZktudktWSm4zZDJXeldUb0RuRmQ1YjRleTlUQ0lJWGN5cEZwLXUwZW9aVmttMjRFMXhZSlh0Sk9vdGVrak8?oc=5": {
+      "title": "楽天カード、HDI格付けベンチマークの「Webサポート格付け」で3年連続、「問合せ窓口格付け」で2年連続、最高評価の三つ星を獲得［楽天カード］ - 日本経済新聞",
+      "company": "楽天カード",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T21:39:08.339629+00:00"
     }
   },
-  "last_updated": "2026-05-09T13:14:24.768310+00:00"
+  "last_updated": "2026-05-09T21:39:08.339982+00:00"
 }

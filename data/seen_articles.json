@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUJMWXhwbkwtckhxdkEyMGpaVzRBTXNBVkhmeVlWaXVTU2dVSGdscGs1UGhVRFVFS1k4SlNxUXNvM2laM0VUemxTX2JKdjVCT2dqdG5ILTVlcVFVOHBrNkdmTXp3YjYwaTBpdnRGbDJfbDR2TWVDZ1d4VFEtUlVHZUJxaXdqdnl3YXByYld3Mmp6b244Qk5uNy1JTVdEc0RCVlN4alNR?oc=5": {
-      "title": "三菱商事、天然ガスに回帰 中東緊迫、揺らぐ脱炭素 排出量「30年度までに半減」緩和 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T02:34:20.022295+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1hKNmczdzlZNi1sNFVVQ21QRHhoYzdJTVVOUnYtdFhDbGNiNF9rVVQ4OV9LZHJJUE5wZTZzWjVpNTFnZjF3RFQ5MDkxeUhHaXprb1p1Q0ZYTjFYdjBDcXRwQW0zYmEwbjBScUZ3N2hKMGtYcHk5SmxQcV9tcDhyazRCZk5ad29LWVRTXzdVSlNmR2Zfd21VXzRiWjAwTUtkcHJZUTBPc3c?oc=5": {
-      "title": "トヨタ、スズキと共存関係に転機 主戦場「インド以西」でSUV勝負 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-02T02:34:20.022295+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oM0dEYlpzOFdrNGlzMTdObXZDbnFXTndIc0tJNWxqTEN3S0NTMUFVUkZRcGtvWWlSMTdGWXNvY29wR1JyRl9DVFlqek9FbUdxOWZoc01MYXdnRW1taklnSUdFWVVxX3dGR2lYUw?oc=5": {
       "title": "楽天GがオープンRAN実証 東南アジアなど7カ国で - 日本経済新聞",
       "company": "楽天",
@@ -1409,7 +1397,49 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-08T21:56:53.192283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdm5VbnBSdEtLR3pxQm9WQkN3aW1BTDB0YjE0cGtDZE1Vb252cVJ5OHU2NkxiV1BDY0cwRG5OTER2c0ZXNDVEbFdPVkVOX1ZnZmc5dGVHZDI2WFVpX3hhbWJuc0dMazd0NkE?oc=5": {
+      "title": "ＮＴＴ[9432]：OTHER MATTERS SUBJECT TO MEASURES FOR ELECTRONIC PROVISION - THE 41ST ORDINARY GENERAL MEETING OF SHAREHOLDERS 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE05QUhpczdlNnRfeDZSWkpVaHl3cWZ3TkpGWlZPX1l2Q1VzalF1OUluTmVwTi1qTHdxdUZuUXlwMzRlUW1UbG00RW15Vks0N3dvM0YyWkt1bnloYXAwRWtpS05xQi1ZNGExakE?oc=5": {
+      "title": "ＮＴＴ[9432]：第41回定時株主総会 株主総会資料 別冊 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vU0xKZkUzc2x4R1JHSHZvby1zcXNIemZxMUFZUmk3Z1ExeVVwdklVS21lU0hVT3BBcVVqLWR4UEE0YVk4RXRya3dabmVESEZhWXJtZkJ2MzFhNGJ2dVJvOVNkWjVnbkhNOFE?oc=5": {
+      "title": "ＮＴＴ[9432]：第41回定時株主総会 その他の電子提供措置事項（交付書面省略事項） 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pTmZXWkNWM3FLOUp6TTk5REp3VHMwNGdiZlVKajZLOEI4bWpMb2NMSFgtclpwaWR2M0pucFBMWEhXQ2FVZV9WRW1jSF9kN3JGdWtKaF9nMjVSLUh6WWRHd0ZFd1FSM0ZrT2dZOA?oc=5": {
+      "title": "NTT誤算、成長投資に陰り 頼みのドコモ、顧客流出続く 利益目標を3年先送り - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclZtNVlMR3NDX2FSQVdaTG1Sb0xfeUY5Y2tpLW5LUHU0dk9ZdFR1eklQZWVWVV92XzI3Vk56UHl4NEVlUmVKUFF5S1BUOXh6bXlmeHhSdEVtN3VYRkZHTG9UQkRPRjFnWWR3ZHVZcE5TbV9FNzdQd3h4M1BVNE05R09MRWh3TTN4UTZBV1Ffd2UydEhybDhtWlp4VTFLRlBQYkNPZUJzLWM?oc=5": {
+      "title": "NTT誤算、成長投資に陰り 頼みのドコモ、顧客流出続く 利益目標を3年先送り - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50b2lTSmFtUjNFM3lVZ09XM2p6UC1wbXNnQml5RjhOUGEzdHlfcVl3ZkpSQmF4cVl0dmo4eVJtZTZvOU5sMmxDWjdGMXF2QlducW9xOVJTZXFsTFlXaUpFcXNobw?oc=5": {
+      "title": "販売好調も「稼ぐ力」課題に 近社長、利益改善へにじむ危機感―トヨタ - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hdlp5N0h2ZDd4S245c0NxYVhSb2cyNXNpMzEwRW4tTDgxNVBKRmkxNWlNOXVVZDNUbnhYc3dLRVc5eFd3eC1mSUVxLXAtTG91S29VTjcwcXNhZXF3UFk0akxLNEZsRGFxaTdIbThUNF8yMUtoUVRwN09EZEY?oc=5": {
+      "title": "線路内自律走行型ロボットによる線路点検を推進します ～技術の「深化と進化」による安全安定輸送の更なる向上～［東日本旅客鉄道］ - 日本経済新聞",
+      "company": "東日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-09T02:41:54.824375+00:00"
     }
   },
-  "last_updated": "2026-05-08T21:56:53.192695+00:00"
+  "last_updated": "2026-05-09T02:41:54.824583+00:00"
 }

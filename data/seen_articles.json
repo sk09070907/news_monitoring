@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zT2xseHFibVpqNmo5Z3RQNFp6VFA1eGRQbkFEWUo2UktET3E4WWNMZUtONnVpZXZ1SUVFNnBiRFJrdjlsYXJxWU5DYl96amZBZFpCeC1fUEJETUtrLVk1WG9QeWh0SndhOEs0dw?oc=5": {
-      "title": "NTT、化学物質のデータ共有基盤を開発 製造業400社に提供へ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-03T13:06:44.657625+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU1NQ3JkS2U1NEVpVnVaSEcwME1VQVZuRnBPUjRaMnd4QUVYdTNsdFJRc01LcE96anh4emhRM0xKcWFPM1FsNm8yVktMcEFpY3FQYjZ5QUlmWHRoMTlyY1pxWHZqbTlWUXNUZmdGNkpFb29zWm52Rm9VdmxkNzlOZXhhMXM4X3RvUmdpcjVWWGx6d3VwX0NDN2VfWkNmU0hvX0h0dWh1Tkw?oc=5": {
       "title": "西武渋谷店、再開発ビル群の谷間に沈む 跡地に求む「休める場所」 - 日本経済新聞",
       "company": "西武ホールディングス",
@@ -1475,7 +1469,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-05-10T10:13:14.085745+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVm1WSG9qM3F5RGRBYVpGTms2SW5KbmswQkIwQVRsd191WWYwRWdTUUVucFFqMWVRa0xLODJFT2oyS1N0cXdtLXA4RlJrcWlJRDV2QmRmY3pOOEgyeHNzd0pUQUlkZXJCMUFIY3g2Z2tfUC1mNWZCd2MxOXNTRWRMVC0xcXlJUU14T0ZETA?oc=5": {
+      "title": "東芝“解体”の現実味 - 日経ビジネス電子版",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-10T13:15:09.139272+00:00"
     }
   },
-  "last_updated": "2026-05-10T10:13:14.085902+00:00"
+  "last_updated": "2026-05-10T13:15:09.139743+00:00"
 }

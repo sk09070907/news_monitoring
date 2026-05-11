@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUNTYXItVmp1cmNvaVV6VERndGlJWFFtckxpdG5oTGtYR1VMeE5CNUVfS3E1YnItRG1GVlFVaWVyQWk4UUlYRW15YkhQQlFzenN5WVhSV2wzbk14U1RnRkwtZlowNWJiWXVkOEhqZWtqemFTYlVpWE9Da3c4QWFhSm5uTEljUExiSEplRVZTakJEMmxoLTZkWUpuc2xxRU5DSndlTFJIS1o?oc=5": {
-      "title": "トヨタ、米国で水素トラック40台導入 破産ニコラ承継の米社と提携 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-04T21:56:47.839100+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOFNwdnp6cWVFV2d5MTg0cUVpVmJCWmtsUkJfVk5QUDdndTdjWXI2UmwwS1RQd2hvVlZYeVpfbWdEa29vRDQxVEpCaXBWTVVFQUxZMVB3TmdwMWRscmlvSHhfVllOcnczbFdNOA?oc=5": {
       "title": "伊藤忠、逃した「商社3冠」 時価総額1位奪還狙い1.5兆円投資 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2015,7 +2009,121 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-11T12:13:01.906679+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ka0JPUHZRMUVhbzBGN2lRSnFBWDBCcG52MUItT1FhT2k1ZXBMNWNDM3ZvaXJQNWVoQ1Z0aFFzMXEtVmxiSkE1bjNVX2Rudk44VjNCb0gtSUd2Y0o1?oc=5": {
+      "title": "三井化学「造って見せて感性に訴える」、新潟で自動車向け開発を加速 - 日経クロステック",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sb3NRWUtINzVGM1JuQjN4ZE0tQmN5OTNNLVFoQk53bWpyc1h3UFdKXzh4RmtRZkRxb1JtN2JlWVFnOU1PU1ZwbmdvbUJNd3U0Z0ZsTnI5V3FJS1lUb0dKT2J4OTVXM29MYzl0Vg?oc=5": {
+      "title": "ダイセル[4202]：臨時報告書 財政状態への影響 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmZWa3p3MllkdFRoVXY0ZTN5NUhqSnI1NzBQdDA2d3VsajVOeFNQemZDdS1ZVjh5YVhibFBzdEMxZWdzQ0QybXNkQnk2UmxQLVhiX1Z6am1nay1za0dxRmJodGQxQ1dGR2J2WGlrRE9WSkQzeUE1S0RITlg4OTQ3T1MzY2tvSFVQT1d4dmdlRWs5c2t0dE1venRmWExHVV9JcHQ0STE3V0k?oc=5": {
+      "title": "アゼルバイジャン産原油、きょうにも日本到着 ENEOSHD - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3lDYnctQ0lYWmNfZ01Jb0JWS2ZyNlJ4Wk5wYWF0YUM0dDNrZTR1dFp4bmw4QVUzVk8tYm5PbEZ2b0E1Yk4xc1BjaEJtQW1FOHlVVWtsVnRCalF3RnhYZnRTTjY2TE95WFFHVXFGbXNfZnhVeDIxRDdNYk1fLWJLTTZRYmNmQXNRZEdpbXFPaU1VY1lfX29tQVVhNWtTaENlaFB1czZn?oc=5": {
+      "title": "アゼルバイジャン産原油、きょうにも日本到着 ENEOSHD - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHJEdEppZlJlY3BvY3ZKUXJhUDJ2ZEV3OG5OTk1qTUoyb1JPSUU4S1pBdkJxd09WbWVOZkJubEJ5T3VxRGxscWRBc1pETjdWREtTcGEySExqTzlMaVplakVYTGVmbWJZOGE3bTNwd0Q5RTg4elhXQXhzZzd4NF8xR21jS19XeEN5OWdFRkVGNUo0b3JUOG4zSWtvLTB1VGIyNE1Nc3VR?oc=5": {
+      "title": "ミネベア上振れ、67%増益 前期最終 東芝株の価値引き上げ - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFJYYmpuNmM5azM5ZTE3REhMa2FrRkxZZG9uSjF1ZF92VjRYcGpuUG9XUWNmMUtiY2xtZUpFT0RfdWM1Z1doR1VSX0xucTUzQUd5c1VSRmNrWlNxNDFIcV9oSVNJcmgyanI0VU5mY3dyUVZVQ3RQbUVUMWRCNFFWZ3pGVDVGekJMS2NCbjNPM1JKNGk5OW5YUHllM0g?oc=5": {
+      "title": "スパークス・グループ、「未来創生４号ファンド」設立 トヨタ自動車、三井住友銀行、三菱 UFJ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlBGZEMzTkpQdW5CUURVeUJHWUMtT0RCdno5TTd4RDh4b1cycFVBNWJSRzR2SnRJa1loZ29YZER3QlctRzhjLTBBenpWTFNYMDdXaVhVQTJXRG15cjVsWEhnSXMyODZFR2RoU1dPRjB3QXFBY28xaWZIVlF1RGNCM2ZFeVRyVFF5R2o3Z1JzZWIyTDJOLVhlY0NJU1EwaDR3aUowag?oc=5": {
+      "title": "トヨタのVLM､動画理解の精度｢世界最高｣ 飛び出し予測 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3owV1VDY1FETWJiSTlwN2U5NGZlRVJJeFFmVHV1Q0J1QUcxcGJyeUdON1ZJWTVPcW42UDVXMW9wM2JYRDZtN29BN1MzdzNyNDZSRld5S1Z1X3dhQ2g1TzRTMW91YWN3U1d6X3NyWTQ4SWY1X3YtbndDLVFPYURpNVBKV2VIdE9GSDdLUmg0dVlldmwwVVgtX0h5OU4?oc=5": {
+      "title": "イオン㈱ 4月度 主な連結各社の月次売上高前期比伸び率一覧 (AEON Monthly Operating Performance of Major - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTDc1cEdpdWRoSGRYbXA0NXZsd3k5RTJyNnNRSHYwbXY1UWdjOV9zeDFMbW5vR1dyOVlfQTgyMnlxZlBaMEZJVG1lNEs0cUdPcjh5RGVVTzE5Ymg1dWdVM0NHNTN1VFFKQTU4cm5tMTA1ZER5cXRR?oc=5": {
+      "title": "アルコールから水素発生、鉄イオンと紫外線で 九州大学 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHhQLS04aF94Q3djUjMtOWdiLUVhazRyakRwa0NZTXlXOWo5VGU1dlhsSC1sUW9DOWI3RndGdWhuTzdXRVUySkZRQy1jY1JTQkV4aVhyNzdkUld0eE9CT2FHSDNXUVc4NjFQVlQwQ0JoZ1o0UGhRdHhzYzdlcFVNdmJhVWlUcUpXM2pYOXhqcGtXVjNHUE84YWtxc2VQZnVhS0MzeXFR?oc=5": {
+      "title": "イオン、トップバリュ3500品目値上げせず - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2thT1pzcExGaXl5c3FINjhnLUxEYmhXbTlxTHFteGUzYzlsZm9oSkhRMVNzeTh5YUVFREpxWk1mYmhlcVl3RkNDVXkxSWFlUXhjQjFaZXZ1bVgxcDVMVHAxVk1Nbk15aWlXTEdYRXlpbnZyT2UzclhSMDd0UlhQdnhXbjB4aGl5LWw2RmRVRG9RenpITU5SdkZ0X09LUnlvRTdJNkVB?oc=5": {
+      "title": "イオン、30年売上高4割増15兆円 物価高で割安PB拡大 新中期計画 東南ア開拓が成否握る - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52Nl9tOTN2V09VTnFpQkVaeEJJSjloQVZZVl9uN1RJa0Fwc0UzM1FCMEFCS0dNWmZ1Y1YwZU1VNEJqVzhKN0hybWVySVJpWHFvdmpsMw?oc=5": {
+      "title": "◎イオン、３０年度に売上高１５兆円 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEZid2Q5V29PLWZXQmN6bFZRcEhPMjJUTmtTLUUtMUswVkxjR2ZXU3NXN1poRENMV2xMQW92N0Q3cWZnZEhGei1yQUZxNVdoMXQwd0JHWVRLam8tZnRFNFd3bks1Nk55QzN1R0lXUVRLdC1yV2JIbnlVcWFRTU5SZmRKYVZwOF80aFNFSFJfR3JzNGpwd2czejNfNjBGRUdELXhvZDVPWFo?oc=5": {
+      "title": "関西電力元会長「受領でなく保管」、元助役提供の金品 大阪地裁で証言 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5YVJQTjl0dkFfc0xvTGpWbGhIcFRiV0pfNEJ1TTFSYmxKM2F4RnBxOUR1NU95OU5jMjlHVDFmNjRzcXBsWU5keUV3bDM0aFpsQ2w3RWd3ci0yWXdEbUVDM1NZOF9oQXI0Xzh1OV9jVXZLek1pRDhuVnNtY0g?oc=5": {
+      "title": "【株式会社富士テクニカルコーポレーション】東北電力エリアにて「170MW」オフサイトPPA供給先募集および高圧発電所販売を本格開始！［富士テクニカルコーポレーション］ - 日本経済新聞",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtZFV4T2dBREcwcnlWSjlYbTJ6NG1aQ2JQRnVMdGhvdU96VmQ0UjVPdHlZb05IUEhYR01IRl8td0NvSEhIMUItUDRXSUk0aHdQZzgtcjBpTUp3TFFDTGcxY3VXX1RYblBCcFVNeA?oc=5": {
+      "title": "三菱UFJ銀行の小野寺副頭取「中部で事業承継支援に注力」 - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDB5cTVzcFlIamUtMXpnMGxYZi1fclNDWHJ0eldoejZNdEJfck41RVQtd2xFMVBHVzlIcndnbzZwZlRfNzVMZmt0Qno3ZmlkOG9UakxMUm1sdHBtWGdBVWxHa2oxbzZzSlI3U01tQTRxdEE0YnV1ZzJhRHFUa0FITERxdGNXcF8teXgxMk1lMDJKakdtN1BDOFpPZ01KN1cxOEkzNGlR?oc=5": {
+      "title": "三菱UFJ銀行、寄付金を成長分野に仲介 半導体やヘルスケア - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDczalFjWjJvMWVvX3FXbmdUR0o5LVVnN2pjQmRfa0dCb1E0U3BBZUJ5WXUxNjVxaldSN1RNY2sxbmx1X3RDazRJRkNxZTU1YWNCMFJZMThhOXRsdUFqVW1ubks5bXdkd1lpdWktZWtBRS1WN29CMlhKRmNVbXFWSTQxeFRtYzJqY00xbHFzbEV1Y2EzaUlOc1FDSGtBTTQ0ODdxclg4SWVfZw?oc=5": {
+      "title": "オリックス、今期純利益18%増 銀行の売却益寄与 - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWt2ZFptVXpzZXR0MnpmMXNkbVZqaVVYSjBtUFVpOERHT0RsQVN4Z3V5VkZmU2xocEFwRE9zR19EWGVRRjNSRkhVQ1hLUHpBYXUyLWVUTDJ0UnhuclhKRU5SZTE5bTlVLUptMGlVMXZPX2xzdzJvaWxMRjljdE14MHhEN0w3UFd5c0hnaGFTTGg3eDRnMnhJTFlGbExZelZLSFNBNmg3NXE?oc=5": {
+      "title": "日本株ADR11日、高安まちまち オリックス上昇、ホンダは下落 - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4bDJ6ZmRqMkJNWHZhc0dXTGtKNEw2aXRqS2pwb2otTDg4VEdOQ0pjYUppdUZnbnRZV0lRMVhuTWZVa1BzWTFLU1RENHpQQkItY0hHSU1YMWpHSHlEYzBoQzl3MklHQU1SOVlDVQ?oc=5": {
+      "title": "日本株ADR11日、高安まちまち オリックス上昇、ホンダは下落 - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-11T22:03:42.143150+00:00"
     }
   },
-  "last_updated": "2026-05-11T12:13:01.906891+00:00"
+  "last_updated": "2026-05-11T22:03:42.143624+00:00"
 }

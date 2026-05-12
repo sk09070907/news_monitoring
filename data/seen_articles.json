@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uYmVxNlV2SmlqV3pDZHpnXzQzYTE5bE5lUkNNdERPZEZwQm5pT0pPUFI2QlZGMDBmcmc1ZS01ZjB2UHRBMHplVW05OUlsaDdkNzFMUHVCVzUzd3I4X1IzMTVTM3dNSEdKMWJr?oc=5": {
-      "title": "オリックス・バファローズ協賛試合「牛牛牛っと鳥取デー」を開催 - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-05-05T08:06:56.264271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zdmRNWVZsaHNERGtCbUIwOFlmMUJQTnEyTmlZOXkwc2Z0ejNreWMtVWN5bkRZaDNhV0NkX3BxbWZTVXNFVXlOUDVtZ3A1NUMtdlExMHlhbnhOUEU3VnF6c1NZOGxpMTlPQ3BhUTZ6RGVPM1BKUnp4YnlnczU?oc=5": {
-      "title": "『福の神にっぽん食探訪 福島フェア』全国のYEBISU BARで福島食材を使った料理フェアを実施［サッポロホールディングス ］ - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-05T10:45:06.000879+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UzJ1bXcyblpRS01kVThyc2JQcm50ZDZtZnc3M2VXLXctWWlsMWVoN2xJTHVEcDhiajZCSF9jUnVIcE16S2N2U1RScm9Ma3dnaXpLcjhyb0QtWUY1RVBsZjFrWFdfOVhVSndWQQ?oc=5": {
       "title": "りそなとJR西・住信SBIとNTTドコモ 銀行×異業種、成長の新方程式 - 日本経済新聞",
       "company": "NTT",
@@ -2393,7 +2381,283 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-05-12T06:16:00.688288+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50SndXRDhZNlVESl9VQUQ5TG13blpQQW9zMWI1bmE2X0s2TjdET3YxV29aN3lUX3ZUWVVaUVdoQzZIeWxlZGhzYWtyR2VZTG4zSHVvUm51ZlZzbVBVNXM3blh4QXVXRHhrV0tN?oc=5": {
+      "title": "三井物産共創基金、大気中のCO2回収技術を独自開発するPlanet Savers社への助成決定 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rU0tZN0k1MXhMZWJWZzZHYUZTMUhpdTBIajhlQ3c0ejItWjl4RWI0c3YwMnlKNmFqY25jYWtMRnUzNllzTWNxMlhCeDdpVjZOc21wb193UHhKcUp4Uld2QlByMUdwYlllT1Jz?oc=5": {
+      "title": "大気中CO2回収技術：DACを開発するPlanet Savers、三井物産共創基金による1億円の助成決定 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Q19Fd0JybEp3TkRwQ3lxbnkyaEd6bjJnQTl1ZjBKandXM1Yta2tSclFuT2NRMnV2V3YxXzVmaFRWelllUjAzUWgwaThQZ2RWUEFZeFo1Rnh5a0VmczRmdzNUR3l6MG8?oc=5": {
+      "title": "NTTデータ、データセンター冷却はAIが自律制御 省エネの切り札に - 日経ビジネス電子版",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMFVTTHlHSU10N3ZGci1HbUJfRURmWHJNb0J0NHVPSFppczE1QlFxVlRuOVVEUjQ0UUJhdV8xMXhqMXYyQ2pwckVFUmRjSEh6bndGc3VXT1pQWTZHS2REeDNXZmR2blJDZ05OcjlxSVI0MWxSU19kZ2liNl8xOWxDa1RMSWdMNHl4Q1pmWlh5eGlGaUd4MlNWNG9mVXhkTkp4elg3VWl6Y0ZqeUcyd2k0VFoyZ3JwSzdaRDN5RUlhbldoX2x2Ym1kT2Z5TzI?oc=5": {
+      "title": "ＮＴＴ[9432]：独立役員届出書 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4TE16NXh4UG55STBrMTNHWmh4SktUZmZ3Y01VWUR6b0ZUcTVyWlBUejN5OVcwRlhWRFVsYS1QaGktRUhXUFFtU1U4ck95OTYyQVVwS3lBZ3FMOWRjMDJSdFIyWS1VWkpmMDIxcw?oc=5": {
+      "title": "NTT ExCパートナー社長に梶原全裕氏 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNYmxLb2hCUkFRQ0wxV2JpaG9VNmxmcUlJalRzdFRKTmxTdVBsWkpleWozTi1BTjU0ZkxVX2VjNk9hbmJCMDFqOHlKbEVfSXRyTjJMazd0amg1ZjA4Z3AxSVlOdlFfQnhoRW5z?oc=5": {
+      "title": "北海道限定ビール「サッポロ クラシック」の誕生日を祝う「サッポロ クラシック 生誕祭！」6月12日（金）サッポロビール園にて開催 - 時事ドットコム",
+      "company": "サッポロホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JVVowclBzQVZaWlp4UklQdTVHMncyLVlkR0FnZDZqR1doN1pYWWxvNThiLWZZMWlJNkJUYTNNU0VONkFSQ3JTU3lEek94SGM2bG16Y013blFlbzZ4d3VGMDNidVJlTFFVQVE?oc=5": {
+      "title": "ニップン - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMy1iUkdPOE5fTzNlVTBMNEEyaXdFdnI0dzNQUDBsc2J3T2FSVVpKbGRVcVFOVHZFa2luNHRJOHZlWFA3SjMwdVJLRHJkeVoxSmtJenIwVTR1M0xoMF8xX1NzWmctaDlfRzBBOEswX0YzUkR6ZFNWMWhDQzRSeDE5V2wtdW9KYkk3cTRwTVpSbHp5Zw?oc=5": {
+      "title": "ニップン[2001] : ニップンの2027年3月期、純利益2.8%減 予想平均上回る：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb0JwVWN2TWFWSC1YbUtoekdIbUdfcDc4TUlIRjNCVUhkQlc3VXY4ck5zbG1FLVRGRF9qdXJkbE9MLTkxeUdXNXAzTS03ejc3em5DV3lnQUI5MWU4ZUxOekU0aXdZdElVN1E?oc=5": {
+      "title": "ニップン[2001]：剰余金の配当（増配）に関するお知らせ 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmczcUNJNl9Fd29feWtFb2RyYThPMXo1UHRTVzlOanJUbnJEMGVtdm5zS3Z4TzdZZVlCazUweUFxYjdteDRSUlA5cVdVOWVqWUludFNkUjFjcm5LMEZqOHJrOXlUcWFEM2RGa3dMazNfMHZhS2VlcDc1eVhDcENEdmY2ZnhGUEZDZGFZRE9QZ1dZTjVBeV96b1g0OWc?oc=5": {
+      "title": "(株)ニップン 2026 年３月期の連結業績及び次期連結業績予想 - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QV09fTWQtSWtlVE5aR0VsdFctNGxKNnBBVDR3VXgxTEo0NUZDZjlSU1EwMmdLLVhCQmVRNWtla24wUGhPWE1WMkVINkFSUlY4TXdoZ0lwRzhCNmRxN0dhQzNuOVowTHFSQjNVWA?oc=5": {
+      "title": "ニップンの2027年3月期、純利益2.8%減 予想平均上回る - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYWd5dHpYLWphVG9FbE1IeENHcU9VSFNHVGc5WDMyQmUwOFA0SndvUDkyZVg5WDd3a0R4d1FkNy1mYXlxT1l1THVxS2Q4NWxHU09sLWdBRElpQy16WndZZHNCbndDSktWakZhZQ?oc=5": {
+      "title": "日本製紙、飲料用紙パックなど10%値上げ 原料高騰で - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE16emFZSWFDdlBpOWZFLVMtNDNKVUcxaEU3eEszTnFxSDZ3WkVXSUVFRjB1OG1sRVlxTC15c2NpRkRvUjVPNlhNbkx3c25SY2NuOEktODBUZjhWUWZQcWtoMW1QZGN6M2xYb01oWg?oc=5": {
+      "title": "ダイセル(4202)自己株式消却 - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1VtVi1qTjRFcDBmWWhxM2tUeng3dGpwVWpTQzNTRGNEV2tvTW9ocURmLUZvVlRJRDVib2JPaF9xWm4yNmlZNmhCMTd3NWQzNklYa2JNTkJEUUxWek11T3l3R2pFOXMzUWFkaWFnX0Q1TU80QUdaSEs1bW5HWGhNSUdIMEd0SGgwRGR3VW94cklaaDVQekdobjNOdHdHMkVmSF9MWGNIR0Y?oc=5": {
+      "title": "マレーシアでLNG加工 ENEOS、ガス田開発と一貫 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjQ1VUgwVFdJeC12UDFhRXZsTFpmYVItNTgyVFJWNFFsZDNVbEdtcGtSaGVBUG92b2R5cmZKUGZTTlNVOXE2VmdqMUYzQWQ1NEtoc0VKSmlNQk5xYzRwcWcxWm9KZTJRTTZoZTk2UGZnOEJWWWJOTWxVYjFYYXpOYk5xbE5qYWRqOUdzWkJ1WnBUQQ?oc=5": {
+      "title": "太平洋セメント[5233] : 太平洋セメの2027年3月期、純利益89%増 予想平均下回る：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZUZ4NkxSWmMtcHFYenRVYm1jZFdIQUpmb0NQOERocW1ET2xhbkg3OEVDQ2d3cTdIb0RuWUswb1ZWd2c0alNMOU9wRnV4TDlWZWZvTGFqWm02RHJIMlk1VklCekdZREFOdHc?oc=5": {
+      "title": "太平洋セメント[5233]：2025年度 決算説明資料 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4VHExdGpMbFZWVmstVzd0VGpZUDM2OVdjRmpWbm9YZFQ2Wlpja0dJcDByZ1FsYmZsd1p4TURSbjk4d3ZiNlFKYTlrODEtSlhEeXhlV0JFNFRmb0RuUjhSMzlQT1NwQ1FPUVNseA?oc=5": {
+      "title": "決算:太平洋セメントの27年3月期、純利益89％増 自社株買い最大100億円 - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOF9hZUlZbEwtWnJ6TXk3dVF0elNCUDRIdFhEbTBhYVFRd25VNzNtWXpxWnkyS1VvRm9rU2I0V3lpSm5HZnZBM3BhTFVkd3poalBmNVZyXy0xemdETmpCOUFnZDV3NDh5bkZXNlk0YjViUVhWcUFCSE9KTXBINWx6R1RGaThkZFV4Uno3MWZHbUljTlhvR1V3MThCSWZvM2pZcWx0c2RIWks?oc=5": {
+      "title": "トヨタ自動車株価が続落 シティG証券が目標株価を引き下げ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEJXVThZVlp2MjNLTExCZTVRTDdFeWJHWk5aYzdYWk1GZi1LM0xhcnF6ZWR5QWFSV2NEeFFlVk5fQVc5aDZfbUFLSDFwVTg4c3dOWDNwMkZRYnBSdTlIVHVwVzBtdnBpRllka3UxWEJnRUtjVkhQWVN6enZvRnF2ek9xX3M2VURzU1VnX0VOVzlQcFViZWZIOHNrUkJja3Rxb1pFQi1iTFc?oc=5": {
+      "title": "トヨタ九州の売上高3%増 26年3月期、レクサス生産台数2%増 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlMwbW5Sck9NelplU1FxcklnZmZuR1RwZHlPdE5QQjBmQmY2WW1LMjc4UENaUDNEX3d6VFpOMFktaFhzU2dpWDJjRnYwZmdtRlVZZmN5Wm5udjM0WFVFcGRRQTZPRURWTzh1U0dhc2ROY2h3VUZudnVuOWxrcmI2V3BLOXZ5YzJfNFVmM280UWFacU1PcS13MHNTN1BXbm9LMXdhdVZZRUQ?oc=5": {
+      "title": "豊田織機、非上場で狙う「トヨタのラボ」 配当収入なき経営に転換 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1BFNWpzUjBiODJuSHVTRXBycVotenc4Z2lKZDdfQkFuTGE0b3Z6dk1qRmZ1cmM2VmZwOV9YZDNGeGpQcFlTc1NPV2hKNlBEbEprcEtNMThUNS1na0NMVjBLd2lrdm9fQWNWUDdySDJJRjlqVXJqek5vaTh2QzljWXlkZTVXN0hDaHVUVWtudGs1RXBrVmNuX3FVWk9SMUNZTXJr?oc=5": {
+      "title": "トヨタ、カローラシリーズ誕生60周年を記念し「カローラ/カローラ ツーリング」の特別仕様車ACTIVE SPORTを発売 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iT3F1bjJBUkVyZFcxelJQV2h1WVdZNlJoN3pOWUJtdVpPZ0tWRXdhaGVpRnNCYklDbmRKUk1SdzV1TlQxX29Ya0dCODA3anZibUthQ0NhOHdXc3RoVlRhV0NpTkFfWjdUclNr?oc=5": {
+      "title": "「楽天ふるさと納税」、静岡県小山町のふるさと納税返礼品として「楽天市場」のプライベートブランド「Rakuten Original」の商品を取り扱い開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kb1dZdGJTMmJ0VVh0djQ4NlNyM1hnTkg3X04xWmFxMnI5VTMySzNHZnk3cXdGOVRqNWsxYzZTN1BXSFhIbVh6M1hGV29DTHpwenBQNlJJWm9ESGpiWjNBZUdCc2kzMDFhSVZn?oc=5": {
+      "title": "錦糸町PARCO・楽天地×リアル謎解きゲーム『夏祭り キミと辿った七つの灯り』6/5より楽天地にてスタート！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NY081MnBnSWk5aHh2R2h3UjVWNlExS2t1Yk5kaHhuZV9nV0tuVUJQNDBfS2syY3FIczJiaEFON2d5OE1PaHRHRV9VQ0xpZWdx0gFWQVVfeXFMUGFHc3doVzBzSGJKWTFEY0hBRFlxSUJfNG9wTUNNZFhmZk5QSkNqV3FibHotRkxJR2JPbDZMRXZ1VUk3MXlJTl9GdVRWcUFJLUtvTlg3WHc?oc=5": {
+      "title": "【導入サロン拡大】人気美容室「FILMS」が楽天市場で「TRIII」取り扱い開始 - 時事メディカル",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE01Q3pGQk10N2o5b1FIVmx5Q0s1STIyMERDY3ZPUG14Z0pNMmozMTR0NzJSMWQ3YVlMcXBHWDB1elE3MTZjTWlmTVlFOFdQZ0RpeHd2SG9zQUxybDV6SVNFYVRQaHRFQ0llVFRUN0JreXhWMkp6bHBNZkRzQXg?oc=5": {
+      "title": "「楽天ふるさと納税」、静岡県小山町のふるさと納税返礼品として「楽天市場」のプライベートブランド「Rakuten Original」の商品を取り扱い開始［楽天グループ］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pOEZDM3RBQzFIZzdrMFJQXzV1WWlIdHpNVWVoMl9MS3FReUpaRHE5Z3lNODI4LVpUQ1ozaUR4X09tTkRrZHktbW1LaVVXZ1VlelkwcC0xcm9mb202SzBKc3llRWVRRE9BOVE?oc=5": {
+      "title": "楽天銀行[5838]：2026年３月期 決算短信〔日本基準〕(連結) 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVFFcUlYZEdFSmFsWXhGYktrS2pCamwyeHRFX2hLQlFjZFRVTUw2eVBjbUYwLXpMcHNVakVLbHpPTTZQT0ZROWJNWWhGNDNpVld1bWFJNmxKXzhMdzRwRjZnN29lQklvTkdvQi00UVVPakVWM1dsOVc3MDlMcEFxc0Q0Q0h1REprYmdrQUtLRnJWdw?oc=5": {
+      "title": "楽天銀行[5838] : 楽天銀の2027年3月期、純利益11.3%増 予想平均下回る：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vSUlXNTVWbmhrUTd2STNjLVBWWjVyWmtocEVVQXdyRllBNHJvTEZIYjVKSDlpS1NIc3JlVEQ5dWNwSlhxSmQ5S2VRX1dmYUwyMWxmUUgzZGdsalVfeUFzYVZVTW9WVFlZcGhPRg?oc=5": {
+      "title": "楽天銀の2027年3月期、純利益11.3%増 予想平均下回る - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWHVXWjVKOGNRVXlJSXF3dXBXZXluc3ZZQmJsdlpobU9GcHFwSzIxdXpNN0RSWERoQkRMamhDZVVUUmMzMFNZUVdaVnRkVzZtRURtZnBXTmN3Rl9adlNBWmZhSnBOb0d0cGZB?oc=5": {
+      "title": "越谷レイクタウン水辺ににぎわい拠点オープン 7つの飲食店が開業、埼玉県・越谷市・イオンモール・レイクアンドピースが連携し公共空間の利活用モデルを実現［レイクアンドピース］ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE55OVN6VlZSQktuVjlfVjVYSXpOTW1xNHAtZkNSbEw0Mm01SC1URlhTSWZKN3FmZ1VNMFhsQTdSMVJzMU1qZ0lUY29OSm4xR1l6YU1KQmF2R0N1cHJHaDNBTTFCdW5GUE9LdjQ1T3BZeTBha0tLUzlIS0JpTDU?oc=5": {
+      "title": "「JR東日本グループ ドローンDX CHAMPIONSHIP 2026」を開催［東日本旅客鉄道］ - 日本経済新聞",
+      "company": "東日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wV0RBTkNfVnB5WTlOTVo2dXBrRjZUbEJaRWZHQ0I1RDI1NDNtWHBsUVpucVJtZ1k4UUlZdFdZUmNKSzM2X3RnU2hGZy1JN0hwNmlWMkJoaEhxRGNKRVQ5Qms3M1lQVUZULU9r?oc=5": {
+      "title": "【JR東海×CHEERS】最先端技術とものづくりを遊びつくす「FUN＋TECH DAY!」を相模原で開催！ - 時事ドットコム",
+      "company": "東海旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMWc2YUp1YTJfa3lveTRxS0JONmRfRzJ2UUN1VmZsbGRibHVpLURQN1cyWkYyb01iNUFlRXA5VFkydW9OTjF2YkJjQkxQaXI4UGE2T0xPYWRqUU1sMTdoVWhjZlVVa09iOFFPMmVLdEFpMmR0eTNlQm1SSkU?oc=5": {
+      "title": "【ＪＲ東海】子ども向け職業・技術体験イベント「FUN＋TECH DAY!」を初開催 ～リニア駅周辺の「楽しい」や「学び」に貢献します～［東海旅客鉄道］ - 日本経済新聞",
+      "company": "東海旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMjdUMW5FZ3owSzZpRWVEWUdVZVpKMlhpSFc1Z09OeWZNYm9maktiekxiRXZCc2JRZ2E2NU1hdC1KSDJFbXFrWV9RRUl5UlVxbjdnRHE2ejRtWjlMMnc1QU5xUExIUmhiRUlRdQ?oc=5": {
+      "title": "関西電力の美浜原発3号機、密閉用キャップに損傷 蒸気漏れ調査 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDNMaTBwLXB2MFlDZlFLZXhpOW1EZjBMSkhBd1JoQUNyMGZXcWt6dE5XRTB3QkhVQU5ZWm11cVhXYlI5clV1MGJQMzhMSXpoSEw2dEF6elVzdUw5c3JmdkFrU0pweS0yd3RVWElVNUF5Mlo5VnhxM2xUTnhXYXdVc0s1NlFjMldhSkZxakJNLU03eXV0N0YxZ0xRdGFneHItbEgzOTBoQmluU0Nfa0FKNUMxR1F0OHdObk9vVTR0QW5wdkRVTkNuNlFGYmk?oc=5": {
+      "title": "三井住友フィナンシャルグループ[8316]：SMBCグループの中間持株会社体制への移行に伴う子会社（孫会社）の異動及びJefferiesとの日本株事業に係る合弁会社の設立の進捗状況について 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友フィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXN4VFZSaVFjQUkwVlptdk14ak12VmxwOHg4ekNCMTBKemhDdHhJN0JOczRTcFQ3eTFtdVhwV3pkYU1KVV9XWkVuWE00cWZMWXFsTm1JOUlNSm85RFZHZ29WQ2dMVF9raUVuYTJiZkVpVEcxZ3NJbDFsRzhxQVBfZWRwbUdPcFNVNC11Qkd4dE5OZ0hpNTQzUml5TEFqNEl4aFJXS0tQZk5DQQ?oc=5": {
+      "title": "三井住友FG、証券事業の中間持ち株会社「SMBC日興証券HD」 10月設立へ - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQlE3cktuV0hLNFYtWTI3X091NmFnbGYxQkxrYkVOazNKQ2VyUDdWRUJGWkhwd2ZXdUROaWRmcGsyWHJwNnJvNUpPaE1SM1pQMWs0V2hxT1ktQlY3THI2X3NtZGY5dWtKZUdR?oc=5": {
+      "title": "Q.ENEST（キューエネス）、三井住友銀行をアレンジャーとする80MW規模の低圧太陽光発電ファンドの組成および資金調達を完了 - 時事ドットコム",
+      "company": "三井住友銀行",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fUnQ2OU5pNVh6Q0s0d3F0akNPUmVfSTJsTWlDR0VvZUE5bHlFMUFXNnZZY2RBMHNNdTBhaHdULWdxRHZBejB1b1U4SGh6OXR1NHlSVEdUX1N3eHZZR3NMYXY3c2g3WmhSaXdUcQ?oc=5": {
+      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiTjZJYmxUNm90NURVM0QzaVNxbERMbl9nNFNHYjc4TnZNRzBKZUd2WngwSDZUTWR5TUg2dlJMckptMUlkZkU5M3A4endjSXFFWEpScw?oc=5": {
+      "title": "◎〔決算〕名古屋銀行、連結純利益３７．６％増 - 時事通信ニュース",
+      "company": "名古屋銀行",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWlZtMERfaGtSQ244VklVZGRWd094WjNMdGVSM29TdDdNdkQ3dUdySGlqdjBKR0p1Z2duWE9WcDZJYXFnY2F0a0tDZExqcmxfczhIRTdEeDhhU3EtNlV2X2FBZFJpRVNHYXBvbjA0cUhuaG9pSE5DcXRFaVI?oc=5": {
+      "title": "「AI博覧会 Nagoya 2026」カンファレンス第1弾スピーカーを発表！名古屋銀行、ダイハツ工業、岡谷鋼機など、東海エリアでのAI活用を推進する最新事例を発表［アイスマイリー］ - 日本経済新聞",
+      "company": "名古屋銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKQ1UtaGR4TTFrZld3RGJGMWU5VF9OOVM1MG1IdkZrVFplb192VWJVNkZVOHRQeWJfNWp3S0Z3S1pkRkFoMVpwaHYzZ29lOWhObXo2cWxQOHJ5eUpyOTBGcjNxS3lJdjFXQnow?oc=5": {
+      "title": "日本生命保険相互会社北大阪支社と包括連携協定を締結 / 兵庫県川西市 - 時事ドットコム",
+      "company": "日本生命保険相互会社",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwY2NJemhHcGE5OU94WVNUblBWZ2hYcV9wTXJyX0lKVE82SXFpSFh1c0tiME4tNjVPYTVLNlBjSUNRM1hDY0JhTmc2TklJVC1jZGJwTllhVFRwRmFfOUZ4SzVfMm1VcjYwcXQyamNsS256U29DMFkzT0pxU1dsZw?oc=5": {
+      "title": "イビデン高値、オリックス続伸、JX金属が反落（12日） - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVBweWFwcVZwSzU2Zy1nNTlSbURYRTNrSDkyRm5ybTVZOFJxa0l4aXhxUk9KbHoxTlhNRXZjamhER28wSTdFWUxHb0R1V3YxQnljMHlSVFlvSGxPS3lqRVN2T2FZLXdjT044WTliLXNUZmsySlhQN2puQW04TGw1NlVaZVo5WGJvSXg0ak1rcUtVdw?oc=5": {
+      "title": "アコム[8572] : アコムの2027年3月期、純利益19.9%減 予想平均下回る：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aT05tblAyTG94OGVCZU1TaG5aZ0pFNjNyb21PTC1Wd3BGQmhnTGJZelhsZDlONFRYcXZ1TkxxZEdhWXFNZHVac2lvcVJtREdNR1ptd0plQjV6MFlxTk56b1BsYWE3cVRXRFE?oc=5": {
+      "title": "アコム[8572]：2026年３月期決算短信〔日本基準〕(連結) 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Tk5nX3pSbzAxRkFfcHl4ajBKUjZIVmo3amZLaUNEX0xtcklseTh3ckZDQnlORi15SC01bTBTNXo3NVd1SDRkbDVHdE1kejNZNU1ZZlRJdE43R3A0WnJ3RWFjLURENDhjRUFobw?oc=5": {
+      "title": "アコムの2027年3月期、純利益19.9%減 予想平均下回る - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qVW1QQ3pDMVV0UDNacENmQURJNXdrcndCNFpNOEZ5RFlqNXdhMDV0LXlLV2J1WG0zUl91ekxpY1U2QVpHazYtdTlURmZFbmYyVlhzZ2JZOGc3bTRRZjJIWFdrNXhNNWFMaWc?oc=5": {
+      "title": "芙蓉総合リース[8424]：2026年３月期 決算概要資料 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "芙蓉総合リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xbl9ETGNmTVBKSE9oZVgyTDdVSU56aUVQYjZhZVB6dER1QkRCRmJvT0VROHV6c2tNSzB4T0hwbUx6LWh1QWFyR1dTMTRiOWNIYkFfMFZWTXdiSmxGMkhSYi0zdTVGdklYQ2NrQVNhX2pzRlF2d2YydVBvNFA?oc=5": {
+      "title": "インド共和国におけるデータセンタープロジェクトへ初参画［三井不動産］ - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T11:23:21.718399+00:00"
     }
   },
-  "last_updated": "2026-05-12T06:16:00.688856+00:00"
+  "last_updated": "2026-05-12T11:23:21.718946+00:00"
 }

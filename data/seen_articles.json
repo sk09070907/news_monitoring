@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOFNwdnp6cWVFV2d5MTg0cUVpVmJCWmtsUkJfVk5QUDdndTdjWXI2UmwwS1RQd2hvVlZYeVpfbWdEa29vRDQxVEpCaXBWTVVFQUxZMVB3TmdwMWRscmlvSHhfVllOcnczbFdNOA?oc=5": {
-      "title": "伊藤忠、逃した「商社3冠」 時価総額1位奪還狙い1.5兆円投資 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-05T02:36:09.984756+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRTQ2S2tTUnozTi1EM0hWbFgxb25WWXBLQTlDdDlsMTBwTmp5NlRYQ25aMUJLaXl3NS0wd2xOa284N29fdVd6V01PQUpGdHpQVXc2VjBsemh1dkVaVHFfMEczcGJLaE9ST3Aw?oc=5": {
-      "title": "日本初シネコン「イオンシネマ海老名」5月17日閉館 全作品THX上映は最終日まで延長が決定！ ラスト上映は『スター・ウォーズ エピソード6／ジェダイの帰還』 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-05T02:36:09.984756+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdEs2OEdPaW5uSWwzX2hTakdpaXN1cDVyWWxIbXpwb2d4Q0tYVmtBUmhNQmJBNDQ4dnpzVW5JRkdhbXNycVF4Y1lmcTZXU1hnSmlOUjBOUVduWnBGY3d3V05rRnB6SWxPakVHeg?oc=5": {
       "title": "トヨタ、米国で水素トラック40台導入 破産ニコラ承継の米社と提携 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -2123,7 +2111,79 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-05-11T22:03:42.143150+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JU1NQakJxSXZWbXJJeG1fcDZSazNGRldmR1hFR3VmdXBNOGlWbTB3WHF5RHpIcXoyQWdHVWV6TXQ2OW83OHdRYkNfRFVDQlhsN2g4SkZBSWo0MnJMUjFJVXNIaHBLWEVzS0l0UUpB?oc=5": {
+      "title": "大阪瓦斯健康保険組合の会社情報と与信管理 | NIKKEI COMPASS - 日本経済新聞",
+      "company": "大阪瓦斯",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raHY4QmlDMERSZjFVMHlxbTJGUDB6X1FQRFRBVUVtR2dfemhIZEx1YXJwYXp0NU11cm1GRElkLUlSQnk3VDl1U2poa0hxVFFqRXJzTHhRdkcxZnNMeW41Z19Yc0dkemNPZldSbA?oc=5": {
+      "title": "東証10時 日経平均、上げ拡大 一時800円高 フジクラとイビデンが上場来高値 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmdMMFF2aXY0RDNRSjZ0Q1Nmc3RmX1ZyN0pyYVRRU0xmWTZ2UjFSRGZZSEZqTlp1cjl6VGp0clRqanNNTElWOWstY2Rvc1hlNmMzNDlDb1U5NlQ3bS13cDkyd0NWQnlrR3VxczZwNm9BWkU4RzdxQnRaUUJweGRwRDdGT08tRDJnUThweXk3ZTRKU0xFUzA1X2xwa2NGVFpNTGc?oc=5": {
+      "title": "休眠造船ドック取得 スクラップ会社、三井E&Sから 市原の22万平方メートル 船解体・洋上風力で活用 - 日本経済新聞",
+      "company": "三井E&S",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Vkg0RjI1MFNQZm45VE1wdjUtN09QUkVib29ZbnFXRm41elNRNGVEWWQtc0JnNkNjV0kyWkMyQ2FFOWo5bGtEX1VMVGdVenp5bHg2SDJiR2VZSXl5NEVvUlNQUXI0MFJpcnNBcQ?oc=5": {
+      "title": "ウーブン・バイ・トヨタ、自動運転AI開発に7工程 走行データ選別にAI検索 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlJVR3RPUFNGTFRZaDcwZjhHcUFHRlhsQUxYUTdibmFzVkRQcVdTZ2MwVTJEX25nMUlWZk9DU0FCcks1a3YyX3FtTVVaWUlPUko3dDlTMEJnZzJGclYyRC1OcHllTXc1bEgwN2YzTDRWeXRfUTRRUlhvZmVPV2FpWWh3N3pKQ0FIQ2pyRGtiUE5saV9fa05zTTJyV1hJeElNUDl6Ni1n?oc=5": {
+      "title": "トヨタのインド新工場、29年に生産開始 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QZEM1NTg1MUtrRlJQc0txRHR0bmNqVEpVRW43ZUtvS3JVMHR4dF9LRDhHVDh4Q0VfLU94ZmFja013b2tsTEhSR2pxV2I1SEZkS3pkZVViNkkyZHlDWjM0UVA3M0RwVXo0Sjdj?oc=5": {
+      "title": "元トヨタ自動車エンジニアが伝える「人が育つ工場経営術」─ 2026年6月～8月、東海・関東エリアで3回連続セミナー開催 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE41NEc3ZkIyS0RORnpTY0d2OVEwM1lET3p2ZEhTa281MmdhZl82YUk0R19QbTZ0OUtnY2FqQUc3djVFU3RmUHJLRVREWmliem9LVFVreW9kRTVLQTlqMXMzT0VOMURsTzI2NTVV?oc=5": {
+      "title": "「最先端の運動制御技術」に「理学療法士が持つ現場の知見」を融合 ロボティクス×臨床知で「次世代型歩行リハビリテーション」を実現 INOMERがトヨタ自動車、藤田医科大学と共同研究契約を締結 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE40RlRkUzVycEVHUTF5VjRRUnhZOFdsX1JDTnBFX0Rscy1UemNuNEY0UEZ1S0pJTzdvaTVpeXdEWWplR2tmSGNWSGRGSFRaSE5KeUtRV0dEZTIxZElyam1Ya2VqZTVCdzdiYkVJ?oc=5": {
+      "title": "業界初、AIで楽天市場のLPを自動生成する機能をイージークリエイティブがβ版提供開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wTndQOWJJbE9hSFF4SVhxd19YdWdmSnhaZUdCVkdwY21aWDdSTk9GQXJ2SDkwRXBXeDlyWkV1UmliemRiQzQtck5jOWd0ODltV0NSSzJDUmRKa2hxZWpnRE00cVcwQXkzZURJ?oc=5": {
+      "title": "Bluefield Energy、北陸電力向けにコーポレートPPA精算システム「BF Cloud」を提供開始 - 時事ドットコム",
+      "company": "北陸電力",
+      "source": "時事通信",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdVlwVXlVVUQteW1YYVdkRFY1N0xPVGlEc3BxcnE1RUp4WVRSWVhDaVdBNnNYYzVNUXhoVy0yR0JmVWQxN3kxWHBSdEJrMUZBcnQ5bGxoUmJrbHJ6WEl2bFgwcjRKWk0xN0doMQ?oc=5": {
+      "title": "三菱UFJ銀行、寄付金を成長分野に仲介 半導体やヘルスケア - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWkVsVmNWVGR1dXZKVVVOOUVDMy1RVVpnaWJ0X1ctbkF6VVYzU01SRWRKX3RxdnkwZDFpZ0J3bUhXQTFkanRqT3N4UXNDdi01SGRwRU9FbDhMUEJFbE1vcUJlMHhLU0ZiZGN0bQ?oc=5": {
+      "title": "SBIIGの2027年3月期、純利益25.7%増 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Nm94MmFSTlJzUEhkOGNfNFhiVGRGNGV0cUstM2dFX0x1VVZKcmpja0RXaVlPNV9yOGxUTXh3dXhicXZ1RXdNdnFrU3pnUG56WmxXa3NwenlLZU9tZTlRcTdObjNqbWRHN2FtQQ?oc=5": {
+      "title": "東映アニメーション株価が続伸 26年3月期、一転最終増益に - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-12T02:49:11.622125+00:00"
     }
   },
-  "last_updated": "2026-05-11T22:03:42.143624+00:00"
+  "last_updated": "2026-05-12T02:49:11.622576+00:00"
 }

@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uYXFwOWNMdUs2a0wxek5qMm1xOTRUTkRZeGNQeEpxaWRjLUdrYlVMdUFtZi10ekt4VFgtMVVpT2ZoT2h0RFhpRktlUVlHSmlqM2JrMlg3eHJreUYzYWlpNy1hRUhzcmhuQXBNbmpSdVVSOEltUHc?oc=5": {
-      "title": "EVelution Energy、三井物産と8億5000万ドルのコバルト・オフテイク契約を締結、米国および同盟国における重要鉱物の自立性を推進 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE44WGdXTzRRbmR4eEhrMHBKajB2bFdhMXQ5Sk5tQ1dvRWRTVnJVT1FyNzA1X1VqdVBsdnBRVlhyQW5nenB5MXFLZnRzU3BaTEZaUXF1Q0dyc25Xb252Q3pPR3A0R0dpSlRFVnlmV1o3NW9pRE9KeFI4?oc=5": {
-      "title": "伊藤忠出資のブースト、サステナ情報から財務影響算定 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE14NjJ5TG9UaGdYeU83dDlMdDZ0U3JTVFRnVzlKRjZGMlhSdXJzelFyTkNtVnpHemJlU0hIdXhxcTNyM0hYNGZEZUdEMVlVR1h5alRIb0wzUnhIVlYyNS1wUUNZQWtYV0hyUHN1blRlZS1PaFNXRFRSRHZ2dWg?oc=5": {
-      "title": "福山・尾道沿岸部の「鉄粉・煤煙被害」による外干し制限を解消。家事時短を実現するガス衣類乾燥機「乾太くん」のサブスクを4月25日より開始［広島ガス住設］ - 日本経済新聞",
-      "company": "広島ガス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2wyU2d2YlZYYmg0Uk5feWFScWtQUXNSd3l4NFVqWTQ3aWZnTEthX0xuWkpoVGhkYXB1TWwzTjNhT1FsUkw0a3dpcWhJMi1JUkJoNnhGWVIzYUFOODkzNDVjaF9jQ2tsNzMyY1hrbW5KR0hSdmJmS0k2TFdON0lRTG1BX3cwLW5zSUFJNlJOZjVhbTRFS09QNXNkblRULXE1RkVLc0Zn?oc=5": {
-      "title": "原発人材、スピード育成 AI需要急増に対応 IHI、技能取得5分の1の2年 三菱重工は教材にVR - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nd1RiU3dyQ0RHX2xUSkNKOWxFSmVJemFGTDhSVDhkTEFobUxscDdmalhSVWo3VG85S3Bvb2ExWTBhN3BuZnl1S0xCS29MTXl6bFlOZTdXN3RjdXhBQUJDOUQ2S1lXc1Q4aGZYNg?oc=5": {
-      "title": "トヨタ「世界最高水準」VLM外販、ウーブン豊田大輔氏「AIが街を理解」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV21mZXRNTnRiTWRyRkV4RmhCUlhZQXU5Y0lIQWtQQU1IMjJRcEJwMVhFRVdLamhPWnVhaVlrRmNRSUlXQmxaV29NeE1kbGRLU3QzTFA1MlBNRVNtdXFGTERtZ2RYRy1ESjRKbnlQM0FqZjdGdWJySlZoLXNvbWljZi1kM1FTb3ZoODB4TkttYnlLbmtia1BKXzlTMFp6b2VSU2R2LQ?oc=5": {
-      "title": "EV補助金｢政治の道具｣か BYDとトヨタの差､115万円に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5icHg5R21DcEQ4X2dnZWhiVHR3dW9sbTlMaW96VjBYRkRGeFg2cW9fUEdnTnByNjJReG5oVFItcDc3WGRqWXQzR292RjI5b3l3ZHRYTDNRdmo0MlFqRUdiRnBMaHBRVExXWGNUZw?oc=5": {
-      "title": "MUFG、英テックと日系の連携後押し ロンドンでイベント後援 - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T21:53:27.149396+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QQmpzczFZQU45R3JfamhwVjR5NjBnVGV4RTBsUWlJUlNWZ2YzSjBhSnpsNWtBVm1ySjM3TVREbmI4Tmp4RDduYmhKcElOYUlGU1UtUDJ0VmR4b0VZdkNicHNSMVJEMkxDVHc?oc=5": {
       "title": "いい生活[3796]：【緊急開催】NTT東日本と考える、情報資産を守るためのサイバー攻撃対策セミナー 2026年5月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "NTT",
@@ -3449,7 +3407,115 @@
       "company": "JA三井リース",
       "source": "日本経済新聞",
       "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMmptMFFSMUNBNEF5dldVak1sOU5xM2I1U3MtLVVSa2RQUmQ2c3BCTTlPUUVqd09ncVN5dm1tXzMzMGtHc0x3MVp5OWctSGdRam9aeWFsWERueTV3VGtfSk1MVHJvMEZ5SEJ6Vg?oc=5": {
+      "title": "SIer8社のIT資格活用法を独自調査、NTTデータや日本IBMは採用や考課に使う - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xMENQRDRWY05SV2tPWTF5T1A5NFhseHdzY3d0VlBMWThhN25YLUJ4UF84SUNXN3VWdDJoODRjTnB1eFRxQkE2Qy1oT2h4M3JDZjZxOE9Cd2VueEMxVGktTGZLaEU3V1hVcnhZ?oc=5": {
+      "title": "NTT-ATエムタックがブランド再構築をめざしてサービスマークを刷新 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk1KMzNVdFRrLXhTbFIyYm1EdTFHbERlelRIS29hcW9wRmNjX3pmMzAybEVlelVuNU5wblIzcmlyMERsVFlXOUNDY2M0VjNoZWh1ejhSbklpbXpmVlFrRk53S3poTEVFRGZQXy1HazFuc1NlTDFmZ04tb2NnQUppZTBxZ2dxbTAydG1DU19tTkwwTTB3aXk3eXVkNS13Q2FCbHliVGNn?oc=5": {
+      "title": "日本製鋼所の純利益7%増 26年3月期、防衛機器が好調 - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMUo0eEc4UjRMTHVaZnRUdXZNT0FYTTJRWmdLSjZodWVXOWdFeVZQUkN0Mkg0V2t6NzZGc1ozZFpBUHEwa2ZiaG5wYWp0Vnl5dW55clc0cWJsWWxCNE9zajZMSk1Bbi1HNk1tMg?oc=5": {
+      "title": "決算:日本製鋼所の純利益7%増 26年3月期、防衛機器が好調 - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlMllnWkpieklSRGpleGp2Szd5Z0gzdEFhNVlOR1JtaVNzMWpHWC1kdU9jOEZMVUprWEFwa0YwV3hibFJlaFBfTEpwbGI1aUpqbmdLMWRqNVJ6Z0U0N2liMnNHRHFoYURRa2pZaA?oc=5": {
+      "title": "住友電工、10兆円クラブ入り AIシフトでフジクラ・古河電と競う - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONTVtVXRWMDdjWGRzNkFUUWVQSnd6QVdFU1l0QS1GNl9UTGNyQjhBLWRfTkpVN28zRlVndTc5UUp4VUx1N201Z241eHBUNHlDWERNZ1Rjd3JuZm9maS1pWE1JVV9jX09jaHJGTm5PbWFyN3NhVVBZcmx6TU4?oc=5": {
+      "title": "MIＴと共著で「三次元ナノ加工技術」に関する論文を発表［フジクラ］ - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk1pZlZ4Z3oyd1JVYlpIOXR3LVJCMTZwSHduQTNtdXhkOHNOR0djS040bnVWT2lXaUhhcjhkb0RUYkVQc18xX09IS1RuZV91NlNMUkU1dzRVNDg1Y0trdXRKbFhIRHBDRGhMc3Z6NUtHRXo4MnJUNWJ4Vkpta183SkJDcWFEakJKdzBPeFZvRy1jSG1uRDVrMkRBNzFMb3lOaXduZl9QbHI?oc=5": {
+      "title": "GSユアサ、今期純利益14%減 - 日本経済新聞",
+      "company": "ジーエス・ユアサコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kZHAtVlBlNGVGZDNXaGkxQ211SkFxZGt2MEh5TW5RUmE2c1IxQTRYVkNIYm9aUWp4akVhczlFVEttQUUzMVNPQnd1Znl6YUl5NmhGX1YtaVdzOHhsVkVvNFk1ZUo2dHNvZXp5aw?oc=5": {
+      "title": "決算:GSユアサ純利益14％減 27年3月期に360億円、補助金一括計上の反動 - 日本経済新聞",
+      "company": "ジーエス・ユアサコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFZ2RGV6WXp6WEFhOGN4eFFxX05Fb1pIV0pNMXY4ZDN0WEFyOGl3b2dabGs2MmEybXVrUktVNkJYMzdkR1AwWnhBMHZvc1U1M2xCNzRJZmlwaXg0M2dkbXJ4SEx1c3RtOEJVMExfTk5wNk0yeFhKbGI0QmN2ZnZrWC1lUndxNVdFX01sckFTTnBIbUJoOURVRXEtTFFTZ2pkeVF1dWdn?oc=5": {
+      "title": "いすゞやIHI 従業員採用意向 日産追浜工場 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWQ4TlN1LVVmeDBNd2hVMzNjaVRlRmc5bVo4cmRpSGFmY2duSUlSSFpfTlFaSk92ZlltN0VsS20zMTEzU1o2am9SeE9YNm5OdHRDc1UzZTI3dHVMZjhkcm9kTlhJZVk3N2lDSVMtR2ZBZW93Ync5YXN4QXBWVmtidnVPNW9jclE?oc=5": {
+      "title": "全固体電池いよいよ量産 勢力図で目立つ中国、トヨタ自動車は - 日経テックフォーサイト - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGhXZkUtZ2lOTndpVER1STVkV0NiLVE4bml4d0dORGI1YkdzZ1lTdVFDVWxERlYwVGRMSEcyUXd6dDFBb05yeWN0SWE3QlZEc19SMHNKT1pKTXRxTUh6RGpPbV9SajZNS2RqcEczSi1vMkNRR0Q1bWQ1X2VHWHJjUllydFNSWG1haXF4ell2ODRlVXlqOXZUeGpzVzhpRDJjRTFJVXFPMkc?oc=5": {
+      "title": "トヨタ、部品種・仕様の削減へ「エリア35」推進 狙いは生産能力増強 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjFjYTZBLTM3enlieUdSd09fM0NQRkcwRjFxOEZva3J3WktKQ0tseXFHRzFRaHJEdnNacjlPNnd6dUFuck5JX2poMWw5TUJGOHF4b05nSTIyS1RxZ2F3Y1BlMDRQbjNMcWN2X2V0d01SLXljNEs1Rk9yZ2lMMEpET1RzcU1sUUEyWUxhenFLUVdjNnp1UFVTOHZ1ZnZCSFZlVzM1bDdMOEc?oc=5": {
+      "title": "三井倉庫HD純利益12%増 27年3月期、医薬品などの物流堅調 - 日本経済新聞",
+      "company": "三井倉庫ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1V2hEa3RreVlPT0xfMnVhN05WODZXM21rcjlxOUtYZTVaMHFTS3UyVUxvQ2RmdzdQdnoxTS1vTjFLUFpHWUx2Z0s5QjAxVFFnR2QwTFlPTW1vNTVsQlRDU0lWd29oNmo3b1p2Qg?oc=5": {
+      "title": "京都信用金庫、全84店で窓口営業午前のみ 午後は相続相談などに特化 - 日本経済新聞",
+      "company": "京都信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlFSaW1rTkdCVG9vUnF0Q3VOcmJROXJCRzdfVWV4cFFTSlZyTDdxb3ducm1OVFFMNko2aUhMWkVNc2p2REpnNWZmRFF6MWJhRXNUcVVoVzNGbDNUVE1PSlVkUGllYWVoZ0VDMDhQQjNBaG1xVXFXSkRkTkY0MHNlaXVkbWJ4Y1BVSWNtSnVyMmNWX1hJNW01Q2ZR?oc=5": {
+      "title": "日本株ADR13日、全面高 トヨタやソニーG、野村が上昇 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYWwzUVk2NW1YbDNXU2M2RXBhb00yRy1obnU5UUNXcE1RZGdNbmI1MFJnei1MdHgwQVNXdnlEa3JiMXQ5OFc2RUVtNlgxYjZGeC0tQlZMbGxPRUhxUHZoOTlGUEpOeG1YVWlmMw?oc=5": {
+      "title": "日本株ADR13日、全面高 トヨタやソニーG、野村が上昇 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXJGOFZjZzcta090MWhETWo1akFKRGNoNTNwWGtXZHlFeWZiaFROS2I5aUlFdnhEN2FkaGFxRjhkWWdCcThIWl9xYlVUM000RksxN2dKRHNXbWRNeGNSMTg1UEFhekhPa1dXd3REQnlhWFRjcXA5dEFoTmhDelJTdkk1ZERRdnZpOFhrMXVhZmM4OEdSWldPT2NGc2tzck9kbV9yWUVB?oc=5": {
+      "title": "大和証券系、CCIと提携 ベトナム企業に投融資 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lb2FRRXozNkNSd19CUVBmRUpsU1REVzJSUjJnbGNXTXNnLVVDX2hIQ09oQkZrMkNjVExLODloMk55eDQ3d24zWl9WR2F0WndVNm9rMW9lNE9mVXpWUThxbkQ4a0dZV29BbHhWeWJiNjJQR0IxSTJMN0VuTkE?oc=5": {
+      "title": "新環境目標「SMFL Group Sustainability Action Plan」の策定について［三井住友ファイナンス＆リース］ - 日本経済新聞",
+      "company": "三井住友ファイナンス＆リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSYjEzdm1fUEFjcjVNVDZaLWhnMjJTRTYyUm1XYmhNYjBrVC11ZkgxdEJ4VGNkXy1FZkQ1cEV4akN1YkFjME5qV2swelMyYVZCdmx5TzdzVTUyR3FQRTVfQXp6VHZnQkZRRWlRUktSQ1lPS2tRVFlmX08wdks?oc=5": {
+      "title": "インフラ・インダストリー事業本部を新設、社会・産業のインフラ開発を強化 Oishii Farm と資本業務提携［野村不動産ホールディングス］ - 日本経済新聞",
+      "company": "野村不動産ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T22:07:34.882213+00:00"
     }
   },
-  "last_updated": "2026-05-13T14:30:37.883551+00:00"
+  "last_updated": "2026-05-13T22:07:34.882810+00:00"
 }

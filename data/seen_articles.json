@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1ZkZFFfV0tnUG1MVWZFZl9WeHZ6VGRWWXcySjZvY1RTSnlBVHFWVVBqSXdrN2lrblFGaXA1bkxUa3cwLWR1S0RvZ1FMZUd4NkRldUJpemNTTExQdGk1RkNyX09rM09CdVNyY2lOOTI5d2NBZ25zOHZaNnBQaVFZOG83ZW9lN2dwVnQtdkRLUFZXTGl6Q0s5QWs4bkd4RHFNT0tCYVRn?oc=5": {
-      "title": "リビングに「クラウン」 トヨタ紡織、高級車の座席をデスクチェアに - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T02:40:39.830846+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE13UnRvU29NSDZiU2hXeGdtbi1zOTc1RTdBeVVvcUlDUVhoX2VjSjZzb3RnbGNaUnNlVzNlb2c1akRRYkZGUnFWQ3JpZFhrMGFFMFR4Y09pa3ZjdWllOERTN2ZSU2diS211Vjdj?oc=5": {
       "title": "2026年サッポロビールお中元ギフトセット5月7日(木)発売のお知らせ - 時事ドットコム",
       "company": "サッポロホールディングス",
@@ -2825,7 +2819,79 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-05-12T22:09:21.044033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNU5va2N6azBici1wQ2FLbjFmWDhINlhBSW51V1I2UkpFWE5VSTY5LUNkYXBrSTVKREhoMFpVSkw4dGUweDdONUlwcEZQOHlFSHJFRHIwa0pIM19PM0UyTnZ3RXV5cUxPZzFuUw?oc=5": {
+      "title": "NTTドコモ、電話番号で写真・動画送信 SMS後継サービス今夏提供 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vVUMzazUtb1hBMGN5WWJ0cHlYTUFqVVByWXhDMDd0X0RpZFJETllYRVVyMzl0VmpNaDlmS3NGU0RIakQyam5YMkU4QVRmcWVUVm5HOGYtSFJ1c3RseFUycFlrZ2t2WmdIVVJKag?oc=5": {
+      "title": "NTTドコモ、電話番号だけでコンテンツを送受信できる新たなメッセージサービス「RCS」を2026年夏から提供開始 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWtYVFFsaGdmQjhoQlBiXzdjUl9Ec2hoWjlJaWIzMDhFR3FjZmZ3ZGJucDRVV1d2aWdJNHNYVEFsa1pDRjhMTFZJdER2ZWQ0Rm80MzktaWZobEdrNW4yd3lFTGFzTUlvSVI5UUIzbm5qUDlEQ1pUczNDUUlINFd1d3FoM21iSnRUVV9nMmFxUWlmdw?oc=5": {
+      "title": "デンカ[4061] : デンカの2027年3月期、純利益1.9%増 予想平均下回る：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ycEdFcjdkYmNXdjFWSnFIS3d4T1l4NVB0YU96bk9uSnFwSXJsUVV3bnNaOXY3R01IM1RJSV90VE1KcGt4UVc4SXRPOW5kWmFkRjc0N0pOV2hMMWlxSEwzWU1CVUVSc0VwR2c?oc=5": {
+      "title": "デンカ[4061]：特別損益（連結・個別）の計上に関するお知らせ 2026年5月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dGxfYS1IT1B2eGpqa0d4U0plUlR6aEd2aFlpRHVmRnN3c19rOElIeTVLb3JEVGRtem4wQzYtdnFfbjNSZGN1UFpuREo4bkYwMHZUMEFZbTRzUDN0MmZlWlVhazB4Y3IyNDhMNQ?oc=5": {
+      "title": "デンカの2027年3月期、純利益1.9%増 予想平均下回る - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTFl6QTgtLVFrR2Eza09oNFAzcVlqaXRsZUJjWl9pS2hlMWhmRjNWeG9QY1RfMXRwaDBDM3N5dGdIdWRCUGNLN3lONW5CelZ6eTdObnRXRGZUTFJrdi04SV9fWkR4N1RrWENpYw?oc=5": {
+      "title": "日産・追浜工場の従業員、いすゞやIHIが採用意向 近隣に受け皿確保 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjRxdms0VmJQZEM1MFRQNHlTY1g4NzRvVVM0dnVfN2YwbUc5YURfTzM2TzdQNVlpR1ZVSV9aeUU5YWRIYVA4WEphcGd0bV8yOG5TbzlDcmlVYkJhaU53RVd0NXBRYXFsS281Y3hpZGNQMFVnY2JsYnBzNm05eGlDU25NRTBReHA3dktSRDdJUS0tMUhJcnEtRmVKbmgtc19FRUtmYk53?oc=5": {
+      "title": "KDDI、自社株買い3000億円 トヨタ・京セラ応じる - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2w4dmE0dE5mVDA1NHZtM1FZb1pDZ2wtSGE1TThxeWxUT2tXNERpWXVlZ1JFVHE1MGRCdld4SEdYblhNTTR3YTJJNFU1TGg3UjdXWTEtLVVFSjBlSW9QeG5ub0ZHZFdIUFBUbWpocnkwVmhsaGI2aWJnOWo0dTUzREdLZm9iek5qY2Rwb19VWWVQRGgyRGt5ME5DRG05YTRLYllYdkFobjM?oc=5": {
+      "title": "ASEAN首脳会議にレクサス トヨタが車両提供 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVTM5am1jbnB6OExTT3ZSQWx6Mi1Wd2FCUXNCWTlPWW1zWXdYT21DaUk0VFNXTkEyZ3ZWVm9HbFJDUzZ1ZnJzcFlRbzg1bFNVMW9hWDE4U29LbzdyQlQtMVNwejNaVWxnUnQ0?oc=5": {
+      "title": "【イオンのスイーツ】累計販売点数１００万個突破記念！人気プリンシリーズの一品を特別価格で！「焦がしカラメル風味のたまごプリン」・「たっぷりみるくのみるくぷりん」を期間限定本体１００円で販売 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wMW04YU1ZVWFhdDljVVdqWU1maGpTckpYRVlMWU9lOHptS0JhUEdONWtLT0Z2RHlaeHV1SmdOQmZ3OUVFZlVYVTRWdDlSMmJ4UXlYVmVCVnZUVDhyNldPZC1WNkg1OXJITDh3?oc=5": {
+      "title": "東北電力、タレントマネジメントシステム「タレントパレット」で中長期ビジョンと連動した人財戦略を推進 - 時事ドットコム",
+      "company": "東北電力",
+      "source": "時事通信",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUnQ3N3JVY0d6SDQwS3VGNmhKRUd0QzRLTkU3ZG1EdWp6UC13YlQyWHYzMU1aZ3ZNQ3l6aUEyb0JvV0RqTDl2QmdBTGg5bWVFSHpiNm84b09na0xtczNaVzRGamc3YnBqb2ZVRw?oc=5": {
+      "title": "みずほ銀行、米Oishii Farmへの追加の価値共創投資および融資の実行について発表 - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE96M3J1dEJKVXN4dUpaMjdJcW1NUmxBcXFuRkNBLVZqMEdwZXlkcXBqdHBjemFUSUx1TUpJZzlSUXVWV3lueVRSczZWUVlLZDFrOERnTmFfX3Q3a005YnJEdXpaNExYeG9sajk0?oc=5": {
+      "title": "【ニューエラ】オリックス・バファローズ公式戦にて冠試合＜NEW ERA(R) DAY＞を5月20日（水）に初開催 - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-05-13T02:54:34.080138+00:00"
     }
   },
-  "last_updated": "2026-05-12T22:09:21.044607+00:00"
+  "last_updated": "2026-05-13T02:54:34.080661+00:00"
 }

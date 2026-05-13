@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2JQNmtPRlFSVEpYemg4ZzEyazdmVTA5SkZtd2ozYXlHXzZwaGNzY05HcXJadHl2b3NONzhOV094Z2RqTE5QWUZKd1c0UEtUb1ctU2E2OHEzdHQ3QkcwWFY3bHVXdGlGbkNXM25sbGVuXzhYMGhUUUlJNmFJM2dXM0pqbXVRN1l0eWc?oc=5": {
-      "title": "病院×デジタルで価値 三井物産が築く健康・医療プラットフォーム - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T14:06:44.934638+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXJQdHhWcXdULUZiZVJLQ2tDRGxJSDNoU05yNHI4Q05jUTEwOERkOWM1QmVjOGxwdFpJQjZJV2JKT1RvSTc5TWxLbzZLRUhfTExWYmNJQkhtWTVPTTBGTzRjckRmeVBsUDh4NkRkajdUdmp4OFJiV2dWVUJNckVVUDhNbGpFQURWWVprXzlRWEVRMm1HR1pHMFlwOWRjcTJBT2g0ZFlR?oc=5": {
-      "title": "原発人材の育成急げ IHIは期間5分の1に、三菱重工はVR活用 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-06T14:06:44.934638+00:00"
-    },
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uYXFwOWNMdUs2a0wxek5qMm1xOTRUTkRZeGNQeEpxaWRjLUdrYlVMdUFtZi10ekt4VFgtMVVpT2ZoT2h0RFhpRktlUVlHSmlqM2JrMlg3eHJreUYzYWlpNy1hRUhzcmhuQXBNbmpSdVVSOEltUHc?oc=5": {
       "title": "EVelution Energy、三井物産と8億5000万ドルのコバルト・オフテイク契約を締結、米国および同盟国における重要鉱物の自立性を推進 - 日本経済新聞",
       "company": "三井物産",
@@ -3359,7 +3347,109 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-13T11:32:01.297408+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRGdBRHlxcE9QbjMxQmdGRjhvZl9xQllKZzlXaUhUU2k5bmdHOW5XVkl5a3dUWGNhblNiaGNJNzB5aENCUExjMHhIUTRjVF81RDNlaGlqY2FKdk56WG81SHQ3YmoyODFJbXdyNQ?oc=5": {
+      "title": "米軍横須賀基地に侵入、元住友商事社員に拘禁10月求刑 地裁初公判 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXVwdlVGR0lRbzI0VUcxSXRfcWpyTHprdlhpNlQ0VDg4NGZTaW5abkRLaUNaYlAzcWtBdWlMX2VaRFlpMXViVjZFMkNoSXc2VjNaWl9sQldmaU8tQi1TVVc2dGJ4cTM0QS1BTTFBUlhRY2RBMjhfWVVZTFk4T2dfRnpEUG9jMVdzczNsN2M0clV2WFFDb0h5NGJmLXA5bEVXTTc0?oc=5": {
+      "title": "鹿島、NEXCO東日本・NI&Cと高速道路の既設光ファイバ通信網を有効活用したモニタリング実証実験を開始 - 日本経済新聞",
+      "company": "鹿島建設",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjNvZk5yNDl0WU1EMlc3ZEVZWFNQRll2cmZ6WEtFdkNWTHlXdUZ0cGdKRk40UGRweDdmRGFiRzV0YmRpTzFfUUZmMzJmQk92dHAwTm9iejRITWZMVFZSeDJyeUN1QmMwckdLcnhlM0JTTDYybTlMUmZIZ1g5TFVScklmeXJqazlSNFp3OVBvRlpzY3BjUmdBR0JhSnZMMjVLdnc?oc=5": {
+      "title": "王子HD(3861)配当異動 - 日本経済新聞",
+      "company": "王子ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYmUyV2hKRXdxcDNHLTVCUzdoRGVPX0toRU9jN2poZmVORHdtZE5yblVSMEp4czVyU0ZZSzRmZXpwbEpaSzhtNkt2ZDJEMHNJUWdRY192bHNjdHJQTENLR3ZwU0Z4S3hIRG5Samd4dXNBb1Uwc1NhaklwTXItYWxzX0Q2Y0h4UmtYcEJTbTRmXzZJcWIwY3BmOFlhZ2dwZFlYVkJmM1ppcHNxdWJWNmVGVVZaM2dpcDF2T19DQmFySUlpcDR4eU0zRkpRV3Y?oc=5": {
+      "title": "三井化学[4183]：連結子会社からの配当金受領に関するお知らせ 2026年5月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nWUFSdVBuZ2VjMkZWeGxxWXh5TXNLazBfQl9DbmU4bjBIWFRyUFBKbGluWGtLNmc0U0pYOXNYLVV4eXpGOG16eFdNR0hfNFJNb0dSZ1FMMi0zTmxoWEJaU25uN1RNT1ZVeHc?oc=5": {
+      "title": "日本製鋼所[5631]：剰余金の配当に関するお知らせ 2026年5月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVQxTzdtalRKZzdGblNQQi1QNXlTZnBTM1dmMy0teFpwcFJ1UVRWc0cwdWdtd3BUWklVeXlESU90MkxwOTV4Q0NJVFlPS3RSZDZPb0tjNFp6OENHRVROeGVhdzhmOWpGYkhPSnpjcFJ0SFlDME1pNlVtQnBGTU9HVlBadFJ5T2JFSXlIVEw4YkljTGs1QUdkR05Vbjg1NEcwbHE3Q0xXbVk?oc=5": {
+      "title": "日本製鋼所の純利益7%増 26年3月期、防衛機器が好調 - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmtrcm9veUpYWlh1NVVZWktucHAzbUEweFh4bFdVZzVVZ1laNDc2YXJmTEhrbUhQNk9aeWVMNTd3R0taaDE4ekttLWk5bmhnbWp4UHFSQVZKSy1HRzJ5aElnQnVlSzRHbUpwZjVVLVE5dzMtTXVKSWRKeGdnNUhuWnllR2tRVHZrWlZMdE0xTnhaR2kwR0JUcHZsRnd3dktXNDJmM013?oc=5": {
+      "title": "GSユアサの純利益14%減の360億円 27年3月期、補助金一括計上の反動 - 日本経済新聞",
+      "company": "ジーエス・ユアサコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53TjR0X3dOVnVoZnZQRFBuNmR0LWRxM3ZiaFhSdU96d2EwOTI4b2dIVkZJMFAtb0d0SGc2bmowdHZ1OGNHYWp0ejE2QU9zbkl5cWxHdjNNRUkwMDRZOTBGVkFPZlZMUWdqT1BZMw?oc=5": {
+      "title": "決算:センコーGHD純利益21％増 27年3月期、丸運買収で売上高1兆円超え - 日本経済新聞",
+      "company": "センコーグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmN2V5VDkwbHcxb2lodlRlejFLUWFpU2wwNllERGxuUS1hRV9LRUZ1VGo5ZjBLbEN1TGVVSDIxckkzdXB3UG4xdHc1dUJfYVV5eGE0QXBRTlV6WG94RWVPc01ZV1FrZE5ETTdBOA?oc=5": {
+      "title": "決算:三井倉庫HD純利益12％増 27年3月期、医薬品などの物流堅調 - 日本経済新聞",
+      "company": "三井倉庫ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUh2bC1seDJoMHA5ZWJhOWJMZFg0SHJia1QyZ2x4c3FYNTZ4RFMwOW1ON0NIT2laNUItMnl3TUxVZEI4N0I0cDVLMTl4cnlrZVJaOE1ENC1HcDRwc2lwaGE4YWp4THFHeWN2ZU5hd3FYR2hjSkJ0TzRaLTBKX1ZjOTNBUW9HWXBwbWlnMFFVbzE4bmRodGkwYzhkX09aX24yVlE?oc=5": {
+      "title": "東北電力が首都圏で法人向け小売り UCカードの会員を基盤に - 日本経済新聞",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE94RTZhMm9aUEQxUUhib2hHa3REZ0FwZlJySnhZVmp5cWtXa2EtNGwweUMtRTA1cF8tenM4X1BRMkRsbDlHQU5fZ3JnN3VuM25LUHllMVZNM1U1eEg3ZEw5Y2dSam8yYzZtdkYwaA?oc=5": {
+      "title": "九州電力、玄海原発4号機の原子炉容器ふたを交換へ 耐久性向上 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb09DV1k0YmdVZjllZEpwdDlVRmRsVXRlNDFFVmxVaWRxM3NEUFlZU191UWZPUl8zM3pNd1FTZndlVHd0bkJjemlLWk5YVHdERENibnFzLWd4bm5ZT2pwaVhLekFJUVRiRnFkYzBZLUg5Z2d0WlZYdmt4OV8zVFJtYXJkT0R0eHBNa3VpQzhua3FseHhHZmkyaFlMbGtTX0VEMURmTGl3U3Y?oc=5": {
+      "title": "北海道電力、歌志内市と包括連携協定を締結 脱炭素推進 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQVdFSDlBbXFZekp0VUlwLXd4NmRaaGxzZXVyZzVISmJtbThJUjktRHVZVy1zNm1CWXB4ZVNNc05Bdm5nWHFjVzlkVGdlQ25IRkZNWGdpM3p4NEpaRTZXanNwdm0tU3pWTkE?oc=5": {
+      "title": "三井住友フィナンシャルグループ[8316]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友フィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUFoeE02SzlZNEVjTzZZN1lyamN0V3I0Q1hTU1dhUVJEcnlBNVBKRG1QRUJYaFZQZEVWLUMwU3k3WkpHRlpEVk9kZDFmbWRxQ0VKdUpJZ285UENFYVpGbnN3RjNiZ1FNX3pRaVJwdkdPa2VRd2xrSkNYTkt3SW82eXZBamRfclhWdjlRZm40cmpZSkNyQXVGZHFiMXo?oc=5": {
+      "title": "株式会社日本政策投資銀行との資本業務提携並びに第三者割当により発行される 第１回無担保 - 日本経済新聞",
+      "company": "日本政策投資銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uOWIzVExIR0FOYXcyamZGOXRnY2c2SzItcnhVU2JHaGswVTlyRjVzNlNjNkd2ZWFjUk94WGpUY1ZfQnRmT2ItaGU5VGEwYTBsNGlmajFiUTlnOC1NSG1zZ1hyaDQ1ck9QZmkwdA?oc=5": {
+      "title": "決算:筑邦銀行の純利益35%増 27年3月期、頭取「SBIと提携解消影響なし」 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JMEFIY3hfZzhwdnVxeU1sY3BvMlVJZUFwOUFMOHAyVHNFLXd4bGgtcHdab29uNlpTMDhVendUaHMwdVJTc0UtcFQxem4tRkhCYjJJVFJoMnVWLTZLc2ZtckloaTFkU3lLdGVRNQ?oc=5": {
+      "title": "決算:JA三井リース、最終損益358億円の黒字に転換 27年3月期 - 日本経済新聞",
+      "company": "JA三井リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEVzUXc1UzB0LTlnVkNMdkgydnZYMjNaeHVsZmVhcnpXRHV5Q25CWVNoWDJyd0tiSzMwZ0ZNVEZtS0NvTzljLVBEMDhlbmRxMmltSldlQ0hDSHF4T0FGV3VMMi1FWUVsMGpIYklrTkVaU29pbHZCVDhSX2ZwdTh1ZzJxU2pDak1LOGtuVW56bEJ1a0dlMnEyRWFR?oc=5": {
+      "title": "JA三井リースの27年3月期、最終損益358億円の黒字に転換 - 日本経済新聞",
+      "company": "JA三井リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-13T14:30:37.882893+00:00"
     }
   },
-  "last_updated": "2026-05-13T11:32:01.297992+00:00"
+  "last_updated": "2026-05-13T14:30:37.883551+00:00"
 }

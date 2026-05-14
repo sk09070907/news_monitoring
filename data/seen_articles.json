@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54eG1GdkI5Y2FyX2RuRnItVTNHOFBGalJ4SkdDeF9yX1ZSYzhYSFFPOTRscGpWRTZxcHJVaXNtcllKemUwQV9XbUlkV3dSR3FwN00wLW9DRHJjMzhIWGh0RV9yQWI?oc=5": {
-      "title": "画像・写真：トヨタ、ＥＶの新型ＳＵＶ投入：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcndDakt6aE1QRS1MU1hvVF9FVHVXdXRBR2VSa3NzT2lTMjJWUmc3NUlDMWl5NG83QTZzN0R0TEt3U0lKMW52MmhVUWZhVWtEQTYxWEtZcmlNeUdheDd2T0cxOXZ5cE9DS1N1dndMOV9JbDBjemZ3WF92S3pjRmxkNGtlSDRBaFRiSGpxVUFXbkw2MUJrRDZMQ0JwWHdhVjkwd1VRV1FBV3pxVkhzWG5uaFlqQXNuWXcwSTFOQ0dCM2JKMXNOUUtOalNFUUk?oc=5": {
-      "title": "イオンファンタジー[4343]：2026年４月の新店および店舗数のお知らせ 2026年5月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDBKUWI0MFprYklzNmV2ZExhM0c2c0R6dFN2aU44ZmdKZHVVVFhkb3ppZGJlTVlUSGtrLW0wQUItaHliZUxXWWd5Nk9VY2lFVWVtMW1QcXRFVURGRWVkS0VUZ01BMFNkTHlHbTZpSnJxUHZTUG9xX1lpRHJpTkYzQ3JSU3dNRy14ZWtjS1J1bFh5cUVUeWRIVWlFQnU0TzlXN3RZ?oc=5": {
-      "title": "商船三井、ESG投資指数「Dow Jones Best-in-Class World Index」に選定 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jS3VpQlNqT0RDRkhpb3VGcDV0d18wODc0V3NlY29MbXhpTHN4dDRRdGp6akJMSC05eEUxN1ZlTk5qTUZYT3JLXzFXVlRwTjA5ZjRIb04wRXlhNFEyM1E1VWw0Tk16YkRPQXV3TlU0ekFNME1sdnJZb0NPaUw?oc=5": {
-      "title": "ESG投資指数「Dow Jones Best-in-Class World Index」に初選定［商船三井］ - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXpQNmN2U1FnaGN6LU1DU0FtcU5nN0F3cVlIenhOMGpZY04tNmw4eDhtUFFzM0ZGTG5SRUxVMmV6S0huU2RSSFNISGVvRkxLakp6cV80MHJTaFg0eXpJODN1b1VYUXZkMG9fblJwdklieXU1aGYxa1dTWkk3VEdMcHRRTVBxLW5DS0FrY3liUDQtQVpSQ3JXM2NMZ1NNQjlNYlN5Slc0R0E?oc=5": {
-      "title": "東北電力と三菱HCキャピタル、太陽光発電会社を設立 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oNUxUN3pGYWpQdXllTmc4b0U5VlB2YXN1ZldiRFg2Q2NzSkZTTTRnV2dXM3dVenZlZ05Xa0JiSUVPZW1iOWhrVjNQZDc4dXE0OEE?oc=5": {
-      "title": "MUFG to Form Strategic Partnership with Google - 時事通信ニュース",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "時事通信",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVBNb0dhZnVDU3B2ZmVQdVVCT1V1WG5IZEIxeERReFhFb3g3RGFiRTluMTNOOGdjZlJEUmNzaEhIWVVLb0lBUnM3eEZBNzVpN3ZFQmt4MVBWMjRGOEVGSXRMeURvbVA4WGk1b3lNYlpSVlZWa3VKVXZ2Mjl3aXN6dFNFNFBmNkk0QVZFXzg3UERiaG9aYkpFSlpYZXB0alBEcnRjcnBB?oc=5": {
-      "title": "山口FG傘下3行、JCBの資金管理サービス導入 中小取引先向け - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-07T14:04:10.272061+00:00"
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE44dlFaVWE0ejEwSkxQNDNjM0V1RDE0RWtJU1dsd05OcW02VHliaWU4ZHNNUXJ1WWhDV0ZYdHBLRHd5a25PMVFJLWZUUlo3WklqQWlFcXcxbnF3RjNzNjhFeWQ2bUZrN3pFQjNJVHBrY1BkRnlZZHQwc0lEVGRQckk?oc=5": {
       "title": "三菱商事系が描く乗り合いバス AIの予約調整×自動運転 - 日本経済新聞",
       "company": "三菱商事",
@@ -4079,7 +4037,85 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-05-14T11:13:08.817817+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3hNR0J6b28tR3ZhdWRJaFBUOFc1d2FnNExLTVNnMzlOUG9tSU1JY0poWVZDVlZmX3NmeUhnVm9DTFFRbWlvLURGRWNSUWxtQ2ZSYnlLN3pwMzF1UWhJcUVUeVNrcFQxcDF2OENtMXR2VUxtamNYcXJqVFdSQ1ZHQTVnUGN2X0dvekZxeW1heGhwS0t5cEsyQU45V2I3WHI0eFZVZ1hsaDA?oc=5": {
+      "title": "フジクラの27年3月期、純利益1%減 決算発表後に株価ストップ安 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnQ3ajUwLV9QM2lhTHBiTlRmN2lldUVuVHZEYTZtZ3VuYVZhb3kwT0JkVVU3WnZRN0xYbEF6cHAwR0tRY0t1UHFGOFVjbmlsU0ptTDNSUkNrTC1RRHdEXzQ4Um9VTFJQZ1gxdmRMaFNGVmJSWWRkdnVSS1dNOU1OdVd3ZTVXUHlnX1VBcXIzVzRGWDFKZ3pma1FVSmVncVNVR3c?oc=5": {
+      "title": "GSユアサ、今期純利益14%減 - 日本経済新聞",
+      "company": "ジーエス・ユアサコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVRfSVZnM1dEN3NDdXhseUFMUlBvMUpPTFMxamNKZ0lVOHFxcEF3QTZaeUZVMFlhT19QLWR0clpnMUZ4ckRnMUxMS2M2dTJYREF4d1pRb29oc0lkYXNBMGo3QUJKVzBIX0tFZ281a1I4ZGtjNnBuSy1OeFhZQWNMMHNMVzE4TTJqTVYxY2FvdklQMmg2dVIwSG5PeWMzOVBTbWc?oc=5": {
+      "title": "トヨタが「ランクルFJ」を発売、シリーズ最小・最安 450万円から - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHN2T2ZnQlVLd2dTWWJWdFUzdXI5SHZjbkFDS0dPVVF2ajk3aDRyTFNxMi1LQV80bjhDM0lKSHF2dk9wX2dqT2J5dm5EcjBzanRLcF9BYjkxN0JCcFcxN1dlX21jTGpnYnJaMUgwUFVIajh0cGdrWFl4dV9wdTFhUTN4cnQyTHFCUEViaXVfbW5meWhnY3lBUmxtWk44WmRJTlB5dUliRQ?oc=5": {
+      "title": "株式会社アイシンが名刺管理・営業⽀援ツール「ホットプロファイル」を導⼊ - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rUGFYcE1vOG80V1ZVR3U3ZzZQb0tTYzdWcE1aZFdoVUp6dUdpc3RPdGw1aVhXSTZFUGJENmVXRzg1TzJEUUxuUm50V2JMbHJDQ0E5b0wwbFBBTmxZR3RzSlR1azBSRTNfMkNKdQ?oc=5": {
+      "title": "決算:楽天G最終赤字186億円 1〜3月、携帯改善で赤字幅7割減 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZTU4xdDBFdVk0VjJJb0kzZDcwSjR6YkRSb1AxZ3V0VlBSQkJqdXE0ZWxicWxlaEZ6c2ZJNmJacXU4cFJNNWNHc3JrMWJrSENqM1FCNA?oc=5": {
+      "title": "◎〔決算〕楽天Ｇ、２６年１～３月期は赤字幅縮小 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naWg2aV9NQnI2aXIzc1l6X1dIRHh2dVU2LTZzMURHeXl0T0k4M2ZHUjZOMGFWcTkxVlZBOTlVSmpUYld5b1lKczJvUUtLTVpIU1NwczhZMzhIeEItN1JLaWllbHkxU0h3R0dR?oc=5": {
+      "title": "【相模原市後援】年間約8万人が通う地域最大クリニック×イオンが初共催！こども向け医療体験イベント「すくすくこども仕事体験博」を5月30日（土）に開催。 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cFc3SFBFeTdYZ3JfTnJtYl9MelMxNVNib3BiZmJELVphMURSTWFoS2Z1WWljcmFoZmlNREhpZzRWanNiR0pzTnpOdm4wMTI3RS1XNjJqWElBUHhkV1NFZXB3Y3FNNGh2RXUxdQ?oc=5": {
+      "title": "決算:西武HD純利益31%減 27年3月期、法人税等調整額の反動で - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZF9pdTFlUW9YWWJoa25qQUJpZU9xUWdWSzE3S2VFSlVFYi1mZVk3eElWelpCNWlTNkE5c2piX0RIcnBaWjRKcUxTZUhuSHVkak10eDBPSWwwNTY3M2M2ZVExUm0wdWJWNmdtTA?oc=5": {
+      "title": "中部電力とミツバ、両毛システムズにTOB 1株5200円 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlVLVWdlMFNqOUNBdE1pemdXTlRtVW1XVGY0U2ZSMlVrMjhkTkI3WjhZang0UVozNWF0Zm42S0hRYzlkc2kwY2liS1VpTTN3SW1GaHlLbUVkc1hqUUZOeV9VUWNfMllCc3R2d2tjZm9jOVVSUHJiRHdhSUhUb216VkFrQ3BJS3JNazVLZy1FbVJpYV9hVENYeHB3d0c5cDVnS2ExekRB?oc=5": {
+      "title": "九州電力の新小倉LNG火力、33年度運転開始 計画見直し出力も減少 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVpkY1BPRVJoT1dNZ21peWdDZFh3NHE4ajM4UmhwVGFtUUtnbS1mRUdNUF9zTkU5eGtQM2FXOFdPdWgtQXlpdWZQNzN6UWZzamVBWlNyOU94VWhMMXh2R2ZYMUZrRmdzSHdtS2lwenNVQ1FPaDFZY0pTbEZYb3hqc2h6ZzRJa0o1UkNXVGxxazlsQVNVcElveXZ2M28ya2ZlTkJoWlRR?oc=5": {
+      "title": "あおぞら銀行の純利益25%増 26年3月期、投資銀行ビジネス好調 - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WMEhYTUotV0NjVkxpOXBKOVZCcGhmS1BvYnZSYkM4UEU5cEdtTHBvWjJqb3RYQjlKTDBsbl96UXF3czN5bmhoVWZrNk1pNXdnNUZOck9zb055VUNWUGc?oc=5": {
+      "title": "◎〔決算〕三井住友トラストＧ、２６年３月期連結純利益過去最高 - 時事通信ニュース",
+      "company": "三井住友トラストグループ",
+      "source": "時事通信",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3TDI4NlhMY2s0RlF1Y2M0UTBOSXJ0elQ4OHJjNFZabmhsRmZ0ZVRLbjZ4T2JkeFVUSmFIX3VKMUhRSDNfTGUyTkpxQzVBODVGZGNUN3Y0aWg1RElzS0FTRlNEeExZQ0RoWWc?oc=5": {
+      "title": "三井住友トラストグループ[8309]：株式分割及び定款の一部変更に関するお知らせ 2026年5月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-14T14:07:33.267881+00:00"
     }
   },
-  "last_updated": "2026-05-14T11:13:08.818816+00:00"
+  "last_updated": "2026-05-14T14:07:33.268505+00:00"
 }

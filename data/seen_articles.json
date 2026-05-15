@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SQUdpeTRZc29iRXlNZVNTVUFmR2Q5bFlGRWxFUkJzakh2N0J3T3lHNGM0OUVaOEd3b25nSU1OeXpLUUQwX3lNYnMxM0RRRVowY05YR3lpa1ZBM2dhakRhTzhMSmtEMkhfSU1LNQ?oc=5": {
-      "title": "伊藤忠の岡藤CEO「総合商社は資源やらな」 不動産にも注力 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQRm9lREk1alRsRnpQWjJPZG5vTWZuaDdFSGVPTzMwcXlNUFhvYVR1R3AyLW1rWUpSRFhYYlUtTHNTQjlGX1BiMldKQ0FYVHY5NjlmTGNTRzZnZHNyRzBtTWpRQy0xdUtobWQzeg?oc=5": {
-      "title": "NTT、ドコモ苦境で利益目標先送り 携帯通信の成長鈍り設備投資遅れ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMHJYQXlnM18walR6NmJFak5XaW93NGVZR29USDZySDQtZzdLejZPSm5hbDFxOTVKLUFwUF90U1VfYWljVjZNRGIyMTA3VzBucWhtc0daZnUzRHkwTmZraUhzUEh5NFk5LWl2bXg4Unl4dndZZnQ4cDRRZTA?oc=5": {
-      "title": "ダイセルグループの温室効果ガス削減目標がSBTイニシアチブより認定されました［ダイセル］ - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbjlnaG1tZzJ3bWh3NlBhSmJ5TDh3WXdXcmw3YXJsTjhfUm1mM3h5Qk1EbVJ0STFjVi1xdXpMU0hlRF9qY3pMSVlSejR6SkRaY2dRMEtNRlIyTjZWTjdWdTlNMUM5TmRGd2J4Zg?oc=5": {
-      "title": "東京ガス、米ペンシルベニア州における天然ガス火力発電事業の売却について発表 - 日本経済新聞",
-      "company": "東京瓦斯",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2xuNXcxdnlDTXg5d2xPVzVDeks0WU5TTUZTeWJoUEpyYTA4dlZaZHVtamZQX09naHQ5U3FCQ1gwOEVMaGUwdmR4bkt2cEVaSFhQVHRfNXQ0cXJ4UDZpeUlwU200QUxvTzVtb2xsaXBEcEdBVWhhQ3FhY1h2N1QyTGJRV01UM2pTLXRRUmVNMXh4OUw5ejNia3I5UEd2VG9RdURJeEZpZnU?oc=5": {
-      "title": "トヨタ、ASEAN首脳会議にレクサス提供 各国リーダーにアピール - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94RnZ1WjBCM3plVzVmVlJLb3JVVEJ1Q01KczNFYVR4RC05czZ0UVV3LWtERjdISnpzWmFXdkdnZnRkSkxDN0pFUTMxQ0l6MS02UUVMaQ?oc=5": {
-      "title": "◎〔決算〕トヨタ、販売好調も「稼ぐ力」課題に - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PdUFfTTNpQ0djSFltczQyN0ZGV0J3VDM5MHZwYVhhS3dLVlJ6NWFpRGstMkVZcVFJYkRLTWZUak04Wld3YlJMbzRWOTYyZ2VSaGliSkhOa2ZQSUk0MTZrUG9hOGxCVjlWb1FR?oc=5": {
-      "title": "コインランドリーもキャッシュレス決済が選べる時代！「コインランドリー wash+」が決済手段にAEON Pay（イオンペイ）を追加実装 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzU5dk1IbE9kZmQwd1dsS1A1Rk9vYWI5TlZ0YW1Gb2xHV280YU03YWZNNUR6ZGZWamt4dG43VDdXeEJHMDFoZWJsRG9HOEgweXJKWUVvakdEVmZfakIwZ2xIZTE4cHpVSk5oTkp5VmdzM1hBaDl3V3lpdGszRjlhWQ?oc=5": {
-      "title": "商船三井「通航料払っていない」 ホルムズ海峡通過の関係船３隻 - 時事ドットコム",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T13:30:01.760239+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN00tS2UydHBrWkJzWEtVQ0tNcEx0RmdYM1VzSF8wek5Mc2tKcEtXay1nd1pfRTZnNkJsbkVYbWpnQndacXE4Q3FheHZ0Q29PdTNXbm1DX2xlWVlzdk9ySnBxaGtKYVFyNGRPMVkzLWhvVHlXX184Q0VRcXVWX3Y3d3ZHVnRseXNZTGhCTEc4TGdPdGNZSWJkeGk3SGZiZ3o1SzFRcnNB?oc=5": {
       "title": "（新トップ）NTTファイナンス社長 小林啓太氏 - 日本経済新聞",
       "company": "NTT",
@@ -4373,7 +4325,97 @@
       "company": "東映",
       "source": "時事通信",
       "seen_at": "2026-05-15T11:21:34.118822+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZDAyVFFvVmJNWk5kT1VYVmJ3X1FURjdoXzJkUjg4endwU3pySWhmYkxlbXZYUGhWNzIxWnEwczVWeHRPMDlmb2hscDR0MzA4NF9uUXYyRXh2c21JUGNTUloyUWpyV3RnUFQtMg?oc=5": {
+      "title": "決算:日本製紙の純利益15％減 27年3月期、原燃料価格の高騰響く - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmhMOVNRbi1uX1FzSk5nYk5ncEl4bHlRNTYzaE8xbGpvd3VlLTdCODhrZTJyS3lGdFpoYTdqRF9xdlh4aWNOYnFacllhRGpXckoyc1h0eHU4Uk01OWJELWtMN3pFTlBnQ0Y0OEY1d1NXaDNvTWIxdy04dEdQaDFZVnpPWEVjd09kak9KbWlZcmxfTWFkVE54REdvRm16VTFaOVYxQXZn?oc=5": {
+      "title": "日本製紙の純利益15%減 27年3月期、原燃料価格が高騰 - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkU4SVcwVl94OVVlOHJrUGRQNW12cTFJWkY2T3hNNTBnUzZobk1uN0p3UW5YbVh1NVFSZ01kRFB2dVRLMUExaFk3MjRfc01SX2kwMzl5ZlR4cXlqd1RSNF9lMF9LZUJmaDc4TGVrNjlOSzhZWlhQdV9UaDRTUkppT3F6MHVkaWxPcHVtX2xZMGxUekNlWERDQ2RFT2JBOXpnOXpnWks4M3ZrTGVXdWd1bU9aRDJ4UUpkUkJLODZBRm5MdnM2dF9Bd184ZjA?oc=5": {
+      "title": "日本製紙[3863]：2026年３月期 決算短信〔日本基準〕(連結) 2026年5月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXpFZ09xSVJFeThhTjBiYXk3RW84NFllNHdnQ0w3UWVQQU5CS2dUMGtRdUpuUGdja1Z0X0M4NGR6NGxaaGxYNG0yVFNVRERMTWxMU19sVGxld04zQTJKODhBTmlVSUhvZm55Q0pNdDNIaVc2Tm1oU2hXQUhuVjIxdjd3VkNFdWt0SmIzWFlSNjJScXRIUTgxVDFaUXNaLTRLWG0zdFN5TlY?oc=5": {
+      "title": "フジクラ株価が朝高後下落 自律反発狙いの買い続かず - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SaXY4bURpODFnWFFRYVlIdk4tdXFrZEJhWmc0RXQxUkY2b2tSWG1qckxWMEI0bUtiYkJWeVQtVVJSYU9PYTVIc3ZZZkFTSU9odGR3ag?oc=5": {
+      "title": "東芝、２６年３月期は純利益７倍で過去最高＝２８年度にも再上場へ - 時事通信ニュース",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPazMyTmpDaGxBZFJLeVkxOURzOTFVeGM2d0NycjZNcVR6UU5pSW1xWkVfVVNLczVHdWJfMVo5TUtoQkNCbUxlYmc0dXNwX0NreVZqTGZ0WXJhNXFaejA5Zzg0YTlQUEJwRzZ0cThCZTk0UHFTQTRMWmNHTGMtSmo5dkFpb21QMVQ0UTdhdFdiYXd5eEU0TTY2NDE4TFVHWEpQbmhmMFlBc1d6c2JaRGo2TlJGeGNVLTE0OTBfOFc4Tnd5VjEtTG9QYlpCMmk?oc=5": {
+      "title": "イオンファンタジー[4343]：2027年２月期 ４月度の売上概況 2026年5月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd3BSQzlsWWxCTWd2RnpNSnFNU1FPM1MyYUlsMGgwR2N2bW5YUnE2WnB4WXJXaU56a3VZNm0wWF9LTWoxVzlyb3BCbkxYV1RjajJWVzZIem5xakg4UzJqUHBhWEFqMFFNeFFoUA?oc=5": {
+      "title": "富山県、関西電力と包括連携協定締結 県内水力発電の電力供給を協議 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODdKWDIyUnRjNHpGNmdHRXAxbzZ3NDJEOXlHYXhhd21JVzJaVnI2a0tyNmlubHpOZG51ZGdwNkRsalZFelFLNjRROWhFWEdwcXVsQmllWnd3VFZ0RlZRVDNZREZMZDRTUzFTT1l6REFPSTB4dUZianAtd1ZqdVVrUGRJZFAxSmM4S2Z6bmZJWVl3VkZrdzBMa0lzOGRwV1MtRHE5Z2pCakM?oc=5": {
+      "title": "中部電力、丸紅子会社と太陽光発電 全400カ所で27年度運転開始 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JV2daUVAwbWhnOGpEMERVbFF3cF9lajRKRkJtVmVHWjFjMGR5dTZ5SEpRamUwbzhfTS1ka3RVV2NHM0Q2MDB2TjdsM2t3OXVnLXB2T2xDRjB5MUstRGNCc3dGcWxFTS1oVUJfeg?oc=5": {
+      "title": "中部電力[9502]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHFXVWszR0RjZVNwTWZsOEJ4RFpIekY2NlIxUHhuZjhFdm5QeW1aTVJKVlNQODFpWXVkd0lYZ3lURnV6dHAxT0RjMDJiV29LNDRIeElLdGN0SmhuYjgtMzJOYmt4bXY0NjhLWVlSajJiRmZKeUF3Z1FBVEkxaFVRYnBGLUNkQmhrdkp1dW5LaHpsR3JQYkF6NjF3SDU?oc=5": {
+      "title": "1 2026 年 5 月 15 日 株式会社三菱UFJフィナンシャル・グループ （コード番号 8306） 剰余金の配当 - 日本経済新聞",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajFFX0xIYVh5MGZoTHM5MEVsNmF0Z28wZzJFOUZTOS1ud29HenFSQmk5M1VSWjFtMW9wTzlUYnFFX2N1cF9vUTJnQlpyV0dzTU9YR2FhZG04VHFnWjJUSVpKT2tyM2pwWEJya0hicVVHVldCdDk2b09ROGVNR09NNGswbGZRcWxyZHB2ZHByQ2FFSEZvNDR1RUtqRWJyUk9qbno5a0R3?oc=5": {
+      "title": "愛媛銀行の26年3月期、8期ぶりに最高益 期末配当も10円増配 18:50 - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVFfZVhobjg2SWZKZVdWNmQyVVhRQzE4ZE1DX3RLYThyaXRlMHZ1dUlCOFRuZ2RXQUdrT3U1dl9RYmx6NUQ0UjlqblE4UWNIVVUxRDNzQ1dsMUlyREFCM0pfTF92NmhnWGVVb3dSSWREUXczeWtLNGg2Q0RKYnplUC1mdWh4NjJrQlBVU2FwRXhWS09UVWNYYW5BUDBvR2F5VGU3aEQ2N1Q?oc=5": {
+      "title": "クレセゾン(8253)自己株式消却 - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUNzczlxRkVXa2FWRlYwei16dF95cFQ5TFNMRVBDa1ZscWFZMm1tazJRcU5kQU1JU1J0cXJqTVowbEJiUmJ1SDFDUUhDRTBuM056RDRFQ3M0QnpOWW84VDZOZWUwQU9sQURTZnozZ3Fhd2NpQlMtbGN3enNwTkFnQjZDMmxVTXNzOU1SeFNEVmF2RzZHU3BuZF9yMnI?oc=5": {
+      "title": "ムニノバホールディングス株式会社ならびに 株式会社オリエントコーポレーションとの業務提 - 日本経済新聞",
+      "company": "オリエントコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVmZWYjBxRF85R3p4RUJmUHBPTC1kZ000YXYxWWFpV1RFOG9VUG94ajJkTmFYY1JUQkpqcWZXZlJjVzJhRy1ldmV3NTlMTS0ycHhHTjFiRnF4R1owTVBTOGNjaGV6VTBrVFE?oc=5": {
+      "title": "東映[9605]：支配株主等に関する事項について 2026年5月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhc3ZfNHN5OG9uOF9NTGdYTkh0eWtTcDRaUjNvMlpWVHEwclA4TjJEZlo2WXZYeVpBZG9jZnhmTnZTN1J1ZFljZnJaNk9HT0ZEeW16RG44Ujd3OTlTQ19zaXRvR2hjLWUwRFp0Mg?oc=5": {
+      "title": "決算:東映の純利益46%減 27年3月期、映像製作コスト増で - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T14:04:10.701205+00:00"
     }
   },
-  "last_updated": "2026-05-15T11:21:34.119555+00:00"
+  "last_updated": "2026-05-15T14:04:10.701905+00:00"
 }

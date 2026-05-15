@@ -1,65 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWxrODQ2Y19XczRVZVY2Q3NUdE5xYmNPalZweEU1bFoyb05qYU1fSExta0VQSlhKaGNVUGllSHBWNUczdHJEUURXaXFQTUdVZFlyRmNoel9Hc2V6SXd1RU9IdjRQR0J5blNaWVF5QzFCZ0QzYzlqaHdSWklwM0cyRVdwLVZkWmVMeVlvb29VQUF5bXprVUFjQ0xtMk5xT0l1T1hRelRR?oc=5": {
-      "title": "NVIDIA、NTTのお株奪う「光技術」傾倒 米コーニングなど提携拡大 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWl0dWxpeElsWG8wWDRqNU1oM19aR3doNmZYczF4QUthTThPRjBkWl9UbkJkaVJPSHV6SS1wVXA0R2xZdFlUR2hOMlVhWndRZkwwTFh2N3VRclU2U053MHJodXJFckwydGFCUVhia0lhQWw2Q240alJmUXVFN09NSzlLT1RyUVA2X1ZSRjlIdVpjWGxvZ01Ud2NlZlhCQVJZSUhZR1lSRE4?oc=5": {
-      "title": "「クラウン」運転席 チェアに トヨタ紡織、小売市場参入 機能追加、仕事・作業も快走 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yMFJLOV9DMnhad3NrUHJGMjVEZl9RbVZSdzdZMjNXUW9OWmxoMVQ3enVPMzYweUxnWlE0a3k1UzJUNEt0OFJWeTY4NWtWb0o4U25TNnFHUzJRcHQ0S2dtQ2dCbWZaOEZsdmpR?oc=5": {
-      "title": "声優・上田麗奈さんがカーナビの声に!? 個性が豊かすぎる「クセきゃら！カーナビ」動画をトヨタが声の日に合わせて公開 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fbHJEekhFSC1uZE9WbzRwZ2ZiWE9ac0ZJRTZ1TVFQekQ2YnZlM3BYX1d5Z2ljakpLVnRXM2hiWHg1SFJRNld1S1ZmS05PbEtJMS12N01oR0JoUDV0Q0ZpemY0cUY0UDJ4VVNF?oc=5": {
-      "title": "2026年、母の日トレンド「ソーシャルギフト（eギフト）」の定番化、進む。母の日ギフトを提供するプラットフォーム各社の競争激化。利用経験25.0％に拡大、ソーシャルギフト普及で市場拡大、楽天も新規参入 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE80YzRRbDhlUGMxZzBxclRVNlZONEdkMHE5YXpidkQ5V3RlSFNnOURVSEFWRlhBUVZZUVM3enN6c05DbkZUR2poeFZxR2NHbmJHOVBNbnVyeVdlb2JIbExLQTVCVkdVb3VRVTQ0?oc=5": {
-      "title": "楽天ランキング1位獲得の【猫用爪とぎハウス】がお買い物マラソンで特別価格。コストフォーマンスに優れた\"替え芯4枚セット\"は追加予約販売開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzLUVfZ2xucXdWbWlTZnhYR04wZFdubE5jbGFSSDVPRi1lOVowN01jOTRwX01RVEJRMGdib3FxRzFfVlJpdmR2emFiVk4tZzQ1S0xzdDllYnNCaWZCVXd6MjRWSGdrVEEtMnc?oc=5": {
-      "title": "イオンフィナンシャルサービス[8570]：（訂正）第45期定時株主総会招集ご通知に際しての電子提供措置事項 2026年5月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1va2d0YUpsdF9CYjE5NWtDeTF1OVhGUnhhU01KYXczMTl4dVdpV0MyX1FIMEVsTFNJbUFQcFZvajZFc3NXQXA2eFhIT205Vm1Rb3lZejBQQUJNN1d2Z3F1ZkZqRGVLRUtkRmJB?oc=5": {
-      "title": "【イオンリテール】母の日に“ありがとう”を伝える商品を順次展開 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnRGh2andxd0huTEYtcm5YTkNvejIzTnBSbGNTU0wyYlNKSlkyci15MW1HSlhyaTFjS1FEbzZaSUhuQ3dxdFBST0Q5ZkdhSzJSMVBrVmZSOFBHNVR4TFBKa1YxSDJBZkdoY2tZ?oc=5": {
-      "title": "【ライブ配信/Zoom】「高安全性・高性能化に向けたリチウムイオン電池の電池技術― 材料・製造プロセス・電池解体からみる開発動向 ―」セミナー開催！6月12日（金）主催：(株)シーエムシー・リサーチ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHMtVUVCTVc3S2xydnBINkQyTWl6WEdOOU16WWRFS2lPRTEwelM2X0F3MnB2dUZyTV9QUm9sVndkRkZvTGtvTi1mMFRJUGwxWHp3VjhXYVk4OGpiTVRyZEh0YUM1c1UxZnQ2Q2VMZXNqeHc2UmRub3Y2dTNWWE40MG1xNDBoR0VKdmJsRnpzRkFsckVuSzBNYmlhUGpIVWRBTHRxYUNR?oc=5": {
-      "title": "関西電力、美浜原発3号機の運転停止 蒸気漏れで - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOGtBeC1NRUJSTmFjcjZ5aVBYWjluVWJhblpTa1NETE11c2g5ZEpnZUZqZnlQZ2NmT1hpY1hkQVp6c19rOTlYMG93Zlh0YUgxMlQ4emlfampWWXM2TGE2YkE1SQ?oc=5": {
-      "title": "美浜３号機で蒸気漏れ 運転停止、放射性物質の流出なし―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T02:47:47.537403+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JaFowb1d3ZU9xbllfMDFGZ3NiX0tzeHN5djRrZmFXSHpqcDRXMjJ4MVR2NjJnUXl6SkpxNk5pMEZrc2VCczdWVWZGUk9hVFhxY3hCT1Q5WnRsX3BpY08zbEhRc0xobVpBa3ZB?oc=5": {
       "title": "住友商事がLegalscapeを導入、AI活用で初めての法分野のリサーチ時間を2分の1以下に短縮 - 時事ドットコム",
       "company": "住友商事",
@@ -4169,7 +4109,133 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-14T22:07:17.703523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91QU5nTVIwamVJNXBHREhqQjhwYnVJNmVsamU5S29ZRGhVM1BOcWNKUWJIWXFxTzF3NEpYS0RWM0RJcjVNNDJXRWo3cHVpYmsxYi1TV2FDWlZwczl1d2F4YTlIWGZNVEMtNWF3?oc=5": {
+      "title": "【ビル間交流を促すオフィス戦略】NTTデータ本社内に2店舗目である“和”カフェをオープン - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUnA4YUtKYVAxb092M2VZQ0VOaFphanFZYnBlVzFRejFQU3BzVGp0WW5oamhHcmZrbXBhMGtESUx0NGg0M2x5ZHFuNllvWURaV2ZkaTM2VFJBZjFaWTloamdJSV9XSWNQY2Zj?oc=5": {
+      "title": "ROMSの自動倉庫「ナノ・ストリーム」、NTTロジスコが1700平方メートル 規模での導入を決定 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wd2dlRk9NWmpHd3ZWZlNnU0F2WlRzdTlLRkdXYXZoN2g4LW5oTXdxX1pmNWV3RzdNZkZaRFFUVEJJSm9ZZXlWNGpwSjRoT1lHS3NHeTZ1ZGRiLUdaUFBHOHZUOHFkWkNmLXFV?oc=5": {
+      "title": "サッポロビールと東京都立大学がお酒・ノンアルコール飲料の飲用時の心理に着目した共同研究を本格始動 - 時事ドットコム",
+      "company": "サッポロホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzZXVDc1VDhENU5Xb3Flbm9vRm9qTVFtdFRtd25wLUhKYTRkWTdrWGhxaFpiWVlXbFpGQkJ0SXRLNDh6bmk2VXN1Uzh5aTdFeE9BQUEtYjR5NnNwS0Z1bklfRzZITGl4cmlYclpGR0Y4TTlKVlM2WE00ZngydXFITDdUUDMxVWRKb2hiS3FwWWdWSW1FdWZxcG14aVJyWk4yM2NZWndDTC0?oc=5": {
+      "title": "ENEOS、シェブロン石油製品事業買収 3300億円 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTWIzQ21ybi1pZTJjUFZqNmJDZS13TVpGbm5zMmRYWVBjdGJCd3NBMmVWTWQ0TVZnelhNZmptVDc2OHA0emN5UGxuMFlPSl9LYmVfUWxIYXNmZ2RkMC0zMlZCRkNWc1JnTUxDdw?oc=5": {
+      "title": "日経平均株価が弱含み フジクラ、下げに転じる - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlFpdW5zR3NkNEpsM2JJUDgxVEVLUTVnUTlPd291aXBNOVUwWng4alJRN3ROSE1LUWdjSFhRSzFfZ0JJMnZWNmh1eTc4Z3J2NTVsTzNTWGo5UWtlbmtHNmxBWWRTZENqelBEdnpZbUFGbk5DWm9Fb2VLMDlMaWgwbGw2cG5ZUTNzUTJMYldFMUNnYTF6NkFzTTIyMXNfM0lZeHZUYmdHeVQ?oc=5": {
+      "title": "フジクラ 市場予想下回る 今期1%減益、株ストップ安 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdVFVM29tMVd1RHBQTHJvd1BPWjdRMk85Y3JXd3p1ZkM4RDlWb2YzQllpT1pkVmpnTzdMS0JSTHdaNkhSQVNzdWt1dUZQV2pxSVg5c0dwTUxMX2NyMUpLenpRUVgyZ2ZwVVBGbg?oc=5": {
+      "title": "フジクラ株価が朝高後下落 自律反発狙いの買い続かず - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1hkR241OEFVRzFNdDRKYUFMMEZud1JDZzZNYzh6NEVOWjRRQ2c1LVA5LVN0bkxkenZVbTI5dC1jRVl0azJVZUZDZVI2SHl4a2JTLWFnemlzYXJJUFpmVG5zdjZmU0xDU1BwelpYd3VWdnZSeUpyaVczbDNDbWVQRTlFRnNuWGh0R0ZkNUszN3lha3dkOWpuLXU2WVBHZUpBdmtGemZoUzg?oc=5": {
+      "title": "日経平均株価、急速に弱含み フジクラが下げに転じる - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdklUa3NUM3NlMXphYXZCeXZUR2J0dEV4Yi1vdXNWZDBqTWQ4akRkaklWZjRYYWxNUW5SbE5aMkpkN24wbk1aMVI3bE9heUZSTUdncVpnYTZDS0I5cmZDRG5OanhqazB3a2g0WUc1XzdRbEk2S0xhZnlsQVNjSEJqTXZzRDNlVkNXazJaMUtxX2RxblFUYmxpMVhVeUUyRVJRSTdLNl9odlU?oc=5": {
+      "title": "日経平均株価、急速に弱含み フジクラが下げに転じる - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUduSUJjbGFnanY0YldrekthaTZZbDd1bk9EdXJLVFR4TG1MSEI5LTlTb1Nzd2pUTnVyODVqS1VBeVlteVcxaTYxaGdTamFiZHpzNUdpdEFIYUFBTW5LQThMUVFzQW5QN1hxdnFub1dHYUFUM21BamlCZ1ZBZkJlOS1iMmRxLUp0UHVQMzgtYWt0cG9YNUdzU2sta0Vhbm9RSTE1QUNnQ2Y?oc=5": {
+      "title": "日経平均株価が弱含み フジクラ、下げに転じる - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEtxWDFOZnU5V29yLWpyQmFiMV9yYVdiT1lPWjNtcWJGbi00NWxDSDlWODg0cVo3b0hfRzctcDhIZTZScnFxRldiT0dzOWxJVHhIQW0yYzZORkNTS1VPQ2lOMURxNHJ2QlppVDU4b1ZwbGZVOGtobE9ON3ZXa1QyTDhtdjJvZWpzMXRtb01HdjJMcUZIVzdId1ZxUGVwdGZGdVJUY1pHenk?oc=5": {
+      "title": "トヨタ、テキサス州に3200億円投資 完成車組み立て工場建設へ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0hKc2g1aFl6Tmo5bGl3OEY3M011aGkzRGowMEt2ak95Qk5KN3NzOS1FQkdpUUlJaU50c1I2cFN6WGRnZ0ZNcGg3SjhkdldKbTNpMHRmaThDZzBZZFFDUmtYM1A0ZHRDcTFOaEZVVlRaZkxRY21udDNBT0paVWpIandVWGxXaVdlMzY4LXgzNWhJSEY2M3dkZDJUOWd5NGxDWTNWZ1k1YWw?oc=5": {
+      "title": "ARCHION、2200億円の調達枠 トヨタなどから - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rV0RxMFJGMDhseFJma2lZTlk2NGE2NzhqWHZiRTN3Z2g3M1d0R0QwVTRLS1ljeG4wVkd0U2RSQnBVeWtmeFVPYldVcmFPa1htbU0wQmd4Q0FGUWZkZV9GaW04NnNlN28?oc=5": {
+      "title": "米運輸長官の新番組、トヨタとボーイングが各1.6億円寄付 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lV3Zxb2VlQU14em1ha1V0eHh0U0E3dW1uT09mbnBUb1lFVmVhN29uOW5mbm1oWnR5bW5IRWhiVHMzUTZPc3NKTDNCRWRqSExUMm9zVnM2VTNCcHpkb3JqbEdvVHBjR1JyMHFLag?oc=5": {
+      "title": "楽天G株価が反発 1〜3月は赤字縮小、携帯事業が損益改善 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51SlZvNDZmS05DWUhCdFFRMlZhWk52Rmg0aXJkdzBwUmpPNUJycjRuLUtKaVM1VFZQd21QNTZWdWVsRmVBTkNyRFVKMC1ZdXFGZWdoRFJicTFMMHc1bUtlTFlwQTlZQW9JY0JLWg?oc=5": {
+      "title": "今日の株価材料（新聞など、15日）楽天グループ、最終赤字 1〜3月 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE41OHBGTHpGcF90S1JUZF9kWUdGaHE0TU9xeW9iMlE4Tl9ydU1ZeVlXYWR4YnhCenRaOU5zaHhRZzFQTmdOMU44REtBRGtodWh3SFI5R1FlRkIwR29wZHNFTVFka0VZaE5oMzZMTk1GUVpZQTdKblBvY2RiYWQ?oc=5": {
+      "title": "【楽天市場 半額セール】AIタブレット「DOOGEE U11PRO」が赤字覚悟で50%OFF｜Gemini AI×Android 16搭載、30GB+256GBの高性能モデルが16,450円！［深圳市道格创想电子商务有限公司］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rc0hKbnpHbzh6RGkwVU4ySkhPSGJ0LXh1NlV1eWRnTzBDZkxOT1lib0RpOHZmQXBFM2tyQm1RaHlGWVBmLUxpcXQwTFR4V2RPYzRtRDM3MVR5MUpkdlVVVHRrU0MwMndBOS1N?oc=5": {
+      "title": "【楽天市場 半額セール】AIタブレット「DOOGEE U11PRO」が赤字覚悟で50%OFF｜Gemini AI×Android 16搭載、30GB+256GBの高性能モデルが16,450円！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zWm1DVmpoWk53dVlLT091bkNZYXo3VGRhMV9KQmZ5UVNkNDJDMEdTeXluZHlkOXZSQjhDVWVBcmtUUXh1QVk5Y2pLOVh1UGlRdV8zem5LOTJ1LVdiaUQ2amh5NHNlTGNpLUNn?oc=5": {
+      "title": "うどん×天ぷら×ごはんが食べ放題！「武蔵野うどん小麦晴れ イオンモール与野店」5月20日(水)オープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVk9CSVRpZVZvR3Qtck9HeUotdnhaYjJyMEgtYVRDNmo1eU1RMlQyNU9RbU9VdjRaUWdaUlFaQTVBclZCdGxXQkY1akVzWHYxcms3eGhZRUk1eUU0V3hIOTJQVnZhekQwTm80?oc=5": {
+      "title": "EMSブランド「SIXPAD（シックスパッド）」本日5月15日、イオンレイクタウンmoriにポップアップショップをオープン！「SIXPAD POPUP SHOP イオンレイクタウンmori 店」 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50aG9XOVY3b3FwcGdSTHprRW5KVGVfdHpReG40WHF3dENrVFZ4VlBhMHFvWDQ2Z0xEcEk5OVhWQ0c2NVhUbHE4el9xdk41bmlCUUhGQU4tTVhza0h5aDBVbVJuZ21uX2VsMEdZ?oc=5": {
+      "title": "168万人以上が体験したストレッチ専門店Dr.stretch（ドクターストレッチ）『イオンモール堺鉄砲町店』をオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DOXZldkFTdjZxbVBwUFlYYkIzV1UzWGxpSy1IRTlKM2xBS19kS3p5ZlRDM2lsWmMxRWlZLURMcHN2WjdReV9LWE9LR01iYnNQMy1RRkFmZ29LVDc1TmxTblluMHYxTmtKZnJtLXUwVzVTRDI4eTJaUnQ0SXc?oc=5": {
+      "title": "「ボボボーボ・ボーボボ展 DIVE INTO THE BO-BOBO WORLD」2026年９月に東京・2027年１月に大阪にて開催決定！HPオープン＆展示ビジュアル解禁！［東映アニメーション営業企画本部］ - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-15T02:57:21.348350+00:00"
     }
   },
-  "last_updated": "2026-05-14T22:07:17.704178+00:00"
+  "last_updated": "2026-05-15T02:57:21.348922+00:00"
 }

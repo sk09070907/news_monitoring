@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rdzdpcVdMQUVLVWhENkh2WC1Eejg1dzZoWkZkcFVwdXlhQmgtRnlKMXJnZ0VRV1gxdWhCQXVaY29rWnpsa2pRQlBlUTlyR3pVLWYta1ctTm1nMEpqcjlwWGl2MmVEeGFRYUdQeTlkZkRDbXYtNzVmNGNNc1I?oc=5": {
-      "title": "気仙沼線BRT 自動運転レベル4走行を実施します［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T13:14:24.768140+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjVLcHJqUklHS182cWVSQVJHelFxeFR4aHdWTnFqWUtXVVEzQmJzUnA2c0pIZVBJcV9KdnNyb3hqRTB4Qk9VYjN3d0hCczQzcS1LRFhiZFhRZ25FRFh3VEg3ajFwMlZ3YW9wd0o1RWFXZjJzd1pIZ0ZUc2c0Y21qT08zYVBJNlBwRlRhblhGdFctSTJaRFhSa0k5dlBHWThiRURCR19n?oc=5": {
       "title": "大成建設、脱炭素コンクリを欧州に 三井物産と30年めど - 日本経済新聞",
       "company": "三井物産",
@@ -4499,7 +4493,25 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-16T10:13:50.208942+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1B1ZXRmNWU2WHFhTU5KQmlhRm5nSUc2V3ZoMzdBcHVoTDJEaG94UG9IZFNWMWlYNFpEcDFGLVVVMnFfQjhHN0lSeGpUUWx0Y2REMTBYcmVfNHNPSGRPclJEY3M1TWZiYkVUa2ZGYXhINTZENk5vMVB5aG1NT2ltSVlQaG9leVJNbWFVR0toNUlhTmRUQTNOb2hKdlU1T2lvTXNsQTRSa2I?oc=5": {
+      "title": "トヨタ、米で3200億円投資 テキサス州に新工場 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T13:19:02.014882+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0FUNFdFNUNOY094dG9kbFhTM0otUWxDOFdOeHNteE9PLWt6dVpKREhhbi0wUUVrTmdHT01mLWc1dWhUNnFSLWxhU0o2SG1OcFJrYk9KYmROVmNiWllHWl90S2RtakMwMk9oOWc4VG1kbEtnOUhDM1ZXNlAxYnFtUjJmUXQ0SE1GNXlTYjhHWHlpNHlReEN3ZUI3R3NtZVM5Ull2WkZIMi1Sdw?oc=5": {
+      "title": "仮想通貨投信をSBI・楽天が販売へ 28年の解禁後、野村も検討 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T13:19:02.014882+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDdyNENmZXBTZDYyZDBYV24tM2VmTnZnUVI5emRxN1FmajZLdlFuMEpFLTZqdEJ1N1NzYWFoT2ttNTlONVRHc3Q5N2dHUlNEVlpXY2V2Zml4Y2lvUjZhblZnQXdkSEZTempQNWJEaDBCd002bmhYN1pfOHJHRHZpc0tyUk5CVXV0TmJMSVo2NzZWVmdqc29Vb3hjUXBWVlB0QTJ2MVhWZ3M?oc=5": {
+      "title": "仮想通貨投信をSBI・楽天が販売へ 28年の解禁後、野村も検討 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T13:19:02.014882+00:00"
     }
   },
-  "last_updated": "2026-05-16T10:13:50.209579+00:00"
+  "last_updated": "2026-05-16T13:19:02.015852+00:00"
 }

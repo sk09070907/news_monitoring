@@ -1,119 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN00tS2UydHBrWkJzWEtVQ0tNcEx0RmdYM1VzSF8wek5Mc2tKcEtXay1nd1pfRTZnNkJsbkVYbWpnQndacXE4Q3FheHZ0Q29PdTNXbm1DX2xlWVlzdk9ySnBxaGtKYVFyNGRPMVkzLWhvVHlXX184Q0VRcXVWX3Y3d3ZHVnRseXNZTGhCTEc4TGdPdGNZSWJkeGk3SGZiZ3o1SzFRcnNB?oc=5": {
-      "title": "（新トップ）NTTファイナンス社長 小林啓太氏 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzM0cEpoVkFfMzdJR1pyU2cwcnhGcDh1STh0RFhoU3FVV3J5eTJuVnVTTmFEVlBiUUN6MUpwdnc0ZEgxaDNlQW5BTHdvTW50Rmw1T1dBdnR5NkhhWG5IVGpFOV80TWNBZXB5TzVVSjdGdUM0QkdUUXRlemJXeEFLVWZPYWh5VzAtdXI2ZFpLaTFsdU9VSzhuby1kNHlTeFRIZnV1akln?oc=5": {
-      "title": "NTTデータG社長に中山氏 一体経営を推進 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2cwS29rNUkyaVRxb2lsX3kxLWF5VlhYX0UxVWVZcFpmekxZT0FaU2ZqVXo4MnExWXd2WlBZSlNwWWRYZVBacFI4MkVaQkhDbEtBV01KNnhWM3FIZkcxUWZ0U25Dc0g5dzM0M1JNX2tubVZJeW5YbUt1dVBDUXNuazYyLVB3cFkwUU1sSERqTTZLanQ4N3ZnU3BHTGQtRG1zUUVjMjZR?oc=5": {
-      "title": "NTT誤算、成長投資に陰り 頼みのドコモ、顧客流出続く 利益目標を3年先送り - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYYk1JdHlxMU82akZzRUhXdF9UcUJjZUxrWkhvck1rMU1CenpXVWhmZWRpR0tUdnowWWJ1M2lRVVYyRXhZQUtFekMyUFIxLVhFNHlfUGRiMEpsWUNhbzdzN05LdHBqTmRoR1ZyTw?oc=5": {
-      "title": "豊田織機、IHI傘下物流を買収 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWXpZRmktSmJlaU5pT3AwSi1XbUJ5aXBNUnJIdEcySUZMZlFGak4yc0hTSTd3ak1uelFTVlJPc1BHRWowa3dFQzFIekRfZkt2eTRBeHBQZjZqTzBLVTFqRFY1d3NWbnN6aXo4Nw?oc=5": {
-      "title": "IHI、3年連続最高益 今期2%増、航空・防衛好調 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUktRYWZZWnVqODNSME45NGZ4VmRvMmlMcWQ4WGN5a2VXVUhBU0FvUDF4YzExSFUtbTA2ZWdaNDRydUt5X3NCdjV0Z3ZuNjBETTY5OXo1Snk5TzJ4djdycDRUY3RXREkxcHFYWnNyRDZRRHoyeWs0N05vQlAwWDRfaVU2WHJyci1VaDFGbjlXTjA1NjU5QkJsX0Vhb1lCX01hYmNsekxiRFQ?oc=5": {
-      "title": "トヨタ、供給網危機に対峙 グループで部品・資材融通 「損益分岐台数」下げ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTVwZ2loTDVlU3JmMENlM2VlRzF0MU1ON2FLaEgxUnNuT3gzLUVVTjJteEJmdWxFajdSSzRIU3BkeF9WUm1CWUYzeU1EX01JdnE1bGowaHVEQ01EZXROUTNmcnc1bkdNX0tEVHdvLVlsNktiZF8yNElCSnNfd1kzVkhGbWdsM2FteWtNc1Viai1wX2twRGFBLTY1enZJNnRXN3ZzbHJHZHE?oc=5": {
-      "title": "トヨタ社長「自ら現場で原価低減」 全方位戦略かじ取り - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yVGZTSENOSEVrT0paUERVS1IyWWJmdDhNeG82QjRJWG1iN3k5YkpXdUphRHp0Z1VRUlo0STZjakdqQ0x2cTdKMTctdFJacDJwQVhORVFCNWxIcXpWOGJnU2NFUF8?oc=5": {
-      "title": "画像・写真：トヨタ自動車のオンライン決算説明会：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjdGZ0R4ejZxSlVEWEkxT3JLNV9NTGpVLWUwaWdfSHdJa19NZVRaTFlwUGVleVhtNUpJVUg3eF9XVC1TeERUWGJ6YmFnYnBCSkZjVXZtWkxuQ2NHRkE3VC1RRnBUNjh5RmhwbkRRSGxKTEllMzB0SmdPTjhTRXN3ZHAweGJzRVF1b1QtLXFqR0ZBVHZvTlc5aTI2VV9JbzVvNVYyZ1BB?oc=5": {
-      "title": "関電、美浜原発の運転停止 蒸気漏れで - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HSmEtMHAtcFFHaC0tbDB0RWR2ZmtwdF9XZmlrUE1mMHZBUi1aVnp3ODR1RHdzWnNRWjhMU3Qwcjl0N013LXY3Y2QyLVRxOVZLaFltRWV2NjQ0clhNQlJFVHJuWWlHNklLa005OQ?oc=5": {
-      "title": "日本株ADR8日、買い優勢 ホンダやオリックスが上昇 - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE92U2tZOERneGswQjA4dlN3SV9sVHNlSFNfb3dxMTdoeXpUa3NjM2tBZTctS1FyeWVMbXhuX1dJMDZVZ3p2NzVqN3Q2SnBEWjZnMW5VZmxnczNwNHdYYTR4c1pjUEszTU5reU11Tm02NEhQRk42OEstNF8xQ3g?oc=5": {
-      "title": "JCB、資金管理・キャッシュフロー改善ポータル「Cashmap」の地域金融機関向け新提供モデルをリリース［JCB］ - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbEtkVlQtOHhhRHJCT1lKbWJFbXYzQ3lPTC1na2c5YlZFRmNfN0xlenAzTDZjU2RCdmFtVUR3NjJTcFBqaTVoMmNXYjQ1N0UtRDd1TTFWdGtlZmlEVWM4Q0ZSZmxCWFp3aGx1NUE3MHRzdnlqQm9sLV9kOVo?oc=5": {
-      "title": "【マコトとキロプモンが過去に交わした約束とは？】TVアニメ『DIGIMON BEATBREAK』第30話「君を守る翼」あらすじ＆先行カット公開！［東映アニメーションデジモンプロジェクト］ - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-08T21:56:53.192283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdm5VbnBSdEtLR3pxQm9WQkN3aW1BTDB0YjE0cGtDZE1Vb252cVJ5OHU2NkxiV1BDY0cwRG5OTER2c0ZXNDVEbFdPVkVOX1ZnZmc5dGVHZDI2WFVpX3hhbWJuc0dMazd0NkE?oc=5": {
-      "title": "ＮＴＴ[9432]：OTHER MATTERS SUBJECT TO MEASURES FOR ELECTRONIC PROVISION - THE 41ST ORDINARY GENERAL MEETING OF SHAREHOLDERS 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE05QUhpczdlNnRfeDZSWkpVaHl3cWZ3TkpGWlZPX1l2Q1VzalF1OUluTmVwTi1qTHdxdUZuUXlwMzRlUW1UbG00RW15Vks0N3dvM0YyWkt1bnloYXAwRWtpS05xQi1ZNGExakE?oc=5": {
-      "title": "ＮＴＴ[9432]：第41回定時株主総会 株主総会資料 別冊 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vU0xKZkUzc2x4R1JHSHZvby1zcXNIemZxMUFZUmk3Z1ExeVVwdklVS21lU0hVT3BBcVVqLWR4UEE0YVk4RXRya3dabmVESEZhWXJtZkJ2MzFhNGJ2dVJvOVNkWjVnbkhNOFE?oc=5": {
-      "title": "ＮＴＴ[9432]：第41回定時株主総会 その他の電子提供措置事項（交付書面省略事項） 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pTmZXWkNWM3FLOUp6TTk5REp3VHMwNGdiZlVKajZLOEI4bWpMb2NMSFgtclpwaWR2M0pucFBMWEhXQ2FVZV9WRW1jSF9kN3JGdWtKaF9nMjVSLUh6WWRHd0ZFd1FSM0ZrT2dZOA?oc=5": {
-      "title": "NTT誤算、成長投資に陰り 頼みのドコモ、顧客流出続く 利益目標を3年先送り - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclZtNVlMR3NDX2FSQVdaTG1Sb0xfeUY5Y2tpLW5LUHU0dk9ZdFR1eklQZWVWVV92XzI3Vk56UHl4NEVlUmVKUFF5S1BUOXh6bXlmeHhSdEVtN3VYRkZHTG9UQkRPRjFnWWR3ZHVZcE5TbV9FNzdQd3h4M1BVNE05R09MRWh3TTN4UTZBV1Ffd2UydEhybDhtWlp4VTFLRlBQYkNPZUJzLWM?oc=5": {
-      "title": "NTT誤算、成長投資に陰り 頼みのドコモ、顧客流出続く 利益目標を3年先送り - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50b2lTSmFtUjNFM3lVZ09XM2p6UC1wbXNnQml5RjhOUGEzdHlfcVl3ZkpSQmF4cVl0dmo4eVJtZTZvOU5sMmxDWjdGMXF2QlducW9xOVJTZXFsTFlXaUpFcXNobw?oc=5": {
-      "title": "販売好調も「稼ぐ力」課題に 近社長、利益改善へにじむ危機感―トヨタ - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hdlp5N0h2ZDd4S245c0NxYVhSb2cyNXNpMzEwRW4tTDgxNVBKRmkxNWlNOXVVZDNUbnhYc3dLRVc5eFd3eC1mSUVxLXAtTG91S29VTjcwcXNhZXF3UFk0akxLNEZsRGFxaTdIbThUNF8yMUtoUVRwN09EZEY?oc=5": {
-      "title": "線路内自律走行型ロボットによる線路点検を推進します ～技術の「深化と進化」による安全安定輸送の更なる向上～［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-09T02:41:54.824375+00:00"
-    },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlJZbldjblg1X0t2cnVLbTBHck9walRFWXA3azdkeEZYQ0g1TGhPRDQ2eEM5N1UtTy1kVlAwaHp5RlJvdERoWkRIel9aMnZuSnJLVnpWYWY5SXoxZ21uVWJVNUdteEdfU1BCNU5aZ2xJRl9mYTRhaWhzZXRnWlo3Q0tLZ3BGQkZwN3RvMWQ2OURaUWQzMGVoOWM0U0tHZDZvZTMzc2EwOUlVaXZGeUY5QW4zbXFPOUVFcUFlUzBKcGJfY0ZvMS1SNWdiM3o?oc=5": {
       "title": "ＮＴＴ[9432]：OTHER MATTERS SUBJECT TO MEASURES FOR ELECTRONIC PROVISION - THE 41ST ORDINARY GENERAL MEETING OF SHAREHOLDERS 2026年5月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "NTT",
@@ -4541,7 +4427,67 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-05-15T21:56:40.466878+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE51THdpZUo3TElBMGotMzllYkQ2OU9BTHdOV3FHcHhpWFMzNVd5UGdaY0VSdG0wUWZwUFNsZVE1T3JBMUFoTUtvR1BGbi1DeW5VdC16VXIwQVl1S21LQjRMakxlWlljMmFobXc?oc=5": {
+      "title": "三井物産[8031]：第107回定時株主総会招集ご通知 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtZXBCV2wxNmF6RE1sS1dPc3g1R1lSU19DelpONk0xcVg4N1pTaDQ5N2lZeFVRamFIZVlpRUdyY1pqZkwzaXpGMEVoRTkycGlyTVlCbDJBd0FCS1Y2UUgwYmRDU1VPVkNkUXc?oc=5": {
+      "title": "三井物産[8031]：Notice of the 107th Ordinary General Meeting of Shareholders 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wR3dnckJ4RVotVmRMU1IwOUtnblExcUNCcDFXSTE3cTBNZzBoeWNUaEh1dkZkUUZyeTZyM180cDN0emtkZ0U1cVJKeVdQandiODF1NE5jcTZRZmZvYU02TnE1cEp2U0xGdkE?oc=5": {
+      "title": "三井物産[8031]：第107回定時株主総会その他の電子提供措置事項（交付書面非記載事項） 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHBhWmllODYxcG1sMU5IWUc1SVJoUEFtOGNjLUxZcjZLRkd1MmdYQU52Z0JaUy1jLTBQWFJfdTA5ajA5a1ZyR240X1hweXE0dmRMazlrdGt5OHNmQm03anhqQ3pueXJNRnJKT2FTQlZyLU1IZS1obUp5MW5JbjlqVFIyeDVZM2otY1l0WWI0Tm1OT1Jjckl4Znk0MjZkdlVXSHZiLVBzOHk?oc=5": {
+      "title": "東芝、純利益7倍1.9兆円 前期、キオクシア株高寄与 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pY3JTYmdsZGNMWlFhaERMY3Vfa09OZUNOSzZqaTNLY0ZhUzJlRWh5a3o2UDJpWHdQRndOd05KMjhOQWZtVmxza3N5MkdwZzdtS0tWVll0WExNZWZmS01haDlwaUhQYnNCNG5v?oc=5": {
+      "title": "AGM Mobile、楽天市場「LIFE＋STORE」にて軍用規格スマートウォッチ2機種を展示 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQi1COEZDSWtGRkZVT3ZPaGdjRHFkempzdkl4MzZaLXBoM09vLVY4ZUx6REo0X2ViTURMV251TTluY0tIVEZhWUtPT3MzcHlkcUhVZXhvMllybnNYbFo4OERlVXBQNDBOZnBIWGlPRGRXN0dGLTVVVGdySXg5WWdzUlJLREVaTDZRaHBRUVZYbldudzExQlJLcG90WG5yZEdTbmc3WXVfcGpNanBZYmVYVW1ZbnJBRktTc29GcWk5V0JneEo1OWVUdktpZXY?oc=5": {
+      "title": "ＪＲ西日本[9021]：第39回定時株主総会招集ご通知 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "西日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aQW1vQlEtTDRZWHpLdFR3VmQwZmtNV2M1UVZnNlhrNGFjU2loTkpyUkJ4T0dUR2lvdnJvZEdtTTMtMm90d00xaHpRRkhIUW9Da19iRjBjYkFleXBrS2MybG5HOVpzbjZVY3c?oc=5": {
+      "title": "中部電力[9502]：その他の電子提供措置事項（交付書面省略事項） 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Pa0F5blhpR1phbUhGSTYybmdPVVVBclpGUlBaMkxVdGkwM054YVJPU3JKTjJDZVFIaHI5MGYxYnB3RmI1X2l0dWtHaE5ESlNzMGhHa2xRdEJUTmZiVWZSM2xneUZTaGxfNHc?oc=5": {
+      "title": "中部電力[9502]：第102期定時株主総会招集ご通知 2026年5月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWVV4QVVFenE5alByYmhPbXBfVGxxTHdsNjFOSU9xMEQzRkEtb1pkQS1JLXJHakNBVGJseTZpLUZKNXZsQUNMQnBnUjZkYkFKeVExNE1xN21PWFplRUFjYWxB?oc=5": {
+      "title": "三井住友フィナンシャルグループ[8316]の株価・株主優待など。 - 日本経済新聞",
+      "company": "三井住友フィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XMHJYOVZGVDl2UHJqV3BZT0xMZ2pPa19qQ1BUdTZocDZtMWw0bXVXeTNRWHI1QVJuOXlMUE9CbkRhQU1tdHVybEx5RnF4OEJwS21CMnlWamZjZ1Y2SFUxMThrNk9fczZ2bmlNVU9WTmktYW5oME1aTXlTTlE?oc=5": {
+      "title": "期間限定のプリキュアPOPUPショップ『おでかけ！プリキュアマルシェ』オリジナルグッズのラインナップ公開！鹿児島会場限定の描き下ろしビジュアル・オリジナルグッズも登場！［東映アニメーション営業企画本部］ - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-16T02:45:22.605427+00:00"
     }
   },
-  "last_updated": "2026-05-15T21:56:40.467290+00:00"
+  "last_updated": "2026-05-16T02:45:22.605844+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vd3ZFUkxzUi15cWVrdWlpWndPbm9zZFJzNnRpeEl0UHhORUVTWkRnekZ2Xy1jRVVZbFBSSWd0dXBRVEtBVWwxRmlJaEhiWmhYSlhIRG5CMHlYeHhBZEZaSDUyLWgwVUdFa2Nv?oc=5": {
-      "title": "【MOTTERU】5/9(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-05-10T10:13:14.085745+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVm1WSG9qM3F5RGRBYVpGTms2SW5KbmswQkIwQVRsd191WWYwRWdTUUVucFFqMWVRa0xLODJFT2oyS1N0cXdtLXA4RlJrcWlJRDV2QmRmY3pOOEgyeHNzd0pUQUlkZXJCMUFIY3g2Z2tfUC1mNWZCd2MxOXNTRWRMVC0xcXlJUU14T0ZETA?oc=5": {
       "title": "東芝“解体”の現実味 - 日経ビジネス電子版",
       "company": "東芝",
@@ -4535,7 +4529,19 @@
       "company": "東芝",
       "source": "日本経済新聞",
       "seen_at": "2026-05-17T06:22:17.112738+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE53enNBVlRmejZuZ25rcm5CQnZHd1plU0xqMXNsdnFUQ09CaFZ3ZERlYUdobjluZGVhUkp0bzFNdXVPZGxTZ0FvdDgtdjlod0s3bE9VUVEtNzh6a0ZDdkR5ZHJRQWRvdzBuS2xTa010b3hfTTJSa2N3ZE5TUTc?oc=5": {
+      "title": "日本初※のフェイズフリー「床下浸水対策資材」の検証施設・公開実験見学会（5/28に埼玉県草加市で）［デンカアステック］ - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T10:21:53.366557+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oOGxjTWlidWpLTVhwRjRnQXE1WTVFQ0ZtVXRGY1h0VEVfYUpfVlJPUFVVRy0weGlGZDN6WVp3b0Q0LWtpMjh0d0NNNm50WFZsUjdnUU4zM0tIUkI4WXhNbFBqSTdjdkFjZnYtdEpja216aUNmVE4ydF9xSXY?oc=5": {
+      "title": "マーシュジャパン、ENEOSホールディングス株式会社からENEOS保険サービス株式会社の株式取得およびENEOSマテリアルトレーディング株式会社の保険代理店事業取得を合意［マーシュ ジャパン］ - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T10:21:53.366557+00:00"
     }
   },
-  "last_updated": "2026-05-17T06:22:17.113157+00:00"
+  "last_updated": "2026-05-17T10:21:53.367224+00:00"
 }

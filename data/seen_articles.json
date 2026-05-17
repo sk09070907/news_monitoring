@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yU1FDcllWS25KTFAtem9vU09XNXRhQ3NYcGhXSEJET3pfUWpRVFR4QlZ1S0ZLZ3BkRnMzZGlxdnNKbHZNWGltT21vRE9pNV9CS2xNSWczZTJ5UmJxZk81eUNPMDl5MlBEdnhJRA?oc=5": {
-      "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2ZOMEllMEg0eXd0MXY3VDVpeXlBYlExd0xwc2hpSlYzQloyNGoybEN4Y192VWZwMktnWDl4M3VPRUJDckNQUVd0ZFNYWVhSUnNxTmFNSUw0ZEVKS3g0aVNQME85NDVCakxwanRNbVppbGlSdTJSVWpCZmdYUElaN1VhanVySXI2NWFxVFpLZENOMEt6ckdPc19kb18wWVh3eWc?oc=5": {
-      "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHFfNVh0eUN3Y0VpcnkzTmJ1Mk4waGxKbTJjN1RDV0tTdHpNRlotNEJjeU1maFkzY3A0QWc2N3BDbE5oNF9SQzBQSDBOT1owQk83NWo3cnlmQjlJZVhQYS1ReE5hdGRBd2lQc2xDMEphVTUxSFVjUlJHbVdLU24tem5ONkVhdnRWYWZwX2s2OTNsVzhkUkU5ZEhRMm5lbS14U0ItUndkZjE?oc=5": {
-      "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalFtSjcwdTczanRNZFdQNlhwdWlrV1RpQy14a0s4aG50LWdPOHVUYW9tVGJqbm1wZUhVYnEtY1F0ZERHc3h5SDFLd3BRVE9ncFN0TVZORXlCZi1YSXRLYWRLWEE0b2NvdzNyZnNObzh3VURuaFVxZlpfY3hCTVZ1NmNXeHBXVlhLSm9XczhOcDEzdkVvWDcwZER0Tjk1eVVwSW5vMDNRU0k?oc=5": {
-      "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HNFpwODIxTkZ0Wi1fbEEzbk9FbEhCYXhPRzFNeWpNWmJpN0FUUk15ZG1TdlNYaGY2dndnRHh3MWhNVno4aUNYV0JadDluckhUMW1GbUxnZHc5TGlzS3JFUmpfalIzSmdxZVpzbg?oc=5": {
-      "title": "三井E&Sの造船ドック、スクラップ会社が取得 洋上風力関連作業も - 日本経済新聞",
-      "company": "三井E&S",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjkyekNkUmJXM3Z6eXVTRDIzbkRJMHdUdk1UVXRNUTgxa1ZoU1doVWdHbDZxZGFwT2M2bWRucHdTaWVzS2ROeDlocjl3OEVCRGNVZ211WTlLM2laRUxfeWNsdnA0VmhZdzg5QV9JZkd3eklJWmJnaEE2ZmhJa2JRSGhfU1lKV1RlZVRvc0VYNnhJd3didVJZWVBJNFNXa1R0Y21uYzRDcUk?oc=5": {
-      "title": "IT集う福岡市 ベトナム新興は100人目標、トヨタ系も開発拠点 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fTEFMS3NTUlk5V3BhTW9YX2RxYkoyZjJYUm9BT1UwbVJsTGE5QVdtX1ZqOUhXdHUtY0JmaXY0VUduNUUxOF8xNGNUTVVaYWNlbUdld0phYUMtU216dEZPN3pISGxZVVNPMXBkdg?oc=5": {
-      "title": "三菱UFJ銀行、企業の寄付金を成長分野に 半導体やヘルスケアに仲介 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkdGc2EzRGl6cGEtOHd1czJIejFsZE9GQ2VQb3Z1SmFheUZJc0lsVE90TDZjSG5ESWpEcVNLUkNLU0pTOXJNRzRXX1BUSnl6LTdfdFBJcmRJX1lkeWZwSWNRS3g3ZjZJRkdYSUZPNl9zVnB2TVZIMXBLSzZpc01zMENUR0RlVWEzekJwNUhyMFYtVTdGYjRzclNZRDZCTnctdmllMV9WWW9sZw?oc=5": {
-      "title": "三菱UFJ銀行、企業の寄付金を成長分野に 半導体やヘルスケアに仲介 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T21:43:16.941658+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjRRcUFYQjVOVmd2YUNRdTNkWUdTOWt3RXJTYWdrYXRZNjZHblpIaG9hQk5IZ2ZNYU9FV3ZRektWNERFYjdJazQ4TVFtTFlibEpGVmNRX1Y1dHU2TzlzU1I2azczUnNkVTlDNFdGRC1tVWtueGF2UzgxeGxTT0s2amY0Q3c1R2ZEVS1ROUVHcGt5SGFhM1RoZUpMRG1YSWNCdFE?oc=5": {
       "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
       "company": "住友商事",
@@ -4547,7 +4499,49 @@
       "company": "日本生命保険相互会社",
       "source": "日本経済新聞",
       "seen_at": "2026-05-17T13:17:14.790952+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSXBMZ2NlbG5GdmJfTTJHQjRwbjZZSVdTSTcxUzk2SHAzWWh4THdsQ1F1MmdyVTdvb0FsbG95S1VORXdLak52b0pVT2I2NnVlbVp3Z3lERkd1a2NlVDBlbXVZVkpOcTFrY1pnbg?oc=5": {
+      "title": "伊藤忠の知財会社社長「専業で海外展開スピード上げる」 欧州も視野 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0tNMThfOXpQTGwyd3dmMFZuOTdmRUVkbTZYaDlGelBfQUR0STdKRVlmZUtLLUtnWUJyQ2ZmRUpPZ1FNTVg5M1RGc0ZhQ2dubzVHYUxZWUdlZ3Y3NXRndndVS1IwVm14MkZmcVF3Q09lbmw0VHVVZTNVZ2NRb0F2ajdTMjg5TFpGV3hOdk5pbWJBZHZSMnlLaTV6SHpyRWR0alE?oc=5": {
+      "title": "新卒は必要か ENEOS・クボタ・大和ハウス、採用大幅減の真意 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZkVwNWM2YUhtcmNvdThlT2VLeV91NXhnbW10NEstX0xOWUoxcTE0YXg5anJlVVdmTUxmVXdVbHVRNXZNeDZOOWphT3RLUk5uVkRtY2VGdXRIZ1EzZjVnYzF1WWZ5ZG1feF9OTQ?oc=5": {
+      "title": "トヨタ3列シートEVレクサスTZ、ボディーの随所に見せた静音化設計 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N1J5UkxRRjU3Y09fMk1BYTR1d0xVaXN4Zy1sVmpleHdDa0p2WGprMS1MRy1GUks3czBZbmc4UFAwLWNfYzB6THN4UlZyVUl0d2psSjhoaUpUeFY2aTVBZ0pNVWgzQQ?oc=5": {
+      "title": "楽天ショックで「広告内製化」一挙加速 代理店の役割が大転換 - 日経クロストレンド",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmNMTEh6UU1JTW11N20wYTc2YWFnTUZ3WXQzd1R3cUVDdTFCSFZwdjBHYXYyQmg5V3pNVUtJUW5JcHVXaGdqVVk2dWlRUExLTUVocWRoYTByVVhuRTFBanhqWmVSMmVqc1M5Rk15NE9CZ1IzV0h4SUZLWlBYQU9veER0dUc3OEUwVkFRdA?oc=5": {
+      "title": "商船三井船長 「水先案内人が来ない」想定外の航海で、肩の力が抜けた瞬間 - 日本経済新聞",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRF9sNTdfek1MUkEwbHBncEVTcGNiV3g4NDF6cGhOdEE1T3JVUjd3VWRvemM3TURkMnhNY2lxMGw3cVVpMG56SUhrWnJqOEpBOWJtamZWX0I5UkFGX0hKM0ZQeXhuaHl0MENzNGxydS1pYjhoc3E5N0M1Ukc?oc=5": {
+      "title": "GROWTH VERSE、山陰合同銀行のOMOの実現を通じた顧客体験向上に向け、自己成長型1to1マーケティングAIエージェント構築プロジェクトを開始［GROWTH VERSE］ - 日本経済新聞",
+      "company": "山陰合同銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGJLZ1ItcDY0NXp5RzU0czJELUdERktyWl9fZnA4eHBnaTR2dUxBNVZOWHVRVGZlU1d2d2x3dldQOE1qY002dUM5eU5VLUx3SFVnZVRCeGc5R0xvZGZhbXZtZnJYT1FnTEwta0ZCQ3JfclhmZ1NZWjMtQkRqZ1JoR2hiUm81LUMwbXNVX0EwNFpMY0pHVXdiZw?oc=5": {
+      "title": "仮想通貨交換業に上場の高い壁 間隙つくSBI - NIKKEI Financial",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T21:51:29.170343+00:00"
     }
   },
-  "last_updated": "2026-05-17T13:17:14.791469+00:00"
+  "last_updated": "2026-05-17T21:51:29.170910+00:00"
 }

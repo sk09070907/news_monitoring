@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVm1WSG9qM3F5RGRBYVpGTms2SW5KbmswQkIwQVRsd191WWYwRWdTUUVucFFqMWVRa0xLODJFT2oyS1N0cXdtLXA4RlJrcWlJRDV2QmRmY3pOOEgyeHNzd0pUQUlkZXJCMUFIY3g2Z2tfUC1mNWZCd2MxOXNTRWRMVC0xcXlJUU14T0ZETA?oc=5": {
-      "title": "東芝“解体”の現実味 - 日経ビジネス電子版",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-10T13:15:09.139272+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yU1FDcllWS25KTFAtem9vU09XNXRhQ3NYcGhXSEJET3pfUWpRVFR4QlZ1S0ZLZ3BkRnMzZGlxdnNKbHZNWGltT21vRE9pNV9CS2xNSWczZTJ5UmJxZk81eUNPMDl5MlBEdnhJRA?oc=5": {
       "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
       "company": "三井物産",
@@ -4541,7 +4535,19 @@
       "company": "ENEOSホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-05-17T10:21:53.366557+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MThDMFpxTG12RDFXaURScmlqZV84ZkFEWk00Y0N1QXFuMFhOdWtzNkxQVzJCbG5zVEF3d0x6R3VwbS1FeG1LOHIyWnM0Rk5ZSjlHQW80TWZTTWRxLXpKdFp4Xzg3NVZRNDJN?oc=5": {
+      "title": "父の日は母の日より\"奮発\"する月──平均ギフト単価￥10,426で年間最高額、楽天市場117,033人データを分析 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-17T13:17:14.790952+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jX3FfbWtJUVFBVXl6S21qZnFVY3k3c2UwanU2M3VBTUluVHFfWE1QRHFLbXdlbXBqOEVUYVE3Q1prU2NWR3UteHdvRlRmMG5kVkVaU0ZOajkxbEFJcW5YNEVLaEJoWWpTS29JRHFyS2hSdmJWOTBZTnZCVk4?oc=5": {
+      "title": "【事例公開】日本生命保険相互会社、営業職員約50,000名が活用する教材をデジタル化｜全国1,400拠点における教育の均質化と可視化により、お客様への提供価値向上を加速［レビックグローバル］ - 日本経済新聞",
+      "company": "日本生命保険相互会社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-17T13:17:14.790952+00:00"
     }
   },
-  "last_updated": "2026-05-17T10:21:53.367224+00:00"
+  "last_updated": "2026-05-17T13:17:14.791469+00:00"
 }

@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjRRcUFYQjVOVmd2YUNRdTNkWUdTOWt3RXJTYWdrYXRZNjZHblpIaG9hQk5IZ2ZNYU9FV3ZRektWNERFYjdJazQ4TVFtTFlibEpGVmNRX1Y1dHU2TzlzU1I2azczUnNkVTlDNFdGRC1tVWtueGF2UzgxeGxTT0s2amY0Q3c1R2ZEVS1ROUVHcGt5SGFhM1RoZUpMRG1YSWNCdFE?oc=5": {
-      "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-11T02:56:54.228720+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVUg1SHJEbDFvNjFtUUd2VS1oSkx0SldTZlo3bUoxSnUxZEU1dzg2ckp4bW9rTEhQTEZ2VU9jRzhYRURKVTZLdmlzbHZWUy1RZGZ6ZVdxN0ZlSlB1T2FJRTFXbnQ2dGFEQ25wOQ?oc=5": {
-      "title": "サッポロ、「サッポロ 飲みごたえ＜超無糖＞ シークヮーサー」を数量限定発売 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-11T02:56:54.228720+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMzFwak1fSl92MU02dXJPWnNJemhfX2o3Sy1LZWt6Q0s2UXpYbk1PLWxIRmkyZ19ubFRWMHBPQU1PelhtcENJR3lQWW5vZDRMcVNnQ3RVNFNZVmlzNHUyQ2hpYXBsbV9RMmNueQ?oc=5": {
-      "title": "トヨタ自動車株価、続落し連日安値 「割安感強い」との見方も - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-11T02:56:54.228720+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE05amtMUVhqeGZJNzE3WTdSbE5hSW1CX0oxdVd1TGhzbXA0WDFxVDFwZmZidmE0VE4xQjlJOTZhemhoRVQ3eUFhcFItLVZqZlVaNUd2bmtSMGZQQmpFU2h6OEJSWEhyMlhIUF84QlVOcUlqbmZaTTVaZlVkbEFsQQ?oc=5": {
-      "title": "実体経済に中東情勢の影 「トヨタ27年3月期の純利益22%減」など3本をお届けします - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-11T02:56:54.228720+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UNWs5TVdSTnJpUzFTclpwcnJlc0VpUzBrdGtHQlZoR3NWTVNWNEZBcDRQZWN6b3lDbW9rUjJJcE43czRJOFpTSTAtRFlYcUJPc0c0TGY2cDBqNFRyRUhpY3BPb0RLS3pTai1ld3BRR1VYM2pWVDhrelVFUHk?oc=5": {
-      "title": "西京銀行が、セイコーソリューションズの金融機関向けサービス「融資クラウドプラットフォーム法人取引サービス」を採用［セイコーソリューションズ］ - 日本経済新聞",
-      "company": "西京銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-11T02:56:54.228720+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTBOeW03cFNrYjdsNWluMXdOS0I2MUZaSVdiWEk2UTBsX3VXeDRMWEhBZUk5OWZGckdodWhDekFHWlcwVlVhT1RISEJyVENwbGQ5MVdkTENMOTJja2J4S0FxRkUzUjZ5T1VPbndDX2ZBc1B6WEtkMk5qR0R6NmR3ekhmQXFBU2NJRU13bzBsbHFIVHdZY3hPQTFyckRkdlNOYld3VkR1SU5zQQ?oc=5": {
       "title": "三井物産･住友商事、マーケ×AIに挑む 広告主のツール内製化に商機 - 日本経済新聞",
       "company": "住友商事",
@@ -4541,7 +4511,91 @@
       "company": "SBIホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-05-17T21:51:29.170343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cF9YbUZCeloxWVBDUFgwMjkteVNYQjBIYnJMWUc5a1JWNWlNT3FHcG9VWnN4aWlwMzhIWU1YdDlVcjYxM2ZSY1ZtN2JJWk5iSDVBOGZ1RTRsX2FBQzBOVjI3aUNjUnNCV0E?oc=5": {
+      "title": "三井物産[8031]：独立役員届出書 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE81dnI3Rll3dHlKOHlOczV5QWhmT0VRMVpOT05lNmpYWmtNYjhIRjFmdkcwck94WmlqdENoYm1yZHFadmNRcmp1ODgtT25mNDlFSVlPOERRUkZTN04xSDd5Z244UkhWeDNRNEFj?oc=5": {
+      "title": "トヨタ自動車九州株式会社が設備保全クラウド「M2X」を導入 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XYkQxQlNMVmRfcXhVZ1lFSlQyU1BQZkl3anNZUnZjS0t6R3Q5YjhoVERTdXlOdTRBTHFwOVBURUUxWWtvZkMxbFpRd3BaZExPQlJMdE9tRXR3RTZpVjVHUjZjVjhRSnZzRTNldw?oc=5": {
+      "title": "みずほが楽天銀行出資へ 5〜10%軸、楽天子会社再編で資本付け替え - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtcHkxTkZCUTJLMV8wUG9xM2FOOFZKTkhGOWlEMzNhX3BDOF9JWlM1cmxpYVJCTDVkWjJ1QWlRU0hpTmxVd2hnZzNMVlU5RHZZY3BBa1ljeTRFLWRGcE5KTnFxZ0VRUTNGcXc?oc=5": {
+      "title": "楽天グループ[4755]：昨日の一部報道について 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzdocEg2V2p1ZzhCNGxZT0dRa2RVaGtneEFKVl9UUXE5eGhsU2o4aWZSUTZWbXkzZ2pxWnlNWndMSk5yYU0wTTRBaVFTdFk2Q0FOSXdJaURVdi1kZkljblBQQTJ3aTRiRjBndkppNXgxME5YQUdfNEVwWkFKTGdMQVJ0NU1QaWJYQ2xucXRISXB4WEp2YUhEWGRmMkJNLVRTMTJ6cUc0Y2I3dmRHa1Zlbi1kY2lfc29yeFQwZW1LYXlzS2N0c3JxQ1BpVGE?oc=5": {
+      "title": "楽天銀行[5838]：昨日の一部報道について 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dk0wRi1kZVZ0eXpTLUI0bmp5cXFGV2dGbHZlbTYtQTlTNGlmczdwU0VnTnE1dTRRbHRYN2xyTWluWE1ZUVlmSXBQdE4waUhFZ09YOQ?oc=5": {
+      "title": "みずほ、楽天銀へ出資検討＝新規顧客獲得へ今秋までに - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaYnNBTGJ6ckpxRS1UVGd3VUlTcGRGRjQ3SEczbm1tdmZwZHY2aVAyUy1jNnFMOG44bVROWjN6dXpzY1dqOEZjOGVLVEJiVjRqZHV4Ng?oc=5": {
+      "title": "◎みずほＦＧ：楽天銀への出資も含め、さまざまな検討をしていることは事実 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FR3hVcmxmLXowaDV1bERpcTVQQU9fVmEwdHg5SmlYU2lveHlrNW1fbHc2ZXZadDFXYXhOR2lQSGllN3ZvUkNrZGJiUVJ1ZzZHZTZ5V0VNcm1OcmZOUEdiTll0aDAxZjRzNjZB?oc=5": {
+      "title": "「楽天ポイントカード」、アパレルブランド「AVIREX」「BEAVER」の全店舗で利用可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNlFHYnlDOVBNdEs2VV9IREo1WkNSOUtRODBOLURKZWgxanJ2NWlTeTEwai1YUVduWkQzWUxTZXJpQUVoNWpnSmhvQ2RoTXJZZEY1U2JQQ3dYM0pYLUVIdjdxazJnZk5vZ3c?oc=5": {
+      "title": "イオンファンタジー[4343]：「ぷにるんず」限定プライズ第5弾！ぷにぷに触感を再現したスクイーズに「ふぇあるん」が新登場 5/22（金）よりモーリーファンタジー・PALOにて展開 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmM3JlQWN0UVZEaU8wTDhlYmVZblFyMWRqUnl0QldUSTBpZFIxSHczLW1zTXJuUjB1NFdmYlpqVjhRNEY0NXFPVFRxeGpCMC1yY1ZJU1VBLXkzZHU3OTZKa05kb3ZxdW81dEtJ?oc=5": {
+      "title": "北海道札幌市イオンモール札幌平岡に「出張カキ小屋」参上！ ５月２２日～期間限定開催中！《 宮城県産殻付き牡蠣が一盛り８８０円!! 》 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdTMtejBkVll2SHhzbVdwdjJreDdRSUJWbmFTQVpIcHlqZC1JelpvVGNBQ1MzTi1OWHNvZnlQVllwNV9SU0JHdDV2dlozM3JwZ3NHQzJDZUpqdGZWeFd6ZG80RDdwY1VYMTRYNQ?oc=5": {
+      "title": "みずほFG株価一時7.7%安 27年3月期見通しに「物足りない」 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzFzaHQ1U1dyY21qajRFM080Z1M3RXNkeGFDZFVjVXVVaGFRM2JvYkxhRWcxYV9HMTBlY1M5dXhneUctcjhTdDBxV3hDdFFjY3BQZGktd3E1MTdSZ2t2M2hNSVQxQ3Mxa3YtdXBMUzZhQUpvZ00xRlY2VE5wUmVkRDl4cVVSclBfSUV5YmZlSnI2YmR3NDlKeUlWR3ZSQ3FJVEt2bzQ5aXRKbXM?oc=5": {
+      "title": "みずほ銀行、「あおまるバンク」を開発し第1弾としてみずほダイレクトアプリで「お問い合わせへの回答機能」を提供開始 - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRnAxUHpZVkRlSHJEUkRDZjlsMVBfaU5TNWFORmFzdmowUEFGUkM3QXNTY1cyZU40eC1QSG0yTDhKRXVZZUtSanVHS3FTQXNKNGVnbU51SUN3cGhBUDQ4b0ZTaldqTHJ0X3c?oc=5": {
+      "title": "大和証券グループ本社[8601]：「経営戦略としての農業参入」に関するセミナーのご案内 ～ 農外企業と語る「意思決定と実装プロセス」 ～ 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTOVhvdmRRT3FsWjZPa2lEVWxqQzNnVzFUZmhFbURjYjMzb21hY1I1aEJBUUE1a200WHZYckdJQnJESWNGaWlicHVHd3BTYnVVR29hZkYzWTM0ZlpBaFJPN0Zib3NYR2RiYkE3LWRIaWNLcDQ?oc=5": {
+      "title": "仮想通貨交換業に上場の高い壁 間隙つくSBI - NIKKEI Financial",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-18T03:32:23.022644+00:00"
     }
   },
-  "last_updated": "2026-05-17T21:51:29.170910+00:00"
+  "last_updated": "2026-05-18T03:32:23.023361+00:00"
 }

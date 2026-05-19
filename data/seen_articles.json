@@ -1,131 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNkdLZ1BseUNkaE15aUdQaHhkUEpmWGJncWhQRU9JWEdYQVJ4QkRUVVpQU1RzSFY5anZxdTZTN0ZjTG43NWhITmlHMUFDakFrNUM1N1FGSjJOMzZYRHhoX2xNdTFldk1BaWE0Vg?oc=5": {
-      "title": "三菱商事が経営に活用 独自CVCを3分解説 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LdTd6Z0F2Zzg2QTBibTE2N2hMUF9TLXI1VVVQV0hacHpDTmtnaUxPa3FiQzE0NjlIcXJfYWVzaDhIcmF2aFFfUG00Nkw0bWtuNFNXWkJESXBtYzQyWS1UdUF2NDNDZWdsM2lv?oc=5": {
-      "title": "住友商事・ＳＣＳＫグループのGran Manibus、AIとコンサルが協働する次世代DXコンサルティングサービス「業流」を提供開始 - 時事ドットコム",
-      "company": "住友商事",
-      "source": "時事通信",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUSHZJUlFZMnJyVHVIRm1CVHJSX2JKUWF4ZGpkRGdSMmtXakxWTDFKOWtNMk53bmdrN3dSa3UyNnVVaFBZWUROQ0NoSk9lX2diVFRHdVNEUENkMnZvLUhUSk1QRmNJdHVzc2J3?oc=5": {
-      "title": "NTTセキュリティ・ジャパン、「ITmedia Security Week 2026 春」にて「エンドポイントセキュリティ」をテーマに講演 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmp1dWk0QjlRSFRoU195Qm5FMEtLRWx2eTdYTWF4WmxTdzZ0QkJxMFlaM3FxVXhHQmt5Wk8ybmxLUTBZX0x6T0lzTE1OaW1BdWxuZGhnaWVSM2VUdU4zRWVQTURwY1NxRm96QjFnOGYzdnpQV3h6X0g4YjltLU9zS1dqODZiR252elBJbDhCdGdzWlBhQzhXU3FMVWpvTnNFYmtSLV8xOTA?oc=5": {
-      "title": "アサヒ飲料の近藤佳代子社長、サイバー攻撃に最前線で対応 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREZWeTdaXzEtVzFuY2lfeG9PN20yYnE4MzhBaFpaeGo2RG9DWjJpMlJsNnZXWEp5eFZnZ1J0UUN4ak9NLWRqajVzS2o4ZDBnZnNFRUVveTIwRWFPY2UyWERQWVIybnE5LXRFaHBQRm5qcGZEcnZQR3Awa01nYUVod2kwYkFKbWxOeWhHZnJzZ3BjOHljSlRrOWltNU5Id3AybFE?oc=5": {
-      "title": "ニップン純利益3%減 27年3月期、新工場の償却負担増で - 日本経済新聞",
-      "company": "ニップン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVnA3V1Z5d3hUTC1jU1oxb19SU2s5N2JpQkJyc3JZcXozaEYzOWQzUUFDUzRRU1RhdlhSUnh5NGRLUC1FZmp2SFpfS0tXWWkyREM5SHhLTnhYVWtjblFGR3RQbVJMdTJPX25QRA?oc=5": {
-      "title": "日本製紙、紙パックなど値上げ - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjVZd0FsQ2d0M1lrZkplX1JMdUp3RjV5Ym1WOS1BeDFLRzljS1RlVTViblRfVjBiRzV3eXZ1em14SGlpblRhWHNQNHpWMTJkVHBBc0JPZ3daMlN0Uk4ydDhUejNnUG45RUR0Qy1Bd2w1Y0hxMF9hMmxDRWtHTkRlanZMTFZsd0ZDMXpJdWtJc3ZtT1NuaGJaYndaaWVNMFVnMXlHTzFn?oc=5": {
-      "title": "野村絢氏ら、日本製紙株を5.11%取得 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oa1FrVGo2cUI1SWZzMGp3YjBGYkhGVkl4UTFMRG04Mk82QTdPQmxfeHhSN1psWHF2dHpRN1FIcEZ2M1JjajZ6TzVGUXJoWk1LQzVFTVZGU3doUGJ1aDc5NlRJSHNCQ0pZVDNvQQ?oc=5": {
-      "title": "野村絢氏ら、日本製紙株を5.11%取得 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OMmhqNHlxVlN6b083aVNFZVZrRG5tSVZkZkM1cVh5a3NCbEppTndYRnZsbEN1dFk2UXA2X0IzTU9lb1F4LUJRUHlTTzE5bE5LVGpUazhCZ1RONGNUc3EtQ0dQdXJRYXc?oc=5": {
-      "title": "三井化学、現場のヒヤリハット学んだAIで労災6割減 - 日経ビジネス電子版",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHVyeUF2LXZENlJpSGJCbk1LYV81TEdQVmM2bG5aOE5vZXd5MzRyTUI5ZGcydGZiODB5Vzk3dGNLenRwRVlEUGtrNk1xZlFuOEJ4VDVweW9hd1VjNUNUakowU0VLem9veURrX0FpY01wYjlBM1dZVVVKUDFRcnR5em9JcnFTOU1BSkFKNzRXSVhsd3VuOGpxdm82RDY?oc=5": {
-      "title": "2026 年 5 月 12 日 各 位 会社名 株式会社ダイセル 代表者名 代表取締役社長 （コード番号 4202 東 - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeHdkUE93cjZBblpFYm9FVGFpdUJTQlpzY3BfT0syNHR3QnBtVl9WbVJ0MzlyNUlVekpMWEJuUEp1RUNLYlc1WlZxdy1yRVpYWjFtMm5hdG5NbGw2S1VxRzU2Z0dweGRmUFo3d0dBYldTZVNVc3ZkV2F3WTdhd1N3ajVwVlJ5X1BaRUVzbFV5Y1p6eFVJWHBKWnZ2cmRaMkxsai1TOVVR?oc=5": {
-      "title": "太平洋セメント純利益89%増 27年3月期、自社株買い最大100億円 - 日本経済新聞",
-      "company": "太平洋セメント",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JZWhJbDJsRHR4U2JQQWdkTUllZXJZYUlNbENQUW5PQU1jSkpqcDJMelFwdjVxYUppdm1VcVJHSEVKUVFtWVFGVnhreEtIcU1IemJCVWdDM2lLa1lVczBNVU5GUV9FbmRuS0k1Tw?oc=5": {
-      "title": "太平洋セメント、今期純利益89%増 自社株買い100億円 - 日本経済新聞",
-      "company": "太平洋セメント",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Rc1Z4YTM4S3V3a094NUsxM09FbzlKemJ0VjZvd1EzT2tCYUxrWThzNFBtRk01TDZ2ckd1bjF0WHM2c3lfV1RjNTN4UHpJaDBTUnk1RlllTGJJREpf?oc=5": {
-      "title": "東芝、AIの異常検知の根拠を説明する技術 波形データで分かりやすく - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBST1dfUW1wYU9XUVR5STNTLVBXdHd6NnBJLThRZ0FuYjk5LU5fZkt6WTZVcTdOSUZ2NGR3aWM0YTVjbWZwWEF3V1ExaTRRUDdDdE90a3lsbE1zN1BfX3hJblR3RzBscG9qZW1nTQ?oc=5": {
-      "title": "トヨタ、評価と開発一体のクルマづくり テクニカルセンター下山を披露 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kSjZTZmM4VnNoNGRONm9hc0daaHNLSldtTlNrTkdkLUlNMGFaeElHNU9SVldKY283Ynp2UDNKSF9FM1M0VVZhV284RWRzeVVxSG9TaHVEYVdrWHpMRkgwZC01aG1lcHlCeFQ0Sw?oc=5": {
-      "title": "ネット証券5社、前期純利益24%増 SBI・楽天最高 鈍る新NISA、準富裕層開拓に軸足 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGc1TXpMeWt2VUhGc3c2OFlLR05SRjAzTm1sdzNMMFl4VTBWNnFhRjJiVTRDcDc0R0FUWjVZRk0tTGptdmFzZHF2X0kwTzkzNW1oeHV4UGZHaFNkS1VGNzlJUXZLNDlqY0dVdGN4UkdwcGt3eTk4ZWs4OV94aEZ0aGtZOWtLc1dLTXBRX1oxdk9hSE1wWGVfY0ZPRDJXRE1sSVE?oc=5": {
-      "title": "ネット証券5社、前期純利益24%増 SBI・楽天最高 鈍る新NISA、準富裕層開拓に軸足 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoOHpOOXZNWVZnXzBpQ3BaekZJck5YMlVQT1FkR3NjamZveGtheHBqaUY5elBmcEJvUEFwT2FsTlpBcF8yWDZ3NGdUWDR1TXItZTRrdnRsNWljbndtYU9WWm9WbFVDSTJIR3ZR?oc=5": {
-      "title": "【楽天お買い物マラソン限定】待望の本格派オートキャッチ「Ultra Catcher 4（ウルトラキャッチャー）」が堂々登場！4台同時接続＆30日駆動のハイエンドモデルを楽天マラソン特別価格で限定解放！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JMHc0akk5UFVIeFpZOTBkMlJ4YndZTjRxSXlYZVhDdDZQSXNYUDNldS10WkhjRnI1eENkTDdWWXFTT25hLTg2OEdSa0E1VG5QdkpwamdRUEJaaHRtdkc0OWZSNklwLVZnU0hPcmt6Y2xnSzZjZHR2QVAzajM?oc=5": {
-      "title": "小学生等を含む団体向けデジタルチケット「遠足チケット」を導入します［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUFRod2xnOTBQM1R0YU5TREs0YWdmX240eEZKaUtNNFEzMllLLWRONDdqQ3o1ZDlPQXhzWkVydWMyMmdlVnJmbE1Wc1NjNFBodlBnNEF1bXA2di00Uk11aUJnbjUzQy1fcnVucQ?oc=5": {
-      "title": "円相場、2026年末に1ドル=154円前後 三菱UFJ銀行の河上氏 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGdNeE5pNkFJUnpBcnVRM3p2SVVmdVFDdEM5Ri1lV29tZkQ1NVN4YVh4cmlwaVVNVV9ONU9LMl9WNDZnd1NnRWt0TmxIcWMxR0ZfSkx1QjBlQkd1SkFYSlhoRHRoQzNESHZ2MnRMS3NnYWdXRjNOdnFxS3doeDhQaDh1dTFfb0xXUS1zMFA2a3ZJakRwOWtwTzRtYVBwTEFvS3c?oc=5": {
-      "title": "ネット証券5社、前期純利益24%増 SBI・楽天最高 鈍る新NISA、準富裕層開拓に軸足 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lRUhxcm44NWtZS3VvSlU0QjliN2I2VmVtaHNQalYyc285d2pjZHhldlFiR2hBcGRDREpZaWdtN0lpZUJjVElpblFyb1g2ZWJuZ3JtT0txUjRaQm5JT0FZcG4wVGxOSFJXY2dNXw?oc=5": {
-      "title": "オリックス、最終増益 - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-12T22:09:21.044033+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNU5va2N6azBici1wQ2FLbjFmWDhINlhBSW51V1I2UkpFWE5VSTY5LUNkYXBrSTVKREhoMFpVSkw4dGUweDdONUlwcEZQOHlFSHJFRHIwa0pIM19PM0UyTnZ3RXV5cUxPZzFuUw?oc=5": {
       "title": "NTTドコモ、電話番号で写真・動画送信 SMS後継サービス今夏提供 - 日本経済新聞",
       "company": "NTT",
@@ -4589,7 +4463,91 @@
       "company": "三井不動産",
       "source": "時事通信",
       "seen_at": "2026-05-19T14:58:54.873170+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fQ1F3VjE0STJQZVp1MDdGRFhsTW9ydEpBQk9GSnBlYTlfNnNacm54bDVlcHg4TmhvOWlDVXB6T3g5RGtSZm1fUlRzT3o5ck84Y0dtWGFZS0RQdVFUbUE3WXNiNW5FclZpMklRTg?oc=5": {
+      "title": "三菱商事も持て余した水ing、インフロニアが世界大手への道を開く - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGtZUlgyNG1DU3hiTHBwcHRjUWV0SGdWMW5OSnVsbHVmUW9KZTZ3QnNCWEJLZU03RDQ0YW1QTlZwUjM0U2xsQ0M2amxCclp0azdyb25jVVpNQUJpd1BhT2hnNVMzTHFCeW82eEFFd2huUTlFaTg4dGNRVlczMm43S29YZjE5aWN2SEY0YVRwZ095WldQblV2ZF9majBtQTcxTUg1dmlR?oc=5": {
+      "title": "三菱商事も持て余した水ing、インフロニアが世界大手への道を開く - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEVRanNGaWR6WG5ZTWF1STNPVVJqQ2cxX01rOW5BQ1QyQVoyQUhwYmk0dE5BOS1hYlZhNExNc3BVZ19qbHloUW8ydndsdmxVV3VzYUYzaTNXa2JrUEtaaWd0c1d3b1lfTWVZRXBjZ3VjQTlScy1YREdHNEQtMXNzWkZJa0ZCZHc?oc=5": {
+      "title": "「光無線通信」で潮目の変化、NTT系注視 災害復旧にも - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pU2d6UHY5ZTI0OFdoenJ6NHhzZmcwV0VqYzFjYWZnemN5blJVOVlVWVllQ3VDZHRKVWlud2RSUHpyRE9kYVhfQVZ4UkNqWUJpYWY3NGNBV2dzMUd2c1ViLTZNdi1OYlE?oc=5": {
+      "title": "ファストリ・アサヒは上位、ソニー・ホンダは下位に 人権対応で評価が二極化 - 日経ビジネス電子版",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbVp2Y3ZIYzJQaFptMVVaQ0ppYkktMmx1eF9FOXMwUmlYVmJCbzhVUFJSQzVnSWhmWnhSQTJ5RXVtVHJRckZ6di1TSVlMcGhPSG81Tl9fU0M5bjZiSmhOczYtck55alFtWlkwUw?oc=5": {
+      "title": "三井化学[4183]：臨時報告書 財政状態への影響 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21Ka1NleHp3T3BDV19tMFg5QzhGYV84dTZKM005SEpxcThpUlFKRGV6dWJRbmxxd1pFUkhyN1ZvbEJhcDdKc2RGcFdmSmhTOWV0MzNMTzJfMGpPWmdkX3dNR3FJc1JzNlQ2Y3FfS0I2TGNrbHo3QmhjSFdDRWhwazB3QXVvR2hMb1Bpdkc4Qk03YzlFRXljMm1ROHkwdFNsTklhS3ctT1Q?oc=5": {
+      "title": "フジクラ、米で2600億円投資 光ファイバー増産 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzRmTmFhNkVsOVNXN1lib2VPaGJFYjd4WnVUaW5qQjJCZ3VXT3VkVmFHOExpZWhhaUpySUVCajdiUGlXd3dOWWgzUFpvYVVlSnB6SklMUWl2OUVaUTlHRFc4UW85V1hiSnBhRWp6WHpHWV9KT1lmNFZrUkgycm9NbGhHVU1neW5HckRoVV9zdjIyZWE4UlljSWQ3bmVoS3NESDB4MQ?oc=5": {
+      "title": "トヨタ｢米欧中でEV伸びる｣､ホンダは戦略再考 決算発言 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jdkNGV1VOQjZWeDBjUGFjbTc0RjRGMlJablZmYTk4NzVwZk9KVlFzZm5Kai1TclZ0Vk45QzAzOGNBMF8yZW1mczI2UmozVGw2Q3RQX1dNUmRWYVRjYXFYbHZQcDVYZw?oc=5": {
+      "title": "イオン民喜ぶ、出先で愛犬“留守番” 26年夏、旭化成系が本気トライアル - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xUWdmckdTeVk3Ymt4cmkxdXRHYS1oTnowNEp3ejhWZVFGSnI2OWZxNHRwYzdtUTUxRHRrVHlzaWlha3prMlRQY1NjYXVuTDNCeC1sSU1jclVRUHlYODRxQnBma2wtcGhTNEQ3eU9XNEdrMlNYMzJCMQ?oc=5": {
+      "title": "リチウムイオン電池を使った商品の火事が増えている | NHKやさしいことばニュース - nhk.or.jp",
+      "company": "イオン",
+      "source": "NHK",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaQ3JPTVBXSTVqdElhakpmOFdjM3JwY1V6WktwcUtDZ1hOZXpCOUQ5SUh0WnRIUG52ZUdPbzByamNwOEdUbGFtQkxTelk0N0ktRUF4VnhfN3FsSGZBWXFaaTFPRWtrTWloTWdnTA?oc=5": {
+      "title": "イオンモール：有価証券報告書－第115期(2025/03/01－2026/02/28) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオンモール",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHp4UUpIcDctLW5mQkRyV3RfLVdzc3ZMdFN6OGxRXzI1UDhrMXphMlIwS3pPXzlXZWNkVjFrR09LNUJxNndJRDBYZF9tX2xWd2NIdzJYUlJiU1pTQmVBSWRkWGNBTFA0UF9YSmdYSEw2Nm1BLVM3Z0NLWWh5VGZ1a0MzZ2U5MkdiNVAyWFVxaVJLX0hSWkxqTmJBUUYweXhacEE?oc=5": {
+      "title": "JR武蔵野線・西武池袋線 28年度から直通運転 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cmh3RmlpZGxhZnNQb3BsbnhxTGh3T3JLZDRRZGo1bjNjNjk3Um5hNlV4TEhScXZraW9DQTFvY0RPTEtDLUZWZjJodnM3NVpFZk4xdXVDMko1ZTVqalF1NEFNaHpnU2JJd25JZQ?oc=5": {
+      "title": "中部電力と丸紅系、低圧太陽光発電を400ヵ所設置へ - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Y0VSR0VaYURCOXc0ZlNuQ0l4ZTFXbFR6ZEJid09iSnRBTG9lMVpIdjVUd2hiNURtcXJLeTRIUDQwdHR6VVFNOW5zUEp2eXJwZHZQZHpkUHpvRUtDbkh2SmJrSGozRzl3NjJPOXJsczBaam95LW1F?oc=5": {
+      "title": "北陸電力､新幹線に水力由来電力を供給 発電所起工式 - 日本経済新聞",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2NKUWkwRUNCV3lEdDZ6Uk5qXzdlTEthU21OQS1wMUJWWXpjNU15aEVsRGJZazczWTNhYVpUN2lCQjlLb3psaHY1bmFrOUtYbng0RWNnQTdPd2YwYVlOb1ROQnJkS3F4VDFSNGZBQjFsTndMM0xFTkNWbVg0SGp6S3FMb21lZ0ZUdm1FQUFaNlZCeGFKRkhOYWlMM0NJb0hieWtpcXpn?oc=5": {
+      "title": "大和証券G、航空機リースに10%出資 代替資産の商品拡充 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-19T22:12:24.629967+00:00"
     }
   },
-  "last_updated": "2026-05-19T14:58:54.873795+00:00"
+  "last_updated": "2026-05-19T22:12:24.630657+00:00"
 }

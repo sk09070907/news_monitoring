@@ -1,113 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMmptMFFSMUNBNEF5dldVak1sOU5xM2I1U3MtLVVSa2RQUmQ2c3BCTTlPUUVqd09ncVN5dm1tXzMzMGtHc0x3MVp5OWctSGdRam9aeWFsWERueTV3VGtfSk1MVHJvMEZ5SEJ6Vg?oc=5": {
-      "title": "SIer8社のIT資格活用法を独自調査、NTTデータや日本IBMは採用や考課に使う - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xMENQRDRWY05SV2tPWTF5T1A5NFhseHdzY3d0VlBMWThhN25YLUJ4UF84SUNXN3VWdDJoODRjTnB1eFRxQkE2Qy1oT2h4M3JDZjZxOE9Cd2VueEMxVGktTGZLaEU3V1hVcnhZ?oc=5": {
-      "title": "NTT-ATエムタックがブランド再構築をめざしてサービスマークを刷新 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk1KMzNVdFRrLXhTbFIyYm1EdTFHbERlelRIS29hcW9wRmNjX3pmMzAybEVlelVuNU5wblIzcmlyMERsVFlXOUNDY2M0VjNoZWh1ejhSbklpbXpmVlFrRk53S3poTEVFRGZQXy1HazFuc1NlTDFmZ04tb2NnQUppZTBxZ2dxbTAydG1DU19tTkwwTTB3aXk3eXVkNS13Q2FCbHliVGNn?oc=5": {
-      "title": "日本製鋼所の純利益7%増 26年3月期、防衛機器が好調 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMUo0eEc4UjRMTHVaZnRUdXZNT0FYTTJRWmdLSjZodWVXOWdFeVZQUkN0Mkg0V2t6NzZGc1ozZFpBUHEwa2ZiaG5wYWp0Vnl5dW55clc0cWJsWWxCNE9zajZMSk1Bbi1HNk1tMg?oc=5": {
-      "title": "決算:日本製鋼所の純利益7%増 26年3月期、防衛機器が好調 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlMllnWkpieklSRGpleGp2Szd5Z0gzdEFhNVlOR1JtaVNzMWpHWC1kdU9jOEZMVUprWEFwa0YwV3hibFJlaFBfTEpwbGI1aUpqbmdLMWRqNVJ6Z0U0N2liMnNHRHFoYURRa2pZaA?oc=5": {
-      "title": "住友電工、10兆円クラブ入り AIシフトでフジクラ・古河電と競う - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONTVtVXRWMDdjWGRzNkFUUWVQSnd6QVdFU1l0QS1GNl9UTGNyQjhBLWRfTkpVN28zRlVndTc5UUp4VUx1N201Z241eHBUNHlDWERNZ1Rjd3JuZm9maS1pWE1JVV9jX09jaHJGTm5PbWFyN3NhVVBZcmx6TU4?oc=5": {
-      "title": "MIＴと共著で「三次元ナノ加工技術」に関する論文を発表［フジクラ］ - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk1pZlZ4Z3oyd1JVYlpIOXR3LVJCMTZwSHduQTNtdXhkOHNOR0djS040bnVWT2lXaUhhcjhkb0RUYkVQc18xX09IS1RuZV91NlNMUkU1dzRVNDg1Y0trdXRKbFhIRHBDRGhMc3Z6NUtHRXo4MnJUNWJ4Vkpta183SkJDcWFEakJKdzBPeFZvRy1jSG1uRDVrMkRBNzFMb3lOaXduZl9QbHI?oc=5": {
-      "title": "GSユアサ、今期純利益14%減 - 日本経済新聞",
-      "company": "ジーエス・ユアサコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kZHAtVlBlNGVGZDNXaGkxQ211SkFxZGt2MEh5TW5RUmE2c1IxQTRYVkNIYm9aUWp4akVhczlFVEttQUUzMVNPQnd1Znl6YUl5NmhGX1YtaVdzOHhsVkVvNFk1ZUo2dHNvZXp5aw?oc=5": {
-      "title": "決算:GSユアサ純利益14％減 27年3月期に360億円、補助金一括計上の反動 - 日本経済新聞",
-      "company": "ジーエス・ユアサコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFZ2RGV6WXp6WEFhOGN4eFFxX05Fb1pIV0pNMXY4ZDN0WEFyOGl3b2dabGs2MmEybXVrUktVNkJYMzdkR1AwWnhBMHZvc1U1M2xCNzRJZmlwaXg0M2dkbXJ4SEx1c3RtOEJVMExfTk5wNk0yeFhKbGI0QmN2ZnZrWC1lUndxNVdFX01sckFTTnBIbUJoOURVRXEtTFFTZ2pkeVF1dWdn?oc=5": {
-      "title": "いすゞやIHI 従業員採用意向 日産追浜工場 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWQ4TlN1LVVmeDBNd2hVMzNjaVRlRmc5bVo4cmRpSGFmY2duSUlSSFpfTlFaSk92ZlltN0VsS20zMTEzU1o2am9SeE9YNm5OdHRDc1UzZTI3dHVMZjhkcm9kTlhJZVk3N2lDSVMtR2ZBZW93Ync5YXN4QXBWVmtidnVPNW9jclE?oc=5": {
-      "title": "全固体電池いよいよ量産 勢力図で目立つ中国、トヨタ自動車は - 日経テックフォーサイト - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGhXZkUtZ2lOTndpVER1STVkV0NiLVE4bml4d0dORGI1YkdzZ1lTdVFDVWxERlYwVGRMSEcyUXd6dDFBb05yeWN0SWE3QlZEc19SMHNKT1pKTXRxTUh6RGpPbV9SajZNS2RqcEczSi1vMkNRR0Q1bWQ1X2VHWHJjUllydFNSWG1haXF4ell2ODRlVXlqOXZUeGpzVzhpRDJjRTFJVXFPMkc?oc=5": {
-      "title": "トヨタ、部品種・仕様の削減へ「エリア35」推進 狙いは生産能力増強 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjFjYTZBLTM3enlieUdSd09fM0NQRkcwRjFxOEZva3J3WktKQ0tseXFHRzFRaHJEdnNacjlPNnd6dUFuck5JX2poMWw5TUJGOHF4b05nSTIyS1RxZ2F3Y1BlMDRQbjNMcWN2X2V0d01SLXljNEs1Rk9yZ2lMMEpET1RzcU1sUUEyWUxhenFLUVdjNnp1UFVTOHZ1ZnZCSFZlVzM1bDdMOEc?oc=5": {
-      "title": "三井倉庫HD純利益12%増 27年3月期、医薬品などの物流堅調 - 日本経済新聞",
-      "company": "三井倉庫ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1V2hEa3RreVlPT0xfMnVhN05WODZXM21rcjlxOUtYZTVaMHFTS3UyVUxvQ2RmdzdQdnoxTS1vTjFLUFpHWUx2Z0s5QjAxVFFnR2QwTFlPTW1vNTVsQlRDU0lWd29oNmo3b1p2Qg?oc=5": {
-      "title": "京都信用金庫、全84店で窓口営業午前のみ 午後は相続相談などに特化 - 日本経済新聞",
-      "company": "京都信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlFSaW1rTkdCVG9vUnF0Q3VOcmJROXJCRzdfVWV4cFFTSlZyTDdxb3ducm1OVFFMNko2aUhMWkVNc2p2REpnNWZmRFF6MWJhRXNUcVVoVzNGbDNUVE1PSlVkUGllYWVoZ0VDMDhQQjNBaG1xVXFXSkRkTkY0MHNlaXVkbWJ4Y1BVSWNtSnVyMmNWX1hJNW01Q2ZR?oc=5": {
-      "title": "日本株ADR13日、全面高 トヨタやソニーG、野村が上昇 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYWwzUVk2NW1YbDNXU2M2RXBhb00yRy1obnU5UUNXcE1RZGdNbmI1MFJnei1MdHgwQVNXdnlEa3JiMXQ5OFc2RUVtNlgxYjZGeC0tQlZMbGxPRUhxUHZoOTlGUEpOeG1YVWlmMw?oc=5": {
-      "title": "日本株ADR13日、全面高 トヨタやソニーG、野村が上昇 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXJGOFZjZzcta090MWhETWo1akFKRGNoNTNwWGtXZHlFeWZiaFROS2I5aUlFdnhEN2FkaGFxRjhkWWdCcThIWl9xYlVUM000RksxN2dKRHNXbWRNeGNSMTg1UEFhekhPa1dXd3REQnlhWFRjcXA5dEFoTmhDelJTdkk1ZERRdnZpOFhrMXVhZmM4OEdSWldPT2NGc2tzck9kbV9yWUVB?oc=5": {
-      "title": "大和証券系、CCIと提携 ベトナム企業に投融資 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lb2FRRXozNkNSd19CUVBmRUpsU1REVzJSUjJnbGNXTXNnLVVDX2hIQ09oQkZrMkNjVExLODloMk55eDQ3d24zWl9WR2F0WndVNm9rMW9lNE9mVXpWUThxbkQ4a0dZV29BbHhWeWJiNjJQR0IxSTJMN0VuTkE?oc=5": {
-      "title": "新環境目標「SMFL Group Sustainability Action Plan」の策定について［三井住友ファイナンス＆リース］ - 日本経済新聞",
-      "company": "三井住友ファイナンス＆リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSYjEzdm1fUEFjcjVNVDZaLWhnMjJTRTYyUm1XYmhNYjBrVC11ZkgxdEJ4VGNkXy1FZkQ1cEV4akN1YkFjME5qV2swelMyYVZCdmx5TzdzVTUyR3FQRTVfQXp6VHZnQkZRRWlRUktSQ1lPS2tRVFlmX08wdks?oc=5": {
-      "title": "インフラ・インダストリー事業本部を新設、社会・産業のインフラ開発を強化 Oishii Farm と資本業務提携［野村不動産ホールディングス］ - 日本経済新聞",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-13T22:07:34.882213+00:00"
-    },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWC1MS1p2WUFzVE1CaWJ1WHRCWEV4WXBmaTJQcFhTcTdla25SWEx5RFoyd053cUY5dHJHX0FHTkFKeDhPWUV0bllMMkdDZnJPeHhFUU5oWTluUzdTMEJaWE55cmNPaEJXQzRfN1VkNVdkS2R1SlVnRWdsaWNiR0Fya0hOTGMtZHVscUtvNE40WExvUQ?oc=5": {
       "title": "東洋エンジニアリング[6330] : 東洋エンジの2027年3月期、最終損益は60億円の黒字：日経会社情報DIGITAL - 日本経済新聞",
       "company": "東洋エンジニアリング",
@@ -4769,7 +4661,133 @@
       "company": "日本ビルファンド",
       "source": "日本経済新聞",
       "seen_at": "2026-05-20T15:01:33.083562+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9URlNua2FmWDczY0RrVWg2ZUoxSVR5Wk9yLXVLcFBwdkxKa0x1bzBxejRoM3ZnS2FOOWRiN29KeFJ2c0R3Y2VDdnM0ZG1Rc29XT0pjeGVQdEVUc2hZbzZpSXRiN0VZc1RZdWFvYQ?oc=5": {
+      "title": "NTTドコモ、5G基地局の整備拡大 東京メトロでは100駅超で対応完了 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MFJUMlR3Nnk2VmR2bTdjYTRrNHlMZzNnLXY1YlA0b0RieDMzd3dyUXktVnJHQm9HczZORnZzVGRLd3diVHBuTVpOWGxaNGtWWHE5Ym4yMXBKejFybFhOMktuTHFjQTNfdUgyYQ?oc=5": {
+      "title": "NTTデータG、世界仕様のデータセンター相次ぎ竣工 大手の需要狙う - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kYkFHQloxVU1ndmpBT1ZjNVowd0JZaU5BdUNMaUNLSEd5MFByT2NPOEJ5dTJ2eWxFOFo3NEt4WlFkTDRPZ1BiUXZoUThDMWxnYTliQWhoQS1SMm1jMWdlR01mVlktX1NOR0RpRnNlcWF0cnk5eDZkcGNac2cwanM?oc=5": {
+      "title": "ローム･東芝･三菱電機、車載パワー半導体特許に補完性 統合は妥当 - 日経モビリティ - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHJ3MkV1b0pJaU9FT0dQTkgtWnJBeHhfU2NxaFhxVmZQQnZzLTEtdDJZcUV6WnAwdzJZdExFc3R5ZXhMS2VWcEVGUk9nbllkdk9ITXNzWUJkRWtxM3hPSmh0cWh6cllXYkh6bG5NZ0ZKV2J2ZGxjc1gxdk9fLW50dFNwNjNZeFpncnE4NjJsMXpPTUM2RXgwUUdUblo?oc=5": {
+      "title": "2026 年５月 20 日 各位 会社名 トヨタ自動車株式会社 代表者 取締役副社長 宮崎 洋一 (コード番 7 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VZNy0zRDAxNXo2R2V1djl5OGNzV0xhZzBpZTZET3Etdm5kTmNZYkNtY2VSTlZMUXB6Q1VTTG9jRzBOOWJfMWZJa3p2d1Y5S1Z5c1NJUk9qRnQzVVhqU2g4TXViWmdNbGZrSG9aOU1La3VWdlJBV0lVOUd2YnRzRm9zQWl6UVpRaVB0R3NrY3A3d2g1S0FLT1NEYW9yOGlMR2tEekpCY0E?oc=5": {
+      "title": "トヨタ、物流支援事業を分社化 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWWFXcGZVVXFlbWdPa3VxZmpKdzFhUW81RDJ4dXh6NkM2MDExQVF3eWQ1dEZ3Q0xmSU1NVGM4Tm9LOVBhaWVldm1HaG5SSHRXcjFLTkxxN2lzbXN5TnYtMi0xeHI0SVJJSEhnVw?oc=5": {
+      "title": "楽天、再編で年850億円利益 金融事業 みずほと連携深める - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnAxdGw1LVlQNFBTVnVjNG1BOG1udDJVOFVrNWdFSWwyalJnWGtVYWtLaUFIemdpREkxR2RJeEpCZ0tIR0U4dEFZd1drSXVpU3Fld2lQaTYxd3ZKLVlSbXZ3NEJhdFZ5dVMzZXJJNjd2MDlDMlZlWTc0UWpDRlpCeG03NFZxUWltaFZSbnNGdzYtOGF6ZGpUVEdWdUtSRTFFekF2X3Z3?oc=5": {
+      "title": "楽天、再編で年850億円利益 金融事業 みずほと連携深める - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVbFdCWElHTk9sX2RQb3BzM1IydkNqbkpqbW5qTHk2OWJoSkNaZ2NHMEtSLWtOSWREcEhnNGx6X0U1OHNiZFdRN0dCUUFTNENDVHJCeWlqZThCZ3RtRFBGWXJQZmFPSVgwaDQ5dGhCQkVvc3Biell6RjBkSVY?oc=5": {
+      "title": "法人様向けBtoC送金サービス「ウォレッチョ」の新たな受け取り先として「楽天ペイ」が選択可能に［スコープ］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEJmOTA0aUNFc0lNSi1CMXNURUtuV1BqUzU0alh2T1BLX0J1T2R2U1FBVkJBNi10UWZhbzlyQkJWd1BrWVFVZVQ5SDE0NmJ3dFJzZGdMVVIzWk1nRU9ObEwwUEZVTjVSWHdzOVRuVmZIT2lBSU1kQU9FdVpLWjZsYmZxZDNUMkhEOUctdmJhV2pLZTBqbHBTdmZPT2FwdFlTblE?oc=5": {
+      "title": "近鉄バス、10月から運賃上げ 大阪の一部で、1区270→290円 - 日本経済新聞",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZThQbFJ2TG14UlN4M1k0YkdFek9KQ1FXSGQ5QmNyNXBJZlFvQVdfU2JTNGExVmZnaFRjWUxSYkhTVWFQcXl4QThvMkZOa2syaDczZWZwRUlSRDdKWElkWlVxczZOaFRLNFBkVg?oc=5": {
+      "title": "中部電力、福島産米をバイオ燃料へ 代替肉製造との「二刀流」目指す - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1dvUGNJUXBDeHJkbzFOeGpGbjdURzRKc3o2YXVzYUVRNlhNS0IzT0JXVWdBRndLYjdqTGdNNHU3Q0NPMlFQTjhWeEdUb21DWExfc0pUYURrZGNacUR4MmU2dUxzYzN0d0d0aTVVZW5SUWNocUx1SUV6VVFMalg2SEVPaDhCT2g1WnFOanVlUGdoanV5M3ZMNWxjd25NNEpUV0RZZEkyOGk?oc=5": {
+      "title": "北陸電力、減収減益 - 日本経済新聞",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHdiV2FYQXRybWIwZjJQbmg0VFdTN2FiLTgtX0JHczVBRThJRXFpRk5JanJrU0UyNzlzeHpIM3c2VE9hd0FxTXFjZ0traDUtX1ptSEJMSU5pSjk4Qjk5MVAtN1FFbFZCaTN5TGFsVDdhVUFxOTItTUxjdzdkZk9sRzNpaUtkeHpndGhRNy1qLVhqTlNpNGpDZndZTEV1ZGp4S1E?oc=5": {
+      "title": "九州電力系の財団、22団体へ730万円助成 環境保全を支援 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FSTRmQm5rYjJrU1VxWmpwdk9vQTd3ZVhmNzU0Q0ExS1dzN3RQZjY3XzBaZmZFNjZlRjJJT21YUkE2eWk3MGVKbVJkNllUNzBLbWUxWW1XaVkwaHdMTjBrcWZLVWswTEZWU0dv?oc=5": {
+      "title": "「祇園祭」クラウドファンディングはじまる！京信、今年もリターンを提供。 - 時事ドットコム",
+      "company": "京都信用金庫",
+      "source": "時事通信",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XVjBoZmZZeTZ0WWZKSmhyWGpSTC0zR2JaRHpPYThrQlZnVVk1d3ZDUmZJbUEzSjN5VVVuaWlqUjFnN0RFOWJyVDRBRlQwRFk2NTVWLXVVTFpCQ0FOV1pNMDVXZVJOX1JHMUNHVWJick1qMXBTeGhiaS10SHY?oc=5": {
+      "title": "「祇園祭」クラウドファンディングはじまる！京信、今年もリターンを提供。［京都信用金庫］ - 日本経済新聞",
+      "company": "京都信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXNjelJOU2xMUHlkaHp4YnNKLVFpMzFoSzBrSkwyRzBPX0FqbUxzaVQ4eUE3eGJZX2xid0ZFblpiTXh0dDlTUWtxd2ljcVVUNHYteVkwc2tRdTc0MXpLZmhvejR0bnlGMFVycg?oc=5": {
+      "title": "SBI新生銀は「AWSファースト」、約3年で障害半減 鍵は共通基盤の整備 - 日経クロステック",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWZCQVA1a0tNRlF1eHUtdjBLbjlnV0hHX1RzNWFGMGF2YjRlamEtWEQwTEJNd3MtMTZ5c2xlQ0JoUWhZYWxHcVJjQm9ERmhMaktSN2o3Y0ZtNzJ6RHhPU0lUdUwxcURDeWZ2M0kwR3NpaklmcWJvOC03Q0h5NlBkQk5tSjhPYXVNTjUtTDBuSHN1RHZNM29kZnZmeTdPSXk0S3VXQzFKbEM?oc=5": {
+      "title": "日本株ADR20日、全面高 みずほFGやオリックスの上げ目立つ - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dm1FUDdvVDhnSU0yaEk4WE9fX1pWcXBnU25DWnR3ZEhraG9hbkFyb1dSU3U3N2M1Z0Q2b0dTWEROV0I1TWEtZEdFb3EwdkxqRkpnRXJXcFdCN1c2cWZrQXZ5N3hlT2pPUXNLSQ?oc=5": {
+      "title": "森ビル次期社長 向後康弘氏 「和而不同」でベスト追求 - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TeWs5MGVadnVvc1liX3RNVm55Mi1DZVgyNm5JRHpzU1ZjNVVCV2hWOTAzcU02Z1BzRzZIdTBJQW9Jc09NUC1WdFM4eWJnYUM0ZURMVmdSdk9MMFB3OGRRQk1DbVBmSlBMRmNROA?oc=5": {
+      "title": "森ビル新社長に向後氏 15年ぶり交代 辻社長は会長へ - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQU53MTBGcnM2SjRQTDR0Z1pwTGZsVTRnSG1HeEJhbThrTFllaF9FMV9MbGI3ZDc3aVVKa24tenlMdmg0VnIxVEs1WHZ0ZUZQUlJrTks1OVF4T1VRVmkxSU9ZYkxsTnk0d09KaEJMRGZHa1pRMUU5cV9yN1pQWDdjemdVNmpiUXNneDA1cTlUQ1JJVnpIU3VBcEgySHRWdTFDMDlsN3R3?oc=5": {
+      "title": "森ビル新社長に向後氏 15年ぶり交代 辻社長は会長へ - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTYxUG14dElCRGNBZnNXWXJTR3RPX2x6a0tZOF8tQUs5c091dkhfeGNPU25NY1BkZWI0NF9QM2tsQmF2LXBPUmZKWndKYTRTY2JQRlNzRzF5aFZLTXFVVFprLWNKWnd3N0thazFuZXV6cEdrWjhta2dVYk1JSnpIZTFqakViQW5qcmFDT1loS2lucWJxdV9Kd1ZXTDE5MXFGdDgwM3huUXZpQQ?oc=5": {
+      "title": "森ビル次期社長 向後康弘氏 「和而不同」でベスト追求 - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0tiMnVSS2FtY2lDclNQN015Z3N1MGRaNEprQ0d4NzVWNjBZb1daMTBHXzh6ZWFsbTR2eHdjT05hV3cyNzY4NUQtM2hlcUZ3dXEzQUI1YWloNFYzY2RrMk9zLTlHZzBqMmdqOUFFaWp6SWl0MHJoXzZPdG1wUG5LaXZn?oc=5": {
+      "title": "森ビル社長に向後氏 １５年ぶり交代、辻氏は会長に - 時事ドットコム",
+      "company": "森ビル",
+      "source": "時事通信",
+      "seen_at": "2026-05-20T22:23:09.063240+00:00"
     }
   },
-  "last_updated": "2026-05-20T15:01:33.084214+00:00"
+  "last_updated": "2026-05-20T22:23:09.064311+00:00"
 }

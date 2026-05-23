@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZTzNXeGxXQzI3eVB1UlUzX2cxT0hSWU51NUNkMDdxZThCRHhvNjlONWtxMmV4WEpzMDVOR3pqMHR5ZU85dUdQYzVLTEhQRW5UTEZJX3lPWS1rWV9JMUVPZVJMRi1QN254c2pV?oc=5": {
-      "title": "【アイスは別腹】ヨーグルトアイスボウル専門店が香川県に初上陸！イオン綾川店で5月16日から期間限定POP UP販売！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-16T05:53:21.791276+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uODZBSVNXOUtxVGpqMW9xN0RrTDVWV3hrcFFqQk5jWGNKSjF2Z2RmZmp6SS0ta3BSdktHU1N3MHFHbVBWNW5scUdJdWdwNk52d1A4VXhWODRMR3QtYWVfdUd2QW1adDVTSU5r?oc=5": {
-      "title": "【アイスは別腹】ヨーグルトアイスボウル専門店が徳島県に初上陸！イオン徳島店で5月16日から期間限定POP UP販売！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-16T05:53:21.791276+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcC1FQ2FHUjR5WXFFNUpKaDJoWk53aThwZUVNSENsSHRBSVlXNUhiYmxpLXZiLXZoeDNWZjZCUEl5ZGxHa1BKYkZzS1pleGliMk1wUFpBODBpN2czVWtWZzlUUHVxZmpEZm5N?oc=5": {
       "title": "【明日5/17まで】日本初のシネコン・イオンシネマ海老名の最後を飾る、スター・ウォーズ × ぴあ 及川正通『ぴあ』表紙イラストレーション・ギャラリー開催中！ - 時事ドットコム",
       "company": "イオン",
@@ -4229,7 +4217,49 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-05-23T02:49:29.872932+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjRNS3B3SWlkUGVYY3ctT2JnNl81T3AxQ1FNMS1ESURJMHRBUXF0NnA0RTlMU0g3cnl2NjdMZU9uYTYwOGRyaDUzdW84SlEybHBDMzc1X2pjaWtjci1EaGlNZ0JUM2RERThtZUc4UWx5MjhYaW5ObUk4a2daUG5DMzZlWHhRMlpBNkd0UVFIdkt5NjdsYWt2ZlRUNEllV0ltUWdWSFBB?oc=5": {
+      "title": "リモート観戦で実証実験 NTT西と毎日放送 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QaTgxY0xZT1ZVVGY4OVo1czlDNTJuSzd6Y1FWQ0pMOG9hNU5qdnFqQmVyajF0WFZnQWVKOXZ3ZFZla2FQSFFxd1B5amQ3VnlYWW5mTjJ2bWZobUc1N2Rremsya1ByMWtnaFkzUk9R?oc=5": {
+      "title": "大阪ガスネットワーク株式会社の会社概要 業界レポートや最新ニュース - 日本経済新聞",
+      "company": "大阪瓦斯",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZVRLZFptWTlSRGNDMkxRay1pM3dqTE5FT2kyWXp6X19USXNlUkdkRGFfYXh0cG5GTWFxM2E5U2VIcjdoY2RmNkNMYVE4TUQ2R0hzelZOaFdBYTQyM2YzMHFPS2Fqd0lxbUI4QQ?oc=5": {
+      "title": "フジクラ、千葉に新工場 投資額400億円 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMm5OR3VHODdTTFN1eGVyQ0dpYmRHZ2RZRzNYYWhpQlV4aXNQZ1dDS2pJdFRoRnpTWkFMbkxydXRJNWRZdjNmc0VsQ1dhaUJvRTAzcjBzbEtEeVRaVXRad1Y5YlY3LW9MZ3FFdlBfOFQyRGNoOWdlOTBhR0E?oc=5": {
+      "title": "「ラジオのある暮らし」を美しくリデザイン。amadanaの新作FMクロックラジオ「RC10」「RC20」がShow It 楽天市場店にて販売開始［FUGU INNOVATIONS JAPAN］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zSkVkZWJ6RmhYQ1ZvZFliVnZheFJGMWRZem9ZODRkbjF0aWJRemRRME1PUno2cllpS0w0QnMtODBXYmFrVkgwWXJCX24taGVQbU44QmNYWXJ0RUkxQi1HMU5OQkpCV1V1MTJV?oc=5": {
+      "title": "立体チャームでバイクを再現！「スーパーカブ キーチェーン BLACK EDITION」楽天市場で予約販売開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2NnVGM3ZrUWxlRnZLU3J0ZnF2MzFVUjA4RXYyZVVBbW5vR1g0MHloSFJRYmY2VXplUmFNMWdOeDlpTk1FSHRfaVJpQnU1WkdfRWFHOTltUFFxLWVJMHE1RVhlLVBNWXhYdXZyUg?oc=5": {
+      "title": "三井住友フィナンシャルグループ、連続最高益 - 日本経済新聞",
+      "company": "三井住友フィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sZ1JHY2RuN2YxWFZGZUJ4ZHk2eXFjcXNpWjE0US0xbXltLVNxR0t6bW9oYmd1R25jSmZWRW1GRXVBUWF2WmdqbDN4MG5RZGZaNEFGZUFBTjB3MVZyR0gwSW1YRUtNd0RFYTdUcg?oc=5": {
+      "title": "あおぞら銀行、投資銀行ビジネス好調 - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T06:12:24.928003+00:00"
     }
   },
-  "last_updated": "2026-05-23T02:49:29.873489+00:00"
+  "last_updated": "2026-05-23T06:12:24.928695+00:00"
 }

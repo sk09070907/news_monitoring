@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcC1FQ2FHUjR5WXFFNUpKaDJoWk53aThwZUVNSENsSHRBSVlXNUhiYmxpLXZiLXZoeDNWZjZCUEl5ZGxHa1BKYkZzS1pleGliMk1wUFpBODBpN2czVWtWZzlUUHVxZmpEZm5N?oc=5": {
-      "title": "【明日5/17まで】日本初のシネコン・イオンシネマ海老名の最後を飾る、スター・ウォーズ × ぴあ 及川正通『ぴあ』表紙イラストレーション・ギャラリー開催中！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-16T08:02:07.682861+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wVURmbWNKMFZUekpqTTA0MndzVTFtYWNSM3JDemFOczRiZFhaTVRucFJXWVM3akVpRTNSYlBDWm9yZlJZVDBVREo4R3pfQmxtUUwzcC1xbEZIM0Y5Z0loUTJ5SjBUN0pzQUU3SXFPQUZxWmdFMk9ISDNxN24?oc=5": {
-      "title": "ジャックス、Solvvyと資本業務提携に向けた基本合意書を締結［ジャックス］ - 日本経済新聞",
-      "company": "ジャックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T08:02:07.682861+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wRndnN3gwamZ4ZDAybm9Jcks4XzdZbHVvdC1NSkc0S1VIem42RDN1WEdVYnU1MmREU2xRUnRLTEdHWGRkUzlGMEttQk92aUE0TF9PalVGUUhlR1lGTy1Zc3hyaGtHS2k2TEE4TVpUSU1rdUV3MDIyVHpXVkE?oc=5": {
-      "title": "Solvvy株式会社、株式会社ジャックスと資本業務提携に向けた基本合意書を締結［Solvvy］ - 日本経済新聞",
-      "company": "ジャックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T08:02:07.682861+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmN4YUM0LWpqVkZtWldkYnI5UG5IRWxhNkxkeGxMWllSdEI2LXljSGpqRmIxUDJ3QkQ3allELVBYYjFVRWhRRFBuWlZNU1BWem14SWJQcU9oZDEzQ0hzRksxNURiY0dBRU5ndmlrRUJTSFZqVDF0UmprNmQ4NXo2TWh0clhTa0hPdzBURzNCR2lkU2x0SnhlRGUyR2ZCTm5HeUs0aXp0T1FQUVpGcWFTVFZGU2lBZw?oc=5": {
-      "title": "オリコ株の一部、みずほ銀が売却 アイフル親会社に - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T08:02:07.682861+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBST0c3SFZGODVqQnlrWXdza21JRk9odExPaW52X2JZZWZkRnV0Q3pvcmljSHctVnI3OXNENUZDSVZscFJVYUNBMEhyRDViMGM4SDN6MXduSWF3SF9odXA0ck5aazVGZUdBRnlBMTF4YjViLW1qVGtSQ2VnSXo?oc=5": {
-      "title": "5月17日は「世界高血圧デー」「ポッカレモン１００」を用いたレモン水試飲イベントを実施働く人に『差し入レモン』を通じておいしく「血圧ケア習慣」を提案［サッポロホールディングス ］ - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T10:13:50.208942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yckpxUVY3SDZxQjQ3VjhGZzYyTFRwaTUwWHNGeldTUGFhVm5rbWJ1anVFNFdQcmxtMzQ0RGhsYWVLSjQzMzdxeS0wWDBHZUZHbUw4c094c2RoUWNFM2g1dS1Wckdvcll6T2hpTg?oc=5": {
-      "title": "仮想通貨投信をSBI・楽天が販売へ 28年の解禁後、野村も検討 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T10:13:50.208942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWxvQ3BQSWdOaHh4LUVPMW9BZ1NDWFZQRmxlaUhhZ1JzUWZ4VHc5c3NhX05oNUJNWXM2X3I3eERfT0NieGd1N040SVJjOVU4aG9nUF9uR2t6bjFsb1VMNFF1cnRDOWpPaFIyTWFPNC1SeDMzMzd2Qm9sX2REYlJLVjFiT3lwS0ttTXdXZ3AyUEI3VDgxX3lhLXF6V2tDM1lRMnc?oc=5": {
-      "title": "オリコ株の一部、みずほ銀が売却 アイフル親会社に - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T10:13:50.208942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JMTBtOUFjYVlhSURlem15U0JXbE1selFXZWlEdEs1cFV3WUxxc3hWcUNnZjNvZlVNemdFNUVfbHo4cHZmU2VISlNvdzB3aDZCczJmME1ad2E5ZTNna0lESUY5RGY1Rk92YU1Xb1UyMzVuS0RsbnRMU0piSDE?oc=5": {
-      "title": "東映アニメーション・灯白社共催「名探偵プリキュア！展 なぜ？謎？！インビテーション」開幕！メディア内覧会オフィシャルレポート公開［Tohakusha.Inc］ - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-16T10:13:50.208942+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1B1ZXRmNWU2WHFhTU5KQmlhRm5nSUc2V3ZoMzdBcHVoTDJEaG94UG9IZFNWMWlYNFpEcDFGLVVVMnFfQjhHN0lSeGpUUWx0Y2REMTBYcmVfNHNPSGRPclJEY3M1TWZiYkVUa2ZGYXhINTZENk5vMVB5aG1NT2ltSVlQaG9leVJNbWFVR0toNUlhTmRUQTNOb2hKdlU1T2lvTXNsQTRSa2I?oc=5": {
       "title": "トヨタ、米で3200億円投資 テキサス州に新工場 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -4259,7 +4211,37 @@
       "company": "あおぞら銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-05-23T06:12:24.928003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LYnRZYTRUWDhSMHROdFNLU3ZadU5HTnA2VjljLUdDcUxXMmlkMUJVTzRiVmFpRzM4bTVlWFZQMDgzdGhzbE81N0JLOGxSaDZwUFZhOExvM2pDQ09MRTZObDNqQzBxVXlrMHRUYQ?oc=5": {
+      "title": "住友商事やENEOS参画のマレーシア水素事業休止 計画達成難しく - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T10:25:53.945029+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yZjdHcGtaR2lMYnpMWkxPQVl0dFQ0N0htR054X05FMVo4Und4cjQ1dUptV3RKUlBueEREdmQ0X0M2LVJsd0hWdGFRTDZJMC0tektPV1VhWHZPaTJ1RjdUb2tEVktBR1ZycFZPUw?oc=5": {
+      "title": "リモート観戦で実証実験 NTT西と毎日放送 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T10:25:53.945029+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEhSaXpxd2ZXXzlKZFQwTHR4aHgwTDFkTWdaeVNKd1VhdlMxWXR4MUdxaG83RUc5SmhuTFZleGs0Zl9pNldsajZIN1YtYnVRaFZTYnRnaDFta2RmRGF4MnB6a3c3VGszTkE3ZlNTc2ZiWEpTaHN0R3BDUGlNVFJtN0ZiLWdBMUdpekRxRVZjc0M5Q3Z5R01Db1JPdXVFXzctLXhuQ2V6azM?oc=5": {
+      "title": "住友商事やENEOS参画のマレーシア水素事業休止 計画達成難しく - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T10:25:53.945029+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY3EwcWpUWWp6cExJTTN6d1ZWLWFESmw3Nm5ycEJaeGtNMFU5WC1qVjlGUzBvQVNIUjd3NV9hUy1BMGlhTjA1ZjNsVUdqRnROY0RzMGVCbjBUdE5SZkE0eVBwVXpzU09hSFNET0k1T0JiOUFRb3Q4OXNyYXRZRk03dzNGelpTYW51eFpSbjUtRFZtMUIyVkZjNXlkZ1llM2Q5akE?oc=5": {
+      "title": "フジクラ、千葉に新工場 投資額400億円 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T10:25:53.945029+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3pRWGFWLURTanRYNERRZmdMdzNCUlhiNmk5OHhMcW1rSl9ZdnVIbkdoSHVMakl3TDVmXzJKeDdsUDZzYXdjWkt4SnI5cmg3QnFITFZxM3RnLUlqRjlzY3h4VnhrUmtyXzRWb0JROUtaY0J2WmFJbzlPTUtiVmF3TXNiclZtZTJHQmpRalRtVkc3T2xBOGhHYnB4c3BrVlBUbmc?oc=5": {
+      "title": "あおぞら銀行、投資銀行ビジネス好調 - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-23T10:25:53.945029+00:00"
     }
   },
-  "last_updated": "2026-05-23T06:12:24.928695+00:00"
+  "last_updated": "2026-05-23T10:25:53.945596+00:00"
 }

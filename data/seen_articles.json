@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdll1UTRpWVE1c3I4WG4wV0VLeDc0dHE4eW9kRFpIWk9xZUJjZDhHUnpWZjlRNVpjeWE5UzZtNHVOa3RSdGxJNzg5Q3B2bHQ1UWZEamlDYVRCbkNvOUZzZ2FhY0hjMmhaZ3RGSUI4bjI4TlFZVzRrUkVNSEdGUE5ZczVHS1MzaFNCSWp2QmtyQlZwNW1GNkFMUXRYZHFxUXpmV1E?oc=5": {
-      "title": "東芝、純利益7倍1.9兆円 前期、キオクシア株高寄与 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T06:22:17.112738+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE53enNBVlRmejZuZ25rcm5CQnZHd1plU0xqMXNsdnFUQ09CaFZ3ZERlYUdobjluZGVhUkp0bzFNdXVPZGxTZ0FvdDgtdjlod0s3bE9VUVEtNzh6a0ZDdkR5ZHJRQWRvdzBuS2xTa010b3hfTTJSa2N3ZE5TUTc?oc=5": {
       "title": "日本初※のフェイズフリー「床下浸水対策資材」の検証施設・公開実験見学会（5/28に埼玉県草加市で）［デンカアステック］ - 日本経済新聞",
       "company": "デンカ",
@@ -4247,7 +4241,25 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHdjdmTjBzeEI0XzBBSVVQZFFLOUNxSkVaeEFsaG53RG1aU0FQSHp5d0p3RnZUd0lRUmtMZnpwUzI3VXEwNnRpNnZKeWtoN09VQnhCX190VWdSenp4SXhqR1J6aTBsRWU5d0dZ?oc=5": {
+      "title": "「イオンタウン沼津」の出店について：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-24T08:27:45.062153+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiXy03RmlSOThmZWRTcnVCdHBmN0pYSFhlb0NwUndfZDU2UDA3UWhvTWNmYzM0MWlnOU5Edy1DUlFjYV8zRE50TGtPcmtERDB2MndhNFZaN0lvNUI2QlBvejVGZ0xIeDNOc3dN?oc=5": {
+      "title": "子どもの食事の悩みに、混ぜるだけの新習慣。無味無臭という発想から生まれた「Ayo(R)（アヨ）」がイオン対象店舗にて全国販売開始 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-05-24T08:27:45.062153+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UVUI2WGJLUlNLekZyMTF3ZjNfVGNyamx3bk0wUEQ1UEltaUxIMDc3UXl4dnFvMlJsc2NkQTEyMEtYaVlicGZ0WXJaWmRfRDcyYXVRNVI2RmhIdjZvYWJzRElHazVUYnU1aHYtTExGeWtnVHpQNG9IbTZBWXA?oc=5": {
+      "title": "JR東日本と西武鉄道は、両社で連携して「快適でシームレスな移動」と「沿線価値向上」の実現に取り組みます！［東日本旅客鉄道］ - 日本経済新聞",
+      "company": "東日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T08:27:45.062153+00:00"
     }
   },
-  "last_updated": "2026-05-24T03:26:55.249589+00:00"
+  "last_updated": "2026-05-24T08:27:45.062789+00:00"
 }

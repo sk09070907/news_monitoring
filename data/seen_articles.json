@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSXBMZ2NlbG5GdmJfTTJHQjRwbjZZSVdTSTcxUzk2SHAzWWh4THdsQ1F1MmdyVTdvb0FsbG95S1VORXdLak52b0pVT2I2NnVlbVp3Z3lERkd1a2NlVDBlbXVZVkpOcTFrY1pnbg?oc=5": {
-      "title": "伊藤忠の知財会社社長「専業で海外展開スピード上げる」 欧州も視野 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0tNMThfOXpQTGwyd3dmMFZuOTdmRUVkbTZYaDlGelBfQUR0STdKRVlmZUtLLUtnWUJyQ2ZmRUpPZ1FNTVg5M1RGc0ZhQ2dubzVHYUxZWUdlZ3Y3NXRndndVS1IwVm14MkZmcVF3Q09lbmw0VHVVZTNVZ2NRb0F2ajdTMjg5TFpGV3hOdk5pbWJBZHZSMnlLaTV6SHpyRWR0alE?oc=5": {
-      "title": "新卒は必要か ENEOS・クボタ・大和ハウス、採用大幅減の真意 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZkVwNWM2YUhtcmNvdThlT2VLeV91NXhnbW10NEstX0xOWUoxcTE0YXg5anJlVVdmTUxmVXdVbHVRNXZNeDZOOWphT3RLUk5uVkRtY2VGdXRIZ1EzZjVnYzF1WWZ5ZG1feF9OTQ?oc=5": {
-      "title": "トヨタ3列シートEVレクサスTZ、ボディーの随所に見せた静音化設計 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N1J5UkxRRjU3Y09fMk1BYTR1d0xVaXN4Zy1sVmpleHdDa0p2WGprMS1MRy1GUks3czBZbmc4UFAwLWNfYzB6THN4UlZyVUl0d2psSjhoaUpUeFY2aTVBZ0pNVWgzQQ?oc=5": {
-      "title": "楽天ショックで「広告内製化」一挙加速 代理店の役割が大転換 - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmNMTEh6UU1JTW11N20wYTc2YWFnTUZ3WXQzd1R3cUVDdTFCSFZwdjBHYXYyQmg5V3pNVUtJUW5JcHVXaGdqVVk2dWlRUExLTUVocWRoYTByVVhuRTFBanhqWmVSMmVqc1M5Rk15NE9CZ1IzV0h4SUZLWlBYQU9veER0dUc3OEUwVkFRdA?oc=5": {
-      "title": "商船三井船長 「水先案内人が来ない」想定外の航海で、肩の力が抜けた瞬間 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRF9sNTdfek1MUkEwbHBncEVTcGNiV3g4NDF6cGhOdEE1T3JVUjd3VWRvemM3TURkMnhNY2lxMGw3cVVpMG56SUhrWnJqOEpBOWJtamZWX0I5UkFGX0hKM0ZQeXhuaHl0MENzNGxydS1pYjhoc3E5N0M1Ukc?oc=5": {
-      "title": "GROWTH VERSE、山陰合同銀行のOMOの実現を通じた顧客体験向上に向け、自己成長型1to1マーケティングAIエージェント構築プロジェクトを開始［GROWTH VERSE］ - 日本経済新聞",
-      "company": "山陰合同銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGJLZ1ItcDY0NXp5RzU0czJELUdERktyWl9fZnA4eHBnaTR2dUxBNVZOWHVRVGZlU1d2d2x3dldQOE1qY002dUM5eU5VLUx3SFVnZVRCeGc5R0xvZGZhbXZtZnJYT1FnTEwta0ZCQ3JfclhmZ1NZWjMtQkRqZ1JoR2hiUm81LUMwbXNVX0EwNFpMY0pHVXdiZw?oc=5": {
-      "title": "仮想通貨交換業に上場の高い壁 間隙つくSBI - NIKKEI Financial",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T21:51:29.170343+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cF9YbUZCeloxWVBDUFgwMjkteVNYQjBIYnJMWUc5a1JWNWlNT3FHcG9VWnN4aWlwMzhIWU1YdDlVcjYxM2ZSY1ZtN2JJWk5iSDVBOGZ1RTRsX2FBQzBOVjI3aUNjUnNCV0E?oc=5": {
       "title": "三井物産[8031]：独立役員届出書 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三井物産",
@@ -4241,7 +4199,13 @@
       "company": "イオンモール",
       "source": "日本経済新聞",
       "seen_at": "2026-05-24T10:41:17.925956+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWNISGc1dklhbnpkUHRQNU5nRUtkX3hvcEZHQUNEX2lpdDM1UTdQbDhpQ1RObXBrTVpQbEw1QmhSUDZMZ1plWW9YOHg1YUpzOEtxTDlEMFFlODJtSEE3Zmp1WkRnejFfNTdqV1RTYUlwT0xGWTBBOHNxU1ZOS1YyeVFJM1R3Nk1MRl9OS3BCcjlMaWJtRVBkdVJB?oc=5": {
+      "title": "トヨタ、インドで中卒向け訓練校 体力づくりと人間性育成を重視 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T21:52:17.010402+00:00"
     }
   },
-  "last_updated": "2026-05-24T13:22:49.378245+00:00"
+  "last_updated": "2026-05-24T21:52:17.010789+00:00"
 }

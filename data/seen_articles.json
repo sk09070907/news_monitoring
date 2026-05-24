@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlpJeGs4UVN4Z3FEamNJOTdnQnZ5UnhaU2xxVG5IME13bGhVMVh3dlQ3TGkwNENsa1E5Mm5oNzNYQ3FZT0RnT2VOeG9fdHJRaHJ5MU43cC0yWTl2MVlpVl9ILTI3aDI2NDZvZkdiRFJKVzF1bGpuRFUzNThSWEMxbWp0UGd4Snl0ZmpCczJXSEtRbnV3X0xlNWY4RXRLR1N4Y2FQaW5n?oc=5": {
-      "title": "仮想通貨投信、SBI・楽天が販売へ 28年解禁 野村も検討 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T02:54:10.308244+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZ1NzaW9ySXlNZHNDcnV4T0otTV8taFZNNXJEWTl3YWZFTXJWQkZNUFBDV1FJSThweUNkTUI0MEE5TE1rZENPYlJiaW83U3VfR081SUJtX29JNEtrdVBwa1MtTnR2N1R6UGpjdA?oc=5": {
-      "title": "東北電力の女川原発2号機、湯気漏出で原子炉停止 外部への影響なし - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-17T02:54:10.308244+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdll1UTRpWVE1c3I4WG4wV0VLeDc0dHE4eW9kRFpIWk9xZUJjZDhHUnpWZjlRNVpjeWE5UzZtNHVOa3RSdGxJNzg5Q3B2bHQ1UWZEamlDYVRCbkNvOUZzZ2FhY0hjMmhaZ3RGSUI4bjI4TlFZVzRrUkVNSEdGUE5ZczVHS1MzaFNCSWp2QmtyQlZwNW1GNkFMUXRYZHFxUXpmV1E?oc=5": {
       "title": "東芝、純利益7倍1.9兆円 前期、キオクシア株高寄与 - 日本経済新聞",
       "company": "東芝",
@@ -4223,7 +4211,43 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-05-23T21:51:00.703383+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVBoazhRd3pYRC1JQ3hqaFpJb0RyQm5sZnlrQ0V5NnZXSFhWX2R4Uk01cWh1VTF6Ym83V28yNWFjbTExOGlSUjFycGs5WktZc3RWeXlHMTdDdV9Sb0NFZnY0R1dxLXJHWXowNzNUeVhxMmllcEk4UFBKZWVtUmwtTjNkRjBzUlBQRUZoNHR0MWNBOXE0elJYem1LbTFndC1FT3c?oc=5": {
+      "title": "住商・ENEOS参画のマレーシア水素事業休止 政府補助見込めず - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVBpTmJzbDhzRlUxOWdmMDhlRm9lT0tlbHFZZzIxV1R1WHdvWkN4Qk1LQzl2MVg2VmNhM0M5VHVuRl9VRWlEbmxSSzlZQVkzakFQb1U3Z1hGSGlpaHVYNklKR0RMVFpHNUJST0dPNnRuZGhXYkdpYWZ0TWc5MHJ2LWMzZjlNbk5LZlZDTjE2c0NSWnR1V0RGY1Ezalp0U3FEdzMtWVdmVUs?oc=5": {
+      "title": "住商・ENEOS参画のマレーシア水素事業休止 政府補助見込めず - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5INV9UMUE0WGJ6akM3VzI3WnpyNkJfemJmYVZKVmNlN0ZHRDFZSW5IaHlvaVkzYVItSEZyb1VZeUdfWUlQMTlpM1NTOXFOX3VpbzlrNWFkN0lRUXNQbnJ1SjFLMFY0cnQxcWt3ejFwZzFMX20tSEhETFVRZDQ?oc=5": {
+      "title": "5/23開始！楽天お買い物マラソン開催｜楽天市場「Show !t」にamadanaの新作レコードプレーヤー＆クロックラジオや、注目ガジェットが大集結！［FUGU INNOVATIONS JAPAN］ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vdVhEdEI0aVhyOXZxaDRCTlJMX2Jmb3k3Um5wZ1N5NXpIN2s0UGVkbVppT0FZZ1psTHhjTTl1Rlg5N2J6b0pxMktRMUc3VWROeGxQQktHTjRjalZGQ05aTnptLWc2ZW5vMWxF?oc=5": {
+      "title": "5/23開始！楽天お買い物マラソン開催｜楽天市場「Show !t」にamadanaの新作レコードプレーヤー＆クロックラジオや、注目ガジェットが大集結！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uMy0xM2ptd1RmZTBfT2VweDRiZXZIVU9rdVdjby1UMEtUZnMwQzhxYS1GY0doLXlmT0ZwRzFwMUxPRC1kUllNLW5GOThaUXkybWFQMm1WRlVXc0RBUUN0eG85dGZSbFluVk5B?oc=5": {
+      "title": "【MOTTERU】5/23(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNGVkYWNDaFA5NzZzR0hlUFozVnNERkNOTFVDSzVZcXYwbTg1X1VOX2I2ZmhkNEhKSHM3aXJrLW9ZdnpiNXljb2lSRHNXV3FXRGJrNUxCa0trd1RIZ3NVb3JuZGo1SnprclE?oc=5": {
+      "title": "【車載向けリチウムイオン電池】26年5月2週の注目記事3選 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-24T03:26:55.249242+00:00"
     }
   },
-  "last_updated": "2026-05-23T21:51:00.703816+00:00"
+  "last_updated": "2026-05-24T03:26:55.249589+00:00"
 }

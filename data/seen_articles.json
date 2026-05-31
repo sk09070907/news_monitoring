@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHdjdmTjBzeEI0XzBBSVVQZFFLOUNxSkVaeEFsaG53RG1aU0FQSHp5d0p3RnZUd0lRUmtMZnpwUzI3VXEwNnRpNnZKeWtoN09VQnhCX190VWdSenp4SXhqR1J6aTBsRWU5d0dZ?oc=5": {
-      "title": "「イオンタウン沼津」の出店について：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-24T08:27:45.062153+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiXy03RmlSOThmZWRTcnVCdHBmN0pYSFhlb0NwUndfZDU2UDA3UWhvTWNmYzM0MWlnOU5Edy1DUlFjYV8zRE50TGtPcmtERDB2MndhNFZaN0lvNUI2QlBvejVGZ0xIeDNOc3dN?oc=5": {
-      "title": "子どもの食事の悩みに、混ぜるだけの新習慣。無味無臭という発想から生まれた「Ayo(R)（アヨ）」がイオン対象店舗にて全国販売開始 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-24T08:27:45.062153+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UVUI2WGJLUlNLekZyMTF3ZjNfVGNyamx3bk0wUEQ1UEltaUxIMDc3UXl4dnFvMlJsc2NkQTEyMEtYaVlicGZ0WXJaWmRfRDcyYXVRNVI2RmhIdjZvYWJzRElHazVUYnU1aHYtTExGeWtnVHpQNG9IbTZBWXA?oc=5": {
-      "title": "JR東日本と西武鉄道は、両社で連携して「快適でシームレスな移動」と「沿線価値向上」の実現に取り組みます！［東日本旅客鉄道］ - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-24T08:27:45.062153+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVWdvaThxWkI2dl8xdjZuX2NPNVhldmw2LVVJVlY2cHVVczV0bzNvX1Y0bUt5OGVnUjM2ZzYwMWtrdTVRTTA2M2pSS2N5U2o2cmpWYzZxcUplWG1mYjYyMVNJRnpxUVFCYXFwRl91N3FmT21PcnpOc0lHLUo?oc=5": {
       "title": "バーガーキング(R) が新潟に7年ぶりに復活！6月11日（木）に「イオンモール新潟亀田インター店」がグランドオープン！5・6月は神奈川、福岡、千葉、大阪、新潟、茨城に計8店舗を続々出店！［ビーケー・ジャパン］ - 日本経済新聞",
       "company": "イオンモール",
@@ -4133,7 +4115,25 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-05-31T03:38:28.657770+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53ZVJ1NS04S1kyMmd5VlNKS3hKUTUzSFcxeU1mczA5bzNQTGZNVXlUYmdpX3dJanBsclpzaXpia2JHMThWV2FUalkybGVvSmFtdWRYZWpERFBVMHZWU3E2a191LVVfLVFEbTlTRg?oc=5": {
+      "title": "日本製紙系の米工場事故、死者11人に 行方不明2人の遺体発見 - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T08:42:54.195084+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14bmpxN2luNU5FYmRRVG9qbHZGT1FBcUo1SDNxYm8xQmRrcWxXQl9rZWxqUXJtWFFmZmNwak8tN3hkbllLTUJBNUJEaDVqbVdjMHQ0Ug?oc=5": {
+      "title": "工場タンク破裂、死者１１人に＝日本製紙の米子会社 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-05-31T08:42:54.195084+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQR0xYV2ctVlRKLUJNblplRl9UOTRaTEtoM09sY3NKX3o0Wk42ZGt3SmJiNlFUTUxpMkJ5RWFjcHQ5QU1Xb3VLbjk0ekw4d2xacW9xLThkc25rbnR4NUpMbkV5dw?oc=5": {
+      "title": "工場タンク破裂、死者１１人に 日本製紙の米子会社 - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-05-31T08:42:54.195084+00:00"
     }
   },
-  "last_updated": "2026-05-31T03:38:28.658072+00:00"
+  "last_updated": "2026-05-31T08:42:54.195787+00:00"
 }

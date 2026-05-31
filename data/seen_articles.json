@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWNISGc1dklhbnpkUHRQNU5nRUtkX3hvcEZHQUNEX2lpdDM1UTdQbDhpQ1RObXBrTVpQbEw1QmhSUDZMZ1plWW9YOHg1YUpzOEtxTDlEMFFlODJtSEE3Zmp1WkRnejFfNTdqV1RTYUlwT0xGWTBBOHNxU1ZOS1YyeVFJM1R3Nk1MRl9OS3BCcjlMaWJtRVBkdVJB?oc=5": {
-      "title": "トヨタ、インドで中卒向け訓練校 体力づくりと人間性育成を重視 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-24T21:52:17.010402+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVGhyV1JBbERfT2VWLVp5dU5udVZmcmFpZXZZQ1ljYjhSeFpsTXJOSnZfWE01aHlVMnBNZTRYV2NhUkJuYlJPZU1obFpfdUktNGZSd3lYUW5mNkhiNk5Tb194eE1id3dxcVkw?oc=5": {
       "title": "伊藤忠テクノソリューションズ株式会社、「amoibe OJT」を採用：時事ドットコム - 時事ドットコム",
       "company": "伊藤忠商事",
@@ -4151,7 +4145,31 @@
       "company": "日本製紙",
       "source": "時事通信",
       "seen_at": "2026-05-31T13:41:55.263717+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZDFnNlVPNWd2dWpWcTYzdkN3TFhGd3J1RjBIUDNpVkN3d0NWUkxGUlhxV0t4ZXROTUVxMEJYRTBJVENTMnZWUlhRZWpxWXRRNmFDRnlYVDhYZElreGszaURsbmlpUQ?oc=5": {
+      "title": "1位カワサキ、トヨタは？ 国産車・2輪車「幸福度」ランキング＆詳細 - 日経クロストレンド",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T21:56:00.641639+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE10N01IYzQxSk45TkVlNEwxYWhDSy1LN1ppRDdpQXRvZTQtSF9VNDFBdE5YSVFKMTdwa0RHUmppbFdGbTQ4S2lJaTY5ZVlaTmptYUVsSGx0Rk96SGowMkpPczdXWnVqWUxmUndhWkltdDdUcEk0cDE0eHVhWVZ0c2c?oc=5": {
+      "title": "トヨタの大転換 近社長、今こそ｢アクセル｣投資4兆円 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T21:56:00.641639+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04X05WYWF0akVyci1oYzJzNktsZU0xWnZLOGZBMlpFcmg0eGdRQUc4TUpxMjFFM1FvSW1qX0YxSzFTUng4eWNFZkJubFRvVUJHYzE1ZThqbW1nMm51azNNdkhRQ3g2NHM?oc=5": {
+      "title": "ファミマと楽天がポイント還元で連携、踏み込んだ取り組みにつながるか - 日経クロステック",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T21:56:00.641639+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZkdEZFFMYzhoTktBUGJWSERHM3c0Nms1Vi1nMG5ldmpUT0RVSHI4ZkZXM1p2d1NzLUdqcVc3RHVfZXh4Slpmdnpyb19CSnUxeDI5S3UtQXU0bndtNlVMZWJ6VWNyM1Zhc3liQw?oc=5": {
+      "title": "関電社長、電力需要増で｢LNG火力新設急ぐ｣ 40年に電源容量3割上げ - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T21:56:00.641639+00:00"
     }
   },
-  "last_updated": "2026-05-31T13:41:55.264063+00:00"
+  "last_updated": "2026-05-31T21:56:00.642160+00:00"
 }

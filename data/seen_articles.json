@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVWdvaThxWkI2dl8xdjZuX2NPNVhldmw2LVVJVlY2cHVVczV0bzNvX1Y0bUt5OGVnUjM2ZzYwMWtrdTVRTTA2M2pSS2N5U2o2cmpWYzZxcUplWG1mYjYyMVNJRnpxUVFCYXFwRl91N3FmT21PcnpOc0lHLUo?oc=5": {
-      "title": "バーガーキング(R) が新潟に7年ぶりに復活！6月11日（木）に「イオンモール新潟亀田インター店」がグランドオープン！5・6月は神奈川、福岡、千葉、大阪、新潟、茨城に計8店舗を続々出店！［ビーケー・ジャパン］ - 日本経済新聞",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-24T10:41:17.925956+00:00"
-    },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWNISGc1dklhbnpkUHRQNU5nRUtkX3hvcEZHQUNEX2lpdDM1UTdQbDhpQ1RObXBrTVpQbEw1QmhSUDZMZ1plWW9YOHg1YUpzOEtxTDlEMFFlODJtSEE3Zmp1WkRnejFfNTdqV1RTYUlwT0xGWTBBOHNxU1ZOS1YyeVFJM1R3Nk1MRl9OS3BCcjlMaWJtRVBkdVJB?oc=5": {
       "title": "トヨタ、インドで中卒向け訓練校 体力づくりと人間性育成を重視 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -4133,7 +4127,19 @@
       "company": "日本製紙",
       "source": "時事通信",
       "seen_at": "2026-05-31T08:42:54.195084+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wR3RMemZFSXpXODZTVGV4UzNLcnFsZEQ2RUNNa05SQjFXWExoNGlaZ3F0bng5ejBsX3pLTDh5QmpkLTYzSUpFcTlEemlSTXdWdTRhbQ?oc=5": {
+      "title": "◎工場タンク破裂、死者１１人に＝日本製紙の米子会社 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-05-31T10:56:11.890406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NzhRNXRxQmlGeTRTUVU1WnI4N1JndTExbjJWZDUwWV83WjJKcVRfVlJpeEF3ajRzbGgyZTJHQnhrTW00Uk8tWFV2dFFualRwTVpoel9BcGNDcFdKT1RyYg?oc=5": {
+      "title": "トヨタ式部品改革 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-05-31T10:56:11.890406+00:00"
     }
   },
-  "last_updated": "2026-05-31T08:42:54.195787+00:00"
+  "last_updated": "2026-05-31T10:56:11.890733+00:00"
 }

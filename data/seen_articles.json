@@ -1,149 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVGhyV1JBbERfT2VWLVp5dU5udVZmcmFpZXZZQ1ljYjhSeFpsTXJOSnZfWE01aHlVMnBNZTRYV2NhUkJuYlJPZU1obFpfdUktNGZSd3lYUW5mNkhiNk5Tb194eE1id3dxcVkw?oc=5": {
-      "title": "伊藤忠テクノソリューションズ株式会社、「amoibe OJT」を採用：時事ドットコム - 時事ドットコム",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdW1OLWVQd214Z2RXS2hJZ05WMUtya2M5QzJ1RzUxMHJEOUQxNVlFSWppZG1JeHlja2twTEVVSmJjNEZFZGZrcWREVXRkUDNnSVlNQ2dBX1VERVplZjg5S0pzTzZtdHd1ZF81ZWV3ZWRNZFlfWTQ1T1JGRGxra3JhVFl4ZGFwVVZZNGtCTVVxdDJJWjBpR3BodWllYzBkMER3Rzlj?oc=5": {
-      "title": "NTTドコモとNEC、NTTと共同で複数の高速移動車両で安定した大容量ミリ波通信の実証に成功 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iQjJQWFZ2clZLbnhyVEhDNkt2aTY3ZWxGSzdqOV9kTkVZdTV6d1BBTV85Yk0zbGxZeUh0ZUg4QTVoMXRBRlg1VlNSb0JOUTdRQVUtSDBrMWtZRnk3RGxrOXZ5UWJIaTU0dkRYMA?oc=5": {
-      "title": "NTTドコモとNEC、NTTと共同で複数の高速移動車両で安定した大容量ミリ波通信の実証に成功 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tVVB3VjZ0QzBLN1FjUlliaGtnQWlMV3VKRnVKbUUyM2l4MV85RDhlUmpZdkFvNHZMYnRIcWxMdk90OUxvejM2ZGdOeFV1QjJPRnFxTkM4UVhaX0xwZ2J2WWsxMnhLVy1uLWo1cGh4MWlzMUxacXRGaTZTNVg?oc=5": {
-      "title": "累計DL数200万超え！シーモアコミックスの大人気主従BL『しもべの王子様』が＜小川史記（BUDDiiS）×瀬戸利樹＞W主演でTVドラマ化決定！！［NTTソルマーレ］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE05RElTdW5fdjdyZktJWXJseWdPQVF3SVU3Tm9DY2cwZ2lBeFFrT0xMNFRXOTA1bzJUMUJpOXVuanBxVk1pZzJxbmsxak9uRlBZVjdIaXlRZDBub0V1bDd2SW16N2hfTXNLblE?oc=5": {
-      "title": "ダイセル[4202]：（訂正）「中期戦略 Accelerate 2030」の一部訂正について 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83THJHc3pjM1dRbUtiOUtZR2VMS1BWRHZIcnp1eWJGR0s4bXI4MVBkNVNiYnNFdFlLcklFNGxjR3g2RUYxZmpVZG5vWTJKZHZHSzBRQ19rc3NSMWxvZjlSS3h3Zld3bExQT3EyNA?oc=5": {
-      "title": "ダイセル、自動車安全技術を応用した「ウェアラブルエアバッグ」で新規事業を本格始動 - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE85LXVHZURqSjZsRjd0RDh2MkxjdjhFMlJIU0llZDFUZjlPdF9vbm9zZ2FtVmpISUI4SGpFX01mZ2E1N3VrazhVZFdqcjR2a3JOMnRkMjA1ekwwX1FsY0t6a1NoWTNPUU1FQm80WA?oc=5": {
-      "title": "トヨタ自動車など自動車の株価が高い TOPIX最高値圏で買い戻し - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2dlWVYza3dSWlNrakdCbkRwS1NvMXJPVVNUazdkODVScGNfRDRpUjBtaVdCSjJHLXprUW9QOVRHRXQ5UWZsT1QwX2lmNlBtbFBHZHBtc0NXMDBOZGw3b2lJOUlaSzdVNnhrWGE1Z2VoalFzY0MzZHdhakpUdlJlcWdSY1VaXy1KeTh3dElRYlhYU1UydU5ZcHJ1YnFJSUdfWU45MXBzSVc?oc=5": {
-      "title": "トヨタ、海外8万3000台減産に拡大 中東影響重く11月まで - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFByMXFMWE82LW5IS1FuTlkwQ2llVWQ0NjhLbGZzVDJRX2JEa013akFvdWhxR2lxRnQ2dzJEaWxuVDQ1LUlLSDdyZDE4SE5Wekx4UXBWQlpZZHVNUWZLamVFSjVvYTRtNGMwRlJR?oc=5": {
-      "title": "イオンイーハート『おひつごはん四六時中』「鱧の天ぷらおひつごはん」5月27日より季節限定販売 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE43RFJyVVc2dmFjM1p0d0JuNDB0bllSQXJnUTRVNkhNY01aWWRBVEVldllaOHVZZzNvVlpLQnFZNUlvSHVFZklUS3l1cWlqci1hME95VDdwVmtnNG1ZZkt4WThqZHZnOWV1WXdF?oc=5": {
-      "title": "【新店】極味薬膳スープ×お好みカスタマイズで楽しむ！麻辣湯専門店「菜菜麻辣湯」が、イオンモール京都桂川に6月5日(金)オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91LWJYcVBaV2h2OVZmMlRwT0Q3c1V4bVlJVlplVm1qU2w3NXRsclVuZEtCcFVWOVcyRk10bzVmN0RNaUtQRm9iVTMxUFpVNUV1LWY1Y05uOHQ4VEVlUjZJSEktVjVYR2dfRmZJ?oc=5": {
-      "title": "代官山発の本格派りんご飴専門店「Candy apple」、複合甘味処「Candy apple 甘味処」として2026年6月1日イオンモール新潟亀田インター店にリニューアルオープン! - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZNFpFMWZrUEd4WTlXYUFGVjYzcnQxb2RGSWpBZTVOVUtjUHU1QktOV1MwU2thRFpyd1JyZFY5VzRhWmZjYlFRNE93ODZreGVmNlV3XzNMalNfTHdnWXN6WGRTMjhEa1dRV0FF?oc=5": {
-      "title": "「マツコの知らない世界」で絶賛の\"究極あんこ\"が新潟に初上陸！【2026年6月1日】浅草今川焼き『月のうさぎ』イオンモール新潟亀田インター店グランドオープン！ - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE10SnVZRXBVQ05JellqdTIyTTh5bFZBallUSk5PWEVUTnNOcVFqUU1UbUptOFJRbllmek1Kcml2eUo1OXNMTmRoZy1vQjFMYV9OSTFZa2FBenhWaTR0MkZVaC1vbjlybWdHVWc?oc=5": {
-      "title": "東京電力ホールディングス[9501]：独立役員届出書 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUdVJtWkVBQWkzYUFCYVBfckJpS2doQjFLX1dJb3FrWWFHSXN2N0Y4SndiMnlscnYwVXcydEp3aTdJeUFnNUdzbHFFMEdiX25Hd1k2d3VlRHBfSjRnVXhXU1VURmlCbDdWVFE?oc=5": {
-      "title": "中部電力[9502]：独立役員届出書 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmRy1RYlllYmFrNm5pdEpnemtyLWMwQjhzRUxsNVVtT1VOUHMxNkRGeTdpOVV2WEpJbHdDZmY2N2d0Yjl5eGhUQzNUN1l2ekJhenpEVVAxazFaUWQ4Zk00Wm9OVjExTUdudkE?oc=5": {
-      "title": "中国電力[9504]：独立役員届出書 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JcExTWDBnWENfTVVEdUpwRV9vY2xZSWJnZjNFVU9mZmp3RDQwZFRBNFpNVTd2c3ozNXQ5eml4VzlLVjlxckZxNllpYTlyZXZ4NGE2N1p5Q0JNeWgzYkFFbVNzbjZuNE9YNmc?oc=5": {
-      "title": "中国電力[9504]：第102回定時株主総会招集に際しての電子提供措置事項（交付書面省略事項） 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE16THZrWkhkVVpfdDQzZUF1eDBnUkFJS1ZoU2pRSnV5bU8wZjlWVFN6bFhvT2lXc2hMNV9LTWF6S2l0NEgySWE1bTZBMzZCUDF3M05YZWszWkdONE9SMXRXMEVKTU93MTNmWXc?oc=5": {
-      "title": "北海道電力[9509]：独立役員届出書 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4NnVvVVUtekdEVjN4QzFtblp3Q1RvR21qMG5nRzExcVd6V2xFekw5U3NFSzdwN0xralh0bDdtMThCUm82RG52Z1hRaXB0THIyOVJRTk8xSmE1QkFpdjJPRmpvUHRrNDJXQUtjUG5neDlNWjlXMTB5VFEtNGo?oc=5": {
-      "title": "コントレア、「Mizuho Innovation Award」を受賞、あわせてみずほ銀行からデットファイナンスを実行［Contrea］ - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UaERpQkF1VVBEUGkwQ3lqUUgyZ0hZb3NDR0pfODd0X2RHTjNacG9XN3FCQ0dRZ2pibXpQTjdQajM3ZzF6UmxnanNyMy1SVmJFc29URGNtOGxsNjdTWU9PMmRfTEtDNGZNdzk0?oc=5": {
-      "title": "コントレア、「Mizuho Innovation Award」を受賞、あわせてみずほ銀行からデットファイナンスを実行 - 時事ドットコム",
-      "company": "みずほ銀行",
-      "source": "時事通信",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BVEd3Sk9PN09fU0Y1SXRZTTJCUjVsUWtDSVEyMU1zS3p1UDN3RGhLZGNoUkZBV21zZ1h2ZzBJaVIwQ2F3RXc2VU95U2NUbk1hVUd5dkhDX29BVkRhUHVPeHNHS01ydVladEE?oc=5": {
-      "title": "大和証券グループ本社[8601]：【第2弾】大和コネクト証券とGMOあおぞらネット銀行 相互連携サービス 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvejhfdTNnWm05ZS0yLUg2M3FXQXluSi1jYjR5TXlHZm9VbDAwaFplaHAzUnoxcEF6emhxMHlzUXl6UVl3TkFLYWpRdHl3X3hGWUNMY3psbV81Z2pJQ29UcUNNcEVCd3NLdWFuSXB5elFYZHlNWXVidGFMRFQ?oc=5": {
-      "title": "JCB、東京ディズニーランド（R）「“ファンタイム・ウィズ・トイ・ストーリー５”プライベート・イブニング・パーティー」貸切イベントへ1,000名様をご招待！［JCB］ - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLQmotMk5uQzd3VUxtdnM4SV9xMUVIZEVMZFBjbkRUVjQxSWktZVBzd083VktMQWhjaEpwTmlhbDVVeDdKZVR1RXZnR1JTaGFNdWFrTWtlbEtCbk94VFM1QXZJVlp4UTdteGc?oc=5": {
-      "title": "アコム[8572]：Notice Convocation Annual General Meeting 2026 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アコム",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TSVdGN3U4SW13NEhtRFA0aE9wXzZpR1hEbEh1VldfZVRFNGhRZ0djZmlUZ1NnMDFvdWxHTUZDMURVTkRsVEh5aHhGaXE1aHBQaWtKTDZrOFJOQ3VreDhMZEVtM2NTbzZ2aVE?oc=5": {
-      "title": "アコム[8572]：2026年定時株主総会招集通知 交付書面への記載を省略した事項 2026年5月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アコム",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JRXBhY1J3b3RUaFduTXFURFVWV0l4MnJTc0tKamVTR2VGZXZuR0xQQUpnMUg4NVZUNUFYRHpQRUtkRWxTMlpoTDJkUWt1TGtoOE0wWmt3cHByZHVpMzMtcnJzcjk3aHF5SHZWRXU2ZkFzYlBSSWpZekJKZ0s?oc=5": {
-      "title": "アニメ「ワールドトリガー」REBOOTプロジェクト「黒(ブラック)トリガー争奪編」制作進行中！キャラ設定初公開！ ウォークスルー展示イベントの開催決定も！［東映アニメーション］ - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T03:39:18.277915+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYl9Hd29VclVId3p4X0hIYm12eFNyOUU3dVhBX0IwdmQ5aWdoT3lSRXBRSmNScmxoalJNem5OYjMxdUp1NllmWV9aMGpBNUo4Q2E4RkJtY1B4OVNvcndKZE0xTzQ1UHEzZTlJcXpLM2cwaUpfd0pGVjIyQzdCLWctdlRWS1RpdWlFLVpwNFlEZ0NTWmN6RkVvOGRKX2FMd0xJdXBiVXR3?oc=5": {
       "title": "伊藤忠、北米で「おぱんちゅうさぎ」 ライセンス管理の米社に出資 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -4169,7 +4025,181 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-05-31T21:56:00.641639+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxVG1HUGtKZDJmNG9jT0d3bzNzZ0dDOGJBX0UwNmxNQkNhaUJRblVrSWVKM0wzMVhEa2lOcE1Ldk9fMmNtQXhlSGh5S1liRU1yUE1CcFZLZUJlRDFsaWo2cWIyTFg2NnFiMGlr?oc=5": {
+      "title": "三井物産デジタル・アセットマネジメント、北洋銀行とのビジネスマッチングを開始 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE02NExvQ0tIOEN6LUVCZTdnX3JBTUdoQVJZeXpvYTdUbzJnLUlaNXlXU0hzdE9Hd3JIbXp2YzVySjVzNFVDalZ0UTVuUlQzOWx3VzJEWWJPazlsRHZ0b0pyYzIwRFpGaUNCRUE?oc=5": {
+      "title": "住友商事[8053]：自己株式の取得状況に関するお知らせ 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZmZaenZCdTM4eWx5Z3lod3FYWTljSW5BUkxEYW1jNi1pdW4zaVNpZGI4c3ZXU3JWUHFzSkE1UW9KUXZxWnB6MTdPTDFRV21hX2IxbVNQMnd0TERRZmdVSzZ3M29wRGFkbGc?oc=5": {
+      "title": "東洋エンジニアリング[6330]：第71期定時株主総会資料（電子提供措置事項のうち法令及び定款に基づく書面交付請求による交付書面に記載しない事項） 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東洋エンジニアリング",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MS1hOLXJ6SzE3YWlMNEdHSW44RkNvdzJkQjc3UTFIVUVLLTN0d2hMSlJpS3piZnVpRVFaNWRRcGVoMDJ4RVpCOGVvU0pzOU5LblI2RGxNSi1hdnhNekJPU1g2VlV3TVhoVGc?oc=5": {
+      "title": "東洋エンジニアリング[6330]：NOTICE OF CONVOCATION OF THE 71st ANNUAL GENERAL MEETING OF SHAREHOLDERS 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東洋エンジニアリング",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlaFo3WTNRalFoa1hnTlFqQW1CYkJSV2RwSEVEQV9XVC1xY3ctQUFEYVQ1eFM3QTdQWUt2bm4yUTJQLS1Tdm1ZRzVTYWs3LVdxS0EybVdQRlE1eHhpZ01wbndQMERIbUZZZ2c?oc=5": {
+      "title": "東洋エンジニアリング[6330]：第71期定時株主総会招集ご通知及び株主総会資料 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東洋エンジニアリング",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PenNveS1oeS1OYks5OU9HbzBNNDZZMEZHa3NfeExMTlpBVkFFZmtxdnpyeWxLS1pSbGZJUmR3WGxVOW9yRVRHZWVsNGh1OHFCR2M2cTBBWl85WmhRYlRaZzJwNXpmT1YyUWVV?oc=5": {
+      "title": "「サッポロ クラシック 夏の爽快」6月2日(火)数量限定発売 - 時事ドットコム",
+      "company": "サッポロホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBid2lERkNCNEM2ei1kUi0wdkxZQlAzVm1ydDAwVm5Dc2wxZXdDZFYwTGFsR1Q4bVExS3dfTHV1eVB5c3BOZFZKSnlDTFdkbHNEM0YxWURtS2k3YlJlWlVQZ05mYTJqeUNZV0E?oc=5": {
+      "title": "日本製紙[3863]：Other Matters Subject to Measures for Electronic Provision 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kaUdEajk3azBVV0dXcEx3SUJrLXloWXdUbHA1X0hpR29GQm15TjNTNGVINTZqNzBmSUZJNUZFYm5hcmdBOENtTXlGcG5rRW9RdUNxMmtJQndaLWZjYVNieEhBQkpyb1lzcmc?oc=5": {
+      "title": "日本製紙[3863]：第102回定時株主総会招集通知その他の電子提供措置事項 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZNmc4LVFLbTJicXZVTDlTcDVIakJvVE1YRUk1SUVCX3NBOEZpVUJLOVc3WGlmT21tdVJPdlpfcl9SNTlfWlJ1Qm1PVDJLSGVJRnNVaFJzR1dmN0FVclpMYndHTVFmWWp6MVE?oc=5": {
+      "title": "日本製紙[3863]：Notice of the 102nd Ordinary General Meeting of Shareholders 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DTC1MTVNXcndGdjBONE16dzB1X0lDR2QwaUVOMEJEajNadjlxcDdQbWcxS3Q3ZGRkUHUzeG5oR0I2aWhRdVNCZHR2cmFxa29rSHVKbDFiOXNCczVkbWc?oc=5": {
+      "title": "◎日本製紙米子会社の工場タンク破裂、死者１１人に - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRGJaQzQtY1pDYlRYdGNRQU8xX3pIUVFTUkpwdDEzOGFrU0dUdzVpSG5RZldBSVZhbnN2dlpyZ3g3S24zRlk0X19hRTV5aGpnV2dNbzI4clRwdGdSNVdZUnYyS0NtVEdMb3c?oc=5": {
+      "title": "広島ガス[9535]：Notice of the 172nd Annual General Meeting of Shareholders 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aSkFXUUVZbWQ5S3JKTG1fZUJtUUN0UHdwUFo3bHlaYTBycWNrZXp0LXJaOFViSWtLaURIM29pN0hDb01CU1A1MkdIcXdodUdfeVF3ZW1HV1BJc3ZzOFNQVkJHVWd6VzA4SUE?oc=5": {
+      "title": "広島ガス[9535]：第172回定時株主総会招集ご通知 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalQ0V2g5RG5iVS1VVXpNLTM3X3VRM3BTeGV3Q0NUTFcxYU1FNEFCbEQxeG40dmFnTXRVRmZCanc5bVlHcEY1ZWZfWmE0SEpBXzV3R2R2VnBBVWlCSUtoaFVMWmZBT3RJY0NiNlZZeURkLU5kWDh1bDIyd1FwRVdMcjM2WXJYVEZFRVRzdFBfTnA5QjVLLVo4YnJzOXlqdjhIbjVPb2RTZzBZdmFJbE5naDF3aml6VVdmUkpSNGNJWDJiaU5EMVU2VnoyZmY?oc=5": {
+      "title": "広島ガス[9535]：第172回定時株主総会その他の電子提供措置事項（交付書面省略事項） 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cFlnUFRrUzg4OFgwYkZGZGxCTEZlRElpZFU0ZUlWMkFqVVFwRllPd3M0cjlLRmtoZ21aSVJnWDFndU41cTlDQllSMXRyLUxaRUlONlA3OTBSQjlYSDNPMXlITmY0LWUwcTUzdQ?oc=5": {
+      "title": "ソフトバンクGの時価総額46兆円、一時国内首位 トヨタ22年ぶり陥落 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBYeUxrVVd6NV9uNVg3WG9FR1c4NXd5M0dNOHVweU1hcHNsbE1rYjdXSVR3U3Q1bFl6eENLRnpyRmZyTG9NMkRiblc4a1A4LVI1cmZldXZmeWNHRkNqeS1HTnNBWEtnZk5JU2lQTFpWLS1Gdw?oc=5": {
+      "title": "EV向け全固体電池の「量産」いよいよ開始、トヨタは優位を保てるか（2ページ目） - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ta3hYb0E1em9lM2JoSG0zb0hHQ05ydWtlZFAwdXR2bkJxTVBqWTU5NVZBdktnLTVlZEN4TzdlUGZNSjBIcENpREY3MkhHUXhhell0UGhtalA0V1FJdlZ4aXlwcTU0YmFLeUE?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OV183ZF9PYXctQ3VxeTdSTVdEcUxxX0RZQXdYakU4TW5rY1lGOWJJLUltRmhWUEdYX1BsY2pzajZFNmZzLVBrTmlfaTAzTkJONmphUXF5TW5QV2hfTzlFOWdVVklpTmEtaXc?oc=5": {
+      "title": "イオンファンタジー[4343]：ミューの森 開業3周年 未就学児はみんな素泊まり０円。大人も新料金＆平日サプライズを開始。 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tY0MtMHRKbDVLTnd6LVRmNURDbTltUDBiMWU2bDFqQ0c0Ql9XY0VBblVVZU55YWN4NzVFRGR4ZkphY3JXS2szS3JtSlhyQi13TkxUU3o0SThlSjFyUmsxWURxc3AzTmpmbG5B?oc=5": {
+      "title": "家族で楽しめるライフスタイルブランド 「Arnold Palmer」イオンモール長久手店が6月5日（金）オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lNkd1TExfRmZQcFlhd0hqdS0wdWVCb2IzUFVGeTl5cnpVTDJYYjhBSGwxQmlOOTF1M2sxc0haMDRVRDFFcjM3cFh3RWFGbHl0OE4tbDJhU2lpZnVQbU9rcW83R2RFbnBwTkw0?oc=5": {
+      "title": "【岡山大学】JR西日本×岡山大学：岡山大学留学生が瀬戸内エリアの魅力発信に参画 - 時事ドットコム",
+      "company": "西日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cFhEdmtuV2RvR3p3c2xvNmt5ZWtkOFc3NXNoYXNzbnU1OUN4WUZ2bVRJTXYyVmpLUzRPZGpyeHdHR2dWbDRpNmpua2tmSDJvaEYyRG9PNm5TbmpiMThRb05ZWkNObEIxdTJfRw?oc=5": {
+      "title": "三菱UFJ信託銀行、北大とサステイナビリティ推進に向けた包括連携に関する協定を締結 - 日本経済新聞",
+      "company": "三菱UFJ信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wQXNXRk9CbHpOY1hBUTZUTzNiOU0tZFVNbWdfLXh1cmg0VU5EdTUzbHBjNGFpdU9OQ2lvWFhUc3N5SGVfeEllcVJCUW1ja0EwbDVEWS1Rdk1ndWxlLWNmSVdyVVMxN1JiZGVZ?oc=5": {
+      "title": "富士商株式会社「買取大吉」が西京銀行小野田支店イベントに出張出店！ - 時事ドットコム",
+      "company": "西京銀行",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZ2ZWTVVrT3dfTnBIWW5Ha0hRM0RpWUw5c24tNzhha21QU1lkZXNfZFZQU18yWHVDcXJwZko4ZWcxamluUEZfdHZDb0p3VFNuYjMxWEhqZHRhT20xMUNnbkp4b2dsWGttY0FR?oc=5": {
+      "title": "京都中央信用金庫がセイコーソリューションズの「融資クラウドプラットフォーム 法人取引サービス(信用保証協会連携)」を採用 - 時事ドットコム",
+      "company": "京都中央信用金庫",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rc1Z3N0pLdHNrSVVGSDJIMWdaby03bjJWeXRrMFJyUG1GUjhGd2JQZkVtcVBlWkNlMnZ0dE1aVmxXOUgzWW1XbV9pMDJTNXF0Y0pXMkZjNVJTNDB3dFlZb2JCalRZMVMwTlE?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：当社連結子会社のSBIネオメディアホールディングスによる電通、電通デジタルとの戦略的業務提携について 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUFg0Y0xreXNxdE9vVzZMZmZpdmUxcVdpcjF6TDF1VXhtbXhBR0hKUUQ3QlNrUmJBWG9RYzdRaGpQZlhSZ3RqMlpidXRNYS1KdktRSzZVR2xPeVJ4U3hzX1lqNDFPWTlfeVE?oc=5": {
+      "title": "ジャックス[8584]：第95期定時株主総会その他の電子提供措置事項（交付書面省略事項） 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTFR3QXZtZXZtWW1IZWZyUi1maDZjLWV6cXg3eTFPaXNaU0NWaVQ1NmJEOVU1Rm5HVm0xb21xblBhYWRYQWpPQURtT082M1dkYlpUSC1DQVM1QUNLczBGX3RUN1N3ZFRaN2c?oc=5": {
+      "title": "ジャックス[8584]：第95期定時株主総会招集ご通知 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIUUFSSkZuYXNuZVp0aEFXZHJ6N24yd1dQc0h0aEx1Z0RaZmg4aUd0bGtlUFI3RmVFenZvTDludzRIVG9Zb0QwbEdLYTVicEFiQ3dMYWwyRVFwMVQ3ZUgxMWczM1lTS214Y3c?oc=5": {
+      "title": "東京センチュリー[8439]：Notice of the 57th Annual General Meeting of Shareholders 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京センチュリー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE55bUlPN2h5WXlUVGF0eGo0ZUdHZENzWFlJUExCWjIyUU5IVVlvVVhjcTdEYWJaYTFQWGFQWWVtNWxqcHlXZzU2eVUtM3hNNHRwb05ZUjlXcm1JcHVsMmVsb1kzcE14YURHM3c?oc=5": {
+      "title": "東映アニメーション[4816]：第88期定時株主総会招集ご通知に際してのインターネット開示事項 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RV1FqZHZZTWc1NFVJZ0RRR01XSDU0anZQbHZkLWxwSjY0c0tYSnljR3RVNnJjam9abzc5UFBUUmFwM095dUtRdEw3OVlaNDIyXzFua3prbE5tNEZWTmdVcnRORy1RRV90Z2c?oc=5": {
+      "title": "東映アニメーション[4816]：第88期定時株主総会招集ご通知 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR0hBZzhhS1lRVF83NmR5cWpCclBpOHFtUFJoWmdWX2tlRDN6TFJKUUZVeFl1WHdHSGhURG5OcHNOZWx6YlNmVnNxQk1iT0FTZ1RhZmQ4UGtvdW1qWHRjM0hOYXFTRVV0SUhpbXJZS0tENE9PMjF1VldRRzQxUEFoQ0hQVG5td3ZVTHQ4alNPSjljYWRlVnNwLUhCQ2VRWVJyYmUwSHY0cUhVSDgxNGRPVlk5M1RnaUJ4cUs5azdpZXF4b2o5QXhVc3V5MlI?oc=5": {
+      "title": "東映アニメーション[4816]：Notice of the 88th annual general meeting of shareholders 2026年6月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T03:54:26.857595+00:00"
     }
   },
-  "last_updated": "2026-05-31T21:56:00.642160+00:00"
+  "last_updated": "2026-06-01T03:54:26.858296+00:00"
 }

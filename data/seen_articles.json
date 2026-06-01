@@ -1,131 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkh1RC1vanc3V0drcWJvXzN0S1VzZzhKbG1LajJxbzR5a25kcWVrc3VHeXdndUJoRTBZVEJld0pkOXpRRjRQX1phUTNJbjlLWEVrZU4xN0pXaW8zWEs1NUtZYmlHdC1GSE0tVmhkQldiY2UzY0xpV3VmWk5vRDg5ODk3ZXZOd0ViV2RiOVhRM1pIVTlFOU9lWFRwMGdGSnlEM1lQRVZB?oc=5": {
-      "title": "中古車ウィーカーズ、伊藤忠がAIで再建挑む 27年度黒字化へ課題なお - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVREp4WkRHN1F2cDlFMzhUN1BPdTBNRUhLckVZSUZYRXpkclpLLXdGSHplMUl3YjE1X1pfakZDVWxTcXZqc0p1Y2FfdmdxOUs3cGlXZTUwMUlINjMwVC1laUlwbWd5TG1pN2pIZw?oc=5": {
-      "title": "IT系就職人気ランキング、知名度と機会求める学生 NTTデータ1位維持 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fVEpVS0xQcnFDeFRvelBYcEZ4a0NBMW1RenhwTkdCelhUTlpnZ2VHbWFVWTdQNE1NRy1tblhmeXZIMmlRZEc4U3dKSnZGSHUyc3I1TEl0RFgtMWdBT0NyUjkxX2RkUF9SU1RMS0RkMEV6cm9oUVc3NUR3LTg?oc=5": {
-      "title": "Japan Drone 2026 出展のお知らせ［NTT e-Drone Technology］ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWZibmx5SnoxdWZfS0FJQ3pKRFc3a0FiVDdLZUFkb1IxcnlsRm9jSVRUOFdRM1hkVmRsejMyWUhVSVF3NFRaS3Y1YU0yOTVTTHpfenZ6cVV0YmZEWjBBNFlqUFlyV1JPQkhhd3htcFc2MURWTm5CRkdhazYxYVBNWE8zUlFJVWU4Ty1kcEYwUUREWHR6V1BseUM4bkRFUkI3QVBVd3ln?oc=5": {
-      "title": "NTTドコモ、600億円で土地売却 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1U1ZBMEUteEdOdmRNMEc2bzIwUTg2Q3c5Q1U2dU92RHhKX1QwaE9JeDNKeVVXTjdDak9VQTY5c0l1RGhUQ050N2tLWjZnZW1XT3VXckFhRjJIUkI3VUhTcGdyQUpvOEgySzRIQ1g4VQ?oc=5": {
-      "title": "アサヒ飲料、初の生え抜き女性社長誕生 脱・マス広告偏重に“3つの矢” - 日経クロストレンド",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVBBTjBlMXpSXzZJQXJ6cWdjSzZZTklNSVhvdVdhd19yVU1SdFZpend0VmoyYm9XUTNydUd6S3RIZ2Fzajd2b3RNbVhhOURMdWhSRzZ4MmJ3dXpHZExDV01KQloxZDh6NUpoZlBHSmpZbFlpSjdPd3AzQ0lPR1o0dkhTZWRRaWp4azRSUDVVbkZqeGtiVU1mTzM5YVlPRUtjWkE?oc=5": {
-      "title": "ダイセル、着用型エアバッグ - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmsxNTJrVk05Qkc5SV92Z01xNlhKVWY5MnlZaTMyOFRsVGZXYTFtTHdCZDZUWVJuSFF6MlgyODZlYjFBOVRaM2g4a1NJZlZ4RjJoWlcxa2NOa2NwdmpnZGtjRTZ2UjdscDY3cUZ5ZU5icE9yODFzbVVRbVcwQTJBWkZMWGhlakRqRko0TGhXTmJlUmdjWkxUZ09XYVpDTTJRTkE?oc=5": {
-      "title": "ダイセル、成長投資に5年で3000億円 AIサーバー素材増産 - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5QlNfUkNpSlgxMWxvaUJPYzRuYkZYcGZPVVJxZmVQLTZBMFhVNVRFME4zeWluWXZuc0xJTldBczZ0MzRhV0tHZUk0T01ySndnNU1OcTMyOFhVN0t2cWVJZzVHVDE0eXM?oc=5": {
-      "title": "東芝、パワーMOSFET集積の車載マイコン 第4弾はCPUコア強化 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck11Qi1WS19zb09tTWZGMV9yRTk4aUxLVHdmOWZxR2JBdW1WMG9MbWwyWmJPLVRfcy1VNHlmRHdGZ1dCUmFlXzI3MHM4bnBQVDMyTTVWUkxuRlc1bEdndVhDZ3BIUkFsSlVnYk9kZmNfTXpEUEhwMS1VUnBFekV6TW1WaXhfRW9wMXNhb0JHUDFHc2JPLTBSTGlfcU50NjU3bGYtQlhkX00?oc=5": {
-      "title": "三五やトヨタ、愛知・みよし市で外来植物を駆除 計2.6トン - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9pTTBXa0JmMmx4WnlUSWpyblltN0V5bmc4U3F0bVFEN0FSUWpRY0hoZHhqLURFQnd4N0Q2VFJtUEcxam5NTVc2aWphdzN3NUZJN3cwTE1QT2tYVHlGS1l5QWlWOGxiVWxNTjdHMm5SclUtU1dUQ1ZDcUhuNTlMTXl6dU50OFlWdnp3d1Jod3FacUM5ZXUxZFR1TWxTUDh1TEl2b0hR?oc=5": {
-      "title": "トヨタ、海外8.3万台減産 11月までに 中東影響で台数拡大 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHNrQjNBclg5elRBQUg2cnRzeFRzampiMGRCaUxHMXJvdGYxWE5NV0luRGtLM3I2RHZ4TjhldnA5c0I0Qkh0ZEJydldPdHpKMmdLMDNxcTZ4N0xyME5ZdHpGSUlkX2Y0VnAyWDNreEtzVGpSal92NTFMVnY4WHBVVFJGNm1nRlVDQUFlM2NQTUdTTUdFSDlIZW5qQWNzNHRjMVE?oc=5": {
-      "title": "最高値の波、乗れぬ中部株 トヨタなど、昨年末比で下落銘柄過半 製造業の不透明感映す - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMm9Ka1U2RUMxVEFoc2FZQWxxM1VsTkVhcTFkLUF4SWpBS2wtV3RZbXA3YW8yQzMydmRNbVBzS21BWkR6ZTdDSEU5WkpuNFVsWk1oMXQxWFJhLTFJSHg0dVBrYkRIb0lQWkE?oc=5": {
-      "title": "楽天とファミマがポイントで連携強化 月3000円で還元率アップの狙い - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUpoNWtLMGV2ZF9VLWJqQ3ZjTjBHSG5Fa2gzNTVnVXJLTWJDYWE4NHhTNjBIcWwtUEtVMThrN3BoSUpPd1dxUm1BTkVtZkl3S2E1aWRFVWl2LXN6ZGFvR1J0Q3Z5aGxmaEJvZFZRSWVTTE5XMURXbG02Uk9ibWEwQlJwTHhiY2xGUzVROTFfZ05FT0pubjMwU0hQeFVTdms5cW8tOFZ0aXo?oc=5": {
-      "title": "楽天銀行、最終増益 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jTDFSeEg1Z21hQk5neGhzYUVoZDN1OXNGdGxTYm96QS10STVJZFBzR3R1eDViS3pzOEhadk1CSkJPT3F5Q2lrUVl1dU9hWWc3WmRrZTlRV0RWdUpBM21PMVlRckd4R1QySGtv?oc=5": {
-      "title": "全国12のイオンモールを会場とした小中学生向けブレイクダンスの大会「AEONMALL BREAKIN'' CHAMPIONSHIP 2026」開催［一般社団法人日本ブレイキン協会、イオンモール中日本支社 京滋北陸事業部］ - 日本経済新聞",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE85REpqMEtqdkFBWXZ0YnZCTi0tTmxPRmlJdi03QUpKdWNsZTU5T0c5QW16SURONTk5Tm1BN3hmZ0gwS3VnVWgxN0ZzWkhYUm5RZ1dYM29mSzE0YzU4cmxXc01WNll6NGo2eGxEeEtZZzdGYzNJQ0ZsaVp4Rm4?oc=5": {
-      "title": "【新業態オープン！】4月30日(木)Workman Colors イオンモール熱田店OPEN!!前々日の28日にはメディア向け内覧会を開催!!［ワークマン］ - 日本経済新聞",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jb1JQUFE2dm1pdDA5QWM0UVhXQVBFOTV3bGxTQTJ6NlhnYlRoQllTV2JCQlhsNktaUTREcGRIS3RlZVktLUlWUFl2a09LOTl5VE9RUHljX2ItNXEtYTFJeWluS0xMcjZOZEM2bzl1QVhKREFzbG5Lc3l2MUg?oc=5": {
-      "title": "【ＪＲ東海】ＮＡＮＧＡが「本(マ)気(ジ)で」つくる、ドクターイエローの寝袋が登場。～ＪＲ東海×ＮＡＮＧＡ、両社初のコラボレーション誕生～［東海旅客鉄道］ - 日本経済新聞",
-      "company": "東海旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2cxdmxpVnp5b1VoMU54OWlNdU1jQnRLbWV2X3l3X1NIUEl2N2JXX2NQTlNOWkh4TkFRX1VxaFNhYlFrZXRpNkpHMEpWU3JOSWdtZDBXRUNmZWZzRlJPRVV1QmpvZndRbXdLaU5uWG81QmJ0MUljT2RwbjV6dUNHaVVRU21neHVMUnlEMmdCZ3N3djJYNlVxUl91RGFDLWRzT2Nmd1lDTEg?oc=5": {
-      "title": "近鉄、踏切内の人をAIで検知 - 日本経済新聞",
-      "company": "近畿日本鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVphcnRHMUtiZGU1Y05fSUc1ZzNRdGlYUng1NjhFS2NVcGd1NW1tYV9qSnlnc3UwTHJTVWR5ai1qNkp3Si15NC1LWDFSRXNyUEdoRl91WGhjcC1Dc1FYWHZYdmFmMDQwX0kyR2p1V1pSNTJGVEYyM3VxakRvckllcmlsYjdZZV9PUDlmMUZ3VU9nLTdDR28yWUYyeEFhNmlIUU04TlZn?oc=5": {
-      "title": "JIC、東電の資本提携に応募せず 次期会長の出身ファンド - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXlyWi1Ua21IcFVWd2dHTDQ3aDhoQXFyelBIVVEwZ3A5WVZWTzU4NG1Yc245Qjl5NzEyenh0aDhzWVlpczNXVUlhdDBEQm9QUHpvd2JEYk9HbXFUQnRNTlpkdVZIZGJvOGplVkx5cGZGU1lvZldFM1F2emJocjJicW13bEhHY1BIanhER1VHRFhYekMxcnlqLTBKZEo?oc=5": {
-      "title": "「金融 AI コンファレンス 2026」にて、 みずほフィナンシャルグループ デジタル戦略部と共同登 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TcHNNQzcwd05iQnhoNDN6V3dxY2YzckRnbEJ5Q2N0dVY0c3VvUVFUME42OWp1TEd1cG1GRV9vb3RPTUswWGtUT0wydHMtV2JaaDNPWldvY0VtNktUU1JHTDQtWXR0Q0JWenZ4ZkhlS3drd3JmaWhzdkRRajU?oc=5": {
-      "title": "京都信金が午後の窓口を事前予約制に ～ 「課題解決型店舗」の全店展開と窓口営業時間の拡大［京都信用金庫］ - 日本経済新聞",
-      "company": "京都信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TzhKdE41QkpRNTA3bmtKLUU3SXNiTGJuWjNFTDFtN2lsT19CQlJYNDloY0I0VEU4cWh1V3lUUWFPMUJXUnF3d1ZoMi1BbHhVS2gwUWhzd0hiRTBldFlvNlpEQWpPZ1BjTkNtQTN5c04tQVh1SUNxblJSdDc?oc=5": {
-      "title": "ホリプロステージでの「チケット保険」提供合意について～エンタメに安心を！ ホリプロステージにて提供合意～［ニッセイプラス少額短期保険］ - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-25T22:05:32.603210+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YcGVBV0dmQmhCUEx2MEhMb0stV0JKWlFPNXduWU9GZkdKcElPQmRjWFFTR0tORWI4THB5cTUydnNjekhwRGltQ2FEVk9qQWc2bEQ1TkNQcElpNkZBOEtaTUtiY2lZNGc2NHJPMQ?oc=5": {
       "title": "中古車ウィーカーズ、伊藤忠がAIで再建挑む 27年度黒字化へ課題なお - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -4367,7 +4241,67 @@
       "company": "日本生命保険相互会社",
       "source": "日本経済新聞",
       "seen_at": "2026-06-01T17:36:48.171793+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TejVsM1YxNF9KQ2dCanNXbjdiRjVDUGo5XzdlRXVNY3lZcFMtUUYydHNtN1JYRWZCOFh0MUZPZkIxSVp6cDlaeXBob1k4RmJQclFrZXVpXzA1S1lSVDlHX2RhOXdrU1JPZUpFdA?oc=5": {
+      "title": "（おくやみ）小林博氏（元ミツウロコ〈現ミツウロコグループホールディングス〉常務） - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTRtNG9hQ01ZR3ctOC1HUEtIU0E5VDZ6NnAtVmotRmozanlOQU5FU2J1ckFQRV83bHJHRzJfZlRKYmVsVXVRbHlGTU5PZ0p5QUlDQVNiMU81blRRbjl5eVFlVTN0WHl1U0Z1eUhBeEFhSkJ5ZjVOTFF5MkRRSHYwaGI0bzNvSElKVnQwODNXOHJMQnRCOWtLUjdTNHpXQzhPblE?oc=5": {
+      "title": "光ファイバーの米工場 フジクラ「30年から生産」 原料の水素、調達環境精査 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SdHBIV05uVklMMXo5LVVERmRJVkZiQkNMa3R3UzEya0Y5aWJ5WWJ4eVJwM1dPbWJfdXJPVzVwYmVXOUE1Mmd1OGJoSVlLZEN5ZFE0V3F0bVVTOXFSY1RmX2VPSzBNV1oyQ0Q0?oc=5": {
+      "title": "光ファイバーの米工場 フジクラ「30年から生産」 原料の水素、調達環境精査 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTMUREU1hTMURaR0wzc3pseDF0blpUbjBXeWltU2owRW9Db0JGcWVoYWgydkptczBQaWR4RkdDbDYxRE0xVldvT3dEZFJ5d01NMWxTU0xST1BpaTNZQVByY1lhcE51WVpGWmlTaQ?oc=5": {
+      "title": "会計監査の信頼回復急ぐ ニデック問題、自民「東芝と似る」 ガバナンス強化 会計士協に促す - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3MjE2MlVIVUxsb3gzMFNXeW5LTFI0Ny0yTEp2VVRSckk3TldRYWxTTFlzbEI3Q2hYLVl3dHk5YkZQMlo0OGk0d3lKamxOZjJmQ3Rub0Z3TGNmVFdFa00xdko2UTU0OE5nZl82ag?oc=5": {
+      "title": "トヨタがヒューマノイド開発の取り組み披露、実用化は自社工場から - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWmFFNGFRVFZjVThUQkFvVzA5Y0ZzYlh6bWdhS3ZMTUs5Y0dSWkhQVU5vYldMUEJyMXZ5MExNTmhBeXJnaFVqOGlhMzZ5M0xUMDdZQWlBREkzcW1BQWNVUFFnTmVad3RUWXhpbVhTQ2YzUEpfZFV5MFd2OXlJczQ?oc=5": {
+      "title": "トヨタの電動車､初の5割超えへ EVはHV並みに稼げるか - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9icVptd1puRFJjdVlOSmg5U1FuQldOd2hDTVFKVU1WVm01NV9PZWVVMmlMNm1yVzY5ZFhVMXlIa0hYck1GNXgzT1V2QmxkSUF1aDVFZVZuZU02S0dRZmRnWTBmbEZXOWY3ejhkMEF5VHFZVG5Ja3JKMWJyQVl2aW8?oc=5": {
+      "title": "トヨタ、5月の国内新車販売13%増 ランクルFJ発売 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5MTZFNl9IQ0w2T3ZiZFRIZkV6YnU4ZDNpbEpPbjJpZjNyS3VPZlNEU0FpUjZWQjEzX1Q3TmxEZEJjMWJLemstTlZyakI0WDM2cHh1M3JoLVBIR21xZDJBdGRSblllT19vUGJF?oc=5": {
+      "title": "熊本のソウルフード「塩山の南関あげ」が、2026年6月4日（木）から開催される楽天スーパーセールにて10％OFFで販売決定！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE82MEFlc0R1T2ZobXdRcGRHMEZwUUQ5UVBVZ0d2Ty1GcVQyTGhvZzJIMmxLWTFORzc3ZWZHU2VYSjNuZ3NJd2dMSi1ZWVlVQ09zdGVaMGlvSERWVS1UQVhKX3g0Snp4S0xnaTZR?oc=5": {
+      "title": "「楽天ペイ」アプリ、2026年も「熱中症のほけん」を提供開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGpQWnl3N29OS0VPbXlUY0Z0aEhIVmtiY2VzME15ZVlrTU5oQU5XYVh2ejBSbHFNenFpUGFURWhKc2JJRkQ0NDR6RFZaXzc1Z24tUG1UU1pQclJuOTVfOVNYUlp2VXZEb2h5dXc2bUNkcmNpWG5yWmdvVTNFWUNtRkxmb2NkQnlYZTlicGR6RGRqSHdhXzB4UUk0aXRRaEcyUjRyLWNn?oc=5": {
+      "title": "SMBC日興、国内M&A向けに1000億円ファンド - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-01T23:00:00.800601+00:00"
     }
   },
-  "last_updated": "2026-06-01T17:36:48.172438+00:00"
+  "last_updated": "2026-06-01T23:00:00.801236+00:00"
 }

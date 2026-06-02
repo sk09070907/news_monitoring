@@ -1,179 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE50UFMzenN4c2JkSVdsUndzZUNNNUFTZjliNldnRTg0emVvOENPSFo4UmNsQzJtZDA5ZzJYekVOOWNhNXBTMUNVb0wyVjNNclgtMUk1WVlWaVV1Vm9LeTV1bkMydnNxRGRYbWdkQ1A5b3ZJZ3ItTDZR?oc=5": {
-      "title": "三菱商事､脱炭素30年目標を修正 再エネ開発目標は撤廃 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mRGdfT25JVXA3NWdEcDJNNVB0VGVJMUNoRlptbmtoN05NUEU2NjhTUTF5dGF6dDFJSGZaX2NKbW9kX0VQTnRhcjJyNWJwUk0taVVCS1hYT0JWbFYzSHJQUUV4amRjalM0UlJuYTFjU0JPQ0xkYnhManhCalI?oc=5": {
-      "title": "Shopifyアプリ内から発送代行へそのまま切替。STOCKCREW、三井物産「プラスシッピング」と協業開始［STOCKCREW］ - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1FVcHpoM1dUUTlHRVhwcVlWTWhBdlhkZm5rZkhxc0N3Vm9tWXU2cWRhVm9CNXlJckN6RUdIRXp1NXlvVkZrVUc4YmJPWlBjSS03aldmeTJORTF3anpwTXVvVnpQQUM2enNyYTRlZklYeGwtekpDY3dDQTFJcnQwVzFWUkRwWVBhUTVGR25TSUdtVUZiVEREdEN1SWtIcGRqUWh1T3ln?oc=5": {
-      "title": "中古車販売、AIで再建へ 伊藤忠、「ウィーカーズ」27年度黒字狙う 保険扱いなど回復途上 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PNDVTZDJvSXY2ZVlocmNmclpKLS12NVZPSnBXcWlMWGdmZzNFd1ZBR2xKZERleG90RUtVXzA0Y01MQVpJNVFEd3BqaC1YTmxpV0lrb2xveFdBU0N6SEpTNGItSndFcUROM2JrMERoTEwxQmRIUzFleUpka1g?oc=5": {
-      "title": "物流スタートアップのsouco、住友商事のCVC「住商ベンチャー・パートナーズ」から資金調達を実施［ｓｏｕｃｏ］ - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0hOdW1PM2tpc3YxRTNOdkdtU3VUa01vMGt4T2M1SDRpdGpjSGpNRmRKVDNPT0JKS2NHd09qeHFhUmhvQzROVjBZb3EwdHphd0RRRHJPWE02MTdtN1U1dE13R2xNLWVjWDVFQQ?oc=5": {
-      "title": "住商、AIスキルに等級 全社員5000人、6段階評価 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFUxdjREbWZVWGpQaWJSUnpSeF9sV2JsYlp0dkRPLV9lRzJjUTQyU3B6OENTaDVzUERfZkhzdy02dFJIT2hZOHhoRVBXYjhwMG43dG1CT2pTdTZzSHJ3eDU3ZFE3OUwtT1lCMHlnd2prOGhpai1oNFp0ZE9veEpMNldZUVhtZ3QtLTdEdzJuN0labm1leU41TXVScmlJYThYRDlqb1J3?oc=5": {
-      "title": "住商、AIスキルに等級 全社員5000人、6段階評価 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sSlJCdmpWNjJ1OVBuQ194TE1tbVZha1U5OVNUOThUUnpSdUw3aHdzUVBhYzRpd05WY0F2bVZNWEtCXzFuMGozWTI3czByT0NOMzk0TnZtQ29kbVR2VG80U1hKc1U4S00?oc=5": {
-      "title": "NTT系も販売、ファイバー級の「光無線通信」が商用へ 災害復旧にも - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzN6b3AwajlnRWFWcnE3N3lMUWxnRjc3SEhteklWQjBVNW84Si1oNE04TnBkaUk3Y2daalRPSm5fU3JiNEVucFVXV29GZC10bXRuMW1oUzJkaHJWd215QlZyem1qRHp1S2Jmb3MtbVZCMVZsSmQzUDR6d0V6SW1rVnIxaUdHMFUtVk1NZlZVNXgyNGxGenRYWE5LNmxOWFVEOHFyazRNdHdsUQ?oc=5": {
-      "title": "3大レース｢インディ500｣ NTTが支援のワケ トランプ氏にもリーチ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dc0stZndJNkQ4VnBOdXZpM3poY2FIbTJLSXl6S1Q1R05ISU5hUWNPWDJhUzFQLTlpUjJCUm1EU0I1MmV3dmlZcGFLVUZ1T0wwMGJ1MmFfN3RxWUVTY2FVU25JSWVXMVg3SU16bg?oc=5": {
-      "title": "3大レース｢インディ500｣ NTTが支援のワケ トランプ氏にもリーチ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDBMakV6dEFkd21CZHdpeUlXckVZcU9OWXM0MWx0MnFKSm5ob0ZoOVcydl9PUS1aUHp3OFE3Vkh1Q2tQcU43SVpoekY5Q0xVTE43cTBHWGxfQTA1M0VER2ptRHRtRnVSQXlPWUVXSy0zaDJWZUdxUWw3QXRNOUpENnJYU0ZNYzJXSkZ5enBaZUFQSm1pekhwZ0FJcDZwUEZiY1BEWGFtSXQ?oc=5": {
-      "title": "アサヒ、万年4位の缶チューハイ あえて「ビールより高い」で勝負 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UMVJRRTJKeExQSUxJQndVWG13dkFOazNldDIyLUxHbE1mdTJib3pxa3BwNTIzbURzQ3NIRXprdXE4YjAwUVFXOE1ja2xWNVpoOHdzQ0tDZ01KS3F2Z1VHR3I2LVNrRVZpdGRtQWdOWmtidEtqWmNwVVF6SXp3UQ?oc=5": {
-      "title": "日本製鉄･JFE、長期戦の電炉転換 CO2は1/4も鉄価格4割高 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PeEdOdy1jX3g5OUVlU1BEbmc3WHdYTE9IN21rMWRidXdNbDVFa0xvNHVfekxUU3VuWUEweHU4OHRISXZlMENYSlNDX0tXX3BnRG1RRGZ5Z1ppblp4VjczSWlaU2JLWU0?oc=5": {
-      "title": "三井住友銀と東芝、疑似量子で株価指数 組み合わせ最適化で「リスク最小」 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWUNMaU5PSkhRS29TWWdFXzJUdll5NnlqYk1GRnhPQ1BFTUd5NXNqQ2lKbG1jbVN5dVM4a080bEF6bWRaQmlIYkNyZlhWUUxSei1TMHNIQVlMSDVSMS1zb2hQYXhVeHdrX1NJbg?oc=5": {
-      "title": "森田啓二郎氏が死去 元トキメック（現東京計器）社長 - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mLWpURThJOEY1N0t2Q2xkeS1Ccko5VHMyUkQ5MWFqOE9JSGZhR1lYQmI0VmZtbllReVJ6U0xUcE9zSFFieUJoX0lwbE5hZEk0UDVvQWV3NEZwd2ppV0h1TkI5VkM2cUZUNDFCcw?oc=5": {
-      "title": "（おくやみ）森田啓二郎氏（元トキメック〈現東京計器〉社長） - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3d0Zk1HN01MZG52cDZubVE1dlhDSnR0TFN2Z1pIbWdGa2xLR1I0MFpxOTBseVBrdmtIS0pSZkRDZ3hkWTVkUS1Ka0VlTTd4Vm9IRllEcHVOYzYya19XdWhFVzBXSU1Semk1ak9BX2RtTmxIYkVBTTI5OW5LdjlCNEZZOWxJSVZFSGlCV2xGMG1ELUE5VTVOTDdCZkRRS0JvaGt2cjZ3a3o?oc=5": {
-      "title": "トヨタ系部品6社､研究開発費1兆円超 デンソーなど省レアアース急ぐ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHkwVXBnWjZ1ZzVuQ2kyTG9SRktqUjFxbnB2MG1sNUhUT0QxV1Q5TEV6Mll4aDVCVkFieVRaMnFObkhiTlVzQWFCcjRCQnNqRmVmQlI5LVRxQXhFUXBvRG1EM284YVFtcmt4UjBRMUFPQmhHdkNISUlXck9pMmhDZ1dvbFRBaHBMQi1FaVFYanBFaE5xYmpiZUVDOG9QMHZHa1FlOFNNRzI?oc=5": {
-      "title": "ウーブン・バイ・トヨタの自動運転AI開発、7工程循環で性能向上 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWxIOGd6T0hoZnBhR1ZkVlVSSkVHRmNoN0JIeEJvdW44RDg3WW9MeUZKUEg1WVA4alZRUkNhdHBfQWg3RzJ2dmk2ekdObmxTQl9FbHJ0MmdSQjRGQmtWN21VaFBzdkJ0V1dwRTM3eFJMZzBWOUwxd0U2V1lkZWxVWkd1clVmcVVWa2NqLUtlMkJzYWxYY0Fza3E0WTY0NHllVXZ0MmFR?oc=5": {
-      "title": "トヨタ系部品6社､研究開発費1兆円超 デンソーなど省レアアース急ぐ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSndCWGE3RUNMRVB3a3NGZXpHT1JYbHFLRERuQ2gxRXA5c1B6OWV3bTh6WGpDWkVfUW1LODBTNm9nSTI0bmZDT2k0SkNkSGx1WnhYcWZGMEpvZGtSWXFDQzFHUzFNcFQ1WlAyLVdZMXN2RFpUeGhVNnlHaTBablktZkl2ZUUwWmJWWDN2NVdkdDVPZWtud0dKUldpQkFvMmpXWmJ6ZVd2c3U?oc=5": {
-      "title": "生産現場の課題 解決めざし窓口 全トヨタ労連 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XS3lnemg3dWFOdkxRVENWb0Ezb0ZoLU9id0dveHBkb294bmtIS3ZsTTBZR2FJT1VnNi1ORFdtWU9rSjhyRTRzOTYtdnhVNlBLQy1SdHVyLXBZOTJyZEhvMElXMUd1SEVmdHhYaEVyTndYdzAwcWxMU2hid3c?oc=5": {
-      "title": "ランクセス、選択性イオン交換樹脂を用いた実証試験で、工場排水から99.9％超のPFAS除去を確認［ランクセス］ - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WaTFta2xCMlBHclc0V0ZveTBmZl9iQloybG9lMWNvaU1wVjRKQkVBVGF1Ny1MUnVnN3dId2ZUd3I4U0hOQWZFcXR2MThOREJ6TU9FOWRxdkllUFBWZGNXWlZZc2p3c2RrdVU0?oc=5": {
-      "title": "ランクセス、選択性イオン交換樹脂を用いた実証試験で、工場排水から99.9％超のPFAS除去を確認 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhX1pJNHE3RDJvQ0ZZWXVmRkRVMlhvTEJnZm5zSFpWSjBwUXVJTWJTZDJRcnpvc1hyOUJmaE5TdWEwN0hFQnZrRjViRkdlWGMzTHFiNEV3dUFLVERsQjJGbzVxU0ZCVHhTWHI0?oc=5": {
-      "title": "第13回JR東日本スタートアッププログラム DEMO DAYに、株式会社Kailas Roboticsが登壇 - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZNWlTTnBQQkJkd01yT2tETG1jc3lzNkFEbnRCV1FobHVDaDlfMm9fLTV5UjB0dFpaMHJRU1JwZWp3MU0xT21GX2FOZGsyUm5oNGRGaUEybkozS092cEtMR2I3ZDMzdnc4Ymo1cg?oc=5": {
-      "title": "商船三井など保有のLNG船、ホルムズ海峡通過 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE13S05Ma2Vtd3lwUXFMSVVBRGZpZzR6SFZCeHVWQm1qMFgyZ3RhSE5UbzFOOERfRHIxNEhPQ0Q4dXJGZ0tEY21lbEFjdlZoTFItWmdFbHZsazVjSXgtLThxT0pMa0I3dGRLUEZmc29uczA2V1dyNmFhM3lrSW4?oc=5": {
-      "title": "三菱UFJ信託銀行とエーザイ認知機能に関する情報提供を通じた高齢者向け金融サービスの強化に向けて連携［三菱ＵＦＪ信託銀行］ - 日本経済新聞",
-      "company": "三菱UFJ信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZlRQSjJvRFhJRmhRUmtfMGtMb29ZWklUQU5sSlZqLUVVQXV2cm15ZDJDWXFNeXBGQ180RDkyZWVSQ2c5LTM0cVdJTkRhazhvdXhVcGNJMURNQUxWdXNYOE8yQ3hMMzBuVFhkZg?oc=5": {
-      "title": "GMOあおぞら銀行、法人口座にAI導入 資金繰り予測・支払い自動化 - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnRNN1NXQWhLcWJLTEdmc0owZGNfOGhJMnVvM0pVTTdvZjZmNHYzemJCRktuN2lXNWZxM2lobEdqT1BtZml3VnVFcS1KNkVQQ1diSUhaT2FuTk9hQ2NGdkpCT0VqWlpIUnoycWsxYjVkNFBrNXpDX3VORXZ2UkRpMkdHS25KMTQxZzdVTnItdzBTNktiQVpfSktxOHBnejRoOFdNRm5CYlI?oc=5": {
-      "title": "三井住友、SBIと組み投資一任 運用助言セット オリーブ顧客取り込む - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HdU1qeEM0dXFHcVZDc1gwU1pWczRhVXNSZjJZZXZ3Q1JLWnp4VEg0TWtMOE9iVFFMTTRhdnB5eks2TlN5WkVDQlE0WGlZdTZDeVVRVUlRU3NDWVJ6MWVkc3d4UU42dUZTRHktMVlQazEzek9PSVhTdEN1UW4?oc=5": {
-      "title": "喜界町地域脱炭素ビジョン推進に関する連携協定に日本総合研究所が新たに参画［三井住友ファイナンス＆リース］ - 日本経済新聞",
-      "company": "三井住友ファイナンス＆リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE96bC1TbDNGWktLLUU2TV8xNm15bTB0VGJwSEJDcFRQZk5QVWV4U3hDVlVmQWdRR0QxN212N3ZtVXN3R1dFcng2NmtrRkplbFFhbFI3NWYxZE0takYwTzRHTDNxcFFWTDBhdUJJbWVqNDZxcmtuY0k4V0hKblE?oc=5": {
-      "title": "ベトナム・ホーチミン市南部における総戸数420 戸のコンドミニアム物件 「Celesta Gold(セレスタ ゴールド)」に参画［野村不動産ホールディングス］ - 日本経済新聞",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LcEJsQnBVVVRGeUpuZWE5Y0phNjFIUHN3Z0otRUxQVkhmZUhYdEZ0R09zQXFlMTFMcDd2ekQyM1QySS1lcEpyalFTaGlSVkVFVnVSc3NEYXVPZXFWYkd2eUgtU3U5bUp4UHJoSzhwS0FudWNDZUtIMWdOd3A?oc=5": {
-      "title": "ベトナム・ハノイ中心部 高級住宅街区 「Ciputra」 内における、490 戸の高額分譲住宅 「Maison Privee（メゾン プリヴェ）」に参画［野村不動産ホールディングス］ - 日本経済新聞",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fMEVoSHlZUElBSTNGNU9yekUwT0JscXVhMnNGamI1dmdDeTMyb3VKV2J2UHBXbkduV0xhd2RLWHVvckxYR2w4Uy1HUGF4V21JT3JqVDVvWVgyY2dFZ1FTMnVLVGRiZ2xWaVRHU25KNW1Rc0NWSFBTRVB0RXI?oc=5": {
-      "title": "アーティストYOSHIROTTENの新境地となる過去最大規模個展「ヨシロットン展 彼方との交信／BEYOND EARTH」虎ノ門ヒルズ TOKYO NODEにて開催決定［森ビル］ - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-26T22:18:50.016242+00:00"
-    },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEEweHdFdU54VzA3cldQTWhsV0g3X2NRdDZySlRWaHpBX09OMk5oWWhKWk1DUmd1LUdYNHQ4X0VTdHJsR0hwUWNEaHBHWjNxVzd6aDhTcnpybG0zLWxHeTRzanA5LUxnQmFtRXVHVFlUaWt4RXhDekZOYXM1SnpUTVpPVW9IMDVfWTNxQ2FyZkdQNGxp?oc=5": {
       "title": "NTT系も販売、ファイバー級の「光無線通信」が商用へ 災害復旧にも（2ページ目） - 日経クロステック",
       "company": "NTT",
@@ -4193,7 +4019,79 @@
       "company": "みずほ銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-06-02T16:21:23.814954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamhFcUZRckxDMXlqYms3dUJqTEVldDRiOHJwMnF5MDlKMnE5UGVWRXJmdkxSTGVYT3BpV0swWm4zenp1dGd5VE9qdWJCel9Cc0R5QVlaWWtmeGhlRGtCaTFnaG5IV3RUdy1SNTNyTFJDdzdBYjBhd3lORVNTUFpZVERhX2pXYUF6VWpnNUdWVHFZNVhLMjR2V1ZfZlRtYXBidVE?oc=5": {
+      "title": "ENEOSタンカー帰港「安堵できない」 中東情勢、5月収束想定崩れる - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4eWVfMG9SR3ZBZ1VNbUdXUkJtNUs3U21TZDRSaC1MR0J3T2FiRnlKbVhxWFZvVTg0aGpRNzVlUUMwMk5GamJWTnhFS2xEaXZoc1EwV2VodnlwZ3BUQ3ZXWjVvQ3Etai1hMEYwUQ?oc=5": {
+      "title": "決算:フジクラ、評価割れる水素調達リスク 市場は影響軽微との見方 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNU9vb2hyM3ZZWEpTQ0w3ME1LZVlBX1hwX082b2lYbGEzMGhXeHY3ckpQbi1WeW1aWXJibWllT0QtY0syVDFBWXBYZXl3SVZVc3RVMjlka3JpQzJVUEdZQ3hFcWkxbjdVRXMxQzFpNEtvTGR6a3pjN3ZnRGVZUXlfUURqdHFybUIxN3o2N3ZOMTMtS3BtdzhuODdfWmFsTHFOcEpORw?oc=5": {
+      "title": "5月新車販売3%増､トヨタけん引 新車効果･税制見直しで - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVmF0dG1rS0pjQngxT2J3ck10RkVoQzVIVS1uSENGSFp4em5tUldPc3lfSXMyZHdadm8yNkNxaElxa25yN3hpWTlJOVNWOF93TTdRSUNTb2xQQXR5Q3JyZy1pazd2WW1aamc4dlhwYXRRT3RTZDlZNmZVc19WSUk?oc=5": {
+      "title": "トヨタ､進むグループ持ち合い株解消 遠ざかるROE20% - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2pSaXF6bWM0VDdtRXNFMHQwcWtadm56MVc2VzJZRGx6bVlJd2NheW5obDFqd1dQbnp4SmU4dmpxYTZaYnFJM1Z4ZG5yRDJBblgxRy14TzFJS2xFd1BKNDRqNmdGZ085MHI2TllTb0hxUlhOdVpuMlJtNmRvbjBQaG1HM2p5Y0N3cEFOSzNoRVBPQzd4d2JzWHNpU0N3bXdrSmRUYWpocDU?oc=5": {
+      "title": "トヨタやスズキ、台風で工場停止 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2c0ZG83SDljMWdEd2VXU0d6YlVzRDlDeHM1N29sTUQzNDh0bTNSaTFhM2ktVXVuYTB1QzhvTFBGRWZKNEtZckNGQmx6bG9QSkNtM0l4T2E3SjN3eHdBTWV6cEY3WS01QVBaTnpSSjlESU9tQTY4YkVwcksxTXZDaWxXNzVhY3ZEeWZneHcwNmR2QWFmSlVHQU1jbXkzblNxMVFSTVowYU4?oc=5": {
+      "title": "沖縄の穴場観光地に誘う トヨタ基金 レンタカーのナビで実証 渋滞軽減へ目的地分散 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTd4SFlZWTV4SlRBUDFDNUJsMjJISU5MNXJ5cFNPb0xQYVdpU2hLOGtlTWZsX3g0THA3RGJMM2pXYTVlRGVCamU4X1Aya05NNDd0R3dZZGluNFJ6blQ4MV9XbDBjOWJjeENadFkwMmkyMjlBa3U4dWlhMnNQR3pyT3dJYkFDQUVaYlZUMGlRcWJfcGM5QU15RTQ5MWV3TmIzS2d6dThheEE?oc=5": {
+      "title": "トヨタ、「GRMN」のカローラ発売 来年日米豪で - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NHZoYTJVa3YyUDhvLVk2T0xaQXhZSy1tbjltMEFwMmgtUEdwY01GMkVDNXlYXzBVTWRKdWYzdmhVQnRCVWNWSnVQNGlKWjRPT1BsZXk1Tm1ualBKNlNnX0stcEN0NGRZZDU2LXI3cGVVRzFxX19B?oc=5": {
+      "title": "ナトリウムイオン蓄電池を太陽光に併設 極寒でも作動 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VenJ6TEw1X3FFQjZ6ZFNQNHlpOHJ0WE5FRVdaalRzRTBzd1A3SWJOdG83OVd6azVxQ3FQX05hQnEzaUc3TXJBdk0yeHA1Z3RJc0s0bmJrRUs3Zlp4TWR4WkhWZXI5TTNzSzJF?oc=5": {
+      "title": "【イオンモール岡崎・東浦】シーホース三河の期間限定POPUP SHOP＆写真展「COME BACK」が6月に連続開催！限定ビジュアルグッズも販売 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkI1d2wwcVVXaEJzcjh3XzVOMVZCOWd1aEpZdDR0RnlnM1hHN3BUN3d6X1NoOHJnV0dvVmlnUzZoVERNZEpUNjNjbFdwbHNTaWM2bE0yUG4yVVRsWUR1d2hnSVNvQkdCVjJPSmU2WWptOU1QLTEzUWNMRFFQNE5pZE84ZUM0Q0pWdXJGajE0WTkzRFk0amtJN2l1YWFpRWtLMUxmMjBn?oc=5": {
+      "title": "東電次期会長「外資排除せず」 資本提携先、選定へ詰め - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeDdLUmU5V3dFZnB2cFpqQjhEWE5TMUN4SENTenFDeFFCRjg2Zk00MUY0azMwaXhXb3BrYkZCdFR3NUFXbjB0b3YwM1JjR2lsWk9WQ3JYczNrMFRWTkwxU3RqbFpfaU51UWF4MQ?oc=5": {
+      "title": "日本株ADR2日、買い優勢 メガバンクや野村が上昇 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXpjMXBsLUg2UndWVlhra1dSb0JzWC16UWdpaExpWDlBVnQxVVNIZEktOGV2WnoyYk1UZE1wUU5GTjNrd2lDaUptRVYyTkdlZVB5QUVBUXE4ZHFwY1gxaUFVbV9YbzFhNnAwSGtnMHVZNUQ0T3o5enNHVXZINTJBMF9MMjFSdm1IV2d5MVBIeTNIYll0?oc=5": {
+      "title": "東京センチュリー藤原社長、利益4倍計画の真意 - NIKKEI Financial",
+      "company": "東京センチュリー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-02T22:59:27.364356+00:00"
     }
   },
-  "last_updated": "2026-06-02T16:21:23.815293+00:00"
+  "last_updated": "2026-06-02T22:59:27.365042+00:00"
 }

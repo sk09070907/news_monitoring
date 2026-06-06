@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGxWNG1lRk9XUWs5NWtPUlI0dEtfSG9yd2lUNWpnODI5OWFsSUtnVEUxLVlHVlVfUHFBbHA4VlhENFdtOUZEeTE4SUUxZW1xX01Eb2FJZ2FmbzRDRmh5WEhGOTA0ZmxOVDV0Rm1KekRUZ2ZLa0oybk5iSlBra2luQUZMamRBcFFZN1ZUNVZtT1BRUlFQRHN5MUVudFMxampzcENPdWlR?oc=5": {
-      "title": "鉱山DXの米新興に出資 三井物産、技術導入を検討 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-30T06:22:51.483815+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BUkt5NjF1SU11T1VPVGxFckkwZWRMRlJQZVdfNjlFbE9xMlFUemxndFV4b2tZNVVGSXl6U25kMFBTMnlRNms0YnAwYzJFb1RSUXY2NS1pZ2FWSzlWZ0VNYXNEWE1hV3BRT0VZ?oc=5": {
-      "title": "Hondaファン必見。歴代ウイングマークをデザインした「Honda Wing History 折りたたみコンテナボックス」楽天市場で予約開始！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-05-30T06:22:51.483815+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wRWxVUU54RHZ3MW1QZmRZdE92alR2ekhBaWJ2Wmhod00zSkFqb2wzcDh4VDIwSE1LRUR3cGREOGx5dlBfQ204cVFDMXlTMFBqRndYMG90UkhQUmFGRW9WbFlXLWpUcHR2Rnc?oc=5": {
-      "title": "関西電力[9503]：2026年定時株主総会 議案・事業報告等(交付書面) 2026年5月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-30T06:22:51.483815+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfeXN4aGhlWkZjdllsaWV2eVdVbzdlMTdLY2tJVDhMeXlWVFpYNkZJRm5zTU42Y0NLbXEwRTdLVzFiQ0QxMjFJN3hRLS1oVi0xQ2pyZjdxSFVSczNhaWVIYlFkWm1HZDhxd3ZSeQ?oc=5": {
       "title": "楽天証券経済研究所・窪田真之 『孫子』に学ぶ株式投資術 - 日本経済新聞",
       "company": "楽天",
@@ -2969,7 +2951,37 @@
       "company": "クレディセゾン",
       "source": "日本経済新聞",
       "seen_at": "2026-06-06T02:56:33.294553+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnh1dE5NNXV5ZG1WUy15Q0M2dFRTQjEtY19qV3pEU2lJNi1vd1h6U1BYNGtRX2VLb0x2ZVNsTnRNRDQyazJGSFF3dTVpa01oZ2doclltbFhUZkEyLTd6R2lKN1A3TDVnYXBINnl2NTNHbWQ2a2ZqYUozWk1lVXdpTkg4aWpVeTRxYlhrMjk1akoyYTRhMjhOWGhoazV2Uy1hWFJkWkd6U3hfdw?oc=5": {
+      "title": "【詳報】ミュトス並みＡＩ普及でサイバー攻撃は「大衆化」＝三井物産セキュアディレクションの吉川孝志フェローに聞く - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-06-06T06:30:41.995258+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNENsSFIyOHFaa0M0dXliM0F0QklYX3V6ZUZuXzU2VG1vWnhTU2tic0tYWml0cUNJMmxqZ3d0cUhWbzZiMVVXSXNvTjJPdnJkNy1mb0J4X29QVUVuOHQ0M0dhUVg5TmVPY2I1UkYxamNyUDZpUGtaTjg5c1E0VEVtU0VRYl9JckZ1N0p0Zjl1UE9XYjI4US1SY2UtdEFuMEpVOUgtLXJwV2s?oc=5": {
+      "title": "ホルムズ通過のENEOS原油タンカー、横浜市の製油所に到着 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-06T06:30:41.995258+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Q3ZfZlFqNmVKczFndHMzUHVtUkUxV0lnTEl0eHV6QWREWXFMMW1tVUxMSjZxVHNlVTBtRjFoSXlNSXpaTjEzODFzZUxVMEVNVUR3b3h3LTZLdlo3RVV3STVLMTR0ZjYtWTZJ?oc=5": {
+      "title": "「閉じる瞬間、ビクッとする」その不安に。28,000本売れた“すごい日傘”「晴雫」が楽天市場デイリーランキング1位を獲得 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-06T06:30:41.995258+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RSmlQQUJJS2RFOHRGdnlzekQ5WFhBR1cwYzI3UXFRekxpYXgydnZ0bzdqc3I0UEJiNkt5MVJlSnFpd3FrbGJTZWZQbTlxU1ZLQ3VMSUdDYXIwRkZQdWR6M1FBcTN4QnVOV1lV?oc=5": {
+      "title": "【梅雨×猛暑対策】KONCIWA、大阪初POP UPをイオンモール日根野で開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-06T06:30:41.995258+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG0xejNXWkwxMkxwYUZBNk9CcFhacElla3d0bUlQcnE1WTUxTkFQbkZIMGlFc2VaSm5GVTZwTTM0U2JMMHRnUGZPbTZBYUt4cjB0ME5TR0lHUkpreWFxOWZVRTRCeF9wLUU3M2hTTnlvUVBlVkZaY1lrV2ZRU0M1R3dlSFhKQ2JaTS1TNE9DRGZLRlRjb3JEdDJ6RUdvZjZaZ20yQ1VR?oc=5": {
+      "title": "イオン、環境配慮商品フェア 全国5700店舗で開催 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-06T06:30:41.995258+00:00"
     }
   },
-  "last_updated": "2026-06-06T02:56:33.295090+00:00"
+  "last_updated": "2026-06-06T06:30:41.995527+00:00"
 }

@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZDFnNlVPNWd2dWpWcTYzdkN3TFhGd3J1RjBIUDNpVkN3d0NWUkxGUlhxV0t4ZXROTUVxMEJYRTBJVENTMnZWUlhRZWpxWXRRNmFDRnlYVDhYZElreGszaURsbmlpUQ?oc=5": {
-      "title": "1位カワサキ、トヨタは？ 国産車・2輪車「幸福度」ランキング＆詳細 - 日経クロストレンド",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-31T21:56:00.641639+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE10N01IYzQxSk45TkVlNEwxYWhDSy1LN1ppRDdpQXRvZTQtSF9VNDFBdE5YSVFKMTdwa0RHUmppbFdGbTQ4S2lJaTY5ZVlaTmptYUVsSGx0Rk96SGowMkpPczdXWnVqWUxmUndhWkltdDdUcEk0cDE0eHVhWVZ0c2c?oc=5": {
-      "title": "トヨタの大転換 近社長、今こそ｢アクセル｣投資4兆円 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-31T21:56:00.641639+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04X05WYWF0akVyci1oYzJzNktsZU0xWnZLOGZBMlpFcmg0eGdRQUc4TUpxMjFFM1FvSW1qX0YxSzFTUng4eWNFZkJubFRvVUJHYzE1ZThqbW1nMm51azNNdkhRQ3g2NHM?oc=5": {
-      "title": "ファミマと楽天がポイント還元で連携、踏み込んだ取り組みにつながるか - 日経クロステック",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-31T21:56:00.641639+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZkdEZFFMYzhoTktBUGJWSERHM3c0Nms1Vi1nMG5ldmpUT0RVSHI4ZkZXM1p2d1NzLUdqcVc3RHVfZXh4Slpmdnpyb19CSnUxeDI5S3UtQXU0bndtNlVMZWJ6VWNyM1Zhc3liQw?oc=5": {
-      "title": "関電社長、電力需要増で｢LNG火力新設急ぐ｣ 40年に電源容量3割上げ - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-05-31T21:56:00.641639+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxVG1HUGtKZDJmNG9jT0d3bzNzZ0dDOGJBX0UwNmxNQkNhaUJRblVrSWVKM0wzMVhEa2lOcE1Ldk9fMmNtQXhlSGh5S1liRU1yUE1CcFZLZUJlRDFsaWo2cWIyTFg2NnFiMGlr?oc=5": {
       "title": "三井物産デジタル・アセットマネジメント、北洋銀行とのビジネスマッチングを開始 - 時事ドットコム",
       "company": "三井物産",
@@ -2921,7 +2897,49 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-06-06T22:00:18.154569+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvSFdjUHdiTFlEbFBidW5raUNDcFRBZFppVTczYkEwa3lnUm9BTnNVWHBQTExkZFVWVm9qLWJ5RE83LWpROVZ1dU9vcWRpRzYtYmxQdFAyeV9rcEdKNDh5RkI3ZWVja1E?oc=5": {
+      "title": "三井物産、法務部長を経営メンバーに 地政学リスクや経済安保への対応も - 日経ビジネス電子版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT05XMUxWelk3dG5sYXcybHRFU2JVUmwzbE9CUVNiX1I4VUJseXBROVB6M29OVEtvWDhuam5ORUdjMzdIc24tS0lGVTY1eXIwSXBzaHdaT1RIbUoxZTl0bUhjY251amlyQVoxRVJKcjlvUS1nYWl1UFVFN2xjejJLYlBiVDlxZw?oc=5": {
+      "title": "三井物産などGC・CLO設置相次ぐ 法的思考が羅針盤にリスクテイクを後押し - 日経ビジネス電子版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CejZwR2wyNk0zTHNqVk9Ra2l3UE9mb3RCRkFDanF3WDZEbWxiX1UzZ3RiRXIydHFLbUdXVnZvUk4zM1VPc0tqck1pZGVtb0ZVSGEyeW5VN2VIdGRUYzVmSEcwUUJ1REh5TVI4N25GZlM?oc=5": {
+      "title": "三井物産、AIとブロックチェーンで金融再設計[PR] - 日経BizGate",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GbV9pa1d2N1VONi02MkpfcmpERmRwbEhtaXUwM3JYRWVrczhfcmN6azNWQks1eUtrMkVpMml3QldZT0VLTTRCeDZZLXFkRGRmeGUwZC1DVmxJRXhlVm85Q0stZmZmSVc5NGVGMg?oc=5": {
+      "title": "不審な電話番号を判定するスマホアプリ「詐欺対策 by NTTタウンページ」 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcm5adFkxYU9tZktYemZ6ZGZtWFgyX2FxTkRZaU1qSVhha2wxbUtLTGNPRF9lbUFTT0NyREtoUEV2QWJhZ2YwQlQ4dzNvTGt0dzM3WjdxYlpSb054clhfVGZHXzl2U0Vmb3Q1VjIycmpZalRYNGt5c3VoZWhhYXp3OEtBekpyWlFRUVhCekN0Yw?oc=5": {
+      "title": "NTT西日本の情報漏洩、悠長な対応の高い代償【不祥事研究】 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJXzFXbVowbmo2WDZJWXlIWjBvRDA5S0h4dFJyTU9rMnZCSTZKR2txeWNxV3RGRHk5TF9uclIxUG9wUGVrblh4ZXNuakxEbGFWZWMzMEpKMG9JN0x0ZHdJUGlMMG8xN3Q0aWFfTDZXNzZHbGJZbDh2Q0owV2JXWmc?oc=5": {
+      "title": "5月の中国販売、トヨタとホンダ大幅減 ガソリン車低迷 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EVjF5Ty1Jb2x0dEJyWm1MZmRYZDhSUUtZMWRsUnZTd1JXYzlQTF9HNWl3MjdaZUl2VkY2ZUdZSTVyT1AwdUcxM0FtVFJMOFFNd25sa1RKSUVsWi1WUWlBNWgtVUVQNEg0SlV2dWRXWndQYVIxd0RHblhwMmV2OVk?oc=5": {
+      "title": "トヨタ、競技カート専用工場 愛知・蒲郡で今秋稼働 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-07T22:01:19.688935+00:00"
     }
   },
-  "last_updated": "2026-06-07T13:48:54.580049+00:00"
+  "last_updated": "2026-06-07T22:01:19.689503+00:00"
 }

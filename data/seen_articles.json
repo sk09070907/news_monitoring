@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNmVaT1BsR3dLanFfa3ZRVUdoZG13SlFRLTY0b2xBSkMwZUJpLWp6UlNsUzlUb0ZDTjBSWkJIckpSdlQzT2JuaFBRRE1YUVh6VkNmZnF0Ni1YSkVlVWlTRll0bmg4SGJVanhjYQ?oc=5": {
-      "title": "NTT、AIが根拠に基づいた回答する技術 医療現場や経営判断で活用 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTlmSm9SUFhzMTBpaW5mM0tVTnpaZWFrUTEzcThFLWtRSmpfamFJTy1Tb3ZUOGZ3MDk4OXlwOGpwVDBLQXBON1hlZkxMUUZtcFpRRnNldGdLUUU3V2s4Yno2bEozQW1senZaSWlFcHlGVnlLUzQ1TnF3MVZxb3BxX1IzX3BHUXkzRG1lU2lYV3RSWlJKQmtZRGhiaDlUNmpLNzFPM2hhbE8?oc=5": {
-      "title": "トヨタ、台風6号で国内13工場の稼働停止へ 3日午前 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kMlB0Um1mWXFXcjduRDdaZ2pZMXVSMUYxZHdDdzVLbDUtaHBlX1EzWXRCZi04cEZ0bW5oWVVOUXA4cmJiYlhKV3FSLUsxM2FiT29EUg?oc=5": {
-      "title": "◎トヨタ、国内１３工場停止 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb29tcFhKejZYQjh1aXBoYWZ2bzV6OVA4UkFEQzltVmhRelpEMnhNcmxUWXdaMnlQS0kzbi03NVpacUtWWHVHZzRnRXFCMjBXbXFjNnZVLU9ZVDY2aENnU1dkVU5ZQ2lwZ0RzZTNzM2dKQTV2RFNpMzZOZ01nc3BVcnQ0RnhNQk1qZThpTDBzWVF6cUpxUmdlYW1xRmRWaFBmRGZ3VHl2R1FQdw?oc=5": {
-      "title": "千葉の新生マリンスタジアム、イオンモール加わりドーム化へ始動 - 日本経済新聞",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUlnb3MtNy1Ea2V2M2hVVFBEa3MxS1NzRUZieDl3VzRLcTN3SVFBa3FWZk5TRlhwZHlocGZnSjFaaDM4bW1yQnVwcG43bENGSldfcGpwdFVPVUxnZUt5bmI1MTdubllRdE5nYlI4a2NwMkZsU2hlMXpvbWRaSC05R0hR?oc=5": {
-      "title": "スピード感持って改革実行 横尾東電次期会長が記者会見 - 時事ドットコム",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Z1hwbExuUF93dFVEeTRGNFVsM3dOYUdUUUU0N3o0TmNLZEMyVWtRNzEyMFJuSEFhUTVUUUZKTHNlekxkeEFtOVB1WG90Q0k?oc=5": {
-      "title": "【動画】スピード感持って改革実行 横尾東電次期会長が記者会見 - 時事通信ニュース",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ed2RRblVHWlh3cEhlSS1KVWpkUl9Ya0V6SFVZM0F0anE4ZkxYLWtYMEZFa0tCVjVxSHhORlZYZzhvYmRlVkxrYjZtV1RmU3NnZTVlSQ?oc=5": {
-      "title": "◎関電、きんでん株２２３７億円で売却 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjdkQTVmTFYyR3h2Ty1EQmZrQk1RMV8ySXFjcTZkODh4amhTc1Jhbks5MWE5YXhpTkFKSzdJVTFSQ3VueDJ0ekpfTU5nMzdGX3BYazlGaGY0ejhuR19RN2RlOHExRHlwTTVOeWt6T3BtOHNFQlRFMmVXRUZEV2JpOUJXekhaWXhad3RmbHNIbVp4VmRINmVWQmQtb0RkOEp1LVV5RWNtckd5ZzQ?oc=5": {
-      "title": "みずほ銀行、SAP Multi-Bank Connectivityを導入 - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-02T16:21:23.814954+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamhFcUZRckxDMXlqYms3dUJqTEVldDRiOHJwMnF5MDlKMnE5UGVWRXJmdkxSTGVYT3BpV0swWm4zenp1dGd5VE9qdWJCel9Cc0R5QVlaWWtmeGhlRGtCaTFnaG5IV3RUdy1SNTNyTFJDdzdBYjBhd3lORVNTUFpZVERhX2pXYUF6VWpnNUdWVHFZNVhLMjR2V1ZfZlRtYXBidVE?oc=5": {
       "title": "ENEOSタンカー帰港「安堵できない」 中東情勢、5月収束想定崩れる - 日本経済新聞",
       "company": "ENEOSホールディングス",
@@ -2579,7 +2531,55 @@
       "company": "東北電力",
       "source": "時事通信",
       "seen_at": "2026-06-09T15:19:00.701950+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTTdydUlENTFCM1hzck8ybXFxZ2pCM09TVVBLbmRGUlFYdDBWNExKQjQyNGtrc1hoR2MzdjF1dFRYTk9CM0NzMmotV2RJeGRncV9RUlRnZnE0Ykx3M25OcS1FdFVDcG43bHBrQg?oc=5": {
+      "title": "フジクラ[5803]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnliY1l2QlJGTnd2bk9ydXNabnZPa1daNTF5VHBUZVhYRHAxWl9ZaTVBRUVoX2tYN0w5bEM4R1B6OWRnTktnVG42dXJ5LXE2MWpVcmpOTk9pb0d6RGdJUnRQYXVyOW1MRkNBbVNGMFF3MU5NWXY0eDRfVTl5eE1wNWNwVzhsWnNmLXZfS3dxZXlPUGNTTUZtU2xiYWtHOVRRV2c?oc=5": {
+      "title": "ラオスでトヨタ車生産 28年4月にも 豊通が新会社 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzdNeUZUcHQ2S1J5ZmRJdkN3ZDVPU25tWF8wYnBNeUN2V3ZLMnhaQUhTWldtTE5qR0I4NUFBbGtVR1ZRQ1Z6VWd0UHVRamYyZy1nV0ZVTm1xaFN0ZnRlUzBJaTFqUXNKQUc1dnRoeGFBTEQ0WjZKSnVPamg5SU96cmRBMmFWa1ZCQzNRMzEwTUNId285WHp6b19GZ2NpSUpFUWRUNGFTM3Q?oc=5": {
+      "title": "レンタカー業務カイゼン トヨタ、沖縄で繁忙期も回転率向上 脱・勘頼り 紙ファイル「カンバン」作成 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTdleU0xa3dlZEpORFpwSVk4RUFZbURwTlZrWjRwUjFPWnlBYURmeTJIckVYdG9KNDlzQW85ZUdOaFFCWEtGZlo0MVNCZXJyVFlrRzNnRk91clV4Q0stN2FTay1wQzJjdTJaUDRjZFZPNWs5ZGY3SDBTaG1nQjU0azI3OHV2SmJvOGQza0NoVlQ0MEpTS2JIZm5qVU1rMHZWMWc?oc=5": {
+      "title": "「クラウン」からDJブース給電 トヨタ、音楽イベントで - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qUndxeFhEREVMclFtOXNJRHpCdk5SM2xuaG1wNHJwT3g5NEFudG9yV1F6bWsxZFc2eFlnTkplZTM0U1dFOXNyNkhWTVlyV1JPVGh5dDg1OFNfbTBHM0NZSEgzbmlVTUU?oc=5": {
+      "title": "トヨタ、「世界最高水準」VLMを外販 ウーブン豊田大輔氏「AIが街を理解」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWZUVUpDejFLclJkbTc3aU1vYkNYcFM0eXVHYkZ0b0NtbkN3SHZHVFd3YzBnbzQtN3k0N2dEQjMydmRnRDRVSmZlc0JtYnNOZHUtXzdyYWZRYjkzeTJjQnNsN25SeDlHaDJnQVRpc3hOeEhVZEFpbTB3RE1qRjRabVJQY29MZ0xIQ0JkOVdYMDF5S1VvR0hycFdB?oc=5": {
+      "title": "トヨタ、日米中で自動運転 開発強化、地域ごとに提携 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTFdPeEY0QXdsd0QtMFB3UzJWUlY0ZFZ4aDMyUzlZQjNQSndzbkdfV05xbUdrajA4SjZ3bnZEalo0ZkVVMHd3akNWWmdBdjF5b2xtV0p4bzJvT1cyc0hCR2p0bzZ0N3c?oc=5": {
+      "title": "ウェイモ、トヨタとロボタク技術 幹部「E2Eは追加機能いる」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFdmLTA5b1cxX3JRLVdGRk5nLVl3NWRYMVoxMFoyQmNkVjQ0R3huN1F5a3dBcGs5M09ibWxCTlROUzd2aGdoS3NZdFIycVFGbS1kYy1NOHpyMURtTms2ZkdoTGdDdy1Ic1RKZ1BSMDA2QzBsdHF1MklINjZGSkFjY3JkZU8wUXlNY2stVGlNV0FudzZldndMVERYVkg?oc=5": {
+      "title": "日本生命保険相互会社に対する外貨融資管理サービス提供開始について - 日本経済新聞",
+      "company": "日本生命保険相互会社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-09T22:20:40.419351+00:00"
     }
   },
-  "last_updated": "2026-06-09T15:19:00.702188+00:00"
+  "last_updated": "2026-06-09T22:20:40.419923+00:00"
 }

@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lakZDTWlJQkNOYzJFTUtGZXBMX1pRSGpCVk1HejRqcHRDeENTMXJ0REExOFRUZ3hTOG93dG5YY3FRaEFUTng2b0dBeDcxSlVBUkYzWS1ZNjRPT1N4RzA5QlMydG14Q0V2RFV5bw?oc=5": {
-      "title": "三井物産の堀社長、AI活用で効率化「社員のアウトプット2倍に」 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjFaNi1fOVo4VUdhc2hTV1F5djVva2h0aEpYM1Zza1FpUWh1OU5fVXZOMXV2X2lILVh2THJlQ1FtbU9zNHAyRGV2LU9BbHlLVEpMMG5TdzFxaHR0NG50UkE5QkxOdGg2VmtVaVJzakFYaGtJLWlRdVNQTGQ2Sy11MjJQS3pqSVdpcHQ1U3hUZF9GWkxuR3ktblBn?oc=5": {
-      "title": "住商がCO2除去事業 米新興に出資、もみ殻処理し埋める - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk9nNnBHc1JZcko0R0NIWGxUVDZSdkNtNXRUYy14b3hwSVIyUWVMb2ZFT3diWUc3S2VoN01wVGp6NXlZSkZXbTF5VlNVMUVGWFZITFBxaFNzeHVVazVYdnFLLV9WaVRlTG1ySGM5bkxGeWJ6Q203WkFKTmg2ejFycVB4NEJrZ3JGTVh3dVpPV2l0c09ab0RkUmszMXpmY0ZsNUVr?oc=5": {
-      "title": "自社株買い、日立・ソニーGなど電機けん引 豊田通商は持ち合い解消 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1VpZUJaWWpPVXBTZXVUZWJyWkUyWHpSeDJfWlZyZ0dtTlVQTXk4bEF5YXc3cmQwOHlwUl92VkZiVG5XaWF2amI2Q2h0U0ZQTmlRQXNzZ2dzMVhuY2VzTzhIMXRWUkNFZTU5ZU9YRVpGcVp6cXphaUpySi1zQkZiWC1xTWRQaTl5TVZqS1lxdlZGZDhXSFZUQjcwcE5ZcGxsYU5tVEZB?oc=5": {
-      "title": "〈ビジネスTODAY〉NTT、都市鉱山の銅回収 三菱マテと新会社 AI特需、再利用で国内調達 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0hPNVZUcXFWc2d0QkhlczY4T2ZLX0pGMGJvTGFvMHB4dEhCdnlaSWFCcThYU1oxLVFHd0dEOXhCWEZUOExZY1I1NjZfWENDQktoYzBuLTR2MG1ycHhnSHpkQzgzWk9iR2dqeUNXc2l3ZGhfTUdCUzdPSlhzaUpUSVJXcU1lVENMaFp3VEFJUjVITTA1WUdjaWVlRjRzOVpFblE?oc=5": {
-      "title": "市場が期待する銘柄（2）フジクラ「保守過ぎる」計画 水素調達リスクに慎重 強気な市場と温度差 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUhpNmVPaFhrOTlKd3paU0g4VzNJVjB1eXIwQjRfUGNJWmd6TnF6UC1mdmhjZ2U4VTI2eXpvTzBhQ3ZwVDRGeUQ0SFV1NVZvZEVhTnNvTklkd3BYRS1xRmZQUExsbEFkNWpDQlBac1o1WTRtbVlTN2lWMDdUclFFeWZFZkJxMDg?oc=5": {
-      "title": "1位はトヨタ自動車の電池 「特許ウオッチ」26年5月ランキング - 日経テックフォーサイト - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUoyM3Z3RkJ4cUdQV1ltdFJEeEJQVHVnT1dzbHE2WGRWekhPSjFyLVdjeXJjQmJuMTNvR1VHaWF3NlZfZEhGRnB4MDFHckREX0JtTDVRWE1aZ2VheWtZTWFHSmZEekd4aU8tN1gxdEgyUkJ3ODBDdzN6NGRiWFdiOWkxbFNNWExiNXBpTXl4eEpoMHhyUkNHeXl0dThQUEhrTktQRDRR?oc=5": {
-      "title": "（新トップ）トヨタ輸送 松本光一氏 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1COUhzQ2pRT2I1YjNvRm1vN0FRV2tnVkJsdEJSX1l0Z0ZwaktCZDdKRkVWRDBRVEtPcUt5blROeGxMNExYWFBWenlEUG53bkREc0ZrYW9OWGlBcmlMbjNxSEM2WUZaWi1IUXFtRA?oc=5": {
-      "title": "ナトリウムイオン電池、2031年まで年平均69％の成長を予測 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHJMVVliYzV5SFQ5OHZxaUhXVnpKSXRwaXA5NVN2YTZIWlVYS1JNV3AxZFRTZDJYam9weVBpeWRrTWEwRU0xbng3a25Ic0JoT3RoZ3RPZ3RTVjkxUG9FSVE3d05ZSXRiMjNPb3F2MGdoWlNMcXFEVW9OT21uZDZUaFZ0eFdXVDBjT0RnX3VMS0xBODh4eDE0TklBZEpCajVsRkYzcVZB?oc=5": {
-      "title": "そごう・西武、「小型百貨店」2年で倍増 イオン系SCに出店 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVVpYV1ZMR3A2WkE3cHBVVUdtaDM2U3Rka1FwNmZTZnNQQ1lYMVluSUdQSUh6dlQ2Z0ZRdUI1bWtiVkk5X09DNndodmp6dXFRZEFxTHNpM0N6VGQxTmQzamw2ZnMzYng4X3c0Nw?oc=5": {
-      "title": "商船三井が米洋上LNGプラント出資 日系海運大手初、上流拡大へ480億円 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEdzUV9FMVJ4LXE2YlJHdDU3dGtIbllaYzl6R0JiTlozTml6MmFCYXh4UjdHNzhuSkt1QTJLVUlldW1pQ2p0OURId0VCSl9RcTU3clVYMEhnRmlVZVo4OERPQmNidEFnb2ZzOXVWdkNIQXJBOTdidEJyamYwOGRXMWFIb3hwaWY2LWQzQjlXdE16aU8tNXhRZG93Z1ZwY1RKZ3ZYbC1kSEY?oc=5": {
-      "title": "所員の主体性改善へ 東電 柏崎刈羽運営会議で方針 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWdTLXd5VEkxUF9qRmdFSEp3bk92RTZlWmQ5cks5dG1MTDJVSVB3b2pBdDJvSVFzX0c3TkV2eWFjejdKTldGVTY3VzFaQnRHNkNTMGkxalFIVFFZMUVuVTZ4Vml1bUZOcWZ6cUtPa09iZ1FqYU0tV1ExUHgtSWdBM2tka0NHWjhjb0JsbXRYS1VPX3BqbnpYM2FQZTQ2RUZORXdOaWtvbGc?oc=5": {
-      "title": "東電、カナダのウラン権益売却 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFObjhxeGpMQVV1TzhTSXlja1dNWHVBazUtYUhjWHZWM3F1Zmh3eGVBWmRNbXJXWEVlWlF6aVp5bzAwTEp5dEtzYTF3YnFhX1N2VExRWld6UW5kdFhHOGVLcUN6a3hqVVYxYXFlMEtTcG1rbnFNN0ZIb1Zua3hhOW54U3A4OUE5dkR5QlhFbTM2VUhYOUNKR3NsaC1RTDRMd25VMHJR?oc=5": {
-      "title": "「新ガス」シェア2割止まり 自由化10年目、調達・保安に壁 北電、基地買収で自前 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rSVktaGdBM3k2Ym1WdnE3TFpWWU5zUVZ2YU4yQU9HUFoxNGRTclh6QW9xZ21McXplZS1heHExVXY3UVFSM0pPeEpRRDA4Vjl6aTAtNmE3THFZTDRpdTliTHJ6ejU4ZTNnblRQbQ?oc=5": {
-      "title": "中小企業の災害対策申請、愛知が25年度全国1位に 黒子は名古屋銀行 - 日本経済新聞",
-      "company": "名古屋銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZl9fZ1l0RUY3Ym4zZ3ZzNzV0SXJzSmJPMlJvdjR4blNQTnNyNUpuSHBDYnQ1N1VsX1NpTVpUX3dSQ2twRFJRc1M5OVhTLVhnXy1RQUp1MWx2UHU5U2Y4ckJpa3lPdmhFWHRuN015ZS1lWS1xSGw0RnBQNmtzczZEMUNUZTdHYmFjTm5jNWhFMjlYNXpkWWE5eXRTYW5ScHk4Qk13MGdod0U?oc=5": {
-      "title": "中小企業の災害対策申請、愛知が25年度全国1位に 黒子は名古屋銀行 - 日本経済新聞",
-      "company": "名古屋銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-03T23:02:58.422668+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3VnloTzl4MUF3STJMU1RpdXBETFdPZEd0VjcwY2VPWkk0WS1oVGNtU2c4WHZwMXhWY3owUGhCSGN3cWFpNGQ0eU44Xy1nZ0w2RmZmTVlsYzBtRU5VcXg0eEwtM1N0RTk0RDZMUTFCMVc5R2NfbkR0Q190TkhnQQ?oc=5": {
       "title": "自社株買い、日立・ソニーGなど電機けん引 豊田通商は持ち合い解消 - 日本経済新聞",
       "company": "豊田通商",
@@ -2531,7 +2441,85 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-06-10T22:50:53.215562+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGhwb2tXTklkVUJuN2lhNzBKeXJubjF6cnpGcUg1UkdiaUJ1ZU1fZ29iUDhzbEIwMlhIVUFzVkluRVZIX2V2MVkxUzVWRnE5WkYyR1RMTEE1ZzI3ZlBYdGN2OWpaMUhXamVUTG1nM2EyVTZHb1VyNnRIU196M29TRzJ3dlhGdVVJY2ZJa1ZDTUp3eDR4d3FzaVJDSGU?oc=5": {
+      "title": "住友商事、北海道の蓄電所を3倍に拡張 数十億円で - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVExQ3Q0dzh6bG1iNG94NnhmXzBVaDNwVzlHY2p0Wk8zUW9QTkxLMkJpaC05RDZpaXJlRzRxQnVHN25EcmtBUlkzX0V4OWdOOWx5dUZ5X3IyVkpRbE8wd1cwS2lFM2RtWFh1ZjRTdC1wdlBuSWI0Y1QzeUdpS0ZxWHBBei1UQVVYNHFmbGpPRng4dzZoeWhJNm41T2g4UkZDUlE?oc=5": {
+      "title": "住商、蓄電所の出力3倍に 来年初めど 千歳で数十億円投資 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtal9CcGZvaklvaVU2UHE1T3VMMmoxcjAwLU5rV2lxeHNDZ0RtcGZrVTZ1Y1dlYTZqbGZWOHBuUFhQY2RWTmlmekNKcU1qWnpOUGQxeVlVckpNajZ4NkotV1c4NVplZzRXUHpBLQ?oc=5": {
+      "title": "豊田通商(8015)第35～38回社債発行 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOV9LVUJhTkhldktlUTJaNUpOZ2JJa1NQQ3V6R0dnZ25mLUdYdTcwWC1wOFF1bUwxMXdwa0FFUjEzem5wNEZ6WHAtOGtoVXF4SndlTjBEQzN2a2FXYnZIZHl5eG12M0t2eGRsYjlWa0lmT1RuWTRJSGp6QVRtRl9YMGljXzN6dVRnSlJwb0JzR01QVmsxLXpndkxrSDIwOWgwWk1RZXptQkk?oc=5": {
+      "title": "「IOWN」普及ファンド、NTTがエヌビディアを追撃 AI需要にらみ提携拡大 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2THhWUkF2Z1JYdnAtY00zVzRjM3B4ZVlldVI1V3RLSzZXTGdhUGJzeHctVDVRSU9Bc3RuWnU1RUtBS0M0N3RMSGhJVi1FX21LMU9TYjU5b0dscmlyWHpFRXdkY1Q1OGFQbTF3Mw?oc=5": {
+      "title": "NTT-AT、ネットワーク可視化・自動化&マップベースマネジメント「NetworkBrain R12.3」を提供開始 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kU3ZLVW14b1o1VVFlVjlfME5RMVJQcDF3aGFuRF9jOERZVWpYR3hkSEtuSThSOURkVXZTcWF3RlBFcFlSQlBSa1NfSGo3OG5Tbm5BZTY1U3cwTWItdEtBMk4zWFZiQzg3SXc1eg?oc=5": {
+      "title": "サッポロHD、「M&A下手」返上へ専門組織 不動産売却で成長資金 - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dVplLU9NRWlURHhjOUcxc0lCVl82cGVmNHcxY3VSZzZGdjNOSjVWQi01RGc4OWNGcHhfa25sWkZ0eEEzNk5JeE5fU08wX2w5a0FyRnpTRHY4N05XVkZYS0lDbFJjZ3BMUFE?oc=5": {
+      "title": "ミツウロコグループホールディングス[8131]：（訂正・再訂正）「第117期 定時株主総会招集ご通知」記載事項の訂正 および「交付書面省略事項」記載事項の再訂正のお知らせ 2026年6月11日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2c2Y1AyUmNmMDVFV3ZtZmZoc0I1TkY1VVRJclJORkd1WldMNDk2U1Rlc0dDeFZGSmV5ZTJsWjVDOW12LWFnT1E3V1J5cWJuT2NmREE0RjlWX0VMWlh6cld3UzQwdVE1RVIzSzR2WWF3RnJ0ZXNQcEpvUUtLNXZickxvcjl0ZlpqdXlNWFVla1M0dHlOV1NCdTllMGd6TU1RcTNzQnpR?oc=5": {
+      "title": "トヨタ会長、役員報酬21億円 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlNWdmtJZXNiajF2aXU4QmlkT003bDRmVlFkM2ZQbFRXX1V5eXpVeEJtYVJDTzNLemRJbkNLS2xwdmQ2SnBRZVVZT1V6bEMtNjRSeWpBWDY4QVhzY181YjJ5bG50UFYtSnB3SnV2d2RsbFI4ZEV4bzQzbkhiQ051ZDhQWWV0Tm5lV2lPeFphdGFZMzVzMHA2bDVNeDhzMTI5bERqdG00YWQ?oc=5": {
+      "title": "迫る楽天銀の株主総会、戻らぬ株価 親子上場リスク露呈で市場は冷淡 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NcS1TNnpxSFFOR1NvVUhSU0xnMzV3YlFDODJWYUEtdkItTGhLdnZxOFQyTjljeC1XNkJTa0ZYWmgzSWhpTnZwR3MyOFdBZF9ndHhfM0NZSmsyNTJyTXh4RXJ1ZUk5ZVVuemdJ?oc=5": {
+      "title": "楽天モバイル、「arrows We3」を6月11日（木）より予約受付開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OMDRnaGRPeXdXQmV0bFN4SndpME1qU096UHZJOUhRY0E5VlNvNFcyYUFtOVF6d1AxRmhFZnJUM3Z0aENrUDZNYm4wRzJUZ0VGcFlBMDRYNlhaRzdMQjBUTnFTRlVEdkpOcEtF?oc=5": {
+      "title": "【東京23区・梅雨6月】マンション共用部やオフィスに眠る膨張モバイルバッテリーを安全回収｜自治体で回収不可のリチウムイオン電池も出張5,500円で適正処分 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnhlbEd3di1RalF6OEdScF80cUUxLU8tcWZlTmVBVU5DLWFOWlE0VFlIenFrTHFWX2w1ZHZNOXRUaVJDQkstQ3NRV25BcDQ4OG9hUllxYkN2SkZDdEpMM0IybHI5c01LeklQd3BBcVNUR3luZ05XNWgzeVc0X2FVVjMtUmx0ZHZ5TTJqS3JxSU5KRV85M2NLeEF1V3hmNnhNaHlQZmJ5dzU?oc=5": {
+      "title": "デジタル証券の優待を一元管理 野村の出資先、個人向け - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00YnFzTnhycEdNOTNHZmp4S0NfbWc3Q1BfLXBORFl5Y25ERzZOS3QtSVFxT2NTRVlpczJPN0hWWk41WnEzVWNBTGNLUU4wdTRlZGhsQ21ucW9JNkhPOENoUm84OA?oc=5": {
+      "title": "米資産運用大手、日本の生保買収検討 Ｔ＆Ｄやオリックス傘下 - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-06-11T03:45:36.371289+00:00"
     }
   },
-  "last_updated": "2026-06-10T22:50:53.216098+00:00"
+  "last_updated": "2026-06-11T03:45:36.371858+00:00"
 }

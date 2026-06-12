@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbDZWQVhYRWVKOTJvSF9yUmVidzFwMUpDWEFiVXVyVEI1bzB3TFNob2VHYlBYZ2xIMlZTWTVBRnRyNk8yWUthQlBOa05Fa1R2dDlxUnN3dWRUaGFJYVNGNmFORmh4NWJHS25scA?oc=5": {
-      "title": "NTT、IOWNで宇宙通信大手と装置開発 通信速度10倍超に - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fM0Q5SEo0ZkVONnNGM1MweHdGbVdMZU0xTmU5eDdrZDV1bG41aEdGVjQxRVRpTER6clp1ZU9mNGxNV2tMdVY1azBSNXhVd2NKTjltdEx6YXJwWFJDRDMxbk9sMkdPTHRCdDB6aQ?oc=5": {
-      "title": "トヨタ、競技カート専用工場 愛知・蒲郡で今秋稼働 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODlReFlHNUJpd2djUXJZVHVxaVVFMEk0azlfb0FXeFVibFVDRG16TmdlMGViTG8xQkUxcEFJWW9wbkF1VWdfUmpId0NrX3dqeFpBMTl1WGttXzhsQ0l2YXM2UkthYTFadnlRTTNIX1Q1YkktYTZnXzkxdmdwc1ZUYjZSUjlkdEdlMzRBT0dOUGlZMXYwU0doODBycml2MldfSEh2ZG9UZWc?oc=5": {
-      "title": "トヨタ、超電導の水素エンジン車を24時間レース初出走 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TT3dBdHZaR054ZGpfUkVGZm5EMDdzRmVHZjVzemJqNGROajJpQ1JuRVMzaTN4QVdtNWNjQy1qN3VrdTlILUtFY2IzNmtmckFQQWg0UkltQUh0ZTNqekRhMWxISUlrc0hRcEtj?oc=5": {
-      "title": "【楽天スーパーSALE限定50％OFF】Bluetooth通話対応スマートウォッチ「AnyWise W1 Lite」が7,950円！AMOLED搭載・5ATM防水・AIアシスタント対応の高コスパモデル - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tRF9iNzlUUVFDR1BiR0lVbDJGNVJWUXpMSGxhekxLWTd5dXJiRVZWQVlfaU1iZFA5TEtyam5ySGROQnRUOWlKcTJsWmlIUm8?oc=5": {
-      "title": "「楽天」対「広島」 応援メッセージ募集!!｜NHK仙台放送局 - nhk.or.jp",
-      "company": "楽天",
-      "source": "NHK",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLYVctSXU0TDBLNFA1dFVrMC1YSHY5c0dYM0ZNSk9pWUI3QV9MUENNaGx3Zld5SjJRS1d1bWZXeUNOcHc2d2l0OV9mUDlPbzdLQmFPc3FkcEhlYjhHTEhiUE9GRkpUSENhd0R3Uw?oc=5": {
-      "title": "3Dインベストメント、西武HD株を買い増し 7.97%に - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1VUlZa3Jna29qZG9oeWN6bjlncXBpdmx4aXJDNkdVWWJreFBhLUFtSUp2a3BEb3ZweWpDRXVwOHBoQ0tKckpOVWo4NVlOaW1FQ3BHUWpNUlh2U2piSzU4LVFwWUp6bHczUFE?oc=5": {
-      "title": "東京センチュリー[8439]：（訂正）「2026年3月期決算IR資料」の一部訂正について 2026年6月5日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T14:47:21.938104+00:00"
-    },
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkdaNXVDaTZmX0wwakNhYUsyT1FMLS1XWHdNNi15eDNyT191UkRXbW1wa20wWEVjN3dzT1REdnZFMnN2OU04UU5UMm9zTkNGaUo3Y2xtaUpyTWZoUmhMTDc5WWc5dXJldDFjOHpmSS1OOE9iYkloY21IaFBUWVhscThaZU9rYXM?oc=5": {
       "title": "三井物産などGC・CLO設置相次ぐ 法的思考が羅針盤にリスクテイクを後押し - 日経ビジネス電子版",
       "company": "三井物産",
@@ -2309,7 +2267,73 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-06-12T10:10:36.293473+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BeTZfbVpYczRkcWF3aEpVbWNZZ2Uzb21nWm82RUlCUnI0ZVdTR0Y0NlRac3NMd2pPSlVCVkRPd0FHMWwtNDJHRE5sbDI1bWptYTh6dU1CcTYtZU00U2JQOExEeGdPb0Nnb1ZtYg?oc=5": {
+      "title": "三菱商事[8058]：有価証券報告書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83QTlnamczWHA4a0ZZV1lsRENFQzVtOGdwbVZ5QjViTUVnQmJhMWMwYkdVb0xIREdIM2lQR011Yzk4N1g0WEVUN3hyekU5NDdPWkxKTVp3c1NZU3VNSHQxT1ZDM1B6S3VnUF9DUg?oc=5": {
+      "title": "千代田化工・NTT東、IOWNでプラント遠隔監視 複数拠点を管理 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjF6VVRvdnVfWURuRkF5ZU5SSWcwU0FYRVRXSjdFTkltM3ZDSENCYnp6SXJOWEtOTDYyZ1lqY0cwNm10ZzRUUngyYTk5XzJUenhqQmg0c1pRMFd6MDZzLVhnczdsOU5RandYd0dGNVdRTV9tSlRUdnhHcUV1ODgtRXBBM2pDUndoak8wTklpSy1LZjc1OVd6N3FOb3NDejQyYnc?oc=5": {
+      "title": "デンカ、増収増益 - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12S2lpOVJQbzc3UDQ5NnhqaHVIWEkwSEEyY0lVSjRUVC1tRnpSQUVmV3QzQjJxeEJrMlZqV2xEM2kweFVXaHRScE5tTnlBNDZ1S0I0MA?oc=5": {
+      "title": "◎三井化学、米歯科材料企業を買収 - 時事通信ニュース",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZEJKZFA3LU81VXVUU2dmaERUTnVMVDkxLUJfZTZmV0lLNTEwbUcxdW11dTVYU05vYkE2WWQ0bmVKZlJmSWw2NHFTdEQ2R2ZfVlBfWVhpZnJFUW5wSHpXZFB5cEtuS2cweUVWSA?oc=5": {
+      "title": "日本製鋼所[5631]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3dE9QSHRtRnhQUHdUeDRZY3FtVzBtRms3blF6RVBTdTNlcW5CZmJPUk8xZ2syTlQ1X25WUUt2LWZ4RVhjZXlmM3hTV05leUNQT0pYbjRaWmtIa1lLUzNwNWVGMA?oc=5": {
+      "title": "キオクシア、時価総額首位 ＡＩ追い風、トヨタ抜く：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnJpUXgtVkpmcUhSWmhkbDNzT0tpVTJlNW1KdUNlMndtWVB2RktZckJVRFJXcmZMdjV5YTNaTHdfREg1Nk1HU3NFa3N5RDRmaEtHUFBLTHBENk9MRndGa0RzMDhhbGdTbmFyTjRCakRLSFZ1VWdUZEJBY0VlMlBfVmV3?oc=5": {
+      "title": "画像・写真：キオクシア、時価総額首位 ＡＩ追い風、トヨタ抜く：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uTEtIeDZUcHhQR2hiQ0NqcjVHUlQ0ZEpFdnk1cHZoeHVWeDJBa20tZm9GUXRDNTJNVFpwUkcyNkRnMDJhQkM4QkVGWDItc3M4M09Za3RwTTliU2g5cWdPM01qbUR2YjZUVUtV?oc=5": {
+      "title": "「楽天モバイル最強キャンプ2026」開催のお知らせ：時事ドットコム - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjFmaVcxazhkMklHbFl2MVAwQThFVWhINjM3X05USE92NllqdnFaRjhqV1lIb3RFMzhWdk1pSHVFUEZPdHhoVl9kZlRrdTNlR1FOQUw2ZURXVnBOUnF6UGVTem94eHoyT3VzR2dCcWZvSzJYQjJWUERkcUp2bzYwSndLNGdPWFctMmV5RG1hX195cEhhTVRzbHBvRGxNWVhpeWRORmp4MEM?oc=5": {
+      "title": "3Dインベストメント、西武HD株を買い増し 9.02%に - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zWG1fSWtMSy04LWpXcWJfWFA4a0QtQ1hNUklNSFhFMmJqZkFwZlJwV3VxZEFMalZZM2JNNDRVYVBCS2JlRWR4VnRyVHZHaXFFbFVXbTI5Nk5UUkc2dlNhR3N4QllpQlVjZFA5eg?oc=5": {
+      "title": "北陸電力・志賀原発の審査会合、津波高さの審議せず 資料不備で - 日本経済新聞",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDdnOWpKdlNsMm1Cd1VLTVByQzFXODdHSjdiM2d1N0VuQXRSZW5Xc19jdlZIc1ZSX3l5M1lxVnNXdmpaYmZxUlFrMDV6QUhHdEFvVmRZUllmVGRrbklTbURPeE9SdW9TcmstRWY4LS13bGdjUlFtQjV1bng4NDRWandBUGRPSk5YMzAtSzVHcnhSd2VueXJHd1F0QkU?oc=5": {
+      "title": "三井住友信託銀行が提供する個人株主向けスマートフォンアプリ 「株主パスポート®」への参 - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T14:55:12.975407+00:00"
     }
   },
-  "last_updated": "2026-06-12T10:10:36.294011+00:00"
+  "last_updated": "2026-06-12T14:55:12.975932+00:00"
 }

@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkdaNXVDaTZmX0wwakNhYUsyT1FMLS1XWHdNNi15eDNyT191UkRXbW1wa20wWEVjN3dzT1REdnZFMnN2OU04UU5UMm9zTkNGaUo3Y2xtaUpyTWZoUmhMTDc5WWc5dXJldDFjOHpmSS1OOE9iYkloY21IaFBUWVhscThaZU9rYXM?oc=5": {
-      "title": "三井物産などGC・CLO設置相次ぐ 法的思考が羅針盤にリスクテイクを後押し - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T22:12:52.453625+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oMThUTjdNLU1zb3Y1RF93Y0tWMGxkLXNDeUhDWVJBMUdnUmVRRUtxRWpGakVPeUJ2UkN6NjlxMERZR0NQa1dHaUFudHNzcTdNT3FnejREWmRqdHp3VDg3WDh1VUpVT0RRYWFoaA?oc=5": {
-      "title": "三井化学、中東危機しのぐ 業績安定、リーマン教訓が糧 ナフサ確保、価格転嫁順調 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T22:12:52.453625+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YamlxMFRfaWxTVlpMQktNYWczQ2hwMGhuN2V6eU1MeWVNWXNiNWZWbUw5NHlmY19MdEhReU5BM3VhdklRMEZ5S2oyV1VEdGFjZEJMejRScEs3b2MxamxjaEdNSjd5UmJ2a1lXTw?oc=5": {
-      "title": "ＪＦＥホールディングス[5411]：発行登録追補書類（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T22:12:52.453625+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUQ5Wi1FY2VudnZMdE5BLXFqZ19QUVcta29DV084Um83X3FEV29oSnlwSXdkSTNUcVlIbXczVVNuMjlOa1hJbjZFcWFhM0RCVTlhamFZVEJWWE1UYllHcnN6SzBRSXFrLWV6b09BQmctYlozX0k1XzJfRF82a3k2Zk92UnZPRTUwX2p3TjZ3cFc0MEllclA5aXRkSWp5VFFuaW1YZ0hBdlU?oc=5": {
-      "title": "トヨタ、愛知に競技カート工場 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T22:12:52.453625+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHFOdEt3dW1yem1Hbjk3WkNubmtCaGk1elVzS1lnRklLbmxJTkVKNmxzV2xOdUtMR0h6RUpncXU0Wm5Gb2hneGJQTXAtS3REbDZBNTFGc0hLT1dXYVNiMGIwLTQ1dWtsMk5RWjhWaVgtUno5Tl9sQ0FLWV82Ny1XWUJvSHNoNXVHcThOdjRpVE91djFjNldlY3RWMlp4RzNFMldOZ0s1Nkc?oc=5": {
-      "title": "3Dインベストメント、西武HD株を買い増し 7.97%に - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-05T22:12:52.453625+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjY2dDFzbjhTeE5QMGNJZWZCRkItY09BQ211X2NzZlpaTU5nRkE0SnNEUFlqTWdNcG90dzh5bWxOOEY4LTRucDhiM1JfLU9MZ1VqZ2NnVWd5LXgyeHRkTTlqb1NpS0ROQmZtemREMFp6amxPS1lEUGktakxfWnVSUDlveEFVMU1uZDlMUUstRURVZ1c0dUM4OTVjSDg1VWo1cXlmaUlwb1pYQQ?oc=5": {
       "title": "【詳報】ミュトス並みＡＩ普及でサイバー攻撃は「大衆化」＝三井物産セキュアディレクションの吉川孝志フェローに聞く - 時事ドットコム",
       "company": "三井物産",
@@ -2333,7 +2303,85 @@
       "company": "三井住友信託銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-06-12T14:55:12.975407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay01TzBIWlZSZjRiZUFqZUtMeHFqLXBxTmU3ekxJUWs2LURxd3h3S0E4cmxUdzc4UkFJdlV1RDNYQjFCREJKdVhIdmR2WFRoNlpXbERnZUlSckdSR0xlaGFYbkZZaVRRZ0RpOVpUdlRJbWIzUWNsci1YNFNkUDN2V1FwQUpyX0U1cVlCMndfb2NRVXAyaXpxdE9Rd3RvWmVoLVE?oc=5": {
+      "title": "伊藤忠が血液製剤をドローン輸送、28年度に 災害時にも最短距離で - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc01wd1oyNzBlNkhnV0k1STk1STZYNldqaHRnUGZETGZlaG5LVW1OQnFhNTBsRmhwaUdmQlVOejRURFlYTDVCU0hkdW1wMXJwbks5TmpMNk1uZk9KZ0RfUXNpN3R6T08teGZUYWJUMHdzYm1FMEVCcXR3MTh3eU53YXpKRy1Ya0dwR2xaZWdTX1BuZFNQa2tpcUh5Tzk5dnB0QTBneEZ3?oc=5": {
+      "title": "伊藤忠が血液製剤をドローン輸送、28年度に 災害時にも最短距離で - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMk5jMlFabVhDVWZZLVhsNElxS2VRUVZKMWFxM2VfXzhuQ0Z6QXgxMl81aVZpUEp0d2x1bXZ5aVRROGIyNEVXeE15RWU2WEUzd2lmdWFpTWptMzU1dWdFVW0yWXVTd3lvc0JOLXZiRlNHVUdMb3RZYzExa055YnhIUXNkWWNuVUo2MjVINDNoV2NZc2R1ZXZ3cFdIZzNMekhVMUYwSFVB?oc=5": {
+      "title": "三井化学、米歯科材料大手を買収 1400億円で ヘルスケア注力 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hV1plbFJhMl9GQVp2b3JIOFVjM2xfdjl3VGIyODc5WHpzcGpVd3lFWDJXUE5QUll0UHlrSW1ZYUxuUlMxTWctWmhxU0JmZm85X21BYkpuTVhLWHNXaHk0ZHIwYzZ3LTVDbjZhYQ?oc=5": {
+      "title": "ミツウロコグループホールディングス[8131]：内部統制報告書－第117期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVlyazVtTW9JOS1UV0RidkNSZ0dUWjdFWk45SG5FSTRwS2N6SXpoeFN2d0p1OGZ4clktek5GSDBlRUN5V20tb0V2Y1VCeDlQR3NXTkNXXzRxSHM3R18wV2MyRlJPX0wyUjZyZlNWRVBwUDJwQWstV01haWdabUEwMzZxbndEQkhFcWh0U3JfT19aNWQ0emVZOEZha0JVOGY3NXJNZTdHajc?oc=5": {
+      "title": "IHI、江東区の不動産を売却 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0lZZE9ZbWw2SkZ3RG5TQW9jMW9tVk94NGZTaXRoOG11UGhwbjUyVmpfSDhVT2lqWmh6TzBaSTh6Z3BDYzl4Z1VJamdqSFFVUzA3UWtud0t0aTJ1aGJadlRKTVRrbVU4SEo1WDZYR2dCOFlPWFc5eDlsSjVqTFV5NnlOSmtFdDZrQmhrWHNMZUdGWlNVSUVrQU80S3BhZ1dFUlE?oc=5": {
+      "title": "アイシン60年の歴史、わかりやすく 展示館を改装、開発裏話や映像説明充実 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nQzV2TURISTBMX1dsckFlYkFCWUZIZ0hKQlE0NlZuS3FSOEF4c2RSdUl1UXEtcHhlWHcwWU55dWtsWUdZeGsxbUlXWC1DNlNlX1NaeGRwN3dNalNQTzF4R1R5dFVfM3VVaGItNw?oc=5": {
+      "title": "アイシン60年の歴史、わかりやすく 展示館を改装、開発裏話や映像説明充実 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubW9nQWVWRzBaTmlucUNORUZyRUFTX2x2ZDV2MUVsVk5kdFVzTGhheHdnTE9Xd3BJYWZlcVJSUDNyanBzdUpBd3k5Yjk3TUVsekRmcFJPVHZVcG5MeTdUdTIyeno4V2FqbXdfSg?oc=5": {
+      "title": "トヨタのEV「bZ4X」シリーズ 安く・充電速く・アウトドア向き - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aM3N6QXR4WHh6U0VFbTQ5bElvSUtxT21nWG01VHM5SERDdklXOVhLQVlLVUpvZU9yZDBqMzQ5ZGdvT1BINWd0VXpBajlXcHRlS3lHRnFlQVFGbVExMlhvQ2FJNzJ0SnlEdWtoeGNiTXU5Y2RhZHRCTWYxZ1YyZw?oc=5": {
+      "title": "トヨタ超えキオクシア、株価「さらに倍も」 AI相場緊急調査① - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUNXaG9OMGZHbDRDQUhZM2F6LUNPSjRQZmpPZDlXUDByS3RsQnRvRndVTEpRRWFtZ0U4WnlKOTFqNnNpZ3lwd0lCUTg0RFQ2dTB3TlZUbWMyc3hwLVBZUTJCU0x5ZWgzd043a2tKZlZVU2xZT3F2ekliSmVDeDd6bE5DT3R0NzJjWE02WElPdmRkY0xnaFk5T1Q1ckJNMzJwYzNvTTJneEo?oc=5": {
+      "title": "トヨタグループ、株主6%増 割安感で個人買いも 好調の豊通は株価2.3倍 時価総額、デンソー上回る - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnBwSDF4VmdfVEJzSkhNbk1wd1JWZWJESnlzWkZGYmZoVHRydXhjRWRSUFd5SWtRMmJCSm9hS3I5SVdxbk5oWE1CRWd2Vkk3dk1wLWJWUkFQQUNQWnZxTGg2ZkYtbV9ZaURvcmxjbEVXTGtBQ0p0ZGtjVHZnZG1hLVhFM245SUJmUXU0UGRicWpkZ2NJcGhfUWsyeW5rTFRYdzUxY25UaTE?oc=5": {
+      "title": "トヨタのEV「bZ4X」シリーズ 安く・充電速く・アウトドア向き - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTVBQlplTkVuQ3FwN0wzQm1vSVRwVVU3ZEd4eUlKWHVHVzFWaUtRUV8yaGQ3ZXpOaHVfR2ozakhpNWt4d0ZzRU02bWlfWVRORHVZelRlUHYxWjlOTUdjQlp3U0RHblZ2SDU2dWNCN1h4Q2lGdFhDckc4RExCQXNPUTcwOEdLWUUwRW5vWFFzQ2N2SzVORktMU2RpbmVTLWt6cmc?oc=5": {
+      "title": "イオン系が農地バンク活用 羽生で稲作、30ヘクタールに拡大 作業効率高め安定供給へ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUR2ZGNzaFpJVVBrSG1xSWxMT0U4Z2kxNzV2QVFaYXl6ZmNRdTluaWZpQVhMcUtvMVg4LW9OeWEzaDV4emJvYVRQZ2lKUXhqckw1eVluc1B4aFVtZHBDQ1JMTnJCbGNBUXp2OTlLWVFoRFJCV0ktUG1YS3dORC1KRjVYcGxOa3NRNnRidk9ZVDkwcndyOEdvcm84V1lGRWQwOWc?oc=5": {
+      "title": "九電系、四国電力と潮流発電 五島列島で実証 - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-12T22:22:32.080015+00:00"
     }
   },
-  "last_updated": "2026-06-12T14:55:12.975932+00:00"
+  "last_updated": "2026-06-12T22:22:32.080531+00:00"
 }

@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnh1dE5NNXV5ZG1WUy15Q0M2dFRTQjEtY19qV3pEU2lJNi1vd1h6U1BYNGtRX2VLb0x2ZVNsTnRNRDQyazJGSFF3dTVpa01oZ2doclltbFhUZkEyLTd6R2lKN1A3TDVnYXBINnl2NTNHbWQ2a2ZqYUozWk1lVXdpTkg4aWpVeTRxYlhrMjk1akoyYTRhMjhOWGhoazV2Uy1hWFJkWkd6U3hfdw?oc=5": {
-      "title": "【詳報】ミュトス並みＡＩ普及でサイバー攻撃は「大衆化」＝三井物産セキュアディレクションの吉川孝志フェローに聞く - 時事ドットコム",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-06-06T06:30:41.995258+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNENsSFIyOHFaa0M0dXliM0F0QklYX3V6ZUZuXzU2VG1vWnhTU2tic0tYWml0cUNJMmxqZ3d0cUhWbzZiMVVXSXNvTjJPdnJkNy1mb0J4X29QVUVuOHQ0M0dhUVg5TmVPY2I1UkYxamNyUDZpUGtaTjg5c1E0VEVtU0VRYl9JckZ1N0p0Zjl1UE9XYjI4US1SY2UtdEFuMEpVOUgtLXJwV2s?oc=5": {
-      "title": "ホルムズ通過のENEOS原油タンカー、横浜市の製油所に到着 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-06T06:30:41.995258+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Q3ZfZlFqNmVKczFndHMzUHVtUkUxV0lnTEl0eHV6QWREWXFMMW1tVUxMSjZxVHNlVTBtRjFoSXlNSXpaTjEzODFzZUxVMEVNVUR3b3h3LTZLdlo3RVV3STVLMTR0ZjYtWTZJ?oc=5": {
-      "title": "「閉じる瞬間、ビクッとする」その不安に。28,000本売れた“すごい日傘”「晴雫」が楽天市場デイリーランキング1位を獲得 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-06T06:30:41.995258+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RSmlQQUJJS2RFOHRGdnlzekQ5WFhBR1cwYzI3UXFRekxpYXgydnZ0bzdqc3I0UEJiNkt5MVJlSnFpd3FrbGJTZWZQbTlxU1ZLQ3VMSUdDYXIwRkZQdWR6M1FBcTN4QnVOV1lV?oc=5": {
-      "title": "【梅雨×猛暑対策】KONCIWA、大阪初POP UPをイオンモール日根野で開催 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-06-06T06:30:41.995258+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG0xejNXWkwxMkxwYUZBNk9CcFhacElla3d0bUlQcnE1WTUxTkFQbkZIMGlFc2VaSm5GVTZwTTM0U2JMMHRnUGZPbTZBYUt4cjB0ME5TR0lHUkpreWFxOWZVRTRCeF9wLUU3M2hTTnlvUVBlVkZaY1lrV2ZRU0M1R3dlSFhKQ2JaTS1TNE9DRGZLRlRjb3JEdDJ6RUdvZjZaZ20yQ1VR?oc=5": {
-      "title": "イオン、環境配慮商品フェア 全国5700店舗で開催 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-06T06:30:41.995258+00:00"
-    },
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTU9rUm8wZVF2cjdhbmtUOWFzZUN6UV85MUVLVlNZUm5xUTUxT1g4THQ3a0NkNFZxeDFlTGEtTU9tYVVueEs2ZkJyOGFENUU1MGx1Smx6TmZxaFZHeG1GVGRlNGxCR1hMNDFfOW1jRXp4MDA5ZC04TmZ6LUR3S20wc0JDSWJ4UQ?oc=5": {
       "title": "三井物産などGC・CLO設置相次ぐ 法的思考が羅針盤にリスクテイクを後押し - 日経ビジネス電子版",
       "company": "三井物産",
@@ -2345,7 +2315,19 @@
       "company": "九州電力",
       "source": "日本経済新聞",
       "seen_at": "2026-06-13T03:32:36.982321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eEJkTHMwRFZmVEEyRzA1bDhTcURfeVhqQ3JGZzA2T0hDYzZiNmZqT2xNTFhHR3lUVUNOWVJGczlGc0I3VVl6VExLM1FKRnFheW54LWItZ2ZibGhmV015WjJIWWFhT09CNnBNZA?oc=5": {
+      "title": "生成AIサービス拡充 NTTデータ、データ分析支援で - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-13T08:56:05.695477+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1Fqd1pxV0k3SUtaanFBQjI2aFZKVmRhX3Bhb0M2TzdyY0tIWmFpN0RRMzkzaG9MRmxHX0dVU3JxMXdaLXROVjczeXNxRDBqZ3RWUWhyNjR3UWVrOUhFVzBqZ3RlYUN4UDhMa1lSdTdLaENzS2Vyd21EaktMelEzazVaQUZoeXhTdjNZQnFEOVJkTXE1SElFSk83ZzdtdjJvaThLdUFiN1o?oc=5": {
+      "title": "アイシン60年の歴史、わかりやすく 展示館を改装、開発裏話や映像説明充実 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-13T08:56:05.695477+00:00"
     }
   },
-  "last_updated": "2026-06-13T03:32:36.982767+00:00"
+  "last_updated": "2026-06-13T08:56:05.695948+00:00"
 }

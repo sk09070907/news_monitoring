@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hVUVJM0ZYUXVVVG1CRmRhMktIM1otc0k5NTV5X3RrbGEyZDdzemtWNmJUZVRsQnprckpLTmJCMTJKa29SWVBZSEJ2OWxDY2tsZWI2VQ?oc=5": {
-      "title": "◎今井・豊田通商社長、アフリカ中心に「経済圏」構想 - 時事通信ニュース",
-      "company": "豊田通商",
-      "source": "時事通信",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kT29scmpPeDRhRTd6TXBJb2N5S3dUemp6al84bnhQWGc1OU9fcGFHRlR6Qk4ydzZPTkRoOXdYWl9fWXJrTDB5OC1sN0tabGpfb0U1aHJqb01lMlhfZTA2VEpyTjdHVFVnSzF2Nw?oc=5": {
-      "title": "東芝、食品・日用品メーカー向け販売予測AI 電子レシート活用 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPY2M0eWJvV2J4X05ENkJRY0tWOWZKeFYxX3p2Y3labE4wMmphWE4wOHppdjFybHpZWFlLSlEzUlZIclItWTNyVWpaeHJUb3hzX2hXTDh6T3ZYWGJpYWcxMENqOUYySW1kOGM2QQ?oc=5": {
-      "title": "九州電力送配電、顧客情報1090万件が漏洩のおそれ - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbVRPbUZ5VmtlTFNqSm9UaUR4bnhRMENoT21YaDhsVENvQ0Rrd3Rwc0V5RzctMDhyRTRhYWh1N3lubU9GWElPN1ZlVlkycTN6T1A2Q0dhRW9oNldfeFVCUWhuWGtVR3VpN2c?oc=5": {
-      "title": "九州電力[9508]：九州電力送配電株式会社におけるお客さま情報を保存した外部記憶媒体の所在不明について 2026年6月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NVmdicFI0NDBQUF9HbjF1QWhOcjNxeHVST2FGc3pueDNNZHBiNzBlODh2U1QzU2R2NEhfNEIwRzhubEFVVkc5MExyQ09nU1JuTHRWRg?oc=5": {
-      "title": "◎再処理工場審査、秋以降も＝日本原燃「一通り説明終了」―規制委 - 時事通信ニュース",
-      "company": "日本原燃",
-      "source": "時事通信",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3lNUi00QU9ydUJrT0p0VDBPQmZYUmJIQW9YN3BCUFF6QVNDUnI5dHVFejRPMVgxbEVHejBnYmZiaV9HM1lFdWFMUEVPekpMZEEzZkdSM2xjSXBHNTFTVXlyVjZISzdKOEh4dy10S0ZPQ0QyOGVFUGJ3X3JXQnVDUXI4XzhzWTBYUnpzajk4Z3lLUm5oVVdMazNvZktsODh0Wl81Qy1R?oc=5": {
-      "title": "SBI新生銀行、預金顧客に暗号資産付与 VCトレードと相互送客 - 日本経済新聞",
-      "company": "SBI新生銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T15:48:15.384526+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHE4UVBpVzI2WDBIajQ5ZE9yRWN5Z3E2cjRwVFpmcDZLSlVEX3BKMXhCMXdyeDlEci1kZElQVDlVeERhTGEyckdNQjBxLW8xUkhaMFk3VEFkMmY5elBPdmN3TjBpS190LWhkalV6TkF3QnV3RWxweW1FS2hwVUgzdzEwWWFOeUwwWjFtQw?oc=5": {
-      "title": "三井物産、法務部長を経営メンバーに 地政学リスクや経済安保への対応も - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktuX0RYUzJGbTdUcTRHNHNrSFU0SmxCU1NPdl9QLXd2VmtlWjNtMzBLZUU0UDBYZE52VWJFR3dQTS03eWhYMjVlUWh3YmFVRGdtdGtfNHB2UE1kNXVZNk1GOWk4cEcwek81NE41Wlk5QVlwY1VLc21KY2phVzdWSXFFOFdGR09ZMHh3bHFnWWQtbGdWMUE0aHB5NmxNUjRrRjdzOE1pdS0?oc=5": {
-      "title": "豊田通商、アフリカや印 開拓 トヨタ・スズキ車販売を強化 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sdkl1SlRyVm9YbGVQbEp1MUNUeTQ1OEJjNEM5NHNyYkk3RndsMGFtX3JmMllVc2ZCMXFlT3BKSHNObGVEa2RHNERoM3VycVIzMlJlOXFBRExLV0d2QVNyZlZ0Z1V5dFpITXhjTA?oc=5": {
-      "title": "NTT、IOWN実用化へ800億円ファンド 次世代通信、米韓台湾勢と - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDIwTTFxb1FxVGJpV2xjZlA5SHZ5clgzLXZDWV90WjYtRVBTZXI0Z212SlpkQUNnTmliWWp1NzZQUW1NUzV5aHVXbFVyTVRqekdOTDRSeF9xc1dxdzJ1OXJSQmpRN0owMzQ0UXZKVWhhVW1CelFFTUJlTmZDNWI5ODQ2ejZjY3p6S1RvaV90WTBKcEtEQ0VUTHR0TGxqb2ViQkNTclhR?oc=5": {
-      "title": "NTT、IOWN実用化へ800億円ファンド 次世代通信、米韓台湾勢と - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aS2E1MERRdS11ZmNDbVVZSzZNdGlYNEdQNm1vUFB4bXJRUXNmVFJJSlUydXI1YXI0V2x3Smljc0d1dmRHZFFlQzV5MER1S3pBR2ptdzUzZFBKMXlFazlCNVhfcERYdXBMdWpVMQ?oc=5": {
-      "title": "トヨタ中嶋副社長、次世代EV技術「後継車決定」 LF-ZC開発中止も - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRU9qa3lPQXVub3laQ1VRLV9JdkpaX2hQUEt3V1lnZFVRRkxMaVhndFY2NXM5eXpKSk1uN05JN3JmelVIT1dNN29xeS1zNG92ZFIya1RCYkpyU0dNVW9IVkc5dm5UeFRvZ3hLTTZyTzBiUDU2QVZLdXRvZjZ0MndXcHlBS2NQeDg3NTd0N2MwZUlMdG1XcHNfcUI0ckFzc1BFbmkzOXRxc1Q?oc=5": {
-      "title": "豊田通商、アフリカや印 開拓 トヨタ・スズキ車販売を強化 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHM5SDZrbGNDazlNTkZqZ29CUGQ4V19BdzZKbXZEMW5tZlUtVEtfSFlPTU5mZHpVcUJWMkpraU9CdWRDR01vRHVWTmhCRlF0Z1FvWUctY0p2VG5PREo5V003M1Z5NTBidkphcVRwS3hvLTV1cnBlbHlUUXlUN2I4dWdSUmRDdkdVbkhmbDFUV2ttOUZPSm1vUnNRaU9OdHJFc2pIM0Zsa2k?oc=5": {
-      "title": "水素車 リニアの技活用へ トヨタ「スーパー耐久」過去最多483周 航続距離向上 来年にも計画 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHNrVFM3R3hEZC01Mmx3aWxJdXVtZGVIZG4yN3ZmdnpPUFFvNWJaRjhMNjNxaWdqSUd2anE2eXBaNjRZZmQtOW0yQWNIQzNKSFpOUEZFUlN6NTduUjdTeHk1WEhoNFBIMS1GNXhJRFZKNjdzeFlkQ0Z2dnRxb0g4Sk9teThWeGtQVXNHTmxkZmJXSk4tSlVvNklBbVBGR19pT0VPX0hZN3Y?oc=5": {
-      "title": "日本株ADR8日、買い優勢 トヨタやホンダが上昇 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUpjU2daVzZfcHVoNExvMVdVN0NveTJOczZGNWpDWkZ1cW1LMEpyWjhGQXJaN0oxNV9LQ21yVmdRTGNmYzNod2RpdE5VMF9Ya3EwZHNINkx0X2otVmNPc2xSZlZjWTJGdElyNWlYRkRBVDVHck50X2FkSUxZVDBxbkZNNEt4aVhlZTRMSWVyREdyQlRSck56R0pQR3FlMUJiODU4bGI1TVE?oc=5": {
-      "title": "SBI新生銀、預金者に仮想通貨付与 初心者誘導図る - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-08T22:23:01.196543+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0MtRDBscGhPaGVFTDRtaFRmVm1LMGhIM2VadURRZFdVTURqNTdxYURsbjhsR20xZk5PZEs5Tml1VU80eUp5cFk1QzVqeGdKRkx6RXF1Q01SaTBJandjVzVaX2NNNV85MHdMdktRMURHazZ2ei1zdTNjRk9JVVJjVUFOUHRaMUFt?oc=5": {
       "title": "三井物産、法務部長を経営メンバーに 地政学リスクや経済安保への対応も - 日経ビジネス電子版",
       "company": "三井物産",
@@ -2357,7 +2267,85 @@
       "company": "三井不動産",
       "source": "時事通信",
       "seen_at": "2026-06-15T12:10:35.786096+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQ1k1N2dnUTU5UnFkQjVfanA3eHN2MmpYUWY1SEVQUFFOS1YwWXpZRk00UEwycmZ6ZlM0RUllT3ZjRG1VLUs5NmxOSFRhaHdQdWprQ1EwckFOOGI1Sy1lQVJYbnRYck01MGdkdA?oc=5": {
+      "title": "三菱自株の売却「10年縛り」10月で満了 日産・三菱商事の動向焦点 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3drVGRaN0ktU0t1aGZzN3BVUkZ4MXR5V09yc3haR3dBWWtjNTFmQk82a05DbDV6LS1zaFBsVDUwREdiMlJER1N6cXlUdlgyeGZRUWRtcjl3Z1Q4aE93X25CbEJMampteG1kRVY5SnJxSnlkeHNrTzd4TkdBV01zY1BkbFlUOVlmTlB2Ti1Cb3VPU3RzMmNvNGtVaDJTZVZ3bUE5d1ppeG4?oc=5": {
+      "title": "三菱自株の売却「10年縛り」10月で満了 日産・三菱商事の動向焦点 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1k3NU5VV2lubHNNNGY3T3VXbG9lcEREYloxSGRnMDF3OFB5ZDYyTEVJa1lpQ3MwdFJMOUNUanZxajhGODVhbWViVUp5Q3NIVkFsdlF4WW5pdHZ2OWJDcm5CcjZwZjctZ2taTC0tYjB2WkJ3bVJvQUFJUEpQMlJ2WUkxckp4ckRwcTE2bWpjZ1N5NURMakZCLUpiSGx5TzlsMzdnd1Nn?oc=5": {
+      "title": "三菱自株の売却「10年縛り」10月で満了 日産・三菱商事の動向焦点 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SRW52bG5CSkdMLXlQNS1LTWM1V2p3N3M5RXNsemlCOTRzMzZ5V2J2TUxxb2hXTWttUklyTXBYNlh1SkNlZEhGWGRNMUVSTVcxSUZ3QUdRT1RoaFZnNkhldm5oV1h4Qks1M0t0Tg?oc=5": {
+      "title": "NTT「IOWN」、揺らぐ光の国際標準 米AI企業が枠組みづくりに参入 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeVNlUkpnQ2F3NTdEcEVfd25QaGF0czYtQ1JjQmJFdU1JRjFvSDhGZXlNUXNHRWJLZl9Sa2RDTUNMMkdqRWd5dkM2V3E0VUV4RHF6UzhOVW5nVkd6WVlfMW5PbHRIQnM?oc=5": {
+      "title": "NTTドコモ、設備保守をAIで効率化 障害時の初動時間は6割短縮 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zSWtVZm43WklVdDdPdFBiLWJNRG5IYWJlSzVPUlVQbktERVBrNFhxMUQzWGRRa3RTckVGeFMyMXFsYkl6dG1sMDE1WUozem5KWGxjVldoOEFsdHF4Vnh0cjBONWZfcFlqTzluNQ?oc=5": {
+      "title": "ＥＮＥＯＳホールディングス[5020]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUptd3ZqendSLXFVVER0RUtwYnkwc081VUVTajk1VzVRczFzbm5ucE85N2RkaGJ4a3lfeExxaUpkYmdUYVJYaUxiTDVsanNOSFhfcGxkbVRvcUlOOHRnaXBUbUZBeWd6b2ZObTI1RnRqQm1IVzgwVFFrdlpKejZ6dVB0QVkzc1h0QlVweWlqZlBKYllHWWVBeVFwZ29PdGtkMGVGag?oc=5": {
+      "title": "編集者の視点 ｢トヨタ､EUに訴え 英･トルコ製も補助を｣ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJFbmNlSWhSWm9pTG9RWGxGUWpxU0pMUlp3M1VvTHVCSnQtcDdwTkxnYlMwRjNHaHBHN1dSby1tWlVCSm8wSkx1QzE4aVM3LV9Nb1FDLWxlNkwwNi14NExWY3hISkI3cGxHVWNBS25WX3p0anU2cnk4bmx4dmlLaDQzY0tJRjlvRFhyN0RPZXdZUExsTk9nS0VMbU83eFJqT25fdw?oc=5": {
+      "title": "トヨタの平均年収、初の1000万円超え 国内生産を維持 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTdrVVB3d0JrT0dGeGdBaXZwc3dFZ0NvejBqT1FqSXJHbmEtcUFVajNxZ2xJUUhidVE3T09MbEpaTG1EckYzZ3lMYXc5Z21wUXo2U1FtQ3dldndRRHVkOV9yci15bFc5M2EtNTkzclpkM2VkMHhrOXcyci1aU0ZCTTNHZU1WcGxfcFZaYTBlamlkZ1ZySXo4d19kRGI0V3lTSHFpZUN6elM?oc=5": {
+      "title": "トヨタ、前期平均年収1000万円超に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVNTaFZrVVJzaDN6Tkk0NmxqT1FWTEZJYU5QMjM2QUQ5UmhUb0loa2FNVzFmWDFramtPU25yZmpNR3JfVzRIUFh2XzBodGltcVUtYnZLTUh0YVlCaUNacDVHVE9SaE5fbTZtT3F0RmRJRkZaWllqREpIdkp0X2RjSGs2cUI4TFVrcF9MSXpwLVU2cXlYNE50dmRsUUFBQ3QyLThRVF93?oc=5": {
+      "title": "トヨタ、豊田織株の売却益5769億円 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFOTMtODltR0lDVEw0ell1eERGaURaQnVfdUdRRnpBLTZqbHVXeTZjUExIdnluQjF6NjRyeFkzZk9STTF5SnVNQVVOZG5ZWW9jUjZxMkxxTy1uLXJsanlPSmtVQjJmTE1aSFVoRA?oc=5": {
+      "title": "プレミアGの柴田洋一社長「中古車版の『楽天市場』つくる」 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFkY1JVMnNQQlVZS2FEOWdhNTMwVFNkX05rXzFaUjlaaFhfWUVpQTdVdmQ4VFViRjJWRF9vUUJHVnQwa25ieWhXN1VpeWcxMEVETUJfSkJfc2Myb2l4U3lCWngybkU3cWJjTWpmaFBDaVFXU3pBNG90LTFBWXJwMFBYWHpPSzh4eEJ5STlUNGxtSlB3QnZ4Vjd0bnZlSjBoQS1qRnZTTEU?oc=5": {
+      "title": "ウイスキー蒸留所 富良野で起工式 西武HDなど - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MRklKUTdWaURUVGg3dG9YVHk2clM3bGhscFI2V1RidXJSVnNQTWEycU9vWlhOLUxkV2VfWHQxbW9BT3AyMnVhakhMRGlYazY4RDlXRDM4NlZTbUt0?oc=5": {
+      "title": "「京都信用金庫」のニュース・最新情報 - 日本経済新聞",
+      "company": "京都信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-15T23:00:29.489876+00:00"
     }
   },
-  "last_updated": "2026-06-15T12:10:35.786603+00:00"
+  "last_updated": "2026-06-15T23:00:29.490414+00:00"
 }

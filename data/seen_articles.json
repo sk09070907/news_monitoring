@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTTdydUlENTFCM1hzck8ybXFxZ2pCM09TVVBLbmRGUlFYdDBWNExKQjQyNGtrc1hoR2MzdjF1dFRYTk9CM0NzMmotV2RJeGRncV9RUlRnZnE0Ykx3M25OcS1FdFVDcG43bHBrQg?oc=5": {
-      "title": "フジクラ[5803]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnliY1l2QlJGTnd2bk9ydXNabnZPa1daNTF5VHBUZVhYRHAxWl9ZaTVBRUVoX2tYN0w5bEM4R1B6OWRnTktnVG42dXJ5LXE2MWpVcmpOTk9pb0d6RGdJUnRQYXVyOW1MRkNBbVNGMFF3MU5NWXY0eDRfVTl5eE1wNWNwVzhsWnNmLXZfS3dxZXlPUGNTTUZtU2xiYWtHOVRRV2c?oc=5": {
-      "title": "ラオスでトヨタ車生産 28年4月にも 豊通が新会社 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzdNeUZUcHQ2S1J5ZmRJdkN3ZDVPU25tWF8wYnBNeUN2V3ZLMnhaQUhTWldtTE5qR0I4NUFBbGtVR1ZRQ1Z6VWd0UHVRamYyZy1nV0ZVTm1xaFN0ZnRlUzBJaTFqUXNKQUc1dnRoeGFBTEQ0WjZKSnVPamg5SU96cmRBMmFWa1ZCQzNRMzEwTUNId285WHp6b19GZ2NpSUpFUWRUNGFTM3Q?oc=5": {
-      "title": "レンタカー業務カイゼン トヨタ、沖縄で繁忙期も回転率向上 脱・勘頼り 紙ファイル「カンバン」作成 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTdleU0xa3dlZEpORFpwSVk4RUFZbURwTlZrWjRwUjFPWnlBYURmeTJIckVYdG9KNDlzQW85ZUdOaFFCWEtGZlo0MVNCZXJyVFlrRzNnRk91clV4Q0stN2FTay1wQzJjdTJaUDRjZFZPNWs5ZGY3SDBTaG1nQjU0azI3OHV2SmJvOGQza0NoVlQ0MEpTS2JIZm5qVU1rMHZWMWc?oc=5": {
-      "title": "「クラウン」からDJブース給電 トヨタ、音楽イベントで - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qUndxeFhEREVMclFtOXNJRHpCdk5SM2xuaG1wNHJwT3g5NEFudG9yV1F6bWsxZFc2eFlnTkplZTM0U1dFOXNyNkhWTVlyV1JPVGh5dDg1OFNfbTBHM0NZSEgzbmlVTUU?oc=5": {
-      "title": "トヨタ、「世界最高水準」VLMを外販 ウーブン豊田大輔氏「AIが街を理解」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWZUVUpDejFLclJkbTc3aU1vYkNYcFM0eXVHYkZ0b0NtbkN3SHZHVFd3YzBnbzQtN3k0N2dEQjMydmRnRDRVSmZlc0JtYnNOZHUtXzdyYWZRYjkzeTJjQnNsN25SeDlHaDJnQVRpc3hOeEhVZEFpbTB3RE1qRjRabVJQY29MZ0xIQ0JkOVdYMDF5S1VvR0hycFdB?oc=5": {
-      "title": "トヨタ、日米中で自動運転 開発強化、地域ごとに提携 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTFdPeEY0QXdsd0QtMFB3UzJWUlY0ZFZ4aDMyUzlZQjNQSndzbkdfV05xbUdrajA4SjZ3bnZEalo0ZkVVMHd3akNWWmdBdjF5b2xtV0p4bzJvT1cyc0hCR2p0bzZ0N3c?oc=5": {
-      "title": "ウェイモ、トヨタとロボタク技術 幹部「E2Eは追加機能いる」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFdmLTA5b1cxX3JRLVdGRk5nLVl3NWRYMVoxMFoyQmNkVjQ0R3huN1F5a3dBcGs5M09ibWxCTlROUzd2aGdoS3NZdFIycVFGbS1kYy1NOHpyMURtTms2ZkdoTGdDdy1Ic1RKZ1BSMDA2QzBsdHF1MklINjZGSkFjY3JkZU8wUXlNY2stVGlNV0FudzZldndMVERYVkg?oc=5": {
-      "title": "日本生命保険相互会社に対する外貨融資管理サービス提供開始について - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-09T22:20:40.419351+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwaFVWdHI3bzhmVTRwQU1sbjl6SjRHXzR3UkZMQlFtRTZ4ZXJvZ3RKcTRaVTNGY3p3dTFYRUFzcmRKWEFKTnl6VGhObU5HVFpTM2RjdVVJeVBQTWQ2a1I2dC1NQWRSYzc3dENZ?oc=5": {
       "title": "REXEV、NTT西日本のスマート充電システム導入を技術支援 - 時事ドットコム",
       "company": "NTT",
@@ -2291,7 +2243,109 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-06-16T16:48:21.413064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mbXZvWExqV0tmeHcyVnBkbmxPMzZFbm9jMkR0VUdLaDhZUDVIQTZNXzlLSWE3VVVCaWtjMTl0R3lTR1RpbnJ2aEV0Sjd0OG1QV3ZrbV9HOXBUc0RWM3o2UmZBWXRnSnRHRVlHRw?oc=5": {
+      "title": "三菱商事、脱炭素目標をなぜ緩和？ エネルギーリスクの高まり映す【ポッドキャスト】 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qaUtzdzA4OFlja0hFVHV5RkV3bWF2VUthLTRTcTBvYmN4RTdvZzduMUZLSUJlUGRyejJNOFc0M1pfWnE4Q3lWZk1kYUpvOWJKcmxDWFhXb3Iwbkt2YXl1VGxsMzFrZWdRdThJcw?oc=5": {
+      "title": "NTTドコモがJALとタッグ、ホワイトレーベルや収益分配で異例の譲歩 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOERTUzBJSFItZ1NpenpXNGU1WVM1OFdHZW1UTlV1MGVpSjR1TXFDN0tqQ19ScGpnZ0ptTGJEV3lBVDNaalY0d0lrYXJzSEpNdlNvQmxoNlM4RVE0UTVndVA1VlZXd0dTYXgyMXB6TXFrNkExYUZPeHQzUXEtaUhnR3E0UjhJMkk?oc=5": {
+      "title": "編集者の視点「宇宙で800Gbpsの高速光通信、NTTが覚書」 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUdjSWhoZ01rdlJGak1iN2hoY0pmNDFfVzhhQUFaUWs3RTVHSDhhUTRGUElHUGJZMEtQcXNWZTZRVE91cjRhcHluYzcxZldsQjhNMF95a0RtOXY5bWJlTzYyRXhFYXpRUWJFWjFYdk9wVElHYUhtOUV5RTdtNFp4MjdPMUtnelhmUVNNMQ?oc=5": {
+      "title": "共働き子育てしやすい企業ランキング 2位に三井化学、1位はあの会社 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbl9nQzRXc29uNGpwcnhMM0h4VlZILU1ZZFppa1RFdU1vRlQ2a2w4WGNjSDYxUWlLaU5NUUx2bUxHd1lweXpxYXVtazBxRVV3Qno4RE9MbWtfZ2VwY3NlQWgzVk9UUFVlbzRQcVpqUUtWdFVhS3dTM251ZFFfZmItLTVQSE44YzRxOFFZUmJUQzl4NlNiYUJIdloxTlJFQllSeFE?oc=5": {
+      "title": "離島が脱炭素実験場に 再エネ・クレジット創出など 奥尻町・ENEOS ブルーカーボンで連携 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Jd3pLOUlidmFNb0VTWHVWRENTRVN0cGVuRUxmaU9IZVMxUnFEeVdBTWFLMC1Nc0lmc3d5bzJCWUtPNEUzd0FPa0FEYVlTdmpqV3FNVWoyblJqSmNvQ1BacU5ycl8tRHNNOXNaTA?oc=5": {
+      "title": "買いたたきで公取委が勧告 アルプスアルパインに - 日本経済新聞",
+      "company": "アルプスアルパイン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVotaE9DeGhROXhyQWVvZVVMcTlrNHY3cUxnWUxFNFdnZUNnM01PMzZUeUctc0FNVm5tV1o5UjMtX21vbTlTN1lEMEd6VnB6Z0N1Tk9FRU1KS3ExRVhtYlFWT3pWNldfSkhBb3lQMUZCdEdqcmhhNjlCMUVpdC1TZHBuOERjeFE?oc=5": {
+      "title": "月の南極目指す探査車 迫る分水嶺、トヨタ陣営は31年に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkphS0VEQjlMVE9qUDRpZ0VqdkdvSmtuS0IyTHVoOHEwNTQ3TldtSHRZQ3BnZEgyV0ZuYWdQeUQ1RWpKUU9tUm9hd09pVGdRckJhVzhVRlIzRXgzQ0h1QnA1UGJwOTlWNlFGZlZrUmIyR0V4dWk2OE1waTEwVUxXNlNOd055WktJTGM2dTFJek5GUlhzV2wxcmk4TW9wN0dkTXc?oc=5": {
+      "title": "トヨタ、非連続の成長めざし投資へ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BcTBGT2thaFlGNWxiU0huSmhHX0YtanlqSzlNOUNhMkxQMVV5bmFRUVNFUElTTHR3WWZySkpsazFYa2xmYjlwUHlqY1QzNm1DOWI2OE9wTHRpbnNOM0oyXzJIZnZ0MlVDQ2V2Mw?oc=5": {
+      "title": "トヨタ新世代PHEV、SiCは「欧州200km規制」の布石 REEV競争に備え - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV01FamJITXZsN2xpLThrRE0zbnJ3SUtoOGNkMzl1c1ZEMjFUeXk2MUJEUFRSR21UaVVNN2s2MURMbjlXZmNwRlVKUktLR1JNQmt3eGtVd2h1SlpGYUd4RTJ2MnU5c1dRQmNlRGYzVlg2ZGYxRzVsN2lPUUtHc185bThPU1hiOXdnSml4N01DemtaR09mdHR4S19DOTNNVGZLUXUxSmZ1TGU?oc=5": {
+      "title": "日本株ADR16日、高安まちまち オリックス上昇、トヨタは下落 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlR2TktkbU9yUnk3bnZmbE13UHo4V1ZYeVF6ckN4TkZvdWstbEg1V0wxaUdwRVNKVXdTNXhNNXJuRURlcERmbkpyOGpoeGY5YU5Ta2l3ckJuSmJReEU3ZXJMVWtJZVF1OHdXN1VTVXQ2c0JIcHF5ZEljWGh6cXhOd1lseER6QW50aWg0LUNfNnMxVk81NnBGWHdHbEhEb2E4Rnc?oc=5": {
+      "title": "イオン、愛媛産ポンカンでサワー - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFNqUjg1YXRMakRzNEdzbHkxUkRXZmUwYWdpWW5Tb0xURWFsUE95bXBUVVNNeVV2eUFtVndZWmZuX0xiVDBrR3FKSkVENVBqLThySm1Gd3dGT1F5aE5mVmdxUGpCeEQtMWJyOUI1MjBvajBqdXJ1MWFFY0sybldfYWRhRFBYekZfaUdHeG9FSTlmNlE4X1VRc3ZEbVo0Y1RyZVJSZUJmOF8?oc=5": {
+      "title": "西武グループ、「私をウイスキーに連れてって」 富良野で蒸留所開発 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0dyYnpodkVybmFjbFdjQldWU012dy1XdGpCWU1pZE9vTlpOdmxVOFRRNm5PaWx4b1pYYi00ang5OFFqaXQ3RmhVRkpHNUxKSlpTbVloS29HRDZkdV9PeVJWUGdSeGo1ZGFqcy03dE9va3ZLMW42bTR6QzMyalozNTkyWE5MdXNYY0ZUdDRtQWxxLXFuYW1TVUdOcFNuNFlZWHc?oc=5": {
+      "title": "西武HD会長 後藤高志氏 ウイスキー、地域にフィット - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LUnBvWlYxVkExVUZlSW5pTnpBcmpBV2pkWGg5WktJNmV4VXF0WV9BZFFrZDZNNTdJemlrVmk3elZQTXNmZVVPYUxqVnVLNWZQSDdZV2d5MjMtX204dnVxQ1hPSy1IUDVlOWI4VA?oc=5": {
+      "title": "富良野のリゾート再生へ 西武グループ、相次ぎ設備投資 蒸留所やMICE施設 外国人・ビジネス客呼ぶ - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXIwczIzZUdQbVowaDdhc1djMXdidG1PSlBWeVdrTjhOdUNSNTdqZ05BaVdhdjRYM09Vd05kQXZOWDdqU0hLcWZoWXQ5VjJEUUFSa1RpYXlhckhxRU9RNVJYQWtuUlFUUG9vMlVnVjVVUVVLb1BZTmRxT05uRUpjN1J0NnMzQ2ZDanR1TUdFMWt6RkpkZEkzNFRMc1A?oc=5": {
+      "title": "関西電力、三菱UFJ銀行系と蓄電所ファンド 65億円調達 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVA3T1Q2VThjVXJwSUZObUpJOVVydHVwQ0l4NUxVR2pNTFB2SjRINGxMTTRaWVJnblNhNU00cldqaUtCLTlCbGxxblBjUklKaElJS242cVJlQlRNeTNab2JiVnBkdlFfb3BHdC1aLW5jT2VxcW83ajRRM3ltU2ZURkhMZ0pBbEkyUmVTdk5UbVVhcktpNFVtd2JtRlFOU1JIcm1xcjQxZlA3QQ?oc=5": {
+      "title": "関電、三菱UFJ系と蓄電所ファンド 10社から65億円調達 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5BN1hLYUFSRktuT0NFR1lBUUNpNDdlQVRUOEs5SWlHQmhnOXRIdVpTcnpQYnlsVFhNVnhSTHBNOGNfekVkNmtaT2FnM2c1aFJGR1pPaUxjaU1MV2lyRmRNY2g4b0M4ZFh3cXRyaXFfQ1ctX25mSUJra0VrS1htNG5ncXdRV1pzTVV6cWQxZE5pOXUwaGs1Y21mSFk3M1NfMUxmNUtKa1Y?oc=5": {
+      "title": "日本株ADR16日、高安まちまち オリックス上昇、トヨタは下落 - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-16T22:52:15.279191+00:00"
     }
   },
-  "last_updated": "2026-06-16T16:48:21.413785+00:00"
+  "last_updated": "2026-06-16T22:52:15.279698+00:00"
 }

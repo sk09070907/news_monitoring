@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwaFVWdHI3bzhmVTRwQU1sbjl6SjRHXzR3UkZMQlFtRTZ4ZXJvZ3RKcTRaVTNGY3p3dTFYRUFzcmRKWEFKTnl6VGhObU5HVFpTM2RjdVVJeVBQTWQ2a1I2dC1NQWRSYzc3dENZ?oc=5": {
-      "title": "REXEV、NTT西日本のスマート充電システム導入を技術支援 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XVkhhNzNFQzdqX2cyQXZGaHFrYW9VZkRTeUxjVlYwN1JodUpYbVZDeFpxWVdXTEI4Vm9UZU1SUVEwNDNoeHB2UlptV0tseHo4T0VZbW1BbktmemgyV25aVEtxMnhuVVl5blVj?oc=5": {
-      "title": "銀座で大人気のブランド体験拠点が大阪・梅田に！「サッポロ生ビール黒ラベル THE BAR OSAKA」7月3日(金)開業 - 時事ドットコム",
-      "company": "サッポロホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE04SWVhdllscF9qaXZqYVZ3bW5zN2hkQVJhZUc0VFlYTXZWMEhNUlE4d20zQ0JFamFUWGlNMklYX3dCdGlGcDZjZU5wZG5NQWs3Wkg3a2pTQWd6NzV6X2hQcEIwaklVUDU4U09Z?oc=5": {
-      "title": "『ミツウロコの小径』清掃活動を実施：時事ドットコム - 時事ドットコム",
-      "company": "ミツウロコグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0tzaVZKak5pbkJ4QllNOThMUEM2VDZSeS1uc0hOQXFLc0s1ZEhGZW5PSWtiVmJPbmZDS3gxeTlMMExuU3pzOGI3akhzVmhqLXhNV05ELTItdVB1cmFJa0cwZlQxRnhyNkQ3eXRYdEdlY0VVM2hlQVdfVWZfUnJPbUNVaTdnbTdiZEtDbDVhUV9nUW4ydGNhN0xkdnlRN196dlBLZHFvUFY?oc=5": {
-      "title": "日本株ADR10日、売り優勢 ソニーGやトヨタが下落 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE42X3NYVHB2dXh0SlBtNWJVQ0t6Z016MGpQVHhvZzZfbGN1NTdMNDlaSjY4RlJKZUpRd0cxNllkeXQwZjZnZWNnQVZHUG9yejFKaFVnSVZuajU1cFNaa3RLWG16QjZyaTFEYWUw?oc=5": {
-      "title": "ギークプラス、トヨタ自動車の複数工場に搬送型AMRを導入 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE92ZmxqcVVoT05BZzBqWGp1QnhucTFwam9PMERCUE5GMzJOd3BkVWt3ZUFJLWsxTzl5SEJ0bnBxVkp1cGJtd084QXg5NTJMakVFZXZzQ2ZaWEd3ZlZIX3pwbDJMdFpSaG1ZZGdR?oc=5": {
-      "title": "InnoJin、楽天グループの「ヨヤクスリ薬局」と連携開始：時事ドットコム - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBidmNkS3dpenhmbmFxVXlNTGNmVzBralZkTFNmQ3ZIQ0Nzci1oOGd5V3lycU83ajdSV0gyMlZLQUNhZ3VpZm45NkR3dU1sZWdLckMwalk3MWs4WWxpOEhueHh0U0hNd0hPT1Jv?oc=5": {
-      "title": "イオン初！父の日に「スイーツ×酒」で“越境”挑戦始動 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DV0NkVHhQaUVUX2RHbG95X19pd3NYRF9sb3AyY0pYemJKRWwwR1NaNTZPZDluRFJzWmdMc1h3eFBvamRPNlpHcXdpY3VEaC1xbjNZZ0JwRVVzOGF5S0JBM2lWLTVnLXBBMW1J?oc=5": {
-      "title": "アニメイトイオン松江が1階から2階へお引越し♪ 2026年7月18日に移転リニューアルオープン！ さらにお買い物がしやすいお店へ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQl8yYmM5a1BZZEtGU2J3WHEwYlZ0WXBRei1rS3U0bnc1M2lTTTc3d2UxWW1jM1R3N3l2TlN0b1BvUEN6S2M3QkhWSEFNenVHRjRBN2lWN3prVERtcFpOV3drb1picDJET0ln?oc=5": {
-      "title": "2026年6月20日（土）スペシャルイベント開催決定！ジョイフル試食・販売会＆ギャル曽根さんトークショー in イオンレイクタウンmori（埼玉県越谷市） - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ1ZKSy1jZGxiQm8wQ1lSLURFd2JyZDRGRzI2RHdMd1BFRllIMC1STXh0SHFOZGh5LVdxZi02cWJLcGxiWlduSVZEa3dJcUMwb3IwemtSdlRqZFVCcGdkdnllSHVpc3h6eEdZ?oc=5": {
-      "title": "東海旅客鉄道株式会社と空間AIを用いた新幹線車内の精緻な位置データ取得に成功。 - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fN1BLRVN0bkFsZzdNejF2YWFjRnVDcmpESFJOdWs0OWRRU3VvRnFaLTdYdFhzd3ZZaXZMbjZJMnh2OGExYXJwaEdFdkJyZXlLTHEwTkpPVkxmaEF1V3FiSnFuTWcxRHNhM2xR?oc=5": {
-      "title": "JR東海との特別企画 東海道新幹線で行く！『100％ドラえもん＆フレンズ 夏旅エクスプレス』 - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1VlhyWXdYa3lsTkZlSHljektHLUgyMzk2cFh3NG5Sd1lPcDJzY2ZsNHItZ1llRjh1UXdYU2Y3YmtDcGV3ZEtSSTRLNF8wdzlUd3ZoTVlHcnp6WWNMSnZYRl9xSkdVVXpPMGxGeA?oc=5": {
-      "title": "商船三井、JALなどと「シーグライダー」の許認可取得プロセスの確立を目的とした共同開発プロジェクトの合意書を締結 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsTmEtSkZGME1wTEpFV1NhOEJqVVNSNEtJbW8tclJHZ0g0Zm45bjdqMEcyTnRpSzFRcVVlVVZJZU96VkNJa1QtZllsN004VmdNLUNOMzN0dkEyR2ktb0llNmp5bHNrMXFXVFE?oc=5": {
-      "title": "中国電力[9504]：第102回定時株主総会招集ご通知の一部修正について 2026年6月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0ZJR0lYV0RPbWpkaHhGY3llSklySG9CTDVmaVVtd05XTUhHVkRzZW9rVmY4YmNaeWlqT0JGRkY4M1pVWF9Dbk9wanY5OGZQUzgwYkNIcWFwTlU5eVhINXlwQWNvdktyN01mRGthLVB2a1JMeExPdEozcW91YmRRcHZwWnllT0dtWnRWdE9BMV9LM2NYbmphSmR4Qm5fVzloMGc?oc=5": {
-      "title": "日本原燃、再処理工場の説明終了 年度内完成は不透明 規制委が認可手続きへ - 日本経済新聞",
-      "company": "日本原燃",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MZ0lGbmhBVzZnX25SUlVfWEJ2QUdfeDladFprOFJkaFBHS3JNdF9OSm41T25OaHhaNlpSZkxpaU5CVVNQTXdxaTdOejlXQVUwQ2M5MWpYaGxGZkl6RDFhRHE2eVppWnE2RFE?oc=5": {
-      "title": "ジャックス[8584]：Regarding a Partial Revision to the ‘Notice of Convocation of the 95th Ordinary General Meeting of Shareholders’ 2026年6月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ジャックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-10T03:34:05.441875+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMExWYURtdE1WZkJvelJrc001U0hscGNrdVZENGV3ZzNSZ2Nudm9vLV8xOVp3S3gtM2dFMk1kakJ4RjIxWUw3RVpNOVRqakRBWGJkVlJyR0ZrcW0wVVNTWl9lbWI3aWlwaGc2Uk5hajBoSnprd3FkWm13cDRLTy1ZSEh3b1BiSGQ2eEZPMVN3?oc=5": {
       "title": "三菱商事が狙う「高機能肥料」 ホルムズ封鎖が突く食料生産の急所 - 日経ビジネス電子版",
       "company": "三菱商事",
@@ -2345,7 +2255,91 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-06-16T22:52:15.279191+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE54RDl3bm9lcjF4V1d4RUwydEdWNjFVQUxuMjY3Wl9JaXBCY1BtTW03eF9DYTZjcW93TzZOSGxKM0NEcWtLV2M1X1dLNVIteHdKWGlxS0Y3SlcxZkdHbV9rWlVBSHl0Y3JfbjVZ?oc=5": {
+      "title": "日経ウーマン 2026年版「共働き子育てしやすい企業ランキング」発表 1位は東京ガス、2位は三井化学 - 時事ドットコム",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqc05tY3ppbDQxUVM3S0ZfS2RvaDM0WG5ROW1yZWZQVUp1M3ZaWl82cTlscXdFUDFzdHJkcnlxYlNrT1NUSGNjYVNTTnFNUjQ5RlVqcHZ4SzhVd0tYSUY4aHNQZHRrZk01bHM0QQ?oc=5": {
+      "title": "トヨタ自動車株価が軟調 朝高後に売り、南米EPA交渉は反応薄 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3VjVkFKbmhqelR0UDlZY1pKV2ZpSkpnWHZRajBpNFdaTVVQa2VBczBEbkJ2RS1SRFFIOFNRLWVWQ2pKZ2NZR1VkRDlJbVBnVUQ4N3RmUkhad1FyV1dfaTJCajVjUmlSdEhsN0p1SWJSUU5kRURiWHhCM0l3ZkpQOXBBR0dRQkpzRTVKa241Wk9WV1ZUTDQ2elI0T21IWndWVUE?oc=5": {
+      "title": "トヨタ自動車株価が軟調 朝高後に売り、南米EPA交渉は反応薄 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnRNXzRjbEV3Nkg5cTRvWXVKY2x0bE53QVQ4UWFaRENMcVpsbFVlQTdhb2NJTDRTTUU3UGM1Sm9oLV83dy1hWmJKWWNGQ29idFpJeUNlckRyZ0xQcVM2RGtybEoybEFOeUFvRFRhVWVmM1J2RGFnYjJnRFZBV1o3S3JWdWw1c1JwQTBWaDVEYzM4RmdBNmRDaDF0U0NhVkRxWVNaNmdWV04?oc=5": {
+      "title": "トヨタのお膝元も人口減っとるがや 少子高齢化加速、転出も止まらず - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZktIOEhVTW5wWHBPWmJXbXN2VU9NTHgycDBlcVhDY0czRWVsSWFTTWszMG1aOWttUnhGb0FCRzVGN2t6ZENQWm9iUkFOWldPMnhaRmxiZ2FCdnpBUWVkbWhpT0FaWnBrQ0FyVzdRcE1KeU95Y0tiMEJXVVRBa01sNkluaFhqM1ZxSnBNTHlqQUhIODFOZHppRU93QmwtNmtGZGF0OHdweDc?oc=5": {
+      "title": "トヨタ、非連続の成長めざし投資へ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BczRLbDJPcWwyVGc4M2g0amV0NlJSNndFSUV6TTZGdVFVaDlUSnNkNHN6WDU3dTRRcFJvYzZ5THR3Y191RzZkeUNzV0l2UUdGYk8tNVgzeXlQZmZTTUZzX0NTbGM?oc=5": {
+      "title": "画像・写真：トヨタが株主総会：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5haFdCRzVaV3NYSmN4QUZsUU1qTEx1eE11bkk3UUQ1a2tZSHZOYnVYTkJ5SFZ0MVVNSjdzNUNBdmxFb3Zra1N5ZW8xX01xNzktOE9wRA?oc=5": {
+      "title": "トヨタが株主総会＝近社長、経営継承を表明 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rcWRRenF1alpPRGgtM3hWOWkzdjBlYTR5YUpWVWwtc25xQlEyRG5HOGZhckxPUGh1OTAzeHlXMjE3SjIwNW05dlg4OVFKdWNhajcxU3NxZExCUTJCVTJwVWtEOA?oc=5": {
+      "title": "トヨタが株主総会 近社長、経営継承を表明：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FbHJ5QXFfRW5Kd2I0SWRnNW1xNHlzaTNkUWtDdVZiNU1nVnNJcWh1SkItVzdiTnhEdHRfbEVpTThucS13WnVxMUhmcDVndVBLWWlaVDVpN2FlaGctbmtRcFlEcVVRS3N4WmNz?oc=5": {
+      "title": "本格グルメ廻転寿司【にぎりの徳兵衛】 6月18日(木)にイオンタウン千種店・6月19日(金)にアピタ四日市店をリニューアルオープン！家族で楽しめる、生本まぐろ解体ショーを開催！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHhsd0R6TGhIZzFRQlJnU21fWEZjYmpQa1RTejhabVRPb2ZhLTlmN3d0aTJrdThtNzZ3YnlfZWYzcDk2clA1WTkxWDNMTnRnbDR5QzBVTy1HaEdkNHZaV3dncmQ4cTQ2dUhJS01nUUtQUjFpWjE5MlpJTWhFbjJYOEJ6d2ZZbkZ4NGN0QUcwUHpHZmlwNDZzUTV5VmJ0QkVKc2c?oc=5": {
+      "title": "ウイスキー蒸留所 富良野で起工式 西武HDなど - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFc5S1A2MU5SUTNKRzBRWkFCMXBFN2RFT19KZGgwWEhhbFFkblZHZHdsckN3N3d6QUhPa01GNk8yb3NrZFRVQTJCU2xjaWFWd3lNSG45QmttUTA3U3ZmcDQzZTgxWkFPUVoyaXBxVkhnNkktOE5lMTF1enZ2YWE3RlJXR01pUGV3U3pBRmx5NzBiQWtPeUpFVEtjWlZHUVZxWG5VNmlqVVE?oc=5": {
+      "title": "西武HD会長 後藤高志氏 ウイスキー、地域にフィット - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zTW82ZjN1TTlQZkxkbFZCZnhPS0E0bEI2b00yaUxrWDJyQklyS2JXcGc0U3Z1bW5jdExMOTJKMWFoeG5sUjR0YTRpcVc0OWdUXzFBQ0lyMHQ1SDdxdjJmMkV4ZksxN1Bxc0JR?oc=5": {
+      "title": "フォースタートアップス、三井住友銀行とスタートアップM&Aを推進するカンファレンス「M&A for Startups Conference 2026」を共同開催 - 時事ドットコム",
+      "company": "三井住友銀行",
+      "source": "時事通信",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rVktrYzV3X1UtMDdCdEg3QXJmLWdLby1wSElxSlBLd0ZsWW4yWGNEWkxpTG0zM2Y3LVJHdFA4UjNkQWE3Q1F6ZU11RXAxVU5OSkFEQnRWc1lJQjRaS0pzeWc1Qk5uX3F0RFV0TA?oc=5": {
+      "title": "三井住友信託銀行：有価証券報告書－第14期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuSFUyZUZKcDJJbF8xMFp6aGdJSWI1bm94VGNxOUpDRm1ESXFXTUlkcm5ScUcxX0NiQjE0QTAxcVhHRXJLMmZHWld0ekwyb0hvR3Njd0wxdzFoRTJZOHgzS1M0SDdQdWFvNTJKcw?oc=5": {
+      "title": "三井不動産レジデンシャル、船橋にオール顔認証の分譲マンション - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-17T03:57:25.359589+00:00"
     }
   },
-  "last_updated": "2026-06-16T22:52:15.279698+00:00"
+  "last_updated": "2026-06-17T03:57:25.360127+00:00"
 }

@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BeTZfbVpYczRkcWF3aEpVbWNZZ2Uzb21nWm82RUlCUnI0ZVdTR0Y0NlRac3NMd2pPSlVCVkRPd0FHMWwtNDJHRE5sbDI1bWptYTh6dU1CcTYtZU00U2JQOExEeGdPb0Nnb1ZtYg?oc=5": {
-      "title": "三菱商事[8058]：有価証券報告書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83QTlnamczWHA4a0ZZV1lsRENFQzVtOGdwbVZ5QjViTUVnQmJhMWMwYkdVb0xIREdIM2lQR011Yzk4N1g0WEVUN3hyekU5NDdPWkxKTVp3c1NZU3VNSHQxT1ZDM1B6S3VnUF9DUg?oc=5": {
-      "title": "千代田化工・NTT東、IOWNでプラント遠隔監視 複数拠点を管理 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjF6VVRvdnVfWURuRkF5ZU5SSWcwU0FYRVRXSjdFTkltM3ZDSENCYnp6SXJOWEtOTDYyZ1lqY0cwNm10ZzRUUngyYTk5XzJUenhqQmg0c1pRMFd6MDZzLVhnczdsOU5RandYd0dGNVdRTV9tSlRUdnhHcUV1ODgtRXBBM2pDUndoak8wTklpSy1LZjc1OVd6N3FOb3NDejQyYnc?oc=5": {
-      "title": "デンカ、増収増益 - 日本経済新聞",
-      "company": "デンカ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12S2lpOVJQbzc3UDQ5NnhqaHVIWEkwSEEyY0lVSjRUVC1tRnpSQUVmV3QzQjJxeEJrMlZqV2xEM2kweFVXaHRScE5tTnlBNDZ1S0I0MA?oc=5": {
-      "title": "◎三井化学、米歯科材料企業を買収 - 時事通信ニュース",
-      "company": "三井化学",
-      "source": "時事通信",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZEJKZFA3LU81VXVUU2dmaERUTnVMVDkxLUJfZTZmV0lLNTEwbUcxdW11dTVYU05vYkE2WWQ0bmVKZlJmSWw2NHFTdEQ2R2ZfVlBfWVhpZnJFUW5wSHpXZFB5cEtuS2cweUVWSA?oc=5": {
-      "title": "日本製鋼所[5631]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3dE9QSHRtRnhQUHdUeDRZY3FtVzBtRms3blF6RVBTdTNlcW5CZmJPUk8xZ2syTlQ1X25WUUt2LWZ4RVhjZXlmM3hTV05leUNQT0pYbjRaWmtIa1lLUzNwNWVGMA?oc=5": {
-      "title": "キオクシア、時価総額首位 ＡＩ追い風、トヨタ抜く：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnJpUXgtVkpmcUhSWmhkbDNzT0tpVTJlNW1KdUNlMndtWVB2RktZckJVRFJXcmZMdjV5YTNaTHdfREg1Nk1HU3NFa3N5RDRmaEtHUFBLTHBENk9MRndGa0RzMDhhbGdTbmFyTjRCakRLSFZ1VWdUZEJBY0VlMlBfVmV3?oc=5": {
-      "title": "画像・写真：キオクシア、時価総額首位 ＡＩ追い風、トヨタ抜く：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uTEtIeDZUcHhQR2hiQ0NqcjVHUlQ0ZEpFdnk1cHZoeHVWeDJBa20tZm9GUXRDNTJNVFpwUkcyNkRnMDJhQkM4QkVGWDItc3M4M09Za3RwTTliU2g5cWdPM01qbUR2YjZUVUtV?oc=5": {
-      "title": "「楽天モバイル最強キャンプ2026」開催のお知らせ：時事ドットコム - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjFmaVcxazhkMklHbFl2MVAwQThFVWhINjM3X05USE92NllqdnFaRjhqV1lIb3RFMzhWdk1pSHVFUEZPdHhoVl9kZlRrdTNlR1FOQUw2ZURXVnBOUnF6UGVTem94eHoyT3VzR2dCcWZvSzJYQjJWUERkcUp2bzYwSndLNGdPWFctMmV5RG1hX195cEhhTVRzbHBvRGxNWVhpeWRORmp4MEM?oc=5": {
-      "title": "3Dインベストメント、西武HD株を買い増し 9.02%に - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zWG1fSWtMSy04LWpXcWJfWFA4a0QtQ1hNUklNSFhFMmJqZkFwZlJwV3VxZEFMalZZM2JNNDRVYVBCS2JlRWR4VnRyVHZHaXFFbFVXbTI5Nk5UUkc2dlNhR3N4QllpQlVjZFA5eg?oc=5": {
-      "title": "北陸電力・志賀原発の審査会合、津波高さの審議せず 資料不備で - 日本経済新聞",
-      "company": "北陸電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDdnOWpKdlNsMm1Cd1VLTVByQzFXODdHSjdiM2d1N0VuQXRSZW5Xc19jdlZIc1ZSX3l5M1lxVnNXdmpaYmZxUlFrMDV6QUhHdEFvVmRZUllmVGRrbklTbURPeE9SdW9TcmstRWY4LS13bGdjUlFtQjV1bng4NDRWandBUGRPSk5YMzAtSzVHcnhSd2VueXJHd1F0QkU?oc=5": {
-      "title": "三井住友信託銀行が提供する個人株主向けスマートフォンアプリ 「株主パスポート®」への参 - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-12T14:55:12.975407+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay01TzBIWlZSZjRiZUFqZUtMeHFqLXBxTmU3ekxJUWs2LURxd3h3S0E4cmxUdzc4UkFJdlV1RDNYQjFCREJKdVhIdmR2WFRoNlpXbERnZUlSckdSR0xlaGFYbkZZaVRRZ0RpOVpUdlRJbWIzUWNsci1YNFNkUDN2V1FwQUpyX0U1cVlCMndfb2NRVXAyaXpxdE9Rd3RvWmVoLVE?oc=5": {
       "title": "伊藤忠が血液製剤をドローン輸送、28年度に 災害時にも最短距離で - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2609,7 +2543,85 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-06-19T10:25:37.444328+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFNRa3R4WkthNDhKaEVtRmRXOXlUX1R0UjdhOWpEbU14YjdTUGFHM3lfMTVSOVlHSVQwMXhrdzZKbGdhWUdTbW5Ea21vcGljNkZZMDNiQ2ppUlpFeENtM3dhb0Jvakg1cTZ3OXFmN2MtbGtYRkRVWDdlOUNMekMzcl90Q2UtNjQ0Mm9zcDdpbHVtU0VJNWV0bFBtTTNUMXpuOXQteDVYd3E?oc=5": {
+      "title": "サツドラHD、MBOで上場廃止へ 三菱商事系と連携 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSTAySGVBZVRTZDZwMU5zSVloYk1rUnhEZkRjbzNzbDlxbkd0VFExUHd6RkVkbjFQczhWMWVENjhSMTl6WUttS2dhZW52YkJrd0k0aUEyaTNUbFRlLXk4czRnVHBrRmxsbzk2aA?oc=5": {
+      "title": "広島ガス[9535]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FeVFwbDdpUHBaWXFIOFY3a19UbEpZSkhxUDY5V04tcHZRck1GWDVIdkNzaGpMNVNiRXd1OHp1RXBtYU9SZXVaOENPUGFDLWJ1azRsMk51V05KWWMtRzBWVXpHTkZiWlUxT0xQYw?oc=5": {
+      "title": "広島ガス[9535]：有価証券報告書－第172期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54ZGhEWllqcEExSVczRGhCQXYza21RZ1ctNTF4MUNvYXZxY3E2MDhndXFDU01oT0lNZkhQajMwRHQtWk1LTGFFQ2VPZUdYSTdUZW92YWxVWWVTQmpSNkxCMlBxVnlOUmVvSXl3Yw?oc=5": {
+      "title": "企業の業績予想に難しさ フジクラの短期修正が波紋 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UaWFwMVFiRml5aDBUeko2Z05kbDdfeTRIVVFDNkwzYU82ZUVLSUdzVzN2eDVnQnNnRHlSekFYT3BNb3E1R0xLVndpcUQ5cEtxTGRYdWtmWkdNX3dZUjhqRlFleDEtQ3V3eXBiMg?oc=5": {
+      "title": "東芝、製造ラインの工程改善にAI活用 熟練者に依存せず判断可能に - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdl81TGMtY2NRSXo0ZnhDSHk3MHp5NkxYWmJuV0VndjRWeDFLdG5YcHRUdTJWSElRemF0cWdQQ2FHaDFtOHdwTmNfN19kUXdLeUpTVFBqUE1pQVI2cHh2RUlYUHZ0SnBpLVQ1QXhYTEJXekJTdUwtd25MS3BxNDIwcEJncXAtcEVSZ0gzSXBqU2Z1QnEwXzJzRUZQT01kR3Nsd3dCRklNQXlZaGhPNEhUaDh6aXVVSWtaTC1TRmZ1OWdPRWlkQ2I1dW5tSTk?oc=5": {
+      "title": "近鉄グループホールディングス[9041]：定款 2026/06/19 2026年6月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vU0syVlB4QmJYelVmU3RUbVVQRFJzOE9lTTVsb3FYUVNnU09SR3k4LVpWbzNBUW8yRGMtVDBPUE1ieU1ITWF3Q2VlSWhneDhrOEFMMVJRNDFhZVp3UzhSdUozckM2b0VPR0lJUg?oc=5": {
+      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も議論 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXRxMTI4WFR3bnpCU2F2VFdlZjNSYkVFQ0dKeDRtXzBsa1JFaGprN0ZSVjZrTzBuSUF4MTJ0N3dZUHRCMnZBcURSODM1azZtY0dmdi1TZDB5YUJqeDM4NldTRG96SVQ2bk1mUkNyT1V1QzFwOXhLSEZZZHlOcjlEWlZoVzhHWk5DN3hmUF9kZDNYb3dXNWlfaG1FMXQxYXdERUNYTFNJUkw?oc=5": {
+      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も交渉 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFlmY1R2MFhOU0lfbWwtc01IaDV4N3J3Y3lpaVpTWktUWWpWSDlsMFNIa0Z2N0lUQXRtQWkzWDFacDdvRkR5R2JVM0JEVXpGVzMtMjhTV0trN3JfMnNNTDNNT3B3bW1oWlpLTm9RZng3TWxldmRncmZtR0dwMVhrLWdfbWRaRHpoM0M4NmtyNEdaOWs4VEFfTFZ0Sk5ZUVRYYUJMMmNWdWw?oc=5": {
+      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も交渉 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNFMWpuTHI5QWZSRWZVbzhyQlctOWJzWXBlcmFtMFZkbjhZRHlhNGk2OW1kTXU1ZVlqVlZGdjYteFNGby1sLTBTb2hXREVHN2xRT2NLSkZVWUNOb1JSOVFrd2Y4Z0IxYWZjcElYaENGOFlHZjZwZHF5ZlpaRjloMW8zaUxRUGdoNnhEdndTVVJqdDZaRTVzaVZGdG9Yb1JDVjhFOW9MNk0?oc=5": {
+      "title": "水素製造コスト抑制へ協定 ヤマハ発動機と中部電力系 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RG43N2lveXFMOFFjdG5GaFNDaVN3TWh5amY0WFpBWjZLUjF1NWRsM0tDdHBiQWt6MnpmUUFfbzJreWdnUEY0UWFvQ0VhNGhvQ1IxSWpqbVkxUnRQaDZKVXEyNTZnX2d4UjZ2bQ?oc=5": {
+      "title": "愛媛銀行[8541]：内部統制報告書－第122期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSF9aMmN3VkNaRGtpVVNRVTFIbUNfZU9uUmJOZTU1bjczdmhULWphb3d3cndSNHJuUGJ3ckU4eDRlWV96S3hmWlZHR3NSOFRBekpTOVJpeGVyYW5Jd3NQUFdaT1EwWkVhX2hGb0tjMUlXMEhnQ2FsT3htNXd2enpkdHF4b0xUb0Y0LXFneEJiNG5zQmI5TE1NT3JmUUlWTUpEbWRrdnZoeDJpaDhjMTY4dmxFSXIyZUxWYjJJNGdJQ0N3TUd6ODU4WmJPR2o?oc=5": {
+      "title": "大和証券グループ本社[8601]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年6月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UC05N21nNG91bFJaVURiazN5dFQxQVRkVGZoTlZyMGh2S1M0TEpqWU5ZNjhFNUs1VnhDUmRLOEZUTlZiU3E0NjFwZjFub0hWMm9yWGJsOU5ld1EzNjI4aEV6c21lU2ZTNk83MQ?oc=5": {
+      "title": "東映アニメーション[4816]：有価証券報告書－第88期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-19T15:11:36.419752+00:00"
     }
   },
-  "last_updated": "2026-06-19T10:25:37.444864+00:00"
+  "last_updated": "2026-06-19T15:11:36.420315+00:00"
 }

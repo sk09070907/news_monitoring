@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eEJkTHMwRFZmVEEyRzA1bDhTcURfeVhqQ3JGZzA2T0hDYzZiNmZqT2xNTFhHR3lUVUNOWVJGczlGc0I3VVl6VExLM1FKRnFheW54LWItZ2ZibGhmV015WjJIWWFhT09CNnBNZA?oc=5": {
-      "title": "生成AIサービス拡充 NTTデータ、データ分析支援で - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-13T08:56:05.695477+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1Fqd1pxV0k3SUtaanFBQjI2aFZKVmRhX3Bhb0M2TzdyY0tIWmFpN0RRMzkzaG9MRmxHX0dVU3JxMXdaLXROVjczeXNxRDBqZ3RWUWhyNjR3UWVrOUhFVzBqZ3RlYUN4UDhMa1lSdTdLaENzS2Vyd21EaktMelEzazVaQUZoeXhTdjNZQnFEOVJkTXE1SElFSk83ZzdtdjJvaThLdUFiN1o?oc=5": {
-      "title": "アイシン60年の歴史、わかりやすく 展示館を改装、開発裏話や映像説明充実 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-13T08:56:05.695477+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGQtcHRjTlBTNTlMV0pxYmk1aTVqcTJzQjRtR1FXdHZDMFpJcWt4VWlpTm5tZS0wY183d085aWpXcE9sa2VabmQ1SG03N2J5QkpnempENEZTTU1tT2lGQjNzYTB2R2NsYUoyYlBfNUE4SEtseGZwVmZtOHdCVUhrdkwxT2VPNnY1ZXY3OGRoMUxNR0VZeG54Nnc1dE9kcGY2Z3hVYURn?oc=5": {
       "title": "〈直言〉再エネ開発を止めるな 小林喜光氏 東電HD会長 - 日本経済新聞",
       "company": "東京電力ホールディングス",
@@ -2663,7 +2651,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-06-20T08:53:10.773968+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnNNZ1RraFAtdS1oVldNX3JaWWVtcW95WEhZU1ZQbjVHTEMxajJHMjJVLUd4eTNkX2NqeWFVa19RVUJMbGNyY0pEeUZIbzgwX2U4emVIRjlOMTIxX3FPUExqWjZXTjF4d2ZnZkx2VWRQWkR5Q0VrZXJVTGZoVFZFaGpHZ0FTQVpaRXJVVTZnMGdHR21Ed0dGV0lMcTdmaXlCVS1kcUxB?oc=5": {
+      "title": "NTTデータ、ファンドと組みデータセンター拡大 数千億円投資上積み - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-20T11:17:03.909933+00:00"
     }
   },
-  "last_updated": "2026-06-20T08:53:10.774418+00:00"
+  "last_updated": "2026-06-20T11:17:03.910138+00:00"
 }

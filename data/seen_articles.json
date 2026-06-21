@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2ZOMEJMZXVuQUQ3aEFvVWYzaFpGYnNmU2xYOVpmVGtMcGEwV180TXZWcmJwV0tKNU1DT3NuY1l3RXZNUlpqVEEwbVktcHpmMmRaUGlqN3ZNLWRWSkFyWm42bWRXLUI0YW5tbWY3RUVtSDBfYU52R3VteHlJa25QM3NJcUVBeGJ0NzRDem55UXUtaFpzcHpRNTh2SUllSW9JcmFKeC1n?oc=5": {
-      "title": "〈直言〉再エネ開発を止めるな 小林喜光氏 東電HD会長 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-14T03:53:11.635090+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNERMVEhRMl9rMU9KNGhkSlJkZVdUWnF6X2VHM0dPZTl0a2VCVTJET1JHMjB6RTc3eW5Ec0RBQVFnenpETi0xay0tMG8wMVlGVldjRmpLblJpSkdWY3Z6MUFwN0c5RjNZZGJTSg?oc=5": {
       "title": "レンジエクステンダーEV急浮上、欧州の新たな選択肢 トヨタはPHEVで対抗 - 日経クロステック",
       "company": "トヨタ自動車",
@@ -2675,7 +2669,19 @@
       "company": "三菱UFJフィナンシャル・グループ",
       "source": "日本経済新聞",
       "seen_at": "2026-06-20T22:03:01.999162+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJeXVLY3VKR0pLNGROVXIteThBZ3QwaDFfUFZLMUtwWnEycXRkRWJqLTJBdVk3OWZNck0tUzU4aXdwSU04blFLQXF4NVQ4alNRRF9uMUZ6RzhRaXVfRTg2c214TWNUWmR4UkIxbA?oc=5": {
+      "title": "NTTデータG、ファンドも活用 AI向けデータ拠点投資 5年で数千億円上積み - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-21T04:00:44.306870+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlY3BSdzNYNHRGR2VmdlJxRDRqRVJ3QkdTOFVsTTZrY1cwWnQ5NmwtS1lzaTFkNFJReFJXRGhJWTdYNHd0aWVfaFJROEY0bzJldW5DaG0wTHl1YmVkVVF2VUI2WVZYcF9LTTRn?oc=5": {
+      "title": "父と子が一緒にいられる時間は、わずか「3年4ヶ月」。父の日にトヨタが子どもと過ごすことの大切さを伝えるショート動画を公開 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-21T04:00:44.306870+00:00"
     }
   },
-  "last_updated": "2026-06-20T22:03:01.999710+00:00"
+  "last_updated": "2026-06-21T04:00:44.307122+00:00"
 }

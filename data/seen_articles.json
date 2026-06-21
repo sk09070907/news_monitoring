@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNERMVEhRMl9rMU9KNGhkSlJkZVdUWnF6X2VHM0dPZTl0a2VCVTJET1JHMjB6RTc3eW5Ec0RBQVFnenpETi0xay0tMG8wMVlGVldjRmpLblJpSkdWY3Z6MUFwN0c5RjNZZGJTSg?oc=5": {
-      "title": "レンジエクステンダーEV急浮上、欧州の新たな選択肢 トヨタはPHEVで対抗 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-14T22:05:32.040592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnRjbU0xV282dFJuRktUVXJSUFVocWp3d2JDRnE0RmsyYWVLaXdpSVhWVEdpbFFkQUF0MVp4TjBFbGJVNGVOdmEzTnd1MF9uZXl1UFlJeTVLTFkwTW9rQW9ZOHRkT2MzYnlWLV93ZHdFV2ZOZ1NLM2RmUlMtUy1pTXZLc3JlUG5hci1wbnlibEVIdmU0UDU2TjBhTUdsSmlpRDNteHF6NG8?oc=5": {
-      "title": "トヨタの平均年収、初の1000万円超え 国内生産維持へ人材を確保 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-14T22:05:32.040592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc2w4TU5VSURLYWhkVDJuRnNCbVhNOVN5SW04dEx1VW1HdmpkYmdyM0dud1JiMjl0UFpHQzVBdWlLYlBjQnBmWVI3Vk1LOGUyb1NYRGZ4WF83MFJGNHZzS192eHMwSjdpbUZFUg?oc=5": {
-      "title": "トヨタ、液体水素で超電導モーター冷却「効率99％」 レース車2200km走破 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-14T22:05:32.040592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ1J6RmRhX1ROUTFtMDRBRTdiRmxWQ3FfNVRMdUt3LU9NM0s2YWJ4YnNNTVNCZXRtV3RhSVFIVS1QQ2dWTTBlMzNxVjJPRlZtT09SQm8yM1YwRkU2VlFTdmxzQks4ci1pd0QwZnRyTzNEQmFzR0IxMFlaR2RwMS1aTEdvWEVSbWxUQ1Z2YXM0VHozbUZHOFhVd3p5cmJ2d2RnWU56X2t5Mno?oc=5": {
-      "title": "トヨタの平均年収、初の1000万円超え 国内生産維持へ人材を確保 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-14T22:05:32.040592+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SSXhkdVV1ZUcxa1hpXzcxSGNramVhankzR0NHNTZLUUtRTTU4UVllLThLeC1rRXJtOUdRU1pGWVBJYWs2MjQ4dG8yZmFyM1Q0UndjUVBRZF9aZEI5eVZCNEJoQTJFYXBkdzYw?oc=5": {
       "title": "三井物産都市開発株式会社が手掛ける「(仮称)杉並区高円寺南3丁目賃貸レジデンス」新築工事に着手、竣工は2027年2月予定 - 時事ドットコム",
       "company": "三井物産",
@@ -2687,7 +2663,31 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-06-21T09:46:52.212833+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcjIwU3BjSURGTjZSSjcwblh2R1Z6Z2Jfd085Y1JGdHg0ZWNzdWdqWEFIcWVLS1M3R05ZSmQ2cXRVWFJpR1F6X0J0b3k0WHNGNVl3ak9jdmRScEl3ZGVQTW9SMzRRVGM?oc=5": {
+      "title": "NTTがIOWN AI Fundで異なる技術トレンド模索、世界でエコシステム構築へ - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-21T22:09:49.319262+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpeTFMV1A0MmtsVUh4R0NYQ0cwbTF0aWoycnlqeWV4eGJhUUt4WlJIT0tzQ29fVGV3OHk5MnF6UkJfcFhlRi1aV3gzQ21IQXpNYmVDOUIyc0JGV21yd1QxVWR0OE1ONkRvanF3VHluOXlSWWtXZW96bGtzVDN5QQ?oc=5": {
+      "title": "三井化学株が回復途上 米歯科材買収、相乗効果待ち - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-21T22:09:49.319262+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNW1hTWd6dEd3M3JlVW5FYzJ2c0FveVJxU09mOW1aSmhZVVE0eWlFWFFXamRHdU9kOXpvbWJUQ0hza25iS1VZbHhWN2tBRldmNmVvd0prTDl0Ml9kZFl3R2s0M0JFV3pIX2hSQlJpS0padHlWY2tNMmE2UElnUEQ2WEFiaXpZUjlPRGdaZjZ5dVZBOEZncFpDY2RMbFF5eXpmOXZyaw?oc=5": {
+      "title": "スバルが混流生産 トヨタEV･フォレスター､群馬の工場で - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-21T22:09:49.319262+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEFzZjliTEd3Z09FdzVlQ1pjTDRERzlMcURjNDRjeTZhckFCSS0xNkVLTU9xV2J3dVVqSmVlOXRfRkNVbUhOd3JrY2REX0hzamU2VUtJVm9GdXMzLVM1MVpxX3V3dWV6WlRuM09oMGM5LVotbG1Uemt3NEZqQTJHU1VyQmxiUHJBcDNXTnZFU2xTNnBOZkdrTw?oc=5": {
+      "title": "イオン「小売り再生」に垂直M&A5000億円 - NIKKEI Financial",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-21T22:09:49.319262+00:00"
     }
   },
-  "last_updated": "2026-06-21T14:06:29.982032+00:00"
+  "last_updated": "2026-06-21T22:09:49.319786+00:00"
 }

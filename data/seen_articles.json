@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVE0OEZVZjhVUmJxU1B3MW5GS3hLQ2U1MjNtaUxCVEMyLTFUa1JicFVZN2diUWVOc2lKNUtwUjQwZFd6M0Yyelp4MkdwWHd1UDdJM282c3R6RndXdGIyZ01PUlpmWE1nVkZnYXN3YnBQOUdYTDdBQ1RjVmZ3b0FMZWcxTUxqNkZGWHZqelR4eUpkV0dLMnRaMFlBOW5oTnc0cUE?oc=5": {
-      "title": "サッポロ、10月に「GOLD STAR」をビールに 価格は「第三」並みに - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-17T15:23:21.638682+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NzdxRml1OENaTjE0MWdVV2NMVHZYRUhMTmdHMko3RnNKVWpESTRSLW0wQTIyRWl1TVNfVzhpZU8zYnhvVlRPVFIxYWJTUmk0Z0pPR0c2OFE0RFNHM0FWVzExNXhzLTVKUFFHdg?oc=5": {
-      "title": "三井化学[4183]：臨時報告書 重要事項 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-17T15:23:21.638682+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVkdBbEYyYXFoeks2MUNuY2FlSnVUdHdHbGhJa2FOMjN2V3I1NjJFMTVrVEdsZHZJcUY3cXhWd0VHSk1yREhqLW1KU2szeld0SF9RZ2tHR0xDcjRKVHlvZnUwdmk?oc=5": {
-      "title": "画像・写真：トヨタ株主総会、近社長ら選任：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-17T15:23:21.638682+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tUjdGeUF4eGhaUW9DOU5pUS1JSUk1TDNjUTJmbnl4Ty1ucXBUTzAxY2JhbHpjeFNSLUlfam9kV3U3NElpZ0VIaDZpdGxFRnFsa05PQQ?oc=5": {
-      "title": "◎トヨタ株主総会、近社長ら選任＝成長投資に意欲、経営継承も強調 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-17T15:23:21.638682+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQ212bDJySXBPUW52b0hBa0IzY2NCang2aGRka2JBY1RpR2tzeEpHZzhJckZnbllJa0Vla0pVQ3FTbTJFbEE4Y1dPV09uM1dGUHJlMQ?oc=5": {
-      "title": "◎トヨタ株主総会、近社長ら選任 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-17T15:23:21.638682+00:00"
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tTkY0RzMtLVJkeHlHRGdndUR2d0JWdVl3STFZN3dyazVCY3M2Y0g0MFVnNTl4ZjFsQWZFVXVRcmtkQ1ozcUU1UkRCaHBBaWhzblI5dGtySkluRXVUSFBzLVNqMUVuLXd3OXJKYXBHRU1VWi1RS2pzMVQydVFaNkk?oc=5": {
       "title": "三菱自、三菱商事と薄れる関係 幹部や現場リーダー育つ - 日本経済新聞",
       "company": "三菱商事",
@@ -2837,7 +2807,103 @@
       "company": "野村不動産ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-06-24T09:27:34.183587+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ndGozSkJzWmRrWUtTM0xYalNUN2d1VndsbElzWm9jYnEtcjRfMS1wYzdTZmcwaFdoVzhOWlRtaUMtdXNhcWYzOVNraHJURGU4cm9POURVOGhpMmVVaDJNZ0l6c2xTb2VWTjBldg?oc=5": {
+      "title": "三菱商事、負債を積極活用 最大の1.3兆円調達で攻め - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWNCdWhzTUdnejlJRnp0aS1XOVR5M0Y2dlF2aElwMFVMcjhfUzhzUjBfYll3R1NFUTBtQjBOaGd1WHhzdVRPV2V1SXh3cVlJaTI1RnBOZDlUSW9jNWZwLVRveHVQRFQ2ZnVIeTFQdko4Q0pUYmRXVlIyUkpSZksyY3J6RUFmMHc3aEV0dkM4R2x6LVhoXzM3UEdkc2Nlb2JmRE1URDQ2ZGhvdw?oc=5": {
+      "title": "三菱商事など、CO2除去提言へ新団体 数兆円市場創出へ - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHZBOGFRNmJwMTF2VG10c3dlWk9IZGQ2M1NHWllQZlh3UXV0SzFmRXFaOFo0OXYtZE1ac3NuQnU3OW5BbFRqRTBIb2NHWndzX2EzY1RJV2tDd2tyaEYtUlUtVzRYNUpiUU9uSmlFMVNUTUVqQzFwXzBua21PUjNXMjlJTjVudklFQjU1NlNCYlJZVm81Tml4MXNZUzNEWVZQWUQ1c2RB?oc=5": {
+      "title": "三菱商事など、CO2除去提言へ新団体 数兆円市場創出へ - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kaGh0TzRIc1BpZ1dxeV9oTll6NUNrdDRsT0xrZFRFMlJNWHVJVnBmYjMxVDNqOFNmY0xiMnUwTU5ldVp1MEFod1JfNWt2TE8tRjRhNkpMc1dsNWZ4ZkE3MzJ2NmF5MWRiNW4xbA?oc=5": {
+      "title": "NTT、1.6兆円規模の外債発行へ 国内企業で26年最大規模 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDY4OXpEN3NjbVA1MWd3ZENBc0cyUmcza1ctSWRvaDFjVl9rOWdnU0Q4QVBkZ0VESUlid0w0bURXYkJvVUU5ajdEQVZZZUJPMHVSWkxDSElFMzhsbnE1VHdPRlpsdVZ4Y21GbFhncU95YnhXWS1jbWRzVV9CUm80b180TGJBVlM3a3NkWklsaHdjYTRxQmlHdjVYbXJyelVRS1E?oc=5": {
+      "title": "NTT、1.6兆円外債発行 今年、国内で最大規模 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMF9BZVAzdlJrbkxCNGFkc0tmd3NrWkczTEFISmJTNDl4eG1ZOG1VbzBTdm9fdjRSaVFuT1N1OXVyOUVHMkVhOUt4VXFwdmwwT21yS21HdE1jTklWODhfVjFnRjktMzFBZ3VmRnFEdzIweEF4YUJzeS1BbTJXTEdNa0laaEZkLTFHYWRGdUVueW5UVzRXWWtJNTF5UGNyZi1CY3o5RzNn?oc=5": {
+      "title": "NTT、1.6兆円規模の外債発行へ 国内企業で26年最大規模 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjU1dkF1OXdIMEU3eWJLakNLZkZfbi1teFpLcjZ1ZEk2Mk9oVUJ5cUJCeUZNRHoxaU5SM0d5bmFPb182M3R6cm9raGZ3ZXlhUXppTGNKRkx0eUEzOWdXcnhwYnpiSUhQUFJaOUR6X214X050bHFYN3FiblB1b1ZrU1FJYWRYd19lOFhfM0xlQkRMMml1SEJCUXU0MUZUejJTVU54em9R?oc=5": {
+      "title": "不動産売却、酒類に集中 サッポロHD副社長 松出義忠氏 M&Aの知見高める - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtTHRhZ3B4REpFMU1RSzl2S0k3WXlXcDN0RjRQWHJxa2x6VUVVRUdVRmlER0syY0E3VzRqQ1Z2MV81d21FVDBHTkV1dWhlcDVlY09lR256X0lYNkhyaTJLTm56NG1IdUJCekdwSA?oc=5": {
+      "title": "広島ガス[9535]：臨時報告書 決議結果報告 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXUyR3NuSVpXdXJUamhrX25zNnl5OVZqZjVVZHNlZkItSFl3U18tVFVaSDRwdUFHUXpWV0s3Si1hRG1ueThlSmt3X0lPVVBlNER3NElKNXNTU2l6YXlnTGd1Q0plMXFXQzNlR1JwRC1CMW1pRkQtUGpDRU5oRjAxR3VFWnZ1ZC1YRnI4TGhsLWZWSkVSaW9Xb1V2eDJCWVdaUHNqak5xMF8?oc=5": {
+      "title": "JFEHD田中CFO「米国で合弁会社検討」 高級鋼分野で成長狙う - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRW8tRmlqY3h5LVNBUTJadU0wN2Z5MERUSDVjOTBmN2RUZmEyY0RRSDdsZExRRENWNFM2VWhIc21uMEV5bTlxTVhZVnQ2SUxVTkJmb1huUUw2WkxjbG9fSF8xaUhlaEozcnNSeVpVM1VaSGVadURVeDlVd29IVE5kTDlXZUZodndOWXdqWmt6eEJPRWVPYkRZNTBnSHhCaHpFRXlwWnNYaHU?oc=5": {
+      "title": "トヨタも使うヒト型ロボの米新興、「空箱」上場へ 1000億円調達狙う - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzR3NEx3RFpuckhYZUQ1ZGt6SWNERFB2RzlwVVRnU2VNdTVzRFBTQS1Yd3ZYRmc4TnZOY04yQUJObF92VVozNFB1Q1Fxd0pJSVBjSFd5V0V3eENJdTlZMlJfR1Y0Q0ZZZVN5V2VPQ1Z1bGJJVUlVRW05TU92TXdxejdFNmFGQjRSckQ0UnA2dUJzYWt1SHJ4U3g0QXR4T1lrRUdOdFN3?oc=5": {
+      "title": "トヨタも使うヒト型ロボの米新興、「空箱」上場へ 1000億円調達狙う - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmdmWkdDQl9wNENKdmp0UHlWM0FWMlZoLXVBUm5mOGQzS0tpVVdLcXRYSExWVU9Bc3UzNWhUdGMwZnJYdVZZTXJubm9xb3JqYTdReGI1Q2JOcC1QMy1HOVBjMGtCUmJjMkpDWFlZS1BVa1c2eGNBUElrNzhkR2NSenhyVllzWjB4R1pSN2htN2VNQXVuNDJKTFFkaFhMOUVnNUdyTk1JZWc?oc=5": {
+      "title": "楽天も衛星通信可能に 総務省審議会答申 年内にも開始 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NksxT3BiZWZLMFR0Ym5ZdVN5UGNPMXJFNk1OVG9uSXlqeURCWldrVTRHWGhodkJnSWZZeC1BNk9NQkJZdEZlYjJpaTFVaFA5bjhlVERwS1FWQm96WE5uZjM5RzBsbmU0cTV0dQ?oc=5": {
+      "title": "四国電力[9507]：有価証券報告書－第102期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fQnNhT2JFZjJGTHRNNkhxR0kyY0NmdFZHOC1VYmlJNW1oX2p5djh6TkdYSDUzQ2tiVzNsZWQ3WFczTk9FbVQ3MmdyNm1Dam9Ka1RMSHB3ZVpTbmJqSnNkTjJWZ1NWRlhLVUtVXw?oc=5": {
+      "title": "九州電力、再エネや海外強化へ27年HD体制に 原発建て替えも焦点 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fVHFGNEZ4TFgzbjhIeFEycjNGX1hfZHAtcDYyc0dDbU1xWHJMdFI4WGo0ZnJZMzlTNTJXeXBVQnJCNm1xNnI5RlFsY3VkWlNDdlJKTDFQT3hoU1czYmZ2WmFEa04wT3ZEbFBDcg?oc=5": {
+      "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：有価証券報告書－第21期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlNWN0lqVjJ3Y0pyQ0FQSEJTdnpjQTVjRUhJWnlGXzhHVk1CWWl6YzUta1lrWXQwcnlLTUVFc2xLTF9tY2hwZTdBUUNuMnloVkVmMVJjQ3pqZGtOcDhUZnQwUXd0WUtDb3E4djFyWXpYVGM3NWhKZ0hzX2c0VHNEU29MMHg5TDY4bF9YazNUZlNDOGdROTA1bFVoOXVsYU13NlBrbHZvREc?oc=5": {
+      "title": "東和銀行の次の一手は 広域連携か、SBIと協業強化か - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-24T22:13:11.486293+00:00"
     }
   },
-  "last_updated": "2026-06-24T14:38:07.799854+00:00"
+  "last_updated": "2026-06-24T22:13:11.486876+00:00"
 }

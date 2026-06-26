@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVBjVHRHTThKY09JME1OVEpXaG5lUzJzV3QyaFM3c2JleVNlR3lYQTItYXNUUWtaT2t6akE1aVVUM2liQ3l3bHdhc3Y4QUVBY2xsS01hUmFMNWQ5NnlsN3N0b0tyZGtPcUpMbFEtOGZabTFJZDEtU2N5TFp0NjNKTHd4NzRPdFUyc0dSZUE2SGxhMHdLYmNDd3h3dlNwekdhMVB1NjZB?oc=5": {
-      "title": "首相、印アッサム州を来月訪問 スズキや伊藤忠が同行へ タタが半導体工場 日本企業に投資期待 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRGt3d19KQW9HekY3dlRXcFBrMlJGSHdGaWpuWHE2aWNQOFhXWUotdzd3S1ZNZmFQM1FPNWEzYnZKVjZwU1JwV1NqS1JpelBVWnRJRUFzRzZFeG90czhUUGlRWERybkl1d3g5VQ?oc=5": {
-      "title": "首相、印アッサム州を来月訪問 スズキや伊藤忠が同行へ タタが半導体工場 日本企業に投資期待 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80WUl0U0dfbzZaRVRLOEo1RjNnSzhtS1Y2TU1Wa0d5VjdIWUJZM0xWNVp6ZzFqcFdJY1NEZ1g3aGFzbXctMVU1ZkxpT21yZ3NhcHNxUEN3b2M4cmdWWHF4cEhpZ3BGbW9ieE5ZYg?oc=5": {
-      "title": "（短信）元住友商事社員に米軍基地侵入で有罪判決 地裁 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzhHT085Y1pWWkY1dHRHcFNVbGFZcEtDcFpMN2VTdmZhb1ZTbVJrSjZlM2hRS0ZpQUI0RjdzTkhCeWxuZHNFYlJFXzJ1QV9ZQldDOGdPbV9JWEtmTEpKSVBjQ3JZT3pVQ1hsZ1JQaFpWQ0VPMGY2OTRMdi0tWDcxamQyZVo2bThCMDA4LTBEQklYRFYzSjJ0d3hQai1UMHkwLUljQW5ZNW8?oc=5": {
-      "title": "アサヒ飲料、新社長の戦略「最も海外展開が期待できるのはカルピス」 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rU2xlRXg3LUY2NGJZZG10ZFlkNVA2algzVFdvUUFxYmotaVJOS011a2stTVp4WlpnSmN6LVZDY2pEeW1BMjFkTGZMYl9uSWtwaE94TWdHRk9ybThtM185Y3c3ZkJpaUVfX0VyTg?oc=5": {
-      "title": "フジクラ一転最高益 今期純利益46%増、AI投資で想定外受注 水素不足緩和も寄与 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tS3gtVFUxckI0U0kwcWlkY3pvcDlQUVpXV2lHdE9mMEtsQjlaNjNzTk5YZkxlNW5XT0tCWEtGYlVVWHd0R2NmdzJURTZZcm5mY2ZsTVFILVhkY05YUksxN0lZbTlIT2s?oc=5": {
-      "title": "ローム社長「想定より時間必要」、東芝・三菱電機とのパワー半導体統合交渉 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sckpIYU5JeDhkdHRYZlg5UFZNUEs4Q3FfTWx1UHF3SGs1TWpWb3JQa1VZLVl2aEdWbldwVWpZdmFMZnlQaWw3U05haXF6SVZwTUN1d1hORGhOeGRCNF9SaXpocUF2Vy1EdG5CVg?oc=5": {
-      "title": "IHI長谷川執行役員、原発需要急増で「部品工場を増やす必要がある」 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51alk5TXlSNEZrNWk1ek9qOHFETjloOUVyeUE3U0xRRzg2UW9meUFoYkYxR2F4dURUTGEwMnBYN3VQLTRKY2dDZHNlQ0Q5enVwMFVKMmRtN2RrZFByN1ljRm1tb2V4a296NzRjeQ?oc=5": {
-      "title": "スバル、EV戦略見直しで混流に転換 矢島工場「トヨタ方式に合わせる」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43bTB4dEdHVkJsY083dVBVY0djWWRGMGpMU29GZXBIYUlnWVQzX1JXRUNKNnNIY2Q0ZWF5T3VPWXF6SHZDOFNLTkROdWRXZTlhNGU0QzhnZHpqdzZQNnVCT01PMjV1MTQ?oc=5": {
-      "title": "EV向け全固体電池の「量産」続々、トヨタは優位を保てるか - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CTzJ6dDk5WV9JSVZUanc4bjREUm5taDlJNF9mV3JNOFRUTXBBRHJ0ZTBuYmJDTGZMTUV5c2ZiQkVsSTJ0eTZ4dldEN2l1WVBaRXhlbjV6LTlCZ19ZZHNQUy1KZw?oc=5": {
-      "title": "トヨタ、シエンタ１６万台リコール シートベルト不具合―国交省 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOTk4dHkzRnFJdUpoa2JoT2ZSV2ROd2xydFNSbVpYRUZjN1ZWZ0FXQ3NJVHBudVJ2MEwtZmU4dTJySURMckhLV1N2M3pQOTFPbUlsa1pyLVNZZm1LSjQxNG5lWWNPa3FwTkg3LWFLbHlyQ3d2ODR2UzIzN2pGdThMaA?oc=5": {
-      "title": "トヨタ、シエンタ１６万台リコール シートベルト不具合―国交省 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iaGZ1R09UUkdlQXdUQjNkazJwT09zOXROdnhyUm5xVlpnRkUwdXhWbnlNQ25jVVQ1VGJuSXdmOElDclFGcG1pRkVZVkFRVmlxVGtBWUtfcDdiWXlaWU9TN3MtcmJOdw?oc=5": {
-      "title": "1位は「楽天ショックで『広告内製化』一挙加速 代理店の役割が大転換」【広告・宣伝】お薦め記事10選 - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWWhMcTZiQzd6X1hRNkhCS3FQLUttSWZfcjJxSGVsQmtMVnRUNGFpWEVsWFIzV1I1a1JzNjctSjZIM1FUd041YUNMRWxVSzViTkhCQXhVMW55YnRibUYyQlJPekdOR1cydkE?oc=5": {
-      "title": "MUFG、「量子も分かる」幹部候補100人育成の布石 - 日経クロステック",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pa0l1SEk1RldJZk9LY2dhMFRwZFFHdHFhSWZ3Sm1RTzFVTkhRT0otMHZjZy1UQVNxU2VXaG9iWUhVWG9CNVVPLTNvVlR0V2p0aVVUdzJGU1ZZTnkyWGxJY2dfSldHU3BLZmV3?oc=5": {
-      "title": "ポケットカード発行のZOZOCARDにJCBブランド限定ディズニー・デザインが登場！ - 時事ドットコム",
-      "company": "ジェーシービー",
-      "source": "時事通信",
-      "seen_at": "2026-06-18T22:55:12.404569+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ00yNEZpT2kyNnBmcGJBdDZkMU04MjYydngxSGtycDRZNkgzQTB0S2lJejVDazEwak80WWNWTktvWHM3WGhqM0h2dHlDN3J6c1NadWswMUNkQUpmV3BWU1pjVVdZd3FGZFQ2ekJ4bnUteGZxQVZtVER0N2tyS2VsQmluekZjVmNCOG11NC1SQjd1d3ZfdkhuajhObHF1TGZoLXc?oc=5": {
       "title": "家庭用蓄電池の制御、伊藤忠系も - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -3359,7 +3275,115 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-06-25T22:19:25.804539+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0NPRFFNWmFTSTRhN2xoZGNxcWFwRXRrMG1OY3h4LVZlaUp4VjkxZDlGSjFIZkQwUFVIaGVnMjZSMGs5c2tCQV8yeDRYbEhRV0tEVk42NDFVTUE5X0NJbHJZcjNUTV9BM3k2NDBWM0F6cWp1X05TWEdfVUVmTXBNbVVYVDRhVDFnS2xwbnhRQUpyYUxqa0hYQXQ5SlRhdEhQbnc?oc=5": {
+      "title": "J―クレジット長期調達 北ガス、三井物産と契約 道有林由来 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYUFtdXJCM2tRWWJ0a1JiQ2lBYnR2NHpoWE94THVHRGRsRTluZ2ZSM3UxQzNnel9wR2xpYjRBR3FyNXdqNER1U3lxSDJrZThwOHZEVm9uRU1FTmR1YWQ0bHBTZHdKbDNBTjF4VA?oc=5": {
+      "title": "トヨタ自動車株価が続伸 岡三証券が最上位判断、資本効率向上に期待 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5dlNCSjU5Q2t2ZjFUQkdGZ3BNVmpQTnJkU0w2VTNLXzJ5bm04b3I4U0d2Z0p2VkhMczdEUFR6UGR5M2t2cndwbnRnY0JFUm90OUtUWUtDX0pYS1BGS2w2aGdrQ0xmY1VTaVE?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yZURyQ1ZFVm1SdDRNRy13TXYyR2FvM2RUZVdLMWsyWEd4NW1jWnFEWlB5TGhuTGpnQ2x1cG84Q2R0T2VmY3FCZlNHMW03V3pGNVVqbXJzTTBYUUlQUGxoODhWRW1uY0F4RGx3?oc=5": {
+      "title": "【東京23区・猛暑7月】マンション共用部やオフィスに眠る膨張モバイルバッテリーを安全回収｜自治体で回収不可のリチウムイオン電池も出張5,500円で適正処分 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1U1aWtPcVVMTUZvTFZESkRmTWw4azJZb1VQOHg4Q1FxRGthdkMtSWNwU3RCWkk0cDdON1ktNVRETDNCMTFGMUtZdUpURXJiMXBIOW5pWk9yODBZcHpHVV9zVi1ZZWFMblN2MHR3bHVTSzNTYTlGYU5iZG9vRU54cXRlMU5PS0llejZuX2lwSHhFQ0djaURqbUQyNHdNM0FHRDQxSVBIUk1fUkNqd19jZ2lsaWxzdmFMeFVHZkhncGtCYVJuSHR3b2xrQWw?oc=5": {
+      "title": "商船三井[9104]：コーポレート・ガバナンスに関する報告書 2026/06/26 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTVFMnQ4b2ZjbElEQzVpR080MWRUcjd3ek10UGliQmZyTFBfUFR1SWNIT3dIMzRHSUFjX1ByUXoxcmhqank3Q1g4VzBrSTJlM2h3SXlLWld0RWp1M1c3dmpGckp1Q1NreVc0ZnN3aUFfUnJod0VuYVRNWkdRcUJib09jVnhLMVJfeVJESkhnU1FSZXhrMk9UVEw3bGZiUG4xMWdkd09FOGR1MTlraWhpV3pHOFlyMW1JSHg2N2RjMkcwRFZBSHQzelhlMFI?oc=5": {
+      "title": "北陸電力[9505]：コーポレート・ガバナンスに関する報告書 2026/06/26 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QnA4Y2Z5c280TmdBa0FtZ094NW1QVll0NEpPaHJpR1VPQUg3dE9yYlhhY21ZSXhEUG1mVWhvTHE4YlVBTHVOU0FMNEgwVkI5Q2lIa1lsNkFUOVFLcUZvMU4yekFRdWdlcHc?oc=5": {
+      "title": "ＳＢＩ新生銀行[8303]：株式会社島根銀行（証券コード：7150）株式の買集め行為に該当する株式取得についてのお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBI新生銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE90UG1zclhxem8xc0oxMW15RWZhVzJDS1VSamlBUmhRWENZYjVRWS1rX3plT05HQ3N1Uk1tdUIwZlg5UG56ZS1aOWV4NFRqMU9aNEl4cjBCTURnNWdsWWVNTE40bXM1Y0xZZmc?oc=5": {
+      "title": "ＳＢＩ新生銀行[8303]：株式会社福島銀行（証券コード：8562）株式の買集め行為に該当する株式取得についてのお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBI新生銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEelliQWpRQjRiMjNXQmNydmNkZ3phR3JpWGVtcWpvOVk5c25zMlZUcUtsak81M1JfSVVTUy03SmV0c1JyUEpRZWpxYmRfd3VqeTZDVUM3Rk9GdlJJTlFHV1BXMnJmRkxRRlE?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：SBI地銀ホールディングスが保有する福島銀行の株式のSBI新生銀行への譲渡に関するお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBI新生銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE82emI3c0RwRmpZNXN1SE9MWnFyMXgwaXNlYkUybFN6TnBhLU5qdFBYQ3RxSG9YZy1RZ2tFaUpza2RIUWhZRURWUi1XLV8tM1doRUgydU53cWM1eHJlekE0NGZ2MTRiQWZJNTdj?oc=5": {
+      "title": "山陰合同銀行、コンタクトセンターにモビルスの6つのソリューションを導入 オペレーション支援AI等で、有人チャット応答率99%、問題解決率約90%に - 時事ドットコム",
+      "company": "山陰合同銀行",
+      "source": "時事通信",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2w5dXUyenlicFFkYTJKZmQ1eDkyX0FuLUt6d3dGbVFwVE00Nm9mTmV5VWYxdzdpeHZXTlk1bGpWZU1fS3JtVjdmMDd2NGhTZWZsa0szdVA3LXdoZGpYdEFSNGhZbTg4Q0dfdXpQbjZsNUhVelJVTlNzdnhFUUVSVE1KRWV2bzlLdVFhOTNjNWZvWWwyaEhwWGRpeEM5WFZqZ21ndVdiZ0o?oc=5": {
+      "title": "日本株ADR25日、買い優勢 野村やホンダ上昇 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRFhZM1J5TXJhd1FWaEstRkVHc1dtdnZJcnI1NXN6UmExYWJWU191NmQzWklpYkxqMi1wT2JDcTA4LVNJM2tkR0hJY3VzbVZyLTRGSlJMdXVZbzVfT3VVa3VVcjlRM2lGdnc?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：SBIグループとフジ・メディア・ホールディングスによるメディア・コンテンツ領域における戦略的資本業務提携に向けた協議・検討開始のお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlNzdUdDcjFKUUFQSU0yTmF1a21Rc3FyUnpQZGg3SktPRV92WDBTRlNhbW5EWEtiaUNKbEpzOGdWSlNWMUgwTVRTbEk1VlM5QTRfcEFVNlpYNnE5cXdxV2lSalJqQWpCcXJSLWZVZzRsclRzSkhaR3BZbnJGNkFzalVVbnBNV3kteTBXMzhVeFNVMFlNYlJDbWhIRFU?oc=5": {
+      "title": "2026 年 6 月 26 日 各 位 SBI ホールディングス株式会社 SBI ネオメディアホールディングス株式会 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDRZYWJzdGZROXkwbU5mTlFOUU4zdXl3N2tnT1RaZE9mMThwVmEwY0ZXcEVWVU42SUgzUFVCcDNRc21OSE1EY3hKYm53LVRJbGlldHd2VkRmR1Rya1NwUFp0OWdvamx4V3dYeUpUamM3Z2poUTNWbnZOaFdOLXFjc1FZdFFTYTZ6eHFZODBOa20tTUN6OW9vdUl5azh5RFFlUXN0VFBsUVE?oc=5": {
+      "title": "SBI新生銀、島根銀・福島銀を持ち分法適用 グループ内で株移管 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGZJTEhycFRhYW1FVjlvVmQ0ZjRSc2kwS0MtOVA2UGV6eFdiZlR2SDZ0WWVxYkJ4SHYtS0VWQVRWVTF2dkV1X3lKaXBoTzR2bVdTNHc1aGQ3clpYSmswRlBGTDFGNjY2YmotUldKVTUxbFd1NUFlSUNib094Q2ZZNkJoSTUydDF3a1lXLXU4REN0ajN4elRaX2dHWEh2WHdjODFPei1zd0g?oc=5": {
+      "title": "フジHDとSBI、資本業務提携へ協議と発表 メディア領域で協業 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOal9wYzUwbDcwSkRBMnhwV04takN5N0h6dFc1RC1pOERzMnlEY3BDUE5LQVRfRE9OcXFnLWVuWXpDbzB1b01vSnh4QVZYUFVuVDZNSndRUDk1Q2ZQT2ZQdzNyZHZPTTZBWnowZERuVGNmYUZYVTB1ZDJRRGloQ2k5X2ZNaHkwbUtXMjdocXJpZl93V1FPT3RVX2lVTnRsM3BjVFA1bk5yZV8?oc=5": {
+      "title": "ビットバンクをSBIが買収 仮想通貨の交換業 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb09mWFBlS29oOXZZd2h3bTZ0Q0R0NGZZb0JTSDJXUF81R1NNVldzWUUyaUZ3NXNRbjQ1eEVfdkE1czBUTngtQ2VXMmF0QUNLdjVPVEdTSG45NXQ2YTh2cDJNLVFUQmp3YzNEaHl6Uzl4SnQ5dFg1NUgtR3VYdXpsTzBJdmxQMFFpX0ZLTWNGclRzaHgxbXpV?oc=5": {
+      "title": "フジHD、SBIとメディア事業提携 独立路線を転換、コンテンツを共同制作 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1pwN1VUZG1WckIxWjZyejlkWnhqUzN2OXZ0M21JUnhTLTZvS3hJZE85Vm9ZSl95V3ZxTXo5a21Gdl9IZkE3aVh4Vm5Od2dMUEE2emtGWmtBNWxuSHJGczRFbDctNW9DTDBrME9QMjJtcUloZWRYRkJUMm9QeDJHMEoxLVo2UFNsLTc5UmJtUFlxel9lMnZSWGRjTHQ0VXQwT3pLaWhzaUZqcnIwVHE4aUhDLV85b2FWeklfaFFvai1vUWlMMHpMTk13ZWw?oc=5": {
+      "title": "ジャックス[8584]：コーポレート・ガバナンスに関する報告書 2026/06/26 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T03:32:17.362066+00:00"
     }
   },
-  "last_updated": "2026-06-25T22:19:25.805106+00:00"
+  "last_updated": "2026-06-26T03:32:17.362667+00:00"
 }

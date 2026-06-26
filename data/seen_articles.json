@@ -1,173 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFNRa3R4WkthNDhKaEVtRmRXOXlUX1R0UjdhOWpEbU14YjdTUGFHM3lfMTVSOVlHSVQwMXhrdzZKbGdhWUdTbW5Ea21vcGljNkZZMDNiQ2ppUlpFeENtM3dhb0Jvakg1cTZ3OXFmN2MtbGtYRkRVWDdlOUNMekMzcl90Q2UtNjQ0Mm9zcDdpbHVtU0VJNWV0bFBtTTNUMXpuOXQteDVYd3E?oc=5": {
-      "title": "サツドラHD、MBOで上場廃止へ 三菱商事系と連携 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSTAySGVBZVRTZDZwMU5zSVloYk1rUnhEZkRjbzNzbDlxbkd0VFExUHd6RkVkbjFQczhWMWVENjhSMTl6WUttS2dhZW52YkJrd0k0aUEyaTNUbFRlLXk4czRnVHBrRmxsbzk2aA?oc=5": {
-      "title": "広島ガス[9535]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "広島ガス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FeVFwbDdpUHBaWXFIOFY3a19UbEpZSkhxUDY5V04tcHZRck1GWDVIdkNzaGpMNVNiRXd1OHp1RXBtYU9SZXVaOENPUGFDLWJ1azRsMk51V05KWWMtRzBWVXpHTkZiWlUxT0xQYw?oc=5": {
-      "title": "広島ガス[9535]：有価証券報告書－第172期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "広島ガス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54ZGhEWllqcEExSVczRGhCQXYza21RZ1ctNTF4MUNvYXZxY3E2MDhndXFDU01oT0lNZkhQajMwRHQtWk1LTGFFQ2VPZUdYSTdUZW92YWxVWWVTQmpSNkxCMlBxVnlOUmVvSXl3Yw?oc=5": {
-      "title": "企業の業績予想に難しさ フジクラの短期修正が波紋 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UaWFwMVFiRml5aDBUeko2Z05kbDdfeTRIVVFDNkwzYU82ZUVLSUdzVzN2eDVnQnNnRHlSekFYT3BNb3E1R0xLVndpcUQ5cEtxTGRYdWtmWkdNX3dZUjhqRlFleDEtQ3V3eXBiMg?oc=5": {
-      "title": "東芝、製造ラインの工程改善にAI活用 熟練者に依存せず判断可能に - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdl81TGMtY2NRSXo0ZnhDSHk3MHp5NkxYWmJuV0VndjRWeDFLdG5YcHRUdTJWSElRemF0cWdQQ2FHaDFtOHdwTmNfN19kUXdLeUpTVFBqUE1pQVI2cHh2RUlYUHZ0SnBpLVQ1QXhYTEJXekJTdUwtd25MS3BxNDIwcEJncXAtcEVSZ0gzSXBqU2Z1QnEwXzJzRUZQT01kR3Nsd3dCRklNQXlZaGhPNEhUaDh6aXVVSWtaTC1TRmZ1OWdPRWlkQ2I1dW5tSTk?oc=5": {
-      "title": "近鉄グループホールディングス[9041]：定款 2026/06/19 2026年6月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "近鉄グループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vU0syVlB4QmJYelVmU3RUbVVQRFJzOE9lTTVsb3FYUVNnU09SR3k4LVpWbzNBUW8yRGMtVDBPUE1ieU1ITWF3Q2VlSWhneDhrOEFMMVJRNDFhZVp3UzhSdUozckM2b0VPR0lJUg?oc=5": {
-      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も議論 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXRxMTI4WFR3bnpCU2F2VFdlZjNSYkVFQ0dKeDRtXzBsa1JFaGprN0ZSVjZrTzBuSUF4MTJ0N3dZUHRCMnZBcURSODM1azZtY0dmdi1TZDB5YUJqeDM4NldTRG96SVQ2bk1mUkNyT1V1QzFwOXhLSEZZZHlOcjlEWlZoVzhHWk5DN3hmUF9kZDNYb3dXNWlfaG1FMXQxYXdERUNYTFNJUkw?oc=5": {
-      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も交渉 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFlmY1R2MFhOU0lfbWwtc01IaDV4N3J3Y3lpaVpTWktUWWpWSDlsMFNIa0Z2N0lUQXRtQWkzWDFacDdvRkR5R2JVM0JEVXpGVzMtMjhTV0trN3JfMnNNTDNNT3B3bW1oWlpLTm9RZng3TWxldmRncmZtR0dwMVhrLWdfbWRaRHpoM0M4NmtyNEdaOWs4VEFfTFZ0Sk5ZUVRYYUJMMmNWdWw?oc=5": {
-      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も交渉 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNFMWpuTHI5QWZSRWZVbzhyQlctOWJzWXBlcmFtMFZkbjhZRHlhNGk2OW1kTXU1ZVlqVlZGdjYteFNGby1sLTBTb2hXREVHN2xRT2NLSkZVWUNOb1JSOVFrd2Y4Z0IxYWZjcElYaENGOFlHZjZwZHF5ZlpaRjloMW8zaUxRUGdoNnhEdndTVVJqdDZaRTVzaVZGdG9Yb1JDVjhFOW9MNk0?oc=5": {
-      "title": "水素製造コスト抑制へ協定 ヤマハ発動機と中部電力系 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RG43N2lveXFMOFFjdG5GaFNDaVN3TWh5amY0WFpBWjZLUjF1NWRsM0tDdHBiQWt6MnpmUUFfbzJreWdnUEY0UWFvQ0VhNGhvQ1IxSWpqbVkxUnRQaDZKVXEyNTZnX2d4UjZ2bQ?oc=5": {
-      "title": "愛媛銀行[8541]：内部統制報告書－第122期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSF9aMmN3VkNaRGtpVVNRVTFIbUNfZU9uUmJOZTU1bjczdmhULWphb3d3cndSNHJuUGJ3ckU4eDRlWV96S3hmWlZHR3NSOFRBekpTOVJpeGVyYW5Jd3NQUFdaT1EwWkVhX2hGb0tjMUlXMEhnQ2FsT3htNXd2enpkdHF4b0xUb0Y0LXFneEJiNG5zQmI5TE1NT3JmUUlWTUpEbWRrdnZoeDJpaDhjMTY4dmxFSXIyZUxWYjJJNGdJQ0N3TUd6ODU4WmJPR2o?oc=5": {
-      "title": "大和証券グループ本社[8601]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年6月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UC05N21nNG91bFJaVURiazN5dFQxQVRkVGZoTlZyMGh2S1M0TEpqWU5ZNjhFNUs1VnhDUmRLOEZUTlZiU3E0NjFwZjFub0hWMm9yWGJsOU5ld1EzNjI4aEV6c21lU2ZTNk83MQ?oc=5": {
-      "title": "東映アニメーション[4816]：有価証券報告書－第88期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T15:11:36.419752+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZExNT3pWTmNVNlduTWJTRzR2WGh0VU1GS3hSVnowRWNXQW9LSThiRm5lZlh2Qll4eXJFTk5FclN6bVFCbkJ6U1BwZ3JHQjJFSkh5VHlYYW9iUU5wTHFkS0wyMlhsY2QyVXFGVGxqck1iaWxtakRPbW9pZHlmUQ?oc=5": {
-      "title": "三菱商事とGMOペイメントゲートウェイ、投資妙味はどちらに - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWpaYXNDZnR1bTJ5UHdPWHdLanBSeVpzYW9qR24tZjBDaUR1OFVVUFN4ZDZBRnVxSnExTDNwcEVrMk5sVHVMZHBibXNNN1ctSTV5SW83WHV0alhGYlF3d1hQMGhBNGFUakJzZDB6RHVlMl9Qd20yRFdnYmV5elhDb3p5cTA0RFdBQXRPdTRfSzVTOFhqQ19yeFF3aTh0VVpyVkFnbFpB?oc=5": {
-      "title": "サツドラHDがMBO 上場廃止へ 三菱商事系と連携 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREFHS3ZpYXQ4eC0tUlh5Q3lKcU5ZLXA1VEljOWYxYVhhZmtoaW4wLXVKTjg2cjBzU203aVJFSG9YZTF3eWRnckxMbmNGdy11WXY0UWJPVll2MmdhaWp4NkNzdGlwQnJPMVprN3d2LWFBNzRnU1d2YWt1YklUYzFhaVNvSzRzWFJZMXktTE9ISUU2eWxlT0JGMmlNd2Z0Wm05UnhiMlB3?oc=5": {
-      "title": "伊藤忠会長「株価で巻き返す」 大手総合商社が株主総会 三菱商事社長、中東の間接リスク懸念 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnV0NLSDRHNE9HY1ktQVJLMjBSalc3ZGU2VG1vRjhrSWNmR3IxUG9SWnd2QWt3bHBmU0haLWMyRU5pdmtfb2NZQlVtVjJHbUhXU1hWR0VBREhMRUdoSm1UOWZrLU10YUVTbnoyNQ?oc=5": {
-      "title": "伊藤忠会長「株価で巻き返す」 大手総合商社が株主総会 三菱商事社長、中東の間接リスク懸念 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2JVVjVEa2RlVkxRZm1nSWVUam54YjVjWU1oaVhfcDhlcENQZHpuVUhNM3k3OGJDejltUXNfZzNtWk9oVEdiYVdaU1NmSXR4cExQb1dhVEFWV1d4c05BX0VuVGFRR2dUMG1BSEpGMVh3WlYwMDdrZXRsZ3ZVMG1TUHZzRDNMVFdEM2lXRTNaN2MwY1JzUG5vS0VuM1JvNXRxeUs5OXN3cHM?oc=5": {
-      "title": "伊藤忠会長「株価で巻き返す」 大手総合商社が株主総会 三菱商事社長、中東の間接リスク懸念 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmVQYVBsZ3labDRqeVYtVE0xQ1ZrRzJxY01GNnNFOXFwZkp5emhaSUVQZ1lEWWpTS1hlZF9jYjcyQVJjQklKUHlfNUFJbW45Um1JbHhnUlVhOURqa2ZPMDEwM09QMXRqb1V2VTV1TG4xTWxzWldQT29SVUF6TEZtUnZsamgyQjJfbzRCVUtHN25aS3pMamlNbEJmMzJCYTQ2Y1pvX2dB?oc=5": {
-      "title": "日経の法人向け生成AI、NTTデータと協業 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUHIwRDJueGUzMjZhcGtIci1MOGFxdGZhZ3NDM0lvWEtGZXQ2bXl2b2p3RlFpVm9iOG9xVU80NFJjODk2dEM3WHgwTjZhNC0zVVpna1pyM2ZtT3lqYVYzeV9qeTlJV1RWbXpzcA?oc=5": {
-      "title": "サッポロHD、AIで飲食店メニュー 店舗運営も提案 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTkwyN2FGdmV4YjlmT0Q2aXM5NXlxRFdkZWJnUlUxMFdHUHhlTUtmRHR2VHpHNHN5VVhMWGRBeDNTQkFybEt0dDRja2g4bWU2MlpUX1pMMnc4WXJ0dVVOR1JyeTNQV2I0NkxlSg?oc=5": {
-      "title": "離島が脱炭素実験場に 再エネ・クレジット創出など 北海道奥尻町・ENEOS ブルーカーボンで連携 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pa2tmaVQxMmNMbV93TnZwTzZfZjFmWkhteU9SeHQySnpjLUdTcmRxd0k0RGVLeGpYU1d0UnRST0JJckhMQmxNSnMwelpkcVVvUDdEZkxiM3FLbGRiYWZtaGo0V1hmRTJ3REtpYQ?oc=5": {
-      "title": "日本製鋼所[5631]：内部統制報告書－第100期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWdYZFN2bmM4Y1dKRE53UzJLZEtIQUE1MGtCS2ttMzh0ZDl2aUV1VzVncEVyU0JoeGNtdkVZSnEtVGFFZkVnb2I0Z3NwU0c4d0s1bHZxUEFPa0k5T1dySXQtVS1Ec2RlVnhSdUdNNm5vVDUtUExaUW1GMEJZNVh0ZWYydTNXejI4Q2Fmb1ZidUg2NnRkbTA1LTM5ZFdaUzd4emc?oc=5": {
-      "title": "トヨタの大転換 近社長、今こそ｢アクセル｣投資4兆円 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWZISjNZVGx0ZkRxNnBEc2w1MldWV09iNVRDYlZMd2FvNkV1VXByYU9XY0JDMVJtZ1dqcnRhT25saTN5cjZCeGx2ZEFXR2haT18zUmxkUjNSc0RDWjJPb1ctbjZMSmhOR2FHTEtPbFQzMVpVejlzTUVQWUpjcW1mWnkxY041Q3hSNXlwazNBMmQzWlNDY1N2QW1ZNFk?oc=5": {
-      "title": "東日本旅客鉄道株式会社 - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTh4TXFuTkRTYkpRNDNmeXl6VS1GSFdTbXZHNkZra2R0c2hiVTZLN2N1MEhYOHFZdjB1dHZfZWpVY0RCcjR1X3FYekVMN05oUEdld1R5Q3A3bFo1VkswYmFKa1h3cDcyVG1TOTZvZTk3cTNNX2dYLUN5NS1XZDlSbXNPNS0tZnVjWlpWOVg5Y3FxaW0zd0x4UlhQTUpWdXNLTVVKeFV3?oc=5": {
-      "title": "東電の資本提携、ソフトバンクやファンドの5陣営軸 株式非公開も議論 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeC1YbjBUREdEUWtPTkloWlNXRU55U1JOZ0FaNnljUkxsd0pGbDJnXzhsZXNLTkpLamRYcG5EUEtla19pMXpPWGhvdHU0X2lrN0Z6Z3AwVVRvREtBbG02WmRPMFE3NF9ham1RRkQ3RTQ3eGpVb0d1al90dk1jY04tWkVuWnpxVFBKZXRRSU03WXEtWl9DVlV4ZDN3a0xoX285T2ZfbjZR?oc=5": {
-      "title": "東電資本提携、5陣営が軸 ソフトバンクや外資系 非公開化・1兆円出資も - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESnEyQWRVWHlnUGJNb010eE0tQThPZUhrTVpRdWtQRm5PbUhiek13WWFzMmhOTWUwWU02OU5jNDB1M0NmNTh1c19LOVprYWVSNGt5NzIwQVNiNlUzSHdjeDY3eENVcWt0YTlvYw?oc=5": {
-      "title": "東電資本提携、5陣営が軸 ソフトバンクや外資系 非公開化・1兆円出資も - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTVhMMHlsTmpYS2VzS0xVMUc5VkdTV0RGVU9qMENkcHAxZzJ3cjNRQjIxTTRhTVE3SUFpRjN1cDdCY3hoYUtGdzNLZzNfZmNLLWpHcWMzakU0VVdLbEpyTFlUbkF2ejhKMUc1bQ?oc=5": {
-      "title": "三井住友フィナンシャルグループ[8316]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友フィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-19T22:01:45.097217+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWHZ1MG5JNDBaWElwWXlWTXI2RENOMDJtYUtEQl83V0czbnpyYkVUVUx1RldDdlpwVUU4SGp1RHRwcmNZdXFQd3k4RThuYUZ5c0xTU051NW1GMEYzbDV2c1RtT05zZDBKNWlELQ?oc=5": {
       "title": "ＪＦＥホールディングス[5411]：内部統制報告書－第24期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "JFEホールディングス",
@@ -3365,7 +3197,97 @@
       "company": "三井不動産アコモデーションファンド",
       "source": "日本経済新聞",
       "seen_at": "2026-06-26T14:21:41.859819+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWp3Q2tMRUp6dll0NWhOb2xwR3pWLW9HeHg2dzBmMGFNeWVuQUhNNzBhRGVBUlVFd1FNRk5hNlNMSzZCWXV3dndsZHFadHBqMTZyWWQ1eUJnSDg4aVV2YXNHQmVpYjZjbmt2UGNZVTFMRHBOZFZQSTM4SkdGYlpRaWNiMUxnTjJpTk1IYjVhTWpJM3ZpVFNDdFhPZVozc0JRc3NodnoxRXI?oc=5": {
+      "title": "関経連、日航・住商と協定 空飛ぶクルマ商用化へ連携 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb1JsTERENmg5WWVuUmk0aFI4MFZtZWlvQ2tzVVBPUE9reVlYTmN1TlRmQjllQTVabGNzQVhSdWwzUVp1RU9tdDBXSFg0VzZGay11UndGaUFweFZIWmNUdmpKVm5ZLTU2UWQ3SQ?oc=5": {
+      "title": "不動産売却、酒類に集中 サッポロHD副社長 松出義忠氏 M&Aの知見高める - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdThpMHlVZVJPaWtuTU9JWkdpQi1paHM5a2pOZkM5VE01ZkdQdHJiaTRRbUpUYlY2aDhucGFQZWhwR2cxWmI3S1N2NTVJM1JHeVY5TGlLZG1wWllHYnlpM21sb0ZSRkF6LTRScUstOXJBbDNja3dqcGYwTnVVLTlZbE56WmRNWFg3Q3NQTENHSHlWNzY1eUJpalFrZS0?oc=5": {
+      "title": "王子ホールディングス株式会社 - 日本経済新聞",
+      "company": "王子ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VaHp1UHhlZGlrNFphaUJBZjdpNmNBWGVVRjBkcS1DMWstMkdTUHlPVjI2ekdoNWJRNGhkZ2tHMWItV2tfM2cwMUJrbVdEUzVTR1BWTVFPWUJYX1pUWkxqRjE3Mkw3bWNITFJnNQ?oc=5": {
+      "title": "三井化学株が回復途上 米歯科材買収、相乗効果待ち - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUVwRm1vRjRfMVRTT3ZtazhabnF5T0E5ZVYwcFBjRVl3OUdybGxEQzlsbzlMS1o5cUVWaTZ4b1BhNm1BalgxODBrb0VyM05BRDRrdjRXR2tMMnUtTU96NU1JYWkyOTFpNmQwYTk4X01saHlYWkFvbkF2V3BWbFlKYjdjMWh6M3dWdzlIQURaYV8yV0pTTUlFd01pQXUyS0dqcEhJSWNpVlE?oc=5": {
+      "title": "取締役選任、相次ぐ反対票 業績・統治力に株主「ノー」 リコー社長・三井化学の社外取、信任6割 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxON09yTWRXRko0cEJ2VWtpdVY2ampINFpqeFZZb3ZmMzA2S1drdmhpUXAtdTlrSU1PUUpfQjZwY2dydnIxQ2lNb1ZoSGNJUkU5dGt0TlcxR1JfLW1fd3ZoTjc4dXUtbnJCRjVFRjRQQWNrSTNKTnAzSHpFaGxSUEQxUkxQTmQyNHBvaXpnWjJLa0pBVjRJZUFEcVlsblRzNllld2RUVGFn?oc=5": {
+      "title": "取締役選任、相次ぐ反対票 業績・統治力に株主「ノー」 リコー社長・三井化学の社外取、信任6割 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjZiaWtJWnI0QmxTTWZvOTJYRUpBUy1kVWtpOV96SzdKa2ZJR3lXYjVrUjEzSmNYQ1d4NmdERjgxaGl1ekhyTElQaFd6MnlZbUJndWlSU09LVnFLdm1uNmJ2QlE1d3ZJUEdSaVlVb25hUkZ2NHFVWGJsSjRRaHdWT3VaV3hST081QnZoNDZvMGZrT25GMjItT0kzb3VXb1VBQVVJMzFR?oc=5": {
+      "title": "東芝、手放した「50兆円」原石 キオクシア保有16%に低下 原発も復権、経営危機10年後の悲運 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUFTaTZnV0F2eWZVUUNsbGVOMjZRbXBpSFZLQi1lVnptNDh4UzRUNVdiMWNaYkpvNlNvcWRPRUZ0UGxVWWo5cjZpbkZtR0Jpa0lpU2UybE9BYnZmTS1MUUtoa0twSGRxNTltUThnN3RLYXJ4WTF1eENERXhtWm42SUx1b0ZJSFpReVoxaDNaUzJIZEY5dzdIODlaUXk?oc=5": {
+      "title": "株式会社東光高岳 - 日本経済新聞",
+      "company": "東光高岳",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXNtVFNJUEZSY216REVHQjhTeWhqdjVMLTZtT1NkNFdEcDg4bE5nZF85cmZyd19fV2s5RnNsRjNyV3RMaDNXMDFXby1LR2I2bUlmM1dIdVUwUk11VDRQYkhfdUtNQ2VBd0V2aS1LOE8wVDJrdDRySnNFbUJ5LTdOdzJLZHpCcXd2UXZTWV9vOUJ5UWhVMWUxSTlYN1Jkc2NJaml5VjdrV0c?oc=5": {
+      "title": "日本株ADR26日、ほぼ全面高 トヨタとホンダの上げ目立つ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1NadEN3Rks4NmdtQ2JMS1pEU1FLNFp4TGs0MlJ0dUt5UWVXTGF1dmdoeGxTQWtLRFVYblVObk1HTW5iVmlLcDRxX0JjcjRqbXpkTkh2bjJPNktETVk3U3dmNE1jVUVFVGMzdDRPejAwQnNOM0NBYmh6SEk5YUdSMlVENkd5LUhIOUdVWko3ZVJpSkM2RzVuem5hdlJ1LUdJT3RIajU4Zkg?oc=5": {
+      "title": "娯楽・体験 軸に22店出店 「イオン八王子滝山」開業 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TzJwS2ZRYnpTYnZKY1gySmwtOTlxb3pQNkZCWWsxaUlWY1lubHVlZGhjTHV2VlRwQm4wWG55ZXU5SThHZ000cXN2UjBPQS1hSEFPMlVCblc3cmhtaFZRWm11QQ?oc=5": {
+      "title": "商船三井関連船３隻、ホルムズ通過 原油タンカーなど、米イラン合意受け - 時事ドットコム",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aX1hPS1lmSVI5UFpDTUxURXI0Ni1qLXU4aVhYQ2pLVVRJQW94Q1QtMGoyOTk5ak5qSEJjRnNBOHFyNVhvM2dITmdGQzJJZF96cHJ4Uw?oc=5": {
+      "title": "◎商船三井関連船３隻、ホルムズ通過＝原油タンカーなど、米イラン合意受け - 時事通信ニュース",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnpwdkNlNFhKclpBeFVLMVF3dVoyb01KbVV6cVN6OWJwMmJlU21XbW55WnFDN1YzemVBT3dmUmJuWkxLaTdRRlBKT1k3cGZSZHRxaTZuSlFRMnZ2T1VvVnNfUXJsZVdtWUZTVmxxRE5Ba1gzS2xaTmJLY3hjTHg4ZWRZX2p1S2REXzJKbjZhUUdDYzFQYnZURDREX0ZubndnUWo4cUFieUo?oc=5": {
+      "title": "7月電気代、全社値下げへ 補助金、燃料高を上回る 東電は800円 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXBKaGY1aVVfRFlyalJhRmVjR3B6V0diaUF0TzJydTk2aDJCTU5qZnhkUFhMNkVMYkNaSTZSWWlmN19qMU5CQ3ZqdGw3NFlfT1hqdVNZQncyZHQ1ZnZUM1o4eURTRmZUby1vOTdMZm5jY1R3anBYYjJSVTEtMWpFQUdEY3lkSmxZdEdfTEVsaTh3ajNzWmFBeVlTM2NYMXRPWHBhaC1R?oc=5": {
+      "title": "東電、新潟に1000億円寄付 原発再稼働で 県は振興に300億円 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Q1dxd3hEQVZyYWZmZVo1SURYc25LMkMzanp2c2ZKcW9mSi1IaFQxelpxWTJkLXNmb0t3bDB0X01ORVJybzR2OV9iMkdKQ0FEcy1ORnBobWJDNUZnSy1EeU45Z0tFUm9ZNi1Wcg?oc=5": {
+      "title": "日本政策投資銀行：有価証券報告書－第18期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本政策投資銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-26T22:08:47.515066+00:00"
     }
   },
-  "last_updated": "2026-06-26T14:21:41.860485+00:00"
+  "last_updated": "2026-06-26T22:08:47.515666+00:00"
 }

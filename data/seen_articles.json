@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWHZ1MG5JNDBaWElwWXlWTXI2RENOMDJtYUtEQl83V0czbnpyYkVUVUx1RldDdlpwVUU4SGp1RHRwcmNZdXFQd3k4RThuYUZ5c0xTU051NW1GMEYzbDV2c1RtT05zZDBKNWlELQ?oc=5": {
-      "title": "ＪＦＥホールディングス[5411]：内部統制報告書－第24期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T03:30:24.676551+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwQ1FhOVBRdVlyWGVLMEZNY1E3Q0ctalIyOTZGSjhhOGU0bWRkNTM0RHhWLUZXVmV1ZzJBRVhsTnJLeFY1VkZVN1RZd0ZpbC1wbzQweV9JM01fdWpVem9rMFc0ZkVWQk5nSUJOMA?oc=5": {
-      "title": "フジクラ株が急騰 業績、短期で大幅上方修正 5月予想保守的、市場に波紋 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T03:30:24.676551+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmNnYU1OTTlYQnNYejlEei14a01NUklwbnRraW9ZSkUtM3B1OUF6ZWxJcVVEOUphbXMxR1RCcXA1aTU0TTNwZllLRHBEY0lmZHV6QW5NM1F2WUR1LTBBTXZadER1X2ZrM3IxNUg3cTdJU3hlVEtycGg4ZG9iMWs2MHoxSXlIN3k0VWhCTS1FZjlnTlRtYUNQYW9uN0NZZmpFS3ZrX215eWI?oc=5": {
-      "title": "トヨタの大転換 近社長、今こそ｢アクセル｣投資4兆円 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T03:30:24.676551+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE16U2dzU3JEQ3BmUWtmdWpxSFJqc3VlVlRuLUdSa3FPVUZWNEROZ2FCSktibGFwYWFaSzM5dms5SmlydWdQdVRjVENWQW1vaFRHeS1Ud0FEMUg3bFlSNXNUMm53cUVZMzkwNWc?oc=5": {
-      "title": "ＪＲ東日本[9020]：臨時報告書（株主総会における決議） 2026年6月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T03:30:24.676551+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GeFl1M0hzMXBpYWdsLXA3b01Vbkk1QnI5UG44eVVKZnBpdUhhR1RuTmllNUpObmZkdkw5ZkxMZzN3LWc4OEtuWjVuWEdvSW9Bc3JLWVdWdWtvNHhzdDFHY0txcm4xTm54SWhFXw?oc=5": {
       "title": "NTTデータ、ファンドと組みデータセンター拡大 数千億円投資上積み - 日本経済新聞",
       "company": "NTT",
@@ -3317,7 +3293,43 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-06-27T02:54:24.613988+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnB4ZkFQTnRDX3o5YmdoaE9CbldGNzdaeVB1OWg0N2d3RWdCSmlCMUg0dUNPZjFEMG5hUzBmcmtaSXNQd1NCRXNQa3pXbWxRS0dXeUtSd2Z5X2ljbnkxbGltbXhXX3FnZFlRNm1PMFU4ZEJDNXhXYUw2WXlzeFZqdGJpc0FBTFhVUUNXTlhoMms1dUVOM1FhZFpsX2Y5OEZTN1RfQnN3?oc=5": {
+      "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHk2TlJrblFvMHRVcUhzT3o0akE4YW9kSnlYOEZzOWFUT0hkbmVmQndGdE5HYk9fbXpIQXlNdEJMcnotNmtZQUtJUnlvSkNyaTRJUWlBMWJYUkQyOUEwa3RpSEtkSWZxZTJ1M1FZUldGTF91VmZiZlJ2RFhSdnZSQXBYVTF0clVRN1pvWERZcm5NTlVyWDJHTDFTUDZ6cjdnVXZWNTF3?oc=5": {
+      "title": "製造ラインの工程、AIで改善 東芝、提供システムに追加 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRVVYam9temNid2FLaTBLSlpPRjQwR2xUMFk2QmMtU3FYM3UydTFxMzhPN081bDVpYUx3LWs3TkRtTzhxVmEyWkstcGpnbC1OMFhIWWVyakw1VURHQlppTTU3LU5IZVhZTHBhOQ?oc=5": {
+      "title": "移動スーパー専用車、トヨタ系技術結集し快走 燃費6割減 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZV9DdlZpX1FrQ2dpNzNIZFBTY3U4TWdpYkhZQkJ5OHNZc1UyS3d3TDdwZVJtcFRldnkwd2hUZjlXWkdRZ1lzajFrQi15R1hORmp3Rk0wYU1OVS1zMHAtWkNhU1UwVlVJcHVz?oc=5": {
+      "title": "Hondaファン必見。歴代ウイングマークをデザインした「Honda Wing History 折りたたみコンテナボックス」楽天市場で一般開始！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RreEllV0VQenJGaU44WHUxSVlwdDJLMlhBcGkzMDNjeHZwWXBFbHhCaEc0aHBWWUxLZVVxS3REVzNpT0tkZXNkaFJGOHFWLTBmdG1HTkhKbGN6ell5cHJqdjgtUVkxYVQ4MXlEWktlS0RwNTZJRFptYUh4aTJraHVnaE1HY2J4WGtJSUVJWF9xSnNWTnVhQ1E3QXBXUnUxYm9kWGh3?oc=5": {
+      "title": "〈地域発〉北海道 西武、富良野のリゾート再生 蒸留所・MICE施設に設備投資 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaUtib19NM0RoM3huNTFqWk5tQUtSd0tXcm91ajJ4ZWVka09GS0ZrNUlQSEFiWDJwZkVvWTJ4eGJfMm14R1dTYWNEQ05waWVLckJoRndpbHY5ZEY2cUhkTmZWYWRsbzdkR2RlZQ?oc=5": {
+      "title": "「ウイスキーは地域にフィット」 西武HD会長 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T06:28:49.963531+00:00"
     }
   },
-  "last_updated": "2026-06-27T02:54:24.614305+00:00"
+  "last_updated": "2026-06-27T06:28:49.964092+00:00"
 }

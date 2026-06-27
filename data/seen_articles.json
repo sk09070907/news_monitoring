@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GeFl1M0hzMXBpYWdsLXA3b01Vbkk1QnI5UG44eVVKZnBpdUhhR1RuTmllNUpObmZkdkw5ZkxMZzN3LWc4OEtuWjVuWEdvSW9Bc3JLWVdWdWtvNHhzdDFHY0txcm4xTm54SWhFXw?oc=5": {
-      "title": "NTTデータ、ファンドと組みデータセンター拡大 数千億円投資上積み - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T08:53:10.773968+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcU5xSFJaNHd6UHpiY3gxVGdGV1lzZEhaRmpuWVpWcXdVb19vUHI2UXJHTWg2M3ZvUTF4U3JZWnN1YkNMbDMzeGZjaTI2U1RPWVhISnVnWk5sd1NuTmJrRGRTZVp0X3JNWWtyMG5IaGdDMzN4TXFQa1BJbHZJVUxtYnNab1BIR3dJM21hRldmSzhDZm5MMEE4WE9R?oc=5": {
-      "title": "NTTデータ、ファンドと組みデータセンター拡大 数千億円投資上積み - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T08:53:10.773968+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIb25NVGtIc2tJaU1IMXlxbVZzTDl2X0taUkFtRUR3NHd6VnM4Q3hyYTBsRnc0QjBQOWZCMEpNeGdVNURNMGFqdGYyWXNFNEdoU0NVSGVnMUlLcmFhNVh5MkNzM213VEtfQ1FUTw?oc=5": {
-      "title": "サッポロがM&Aの専門組織 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-20T08:53:10.773968+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KZlJ1WUY5dzZRTlBTdDdoWF9MeUtzNFFqVXNLUEk5V3dIOURfTldQVURrOVJpdjBUX1JRQU1HcE53WVJod0pmdHo4ZzJ3MkoxUUVFMVBXaWRRUDZlS2c5MmRiczlJNTl0WEo4?oc=5": {
-      "title": "【楽天お買い物マラソン】植物性100％・乳・卵不使用。家族で楽しめるスイーツ＆フードが期間限定ポイントアップ｜MERCY Vegan Factory 楽天市場店 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-20T08:53:10.773968+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSG9OOFZYYTBjN21SVzNGaGtYZFZMWXdfQm5WTkhlaDJJRjdtcTN4VG1ROHlOQl9WVERsYkRRRXZtZFdYbEJrWnBxS21ZeHVwM2Z6YWRudHQ4blJtOTRJN1d1QjNRa2JNQnVn?oc=5": {
-      "title": "かいものパレット、6月後半「楽天お買い物マラソン」に参加。6月25日は全品ポイント10倍企画を実施。最大50％OFF。 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-20T08:53:10.773968+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnNNZ1RraFAtdS1oVldNX3JaWWVtcW95WEhZU1ZQbjVHTEMxajJHMjJVLUd4eTNkX2NqeWFVa19RVUJMbGNyY0pEeUZIbzgwX2U4emVIRjlOMTIxX3FPUExqWjZXTjF4d2ZnZkx2VWRQWkR5Q0VrZXJVTGZoVFZFaGpHZ0FTQVpaRXJVVTZnMGdHR21Ed0dGV0lMcTdmaXlCVS1kcUxB?oc=5": {
       "title": "NTTデータ、ファンドと組みデータセンター拡大 数千億円投資上積み - 日本経済新聞",
       "company": "NTT",
@@ -3329,7 +3299,19 @@
       "company": "西武ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-06-27T06:28:49.963531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTVud2d0d09hREFFSFRnYlJNRk9DanhqY00zaVo5dVJmSDMwOWIyeXNYVW16dUZ5TkNkek1CNHgzOEFyZm9XeWhZMFhaaHk5SGhGU2hiM3BTVUtxMlpwZUo2QXNNS1R2TXJ6NG5wVUtWdkxleFRIUlBoS0hKS0tIcFdVZl83MzVkMzdwa0VHbVRfOEFCT2VLWndlUF9OcUstR0s5djBhRUY?oc=5": {
+      "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T10:56:45.058561+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWS01cThwWXBvaFNBYkEwV083TTdqMXl4TmpDM3RsdWhOVnJncGNvS2w5ZndJWmhSUTRwaVA0TVlJT0pQWnZueVljbnh4RlMzVmhmdlJ4Nk01emhyWVIyN2tsNGhpUVZNNVR0TktoT2hrVGV3MURRM3BEYkZoNHdhdGdUaEpVMUVWUXY2b19xX2lZQnBZYU1pOFFYOW5hdzJabVl2cU0xVG4?oc=5": {
+      "title": "〈地域発〉北海道 西武、富良野のリゾート再生 蒸留所・MICE施設に設備投資 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-27T10:56:45.058561+00:00"
     }
   },
-  "last_updated": "2026-06-27T06:28:49.964092+00:00"
+  "last_updated": "2026-06-27T10:56:45.058950+00:00"
 }

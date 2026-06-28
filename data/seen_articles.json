@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rcjJlcmJWOGJGM0pPaG0xREt0UkVNdUxhNTFsc25BdG1rWTFsS2wzeGx0RVRra3BUdW1pdl9RdVByQWxhU0h3LUJSWHY5Qk9jOXo5MXJ1bjkyNVlrdURPUnZQY2xSdUlXZUU0?oc=5": {
-      "title": "【MOTTERU】6/20(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-21T09:46:52.212833+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcjIwU3BjSURGTjZSSjcwblh2R1Z6Z2Jfd085Y1JGdHg0ZWNzdWdqWEFIcWVLS1M3R05ZSmQ2cXRVWFJpR1F6X0J0b3k0WHNGNVl3ak9jdmRScEl3ZGVQTW9SMzRRVGM?oc=5": {
       "title": "NTTがIOWN AI Fundで異なる技術トレンド模索、世界でエコシステム構築へ - 日経クロステック",
       "company": "NTT",
@@ -3323,7 +3317,13 @@
       "company": "近畿日本鉄道",
       "source": "日本経済新聞",
       "seen_at": "2026-06-28T08:48:51.803345+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNW1IWE9OVXJnMWswOUFieXJaQ1FxMzMzaEU0OG1LSmctajFRbS0wakhlWTRuQXRtNTFDNmZUSGpzN3phZjlUYlgya3BuX3IzYlllQmdWN2tmN1liOFpzd2RQdDgxS1FTWUhzaEFoQ3FJRDNreVktX09HODdxRWcyUE56ZnpXdFNpQ2oyWVY5TmctQjNIU0JHYzNUMzF6WTB2Qnc?oc=5": {
+      "title": "［社説］東電新会長は改革の先頭に - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-28T11:06:00.715995+00:00"
     }
   },
-  "last_updated": "2026-06-28T08:48:51.803734+00:00"
+  "last_updated": "2026-06-28T11:06:00.716285+00:00"
 }

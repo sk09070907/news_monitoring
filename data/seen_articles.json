@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJeXVLY3VKR0pLNGROVXIteThBZ3QwaDFfUFZLMUtwWnEycXRkRWJqLTJBdVk3OWZNck0tUzU4aXdwSU04blFLQXF4NVQ4alNRRF9uMUZ6RzhRaXVfRTg2c214TWNUWmR4UkIxbA?oc=5": {
-      "title": "NTTデータG、ファンドも活用 AI向けデータ拠点投資 5年で数千億円上積み - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-21T04:00:44.306870+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlY3BSdzNYNHRGR2VmdlJxRDRqRVJ3QkdTOFVsTTZrY1cwWnQ5NmwtS1lzaTFkNFJReFJXRGhJWTdYNHd0aWVfaFJROEY0bzJldW5DaG0wTHl1YmVkVVF2VUI2WVZYcF9LTTRn?oc=5": {
-      "title": "父と子が一緒にいられる時間は、わずか「3年4ヶ月」。父の日にトヨタが子どもと過ごすことの大切さを伝えるショート動画を公開 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-06-21T04:00:44.306870+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rcjJlcmJWOGJGM0pPaG0xREt0UkVNdUxhNTFsc25BdG1rWTFsS2wzeGx0RVRra3BUdW1pdl9RdVByQWxhU0h3LUJSWHY5Qk9jOXo5MXJ1bjkyNVlrdURPUnZQY2xSdUlXZUU0?oc=5": {
       "title": "【MOTTERU】6/20(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
       "company": "楽天",
@@ -3323,7 +3311,19 @@
       "company": "東京電力ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-06-28T03:37:12.214423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZl8xWkNJU3ZIMkx6VUhJck10ZVpkdEk4MFhXT0VkODRiVmJZTnM4N0QyRzNHSEt6ZHI0eTluaUhwOWVYU3A4emc0RzM1a3hCOXhGMGZZdG41N0NUUEFYczBaNzcyTVVLNkk0?oc=5": {
+      "title": "平成かわいいが岡山・倉敷にやってくる！「サン宝石フェア」イオンモール倉敷で7月1日より期間限定開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-28T08:48:51.803345+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1JvZHNxcFd2WkRmb3NFbE1wZUxkeUlTb2xWQWQyMEp2eFAwUXRZTHVsVFNLN2F2NVdpb3RSSy1RRmpWekltLXRLU0xRSTVSODlrbEJXUHNIVVZTWkppeU1uMDJBNFlFWmdTUmU0NGxKSUJjd2ttQTJQRU5JdDlQN0ZVeTA3NDNtX0JzWUg4akY3dGFHaDNXaDJXT0xvZ0JDMXc?oc=5": {
+      "title": "近鉄G、複合企業の自負 不動産ROA低く株主不満 資産効率一辺倒から距離 - 日本経済新聞",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-28T08:48:51.803345+00:00"
     }
   },
-  "last_updated": "2026-06-28T03:37:12.214704+00:00"
+  "last_updated": "2026-06-28T08:48:51.803734+00:00"
 }

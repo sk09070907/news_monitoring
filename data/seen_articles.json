@@ -1,143 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MNDJXb1ItZnlGMlVfVDBVSUVuc0d0SWs1bVdUX3M5bUtQMGMtZXJTMmN0eU9kZUNIS0dLQlpGZ09CNTBLaEFKZ3pub0FBVXhaU0w5RzdxdTFUZ3BESlJsX1huM2k3RGtNNjRwbQ?oc=5": {
-      "title": "三菱商事、「レバレッジ経営」へ軸足 過去最大1.3兆円調達で攻め - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczlGclFhUzRXeEIwOVd5Ymd3YmtOTW00MjNGWFMwVTRwSlk2azMtNWdNQUItbDdfSGt6TzJBT1RKQ1Z4ZVE2OWpMSkM0VDBOOEd5cXJpZ3JmQ3JsWnZtUy1nZUFRYUpNSzNzQ3BocjJaUkxyN0VBVnlVcmJtSjdPcG4za1NodnMzTmFvelg0OGN3bk9zQ1hTTTFDNWhwaEdyRlE?oc=5": {
-      "title": "CFO戦略を聞く(3)利益の3割資源で稼ぐ 伊藤忠商事最高財務責任者 中宏之氏 12期連続で増配 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kY1NEbzg4ZlQ0X1Q4T1BrSXFzTnp1VjIxTEpneGFNTnc1VU5IeVd5LVlCRXl0dzZxc0VCWlQ2aGFERzJhdmlHcmtwamdoVl9WbVR5aHRZbmhXeDJvNGkwbG10Ni1LN1RqM1o2Rw?oc=5": {
-      "title": "CFO戦略を聞く(3)利益の3割資源で稼ぐ 伊藤忠商事最高財務責任者 中宏之氏 12期連続で増配 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LUXRIeFlfSjYwdTd4X0dyS0ItY2pMMHJvVWpLWV9aX25XazVoaGJmbWE4TjMwNXZ3WmRZLUZhUWhXcFhyc1BjdG9IMGpSNGY2Q3hLMm1WRldTbnNjVDQ1UE1aMEFQWnVORlg5Yg?oc=5": {
-      "title": "アルミ相場、年末は3300ドル近辺 住友商事の山氏 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3B3TWpFZjZBNkptWEFpMDVYMENoVm41V1lGUE90SGI2emEyNWxrazlYczF5Z21TZV9FcmhhbWN6M2U1RGdQY2t1Z2pZNUNtaXg3X2NQbUZER1g0TEltbkhxbzk0MjBtNURtZ2xHT0d6dXVPWjBXS1IxMmdSd0tNV1ZWbGkyZzlfQnFsZUFhcTZGb19YckRyT25rRmgtRHNMMkc1UWFSYUU?oc=5": {
-      "title": "アルミ相場、年末は3300ドル近辺 住友商事の山氏 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IeDBJZWIycHRuM2dhZGxfOExRR195cHVfQTR5M25kemhaUWJsMkYweXl0Y0cwQXd5VlRxTEhHR1VzeHRPSlB4Y3FnYl8xX3lidmF0aU1Nd29CRTdvRWw4X0pGM3R0ZllmNDJYeA?oc=5": {
-      "title": "NTT西、大阪・福岡にデータ拠点 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0aHY3YVhUcmJnZXY1N0xfNUx5RXdKZF8zc0xWc084dmdtSmFIYWlTX2FEd3luVGFRUVBkanJiV25EalM3UkJ2Q0pDdk5wbVp3YlgxWEpJTDBpMmlnSGIxQmI2Y3FOaUxiOExaWQ?oc=5": {
-      "title": "精工技研、光をつなぐニッチトップ NTT「IOWN」構想見据える - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVjNTUENlNnhnSm53VjZmSVhCSzNYamU5Mjk1MktfaVVsSWE1LVNfNC12dW83MWNBUk9kREVwaGphZmNPaXVKakV1UHFLNnh0TEVUOWZiR3N6TFh6Q25Ic3AtUkQyUTlIT2N3NA?oc=5": {
-      "title": "オアシス、コムシスHDなどに株主提案 「NTT出身取締役多い」 助言会社の判断分かれる - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xYzhieDRKaGQ0NjhONjFyVHYtSU9CRUlYbmR4QWVaandPVDFhZWl0RTJKWjEwUTdvWTJuUS1aWWFuWUlOSzhxTjZ4TDJaLTF0RU9EZ0J4NndEYU1QQmZwTVhjMkFiTmlrNjZFOA?oc=5": {
-      "title": "サッポロHD松出CFO｢自社ブランドに投資集中｣ 海外酒類の収益改善 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wQkRXVmFIanp1QmdtY1F4bzlZa1F5azQyUWp5OThkRVBnNjk1S216MzVQMGd5NlJsQ1VndHBzNTN6QkFFbDNQYUtDS1FDblpnNHRFVGRoUGlINkdNTE0yblpJR2xHNE05RGpJeQ?oc=5": {
-      "title": "ＥＮＥＯＳホールディングス[5020]：有価証券報告書－第16期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT0pzZU84MjI5b2F3YkF4Q0JGSWlELU1yeGFXbDE0ZTNESlcwTlJfa01YTDRYOGtKTnlUcE9KOVdVMko5OVFFcDZoZFBJYkJvVmx0RFdYMHNiODFHLW9jY0dUS2ZOWmJmUzd6VA?oc=5": {
-      "title": "ＥＮＥＯＳホールディングス[5020]：内部統制報告書－第16期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Rmxwb2dDVlNvdFRVVE5TaVNMc3B5SEFZcUdnaUZ0ZWh1a19jTlpMRnozanVVejk5NHJMWndjUTJGb2hXM2paVE0xZngyMGpjaFY5cDgwblptaGpIOWptdmVDM1pCOThYRlBPQg?oc=5": {
-      "title": "AI革命支えるHDD、「オワコン」から復活 東芝など3社が開発競争 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWluRExJaGNiNW1tZW9xU2dPZC1lQ3FGUTk1OHk5YVJYSUdJYlgzempUdkxEX0tpSFBlckxmdGh2QzkzR0xSRkR3WGh3dEpQVFR0dldtYWEzV2cxWnBlOG9YRWlqV1ZmQWp1UDNpM0ptaVRRUExmalZmZGJzeHJJUTk4d3o4MGlSd2t5czJJQ0d1NHVmejhMTQ?oc=5": {
-      "title": "トヨタの新興投資、非「自動車畑」のトップが挑む - NIKKEI Financial",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSV9hOWJFOXNlMUlfRGU1NVYzRUxiWDAxV0ZfZFBEakF6LVA5dzRPaGhpX09PcDBNQV9KZU1sZUJRMjlfbjlNaWlqRTVOYnZxc0k4OU9NNTRFakQtT3o4UWdHemt1dHduQnIyTw?oc=5": {
-      "title": "キオクシアはなぜトヨタを抜いて時価総額1位になれたのか - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pZ09mY0ZlRWUtMGVfQlAwX185akFQeDBScXR2MEl3Y05vbEZCV3AzNG9pZGFyWFBURGFqcnoxY0RjQzAxd084OFdqVDR2Y2s0SUN2TWYwWWp5Q05mUEk1YzNvaVdWN08xbXROY05NQWNERjVZZng5ZHY2azREZw?oc=5": {
-      "title": "トヨタ、AI革命下で取り組む新事業 資本創出能力の向上カギに - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmo3SVJkbFU4V2R1eTVQQWVOUGJZbzZQc1ZES2hzWEVQQlJ4bXRDODRXZUl3WThWdVVBV0lLS2NsQjRmVmFMeTF5OWJWYzRHZ3gyMDRLWjhWZkYyaDBmaXZjeUIzQkpvTWI5cXl0M0M1RzU2eEQ5Yy1mNERvN2dZTnh4Z0FlMDcxSFdOVm45SUFfZGEyZmdISXpTV1FVS2lQOEM2UzRsQ2k?oc=5": {
-      "title": "トヨタ、海外生産10万台減 27年2月までに 燃料高で需要縮小 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3dmSnFfSmNfVmczaS1XUEpNMnByMmEzbG5jMGw5b1RWY3BrdzA1NG50ZDV4Vi1qRnJFQVlYeTRsaDg3VlgxRi1JVXEzb0tfdFVIYmYyQi1ELWwzamhPRGpROWt6ZTJzdWJSbmpSWV95REVrQnNCaTlUWUJtaTZZcGhmZTIyR2JodWVqUU5UR0R5RnpoS1V5eDVJMzFvRk5EbFpaeElKX18?oc=5": {
-      "title": "トヨタ中嶋副社長、次世代EV開発中止も「技術は完成、後継車決定」 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU51WU9mcHpUUzBKTC1mTjFYVkF0SGFtN0t2SFpSU1ZmMmoyS21weGtBN29xTy1TOGFQS0NoMVlwdGIzT2p6QUM0ZGt2VHNLUFFQbU5lRk9VN2w0Q2hqSURwVWMtTXk5elhGY2JYeXlfRmNUOFBHaFlrODBuNFVwOTVjQ1o5Z1ZjTm5Xd25wdWdBNFROOS1wVlgwX0hXMC1RTFhhRWVn?oc=5": {
-      "title": "トヨタ中嶋副社長、次世代EV開発中止も「技術は完成、後継車決定」 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE00Y0NFZWJUTVVMUmpqR09RZnh0WnBFVVlwYm1Lb0ZiTTBvWm1GSENQd2RzVm1TTUFmU1NfWUZwY3Mwem1XZUYydVlLYzh3dFVuUjBPWHlYVTI2MjNnc19aOHhxaFJuNUYweXZOMg?oc=5": {
-      "title": "トヨタ中嶋副社長、次世代EV開発中止も「技術は完成、後継車決定」 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHBSdmFRSWprN3d5ajkzQVVKQWp4Z1RWZG5NbHFHb1l2dlItZU5yTm43MXpOaEZaUmhRSlVJVVpyY2xCTTk5dzlqWHNjMktIaTNoSkhRdEdLVXZ3Z3pLY1ZzenljNTk5YjlzNEdLOHk1dldNZHh2VDRBQ284WnVSWklXY1lXRW1pMUJvUFBQRG5qZkhlNF9wZFlHY19QMWx4NENkYnV3?oc=5": {
-      "title": "楽天、米新興と衛星通信 スターリンク陣営に対抗、合弁会社設立 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83MzJzQk9HNzlNSEZqNVZkVThld0oyTzJsSG5XOFVnUDloQlNjV1o4Tk81dXk5blg3WGY1TllmdWJqSnJKMWx2dnpkb0J5bjFLUWFGSndNRlkzQ2ZRaHgzTlhCUkdpS3poU01ONQ?oc=5": {
-      "title": "近鉄グループホールディングス[9041]：臨時報告書 決議結果報告 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "近鉄グループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MOUtnTy03b0k3ZmE0M2ZHLUhKQkIyN2pRbnMxQ3NDNHhxUDdEY2ZobklRRm1DaDdMQzZZd0lLdHdFcHJpWlJZZkJnbURLVm84M2pMbFNRRTNlbmZzcDBTdkRVOTdkODRtTGk5RA?oc=5": {
-      "title": "センコーグループホールディングス[9069]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFOVp0ZlRVMFU4ek9yTndmQ05ZNFZ4Nk1EWENmUHhJWmtKSkM2M0JNMTNMaUM2MktsMEp6UXZvQnVMT0REUzk1QS1ZVW9PVlZLdE1mRzBYVUV4MkJhVUtVemJSZk94SHJONEpUZw?oc=5": {
-      "title": "センコーグループホールディングス[9069]：有価証券報告書－第109期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-23T22:09:53.413634+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1FjeVJHUmpuVGdZQ1BnTHplNmlmR0NhMnRFT25vOC1YUTlfMllkZEhvUmE3eFdLakV1NkpHVE1CSzJxRDY2RHRNU1VCX3pZNFQtU3loc3NsbmJUUy1RaUFyRndFVWRsNkpoaGF4Wmo4YzZmbXI4VFA1UHRpYllxb0dQZE1INDRSTEM3OTBSUjJuUWFEc3p0ZDB2b0dmM0JBWWxycnhR?oc=5": {
       "title": "三菱商事、「レバレッジ経営」へ軸足 過去最大1.3兆円調達で攻め - 日本経済新聞",
       "company": "三菱商事",
@@ -3719,7 +3581,139 @@
       "company": "野村不動産ホールディングス",
       "source": "時事通信",
       "seen_at": "2026-06-30T14:16:01.499609+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBM05hUUM2NmRxM3JsUG41ci1CYzhTelNQNDJySURtc0V0cWhOaW9SQ0Q4UDRLTnVrSXliN0tTbUp4azU2bkUybElfOXZ5SG9zRXdkR3RueF9lNWhDUmdCTnVDN3pSTGF6RzFaSg?oc=5": {
+      "title": "三井物産、若手に託す新興発掘 米量子の上場で持ち分価値100億円超 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbENDM1NQblpkQ2dmUnZTZ1RpNUFmelhEN3daTVdOeUxTbzAyWjBqQ0JRbXpnSFpjeVZscEM1OWR2RkdvbzdQRWEyalJld2lzcFVDRkVPOUxJbWFiTjdpa09ncl9rZGVkeTlSQTlCQjV6X01rcDA2Zm5SN1B2ZlQ3TmpHbFdIZzZYYzFNRVBPdlIxdUlvWmN0LW5JRGplYzZfSENSMkRmMTU?oc=5": {
+      "title": "三井物産、若手に託す新興発掘 米量子の上場で持ち分価値100億円超 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWW5LWWl5Q1NZYUcyUzNUd2NQYWNLdDgxNm5mWngtY09aVEVVWDdQSk0tWXBGOEhqRHNLUXEwS1JITWJqcE5wY1N4ejROaDkxT2I5cG41anJRYXRjUGRfSldxUkJWbHZmeUNzN1JOMUJvWWpyVDdqZW9ncVJtS19kVFdva0dxTHBfVXFUWU1mSzVqRlozSlJxR0Z3?oc=5": {
+      "title": "三井物産、若手に託す新興発掘 米量子の上場で持ち分価値100億円超 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1MtaGtBeGtVWHdTb1JXMVlMUW1IMU55VWdSM2JPNnRqN3RnOXhyTlhOSlVNTHIyTWk4UXBhS09nSVphQU1fSlUxbGFRZG5TcXQ3Tkl1dW1SQm44ektvcFB2cm5DOXpkLVc0ckxFQXg3TjV6V2U5Mkxva3lkb2pEdlljQUpCT1lPbllXclVFS2t5NEIzQXZCMDBja0N1c3NTRmczS0dPX0lLcW1I?oc=5": {
+      "title": "国内大手3キャリア、量子戦略に違い 先行NTTはIOWN統合 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFI3bkk0NnZ0TXhiZjZpU2w2UVl4OENvOHQ4NzZMVTRnSjduNV9QUnFjaTNWYlF5eVJzOW5Sb0NkQWV4MllQanlHZmUwMDd3WXBYWkNLU2dyblFXNHRhMmJVOEJzVE9XZk4zNlVPTjE0WFdJZ29rZWZncUl6aVFoRV9QODBlak9MN0N0aHY5c2ZUUUZMZEhYZw?oc=5": {
+      "title": "熊本・菊陽で高度人材育成 NTTも連携 31年、半導体キャンパス - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW5HMnVLeXFZOW5EYWxqSHZ1bWxiaThNZVlPN0lVTzM1YWlCdkl6Q0tqM2pMWkJ3c1F5STdtbDU4TTFjYzhmRGtiM01oWGtCQlo4c200d1JiOWlPVzRmQ2Z4NDIwaDBlWE1WMHFwSHRTTjhUbnV5Zk4xdWRLaUxjWWpfbDljNTVRSlpTQTc5emJDelNQMV9jME1FUUI3Vm9xTTQtVVZB?oc=5": {
+      "title": "NTT系と日鉄系、データ拠点の工期半分に 「モジュール型」開発 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlczTkZqSi13Y01NSTAwbGpHQ1NHdHlxbWFUdWxwR2NONmVOMEZHdVgtZ3JXTWV4N3V5enRFVklxZFJZOTdrSkJFN2tQNlJ3emQ5eUVydWxUZktWNnRoRkN6S094MHNxbVRTbG92TVR2NE04TEc3bktsckIzRzd6UnBjOXVwb1R4TExnMVh2cGdoNTA2NHBxNkoxam83Y2NZMXc?oc=5": {
+      "title": "サッポロビール博物館、改装開業 - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnNrbVNMY1h5ZE00OXpiY3RDYkg3blhoV2dWQmtiT3ViZmZRNWhkUHUxZTdqcDAyVnlUTVFYMmRhTmIyN1NLeGtCOHpuVURNZ21pckVrLTVON2JGWVZoblJsRXo5bnU1M290eE5nR3NRVVJ4d09yczVsTUNHejJ5X2tqM3NtbV9EdV9sdmwtRG5Nc050N3lxd05SeERSODNqSy1Jbm51YndhQ0VuVEVUSG5ycmRMQk56b3hleFYyMzhxVTdkOWZnYV8tRlg?oc=5": {
+      "title": "東亜合成[4045]：東亞合成グループレポート2026（統合報告書） 2026年7月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東亞合成",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQc1VyR0ptT3dsdGdpb1FfNXlUczBOb1V5OUtJcUZpTHNpMmdGMVBTVnliMVZ2RlNtWnBfLXhWY1Z5Z3dDOTN3SFRXVEo4ZExXX29MaE5aV0c0V1RaNEtFUWtzSldjX1U?oc=5": {
+      "title": "三菱地所・IHIが提案する菜園付き「シェア寮」、異業種同居で発想力を刺激 - 日経ビジネス電子版",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55RUZ0S1ViNWtTcmIzV2lPOHpPUUxfMG5hV0I5Z3dzckFTcFJuV1NFQk5KenpMYlQxNW45aW9QdURvTHJ6dmhLelEwX3RadWVtSDFMQ3ZUZF9fcVNyazZRNzZqSHotR010dDBCSA?oc=5": {
+      "title": "「トヨタばかり見ていた」、元日産副会長も認めた反省点 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE44UG4xN3lqb2l6c0ttNzhjbzk3cURUcVZzTHF4VWZ6aFBGVjIzVmlVaTd1TkV6OEVKQW91aFhfV19VNEJ4T0V3ZjJ4RlVhWloyRkFqQ2dfVUpqMWRQcmlUcU5wb053QUNiYkE?oc=5": {
+      "title": "トヨタのサブスク「KINTO」黒字継続 利用者の4割が若者、終活需要も - 日経クロストレンド",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdG9NaXZyckNFVmc3SmZ6WkFfOWRZTEJ6NDJDVlBIRVNOYmZqN2hweWdhT0JRMkRtRVBUc3F5U3RvSjd0OFREZEctS2dUVkIyREprRnlBQTVZNjM0S3RSTUdobmxhdkpLSUItRm5UaTJnY19CVkhpcDZaTnk5ZDJwLV9DYXBBeWE3TzdhWkdrSXM4ME9tcFJFZmRDZ3hqUkd5ZEE?oc=5": {
+      "title": "トヨタ系販社 きょう社名変更 「Go Too Group」 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlhkcWlVdDFjRzgxeW52cmlheDI0anFoMmxGbVN0VmZxWm9wT0VUZzl5VU83N09vbWlQbGlPQ2FXNzUwMUlJXzF2ZWY2XzhWQnlTeHVNTzhESmpsUmVUVDl3RzNsemVTRVdKUU0tN1gxRkZ2b3hvQlNZQTZXRzR2VHVwUmRZeWhUdjZkR1VUS3NYLWtzb3MxVWJaMkNIdmVvUExpaXIwZFo?oc=5": {
+      "title": "トヨタ、液体水素で超電導モーター冷却 レース車2200キロ走破 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckpBMmZmWUdMNGlWZkJoaXFCNWd2QjhvTk5ZbUUta1JPanlSZ1NLT2MwQ05mVjg5aW55bjNIblBrSzdiZU1fVGRwajlEWGNoSG1rYU9YUlhvMGJEMllrOUFhUFN6UUpXanFVWUtFaHFQeHI5RXdHaThZUFFMbC1hbmVpLU9wQndJZXNocDdCbjlGV1RXQktUVEJlVmhaUmYzMHVUUDJSRlU?oc=5": {
+      "title": "「空飛ぶクルマ」トヨタ・米社合弁 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjBNRUFzOGU5RlZHeTRGa0poTXMyQUZla0s4V3JYT3N5a0d5QVhTbkoyU2d5VmV0cE9UWjI2cFlHazlrNVdwUGJFcnZERjJpblJPUW1rTmV6dGhyZC1oVFlqT1I5bFpCT2Y2ZDUwSUpkelluUzVuLUNJZEdXNmI1LWtMNU8yYWRVZmRScVgzQmhiblFOaW16dk53QTUyZmNYQXc?oc=5": {
+      "title": "トヨタ系、全日食と連携 モビリティーの知見 食品流通に活用 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ScGI2eG5JV1ZkS1hKR1c1djJ6QjFsZEdRc2lwZ2t6WEo3MkgycVNKT1VSeGhuQTBzSkhmV1lqQlJ5ZTNsTlV0ZHVxSWVKRldWNUdidw?oc=5": {
+      "title": "◎トヨタ、「空飛ぶクルマ」生産準備へ - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pQnlTN0JabFVlXzNOQVJ6eUpEdUhVUGVNVzVNZ0FSN3hENjZWTmNUbnZuMEFZMFNQV1BHRGJWYWtKZExldnU1a2tXM3JnUkt4ZTRhTE5sNF9LbXVVdWxFQ0w5VDhKZF9KcVJGaA?oc=5": {
+      "title": "楽天「SPU」にファミマ 最大還元率18.5倍に - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pQmMxUGNqc0hadnhReFdGbFVHZHRvdGdVWDhGeHc5VWd3Ry0xQ3o2S2VEd2ExSVRMR2t4clhvTnd3MGp6NThJWkd4ZGNIRXJJR3k4c0xBMURwaDFwcVh6VUNKeE9QRmpDbTlGMQ?oc=5": {
+      "title": "イオンのデイサービス、2030年度に3倍の75カ所へ リハビリで買い物 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yZ2Q0VUJnYXdFX3hXekZWSkYtcmFCek91Wlp2dUlqVmtqZnIxVWowbzh4dDBsOE94cWV1enFFOFEzMVFZclZfZFVkZ0hMNXBaUmc4TnNQY3ZHaDFGRDNTWm1tWmZiR0N4T1FR?oc=5": {
+      "title": "八王子エリア最大級のドッグラン併設！ペットのトータルケア拠点「イオン八王子滝山店」グランドオープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GV2hjckJleXRKR2dCTVF0R1pWbTl0eHUtZjAwX0lHQUotZF85d3M0LXJ4YnRoYk1ISERwUk1nWHVIcm1FZ1kwQnJidEFPODhaV055dzNGS2ZkdXNTWEhsSTkxYVBVSGctTE1KcA?oc=5": {
+      "title": "近鉄京都線の脱線、「記録を見る限り分岐器の誤動作は考えにくい」 - 日経クロステック",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WalRvNi1LMkRVWlU1UXk5b3dBVEFpLWY0NGxjY21aUXpHZ01JTm5TR0QzNGw3R1I4ckdsUllCNnR1TUdZazhFMG1aVlh5QlpuRmU0ZkpNcHZTWUpKb3d4dWdnd2x1YnRXOXFMeQ?oc=5": {
+      "title": "関西電力、社会貢献でポイントがたまるアプリ「モアクト」で新会社 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jNHZvdGZUU0tJX1BXSElaLUNvMmU0azZDaWF6a05mNXg2X1JObUNvS1hiM3RQR1Ztb09BOGE2MU1MQTVESTc3bTBaaHh2U1FSaDczeWRwb3V0ZE9wdGxTNWE0VUJ3V3dCLVhNZw?oc=5": {
+      "title": "名古屋銀行[8522]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "名古屋銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-06-30T22:14:42.814889+00:00"
     }
   },
-  "last_updated": "2026-06-30T14:16:01.500206+00:00"
+  "last_updated": "2026-06-30T22:14:42.815554+00:00"
 }

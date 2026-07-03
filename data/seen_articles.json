@@ -1,107 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZUpUZGl1NnJLU1pWemJONTk4amRRd05KMmVNQThoZGdpcGk0c0pIbk5yQWpDQ2JkSXM5UF9NWWZGdUhSbERuajFwOHl6dlNfeDExaHM4eUowYTlxSXVGSkpjdmJxY0Z6MkI4?oc=5": {
-      "title": "タイを起点としたアジアにおけるサーキュラーエコノミーの実現に向け、サハ・グループでアパレル等の流通・小売を担うICC・ECOMMIT・伊藤忠商事が資源循環インフラ構築の事業検討に関する覚書を締結 - 時事ドットコム",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHNRWjhQelBwVHg1cDA5VkZ1M3R5c0YwWkZ3TzlvWGR6OXZmVmgxY1FXOG5BcW1Jc3NpTUx5OXNyb3VXYkctVjNrbFdoZGxSY19pWHM1Sm8zalRreGRQQWxJdExqTVhIOXItWm43Tm5JQzlCc2NJZWtpZW9ObXlobVNzYU1VRk44aVNOamFNSUpPQURxYjV0Z3oyNTV3NkFDbXBoellHSHY?oc=5": {
-      "title": "関西経済連合会、空飛ぶクルマ商用化へJAL・住商と連携協定 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajR2SUNnN1l1NGx1WXh4N3dGbWROR20yQ3pxMjRWdjhiZHdYSFoxWFRUVmNteTdNQlVlQ2ZkeGlFTlIxSlpWQmVNclc0VHM2SW5URUNHTzd6eWxEZm9JNDZJQnpIcW14bGZwbFhnc3Q0blBCWkROYW84RThpdFFtSHVtVEFMb0Nka0tUY2k2MV9RbDBfc25WaVU0RV9xM0pvY2c?oc=5": {
-      "title": "ENEOS、日本郵船のレストラン船に水素を供給 27年春から - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXJNSC1LLWIxT2pmVDFEY2pvVlpDLUJYdU1Id2RKdlZkRVVQX0NxY2t5R0JJZFZDX3Q3dngwSUl0STMzM0VKbkowQWZLOS0zWmp2emhZN2wxVk9iR29mVExPR2RNdGYxcjNJNTRWWVFya2VuNzdjWFdrbDBPX3VxcVRQNkVoanY2dmcycWFLZzdrUnIxZmQtRnFrQzE?oc=5": {
-      "title": "西部ガスホールディングス株式会社 - 日本経済新聞",
-      "company": "西部瓦斯",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82RTc1T1dURTdmeUZ6amZlY3VaT3FaRGE4MEpOd0REeVdfU2Q3ckdOTlg1VmxRcEJPdjc2cDNkTjdnOENhM0RIQTNSY3FFTUtTZkh1TUEtcEVGS01FZUYxaFBraUtlWGJFRjVoVA?oc=5": {
-      "title": "きょうの5本 東芝が失った｢50兆円キオクシア｣ - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2b2NHUFBZWEU2eVZwOGkzV2k4S3BVSXZWTnBiNmkxMjIyU2hoTkg2Z3Rmbml2UVJZOV9FXzBkc3hDQ0hhYWpZb2NxQVNic2xZQVNkcUlPMGd6ZVhFQl91RUI4aGplQ2FmNHc?oc=5": {
-      "title": "東京計器[7721]：コーポレート・ガバナンスに関する報告書 2026/06/26 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnl5NDkxNzFhWWVYb2xFRUN5c0F0UzJ2WjA4eVV6YWtoUzQ3bDR1WkhSektTY254Qm1NR2E4RG1QR3ZKMEpnMGY5blljTFM0WndZcDdnNDJrM1hBam5LTlJKaEU1Ql9qWS1VdkljcmdTVzhIU1NPSEpIWkw1SlJqZTI1c2Z2R2hqWk41VjJfMldwbnM2aXlHZWpKWWtheGZ1Q1RNQVNB?oc=5": {
-      "title": "トヨタ九州の宮田工場、品質調査で世界1位 米社調べ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tZ1hIQVVPTVhpSjdZUk91LVFwUklnQ3RqUXZ3aTlVdTlzdDVYRTlEOG8xSWkwNXdMU0JTMDZxb2VWNGd0SEU3RWcyb2JlTzVaeUdWSWlJNklrd2k4YjFZWWlNb0JBb3REZHFJ?oc=5": {
-      "title": "『JR東日本 ポケモンスタンプラリー2026』詳細公開！：時事ドットコム - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2FqaVc4ZHBZTHA1WGZMRlhJcXRKMWxXMFRYWmduMklLRkZfY0ZoUzBRT3VHTmpJZ0UwVDdocjAzenlueWVoRllzeHZRVE8wVzNseHpMNHVKcXdPQVNFRDNWSHVEc1Bmd2xxeXlkM1VUTlFOTnpzbTJTZFdsQ2FzU2s0YVo5TXZuZWNGeDM2ZnNmUF9MOTRrTnd2dUg?oc=5": {
-      "title": "株式会社西武ホールディングス - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMzR1d1NVakpNVnEtUzJvem9nOWttQXF0ZlZhNWhyeGdGMW5HQ1BFYjFwQXZqLVNQZHMyM1U1bVJfUmJFNGtxNGJBRmhDNE9tZjZlYl8zT25CeVIyZ1N4OW1zZ0VRRHd4NjBJZw?oc=5": {
-      "title": "商船三井関連3隻、ホルムズ海峡通過 米イラン合意で脱出相次ぐ - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSDdJQTFVQmV3RlhwLTNTNjhFT3JZSm1JMWVwYjJrTlE4WjUzeUVDRVdNV0JOZzcxNFBjOWhQamxzSUZCejc3Skt0TFFrdGJocTdfdnBrRnZyU0h0N1E?oc=5": {
-      "title": "◎東電ＨＤからの拠出金１０００億円の配分案を公表―新潟県 - 時事通信ニュース",
-      "company": "東京電力ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DSXZiSVRlZGNQTHVkbk9rc1AyRl9GSkw5SDVPeFZNTDI5RXE0VHVfclBrQmMybWRsMnBzX29zUjhHMmFSUUVRY0NIN2wtd2VlblV2enVLRUItbWdIY0ZDMUFPWjZvcHB1a3c?oc=5": {
-      "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：自己株式の取得状況および取得終了に関するお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TVDlDSXVwZmdlZTZ3Z0pkWEhoRUEyeDdCR0ljWDdRaU5xRUU2VHh2VW5tUF90RzdQcUlzSGV2cVlqVC0zNmVSYU12SDEzMFQxMVNWVTNYU1BBS1NVV1A5X2diOEZad2V4RkE0?oc=5": {
-      "title": "RAN「MUFG株主総会でアピール『気候変動と人権侵害に投融資しないで』」 - 時事ドットコム",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tTEx4aWNPZ0p5cWE0Vi1BNnp1aEZxSDZldnhoSjBUVWh1Wm1wcE5RZDA5X0tIVjkweDhLNmw2OHNZN1VHdHdIdml5RG13XzROamk5c3o4WTBTT2xoMllVd3o2VnRiLXdwVUdPeg?oc=5": {
-      "title": "決算:京都信用金庫の純利益42％増 26年3月期、金利上げで利息収入伸びる - 日本経済新聞",
-      "company": "京都信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3BQYkZmQ1ZMVWRRZ0gwQTA3VWdwT2g0Nlc1eENtNUdvOTlJRXdOTU55UklGWm5Qc2FkWjJtdml2aGx6VlcyaGFUWlYtcjdMSjltTV92RWdSS1VJcXpKVG0ydTlrQ25JelJkVXJidHEtbWRYa18tY3pIcnFMazM5alNlYlF1dXQ0UHoyX1FDNW5EeGFEdldvMDdTdV92WE01QktGd1pnNW4?oc=5": {
-      "title": "フジHD、SBIの金融・ITノウハウ活用 コンテンツ軸の経営へ転換急ぐ - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acVREQ0VabFRLWTdIWHJhNkxZSU1wTFU1RVpJRG1rQ2NXR2tDMmNYd0lFRUNROTRycjFkVFU2NlBidDJnV3g5T3M1eEF3R2lZdWZxRHB0d2VtZ3FQVlI0dXRKNjVfTTBPMXc?oc=5": {
-      "title": "東映[9605]：役員の異動について 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiSG1iemxWTnJld2w0T0FZSG15b0FkZHZTYm9qcDF6N2h2ajMzTm1iYTBRQVp6N3dHZUtDcEJrOXRLVndBZTdvajBBNUYySGFZVkNxeVQyc0FESFNhRXRxMGlRUUE4cFBwR3c?oc=5": {
-      "title": "三井不動産アコモデーションファンド投資法人[3226]：資金の借入れに関するお知らせ 2026年6月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産アコモデーションファンド",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T14:21:41.859819+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWp3Q2tMRUp6dll0NWhOb2xwR3pWLW9HeHg2dzBmMGFNeWVuQUhNNzBhRGVBUlVFd1FNRk5hNlNMSzZCWXV3dndsZHFadHBqMTZyWWQ1eUJnSDg4aVV2YXNHQmVpYjZjbmt2UGNZVTFMRHBOZFZQSTM4SkdGYlpRaWNiMUxnTjJpTk1IYjVhTWpJM3ZpVFNDdFhPZVozc0JRc3NodnoxRXI?oc=5": {
       "title": "関経連、日航・住商と協定 空飛ぶクルマ商用化へ連携 - 日本経済新聞",
       "company": "住友商事",
@@ -3161,7 +3059,49 @@
       "company": "オリエントコーポレーション",
       "source": "日本経済新聞",
       "seen_at": "2026-07-03T13:59:03.085388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MaEZDeU5IOGc4YVBvMGZ5d2JMMXlRamZ2QnhPWVd0cGdxV3NVRmI1M3R3REpjcFNVTmtoVldKVlZxajBiMjFfckJpUHRIdmQzQlN4Nld0TEdxV2ZTb2p6bzRIa2MtMnFVS0xn?oc=5": {
+      "title": "伊藤忠商事、豆蔵、CTCの3社がフィジカルAI分野で業務提携 - 時事ドットコム",
+      "company": "伊藤忠商事",
+      "source": "時事通信",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEw2RVByTThQT0o2dHV5VXp1NlZfbVJJam1BM25HLTVHVVFXN25ndmlsY0dlanhUelJmREVIRENBVC1ZWEFGd3NlRVVHRFpMWWQ4Ykw1TTYtSzZsTTk3SkE2bzFRdnl3SzN0dU5wcHc1azhyQ3lxSXh5bTRXRkd6Q1FTWjczZENGSDh4bWVhMHpmcjJJMjd0LWtBOWdCdDZubm1FQkpn?oc=5": {
+      "title": "NTTドコモ、AI行動の「正しさ」証明 AWSなどと連携 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkk2WjV3LVZHM2FIU0V4RURoUzdUNVVCSklvY3RtZ0ZkdTM1S1dvOXA5RG5yN3RYWk1wWjFTY0prb3c3RGp5QTd6WjlkcG1jbnpZQk1lNGNkbzJ2NTJPcEREeXRDRDlLeEM0UC1nYTRRZDJ5bHVlX0hPSGsxZXMtX2dJMU94bElUOXFZX1N0eGxaY0MxUGtYcXdWUXM3TE5PMWdIY1RGMXI?oc=5": {
+      "title": "サッポロ、大阪・梅田に立ち飲みバー - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEI3Zk1RcWJwTV80YUNaVndzYUl4Y0lMT2JFLTRULTBTeFAxRnp6ZTFzbE8tcnhWdEs5cEN5RGx0OVlKZ19XVGJUUWFTbHFpbi1PTE4wSng0RGlnQVA1dkJIUGdwQl9vdEJ6eEpvRzhsVHZGQjF0OXVrbUNSbGZzM25qeWZQa2Z0QzNIZ21pb0R0dDBBOGNQVlNhTlFrdWxvYUE?oc=5": {
+      "title": "日本製鉄･JFE、長期戦の電炉転換 CO2は1/4も鉄価格4割高 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZ0TmQ3N1VsTm92a0ZTNDlKZEViaXh3WkNPTnc5M0FiOHFxX3lKOGhuZ29tTnluOWxoYUstSHljcG80Rk44UWdWRW5Jc2Y1clRqNEpyRkszOHpiZjBDMlNYb0tEWUlnN0p2d2t1OEdCTFpVM3haMS1POFBsV21lR2VMOGthU0dpQXVLX3ROandOX0F1SkxFODhabWRiWmtHZktrUE9n?oc=5": {
+      "title": "アーチオンの出資下げ トヨタ・ダイムラー 月内に2000億円規模売却 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHBuTnBfVjVDdmVWZHdjNkZEVlFkVzJDaUtkZHlIMXNFSGJHRXNOU2prWUE2YmNIdmxtMW1rUHBUbGVuUGgxZ1cyQmdqWGVFaUtxek5EbHR0Ui1MeDVXUVI2WWlfNC1ucFc4b1NvMTdwR3UyRVI5QThDVjNoVEhfV3hDNjNOZy1NWjFEZmxOb1BFeDRSeFhtbGlFaEdGZDQ3SDhNRVRR?oc=5": {
+      "title": "KDDI、楽天に揺さぶり 回線貸し出し協業縮小浮上 ライバルに急成長で - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BWk5nMFZoWm5FY2lOSXAyWGdILVNtYTMzS1F1bHZfOXNMNTNYck5zODVaaGtjMmU4TGR1Y0k2bGxmV3BHeDFRNjZHNWVhQVlHR1lfOXRxbGxUNTltTHNJWkN4dzJnXzNWcFFv?oc=5": {
+      "title": "【楽天市場お買い物マラソン】カー用品メーカーMAXWINの夏の車内快適グッズ特集！車載扇風機・クールシートが今だけ特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-03T22:01:50.969185+00:00"
     }
   },
-  "last_updated": "2026-07-03T13:59:03.085599+00:00"
+  "last_updated": "2026-07-03T22:01:50.969840+00:00"
 }

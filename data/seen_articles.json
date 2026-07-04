@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNFdISVZ2RnlQeHhOeUpVcnVzYkFmUjVQYy1ZcVFNeEVaZlVkcDUtd3pBYnJPcEc1ZE05NnNoaXA2cEM3bE5SS1c1RXhaNmxCNU11U1FtZ1ZCVkVaTFB4dHBJRXdKRjdoS3NRcg?oc=5": {
-      "title": "NTTが太陽光発電の管理に参入、電気買い取りも 設備の廃止に歯止め - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T02:54:24.613988+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0JUZHk2VDk4ck1nZDMxVEJCdk1zd1Y2ZHJxS1ZoSTZZZjE4Q0xhTF94dEZFd2h0dE9YeXNjenJNNWVicHlRb2hSUFJyeHAzVVlmZG1tSGRHRUVSemdidDhHbVJ5UnRfMlpUMEhlRlRIOGJOd3A5dzJaRldId2RJQUZSQTNiM2p4VUZNVG5YV19aS2lzazlyMzFwRzBONENtTGZiMnBEclc?oc=5": {
-      "title": "移動スーパー専用車、トヨタ系技術結集し快走 燃費6割減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T02:54:24.613988+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVFkYXdtT3JXbE1nMjBvek5RckNHZ05md0MySE11SG56ZzIyT1R4VjNGTmZSMUpWUGRMUjFkVVhnN0h1V3ZEa09IWjZWa2UxWEwwMTJ5TnFYaUpiWkp4UUpFSGVYR2hyMzdFSHp6SFZXM1NpeWhUclNubXlUNHNOTnVUZmlIRFJSbjVCNVM2NTFfWVpCMTk1MmxLeFJEaU9Oa2h0UnMzUmY?oc=5": {
-      "title": "営業益倍増の14.5億円 トヨタ系KINTOの前期 若者向け販促奏功 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T02:54:24.613988+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tWbXVBR3hiX2hXaXNoY3pGM1dnakpHbjNnRWtfYXZwRVd0ZW5fODhJMm92ZUp3Y0ppaUJUYm13andsaFV6Z1pMTjhuN19fdXF1Zm83QldjM1FnZU9ydTQ1Nklkc09zd2FEUWFaUWdhVFl5NGIyanVkcDdhSmJtSkpnOGxsUFFNV2pteDB2LUZtOE5SZHhXRkZtdnY2aGhQeFptRVhBN2Y?oc=5": {
-      "title": "移動スーパー専用車、トヨタ系技術結集し快走 燃費6割減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T02:54:24.613988+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RVVic3puM0hhazlzb3FpVVBrbWxfWXZfR05uSUJoWW1sVkI0a2RmQklwRjRsLXBJbGdZdXAxbnVaUk5wYTZRRjhQZHNVWDBLbTQwYXI4bWN6Tnl4TzRoUzFRZUxjenRDdVBfZA?oc=5": {
-      "title": "KDDIが楽天に揺さぶり、回線貸し出しの協業縮小も ｢敵に塩｣に懸念 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T02:54:24.613988+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnB4ZkFQTnRDX3o5YmdoaE9CbldGNzdaeVB1OWg0N2d3RWdCSmlCMUg0dUNPZjFEMG5hUzBmcmtaSXNQd1NCRXNQa3pXbWxRS0dXeUtSd2Z5X2ljbnkxbGltbXhXX3FnZFlRNm1PMFU4ZEJDNXhXYUw2WXlzeFZqdGJpc0FBTFhVUUNXTlhoMms1dUVOM1FhZFpsX2Y5OEZTN1RfQnN3?oc=5": {
       "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
       "company": "太平洋セメント",
@@ -3017,7 +2987,19 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-07-04T02:42:30.717494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3B1Q1ZqN3VWczlhbEhqSWZCNC1ULWVaRTBzR0V6RDFoOWowa3ZGSDh3R081Qnhvb0lyNExQT18tckJrN1hVb1ZzTktkUllVQVRKUXk0WTRHU0JXUTZHRHNPZ3JEcnhiZkI3eWxkdFpKZURMY29DZWY5M3ZMSDVZUUVDOXV6V0RPNTk2Rl9UY1h6OVZKZGtuZTFTakl2M3FleURNRTln?oc=5": {
+      "title": "共同輸送へデータ標準化 三井化学などが指針 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T06:17:32.997590+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bmZfYXFFOEJzcFhtZ004Y0k3MG1hcUFZQmNBRncyREdJSkJCdzZMTkV3SHdXbGxOekI4ZWJjZEdGeldPUE5mSFdDQ04wdm1tUHlwZWR3cTVvbVIxdnVNUGR1VWpwYUp6MTVz?oc=5": {
+      "title": "【楽天お買い物マラソン】植物性100％、乳・卵不使用。アレルギー体質のお子様にもうれしいひんやりスイーツたちが期間限定ポイントアップ｜MERCY Vegan Factory 楽天市場店 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-04T06:17:32.997590+00:00"
     }
   },
-  "last_updated": "2026-07-04T02:42:30.717725+00:00"
+  "last_updated": "2026-07-04T06:17:32.997980+00:00"
 }

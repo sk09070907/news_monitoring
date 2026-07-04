@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWp3Q2tMRUp6dll0NWhOb2xwR3pWLW9HeHg2dzBmMGFNeWVuQUhNNzBhRGVBUlVFd1FNRk5hNlNMSzZCWXV3dndsZHFadHBqMTZyWWQ1eUJnSDg4aVV2YXNHQmVpYjZjbmt2UGNZVTFMRHBOZFZQSTM4SkdGYlpRaWNiMUxnTjJpTk1IYjVhTWpJM3ZpVFNDdFhPZVozc0JRc3NodnoxRXI?oc=5": {
-      "title": "関経連、日航・住商と協定 空飛ぶクルマ商用化へ連携 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb1JsTERENmg5WWVuUmk0aFI4MFZtZWlvQ2tzVVBPUE9reVlYTmN1TlRmQjllQTVabGNzQVhSdWwzUVp1RU9tdDBXSFg0VzZGay11UndGaUFweFZIWmNUdmpKVm5ZLTU2UWQ3SQ?oc=5": {
-      "title": "不動産売却、酒類に集中 サッポロHD副社長 松出義忠氏 M&Aの知見高める - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdThpMHlVZVJPaWtuTU9JWkdpQi1paHM5a2pOZkM5VE01ZkdQdHJiaTRRbUpUYlY2aDhucGFQZWhwR2cxWmI3S1N2NTVJM1JHeVY5TGlLZG1wWllHYnlpM21sb0ZSRkF6LTRScUstOXJBbDNja3dqcGYwTnVVLTlZbE56WmRNWFg3Q3NQTENHSHlWNzY1eUJpalFrZS0?oc=5": {
-      "title": "王子ホールディングス株式会社 - 日本経済新聞",
-      "company": "王子ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VaHp1UHhlZGlrNFphaUJBZjdpNmNBWGVVRjBkcS1DMWstMkdTUHlPVjI2ekdoNWJRNGhkZ2tHMWItV2tfM2cwMUJrbVdEUzVTR1BWTVFPWUJYX1pUWkxqRjE3Mkw3bWNITFJnNQ?oc=5": {
-      "title": "三井化学株が回復途上 米歯科材買収、相乗効果待ち - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUVwRm1vRjRfMVRTT3ZtazhabnF5T0E5ZVYwcFBjRVl3OUdybGxEQzlsbzlMS1o5cUVWaTZ4b1BhNm1BalgxODBrb0VyM05BRDRrdjRXR2tMMnUtTU96NU1JYWkyOTFpNmQwYTk4X01saHlYWkFvbkF2V3BWbFlKYjdjMWh6M3dWdzlIQURaYV8yV0pTTUlFd01pQXUyS0dqcEhJSWNpVlE?oc=5": {
-      "title": "取締役選任、相次ぐ反対票 業績・統治力に株主「ノー」 リコー社長・三井化学の社外取、信任6割 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxON09yTWRXRko0cEJ2VWtpdVY2ampINFpqeFZZb3ZmMzA2S1drdmhpUXAtdTlrSU1PUUpfQjZwY2dydnIxQ2lNb1ZoSGNJUkU5dGt0TlcxR1JfLW1fd3ZoTjc4dXUtbnJCRjVFRjRQQWNrSTNKTnAzSHpFaGxSUEQxUkxQTmQyNHBvaXpnWjJLa0pBVjRJZUFEcVlsblRzNllld2RUVGFn?oc=5": {
-      "title": "取締役選任、相次ぐ反対票 業績・統治力に株主「ノー」 リコー社長・三井化学の社外取、信任6割 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjZiaWtJWnI0QmxTTWZvOTJYRUpBUy1kVWtpOV96SzdKa2ZJR3lXYjVrUjEzSmNYQ1d4NmdERjgxaGl1ekhyTElQaFd6MnlZbUJndWlSU09LVnFLdm1uNmJ2QlE1d3ZJUEdSaVlVb25hUkZ2NHFVWGJsSjRRaHdWT3VaV3hST081QnZoNDZvMGZrT25GMjItT0kzb3VXb1VBQVVJMzFR?oc=5": {
-      "title": "東芝、手放した「50兆円」原石 キオクシア保有16%に低下 原発も復権、経営危機10年後の悲運 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUFTaTZnV0F2eWZVUUNsbGVOMjZRbXBpSFZLQi1lVnptNDh4UzRUNVdiMWNaYkpvNlNvcWRPRUZ0UGxVWWo5cjZpbkZtR0Jpa0lpU2UybE9BYnZmTS1MUUtoa0twSGRxNTltUThnN3RLYXJ4WTF1eENERXhtWm42SUx1b0ZJSFpReVoxaDNaUzJIZEY5dzdIODlaUXk?oc=5": {
-      "title": "株式会社東光高岳 - 日本経済新聞",
-      "company": "東光高岳",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXNtVFNJUEZSY216REVHQjhTeWhqdjVMLTZtT1NkNFdEcDg4bE5nZF85cmZyd19fV2s5RnNsRjNyV3RMaDNXMDFXby1LR2I2bUlmM1dIdVUwUk11VDRQYkhfdUtNQ2VBd0V2aS1LOE8wVDJrdDRySnNFbUJ5LTdOdzJLZHpCcXd2UXZTWV9vOUJ5UWhVMWUxSTlYN1Jkc2NJaml5VjdrV0c?oc=5": {
-      "title": "日本株ADR26日、ほぼ全面高 トヨタとホンダの上げ目立つ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1NadEN3Rks4NmdtQ2JMS1pEU1FLNFp4TGs0MlJ0dUt5UWVXTGF1dmdoeGxTQWtLRFVYblVObk1HTW5iVmlLcDRxX0JjcjRqbXpkTkh2bjJPNktETVk3U3dmNE1jVUVFVGMzdDRPejAwQnNOM0NBYmh6SEk5YUdSMlVENkd5LUhIOUdVWko3ZVJpSkM2RzVuem5hdlJ1LUdJT3RIajU4Zkg?oc=5": {
-      "title": "娯楽・体験 軸に22店出店 「イオン八王子滝山」開業 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TzJwS2ZRYnpTYnZKY1gySmwtOTlxb3pQNkZCWWsxaUlWY1lubHVlZGhjTHV2VlRwQm4wWG55ZXU5SThHZ000cXN2UjBPQS1hSEFPMlVCblc3cmhtaFZRWm11QQ?oc=5": {
-      "title": "商船三井関連船３隻、ホルムズ通過 原油タンカーなど、米イラン合意受け - 時事ドットコム",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aX1hPS1lmSVI5UFpDTUxURXI0Ni1qLXU4aVhYQ2pLVVRJQW94Q1QtMGoyOTk5ak5qSEJjRnNBOHFyNVhvM2dITmdGQzJJZF96cHJ4Uw?oc=5": {
-      "title": "◎商船三井関連船３隻、ホルムズ通過＝原油タンカーなど、米イラン合意受け - 時事通信ニュース",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnpwdkNlNFhKclpBeFVLMVF3dVoyb01KbVV6cVN6OWJwMmJlU21XbW55WnFDN1YzemVBT3dmUmJuWkxLaTdRRlBKT1k3cGZSZHRxaTZuSlFRMnZ2T1VvVnNfUXJsZVdtWUZTVmxxRE5Ba1gzS2xaTmJLY3hjTHg4ZWRZX2p1S2REXzJKbjZhUUdDYzFQYnZURDREX0ZubndnUWo4cUFieUo?oc=5": {
-      "title": "7月電気代、全社値下げへ 補助金、燃料高を上回る 東電は800円 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXBKaGY1aVVfRFlyalJhRmVjR3B6V0diaUF0TzJydTk2aDJCTU5qZnhkUFhMNkVMYkNaSTZSWWlmN19qMU5CQ3ZqdGw3NFlfT1hqdVNZQncyZHQ1ZnZUM1o4eURTRmZUby1vOTdMZm5jY1R3anBYYjJSVTEtMWpFQUdEY3lkSmxZdEdfTEVsaTh3ajNzWmFBeVlTM2NYMXRPWHBhaC1R?oc=5": {
-      "title": "東電、新潟に1000億円寄付 原発再稼働で 県は振興に300億円 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Q1dxd3hEQVZyYWZmZVo1SURYc25LMkMzanp2c2ZKcW9mSi1IaFQxelpxWTJkLXNmb0t3bDB0X01ORVJybzR2OV9iMkdKQ0FEcy1ORnBobWJDNUZnSy1EeU45Z0tFUm9ZNi1Wcg?oc=5": {
-      "title": "日本政策投資銀行：有価証券報告書－第18期(2025/04/01－2026/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本政策投資銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-26T22:08:47.515066+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNFdISVZ2RnlQeHhOeUpVcnVzYkFmUjVQYy1ZcVFNeEVaZlVkcDUtd3pBYnJPcEc1ZE05NnNoaXA2cEM3bE5SS1c1RXhaNmxCNU11U1FtZ1ZCVkVaTFB4dHBJRXdKRjdoS3NRcg?oc=5": {
       "title": "NTTが太陽光発電の管理に参入、電気買い取りも 設備の廃止に歯止め - 日本経済新聞",
       "company": "NTT",
@@ -3101,7 +3011,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-03T22:01:50.969185+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zRTg3M05kbmQxdjRHSk1jc2VoNGtrM0drc2hfQmtEZnQyQ21PSEZZRzY2cXR3eWtWMmk5V0h2a0tCYzRidGQ2YXRyU3JYOXlHVS1LQlJaXzhkd054UlUwNnprTjBRTnhreThWUg?oc=5": {
+      "title": "KDDI、楽天に揺さぶり 回線貸し出し協業縮小浮上 ライバルに急成長で - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T02:42:30.717494+00:00"
     }
   },
-  "last_updated": "2026-07-03T22:01:50.969840+00:00"
+  "last_updated": "2026-07-04T02:42:30.717725+00:00"
 }

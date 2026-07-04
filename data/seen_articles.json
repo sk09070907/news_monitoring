@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdU1xTFNOUWZtLWRPdS13MDd6VXcxbXhZYzJySEptTFFPbUVDNnBXNG5TcUs2ZUZpSkUwMnRrY3BIMzNLOXlrT1U1WWxjU1FFZWZGZkJVcEZJUVZtWGpFNWttdjhGMEY5TkRRR2ItZlVCRkJKTGR4Q2Z5OGhpa2drckRqajhNaW1WSFNUbU9IdUdTbVd1T2gzMVFMVDZsOFZpaWhORkFR?oc=5": {
-      "title": "製造ラインの工程、AIで改善 東芝、提供システムに追加 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T13:28:48.768064+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFFGM1BLSUE0RUFqQkRMaXA0eF85SElwaDJDcHVRV2pxM0hfeU9MM01fREJoUEF6NkpoUV95RjMySEZUUVo2TWk5MVFUTVJHZEdhY3piYndfQS1JbVA3b1pSSWlGcDBjX2g3dmotelNPazQ3S0xFVGM3ZENkQVhvU1ZUNE1jYlZOU2VWcUJfOWVMMUY0VjlyOEM5MWg?oc=5": {
-      "title": "関西電力株式会社 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T13:28:48.768064+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVvWGEzVEp2VDVaRXh1M280bE5OZ2QwM1k4M29CVkIxZ1ZzNkJENGtlWVBpQ0RnOG4wMHA1NzJWa2xNZUwtY0xIRmlYbzFxaklwdXhpcWY0cEJNblg4RVMtT1plZlpUbm9FcW5NY1NTY2Rud2g0VXZKSFJ0MHNyRzg3azlqUXVMS29LR2RWcFpNTkV2Qnp3MWxrVjc?oc=5": {
-      "title": "SBIホールディングス株式会社 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T13:28:48.768064+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUV5YXNPTDRpd0RLQW9oYmI5TC03UEpJZGQ4UTVyQU5NNHZYbGNZM1R0SU52Vy0zU2dMRG9QeVBSTnZ2cmRtb1ZXNTVyRGdRT1o5bUt0NWJ5WHZOQTJnNkU0RFFJVWhCREVTMHFCeWJYSm1ta0lkZG80RGF6UmZkcTJubXFiQmNMNFZ4amVxa0NSWGpkRUZDZzBRV1VhSkpTTHc?oc=5": {
       "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
       "company": "太平洋セメント",
@@ -2963,7 +2945,31 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-07-04T10:53:15.499343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnpndzh3WHRZMFZCYTJ1RWhYdGNmNzFJb1IxODhmaWYyQjRfV3EzR2FhQTdJbGIwWTRWRWJqbEhWWFVIcS0zQnZSYmJZam9rWjl0eFVnS1JHTW5JcFFNUmZEX0NBVTBkSDFad2FsQ2djd1VBaVFVVTFxbGtYckJQY1hpVjJLbkV5LTlnNzhPOF9SOXhKdVo3eHRRVmtiWENqNElZbGMxMW4?oc=5": {
+      "title": "アサヒGHDが25年12月期決算開示 今週の予定7月5日〜 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T21:53:55.324300+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTJEUGkwc01LemN6Rmw5bHFDeUxLWWxON05QM3ZTYWpiLS0tU0s3NUY3dVlyUmdONXdqS0gyRldfRW9ncm00VnRUQXp2dENDSV9XWVAyTXI5eTBoMWJqNHV0YlNtM01EbU9GVkdzVXVRdWpzTmxsR0E0cXNCdG92MW9DTkg3Yk1qeWNRQWFJV3pWWkdmbzBvUw?oc=5": {
+      "title": "「東芝傘下なら今のキオクシアはない」 ベイン日本代表・杉本勇次氏 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T21:53:55.324300+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZ3V0X1FGVlc2OHdGMG53M0x0Tk16ZDR1c1dqUkItdWttSWhsdE83bThXLVhyYVRYYWtjMzhHOUdwaXJUVURYTEpNNm1Ra3hzeEJSajJ5ZEVRXzBkb0dsWTRRSkdTSTV5dXVGSw?oc=5": {
+      "title": "冷感グッズで酷暑日攻略、アイスハット注目 楽天市場がトレンド予測 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T21:53:55.324300+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yc1BCT2RQZmpqY1JoNjNHZ3dOYUR5bEdBTjdmSndSUVBINXJ6bWxtdlBVTUJvUGVOV1FkM0lXY25VdnhycVZwNGthZEFYLWpzSm5pOTZqZXM0YXpzODU4NFdBYzVma0hMNXA3dA?oc=5": {
+      "title": "イオンがサーモンづくし、新総菜ポキや1尾丸ごと チリ産も空輸 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T21:53:55.324300+00:00"
     }
   },
-  "last_updated": "2026-07-04T13:20:32.483911+00:00"
+  "last_updated": "2026-07-04T21:53:55.324688+00:00"
 }

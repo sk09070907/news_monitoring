@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnB4ZkFQTnRDX3o5YmdoaE9CbldGNzdaeVB1OWg0N2d3RWdCSmlCMUg0dUNPZjFEMG5hUzBmcmtaSXNQd1NCRXNQa3pXbWxRS0dXeUtSd2Z5X2ljbnkxbGltbXhXX3FnZFlRNm1PMFU4ZEJDNXhXYUw2WXlzeFZqdGJpc0FBTFhVUUNXTlhoMms1dUVOM1FhZFpsX2Y5OEZTN1RfQnN3?oc=5": {
-      "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
-      "company": "太平洋セメント",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHk2TlJrblFvMHRVcUhzT3o0akE4YW9kSnlYOEZzOWFUT0hkbmVmQndGdE5HYk9fbXpIQXlNdEJMcnotNmtZQUtJUnlvSkNyaTRJUWlBMWJYUkQyOUEwa3RpSEtkSWZxZTJ1M1FZUldGTF91VmZiZlJ2RFhSdnZSQXBYVTF0clVRN1pvWERZcm5NTlVyWDJHTDFTUDZ6cjdnVXZWNTF3?oc=5": {
-      "title": "製造ラインの工程、AIで改善 東芝、提供システムに追加 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRVVYam9temNid2FLaTBLSlpPRjQwR2xUMFk2QmMtU3FYM3UydTFxMzhPN081bDVpYUx3LWs3TkRtTzhxVmEyWkstcGpnbC1OMFhIWWVyakw1VURHQlppTTU3LU5IZVhZTHBhOQ?oc=5": {
-      "title": "移動スーパー専用車、トヨタ系技術結集し快走 燃費6割減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZV9DdlZpX1FrQ2dpNzNIZFBTY3U4TWdpYkhZQkJ5OHNZc1UyS3d3TDdwZVJtcFRldnkwd2hUZjlXWkdRZ1lzajFrQi15R1hORmp3Rk0wYU1OVS1zMHAtWkNhU1UwVlVJcHVz?oc=5": {
-      "title": "Hondaファン必見。歴代ウイングマークをデザインした「Honda Wing History 折りたたみコンテナボックス」楽天市場で一般開始！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RreEllV0VQenJGaU44WHUxSVlwdDJLMlhBcGkzMDNjeHZwWXBFbHhCaEc0aHBWWUxLZVVxS3REVzNpT0tkZXNkaFJGOHFWLTBmdG1HTkhKbGN6ell5cHJqdjgtUVkxYVQ4MXlEWktlS0RwNTZJRFptYUh4aTJraHVnaE1HY2J4WGtJSUVJWF9xSnNWTnVhQ1E3QXBXUnUxYm9kWGh3?oc=5": {
-      "title": "〈地域発〉北海道 西武、富良野のリゾート再生 蒸留所・MICE施設に設備投資 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaUtib19NM0RoM3huNTFqWk5tQUtSd0tXcm91ajJ4ZWVka09GS0ZrNUlQSEFiWDJwZkVvWTJ4eGJfMm14R1dTYWNEQ05waWVLckJoRndpbHY5ZEY2cUhkTmZWYWRsbzdkR2RlZQ?oc=5": {
-      "title": "「ウイスキーは地域にフィット」 西武HD会長 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-06-27T06:28:49.963531+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTVud2d0d09hREFFSFRnYlJNRk9DanhqY00zaVo5dVJmSDMwOWIyeXNYVW16dUZ5TkNkek1CNHgzOEFyZm9XeWhZMFhaaHk5SGhGU2hiM3BTVUtxMlpwZUo2QXNNS1R2TXJ6NG5wVUtWdkxleFRIUlBoS0hKS0tIcFdVZl83MzVkMzdwa0VHbVRfOEFCT2VLWndlUF9OcUstR0s5djBhRUY?oc=5": {
       "title": "インドネシアから米国輸出 太平洋セメント、需要増にらむ - 日本経済新聞",
       "company": "太平洋セメント",
@@ -2999,7 +2963,19 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-04T06:17:32.997590+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tYVM5TW4wSHNnNGQ1RGlQQ05TRFgxd2kwRVAzX3ptZmV5YnFvNDlTOUg0Z05McHlhdnNJcGhrRUFLVmdLY2YwWDhqc3F4TTdPbF9aWXZkM0tzZ2p5SThQSDNiT2p2UlZUamRXcA?oc=5": {
+      "title": "〈日経ヴェリタス〉日鉄・JFE、長期戦の電炉転換 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T10:53:15.499343+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LQ2gtM0R3RnN5bGFTQ3laN3l3TFd2aEZlRmd6Um44QXQ4MUM3akwtcXBjQnI1ZmFpMXpoYnJIZ1NvejBwMEgzZTItUDRPbDc4Q181cTNHS3IyN1dOUUFqSFY1UmpBWWJlVC1odQ?oc=5": {
+      "title": "鉄塔工事で建機自動運転 関電送配電が研究 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-04T10:53:15.499343+00:00"
     }
   },
-  "last_updated": "2026-07-04T06:17:32.997980+00:00"
+  "last_updated": "2026-07-04T10:53:15.499912+00:00"
 }

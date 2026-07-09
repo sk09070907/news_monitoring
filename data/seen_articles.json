@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MVVVMUlkxaWNkckhRVlFXRUFaZk5vOUV1ZFJEaTdYREJsOVR6VDY3VmhqaUxoekpRcTlTTnU4Z19HMk5vb09Ud2VSRUktb0psanBUSEtCLTVuUnpYNFZvYUJjVU9MNy12cG1NZw?oc=5": {
-      "title": "伊藤忠商事、オリエンタル白石を持ち分法適用会社に 0.8%追加取得 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-02T13:54:58.103394+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdThZQkh3MHBMUUR2SWp2TWRfVUFxdzhzenVFUGx2eXE3d1Y5QUUwbmFMYy0yaWtpYTQxa1Z3MVBQdG1mU2VmTjFqNGtMbVRINC1ROTZ2SHpkV0F5QmNlaExB?oc=5": {
       "title": "【三井物産G】給与労務担当 - 日経転職版",
       "company": "三井物産",
@@ -2705,7 +2699,13 @@
       "company": "東映",
       "source": "時事通信",
       "seen_at": "2026-07-09T12:07:01.985458+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LdG14V0ZJQ0Q3emo5bHpjdDExNk5tRnJiNllIOUJlTkNSNTcyYWRLY0R6Y0Rlckw5cWVzZlFsR3VfY1AtRy04NmVzQkk0eHBSNmc?oc=5": {
+      "title": "Banking Services to Become Available at NTT Docomo Shops - 時事通信ニュース",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-09T14:54:18.996122+00:00"
     }
   },
-  "last_updated": "2026-07-09T12:07:01.986052+00:00"
+  "last_updated": "2026-07-09T14:54:18.996615+00:00"
 }

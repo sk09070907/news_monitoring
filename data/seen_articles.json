@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVJXTkI2UWc3TFVfa3dDM0JwaE90d2xiLWJLMGV3YVZSeXFpRk5vLUxUazB6Y0pIVXJ5LVplZGlnOWlkY3M0TnJZb1oyX2dfb3pnM0pNLVlsbXAxVmx4MmRHR2pzS1phV2taMFRtekRneE40ZlpQLThRTGRxaDZBVW8wTjRQWjNyMlliaXRJQ3B5bXhpMm51cV9vYlBLOVo5Tm5CNTRRODU?oc=5": {
-      "title": "トヨタとダイムラー、アーチオン出資下げ 月内に2000億円規模売却 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T13:59:03.085388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNG9ZOUNLaktVeXFaN3FyelJYZXB2MU9XVXVDcENUOFJqQ1h6VkhSV1U5X05EUE52ckdUN2VzR0VjRjVSeEVmUnVxQ1E1bzFvR2xYWVZiSTZOcjBjamFoQWN5aUJITUpyc2xHSjZhaFVNN0tEUm5CODJFbE5uWlkzOHhFRDI3UGpxUmJpbGtqMy1KWmlmNXY2Ry1wRnhIbGRRdGdzTFQxOUMxaVdOZTV6NS1fdTgwczg4alhZSjBnZmRpYjI2dDJkaWVrRm0?oc=5": {
-      "title": "オリエントコーポレーション[8585]：コーポレート・ガバナンスに関する報告書 2026/07/03 2026年7月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T13:59:03.085388+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MaEZDeU5IOGc4YVBvMGZ5d2JMMXlRamZ2QnhPWVd0cGdxV3NVRmI1M3R3REpjcFNVTmtoVldKVlZxajBiMjFfckJpUHRIdmQzQlN4Nld0TEdxV2ZTb2p6bzRIa2MtMnFVS0xn?oc=5": {
       "title": "伊藤忠商事、豆蔵、CTCの3社がフィジカルAI分野で業務提携 - 時事ドットコム",
       "company": "伊藤忠商事",
@@ -2879,7 +2867,37 @@
       "company": "九州電力",
       "source": "時事通信",
       "seen_at": "2026-07-10T11:52:01.069047+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQ2tpb3J6WlozQTFkbGxhYzVVT2dSTk81OFdRd0RnVTRjelAyaVhUeDFrQzRGWUFrSW1CRmx5STl3Y093QzJTNklrUEJNdnJTMjF4RWhrVHp2Z3BEMEExcWNVcFRLWlQ5Z3c?oc=5": {
+      "title": "イオンファンタジー[4343]：2027年2月期第１四半期補足資料 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T14:21:39.250505+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW1HMDBoQm9Fb0kyYnBLZjhwTEd3aDlqRXpIS0ZyVkJUOXI4bUc0TV92LWFnc3B3RWQxWGctcDE5T18yelFIdlBNX0xLd2NNSE9XNEd3VXdERzN2MzJLekVZQ2YzbzNSX0JMLUlyVW90MkMwWmt6aFBEcWpkMWVKcmxyV21CbG5VOUFSR01IYldyb29CQVhvSVJxV1hiTjVfNXgtMWwxX18?oc=5": {
+      "title": "イオン北海道の3〜5月、税引き益36%減 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T14:21:39.250505+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WDhNd2tXT3NVaUdueVNoSUNZSGNDWFBHVTFIdFJyVVVPN0FFTzdXZzFiRnFiQU4zX0x2Zk5kaFJKRjJRRDVVekNYenpLZVAyai05S1dJWkZ0Qkxpc3YzWmF0bDJlQktNWVRPUg?oc=5": {
+      "title": "イオンファンの26年3〜5月期、純利益6.8倍 通期予想据え置き - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T14:21:39.250505+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHJoSVlUUEh2WHR5Ulp1S0F5Qm1LM08xYUZRbmF0NXdWRGpWSjFGR1p4R2NvblBVTmp4cmVSNElUeDVwT0g5Nlp4RmsxU1kyNW11VEk0ZzR4ZlhfRGd3MlZ5aDZFMTBMV2xpTS0xRjhXM2tUcElnOEpCXy1aeHNSN3Z5Tk84MWl3Sjlac1hzMXROQ096X1g4NlFRYjF5R1hPLXhpbnhnaElmYW1PMGUzSk1BWWx2YlY0S0hDOU8wTmVUeHY3LXY5RTZCbWY?oc=5": {
+      "title": "近鉄グループホールディングス[9041]：連結子会社（株式会社近鉄百貨店）の業績予想の修正に関するお知らせ 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T14:21:39.250505+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWU9MRldaWXN2dW5abWhRTGFac1ozdFUwek9MOF9mbmU4ODExeFllWWQ4aENWY1Q5cmZCQzFuTmlLaUZab3VWWkg2SUNCNWxNUHFtZ0VkMllzV0NpMDA0RjdSMXVBRVRWR1R4VUxDSWZGX1FyaHk5dTBFX3U0UEJiSk1ETkpMZFlVanEycVFNRWtmei1lZnVUSkljRTNhMmxjVWFaeFZVT2VFREJuRlFOSmxDTlNDaXVRTk9EMVRIV2VKbWR6MHdjcW9KOE8?oc=5": {
+      "title": "ジャックス[8584]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T14:21:39.250505+00:00"
     }
   },
-  "last_updated": "2026-07-10T11:52:01.069647+00:00"
+  "last_updated": "2026-07-10T14:21:39.250787+00:00"
 }

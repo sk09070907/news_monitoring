@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE4yWmdDaENDLVg5VVJ4bGx4MnRHMXRTMHI3X01rWEpyNk5RSEM4SEs1Sm5DeV9oWHVfZzllMmtQaVBkYTlzODBYQUxESFV2UnZwNGVLZ1MtQ2luUEh2ZmF2eWlNSGVhaGpzck5rNjdsZE96Zw?oc=5": {
-      "title": "NTTドコモがJALとタッグ 収益分配で異例の譲歩 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQk5DcU1FUXRQeXJYNVpjWWl1TGl0RWk3VTBiQTNNX2M1UTJOeXY3Vm1fN2JqWWhyZGUyQm1PVXUwREJLbGpuTHhaYmZ3Nm9sUW1kdkE4MXhtbWFyS0lwTmwwMWpfOVUxSjBOTzRhbWQzOHItTWZhc1ItWlI5ZUFsbi1yYmtRLXBnaFIwdENmS2FPNGxneElHVTdoejV1UW9JMXdueVRlOUtwSGd6RnVjbUt5ZDhBZThBcXNCZU5ZT1pLaEtwNXV1VG9YX2w?oc=5": {
-      "title": "日本製紙[3863]：コーポレート・ガバナンスに関する報告書 2026/07/03 2026年7月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hRzVFU1JmeWc5TDI3bmJjY1VVdEpoc0JfUk1sRk9wblpmeXJvNjdGejk1TXdhWERDYmpSRXVZTVhZTE5Kc09GbmxkUWRrRy0zU3pXelk2Vm82aVdYdFl1V0Z2NC1HU3B0alE?oc=5": {
-      "title": "イオンファンタジー[4343]：発達・知的障がいがあるお子さまとご家族のための映画鑑賞会 「あったかタイム in イオンシネマ」を８月に３劇場で開催 2026年7月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NdjdLMVQyMWsxelRyMXpSSl9Od2taSWtKQ3pGTmFPNWdsVmlKUzVMekdvVUxzZWhyaFlxRGx6ZmhXaUNDdEN1SllVOXJKNHUzc25sMkoxUnpMWEFUYzdiRGVIeVhFMDlyb3c?oc=5": {
-      "title": "イオンファンタジー[4343]：「ちきゅうのにわ」「のびっこジャンボ」「のびっこピクニック」が 最大37％オトク！『ハッピーサマー回数券』を7月10日（金）より数量限定発売！ 2026年7月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeFhxSkFFWVVpLTJpd0JOaGJLMU0zYXo1V0JGbENWOFJ5c0c3Y3FvN0s0LUdVc0d4UXM0WGRXT2Fqa2tlNHJ6R1ZGSnJYdW4zME5ITzZkcXlLbkRMX1JZSVJCUEpzYUZCSHlKSw?oc=5": {
-      "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ia3ExUTVJbjFqVEZMaDR0bjJnYWtrdHRRcllQSWQ1aUREd2dJZEx3OE54UFluNEpvMzFwN0RBVXh6VG1rSklFWDdfZ1B2cXhOUlFuaE9GUzN2ZW1BYmVvWnpuMTU5QUxqZUE?oc=5": {
-      "title": "あおぞら銀行[8304]：コーポレート・ガバナンスに関する報告書 2026/07/03 2026年7月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzd5bDBIejltNkx5TF94VmNWbmhObUpIWDd6UTZzSVFCR3F0eldWZVBUVUlDWmFyOWVBUnpxeTJoZ1A4Tk9WN243OU5keU0xTTg0ZC1jcHlEdm9nd2xfRmxfQ3FIMWpfYXZNdEpVNkM1N18tdGFiRjcyS2tFSl8yZTU0TkZiamFZdzFYQ21JcWNORDRzVk9ReU9RRHg?oc=5": {
-      "title": "株式会社あおぞら銀行 - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T02:46:53.371263+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFJPVGtQbTlydGROSjFZNW9sMHpCMUFDYWh2MXFabVlqR2U5amVUbldSRHUwSFJ5anBHakNldzhIYlVrN0dNdldIN1dPVjdGZnVRWjNvLW1EYzBEbTJkZEd2S3Roc0tJSlByaEpjQ1NpSXVybkQtUUQ4cTNWeE9sVUZvbGlLVThvdXFydWJrRzNlRndCNHNkWXRTcHQzeUgxbDU5WkRB?oc=5": {
       "title": "ブラジルでバイオメタン 三井物産、現地企業と製造 - 日本経済新聞",
       "company": "三井物産",
@@ -2711,7 +2669,67 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-07-09T22:17:50.551660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JOXBhV29seWN4V1NkNmppZXUwQ2I4V2ltNERYanFBQXVBLXhJYWxrdWRIUWdBVHZmSW56c0trc1ZhN3JaSUdCYU9LbW9YRTlqbW9rVmx1a0VtcWM1VTVKaUF1Q3dYc095TC1B?oc=5": {
+      "title": "三井物産デジタル・アセットマネジメント、「不動産STの法務解説と組成・運用実務資料集」を共同執筆 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXpTd1pjc0tIaTRoNG1YMTJ1c1pQSGFPZ0NKTmo1TmhBZzNfY3EwLVFwWGRZT3pxdUZxMXNMaXJfaWJEX0Qzb1hVSGFlb1VTOFNHQ1V6aUxWaklBZjJhZzlYeWVyZ2hrU1E?oc=5": {
+      "title": "東洋エンジニアリング[6330]：コーポレート・ガバナンスに関する報告書 2026/07/10 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東洋エンジニアリング",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RNXhsYWpyQmJFS2w0amVsbXQ2ZHZDa0RHcFRfTGx1QU1STUlkLXl5LW94cnpyZkVoVDlWelg0bnhEcXZqNDNOTVlVeE92a2F0WWVHcXpIWWVqY1piSDMzYlktT3E0QzlIeTd0RA?oc=5": {
+      "title": "「トヨタカレンダー」半世紀ぶり刷新着手 祝日勤務巡り改善求める声 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaUR5X1daX05zN2NqNHE3UE8wdHdtYVBHb0gxeFZLSGNBT1Y5NHZiR2tFSlNuQXE4UnphZm4xSER3N28wXzVWU0tTQnpIeDFEczFTOGNRYXFUdVI4cHoydkhMNGMwSW5NQWtv?oc=5": {
+      "title": "千葉の夏をマッチョが熱く盛り上げる！イオンモール 津田沼Southで筋肉紳士集団ALLOUTが「マッスルかき氷」を開催（7月18日） - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aajBYZlNEeWR6UHJCR1RDcXkyaS12YVBlS1FsWGV5MmNPamcyNUFoUWVXOU9fVlI4VGxFOFhJcFlSeXJxX0hHYW9fQi1KSGR3UzdXOWdrMEtKOXhOMDg2Q3A0RUNZajRBU0pR?oc=5": {
+      "title": "プラパ（＋％）筑紫女学園大学と連携しリチウムイオンバッテリーの適正廃棄を啓発 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRSmdFbTRhUXROLXhLbnRDUHlCQjA4bW03b1Q0czh6QjQ5Tk5pUE55SkRLUndKTkVTZElVRDk1c1ZCdW5FSUxoVEdOY2VlcEtTT3Qta2NMWEpvTkwzVTRMc0s5RWNqSWcxMWQ0?oc=5": {
+      "title": "名古屋銀行の支店へシェアサイクルサービス「HELLO CYCLING」のポート設置を開始 - 時事ドットコム",
+      "company": "名古屋銀行",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1THc5SzlWMUcxT3dhbWpybDVPRmFMUmdUdmh1a2UtMlBLaGhMb2p2a3YwVkhTbE9teHl0QnZReWNOcVdvME9mcDkySDRSVXpIdDNXVElQV1FHWFFHbUNhejktQjFwWmhSLXNr?oc=5": {
+      "title": "当社代表取締役・尾中謙文が西京銀行主催「経営者のためのAI活用セミナー」に登壇 - 時事ドットコム",
+      "company": "西京銀行",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE05b29NRTA0Qy1vajRMRm5pNUw3b0RFdTNBTTBEVXVBd3didjJ6X2tzNDBVUEdVaE1LZ1o0ZEdqbnRrRktlSURDMklQTWk5UnZXSnAwWnQzNGtWMEdRVzJJSHdPUzJSSWkzU3pB?oc=5": {
+      "title": "TOPPANとSBI XDC Network APAC、法人デジタル証明書活用によるファクタリング取引のオンライン化実証を実施 - 時事ドットコム",
+      "company": "SBIホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XQ0ptQWlqdVZIbGhFaUxENkd2X2lYcVJRTm5pbUVVQjdRVFVmcXBzSkxEcTNIMU0zLXlKN2xUcXREOVU1WUpmVF9ESkhrM09MTEdtdjFEaVUtZmticEJtTVpZMHFNbzNTVWtLNg?oc=5": {
+      "title": "三井不動産が木造ハイブリッドの物流施設、「＆forest」初弾満床（2ページ目） - 日経クロステック",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVBuR3VfVThyTXJscU9VNXdGRUlOVHpRVlZVMi1DdHF1bEZFT1pPcnpCOFNxbVZNT0xwLUhMNW1KOHNWREE0Z1VJU0tFWDdvamJ5VkQyblIwVFI3eEZ6WHNHVWdJTTFYcS1SOW5wZDZMOW44WldHODVHaUlYbl85OGdXenoxRVhrRHZQdDBaUTV3NXlLSG51MWlZRUp5TFlVcm5HeHBNRFU?oc=5": {
+      "title": "三井不動産、欧州に初の賃貸ラボ 大英図書館の再開発で9月着工 - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-10T02:50:35.328450+00:00"
     }
   },
-  "last_updated": "2026-07-09T22:17:50.552190+00:00"
+  "last_updated": "2026-07-10T02:50:35.328963+00:00"
 }

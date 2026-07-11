@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MaEZDeU5IOGc4YVBvMGZ5d2JMMXlRamZ2QnhPWVd0cGdxV3NVRmI1M3R3REpjcFNVTmtoVldKVlZxajBiMjFfckJpUHRIdmQzQlN4Nld0TEdxV2ZTb2p6bzRIa2MtMnFVS0xn?oc=5": {
-      "title": "伊藤忠商事、豆蔵、CTCの3社がフィジカルAI分野で業務提携 - 時事ドットコム",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEw2RVByTThQT0o2dHV5VXp1NlZfbVJJam1BM25HLTVHVVFXN25ndmlsY0dlanhUelJmREVIRENBVC1ZWEFGd3NlRVVHRFpMWWQ4Ykw1TTYtSzZsTTk3SkE2bzFRdnl3SzN0dU5wcHc1azhyQ3lxSXh5bTRXRkd6Q1FTWjczZENGSDh4bWVhMHpmcjJJMjd0LWtBOWdCdDZubm1FQkpn?oc=5": {
-      "title": "NTTドコモ、AI行動の「正しさ」証明 AWSなどと連携 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkk2WjV3LVZHM2FIU0V4RURoUzdUNVVCSklvY3RtZ0ZkdTM1S1dvOXA5RG5yN3RYWk1wWjFTY0prb3c3RGp5QTd6WjlkcG1jbnpZQk1lNGNkbzJ2NTJPcEREeXRDRDlLeEM0UC1nYTRRZDJ5bHVlX0hPSGsxZXMtX2dJMU94bElUOXFZX1N0eGxaY0MxUGtYcXdWUXM3TE5PMWdIY1RGMXI?oc=5": {
-      "title": "サッポロ、大阪・梅田に立ち飲みバー - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEI3Zk1RcWJwTV80YUNaVndzYUl4Y0lMT2JFLTRULTBTeFAxRnp6ZTFzbE8tcnhWdEs5cEN5RGx0OVlKZ19XVGJUUWFTbHFpbi1PTE4wSng0RGlnQVA1dkJIUGdwQl9vdEJ6eEpvRzhsVHZGQjF0OXVrbUNSbGZzM25qeWZQa2Z0QzNIZ21pb0R0dDBBOGNQVlNhTlFrdWxvYUE?oc=5": {
-      "title": "日本製鉄･JFE、長期戦の電炉転換 CO2は1/4も鉄価格4割高 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZ0TmQ3N1VsTm92a0ZTNDlKZEViaXh3WkNPTnc5M0FiOHFxX3lKOGhuZ29tTnluOWxoYUstSHljcG80Rk44UWdWRW5Jc2Y1clRqNEpyRkszOHpiZjBDMlNYb0tEWUlnN0p2d2t1OEdCTFpVM3haMS1POFBsV21lR2VMOGthU0dpQXVLX3ROandOX0F1SkxFODhabWRiWmtHZktrUE9n?oc=5": {
-      "title": "アーチオンの出資下げ トヨタ・ダイムラー 月内に2000億円規模売却 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSHBuTnBfVjVDdmVWZHdjNkZEVlFkVzJDaUtkZHlIMXNFSGJHRXNOU2prWUE2YmNIdmxtMW1rUHBUbGVuUGgxZ1cyQmdqWGVFaUtxek5EbHR0Ui1MeDVXUVI2WWlfNC1ucFc4b1NvMTdwR3UyRVI5QThDVjNoVEhfV3hDNjNOZy1NWjFEZmxOb1BFeDRSeFhtbGlFaEdGZDQ3SDhNRVRR?oc=5": {
-      "title": "KDDI、楽天に揺さぶり 回線貸し出し協業縮小浮上 ライバルに急成長で - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BWk5nMFZoWm5FY2lOSXAyWGdILVNtYTMzS1F1bHZfOXNMNTNYck5zODVaaGtjMmU4TGR1Y0k2bGxmV3BHeDFRNjZHNWVhQVlHR1lfOXRxbGxUNTltTHNJWkN4dzJnXzNWcFFv?oc=5": {
-      "title": "【楽天市場お買い物マラソン】カー用品メーカーMAXWINの夏の車内快適グッズ特集！車載扇風機・クールシートが今だけ特別価格 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-03T22:01:50.969185+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zRTg3M05kbmQxdjRHSk1jc2VoNGtrM0drc2hfQmtEZnQyQ21PSEZZRzY2cXR3eWtWMmk5V0h2a0tCYzRidGQ2YXRyU3JYOXlHVS1LQlJaXzhkd054UlUwNnprTjBRTnhreThWUg?oc=5": {
       "title": "KDDI、楽天に揺さぶり 回線貸し出し協業縮小浮上 ライバルに急成長で - 日本経済新聞",
       "company": "楽天",
@@ -2951,7 +2909,13 @@
       "company": "三井住友信託銀行",
       "source": "時事通信",
       "seen_at": "2026-07-10T21:57:09.253841+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xWEN2U21IUkJwT0d2SnBnell6aG5nTVozb0NBcGlqTlAwRTVWZTZDTUNHNHQ2Z2g0SWJkSlRrdGJ2d0wtdmFCTDFtUjdYRl9iNmNDbDNYQ09oSmNXODBTVnNSdjFRME8zazZnQw?oc=5": {
+      "title": "城崎温泉近く、ペットと宿泊 楽天ステイが開業 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-11T02:28:21.001702+00:00"
     }
   },
-  "last_updated": "2026-07-10T21:57:09.254097+00:00"
+  "last_updated": "2026-07-11T02:28:21.001994+00:00"
 }

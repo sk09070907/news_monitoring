@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE44U0ROUnptZkNJamotV2dia19qLWhfRndqcU1sTkl5czI0TmNjSFgtSkRRRDBBb0d1ejM5WDFtZlVkc3FGMHN3UU5VakxDTVpjN0RURTUtdDhKYWU4bnhsTklReFo2SzVocm00?oc=5": {
-      "title": "【MOTTERU】7/4(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-05T02:53:16.805100+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HU09FQU1KTUxGaTFGc2Jjak5PZVBpMDlGaWRoMWlGQm55R1JlRlZ6cTdsMHMxTzl2ejJwR2o0NXc5RlM2YzZWTFE3a3J0ZzhvdXpLVjNjVTUzU09MUzFSZ3hjMUlTYm40VThj?oc=5": {
       "title": "【楽天お買い物マラソン 45%OFF＋5倍P】Android16×Gemini AI【POCKAM P12PLUS】12.2インチ大画面 タブレット、T7300、12000mAh 実質27900円 - 時事ドットコム",
       "company": "楽天",
@@ -2897,7 +2891,19 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-07-12T02:33:54.603228+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTlhcGlMLXJxYnNUUkZ0WnZhc1Zwb2tRTGREb1B6aUNFQk94TXJwWW8tbzMxVE1USTJnYUJLanhtUDQ5V1huYmJ6cFBZLW12YXd4eEZwZ1BSckRBNVFiNWtFSHdycS12T1VFRUFpU1hzRDZnQUpGTWZIN1h3dTl3S1N1TExJbjZ0TzV0Vmh4NlFWRjVXaURrY1FTc2hYdEZBZE93aWZ3?oc=5": {
+      "title": "トヨタやデンソーなど、政策株4年で3分の1 持ち合い解消は最終局面 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T05:56:06.725578+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SNTRwa2hHdlgybERyYjQ1czJrd1EzWmRqUkFwNUJiYVUxVGhOQ1Rhd1VqN0xxTDhHSEwyQ1ZuVHk1TDRUakdNRzhKa1FTRVVkbXB1OHFCS3NVcmI1cGpvY2JLZkI0U1NZUlU0?oc=5": {
+      "title": "【三菱UFJ銀行】MUFGグループのタイの大手銀行Krungsriと「Japan-ASEAN Startup Business Matching Fair 2026」を共同開催 - 時事ドットコム",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "時事通信",
+      "seen_at": "2026-07-12T05:56:06.725578+00:00"
     }
   },
-  "last_updated": "2026-07-12T02:33:54.603480+00:00"
+  "last_updated": "2026-07-12T05:56:06.726096+00:00"
 }

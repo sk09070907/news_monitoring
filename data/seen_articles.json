@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnpndzh3WHRZMFZCYTJ1RWhYdGNmNzFJb1IxODhmaWYyQjRfV3EzR2FhQTdJbGIwWTRWRWJqbEhWWFVIcS0zQnZSYmJZam9rWjl0eFVnS1JHTW5JcFFNUmZEX0NBVTBkSDFad2FsQ2djd1VBaVFVVTFxbGtYckJQY1hpVjJLbkV5LTlnNzhPOF9SOXhKdVo3eHRRVmtiWENqNElZbGMxMW4?oc=5": {
-      "title": "アサヒGHDが25年12月期決算開示 今週の予定7月5日〜 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-04T21:53:55.324300+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTJEUGkwc01LemN6Rmw5bHFDeUxLWWxON05QM3ZTYWpiLS0tU0s3NUY3dVlyUmdONXdqS0gyRldfRW9ncm00VnRUQXp2dENDSV9XWVAyTXI5eTBoMWJqNHV0YlNtM01EbU9GVkdzVXVRdWpzTmxsR0E0cXNCdG92MW9DTkg3Yk1qeWNRQWFJV3pWWkdmbzBvUw?oc=5": {
-      "title": "「東芝傘下なら今のキオクシアはない」 ベイン日本代表・杉本勇次氏 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-04T21:53:55.324300+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZ3V0X1FGVlc2OHdGMG53M0x0Tk16ZDR1c1dqUkItdWttSWhsdE83bThXLVhyYVRYYWtjMzhHOUdwaXJUVURYTEpNNm1Ra3hzeEJSajJ5ZEVRXzBkb0dsWTRRSkdTSTV5dXVGSw?oc=5": {
-      "title": "冷感グッズで酷暑日攻略、アイスハット注目 楽天市場がトレンド予測 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-04T21:53:55.324300+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yc1BCT2RQZmpqY1JoNjNHZ3dOYUR5bEdBTjdmSndSUVBINXJ6bWxtdlBVTUJvUGVOV1FkM0lXY25VdnhycVZwNGthZEFYLWpzSm5pOTZqZXM0YXpzODU4NFdBYzVma0hMNXA3dA?oc=5": {
-      "title": "イオンがサーモンづくし、新総菜ポキや1尾丸ごと チリ産も空輸 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-04T21:53:55.324300+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE44U0ROUnptZkNJamotV2dia19qLWhfRndqcU1sTkl5czI0TmNjSFgtSkRRRDBBb0d1ejM5WDFtZlVkc3FGMHN3UU5VakxDTVpjN0RURTUtdDhKYWU4bnhsTklReFo2SzVocm00?oc=5": {
       "title": "【MOTTERU】7/4(土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
       "company": "楽天",
@@ -2915,7 +2891,13 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-07-11T21:43:23.742696+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHpPbU4wM2JXZ18tc3NNZmRXejlXMFhGYlNPbGYxZTZxOERmU2I2cnVoZGw0aW5QYzBMbG9xSE1MbmEtdUtyZUE1bktsLWhwVF9JLTJ0WGNqSU14MGZGelJvd1RkSkl5akRnOUNwLVQ5NWtoQlJDVGFRcnVOWm1PYWdNRjdnbjkxOXN1WEdOdHhqMm9XdTJZdlpoamhiZWtEZU5UTW5ReHA2dw?oc=5": {
+      "title": "トヨタやデンソーなど、政策株4年で3分の1 持ち合い解消は最終局面 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T02:33:54.603228+00:00"
     }
   },
-  "last_updated": "2026-07-11T21:43:23.742947+00:00"
+  "last_updated": "2026-07-12T02:33:54.603480+00:00"
 }

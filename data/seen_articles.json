@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HU09FQU1KTUxGaTFGc2Jjak5PZVBpMDlGaWRoMWlGQm55R1JlRlZ6cTdsMHMxTzl2ejJwR2o0NXc5RlM2YzZWTFE3a3J0ZzhvdXpLVjNjVTUzU09MUzFSZ3hjMUlTYm40VThj?oc=5": {
-      "title": "【楽天お買い物マラソン 45%OFF＋5倍P】Android16×Gemini AI【POCKAM P12PLUS】12.2インチ大画面 タブレット、T7300、12000mAh 実質27900円 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-05T13:26:33.369810+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McnpEUmtPckVlRjhzcDFUeTIwbVprc0xPdE9Id2drUUR6bGZJOUx6VHhjU0tTakxUODFOTS1NM1pQaEJqR2wwY3RDWXFfX1dIUF85OTBsQXlxVGZpczJtaHhOSk5oWkE?oc=5": {
       "title": "NTT、「ネイチャーポジティブ」事業に参入 AI駆使し森林保全の調査コスト半減も - 日経ビジネス電子版",
       "company": "NTT",
@@ -2903,7 +2897,67 @@
       "company": "三菱UFJフィナンシャル・グループ",
       "source": "時事通信",
       "seen_at": "2026-07-12T05:56:06.725578+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1FobXpXYUxNalRKUzgxR05sNUhvUzliUnAwbWNWVzRYeXpoLVh0QzQyZ1doX2xPTWtxV0g3RjZJbmFHd19KWTMydFlnU05NWlp4Zlpkd3V1SUROSTNvVmh2eENBQTY5MDhpRm80MGJlRUdaYTBweDdYU01YNVJYVFF1Zw?oc=5": {
+      "title": "サッポロがカールスバーグと合弁会社 鬼門の海外事業で攻勢かける - 日経クロストレンド",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xWUl5dEVCdTRTcmJEWldfNnc2SWUwSklaRWo2bi13UVV0Rzc0YTZLUk5ReXJhRVNCT0Q3UWZFX2Y4UXpReXFwaXNfTm12TTlCZ3dWM3lKZ0NsMnNqUk54UmJrckp1dE83MEJ0R0hIclNDM3lHb1NPZWRHNGJJUQ?oc=5": {
+      "title": "アサヒ、時価総額でキリンが追撃 資本政策がトップ維持のカギ - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHc4eWQ0ZUpXQndHRjBhQnp5Nms4Z1FIUnNLaFphUVF3bEM1dkxzc0puYXVFeUhZcEt3c1ZPeEhsY3ZkUEVRU1ZWS2V2OGlSWDVYM2RuWGFJdEpWTWExMnNoenhRVDZfNWJxU1ItbDluRGFXUDhENzdrZzlpdnFHbXhGLVBWSzYyYTl6QzlOa0F3TGxELURKXzhB?oc=5": {
+      "title": "サイバー攻撃の損失を新たに28社が計上、アサヒらの影響で総額は236億円に - 日経クロステック",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX296V1cxOHJOODdBTXpoNHJWUVB5ZVZXSmtlc2U1a1RJSlR5elEtQ05xcFhqeW1TZ1FZYTRtRjJZV3NnOXc3bEhmT1NGd2pxYXR3SW9WZjZRci1vT2JfOTVBNXI0Rkg0NWl2ek9FY3k4NUdhTmN2SGRwaXg3cFE1aEJOXzQzV2s?oc=5": {
+      "title": "三井化学社長「背中見て学べ」はもう限界 暗黙知をAIへ - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWk5VeDl0bTVVcWNwbkE3OFpWR25LeTU5X1RyZzlRVWc0aUhlTGVHMGp1TnZ3ZzhYdnN4Tm1wTkczU1NQdUk0OXNXYm5QX1kyVTRYUmNNajVRRmNTWTNWMGg5ZFBmYXRZLVBhZ0E2ZXc0UGoyZlhOV1J0X19kUjQ?oc=5": {
+      "title": "ヨロズ社長の学び 生産改善｢トヨタは全員参加型｣ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2NyVVQwQkotcF9jZldWLVIxdU0tUWVfbnR5X1VMdm1FZUl5Z0tYRG51eW1OVjRnc1RhUU1CQ3hSeVQ5NVQxUkl3am1sTnBPWWQySkpvWFZRRXF5X3JaMkFZdFBMUWNXcGpxZUJBQ3dOU081UUxpNFZQeGJDY1Q4VWtlRjZDbDRackQ5ZUs3a0N1SEEwdmw2YUNKTUV1ZEFNVW1PdjBGRnM?oc=5": {
+      "title": "日本車、中身は中国車の現実 トヨタやホンダが学ぶ安く速いものづくり - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzV3SzhTNlFuT3J3TlJ4VkdxT0VXaEVBWm5nb003Z05GR25wZFhsZHVOZ3FzNjFIeGJrRDd3V1huX0M1RkJ3TkhZVVZseFR6bFl5VGZmdzVNQU9DRFVic3hQM25xWkk2WlpTMzFxalNNWktKeS1nbm9KTEFPYTR1N0dPa28zLUk?oc=5": {
+      "title": "NIMS、電池正極材料からLi選択的回収 他イオン混入抑制 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JblhsUGd3b3F1bC1SMlZUUlV0aUpKbWdVbVhYdmZaWFFRczNRelE1YlhydnMtNVZKSzF2QlgzT0pJSHJoWjJnb3VTUjUtTXdrTi1xNDJfYlZlVmI5UlN2YmFDWnhVUmpIcXJJVktuaGdMYUJuRUhV?oc=5": {
+      "title": "関西電力、原子力発電のPPA データセンター需要見込む - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DWnJfbDlkMW16RE9GV3hWaXRkRmNVV2xrUjV1TjBUWERPdGd6MjRtZTNZWkp5T0hCWDNxWjhIYk9aU2ZWUDhHSFF1NFlsMXlVYm5QLXFweFZMVFFYenJ3ejBlcXJNVjhKZ0Q5eg?oc=5": {
+      "title": "中部電力が「水を張らない田んぼ」 稲作を省力化、農地集約後押し - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmYtVnJkVGlpektLYVlINDA5bWpGbi00T0RLUC1RbjdEUmx6LXNfbXA0dzR2Y0t0dmZURXhZck1KV0FyQTZTeklrTU1DZ2Z1amlIWW5zNFA1TlltTFpwdzQ3RGxMRU00WHJJRVVjeXpMWktwWURsb2pKeUxyaDFlRE1jVjQ1aXhPLVIzR0VaaWE3Ty1MV3F4UENIa2ZMTHZaQk9kQVpTOVY?oc=5": {
+      "title": "中部電力が「水を張らない田んぼ」 稲作を省力化、農地集約後押し - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-12T21:43:49.884570+00:00"
     }
   },
-  "last_updated": "2026-07-12T13:15:05.819223+00:00"
+  "last_updated": "2026-07-12T21:43:49.885154+00:00"
 }

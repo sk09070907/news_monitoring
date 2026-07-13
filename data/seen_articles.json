@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDa2lCSXlFbGU0RXJGMU4xN1RMUkFHSW1ZaVd5amZjQTlCR1RnSG12RFBDbkJ6ZXVDNXVUOTQ0NExILUp1UHZ1M1VYQzZEdi1XUVdhWm5vNmF0S0JJ?oc=5": {
-      "title": "NTTドコモビジネスが分散GPUを素早く試す実証環境を提供、IOWN APNで接続 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDVfYkgzcWo5TlY2TER2VF9Nc3hTbFkyUXl3dWFtWHY4bFJSd3J0b3dRcHJNVWRCVjVLc3BEVWlzSmp5N2h0YU8xaXpEQ3FrVm5GYU83Ym9LU3owenBjRmxZaFdZREJZZXExMDI5UW5RTjl2Tm9Yd2R2MVpvV2pfOU5YN1dOQnZVczVyeXcySmQyc1NyYTJvSkZpbC1LUGVKN1E?oc=5": {
-      "title": "サッポロ、カールスバーグ東南ア事業に1029億円出資 現地で合弁 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53LVVwWXNRb1hLQjN2dlZMRDZ2ZUJwWGpCNkNZd08zYUhtb1dvR3VhUnBQVWlrbk9xeEVWNmlPQ1o5OFlGRlR3MTlDTG9BMkU1d25IazMycFBrU09YNnJCc0I2SEtMYWJSZGxQZA?oc=5": {
-      "title": "カールスバーグと合弁「エビス輸出の可能性も」 サッポロ記者会見 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmlYb1M3X253NVVnckpEYV84M2hDclpZb2ZaZUprZ2pmakllMWhQVGw1QTdfaGtqaGhrc3hmbGdrZ1F5OWlUX2pjUmRJazlFRzZadnZzRW91ellxRzY5OGNKTmxEc2NhcWpsUXJGalY1U2JicTFnTDdudDV5TGtxaHhUTmRReU0yeVdGZjdxaGZ2VFN4RXdOWTV1Wng4amlTTWtUdmtybUo?oc=5": {
-      "title": "アーチオン、株式売り出し発表 トヨタとダイムラーが最大9億株売却 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWhMMkw4UjBCeC1DbHdXTEJKU3BlZXk0ZGhSVmRrYkZuNDl3QWVDTXZBU3dYS21BWXVZaHBLMG0yVmt0aE8yT1NrZFY2b1hkR2RCQm1zOVhTRmxCWUJhT3FQN25jUlU4YmlwbDlQb3h3dVQzbjUxRWNhMnVKYVBVT2lITGhwT3Q0YVlKbmhHMnlOT3RmejB5WGlOTmNNZmVmMFE?oc=5": {
-      "title": "ARCHION株価反落 トヨタと独ダイムラーが株売り出し正式発表 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Wk5WQ3VMZzZHeFJlVWU1ZGJqNG1kcjhpSVJud0taM052X3QzMGlhcEJ3TjFBanh0d3Y1c1lYVzI5aVk2NF91cm96a2hQY2tCalpGaGNBMGxsRlY1WTJmRE15M2dKMDFmQ0E?oc=5": {
-      "title": "アイシン[7259]：自己株式の取得状況に関するお知らせ 2026年7月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdHZ3X2RsbDZ1LWJac2ZjdjByUkFmVVZsTU1ub3VkSlZCRS1SdmlsN1FPMkpGZ0RrSjNhVVotOVB0a0o5VWZiZ3l0cnhRR2lFdWxkOHpUUklGTkZyb1V6M3JCcTVHc3ZFVmdOdA?oc=5": {
-      "title": "北海道石狩市、三菱UFJ銀行とGX・DXで連携協定 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazdGQjRSTTRqWFFac0pqcTNQYlVnT204YUZrQzU2WWxzRHRTaTNqVlBxWU14VmdXWVVZNjFfSVB1Vkw4ei14dnpUelgzYVFUZGY0bWlfNzlkVm9YTkpQMWtBbHVrV2VDVGxUR3E0WV82LUxPLUNKd0o2SjVuVXdyMnR0VlA5eWwxMWtVUVBtc1N4RjVsMUJFRm1za0xNWC1FQUV6bm5FbHlEUQ?oc=5": {
-      "title": "日本生命、九州電力・九電みらいエナジーと連携し風力発電を用いたオフサイトコーポレートPPAを導入 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ0tOSE9rMUlpV3dYeXEwYXNjRVB4bHVFZVg4aTBsTFdiY2RBYkMya3Q5ZVQ0cEk1QnB0c1RsTjVrV1Y5NWNsMmhvbVpLaUlDRUp0ci1xUno2ZG5lSWpkTFRZajdKQUswdXJMQWxMTkg1QWFjY2RjV1BIcUNtSFRncHVTNGxpeU91blpmek5qN0U?oc=5": {
-      "title": "三菱UFJとJCB、東南アジアで「富裕層向けクレカ」 日本に誘客狙う - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-06T15:28:15.236864+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2I5b1AyZndCclhwOGUxUjVId18zMTRveDVGVEhuOGlMakkyTy1JUHp3M3Z4RmNPcmVpRGM2aW16OHNDZEFsT3ozRUUyTkpWdHdyY1Z2ZVlBSVRkNFcxRk80SXl3Q1N0X0dUSkpEVDNPbWFQRi1SdnVZOUtNMFdhTGxlbjl2UlZfS1MweUhsWS13ZVloMkJVVEJ2alY2NDN0ZGs2ZUdR?oc=5": {
       "title": "NTT西、光ファイバーで鉄道保守 線路沿いから異常検知 作業員の不足に対応 - 日本経済新聞",
       "company": "NTT",
@@ -2921,7 +2867,85 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-07-13T12:02:03.220184+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0VhU1BUeklhQjcxMHpFNDFIazVvd3hBM21TUHd0VUJKU3Nrc2FUclNhMXdkaUJfbEo2VUNfNDNxNF9PeUg4TEJhcnpGNUpxel9LNUpNdWt4aUtNR1dOckJFMkd3cHJDSk9VQlNJOVdJQUNPX1lXZVhjX2p6aklMbWhQNm05UVpHejN5STVkT3hSaTFzaDR3a3FybGhTOFZDTUxfMGJ3?oc=5": {
+      "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWU1DNkJ5SGNZNTVYX3lRaTlzVVQwVlZURmhkSlBVSkpsbnRBM19HR0M3Tkp0c21nN2wwc29vMGl4ZXFuSFJvYktWQWN5ZW5ORThDRDZ3SG8xZGphS042RlVacEIweUljOHNoVHdYWFFVcHB2THB2c3ZBbWE0Zw?oc=5": {
+      "title": "NTTにNVIDIA…光電融合がカギ握るAI時代の省電力 実用化へ競争激化 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVThqQlhvb3ZYQjI2S2Q1NzNGdHllM2x3LVZQZVU2Y2NxMjRVWmVxV3BYWmx3LXhmV3VSQTVnNmM1NUJPRWFMY1JKYkZkanlnX3lORDItdF9tekdkdWFObVNUS0FZN1hlQUdDNi1aWjcwV09pSlBicGx4enA1dnVlUzFIeV9Qam01OVVtRkZ6LU01RnA5RlZ3enVR?oc=5": {
+      "title": "アサヒなど被害企業20社超の再発防止策を分析、レジリエンス重視が鮮明に - 日経クロステック",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkZwNldIQ3RDOWhCcHNxc2ZqYWFWQnB2Y09XUHFGVVZ2U2tGYXNuUDNSZUtWY1NwQ25qRTJOQ0dReEVHaXhKZHZiV3phOXI0dmVFQVZZa3ZGSkhJMVhseDVXSGM3WUZ6YjBWdnBCRWVXZzJ4WG9Md1EweXF0MUJIQTdUbkFQMUk?oc=5": {
+      "title": "ホルムズ危機を聞く 三井化学、バイオ・省プラの重要度 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdS1lVjE2NHd4REw2aEF3OUxsMmFLYTdHSlNRZzlpekVkVXR3UjB5WUNZWThNc1VSVWExV0luOUZvYXVEN2V6S3lHWHMybFNTaHUwWENmR1NwdVRNa1pGMWxZbjRJbUlFZHdZaC1naGFScTBTRmoyR0x6RlRJNk52QVhHYUpmemN6Tmpoamk5bEhFV0M4cEk4XzhGVWFQRXNRUUZ4YXg0N24?oc=5": {
+      "title": "ENEOS・出光・コスモ、原油タンカー全て通過 ホルムズ海峡 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMWFfeDB3X21iVXNxQUFjT1ZsVEFxME1ENkVnbnU2OWtGY1N1a3hJYXdKV1IzQmpDU0RpdFpYSU0wOTA2LVhDSERnNk1wY0htdllJbEpBSVhPSkhyY25DSmlfZUFYbVNqUUlaWlZsRk9YZw?oc=5": {
+      "title": "トヨタ、「プロボノ」でエンゲージメント向上 福祉車両運転のボランティア - NIKKEIリスキリング",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzUzR3VjRHVrNWpNbGpRQXdKYnVZNnJYZnJrM1k1cktYd01jRHIwZFNaNm1kcnRaNkt6RndQcEhHX25SSlcxeGtYM3d4bjBYS0xuU2xKN1BOQlhOcTN0RUM5bXFCcEdXWl9sckExR2hsdThXU092UjdRRnc0Y3U3Vkg2eHFKcmQ1cU9tR1dvYjlTY3dPS2Rocy1rWDlTal9xbDRyYWU2UUs?oc=5": {
+      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNmVIeWlpUlRyMTZJeFNlcDRvd080YzZTaEk5cVZsQUptQThsUHNaM3U1N3hnVXJ3WUFSMnlicTNGWWVzb2h6aFVvUjROcHZndVJ3dXNZVHhLTUc5SjdaVnF3WnVQR1pQOHNjWg?oc=5": {
+      "title": "熊本で「自然資本」の民間国際会議 ソニーやイオンが生物多様性を議論 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2FNeFdsQ3ZyczNKQWdXX21nTVN2Wk5YZlByMkNDZk1abnhfLWtQX1F0UlUxbGh0eWRDeld0ZXAtU2lTcUtMbnYwX0ZKV2tnS3hLVjhVY0tHYWsyU2pPQVhTN09HVGVKeklMLTMxM21OeldpY2VjRklPNlJaZi1aeXU5d3p6cmVZeTVGeVJCZHktRDJycG5aa2toaHJsaFNNMkx0MDR3MHQ?oc=5": {
+      "title": "熊本で「自然資本」の民間国際会議 ソニーやイオンが生物多様性を議論 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kT2lEOWRMWlpYdldiTDRUcEJ3OFhUUk8wY25kUmZjbmlldnVUcXY1M0luVEtEczV4V2NOT1RVTWhFeXl5X3ZqZHQwUFd6QUpJeFV0M0lBMkttckxjd0szX3JpQ2ZtOExXMXRiaA?oc=5": {
+      "title": "京都中央信用金庫、本店ロビーで狂言会 250人が鑑賞 - 日本経済新聞",
+      "company": "京都中央信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjh1ajBLS19Md0tPbU4yeTgwbjJvZ21FSGxaRUJTbmx4WGhFSEJvY3ZGQzg4WjNnRW1BN3lXaDhTeTNrUnhGRTdSTHRteDVUSVU3LVAwSXRMRkxnTGVMY0Q5OVRUTjJBYm43WG5MUkVhZzg5bDVSODJEdDNoZkp5Vjd6MGF1TjBXMDFfOS13SXVlNElONjJGLVJGUXpNUVBxUU8yWlBfWnQ?oc=5": {
+      "title": "SBI、利用者のステーブルコインを借り受け3%「利払い」 国内初 仮想通貨などで運用 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnNWZGxkSmVqaXAtNExCS1Awa21ydEtxc0h3NGg5bEd1dzdqdlJncnhzeVpUQzZGT1V1WVpjSGd4dmZMSHR1cmRZLXdKNkFoYmpaQjFPMFE2c283MGlFdEJDZC15SFBtbFd3ejRMakpfZzY0eTQ1QXBVeXdWc2llSUtscHRvdjZ1VEV0UTVWaUxLdHpaTU1wVXlOYlhKR2Nrak1yRGRLT0k?oc=5": {
+      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbjN6dC0xVVV6TmxxQmEwTlBPSTB2bmJWZDV6T2VyUDgtSmREcVBpQjRYS1dGcmMtUXNxcHNEbkd6RjRGbURoMlE4Z1FDZ2t1cUNtOThpRG1rSTNOdXlZSlhsM093OExzX19jWA?oc=5": {
+      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-13T21:52:09.629107+00:00"
     }
   },
-  "last_updated": "2026-07-13T12:02:03.220763+00:00"
+  "last_updated": "2026-07-13T21:52:09.629644+00:00"
 }

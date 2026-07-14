@@ -1,125 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UOFBMZmpybDJOVW1PMkJaV01FQjAwdTNIVjh3MENDZEtxTTVlajlxVElVREhJcjZaZWJOdDJTN3FZUnpmeUhNWDROZGZoMXB4YUpNU0pYT2JWRG1GclQyZnl3eEV3dS00eEkw?oc=5": {
-      "title": "住友商事のCVCが、遠隔業務に必要な映像・操作・制御を統合した「現場OS」を展開する株式会社ジザイエへ出資 - 時事ドットコム",
-      "company": "住友商事",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iWkhpVk00alJad3NHQ0V1SDNmRmsxY3JZdGJsWDFKY1VQdGJrS25iRlMwbG1lX1NwUkdLTy14WWU1dENxOEhDNU9xY0ROSTVlY2F4SjdJbXBmeFExN1V0aDJlcTI0WjJiMFY4?oc=5": {
-      "title": "滋賀県・NTT西日本株式会社・株式会社REXEVによる 「公用車を活用したEVカーシェアリング実証事業」を開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fa28yMWFQOWFqYjVuVkszNmhrOXlUdVlzdnZUR0hqUk4tV2xIczUxNWdlenVsMzhSYk53NzBDVU9xbVU1TkRsVjlHN3paRFNfeVhPcldVWFlWcmFDdFp4NjV0X1YwZHdTME1kQQ?oc=5": {
-      "title": "日本製鋼所、2029年3月期の売上高4000億円に上方修正 防衛好調で - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oQnRGbVR3NG1EcmsxOE9iaU91dmpWTUlwR2NyOGF2S2RrLUdoYklrb0hKbk9VdTRRSk5TOFc5T0Y3Y1VpT014aDFKOGFkVS0yTzZlRldlTmVVYkpDVGw2b2MzWWw0b0JYaW5qVw?oc=5": {
-      "title": "三菱ケミカル・日本製鋼所、次世代パワー半導体材料の生産能力5割増 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWhyM0V1cTBSdFRuS2lMbW43eXVjc3RsZ0dBaE1IVEhaMnZOTnl5YXIzd183WTd3U2RVRU94emhyd2lIa0hZV09QX2JWel9MMWNvQldxMDU5OVQxUnVWUFVKOWhNSXktUFdzZUw1TGZHc0ozSHI2QllqQWl4MktpM0pIOWxNWUxvR1BGUzRzNVFlSF9fRXNSLWUySThrZzR2RmZmNzFhLUI?oc=5": {
-      "title": "愛知県豊田市、EV電池で蓄電システム トヨタや中部電力系と連携 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nazY4Q3FBSmNQdk1Sc3UwNTJMNGNtTGo2VFZ1OXhaTHhhcy0zdmZONkpuamltUGcyS2o0WHN0cE5IYnAwV0ZhZEN5YzgtcUk5aE9COHhGVVFScVJrcktrRGFkdWNtdm81T2JxQw?oc=5": {
-      "title": "楽天市場、AI検索サービスに新機能 最大4つの商品比較 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cGJnNEZFY3NBalVuNU5QcHl1TW40UFlPS1ZLYi0weE5PZENmX2R2X19PcllTU1RjNVJMUVU5SDdHY3VtT0R1TzZuTjR2RWFIeHVTdWRtVFhPVmUwTEtfZldLeXFmZm5jQ1RNXw?oc=5": {
-      "title": "楽天ステイ、兵庫・城崎温泉近くにペット可の宿 訪日客需要も狙う - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlhjTVExeTREZkdMV2t5U05welJta1VSRUVjanhNVi1nVDNSdjl1WkZ3WkdLRk1mTVlzTklaRTJyMkFadEVpWGZVUDI4M3BfaWNVSlNyM2ROYlJjR2NwQXdKTFNMUXg5YlNCNlFBVE1mQ1U0czVBeF9vUUpkeThMUFMxR0p1QXpmaEc2cHFhR0NDTnh0LW5aSUVXRmtvd1h1YzRha1pFZ0E?oc=5": {
-      "title": "楽天ステイ、兵庫・城崎近くでペット可の宿泊施設 同伴旅ら取り込み - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1teWU5V0tYVG50T1B2bG1vWktZeVotNVlFU0JSV2xUcXg5a09pcUJya0FiNXFjT1dNdmV4NTlJdElIS0lVNnpINjROR2dOZ280bjRpQ191ZTRqek9ocnRyM2pNTjBhdnRZQWs0?oc=5": {
-      "title": "【イオン限定】おでかけも映画もウッディやバズと一緒に！「トイ・ストーリー」シリーズをデザインしたＴシャツが新登場 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yLVV0VUVuaVRGRXhEbjM0UXdOMGFueHRKZFRqWFBtT2lleE5RcVQyVGdYSmVNQzYzTDcwRkE2WnptV3dCMk5relptUU5MbXNZeWwyR0Fad1VRV1BBeWg2UWxqTTJZaGpjU2k0?oc=5": {
-      "title": "「築地食堂 源ちゃん」富山県初出店、イオンモール高岡にオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE84Vy1NakdsNUVLWTQ5c0ZUdGlrSDM0OUc4dkhtOG9WOXZ0LXo2SE1mT0wySnZLMU5BbVNWT3ZPb0ZJN1llakRPYjZfcjZILTBPeGJJN0NzNFlTcDViUnNMLTR0a3lXYXRjbmpJ?oc=5": {
-      "title": "GINZALoveLove、イオンモール浜松市野にて催事を開催：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xcG4zM3BoVkVzbzhoRV90QkdBQXVvTXppa2dVUS1JVE1oVjBTbnR1RTB3dEFkZGpHR0RkTUY3TFRJZXU1UlZUSjVaYlNtZDU5RVdVXzhNZkszMkV0T2xEUFZQOUJZMXNMdURr?oc=5": {
-      "title": "【JAF東京】親子で楽しく交通安全を学ぼう！イオンモール日の出で交通安全イベントを開催 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXYVQzUG94SF9wZjBPaHJPOWZUdjZlOWVQSm43NlNueVhoU1BScUhHX1JsZXBJX001QXlSVDlMUE11R2prSWVacDNac3VXeDQxWFBSQTcwbm5jNlZyWUtRNnpjY3FHN3BSbVBCVw?oc=5": {
-      "title": "商船三井社長、業績影響は「限定的」 ホルムズ正常化で輸送再開へ - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aNTREZVNJdzN4YTR1bXBmcThNTXoycS1ITHNXbXpocnBpUWdsVFgwSmtwSFNraFp1VGwwOVpwbHJEQzROZElYUUhkc0FvcXdnRk5hNnMwU2JoVkxsYjg5NU1IZUxoNVVlNmJHSA?oc=5": {
-      "title": "三井住友信託銀行、NZのインフラ投資運用モリソンに出資 - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sSHBTMnhTTGRIMEpab3phMF9YZUUwYUx1ZlNSSWVwRHk5Z1JicTgtajJUN0t0OEx0SFc0YWx5by1tdHc1YzFta1VOQXZ0ZXBreHNXTQ?oc=5": {
-      "title": "◎野村ＨＤ、オリィ研究所と協業 - 時事通信ニュース",
-      "company": "野村ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE52OGVieHQ2cFVBdGdCS1RiUlR0RXc4c0FRR2FyeGRQSmFya3dlamotUjJibC1TV2Z6aUZ2bDctcU44VWZEX0FmalE5MEVGYXB1dk1leW9nVzlCS2tEc1BRYkFQN0dlSXRHakF1RA?oc=5": {
-      "title": "野村ホールディングス[8604]：変更報告書（特例対象株券等） 提出者：野村ホールディングス株式会社：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCME9GZ3ZhV2pzQjZVNmhFcjNTeGo0ZWN4cnhiV2lSVHNJQ2RDWi1yU243NnphMzlNellZbmtyMk9HSUtqQ2xvOGVzUmpIbklNUndiZkZWU214QXZaZXJJZzZsazdnWEREN0w3Nw?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：大量保有報告書 提出者：ＳＢＩホールディングス株式会社：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZHOWRIcEFfWFlSVDlyVXZ0ejlqZFktS19zVHJ5cFJWQzBYYVd4NUZtTUFDY3NlcTQ0Y29LRTh3QmduMkxiVEtZb1U0WFgtNTN4UjZNdjZFcGdjS0xYYmdVUFBwaTF1UFprOTE1b2hzNGtFODVqUWF4SFlfZ25JMzhCeVZkXzhZZncwV0RFMGVDWU5PUG80NHBMejJ1ekYwRUJQWnNDazE?oc=5": {
-      "title": "SBIと大和証券、デジタル証券で対日投資促す 低コストの決済可能に - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kWWk2NzZpMk1kQ1hCYmR4Y0JnX285S3pWbVpkem9USzI1RElTdjh2RWswT1U5Z093emwwalFyLVRxUDBsQ2JMbUdXSUt0NFNlc01oOHN4WlpBRloyYlY1VFJORUNCdnlHbWU0?oc=5": {
-      "title": "クレディセゾンとVisa、Adoの世界観を反映したオリジナルカードデザイン「SAISON CARD Digital＜Ado＞」の募集を開始 - 時事ドットコム",
-      "company": "クレディセゾン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWMzb200S182cVhwWi1nblg3b1Y3T3NRLWVPaERHRHpFQjZ3Z3MwZXhYWmpabVV1VXdyWTA0d0FNdjdIRnpNaVlhNjFvS1RSbXh6VFJFLVpVWGRRdVN1a00tQWFvRmFtYzZVdS14TEc2SmZHMlhWSGNWVFowQ0s1VnVILUYxdGJGYU1DcFdhUW0zUC1NWm1RYWdGbV91bTJxeVNtMTVR?oc=5": {
-      "title": "三井不動産、木造採用の物流施設 神奈川県に1号物件 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T11:48:59.347736+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XSTVsdzZEbjlqQ1FoU2JTSF9qR3VVbEFGYVgxVUI0ZGRkbUkyV3RWcWpidnpiOGZuM2RjTk9BNkxZcG5MYlZQVzN6eWhQaTdzN1lXNGpfMGxxUk1adzBORWdUUUVlWnRVQUR2Qw?oc=5": {
       "title": "NTTデータ、先端AIで企業向けサイバー対策 ソフト脆弱性を診断 - 日本経済新聞",
       "company": "NTT",
@@ -2909,7 +2789,19 @@
       "company": "東京センチュリー",
       "source": "日本経済新聞",
       "seen_at": "2026-07-14T10:43:49.613570+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdWRvdVdhdXUtZVB1NG5lQ2xWOGNLdzlZNlhOS0tWaGdBTm1WblM3WlZXOV9hcG1GRTdlMHBGczRpRlZ1NE95UHBjQVRsZmpjTVNRZ0tNMEZmTnhOQ09hVGJUY3ZwcDhOSWc?oc=5": {
+      "title": "三井化学 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T13:29:25.886447+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhZN01VcVg4c0pDXzRrRm1HNDl5Y1d0VFlfd1lkSkZQanVKLW1QWnEzWjNfUnp4TUJPRy1rV0UtUjJ2cDNHR0NMY1NxMGx6M01BQ2tfeWtwLWVVeUctU1ZmYVdIV2l1bTBuR3h2SHFNYzdEeUJWZ2xNMnZTeF9oZ2JOLXlqdDBwZURIV2pGb1ZaMGprTFRHS0p6eW8?oc=5": {
+      "title": "東京センチュリー株式会社 - 日本経済新聞",
+      "company": "東京センチュリー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T13:29:25.886447+00:00"
     }
   },
-  "last_updated": "2026-07-14T10:43:49.613822+00:00"
+  "last_updated": "2026-07-14T13:29:25.886882+00:00"
 }

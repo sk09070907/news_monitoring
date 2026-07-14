@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XSTVsdzZEbjlqQ1FoU2JTSF9qR3VVbEFGYVgxVUI0ZGRkbUkyV3RWcWpidnpiOGZuM2RjTk9BNkxZcG5MYlZQVzN6eWhQaTdzN1lXNGpfMGxxUk1adzBORWdUUUVlWnRVQUR2Qw?oc=5": {
-      "title": "NTTデータ、先端AIで企業向けサイバー対策 ソフト脆弱性を診断 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03ZUo5R2szOGwzc0tXLVp1UWdYdlNsLTFzdUxPQ1drWVRTMWpsZzZUVlBCeGJBajlTU2ZRMUJ5THBSR0lQT1puRXIxb1VVd1dndFIzMVpHS1lmRXBMYXc2WUJYbUJieXJ3YkdXRQ?oc=5": {
-      "title": "滋賀県やNTT西日本、公用EVをカーシェア 土日祝日に貸し出し - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zc0RVMG51Unh4MnN6VGNCd2w2azhkcHZQd3pkS09HcXQwM3ZYT2FuMGhJRUNxbjZaakVYZlhjanhNc082RWZIY1Jxa1AtRktxTW5Mek1qWG9hTzhLWVpQdXlPYmxTeFdMWGNVSg?oc=5": {
-      "title": "NTTデータとNTTドコモビジネス、フロンティアAIを活用したサイバーリスク対応サービスを提供開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbTZNa0JxUkR0RjJ4eXQ2UFNWR0FnSnJBYW1vUVc1czhtakFLSWZQZzlhLTZiS0ZGMThmZjZxNDFoNnBuakE4Tm1sbHh4WEZkaUJDN2IzQWFndHFGd0tHYi1qRFp6NVlUYjMxaQ?oc=5": {
-      "title": "滋賀県・NTT西日本・REXEV、「公用車を活用したEVカーシェアリング実証事業」を開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHd5bkZoZ21ycXBqYjhKazVabU1oS2pwZmM5Z1V1azJHQlo4ZjNNekhmcS1ReTVveVlYNmtBUnVrbmJHTTRPSmVDS3NHaUxaMkNyVVY4elpjbzhrUVlpUjlaSmlZeU9OTm4tbHJjT2dPbEhwSkF5YW9KQU5mNGFDY1p2X0pkSzhrTEhUamJBbVg2XzVrUzJTZUlJYlhKRTJ2Vm1SS2dn?oc=5": {
-      "title": "日本製鋼所、2029年3月期の売上高4000億円に上方修正 防衛好調で - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY2lJcWRUcTdfUUpnODRNN1BqMFdnVGlzS1JVY3RWQWY1VTZnSDFvdzRTejRRVmMxSXd2aXNOMkowVzljeTc4TWdxaTN6eE82OFBpT0FGSk1sN3Z2LWlVZVFBRVpMOWRIMllCVg?oc=5": {
-      "title": "商船三井系8隻、ホルムズ海峡通過 コンテナ船も - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrRnNuVkVHUllwNVZ1MF9jV2ZpOTNqeGxPaEhNckFoV2ZMLThjdVZuV0xoZTBBS0Y3X3d6bERuRXVXeGZqbEg3a1R1S3hDa09wa3ZlVw?oc=5": {
-      "title": "商船三井関係８隻がホルムズ通過＝ペルシャ湾、相次ぐ船舶脱出 - 時事通信ニュース",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHJ2WlJxYUE1MDhqZUJpYmVXNGlabjlUNHlFeXZxa3QtUWotV2RqaWc4UC1Wd3BBS1VsRXNtSTNWd015cFc3VHloZ25fcVJNaER4bXVDbE9RWF9zRGxhSlo2VjlUVmRld0drVU9lbzFzM1dxbjRwYm9nRGJ4ZzNyLQ?oc=5": {
-      "title": "商船三井関係８隻がホルムズ通過 ペルシャ湾、相次ぐ船舶脱出 - 時事ドットコム",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nY3BfZUF4ajc5TXdqcERtbVhEN1FBTjFzVXp5Sk1JNFE3V3luLW91VklwZVpNaDZ6bXV1S2pPV21WOXBVNUQ1TnkzWjhIbm1FOVBUSVhyNkJRN3RoVkYxckdWcmE1aTdkczdvag?oc=5": {
-      "title": "愛知県豊田市、EV電池で蓄電システム トヨタや中部電力系と連携 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yNDJoNlB3ektxZV9UY19CZk9MY3A2ajM4SzFuVTN0UmNzR2pIcndiNnM4QzFLX1hTT2tGX2F0UWc1b19iaWNrX0dmS1FSWHg2RWgyZzJfdldVZ3BFdGlwbGIxVFNEcldEZEhQYw?oc=5": {
-      "title": "SBI、米仮想通貨交換大手に出資 ETFやステーブルコインで連携強化 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zMm4xYTU4bTVZbnNpZFFvUEhzYzREQU1PN0lvT3FpRWJlRXNKV3FDRjRHTUJGR3ExYlplbTV0aU44dmdhTUNMS0ktVDZOdXA5a1lLbQ?oc=5": {
-      "title": "◎クレディセゾン、Ａｄｏさんのイラスト描いたクレカ募集開始 - 時事通信ニュース",
-      "company": "クレディセゾン",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QQnp6UWZUUE1SVFAtWVIyZEFtQUlwb3NfOGtwaUZGbzFaZklIcjJvRmY3c1Q1dDJaNG4xcE1ubW92Z1M2WFFOU3J5VkNrLUNaVWJ0MGJ3YlhmWTV1Tmc?oc=5": {
-      "title": "◎オリックス３―６ソフトバンク - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yODJQUnFTSTlBSktsOVhVeExab1hVdDFZd1Q2ZEZBM29xbzQ4NHQxaDFOaXR6eUFFRVFtc2N0ZXI0cHU3UWw2LVBTeFpwdkNQNmIySUpmdHhzTmxwaDFRVlVtMS0?oc=5": {
-      "title": "画像・写真：オリックス３―６ソフトバンク：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-07T14:29:16.309751+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XSXMxSEY2ZG1aN094WFVYQmN2Rl9WM3k0cTRSMkN6anROdk50ZWZndXZJc0J3OEZpcU03dmZuYS1XZklhYUJXa3ZtN3NhLVhjdWlBYUxLOTZnM0Fla2VPZXBIUEhPc1RuX2JJ?oc=5": {
       "title": "【SIGNATE】NTTデータ、NTTデータ先端技術、NTTデータニューソン主催、AI人材とのマッチングを目的としたAIコンペ「AI Engineering Challenge」7月3日（金）より開催 - 時事ドットコム",
       "company": "NTT",
@@ -2801,7 +2723,49 @@
       "company": "東京センチュリー",
       "source": "日本経済新聞",
       "seen_at": "2026-07-14T13:29:25.886447+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YS1RnMXRJcVFZdU9XdFljdl9FMTJXNDZNRUFBcmNsNWJJZnZkMkFjdWVuTm1sd0k2ajNONzhITjZiMElIVUlyZnR3SVY0cmNCZVRXTG51ZTd4Tk1EQ0VValA0dXBDVWVFTi02bnZ3?oc=5": {
+      "title": "ブローカーでの再保険手配【豊田通商グループ】 - 日経転職版",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ZlZ0TmVDc1p6NDdHb2g4cURmaUxHT0gxQ003SEM1d1N0Q0V6dkVvMzZGY3N2YTlmNXFsVkRIa2NlZTBveUd0SzRMNWFiNjcycG11aDZzNTgyNTh2bmMtYzdKeUp4bFdsMGU1YQ?oc=5": {
+      "title": "フジクラ株、「上方修正サプライズ」後の上げをほぼ帳消しに - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEdVWVhtQ3c5NE9wUy1wekFPTTd5RnYyc1FpNllXb2R1VmVoem1Ed3lvMEs0MnhMVEdwYUZnd2NyekRycHRDMEVoU3B5ZkVObi1LQkFEYm9BY2lxUlFfYjZOSF9jZXZkTzlRTU5yT3hVaWpYME94WlhkNzZqTk5HUmRieHFxZHRLeGJ1NkV1VTM5WGtWcDJDYk9ZaGxDdE15eUhZ?oc=5": {
+      "title": "楽天グループの親子上場、「会社秘書役」の嚆矢に - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUlFvX05laDloRE9WZFlkbS1UdmZRZnB4WnlwTFMzZHZhaFFNXzV2bTh4bjJnZTlrWGtoQ05YNUZoUEZnS28tZkhSSjZmR1VqRFJLc0JTc0hUVjBuZTV6Ymk0MFRGVU16YXphZg?oc=5": {
+      "title": "札幌に楽天ステイ進出 6〜8人でも余裕、EC人気商品もお試しOK - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HdlhBNGgzZVkzallSakNCR0lBNkRSN2RyMWFxVldMdTlKdm1nc05uZEE5Z1BWMUhHMTFhN1VoUzFTeTd2NlRnMXlpTFlZNlZQTGNzbmRadV9LVzJ2NDVhVEM3Z2VTeFpjME1iNTB3dmlRMkphN2JoMVRleGRwdw?oc=5": {
+      "title": "楽天モバイルが手掛ける日本発の衛星通信 政府が1500億円支援の理由は？ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX18zcjhWd2VVVFNHZlk0WE1WQTNBc0pUZFB6VEJUNVFCQl9wSWd1X1diUHpseTR1QTMwcm50NlplMFgtZnBVM01majNWX0NwWm5PLUphNjQ4LWZLLVZBYkdiVU43dW1odldzWQ?oc=5": {
+      "title": "イオン、「八王子滝山」は食品スーパー無し 有利子負債2倍が迫る変革 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyRnhQbnMwVHBKc1hEOGNtdDVPazItUG9qWE5sc2NobzI5M0xrcl9MQXZWQ0ItTGNwZnJkd3RLc2lfWlJ1QjZpME5CQXpBcGp5d0dlTndQeUxRRlM3eEVIUGRSOUk5Ull6eWVWMg?oc=5": {
+      "title": "水などの自然資本、国際会議が新指標 ソニーGやイオンが環境再生 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-14T21:54:07.248390+00:00"
     }
   },
-  "last_updated": "2026-07-14T13:29:25.886882+00:00"
+  "last_updated": "2026-07-14T21:54:07.248959+00:00"
 }

@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ISzRucG83RTNoS3NMRWRZcWRSS1lFc2EtRE9ILWg1LThqOWlJMVlvU3k0SlVkSWpnRGV5Um9scXl4OFpEcTY1WTVPZUJfY2xGVURSRHo1dUhvLUJYQ00zMnNuNlRMbXM4SmZyZw?oc=5": {
-      "title": "伊藤忠とダイキン、エアコンからアルミ回収 脱中東依存へ資源循環網 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQXFtRk5KeWtHeGJ2WDNxM0JlemF5blJaLTRKeUdHWTcyZWNEeXpaSE5SZ3V6dmdkOUk0Nm1zbUtOVndnbkhFd0ZLdTIxR0lUdll2TVMzRGd2N2NMUjc0aDRRdUVhNXNlT2QyaQ?oc=5": {
-      "title": "アサヒGHD勝木社長「売り上げ必ず取り戻す」 決算会見 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41ZFhpSjhlWEdFV2ViQnF4MEljQi1GbTV2ekRINUd5cTFOb2RiNUNXOEgxT3Q2bDJ5dG1pN2RyYjBLeU1CSnBNdm5OcXR0TmZ4RVVxcWlWS19mQmxSLUNmSzJfY3g?oc=5": {
-      "title": "画像・写真：会見するアサヒＧＨＤ勝木社長：時事ドットコム - 時事ドットコム",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1odk5WUkoyc2JMSWQyeTh6ck1IN1gyUzJvSEZsR0JZNWFOVDZTU2t2ZGtfeVRiNFU3d2I1akJrclhsVWlmU3cxNDg3bUlmX2ll?oc=5": {
-      "title": "アサヒ、純利益３６．７％減 ２５年１２月期 システム障害響く：ニュース動画：時事ドットコム - 時事ドットコム",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkVrb3pVdk9WNG5MdXpsZm16eVRFOXhJVGlZRS1lZFhRdElKNkNsbzVSOUdnQjFONEJGak9ZeUppOUxLcFhPOGNwSFFIeEtPZEs4eXRNcmdKVktDVVQ5YWNERXVWeFZWc0V5QXYxSVBaQ2ZSRXBQT2tIb0NyUVl1bTdNQnZpclBQRXNPV29JRjZoMVBNMVQ0aUVsWFQ5bmtBMXc?oc=5": {
-      "title": "ガス生産汚泥で樹脂原料 ENEOS、家具などに活用 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnQkpoUUV6QUVHU3lUZTR4bVJraDZNdE0xcE9ieGtHVlFULVdsajFic2puQ0FIT2FacFhKSjdENEYwRGRUWlhxVERwbllQbnhIUnJCTFBjLXh4RVNUbUxyeEtfYlN2UnFrS2Yw?oc=5": {
-      "title": "【好評予約受付中】瞬間冷却ミスト対応のコンパクトクーラー『LAViNO クールエアーミスト』がめざましテレビで紹介、楽天・Amazonでも人気拡大中。 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15YVRWVGR6c1dJM0tYM3c5dG82QWFlYkF4UFZlaV9mUUdjWFM4cHRfVHZTbWJsSjdsRlRaX1pDU1Z3SW0wNjhPZWs5RHd4M1kzampVZE13Z01aQTdud2lSMVR0TQ?oc=5": {
-      "title": "イオン、総菜麺の容器見直し プラ削減で価格据え置き - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0J0SmQ5LTlyTjByZDV2dGV3Y3c3bk5fTWJSTUZPcS1sOTRlM1RGQ0JLcVJZalpaUnpNTWFxLUd5NVlOZllaelNrUjNYM2pVTkpNZlVHVS1YSWYtMjA2TFFRRnZwVGtUdXVydW1WVVloS2xXZ202UjBsVVFQSm5XbkZIQ29RSVk5UzVQUmNDekhkU0p2dTNZUGdKX2t3VXBLMkRERWhPdmpSZFRDTHRNVnJJQmxzQ2d6REpPN285SGk3Qy1HOTgzdVc3MHc?oc=5": {
-      "title": "中国電力[9504]：コーポレート・ガバナンスに関する報告書 2026/07/08 2026年7月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1ZFU1dOMVkxRm40UVg3eERISnZmbFl6S003anUzWTZaMkZCekNJTUVtNERMY0NjaVJIeHZwTmhoeDVROF9BbURNa3JYOTFZbzU2UkxsLTRFdkpkNEJuYVR2dUhzLWpzeGpzNzBldGVwaW9pWEJIMXVYNkdLMnZkaUdWV1BmTTBRb0ZhdmxGWkNzdmdUNUFhamZoaFM?oc=5": {
-      "title": "中国電力株式会社 - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZlItT0dHeFM1Ty1OeThOb0FJTlVIU1lTc1lLVnZQVW5fYXgxcVNiT1ZXa1pIb08wcG9EVEpEdXpteFZROTF5V1VIbWU5S2hJdDRlTnE2Rl9LVE15MUlhVmNGc29FaDRGWXdydw?oc=5": {
-      "title": "九州電力送配電に再発防止を指導 経産省、顧客情報の取り扱いで - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lLVJUbFVnUWNIeEFVcldrTURpenMtR09ZUkUwNGxibXh2UTJWUzBuY1ptUml3SVMxYVFKcHhDYmRsLXFETXhCdFBFSXRxWDlXVEhETFVodXY4Wmc?oc=5": {
-      "title": "「九州電力送配電」のニュース・最新情報 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZFJ6VjdFLS14NVZMSFBhaFJjdXlrazVBSFNmYVdlRFNuQktEYUZfb29CRGJPNXk0WG5lUVhDdU91TkR1MGZVeWZMSmthT0FhcVlEam1KSEl1VVpiSnp2Z2xEMU0zd2ZCMnRTTA?oc=5": {
-      "title": "九電送配電、個人情報1003万件保存の外部媒体紛失で再発防止策 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02T3hrc2hncWVRNXpPTW9nY045Wmd6QldLYVpkQk9CU3N5elRrVkpZNUhFay1xY0MwTzFjYmZsYUpJalNhX09VNDdjNF9BQ1NPOVMyUjlLdUhLQmZPMG5iRi1qZVRJZUU0bHRBXw?oc=5": {
-      "title": "北海道電力、レバンガ北海道のブロンズパートナーに - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWx0cEhvdWJ2Q05vY2hYalg0a2NYOU01UkY5Y0hTTWV3dnNNYTgzLVZpaC1YQWcwbFdXc2FvdUVaaVFUcTBNTEI2VGR6U0JPWDVrS3p2RkFtR1lNUDF6MnhZcWtLaGQ5VndDa1kxaHRhaDdfdmY3X3ZVT1FZcTljYVBMUFdCQXNUbzg0U0ZyS29LZGZDa24zLVMtNndLYWFQU3c?oc=5": {
-      "title": "JCB・りそながバスで「手ぶら決済」 タッチ不要、交通支払いは転換期 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T11:03:32.570299+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QkNUeTh1OXJDU0dJaXdJVXZiZFVrSlhIdVJSOFF4Z3dSM3E4NkUzcW96STd0VDNpNjFLdE9NNWVEd21WTkRPOU1qS2xmUVdGQWp4dWVfTUJuT0xuTkJxSFZnYmJLVm5zS3pJ?oc=5": {
       "title": "バス・タクシーの自動運転レベル4を実現する遠隔運行支援ソリューション「NTTモビリティ 運行アシスト」提供開始 - 時事ドットコム",
       "company": "NTT",
@@ -2591,7 +2507,13 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-07-15T10:48:09.862944+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ba0d4czZGSG12eUQwNy1yaEdnT3JJVE9CTkNDNURubGxPQjdKRUJjTU9aVzZWRk4xTzktRVQwYXlmbWo4WnZTdUViRmNuTENMaHhxUzU2dFFuTmpvS1JpVFF5NENOLVBUNDVodw?oc=5": {
+      "title": "三井化学、歯科用3Dプリント事業を子会社に統合 製造･販売まで一貫 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T13:39:34.144712+00:00"
     }
   },
-  "last_updated": "2026-07-15T10:48:09.863457+00:00"
+  "last_updated": "2026-07-15T13:39:34.145153+00:00"
 }

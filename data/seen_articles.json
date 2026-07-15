@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QkNUeTh1OXJDU0dJaXdJVXZiZFVrSlhIdVJSOFF4Z3dSM3E4NkUzcW96STd0VDNpNjFLdE9NNWVEd21WTkRPOU1qS2xmUVdGQWp4dWVfTUJuT0xuTkJxSFZnYmJLVm5zS3pJ?oc=5": {
-      "title": "バス・タクシーの自動運転レベル4を実現する遠隔運行支援ソリューション「NTTモビリティ 運行アシスト」提供開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdEdneE5JRWUyX0FXZnNsU1djRHg0RzhzOWNZQi1nR2E1bmZvcnAtRy1Tb2FibU9hYlRBbktYeEhoSmRFWFRoUC1lNmJZZ0Nwdi10RDBPX3JoV1hJU2RYSkZyZGptRjdZQ1A1cg?oc=5": {
-      "title": "アサヒ、サイバー被害でも強気の最高益予想 挽回のキレが達成左右 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSUHp1X1RrTVd0WGZkdE5pOUpjOHBld3NQdnJZWDBLcVN5MERadTVDSHVGWGNKWEVvWkQ5ZXZiX25pM2hlUDRtLU1yQnI5VjJIM1pQUW9jYXFzVV9yWk1OejRTUFo5eE1Td3c?oc=5": {
-      "title": "アサヒグループホールディングス[2502]：2025年12月期 決算補足資料 2026年7月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WU3pTMmhIVmNYM3FoOUFLXzNUQi1TTk40cjVNU3RVbjlCOVh6OEdVY0luTEhjWjlkeVB1Y1A1VEl3UzRzMnU1dnJmdUIwNVk?oc=5": {
-      "title": "【動画】アサヒ、純利益３６．７％減 ２５年１２月期 システム障害響く - 時事通信ニュース",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE10THNoYWJkMWZNZkFxSmhCcmc4RU8wM0l0RW1QQWU4X05SZ0ZmSURIWE1RWlRjN1hHN2x0RDR5WmFnSmJaU1J5XzYySDJSNXdjSVhyU2lROThnNWdYVTJMV29kUFNTajh3VFJIdA?oc=5": {
-      "title": "楽天→途上国支援ベンチャー「会社に行けず、泣いて自分を責めた」 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UEtWZjFRQ1VyTWdSWGQ0Y1hhNXNqOTZKQVRZbUl3R2FkQlBtVGRXNVFiaWJ1Tnc1MjA2TXhHQmpIYU5QcTdZUEI2cmM4NlZuQXVlVV9UN19rVWktY2t6SEpWV0xwMWUzZS1aNw?oc=5": {
-      "title": "KDDIや中部電力の株価が年初来高値 内需株への循環物色進む - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1BjTmVCT2tPcUZjbzJuZUNtbndUWE13V09pcl8zWWV0MmRwVzF2WkhXb0JTUWgzdkxXNzlTa3RNVEhGZERUYnlXdF9CeW82T1BkVHp5Q1dVUDFuWmRkd3FSUnFWRVdkQk12X3hDUjFfVjFSQ01nTDhuQzRzZHNGNmdpT29XTkJhNy1jby1mVDFpd1Nvb0s4OGpEdmNkMkVibGhZOGVFZUg?oc=5": {
-      "title": "KDDIや中部電力が年初来高値 内需株への循環物色進む - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T14:00:14.455420+00:00"
-    },
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qbVZxMXlUWXlNdmpsZFY2d3luT0RzM3ZMcW5YU0VaTFlUOTlUeEtaVUtpeExEQVpoSG5MV0FRVC04TVVGc1hTaW93ZnV2eThsLTJ1Y2xkVldKejg0MngyZ2JnYTlZRmd0WXdnNnhwSUdWZmhzbVpj?oc=5": {
       "title": "伊藤忠とダイキン、エアコンからアルミ回収 資源循環に - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2513,7 +2471,61 @@
       "company": "三井化学",
       "source": "日本経済新聞",
       "seen_at": "2026-07-15T13:39:34.144712+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lMGxKNURPNE5ab1IzUWliN1pNUWVqNndDNkZsTUhRRWtjeXkyb3NHeV9wbElELXdMTGNZck1UN0pwTGtLaVBYQnFJdlB1RC1VZmNmUU1hZWdjMThqU0tURUVqZV9MVHI3V0EyZg?oc=5": {
+      "title": "三菱商事、1兆円買収で「ガスメジャー」へ一手 エネ供給網で主導権 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1UDRCWGFKbTR2YXdJSF9udWttdUxDdFl2c1hpN3VjYmdwWEl5TFFRaUZ4ZlBpYk9JWE8xR2cxVTkxeHZfNHhJdWJYdHVjWmhrWVBmMklfZmxieS1BRmRjYldVUEhRY3NvMUxhUg?oc=5": {
+      "title": "三菱商事、米エーソンの買収完了 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2MxUFRoV1gxYmVWSERyaXlaSFJnN2FGVzhwaUYtcXpNcnFfRlFKRlBSMG5aMkxJWjc1WGxoX1VvRW1TS0dqaGJGNUVWMW1PSGJsU29KOEw0YWhXaUR6VmRNRmRwbGpVRTVoQVBqa2RINzlKZU1PUThkSGVMSlpncUJybDVSNU0?oc=5": {
+      "title": "【特許】住友商事、鉄道レール周囲の障害物発生をAI検知 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Od3ZGUWhLbDAtNFlDUlFsbmp3VXY1Yi1lVlJscUp4d2dHN3J1S21LZlJfYUp4eTg0OHpUYkV1OEpHZElhcUpmb3lKRnQ3cmhQWV9tR0M1MV9COXhSLXkwMDRHNGVqZFpIQVNEVHlqcHliWENOT1plYmplME12eWc?oc=5": {
+      "title": "豊田通商系、中国で半導体検査を仲介 日本勢が供給網転換 - 日経モビリティ - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6S09fT2RzVTNXZUwzTndsQTUwdlp1eHNyREpBc0dwMDVFLTFORjNtdkpLdGVsV0ZLOEhfM2I3ZTd4WGxjVlZpNzIyVXVTcDE3T1ZzZUhjTGxUa1c2MzV2enNYTUNJYUV2MGlKcQ?oc=5": {
+      "title": "沈むな日本車（下） 「ソフトで稼ぐ」が競争軸 トヨタ、走る1.5億台に命運 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hVjNYREhOUlpXRmFodElKTnJfRFFKQ3Y0bFlWUU5BZkQyZ1djNTdSZGE0X0UwSjVfQVpFcnA1YkFRa3hMTFdYdWlFMlMtdXRaaVV1Z3ZkSGVHWjdYbDNlOE4zNmNxNFUtYWkwSg?oc=5": {
+      "title": "イオン、キャッシュ創出に軸足 10年で倍増の有利子負債削減へ 成長領域に重点投資 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RSHJXQmUwaUdYRHp5bzZkbjVFekdQQ3JVdzB3Zy1KOWtZN2pCUDlVV1NLaExlUUFlWFplSWlUN1pGcTFlLWVjcm1DUERhdHBBRTJjOFhYTU9velhWbWtmOFltUmlKY21ncGdPQw?oc=5": {
+      "title": "東電など8社、データ拠点向け送電増強 全国30カ所整備 需要予測上回るペース - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOC1WdkxuNk91NHRSS2wwaHJ3VXVsWjFUYW8zSTZNZkRTYnZzd1VnNUtIMHVpOU9NTHNFU2FzUlhIU2JveWFqRDJLQXNMSURUUkVyQmNOS1RKeHZiQV8tTHNvcFVQMmRJNl9Z?oc=5": {
+      "title": "14年ぶり！重要文化財の輝きを未来へ 中部電力 MIRAI TOWER 美観向上整備事業に着手 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEtKZkg5YndUTUlPU2FuWEc1VTJlOVNCSzFlaWpROGFyaXd3VmhpZWZYZ1BUQlViaksyTWw3R3RCTEZIeVRtLWJVZkpxNDJwSWx3UUw2ZlIwS1IwYU0wWjQ3TXpZa3REc25YdHUxV3I0LThFdFI1SUhSZmdjcVE2TEdCU2RvcVhNTzlZZGE3ajJNdV9q?oc=5": {
+      "title": "SBI、3分野に外部人材登用で見据える次の20年 - NIKKEI Financial",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-15T21:54:33.639154+00:00"
     }
   },
-  "last_updated": "2026-07-15T13:39:34.145153+00:00"
+  "last_updated": "2026-07-15T21:54:33.639554+00:00"
 }

@@ -1,119 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qbVZxMXlUWXlNdmpsZFY2d3luT0RzM3ZMcW5YU0VaTFlUOTlUeEtaVUtpeExEQVpoSG5MV0FRVC04TVVGc1hTaW93ZnV2eThsLTJ1Y2xkVldKejg0MngyZ2JnYTlZRmd0WXdnNnhwSUdWZmhzbVpj?oc=5": {
-      "title": "伊藤忠とダイキン、エアコンからアルミ回収 資源循環に - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LYmhzYS00QVNDcmxpVmg1TUV1UVJFcnpGUFVpVEhNODBHNFB3RHhDdWxyT3hnZU1wNE96QnM0Y3VpeHJSTEVNcVBPdXNJaDd4Z3dLYnNjRTh0bUNLWE9abW1LV1B6OW5oTE9VaQ?oc=5": {
-      "title": "知っておきたい「光電融合」03 日本はNTTだけにあらず 世界で輝く「部素材」 - 日経BOOKプラス",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42Q1J5dzM4SmlWc1FwWHZEUUJMM0tlZ29rNlZOdXNsc2FVNGFZV1FLeEhFa1NVRWIwbjh6MGoyNjFUb21hVGNXQzFsRllIVDNCZ0Q3MFhBMVRyWkpsY0JFNGF4LUJISkZaSElHVQ?oc=5": {
-      "title": "NTT、量子ネット実現に光電融合 目指すは世界最高レベルの量子計算機 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjJhZHZ2dHh0MktFWnNaU0p3TkN0dUk5cVZWd2NLSDlESVlsLWt6bnFYYXhKcFRqLXdmeU9kdUhqbjQ2WnFwMU52TTFOckJNZ3BUb0JIMWk4OTJTTEtpZmh4aTFxNkRpNHZhbzZDU1lESVUyUHVxdk55aXBWQXFvMUgzdmNCemp6MXducm1LcmNmeHRESWN6WkdoS1Buc3NjSDVpRzdn?oc=5": {
-      "title": "アサヒ、強気の最高益予想 今期最終60%増 サイバー攻撃から回復 広告や店頭販促、実行力問われる - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRl9DbUFKenhvX3h5UF9oUTV0MjFfT214VWtHck0zYjlSaEhQaXFkZ2xmcVFtY3h2V25HZDNuOVV5T3RqaXQ2b0NUS0l2TXZVWlJ2bVlwVkdVNHZHSS1xME1iUUpLLVdoVWhjY0d0OGlLU3FxTDdLM3NrdE9TR2pJcjlNV2NIMFBkMmQyUWZ4NVRGbkFQaDVscEN2SFU0RVpRUWNTM29B?oc=5": {
-      "title": "アサヒGHD勝木社長「売り上げ必ず取り戻す」 システム安全対策は完了 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0M1A2MmpCQlBocDc4dXFJTUQyOWJMNGdxWmxFbkJmVWl2M190bWEzS0R3MU1zRzBuWlcxczB2eFJWZTF5b1ZMNFN6YlA1RzBtcFMtZ2FQZzVhRVI3RHlhVDFVa2x6dGJTNmh5SQ?oc=5": {
-      "title": "アサヒ、強気の最高益予想 今期最終60%増 サイバー攻撃から回復 広告や店頭販促、実行力問われる - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVZEeHk3UlhheDV5VGRmZHVqQWRIdHc5OUZEYkpRRE1KV1p0MlFtekl5Q1R5UVJOSlVma01ON1Z4dTJPckFHZFZXMkZuU1Z1dVc5TVNCWW1IemVFZEtVWUJ4UTdWc29fQWFTVllwOXlFa2ZnWTU2VWhYNmVFWmVqYzRWd1htb0dxUkRtM3VscE1tbTVVX0prWnNOdl9zNG90WDZrTlkzY3o?oc=5": {
-      "title": "トヨタ、メキシコから米に生産一部移管 関税回避の見方 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aNTE3alQyRzRqcFluT0VIQjRnelVzUVRNWk10bWhXM0RnQ1pEMTkyZG5QLVpRYUxmRmJSdzVqbmtFOEhmSGFpMFdtdkszYjZVSTlNTUh5MzFMaUt4T2VjQVE4YWk4U0dUbG1xVw?oc=5": {
-      "title": "中国ADAS ECU首位の徳賽西威「日本車を最重視」、マツダ・トヨタが採用 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1JnMGZyZW15Qmt3WHlCRFRTNzJFMmNBdEw5WmY2T3JoYVFSYVFjNGZsQld2MFA2cThYNGEtcHVDT0c5bUJCdVlTVXFqRks1NXBPdVQ0Yld5aEtBS1BVaXNKUXhaa2ZHdERNVFJ2WkxhSzgybm1VYXZUR0h2aW1UTlBjU0llT3hlY0hnZ3V3eUc1Q1pWdUY5T3VtRnNhOXRZbHdoOTNKQVo?oc=5": {
-      "title": "自動運転新興の中国モメンタ、1000億円投資 香港上場、トヨタなど出資 量産車にAI支援供給 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KX1RjMFlGN3ZmcUZnX0ZZNFgyMnl2LTJSOG9FWEN6UWtnbnlscXM2RjFKMEtEMDVPczVXdkNtcWowUUtIR1hTOHZKMjlaY01YQUtVQlBITUNiUTBYQm5WNFZwS240NGJKT2V5amxwMUUxc0I0cG5NM29hSG5YelU?oc=5": {
-      "title": "楽天とKDDIが金融事業の組織再編 アプリ統合でサービス相互利用を推進 - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1dRVS1aY25rN3VmOWV1cENSQ090ZHRJSGs5NExjX2FLaEZ0MW1qclY2cGhNbXFWeUhQdlBpb1k1OHBONEhHWUplR0JMSDVsVmFGUHZ0a0daUkRaeGFuczVBWmN1XzB3UmRQbDU0dDBVWTI2cGpZVEZKY0JFdzRpV0VNMkJXNGc?oc=5": {
-      "title": "【特許】漢辰科技、ウエハーへのイオン注入深さを均一に - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEcxSFVQUVlMUW1WVlFtQ1BqVVBrcWVoLVc3MjhQa01KNmFicDJIekhfb2s3Z25kTWQ4aV9vRlFTaGlRNHJGMTVhRFp1ZDBkTnZiZnJXUDNZNDVnV2szbzBseDJjVFpXVW8tSE1FdGdxc21TZDA1NDlzSmxNWmVzNGkyaDhpR1ViclBncmZtaG5WLVZaaEgtREZ0N2EyOU9aZU1DaFprQnY?oc=5": {
-      "title": "KDDIや中部電力が年初来高値 内需株への循環物色進む - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWNKYWNjMzB6ekNlZnVjcVhjVWNsR0htMzhTN0VhWnlYZm9CdUxzRFlkM25KS2xhVzhSZmZIYnpkdC1CX251cHJJd1Z3dDBJNGJHX05JRkstZzhUZUFYYmtvSDctcHExMHYyOEFUbHFLT1hnbDdkcHJ1UTVXY0pkSDZoUnNjZkxwT0dsV0JPOHVib0lkZWN0bDd3RnhfdUswbWJJSmR3?oc=5": {
-      "title": "九電送配電に再発防止指導 顧客情報の取り扱い巡り - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGRQREQycnZNd01NblAtSjFhUFFMOG5hZzlJRF9STmM0Y1FFa0JSdlZlSGItQS1nT2llb1VnSEF1T1VpdHhTZEpRalRTbzJfOTBlQkwyc3BNM2haYjY2TUpqanVOM2gtNUFtVlh3djFTQU5RQjNUdF84MWpGcXNVRFlSOG1FRW5CM1lMN2tLREROc29MT1VNa2txR2hFZmZGZTVFUjBjWlk?oc=5": {
-      "title": "日本株ADR8日、高安まちまち みずほFG上昇、ホンダは下落 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHdCXzR0U0hzQXpJRmNNMG1mZFBKREprc2VzSVB2MDhEeGNWdVpRR2tNVUNNU3hZZ0Ytc0FVWUlZNUpKX0hNeWh0VlRIR0NHeW9ZdWJNOXhwbWFWSkc3T1RXV3RqeEtUQzVfTmczYTg1QUJFTXV1WmExdzRrZnRBYjlzQWxiYU9WS1pIWUpWNy1uODVtcWtCbS1NZmJrRm1hOERQZEFUTVQ?oc=5": {
-      "title": "日本株ADR8日、高安まちまち みずほFG上昇、ホンダは下落 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4za012eVVjWUl6LUVHbF8yWFdEZ1p6VUNIakpwbWk1NTgzTzRfOVBBQkZoQzExSTFnaWZxNWpoQjY1TVRNc0dlekRPbFNMd091SUswWnJQeGhoN0xHZFAxbE9QT2ptcTNWWDJGcg?oc=5": {
-      "title": "日本株ADR8日、高安まちまち みずほFG上昇、ホンダは下落 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDdZcE9HQUVqVm5zU2hmUWRaUjJ4aTJqOUx4RXZJR3lGMGUzQlB2UVBCU1N3YzRUSUVrUFhnRms1czgtcGZCNjZRZjA3TVQ0dzRsTkRQQU50NmNNdS1zQkpEWnljYWdfSWxrdjVCd3o0WUJ5T2hHOTFFWFN6TmhMS2dqNlVwQ1NNUW1Nc1NhLWQ4RHpl?oc=5": {
-      "title": "DBJの「第2創業」、牧・小林の平5コンビにバトン - NIKKEI Financial",
-      "company": "日本政策投資銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3pfSGNGZW83S2NvRXRZU3JZZzFCQW83dXl5aGpGN1VhOUdGb3pZU2ZPcTFsTXgwTVNENGxRbHZFNXkyeWdzTDY3MVpqRUxWNzFBRDFUUExfZjVNQ09ONlJwdlNZdzJOWVNIb1NDYU5lRWl1OHlvaFFrcjdsTHZ2R2dQRk83MTRCRkxLbDFGYWFLWTV2Qm9JbmV2d1dYaGxxSXN1QnNrMGI?oc=5": {
-      "title": "交通支払いの転換期に JCB・りそな、バスで「手ぶら決済」 無線通信、タッチ不要 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncDEtVk9KVkZOMEpCdld0c3NIU09zTXhpU0ZTYjhEcDRVWlRSeXllMUZybTVrOUthckZZMzdhckZzSmRjSk1oV0M1bWlQaWFZV0g2bFY1V01UTk1PY2ZfVlY5cU52TkIyVllF?oc=5": {
-      "title": "あの作品が高画質でよみがえる！みんなの熱いメッセージで名作のBlu-ray化が実現する夢のプロジェクト！「みんなで決めよう！東映特撮Blu-ray化 PROJECT！2026」開催決定!! - 時事ドットコム",
-      "company": "東映",
-      "source": "時事通信",
-      "seen_at": "2026-07-08T22:02:37.321167+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRERhc2NLNUh2aEY3TnRGRHo1OWZwOWcxVHV4akoxTzcyQ1dpTlBMWllvVWxoNkpsZkJSWEc1Und3SjVkdnE1bmxfQldFXzU4b0k3b0VmZmRKUENXLWVTSzJXX3YyblJ0RjdqdjY0VUN3MUp0ekFremMxVFlTblE4R180Q21DdHVhanRKNV9fT3dBN0VOZ2lfUElDT0VONm9jZzBVbEJmaUk?oc=5": {
       "title": "伊藤忠・ダイキン、エアコンからアルミ回収 業務用を再利用 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2525,7 +2411,25 @@
       "company": "SBIホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-15T21:54:33.639154+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeUdoVk9yaG1CLTZhSmpwZWs0ai1mUElSRmJQMC0zZ3pwZmVpTFJlTE5lamg0amJFbEhuQ1FRYmF5eFQ2WE5KdFJDTHQ5ZThiR2JvcUNyR1EyUVdxdWR1MFBkenB4UGlvSUE?oc=5": {
+      "title": "イオンファンタジー[4343]：『サンリオキャラクターズ』ふわふわフリルがかわいいカプセルトイが登場！「ソフトカラーチュールフリルストラップ」を7/22（水）よりかぷえぼ限定で展開 2026年7月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T02:25:22.540139+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JaG03dTFJaTB4TjVrNWw0S1E0SzFoSlRDQi01WElCVTdrMFRkWmQzc2NxT0tSaHF1TTBMOFlmVXFtYVAzMHdPMmtPTGg4bnpJcXl3YTV5UjdSWVZvcWZXMXE1OFA0VER0VVZr?oc=5": {
+      "title": "夏休みの思い出、自由研究に！ イオンタウンで「おしごと体験フェア」開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-16T02:25:22.540139+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iVktxYVAtbWhaalBxNFoxVVNlVERINGtwLUF3emkwRjFSOVhRLVJBUkstMVlzSXg2Q2V6aEt2czd4QklweTkyRDlmTWpYVm5NRmlQcGlnSDFJa0V1US1VTUdzbk9mM2YxY2JTXzhZOHctRlU?oc=5": {
+      "title": "SBI、3分野に外部人材登用で見据える次の20年 - NIKKEI Financial",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T02:25:22.540139+00:00"
     }
   },
-  "last_updated": "2026-07-15T21:54:33.639554+00:00"
+  "last_updated": "2026-07-16T02:25:22.540428+00:00"
 }

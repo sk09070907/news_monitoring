@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LdG14V0ZJQ0Q3emo5bHpjdDExNk5tRnJiNllIOUJlTkNSNTcyYWRLY0R6Y0Rlckw5cWVzZlFsR3VfY1AtRy04NmVzQkk0eHBSNmc?oc=5": {
-      "title": "Banking Services to Become Available at NTT Docomo Shops - 時事通信ニュース",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-09T14:54:18.996122+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rdmNFcm83elpabWpVSVp6Y2lXWlRkcmhnRnVKS2hCMG5rTTVVOUdBcXdEdGFPWU56akUwdE1iekZnbnd4OG4tNHktbHRIZkFJY2dRTkxhMm1hOWstMXVqU2kyc042djJ0TVFQdQ?oc=5": {
       "title": "三菱商事が狙う「高機能肥料」 ホルムズ封鎖が突く食料生産の急所 - 日本経済新聞",
       "company": "三菱商事",
@@ -2147,7 +2141,55 @@
       "company": "三井倉庫ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-16T13:45:39.877974+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRXJWdHNNRzJnUGxkSWRzTkhUbDNfSWpMSVVCLTY5VVV3cjZwZVhXcmZGdUNhazR1eHBFUW1kVUhsLVluU1NjUXFRZzdTZGI1LXdTRkp1QzdpcGRqbHk3SmdNaEp5bC0wTGNBMw?oc=5": {
+      "title": "豪鉱山、28年生産開始 伊藤忠と三井物産が発表 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxdm43bmd3OW1URmpkRG5ZeWIzdG40UFNwSkhrTmEtYkdZeENVaTZQNXBoSHBXdkh6V1FWSW1ZU2pVeFp1c3pGNGVDNFBkVEhuMGVQQUc1VFlnbVRwYi1XT3h3eW1lMlhwMjNERg?oc=5": {
+      "title": "豊田通商、メキシコ・カナダに車部品直配 米経由回避で費用6割減 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaTNRSzlucHllVTZrVGsxLXJHc3NQMm0zYjI5aUlIM3ZMdkRYQWdJcWNzUmI0T2tMNFFuT0I1UjM5UTk0QTBubVNTNUE2QkFTYkxhN0V6cWhQV1U5VlZKRjNEVFk?oc=5": {
+      "title": "復活ファーウェイの破壊力 米制裁はねのけ膨張 トヨタが採用の衝撃 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSExkNG1SUjk4SE5XU1pvc0xxQ2tQakcwZ2dfeVZPS05Ma0NNVHJRWWk4eWZabi1GbTh5UUVBQlg0M3o0bW9nWEF3cGIwRnl0MllYdmJRVVM4MnJtS0dVR1lsQmJqMGlzcl9rQQ?oc=5": {
+      "title": "膨張ファーウェイ、打たれてもはい上がり世界へ トヨタ採用の衝撃 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRU1QYXRJTF8wNlk0U0Q1c3R0ZmFHUFpBeV9ZM01FVFRwdDJESTI2bXZabGpTcHBFaFBlbkhpdnpFQlEtUkVrd3VCdmROX01fN3QtS1V4NldtWkZ0VEdNYmVBWGg?oc=5": {
+      "title": "ファーウェイの逆襲 トヨタも車載OSで頼る 半導体はTSMCに挑む - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SQ0hTRUpZemI5VEJxWWE1S1pHSmlpU3Z3c1RRT1pyMlVYVEhBb0hRbHFYRUs1Vm5iRUhiLWQxWFpVYWpQU2FpMTk4VGdJOVdxNFlENGhnVWpla1hNWDRrMThn?oc=5": {
+      "title": "ファーウェイとトヨタの共通点 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Z2dFMmgwQ1VKaUgwdU9Vd0x2dldVRWsxZTRQV1kyZTA5c1NuOFZaVFozdmxYUHdvVlpVUEctSjhiSnJOWXJ6N2JmN1hNVTNWQ3VZN0RWZ3JzV2wwQ1NWUHpvSWNaNlE?oc=5": {
+      "title": "月面探査車、トヨタや三菱重工などが挑む ブリヂストンはたわむ金属タイヤ - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UcTN3Wm9qM1VHaDcyUVhCczRaSVdiWmhhTU10NUVmQkNWRnZtZzBRbDFBTm9YNW5ZeWdoTDIyTE96MHpENXE1UHFLdURtR3psemRGREZMNVMtRlFSQjFoZnZqODduTEFIakNN?oc=5": {
+      "title": "『鳥〇食堂×タニタカフェ』が大阪府泉南エリアに初出店！イオンモールりんくう泉南に7月23日(木)オープン - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-16T22:00:07.636033+00:00"
     }
   },
-  "last_updated": "2026-07-16T13:45:39.878306+00:00"
+  "last_updated": "2026-07-16T22:00:07.636526+00:00"
 }

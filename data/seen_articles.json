@@ -1,113 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQ3QwQV96Mjl6YThPS2Foc0xnLUsxa2hqYTV4elcwUW04VEVQNlFQQ3VaZVZrdEsxdUJJbjBBa0tJam5FZS1pX21CcmU4cWxSMEFiU19tbUhFMklwbWVEVVZwLVlMd1NROXVoQQ?oc=5": {
-      "title": "政府AI「源内」に国産言語モデル導入 NTTデータ・富士通など5社試用 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XMC1ybEdWRXdKbUpIanpCVkVJbTc0VDZwRWZndjEtOFJYRXZNT1FIZmZtZ0pzRmp1b20xZVEyY1JubDRseUZlTGNpTUhmVF9rUFNDbDZ6QnFiaG9ZOXFPQkppd2JKWWo3Mm5SME96TVNtS3FyWFVwenVRczc?oc=5": {
-      "title": "アサヒGHD勝木社長、サイバー攻撃の教訓「危機の時こそ社員が大事」 - 日経ビジネス電子版",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaEZtM0puWXY0RnQ0S3V3NFRsUFpvTVZUSUFaZ0FETnV5cVVfaGxwY1RxLS1uQW51cHBqZEZvX21Na1poY0NmTXJkMmNWNEhycTNEMllZN09na2RXdnFZM2VLRU04QVliMmRHcQ?oc=5": {
-      "title": "固形物もOKの紙容器 日本製紙製、協同乳業が採用 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XbFBNYVRLcVFaTGZGX3d2dVRncHFJc2FabFhMQlplT244aERnQUFwQlFlTjNWRjV4YTlSb1dDSjNsWW1TVlM2U2pmRk5mYUEtbnhXNnlGRDFjM0pzVDBPN1BOSUxvV1ZxdUNN?oc=5": {
-      "title": "【JPIセミナー】JFE「次の100年を見据えた大規模土地利用転換への挑戦 ～次世代産業を育む未来実装フィールドへ～」7月16日(木)開催 - 時事ドットコム",
-      "company": "JFEホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2VDdqVjN5SlJjRHMxQXhLQ084emJBeHJ2SEtzdXVPVWNwWV9HNEhCdWctbTVtUGNlYmRUb1BnMk9DYnpCa1ROQlU2bWpDckM5MGFPd3hRb0lLdHRoRENTU3N3SXVYdVV0bXc?oc=5": {
-      "title": "フジクラ[5803]：特定子会社の異動（株式譲渡）に関するお知らせ 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WTJyOTQ4aGRIc29nRFJ4WU52dG9FeXZ6MUwxc2lGdmktb3V2STBhMTc0aU9XRVFzTDhDUERJamZMZHJMRExxNS1hMjRFWmRBX05aRDFLanJ4UGgzTENkUHBXMHRRVDdWNDdz?oc=5": {
-      "title": "【楽天モバイル利用者500人調査】料金満足度は90.2%で最高評価｜改善を望む声が集まったのは「エリア」 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoN2NKbklJeEFPMk8wRV83UHJud25BcUVvY2hWUnVYbVdEakxwTkw0Ums3bEtXU2cxV1ZKMjlPSmVFaU9XanlROEJTSlN2TkxRbjFjbmxkVDg0TG9OLUlhNUJMLVdDNkNwUExGOTJQQXhGRGF3VEE?oc=5": {
-      "title": "楽天証券、「親子で学ぶ 資産づくりスクール」を開催＝８月１３日に東証で－「こどもＮＩＳＡ」の活用方法も解説 - 時事フィナンシャルソリューションズ",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13ZmxCa0NDaV9qVktLeWhpQVd1eVZuOW94cHZ0UmVGQjV5QTYxNHQxMGk3UEZPUUdQelRWZWlfUHh6OWhtR3Vrem1tYXJ2dFNkWkFYalhiWWt2cjcwY1htejZYZHJOYnQ5Z05N?oc=5": {
-      "title": "「第41回 さいたま市 北沢楽天漫画大賞」の作品を募集します - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNW1uM0tRTlZEVktKbEpBbm5zZ3hsOUJ0RWNSN0RBN3BrejlIRDM3S01la29QbWpPZFhZQzBXU0ROd19hUjJ0OGU3Nm1RTWF3LUVDMzZVai1uRTNMZ19qbFowWVYzbkl4QTMyYw?oc=5": {
-      "title": "イオン北海道の26年3〜5月期、税引き利益35.5%減 通期予想据え置き - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZ25hT1dzVGJmZjNRMjdfZlFXTVpDM1dPVVkybWdwTlVXcTdiQi1KY0RkMVdRNUNUamN6enNMbmlBRk5zalQtc1ZPcDR4OW1QVTRMeExscUk0Z0xLN00tU1FBeW56dEt5c2VsRw?oc=5": {
-      "title": "イオンの26年3〜5月期、最終損益は138億900万円の黒字 通期予想は非開示 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oaHlvZDg2ZW9lNjJyeHB3aTVsaWkwNFFfaVQyYTMyT1RobGxrTzdxV0plTmlocjhYcUY3MFBHTWM2QXlSR294ZTZJRXVUNkY1YUpsN1g5UklIbzdzZkkyc3B3TFVzQV9qYUxR?oc=5": {
-      "title": "「イオン光店」リニューアルオープン：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PeDBkZ19Id1ZzYUxxdUFoaDk4a29kN0dBYlZGRGdTak5jcE05RDBaMWhyVTZ4Y3BIc2kyVzhPVlhGcVBLZkFaVXdRbVF0bW1EZnE5NVpqZ1pIM0NQdHZzNEVua2tiV0VOOUZv?oc=5": {
-      "title": "子供服リユースショップ「ECOLIFE COCO」四国初出店！「イオンモール今治新都市店」が2026年7月17日オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOTlRSTZnNEJKb3ROS2hJYUdUM3JobGg1YlV6OFBTTERubG9KQVMwcV95TFdHOTFjWm0tMExBUjhvZTllZnN4QlpteFYzTVlTVU1KdU5zblJHb01tdzdTYU1BVVNCYm5EU0Vn?oc=5": {
-      "title": "【JAF京都】イオンモール久御山で交通安全イベントを開催！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MEwyR2Z4X05XOUs3SW1VRHJfRmFMSEF1RmJyQTY4OVphMjFCLVdNWGFmYXpQRXBZbE5fNUdWM2ZHdU1aZmxUd0Zrc21ETGJLbE43X0g1RWdNOGpSNU8wdm8zQ2pWbE80ZWZn?oc=5": {
-      "title": "『保険クリニック(R)』イオンモール名古屋茶屋店7月17日（金）オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TRVdxMkRrTDlrMHB1ajBPbHpISDdsZHdrT0wya1p6dVFHUTZFZmRpd2xHTHczbmJpUkhsbXNSNjNBRnpRX2VBZDN2d292dW41ZTdfalBTbWtlNy1nNmZtVTVrZWhkMy1CVTJz?oc=5": {
-      "title": "みずほ銀行とのコミットメントライン契約締結に関するお知らせ：時事ドットコム - 時事ドットコム",
-      "company": "みずほ銀行",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE50TXF2dFFuQUlsWnA3UHFubm52Zld6NlhzQnZCOXBYYmNoLWlZSzFMUmJkMXd0Z0hwVmtMNTQxMmh0TVRNaU5ZYmdwb3J1MTVsMFhjTEpBVWpETWx2clJ4Y1hfWThTQ3lkV2c?oc=5": {
-      "title": "ジャックス[8584]：譲渡制限付株式報酬としての自己株式の処分に関するお知らせ 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ジャックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NFZENko3d1VWMmkwWGxVN2t0UWFXRkw3Ry1OXy1KM3BnWGVJdElDR3MtNUx0MWltaDYwZjljUkFRU0c3aElZSWJTTjhNZ0hhMzNueXhXX0g0bGtDZ0dfcXMxVmctbGI1S1E?oc=5": {
-      "title": "芙蓉総合リース[8424]：「静岡市アリーナ整備・運営事業」における特定事業契約を締結 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "芙蓉総合リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkc25ydFJZSmFldldCaUVSTHRzYTN6ODhVWml0eEdVbHlkSWZUeENVR040bC0xejBIeGZMMmNzWlh0R3dxZkVvNkY4OFFYUUpTeUc4cFNhSmo3OWxhYnZ4Z0RRTlZjRzExOXhV?oc=5": {
-      "title": "CARTA ZERO、森ビル「TOKYO NODE」と「虎ノ門 怪談夜会-送り盆-」を開催 - 時事ドットコム",
-      "company": "森ビル",
-      "source": "時事通信",
-      "seen_at": "2026-07-10T06:44:05.989464+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yYnJDeGZXWXo4NE50S0dJNUFnQUtxUTBRMmt0MUZjbVEwaEJwOHpPTUdRSE1yRFN5U1ZQdXd2Sk11elVJUEZtbUhqb05XTnhUT1FXdXlGbjIzMGVVdjhxTDBiYjY2RDhIVDhXVg?oc=5": {
       "title": "住友商事、データセンター普及へ硫酸販売5割増 供給整備に200億円 - 日本経済新聞",
       "company": "住友商事",
@@ -2165,7 +2057,103 @@
       "company": "クレディセゾン",
       "source": "日本経済新聞",
       "seen_at": "2026-07-17T05:41:46.887479+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE80TjFxSW9HWjZtV0dTUlExVTYweHBrOFgweXA2ellnWDhJazNGRGlLV2ZaTENpWHJZY2VkQW94LXRvZ2tYY211dDJZSlI5S1V1bURSRy0tcjlwc0ZKNnhGUUpmSFRFc1pXYXpn?oc=5": {
+      "title": "NTTとTBS、次世代エデュテインメント事業を推進する共同出資会社「e6合同会社」を設立へ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MNVBESVExTmJQNlZNNGZXaW14RUN6NUxEX2xzUnY5NXNGRlVqcnhZSUZYWnV1bHBNMkxpUW5KTGduX3Z0WFNCT0FTN0NwTzFKZmE4cHpPb2loSjR1ZHhEUlR6WXp1YXhrajhN?oc=5": {
+      "title": "NTTとTBS HD、次世代エデュテインメント事業を推進する共同出資会社「e6合同会社」を設立へ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FSGE0Y01uSGUzMDlzMXVkR2tPN0VqN09HYUIwOWtTZ1FQTjVncXUxZVFFWnZzMTQxUUItakRHMmxHM1FmTFUyR3JKd2JGRjh3WDRjdTNxX3ctNkFyWjBGV0phMWNwYm1FaEFzbw?oc=5": {
+      "title": "アサヒ、情報漏洩恐れの件数が増加 25年9月のサイバー攻撃被害を精査 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xV0kzdzJDeFRrNkcyU3g2N0JvcXIxY0VnbkVQRjYtbHZUTVhBQXpyVU1aVFRuVzl5NmI1WUtHVS1RRERoWHh1cnBfWXJOc0dpN2FRTnlEOGE5OVFOazRRV1hTVVV6bFVoSkE?oc=5": {
+      "title": "ミツウロコグループホールディングス[8131]：商業施設運営事業の再編に伴う当社と子会社との会社分割に関するお知らせ 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kS1Z5QnZKRTY5czJ5QmY2Xzg0WWZzeGdfY0lITWdybVc1MnFUa0pqWVNTWHY3V2JqSXpudW45eGN5Z0E1THFGRHdqYVdydE1WRHpuUFRjZzVMRlJqRXBwU0lxeEtabXFHVi1Z?oc=5": {
+      "title": "業界最多！楽天証券NISA、口座数800万口座突破のお知らせ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HOU9zRWRTcDg0UGdpTzI5d1dXY3VTYXhmVlNUb2JBbEhMbHJJZmFuNEtkVWlDOExVT1VYZjJ3QWpFOTZuWW4teXJCMW9Bb2JWQnZEWjVCd3l6TmtnSGxlRG1pRThoNW5pS3BF?oc=5": {
+      "title": "シリーズ累計41万枚突破！楽天ランキング8冠*達成「SHAPEDAYS」がリニューアル！肌のようにまとう新感覚ブラ「24Hスキンブラ」を発売 4Dパッド*採用で24時間快適な着け心地 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Q3NJUllpV2MxRE1QZnZXckVRcmMwVmp6UlpIUllPb3V5d3NjekNJNERwdTdRQTVDcE5ZWVhHQ2ZMRXY3a1FTTlFoYnBXcHAtRWUzOGdqa180WHA5Uk1hNjNPN0hjMEVKX0sxNA?oc=5": {
+      "title": "カルビー、「じゃがりこ ほろにがレモン味」をイオンで期間限定発売 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKT21rVnFJMEhjUTJ2TjlseHhYNzZMX3lIczRWMnl1eGdlUGRtUXZmVGpRR0llOTR2N2JfeEJuay1xemN6V0dyMS1FUWlHams5V3oycVJ4WUM2Q3pMLWhHMlFlTEt1bVh2Y0VMUQ?oc=5": {
+      "title": "NANKAIと近鉄、特別列車を限定運行 泉州・南河内の魅力発信 - 日本経済新聞",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMnprMWdSYnNlUjJhRFV5YkwyMl90RkhHWkNRVVVVQ29HZWlGX3FBY18ydmY1QkNzd1FlVmxPa2txN2Zid0twbHB1NVNPTEhnNmdSRjFjaUVjYVRJQVZ1TTRxOS1XQkNzeU5FZFRvbDVhS0NJeGlpdjRMNVpVOG5PektoX2NQNWdSMDZ6OF9PdDlyc2lTZDVzejgzSjdWd21YZHFjLUJ0bzVxY0VuaHZOYnljckIzUEdpbW8xTExnUzRJM3l3aklJZ0swOTc?oc=5": {
+      "title": "近鉄グループホールディングス[9041]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGNESnQtd0JmbmNHMDFhSVdOdThZWVNvaEl5OWNJVkZ0R2oyMWRHdkdqRk5fTDVsRnk2b3hZbk9fVXp0VVpwNGdhR3VRbDlPaFc3WnlodzVtcnduNXhJT2dSdExJZXNGV2w5bWZEel9nN090bkttS2piYkVTX1J2ZDRCNnZLWGdaUUpsb1pfNEtCcTg1Y2xoZDNJeXJlLXViYWgzcXlWdmNjREJJZjcxcUJvbW1uS0J3OFRtc3F4M2hsYWlFa1lvSzk2Qzc?oc=5": {
+      "title": "センコーグループホールディングス[9069]：分配可能額を超えた自己株式の取得に関する第三者委員会調査報告書に基づく再発防止策について 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "センコーグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxT2ZVay1nWW5RWGd5ZFdCX0lZQ0lhNWpOcUFuMi1vNEtuR0NvdHRiYk9oRlNPMnF3MEZYeXMwQ3Qwdjg0TWZFUWRpa0ozUHJqM0RvdVRscDdvMlRFd0dGVFQyc0JnS19QaXBB?oc=5": {
+      "title": "商船三井ミュージアム「ふねしる」開業1周年記念300枚限定！ふねしるオリジナル御船印を発売 - 時事ドットコム",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMGtuX3pSRDl0ZkFvXzJrQXJGVTRUT3Y3UzlOUU1ueVZydHpPSEVsbF90bFJHZEpNbU82SHpOQTgwd2RrSThMaW5yWlFUOEhaN1RSRjlsb3BHQU4td1RzeVRRNHJSSTA?oc=5": {
+      "title": "みずほFGがAIエージェント3000体構想、銀行業務全体をAI前提で再設計へ - 日経クロステック",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KZktYTGJXc0FpMjd0enBuT0dtckpUOUZ0QWFjaXhlSWxLTXFjLXg2OTdOZGFOTkhUWnFVUHFjSF96SmhlUjRNVnpDaWFUUzFsUXNuNTJTeFRnZlpRNzk0anBCR1RJanlmOFdUaQ?oc=5": {
+      "title": "野村HD株が続落、相場安で運用益減少の懸念（17日の株式市場） - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FMlJTY0RndkQ2dmYxZ0poWXNKRlBJNzQ2Xzd0UExZbHVwSzEweEQxS0thTHVUOFVFYlQ1SnpWdk1GVm5QZUtfZFVuXzdZX240ZnVUb0F2U2lJZkVYaUVSb25uaFMySWRNQlEwbw?oc=5": {
+      "title": "SBI、シンガポールの仮想通貨交換業を買収 160億円規模 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmxMRXhtUmx1V29Qd2xfMVV3YlA3V2pGZ1hOZTMtVTEtMkJzUTVTd3J6akc2ZVJCYjY2SnBfMEszNUdLS0xuWU1zWGhNRzl0SHp5VGY3enlmdHVyZnJ2YnpxSEF5ZlUzTUZvdk9TWV9nV0lQZERPZFo4Nk5SNVFJVVdCeE1Qd2IyWElyMjA4S0hzVVAyUnQ1NVlESWhOQ09Ocms3Z09RYUkzVFhENFV2eGFUaW45X3BaeWtVQnNXajdFN2xoN3VWX05EV2M?oc=5": {
+      "title": "クレディセゾン[8253]：取締役及び執行役員に対する株式報酬としての自己株式処分の払込完了に関するお知らせ 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IT0ItYjMxNUV3dVUza1ZrbE9rUzU0bDJBLVpuTW5UWm9aQWlFT0sxUTMtR2JmQ0ZacWZnVjdUZmhjRUN6LUFlcTg5X0xlY2lDY21vYVZZa091di1VeDhwR2xLRWFLQXVWam9vNA?oc=5": {
+      "title": "クレセゾンの第121、122回債を格付け・R&I・JCR - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-17T08:07:20.246649+00:00"
     }
   },
-  "last_updated": "2026-07-17T05:41:46.887950+00:00"
+  "last_updated": "2026-07-17T08:07:20.247120+00:00"
 }

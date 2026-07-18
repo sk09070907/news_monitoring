@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9haG9PSk5YNDlIczRuNVNzRWZ6M1NkMUp4VG56WThEQkhnaDhBSlpaX01PY2Rrb0ZSdHF0VjVkbjRRVmNNem55R0lVTHd6eXQwYUpvTkJrMzY1aHpzbTU0Y2tWc0k0VTJSeGxn?oc=5": {
-      "title": "福岡・長浜屋台街に現れた“1日限定トヨタのラーメン屋台” 7月11日「ラーメンの日」に特別動画を公開 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-11T07:52:13.555552+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WSXYySWxBdjd0czlJdUY4R1dadFZSUkFPajJxWkoyRWtNZ2tienVFNXU4bzd3cGJMNk16cTNwOE9DREY2ZmduX0wyYzlIWTlQLUpHRERjeVpXamFOTDBacXR6bXBjMXJjX3M0?oc=5": {
-      "title": "ブランドリユースショップ「kindal（カインドオル）」イオンモール橿原店が本日グランドオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-11T07:52:13.555552+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3ZreXJwOWhmOEpINU1admhPMnI3RlZCOUFtbzluTVFSLWdPMUZVaUF6LUZRVV9YVlBfSkg4NEdsNWlCSDNtb0JSMWRpRXZONUhscDNQNERaajZBeUlPTU5YNFZ0cTVRZURuTjdUcW1qVUlpVWZEa0M3Q1k4dUhSbWxldGNCQlU2a0F2QXpVaFVmVDczMkxHZi1kQlgyRkpjWmdJaFl3?oc=5": {
       "title": "トヨタやデンソーなど、政策株4年で3分の1 持ち合い解消は最終局面 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1967,7 +1955,13 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-07-18T07:46:34.558589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BUDJBRW9FdVpyWWNVSTFBM19mMlFZY3h2UnhDeXFORGIxNVNoQ3VHU1F3T0d4VlJXdVJHVmx3eFFaWFhIeWhNNlV5TExVQnRMY01zSEwxYkRoSmFjdGdRQW9TVktqUk5veTFtVA?oc=5": {
+      "title": "三菱商事と業務提携 創薬支援のアクセリード - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-18T10:16:54.125823+00:00"
     }
   },
-  "last_updated": "2026-07-18T07:46:34.558812+00:00"
+  "last_updated": "2026-07-18T10:16:54.126244+00:00"
 }

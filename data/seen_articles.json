@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTlhcGlMLXJxYnNUUkZ0WnZhc1Zwb2tRTGREb1B6aUNFQk94TXJwWW8tbzMxVE1USTJnYUJLanhtUDQ5V1huYmJ6cFBZLW12YXd4eEZwZ1BSckRBNVFiNWtFSHdycS12T1VFRUFpU1hzRDZnQUpGTWZIN1h3dTl3S1N1TExJbjZ0TzV0Vmh4NlFWRjVXaURrY1FTc2hYdEZBZE93aWZ3?oc=5": {
-      "title": "トヨタやデンソーなど、政策株4年で3分の1 持ち合い解消は最終局面 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-12T05:56:06.725578+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SNTRwa2hHdlgybERyYjQ1czJrd1EzWmRqUkFwNUJiYVUxVGhOQ1Rhd1VqN0xxTDhHSEwyQ1ZuVHk1TDRUakdNRzhKa1FTRVVkbXB1OHFCS3NVcmI1cGpvY2JLZkI0U1NZUlU0?oc=5": {
-      "title": "【三菱UFJ銀行】MUFGグループのタイの大手銀行Krungsriと「Japan-ASEAN Startup Business Matching Fair 2026」を共同開催 - 時事ドットコム",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "時事通信",
-      "seen_at": "2026-07-12T05:56:06.725578+00:00"
-    },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1FobXpXYUxNalRKUzgxR05sNUhvUzliUnAwbWNWVzRYeXpoLVh0QzQyZ1doX2xPTWtxV0g3RjZJbmFHd19KWTMydFlnU05NWlp4Zlpkd3V1SUROSTNvVmh2eENBQTY5MDhpRm80MGJlRUdaYTBweDdYU01YNVJYVFF1Zw?oc=5": {
       "title": "サッポロがカールスバーグと合弁会社 鬼門の海外事業で攻勢かける - 日経クロストレンド",
       "company": "サッポロホールディングス",
@@ -1973,7 +1961,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-19T05:50:04.505565+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRE9mMkpEY3RGRmVHXzVrWTBYdlRLRTMzNWhtd28wV1hOUnB4ZkJNRXdtWF9VWC1BQXlMcnNDOEtnLXd6dGV3dnoxMWhMVDVUMHNrRndRRFRTbDVEcElsUnBmN3J2WllHbHlydA?oc=5": {
+      "title": "三菱商事・中西社長「食関連で1000億円投資」 穀物メジャーとSAF - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-19T08:13:01.641151+00:00"
     }
   },
-  "last_updated": "2026-07-19T05:50:04.505850+00:00"
+  "last_updated": "2026-07-19T08:13:01.641640+00:00"
 }

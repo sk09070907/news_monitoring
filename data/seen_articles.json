@@ -1,131 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9INHNyMlN6c1gyeGp5VTBGZTFVOW14YkZ6QWw0emxRRHZubm42aGdWU014bEg2WndPWXhmQjJ4S2J1d1MwVjIxemJ5aHMzTXYxUEJfZWl3WVZwcWY0SUVhRjliR2hRM3NUdldRYQ?oc=5": {
-      "title": "良品計画、三菱商事との資本提携解消 商品開発など業務提携は継続 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ejBfc2xQSmo0SURfdk0yMDRtSlR5WGJzaFl1cllpZVJ5R19HUlU2TllJZ0JndXdrSDBIcDFpVHEwQ21UREVtdU5GYVVWZjhXWlhEVDBDOTZ3U1llLTB1d2swMWRTNlU?oc=5": {
-      "title": "「三菱商事ショック」再来か 英BP、丸紅と組む山形沖洋上風力から離脱検討 - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3lzbmtnWkZNU2ZUWkgxZzJXVE9STG0xZ3ZIVXp4MUJtWUZCMGpVWnZPLUI3RVM5SXlaQl8wQXhHZ01DcnRibnZ4aFdRdUJiNVJmbXRaaEExODNFWHhTOXVydmdHbG1ZdVpxNDZNOGQ5bGFoX0dWdzJvU3J0enVPV3pNOEJXblJaRW1QNTN3?oc=5": {
-      "title": "「三菱商事ショック」再来か 英BP、丸紅と組む山形沖洋上風力から離脱検討 - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoSFNEdEh6ckZNcGVoXzg3Q2t4SUZlbG9paUhIcEg3RGh3ZjZSQ1dnOTFKc2VGV1VNOEtGVTJvbi1UdTB2UjJReGR1QlpFVzJyT29rRjFXRnRaeUNkY2VsRWZxd0pSb0kzTjlN?oc=5": {
-      "title": "三菱商事株式会社との戦略的業務提携契約締結のお知らせ - 時事ドットコム",
-      "company": "三菱商事",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rdjRLTjJVSlkyNE1XaVRVR2lKVWh3NDE3Nm42OXBPYWozU3pfOTZyRVFYUGxfYmstYXpLWUZ4bDJkQmJEeUVBV3JIRFRGeTZwLTd6dFd5SG1KVUE4b3Q1Q3RwcFVRS1RFQTFr?oc=5": {
-      "title": "NTT西日本、従業員の「アンコンシャス・バイアス」を可視化し企業のDE&Iを推進する共創パートナーを募集開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KR1VfWTVTWWxCN0tUV3prd2gwR0hUbVprcnhkZnZZczRzQm9WUkhTeGRnNkhfMEllYUtuOGxGWjlMbXVrUjhZSWVMZkVFb0VER2dJUlktb05ScXFvVUlJdWFXdEhmdkJSVFh3?oc=5": {
-      "title": "株式会社NTTデータと「つなぎAI」を活用したバックオフィス業務効率化の検証を開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRWN5THIzRno4bk40aEhhSWx6NUtzNVpkTjIxM25EMHB1UGh1RDUzWjBGSm5EcmxiQ1d3R3BNbWF2aGVIMjNCbEpsQUZZN1FrRUdxdENRY1RVRmdPb2ZiMFNWMENhZ3g1Snhn?oc=5": {
-      "title": "鹿島建設「広島呉道路・小屋浦トンネル工事」でBRJのTOCKLE を活用（導入事例） - 時事ドットコム",
-      "company": "鹿島建設",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNmg5bW94S2wxLUVQSllxOUhueENPT1RmTHhGcFdFRWljQk9DRUh5THB3MXlqV0ZmcTBha0pXSzVjQ0Z6RHVaQWJQYzVTeHVaNkZGSjhxMmxNdnd5dTRRZkJxekoxVUk0bTJ0Vw?oc=5": {
-      "title": "決算:日本製鋼所、原発向け部材の生産能力2倍 中期計画の収益目標は上振れ - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRU9xRXM3SDFxQWpPUnFQc085UXh5LU14aERhNDJuUVRzYzBVUEhVX0xKUVlhMWZBcVZNMU9SbDlSUmJaZTBSTlVVNkk4V28xbzF1Unh3TVlNRE40bHNLWFZpU3VWSEJheTNic19qeHhyNXlhMlhaRXZVcTBjaGZWRkkxSEk0VXdfWndsSDJSc2lxN3plMGtsVTFIal9hQ1V5RlBJVV9PN3p2RXFJZ296SWxFNGt4Y0dRTUE0cXdLa2VCVURTbzdTdXVaRVA?oc=5": {
-      "title": "日本製鋼所[5631]：コーポレート・ガバナンスに関する報告書 2026/07/13 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFBUZk9uWnZRcVo0Z0t5ci1UcnJoR042djBKLTlSNFYwQ1NBbWxjZmFZQzJzZ2taOVotcmRZeWswWkxBcjIxTkxpcDVoUUVqMFRhTWxiaWxjZVNlbjAwcnRhdUlmMG5nQk9PNkJ6UWYtWXRyTUVJa3I1NmZMTWRLOFpwUXBQdXhDT2NUTTlJRWktWTIzTmliYkZmeTM?oc=5": {
-      "title": "株式会社日本製鋼所 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbHhHRmZUbUlvckxyYkZvWXFwcHU1SXlJWlZQZ19MYWVodlZEUlRVemNiX0NPLUNaWExzT0dfSk1Zc3ZZU0l1d3NxZ3JzVFh3Vi01Nw?oc=5": {
-      "title": "◎ＪＩＣとトヨタ系投資会社、新興企業ヤクモに出資 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FNElaZmZaSksyYUNJaFAtaUZ4U0trYWhldXZGVTlIVUxTZnhtU0ppMmg0WHJOQjZhaWhSZFo5UkFjQkxtSUp6UVJGazREaGxIM1ZUMG9xd29UTnlkeVQyaVRnVnJHRHQtdjFIMA?oc=5": {
-      "title": "楽天と日テレ、CM企画支援 ECサイトデータ活用 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KYXhwWktmV0lTMzNyUUlVcm53QzV2TlVKcm8xbHFGc19nUVJjbmF1VlA2VFpxMWpfVTF6ZVFaNmotRVFXeWJqZVZqT3ZraXFYbUxzNkdLRXBWYlJzd3VteEphd0RSdlA0UDdjQw?oc=5": {
-      "title": "楽天カード、長崎市にシステム開発拠点 IT人材採用へ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE92THptQ0dvbkdMdHVVQWFiRkRTcXRVUjcxYkVLYnBZajkxNTR1bnBwbHFuc0toazBvMkxkSnVYdXY1SFdZc0tCbFNEUXZ1Qnc5ZE1neHRhU2pPb1JfaE9Dci1BQXB2NndDODlr?oc=5": {
-      "title": "楽天、日本テレビと連携し、消費行動分析データを活用した地上波テレビCMの広告ソリューション「RMP - TV Ads」を提供開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WZ3dqQ05feXQ3VVFFT0dSWE84UnNKQUJxMjNLSmh6SGFrd1NYTWhZS2pwV1JHYl9wVEJXeUV5RUg4V2JPRTdkYkN4c3dpaUFtUUtKaWhva2NPSkV2YVgxSHdlRVQtNmFQTGZvOA?oc=5": {
-      "title": "イオンの株価が朝高後下落 34%営業増益も、総合スーパー事業不振 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OcG9pVzNoYXJfQzI3eXg3LWFTVmtLalc4Z1BGbXdYSVJKUFNqcTJqaHNsWVA2NVlXLUVxTmZ1SkRpY2JTZ09FWmU1TzNlZDhnLWQxTGNBdHY2UkRYNlg0NW9UZVZlOVJHT19V?oc=5": {
-      "title": "伊都の毎日にワクワクを！「雑貨館インキューブ イオンモール福岡伊都店」9月18日(金)新規オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RkRqTlBUUjU4dE5tQ3BCakwtTE9admNtY3pkZ05yRFhBTy16cVZiSkFqakRUeFdHOUY4LTFVWG94Z3pNOENCcVNyOUFhZUpiUjdFLUdZbzVGcHVCbmptZXNWbXhNd1VvU3NwQQ?oc=5": {
-      "title": "九州電力、玄海原発1号機の未使用燃料を海外に搬出 加工後に再利用 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0xkZk92T01JZU5pd2pDYktJR1VyaThpMXV4ZlR2NVFlb1dBdF9lVVc0OC1GRXMzNmFTLVFpaUI3TXlFMmhfb2x1aVQ1eC1pVUlfaHptc18wM2JrNWdwQW1pRGptbEdxR1FqZzJYczdudmRqZEFnc3lMSFlsX2lLMTVNX1JRTTdya3NFMmJqTDJoZDR2WU8zZnZqN1F3ZjRQbGhnZWJ3?oc=5": {
-      "title": "金融システム運用にAI 日本IBMと三菱UFJ銀行 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNl9UT2tpYnotcWtQYktFcFNiWDVUangwbW1URjdNSjd6dnRkdUZVVmFzRzNvVlhOaUdFQm9NS1A2cWt2ODdUU0xITjMxeDJNZHJqVmtzMU1tVzZFNllVWEoxNzhNSW43Z1BxdUVrZk9oMWxBWHQxQkZZM1lnUWdfZkVCQXA4ZHQwUmZpWTY5a2dodU80TzlPcEdGaVFnYzdmMmc2SjE0TGg0c3RmVUE4cjZoNU5hUk1KOUZQeU5mdFo4WTNlYTROWTJhN1k?oc=5": {
-      "title": "オリックス不動産投資法人[8954]：資金の借入及び借入金の期限前弁済に関するお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIdFEzSjRjcUtNSnB2UWNjYzlSenpHME9mb3FCYTR3bFJ6Slg5eGdFTEdpWDBhZ1p3cmxvaDZuY3RQWGFLSC1KSnV2T1BFM0ljSlprem1sd3JEZlFYS0g1aE03UjRVdGw2TzI4?oc=5": {
-      "title": "三井不動産グループの最高級ラグジュアリーホテル『HOTEL THE MITSUI HAKONE』 2026年12月15日開業 - 時事ドットコム",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oaUtMekw5YThJQVNxTUlaVGZxSXhJQ21sTG84N3ZBcXMySGY2Zkd2eDA4bG1CRkxGLTR5bXFxMVkxTVg0WEFYTWg4UTNoRVhKSnFUN3FGZzNyS2pmNmN3VDk5WWpmdGI2cUlqQQ?oc=5": {
-      "title": "三井不動産など、オフィスビル「三井二号館」において食品ロスを活用したたい肥による屋上菜園プロジェクトを本格始動 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T12:02:03.220184+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0VhU1BUeklhQjcxMHpFNDFIazVvd3hBM21TUHd0VUJKU3Nrc2FUclNhMXdkaUJfbEo2VUNfNDNxNF9PeUg4TEJhcnpGNUpxel9LNUpNdWt4aUtNR1dOckJFMkd3cHJDSk9VQlNJOVdJQUNPX1lXZVhjX2p6aklMbWhQNm05UVpHejN5STVkT3hSaTFzaDR3a3FybGhTOFZDTUxfMGJ3?oc=5": {
       "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
       "company": "三菱商事",
@@ -1829,7 +1703,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-20T11:43:17.364291+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZnVlbXQ4MC1qVUM2QmZQZURIWC1sMlVtaGlIQ0xtcGVWdWdrTm40amNvLWtmQ2ltQ3NkaHFaN0Z3WmhzRTJRNlJ1ZUdZR1M3ZE8xZmU5UFRuT2haNk1rSUN6MnZGM2NGQjl3?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】操作の極みへ。Switch 2対応×最小0.00262秒の超低遅延、4000段階TMRセンサー搭載ハイエンドプロコン「GuliKit TT MAX」期間限定特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T14:01:19.035017+00:00"
     }
   },
-  "last_updated": "2026-07-20T11:43:17.364432+00:00"
+  "last_updated": "2026-07-20T14:01:19.035257+00:00"
 }

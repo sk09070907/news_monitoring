@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0VhU1BUeklhQjcxMHpFNDFIazVvd3hBM21TUHd0VUJKU3Nrc2FUclNhMXdkaUJfbEo2VUNfNDNxNF9PeUg4TEJhcnpGNUpxel9LNUpNdWt4aUtNR1dOckJFMkd3cHJDSk9VQlNJOVdJQUNPX1lXZVhjX2p6aklMbWhQNm05UVpHejN5STVkT3hSaTFzaDR3a3FybGhTOFZDTUxfMGJ3?oc=5": {
-      "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWU1DNkJ5SGNZNTVYX3lRaTlzVVQwVlZURmhkSlBVSkpsbnRBM19HR0M3Tkp0c21nN2wwc29vMGl4ZXFuSFJvYktWQWN5ZW5ORThDRDZ3SG8xZGphS042RlVacEIweUljOHNoVHdYWFFVcHB2THB2c3ZBbWE0Zw?oc=5": {
-      "title": "NTTにNVIDIA…光電融合がカギ握るAI時代の省電力 実用化へ競争激化 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVThqQlhvb3ZYQjI2S2Q1NzNGdHllM2x3LVZQZVU2Y2NxMjRVWmVxV3BYWmx3LXhmV3VSQTVnNmM1NUJPRWFMY1JKYkZkanlnX3lORDItdF9tekdkdWFObVNUS0FZN1hlQUdDNi1aWjcwV09pSlBicGx4enA1dnVlUzFIeV9Qam01OVVtRkZ6LU01RnA5RlZ3enVR?oc=5": {
-      "title": "アサヒなど被害企業20社超の再発防止策を分析、レジリエンス重視が鮮明に - 日経クロステック",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkZwNldIQ3RDOWhCcHNxc2ZqYWFWQnB2Y09XUHFGVVZ2U2tGYXNuUDNSZUtWY1NwQ25qRTJOQ0dReEVHaXhKZHZiV3phOXI0dmVFQVZZa3ZGSkhJMVhseDVXSGM3WUZ6YjBWdnBCRWVXZzJ4WG9Md1EweXF0MUJIQTdUbkFQMUk?oc=5": {
-      "title": "ホルムズ危機を聞く 三井化学、バイオ・省プラの重要度 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdS1lVjE2NHd4REw2aEF3OUxsMmFLYTdHSlNRZzlpekVkVXR3UjB5WUNZWThNc1VSVWExV0luOUZvYXVEN2V6S3lHWHMybFNTaHUwWENmR1NwdVRNa1pGMWxZbjRJbUlFZHdZaC1naGFScTBTRmoyR0x6RlRJNk52QVhHYUpmemN6Tmpoamk5bEhFV0M4cEk4XzhGVWFQRXNRUUZ4YXg0N24?oc=5": {
-      "title": "ENEOS・出光・コスモ、原油タンカー全て通過 ホルムズ海峡 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMWFfeDB3X21iVXNxQUFjT1ZsVEFxME1ENkVnbnU2OWtGY1N1a3hJYXdKV1IzQmpDU0RpdFpYSU0wOTA2LVhDSERnNk1wY0htdllJbEpBSVhPSkhyY25DSmlfZUFYbVNqUUlaWlZsRk9YZw?oc=5": {
-      "title": "トヨタ、「プロボノ」でエンゲージメント向上 福祉車両運転のボランティア - NIKKEIリスキリング",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzUzR3VjRHVrNWpNbGpRQXdKYnVZNnJYZnJrM1k1cktYd01jRHIwZFNaNm1kcnRaNkt6RndQcEhHX25SSlcxeGtYM3d4bjBYS0xuU2xKN1BOQlhOcTN0RUM5bXFCcEdXWl9sckExR2hsdThXU092UjdRRnc0Y3U3Vkg2eHFKcmQ1cU9tR1dvYjlTY3dPS2Rocy1rWDlTal9xbDRyYWU2UUs?oc=5": {
-      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNmVIeWlpUlRyMTZJeFNlcDRvd080YzZTaEk5cVZsQUptQThsUHNaM3U1N3hnVXJ3WUFSMnlicTNGWWVzb2h6aFVvUjROcHZndVJ3dXNZVHhLTUc5SjdaVnF3WnVQR1pQOHNjWg?oc=5": {
-      "title": "熊本で「自然資本」の民間国際会議 ソニーやイオンが生物多様性を議論 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2FNeFdsQ3ZyczNKQWdXX21nTVN2Wk5YZlByMkNDZk1abnhfLWtQX1F0UlUxbGh0eWRDeld0ZXAtU2lTcUtMbnYwX0ZKV2tnS3hLVjhVY0tHYWsyU2pPQVhTN09HVGVKeklMLTMxM21OeldpY2VjRklPNlJaZi1aeXU5d3p6cmVZeTVGeVJCZHktRDJycG5aa2toaHJsaFNNMkx0MDR3MHQ?oc=5": {
-      "title": "熊本で「自然資本」の民間国際会議 ソニーやイオンが生物多様性を議論 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kT2lEOWRMWlpYdldiTDRUcEJ3OFhUUk8wY25kUmZjbmlldnVUcXY1M0luVEtEczV4V2NOT1RVTWhFeXl5X3ZqZHQwUFd6QUpJeFV0M0lBMkttckxjd0szX3JpQ2ZtOExXMXRiaA?oc=5": {
-      "title": "京都中央信用金庫、本店ロビーで狂言会 250人が鑑賞 - 日本経済新聞",
-      "company": "京都中央信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjh1ajBLS19Md0tPbU4yeTgwbjJvZ21FSGxaRUJTbmx4WGhFSEJvY3ZGQzg4WjNnRW1BN3lXaDhTeTNrUnhGRTdSTHRteDVUSVU3LVAwSXRMRkxnTGVMY0Q5OVRUTjJBYm43WG5MUkVhZzg5bDVSODJEdDNoZkp5Vjd6MGF1TjBXMDFfOS13SXVlNElONjJGLVJGUXpNUVBxUU8yWlBfWnQ?oc=5": {
-      "title": "SBI、利用者のステーブルコインを借り受け3%「利払い」 国内初 仮想通貨などで運用 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnNWZGxkSmVqaXAtNExCS1Awa21ydEtxc0h3NGg5bEd1dzdqdlJncnhzeVpUQzZGT1V1WVpjSGd4dmZMSHR1cmRZLXdKNkFoYmpaQjFPMFE2c283MGlFdEJDZC15SFBtbFd3ejRMakpfZzY0eTQ1QXBVeXdWc2llSUtscHRvdjZ1VEV0UTVWaUxLdHpaTU1wVXlOYlhKR2Nrak1yRGRLT0k?oc=5": {
-      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbjN6dC0xVVV6TmxxQmEwTlBPSTB2bmJWZDV6T2VyUDgtSmREcVBpQjRYS1dGcmMtUXNxcHNEbkd6RjRGbURoMlE4Z1FDZ2t1cUNtOThpRG1rSTNOdXlZSlhsM093OExzX19jWA?oc=5": {
-      "title": "日本株ADR13日、売り優勢 オリックスやトヨタ安い - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T21:52:09.629107+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRjBMMHVLMzk2N01oMjZieXpsVDZmdUxtQi0xbDcxTHdyNkR5Mm9rQl9fdmRlaE5LUERhWDczS1A0ODc1TmhoZURtekV0U2VmWkdCTmwwV2NNNUdIV29tU0FoaU5WLTk3MWRDVg?oc=5": {
       "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
       "company": "三菱商事",
@@ -1709,7 +1631,85 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-20T14:01:19.035017+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50LTlYc1VGR1R0UzloVFcxNk1KdHJiXzZmSE9nSXBUNV9waERVT0kzTDVGNnFIVnduYnlZcEZ1b285MldhUjMtN3NtTkdUY1c4bk04NFYybkJyaUFSUHZGbkxHX1pjMldTNWMtLQ?oc=5": {
+      "title": "型破りな研究者 三菱商事・野島嘉之代表取締役常務執行役員 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTRIRXRnb2ZLaHUxLXJEWUNKM1BUWFZKdDk3N1NVRmYzR1ZsVTcwS09aTzhnOHFuWG9CbVJsUE9DeHN0Ri1CczZabDFyYjMwcjNGdDlrZ1ZybWNVY1J6V3B5VXhna3RUT1dFTncxWFB3QkJVQ3BGRHVEcmxZcDFRdU41VllTSlk?oc=5": {
+      "title": "NTT、IOWN通信チップを宇宙へ 「スペースX超え」速度 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLNFZNTkNscVhqRkNFRmhtOUNKbFRhOFhyU2kzMFRiMjk3dkhLY1NRaElMLXJlc19nUWpnaWJrbzVjcHpLcXNiSjlVUHEycGc3N2V4SzR6Ni11YmNqMHNvS1AtdTV3RjFFNEdjcQ?oc=5": {
+      "title": "NTT西日本社長、万博跡地の開発「ICT分野で参画協議」IOWN活用 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Wm9LeEhxbGxuTHZrWHRsSzNJaVdqcnEzSXota0RRd1VGNFFOaGprZnA5Z015TW1tUmswdncwUExNRF9MRFptOUxZNGVfa2Q5aFhDTlRkUXJYakhMa0NnbzYyWmJXOWV5YXJtQw?oc=5": {
+      "title": "「背中見て学べ」では続かない 技術畑の三井化学社長、生産現場を立て直し - 日経クロステック",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OQVF2dk9iNXl6aHhSazVfMkwwb2xPODV3Q2hvUFJDV3NWT0FpMVFwZWc5N1E2dUlVYVZEM1FOVWpjM1B6NGxrM1NLdlg0NkcyVm1wbVBYN19ZVXdaMUEtcFcwS0E5YlBlR0dFN2ROc2VITjVWREJn?oc=5": {
+      "title": "BYD、米国抜きでもトヨタ超え 幹部が世界首位に自信 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xTkdCRzFvempqVnVDZlNlYVAxVHdJSVA3WkNlMzRKQ0hhakRRdldTSUw3c1dZbkswZFpoWWQweUJTTERydlBTRHpqcVBTa1VjU251dmFHUzZIWFlUS09nZU1JdnZvamM?oc=5": {
+      "title": "トヨタ・日産も採用 ファーウェイ、自動運転の「頭脳」で狙う世界制覇 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Kd2NHN2toNHJ2eElMSWxybmdsU3cwMFdETFVjMUtqUVdxVEI1ZDRCVWFPcGhBTl9KNlBvME9NOUFwMTlXbl9XZ1VFOGFkdHhzM2wzQ3ZlNzNKUFNPZnZLdDhwUUlwN0NyZFBhbg?oc=5": {
+      "title": "トヨタ近社長「稼ぐ場、現場にある」 経理が出向いて改善提案 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uMUVsTUdSc0VEc1ZsZnBCSG9Udzk2cmh4dFZoM2RueFJGU0d1VEJBcW42Z013b2hIVjY3d29SWmg3bFVwaFZHb1I1eElKYTVCbHVsOC1vSlBmM3QzUFBOd2ZDRWM2Zk10Yy1IRg?oc=5": {
+      "title": "トヨタ近社長「現場が稼ぐ場」 愛知新工場はAI・ロボで効率化追求 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DdndhM1hLU0NwMzFGcmJpeTl5RnFFZFdrYmN0NkhLNVRqNDZMV3hpczdVRWNxR1FHOXphOUdKRXZPRkpudmlnYm5PS2lGMmU3MXBsWg?oc=5": {
+      "title": "「稼ぐ力」強化へ、取引先と連携＝改善の余地指摘―近トヨタ社長インタビュー - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFozb2lYajVrV2ZoanVUZGpEQmwxczZOaFhwWTZ4ODlYblc4bEdESTN1YVpYWkhHSHh6c3ktOWFMY01fTDhrM1RFUHNZYy1zUkF0MmhyZ0JmS1hYT1E5WXNvWGhTc0VsMV9jcjAyVE1OSHNCRUxDTnlGWGNVZ2o3cWNn?oc=5": {
+      "title": "「稼ぐ力」強化へ、取引先と連携 改善の余地指摘―近トヨタ社長インタビュー - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGdTdrWFBLd2RuWlBLWFRGSGY0cjBQeE44alMxRldrd0NMNzRfUzFJYkFZSlg4Q0FpREx1S01GTkxNVFliRUlqS3ItOWN6U1hvRXgwdEJaM21HcFNDWU9yOG9uaWRKZUx0ek95dQ?oc=5": {
+      "title": "自動運転のT2、50億円調達 商船三井など出資で海運連携の物流網 - 日本経済新聞",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wa2c0ckhIMzdoMGZBWk56MXVfZGdReWVUZXZmVXQ0cVhxZklSdUhBRU1oM0ZnVEhITHg2Ym5pOFdJekJYUVFjbnFoNTdheUxmdGxVakREeVlhQVB3S3NhVGtFR1FlUGZEdmUxa2ZHUmJXTU0yLUFj?oc=5": {
+      "title": "東北電力、ペロブスカイトの性能評価 倉元製作所が提供 - 日本経済新聞",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9odDJRVHdSOHVXbGtKNGhCS3V0UE9DcHF6SkQ0bEZleHNzYzF4TnVuMXZKdkRfWVlBR09EUFpBeE9vNWZIVy1sVUNOMnNzYm9wSVZpWm1oV19GTzVjQ1RyVEpJeVVlTHI4QUY3LUI2cmN3QQ?oc=5": {
+      "title": "オリックス生命保険、AIとの共創で組織・人材をマネジメント ビジネス変革加速 - NIKKEIリスキリング",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-20T21:57:46.026491+00:00"
     }
   },
-  "last_updated": "2026-07-20T14:01:19.035257+00:00"
+  "last_updated": "2026-07-20T21:57:46.026969+00:00"
 }

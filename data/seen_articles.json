@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVVZIdnJ0dU1BcU1BTFpRSUZqYmJnLW1MVE5JMzBoVW5kTHB4RnE0b2xJd2VsOFNlOER3Qk9OUjlfcXJSMm81NGo2cVgzaW5MbGVRZ0FCQkNRS3RmQVNSajhQWWJhY09HV1E?oc=5": {
-      "title": "ニーズウェル[3992]：株式会社NTTデータと「つなぎAI」を活用したバックオフィス業務効率化の検証を開始 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LdEE0MzVELUdSV1lXejNKbS01MGhKR2JVM1dIaEducFUwY1phWjRJS20tY1I1TlZ5blhrb09jWkJwakpwaUpzWGJtVXlXOElkTzU1ZzZremR2LUxCM0lqRVoyUzF4aU1lS3c0?oc=5": {
-      "title": "ニーズウェル、NTTデータと「つなぎAI」を活用したバックオフィス業務効率化の検証を開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EMXhfVGdHc2dCWDhJak15aVpXZFpTZnMtVEJkWWVsOExSWEVUcV94a21hRklFZnpFWV9wNFI5ZkdjN2dSZnBwYXpLbXJoNXU5aGh5cTB1Q0Npa2l0Wk1lM0trM2ZUbWFFT29YQQ?oc=5": {
-      "title": "サイバー攻撃の損失を新たに28社が計上、アサヒらの影響で総額は236億円に - 日経クロステック",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02T1dJTTN6Zkw0emJldUxfSVFBV29PQWM3anBnVXdpSjdZcmtULW5Xa1ZHQV94UU5LalVkUzNuTTZHZU1fdm8yd2FGU2ZmMzlXRzVSWU1sQUQwM1dfUTJfazVxb2N5REJNV0ow?oc=5": {
-      "title": "Yaqumo、政府系ファンドJIC ベンチャー・グロース・インベストメンツとトヨタ・インベンション・パートナーズを新たな投資家に迎え、シードエクステンションラウンドを実施 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLVlJcGY0QVM2eXNCVEhYZVF4THd2a093eTlXeE1OczRBenJCZEFOZGRPNEhnNkp0eHRkQlVvMWVxYks3ZFF3QmFhb1ZIdG12NWtKOHVSQWkxZzZTTkNUd2psQzlqX3RTRW9QNw?oc=5": {
-      "title": "楽天カード、長崎市に「楽天カード 長崎営業所」を開設 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE80RVEyLXE3TGt1alMyTE94WHo1NklPSndhUHhEVkt4Y2RnRFVuQzRna2c3ald2WFNvSVl3Vmwxcm14a2tDMG5BWkE4N2hlMGliVDdjVjJIUnQ3Qk5ITnZiTmtIUE84dWpLODNF?oc=5": {
-      "title": "楽天カード、長崎県長崎市に新拠点を開設：時事ドットコム - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PdVZGZG16NWhKV2Z0MzlOSTYyTW82NjZ2RVF6T2kycl9aS2VvajRTNWw4NHRpYkloSnJGMEl0eE5LdWVCWkNoV3FmMGlYMzhtSVhvMmJRSlNFU0hONUcxMFFLV1BISXJMaHM4?oc=5": {
-      "title": "コマースファクトリー、登録者数12万人超のSNS教育系YouTuberカイシャイン氏と共同で楽天市場向け集客支援サービス『Roomate』を提供開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1aEtJcUE1SDBWUGEzRFU1WnZSTTdyRXo3YVF2N0tqYW56TXF6OHROMTltT09vZ01WZWYwdURGZUc5M3RmWkhIZDFKUGlLZUIya3pPVDBCb1N4X3kxc0FWMHRCYzNsOGFYZ193?oc=5": {
-      "title": "富山県初出店！ハンズ イオンモール高岡店 7月16日（木）オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95cFBRRHJHX211eDdnaXBEWENlbzhmcGNDRURVT3ZWUFo5Zmtfb3c3ZHFpOXFQM2t0NEV6VGxNQUNnYlctN1pOMmsyRUJXVEtyOVhOT1p1alFxMUdhYWxhbW93ZkcwWlowX1FB?oc=5": {
-      "title": "イオンフードスタイル様の戦略的な店舗運営の実現に向け、店長と協働するAIエージェントを開発 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2a3ktSWhVdTFsMmNyajY3SDNKNEVOUHNSeW56djNzUWV5NXBYUE1vTFZtS0hwT3FZanRQMHJ2SUNGVmxrb0dGdkVjaExvRl9ackFic3hZaF9DNEVFZWZaXzlUNWhSMmlFaWs4V19Gd1VLaEJtdHc?oc=5": {
-      "title": "ファンドのトークン化で実証実験に参加＝三井住友トラストグループが実施－アモーヴァ・アセットマネジメント - 時事フィナンシャルソリューションズ",
-      "company": "三井住友トラストグループ",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLU1FSjQ4RXIwZEs5YXVmcmREQ2VubmhpWFdSUGJaWEJHaXRWZkVmZENMMnU1aER4VWpDMDlLcW81VnRyb1c3dUZuNEZ5SWhUTUZJQk9ENnVuMFppM3FLVW1iUkFTRTZUMGdmeW5jc2ZWR2dmZGVDNGFUd2xuRnNwbXdfd0NLbVR5eEdRT2V4Uno1eHpVVkFKcGkxV2VXNFFzY19nZTRaWXNYekpkSmdDamRzOFBCM2ZiNXJ4WWJtY2QyN1JDUy0yVW9Tdmg?oc=5": {
-      "title": "オリエントコーポレーション[8585]：コーポレート・ガバナンスに関する報告書 2026/07/13 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oYnFkeDFSNHk2dkZwRDBURmVDN2VjcDZxY1UtNmRLY09zbGhENnBpdUYzUEpyeVZwOEF5d1ZZNFo0dkNMbzhGQ1ZxSnVMd2YzUG8tcmhoakNlQjZzSVRKV2xNa25DYmxOR2Fz?oc=5": {
-      "title": "三井不動産の日本橋エリア・東京ミッドタウン（六本木・日比谷・八重洲）で開催 都心のクールスポットで涼しく夏を満喫できる、夏イベントを開催 - 時事ドットコム",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WbC1fbjYzNU5sZHJXZXJkNnZnU0tZRVZfM2tkTUsxTVJad3B2VFhaVWs3ZjRTbkZLd3F6ektPRkQ3TnA5Y3p3cS04T3BWU09aN3ZCdDdUNWI3OXFaTFR5eWpQbXBsa0VxUF9z?oc=5": {
-      "title": "三井不動産グループの最高級ラグジュアリーホテル『HOTEL THE MITSUI HAKONE』 2026年12月15日（火）開業 - 時事ドットコム",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-07-13T06:16:03.035956+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9INHNyMlN6c1gyeGp5VTBGZTFVOW14YkZ6QWw0emxRRHZubm42aGdWU014bEg2WndPWXhmQjJ4S2J1d1MwVjIxemJ5aHMzTXYxUEJfZWl3WVZwcWY0SUVhRjliR2hRM3NUdldRYQ?oc=5": {
       "title": "良品計画、三菱商事との資本提携解消 商品開発など業務提携は継続 - 日本経済新聞",
       "company": "三菱商事",
@@ -1859,7 +1781,43 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-20T02:45:39.997925+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MR0xkTkJVeDhZUHJEVUkyWXVxU1RBc19WbWlzak1wR2VUR01fWDN2aGJidGdqT1B2UDl4VEx0R051MFptdHhJd0xxVVAyTFhGWGNrQjFXb000Zmk5UVpIZzJWa05rdU9nTWU0?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】迷ったらコレ！5gで腕に付けるだけの定番ポケ活オートキャッチデバイス「ポケットオートキャッチNEO」が期間限定特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZzJJNzB0d1BrZHkzUjFzX2RUNnA4b29nenpTa2EwR25wMnFyUDJ3cGxnOGFfT3dGZ2FJb0tCMDM0czkzcXJaaEE1Z0ZRYTBhQzNwTTIzck9TZ1gycW15anFZR09mUFJTaFBN?oc=5": {
+      "title": "【MOTTERU】7/19(日) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMC1XQmUyUm1GTFpfMnRSRjA4NHFWVmF2RHRhV0RnUjMtNi1waW5oZE93SGsyWkFmdTh3N2ZJUl81bkpWZGc4dC1sSF9zM2dPUjE3aWdleXZOU3E2bmxrdXVYY2d5NUgxcmJJ?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】ポケモンGO(R)対応オートキャッチ「Auto Catch LIGHT NEO」2台同時接続×10g超軽量で夏の\"ながらポケ活\"を期間限定特別価格でサポート - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWXJ5cEVJLXVWcnNndlh0R3FKeFI5NmdDMlZsVjN1OVVta2ZzaVQtZkwwRTZpN2pwdjZ5MGJxVG1LNlVkLU5xaDNzNnBDNzV1SDQ2Rml0WEdnMWdnWkRIOHhEVkp4OGQ1elgw?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】PS5で愛用アケコンがそのまま使える！PS5対応・超低遅延コンバーター『Brook Wingman FGC2』期間限定特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhV0ZLWU1WZ25VaUo3amxMM0F5TThmb0c1UFAwTE85aE9zdko3YWpKT0lyTlBnOWp1TTNnblBsbXVHenlWREdjYWhFcDFzcXNJc3lXUW5zY2dlLUZ1QzNKYWpIdGlRbHVjRGs0?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】ポケモンGO(R)対応オートキャッチ・4台同時接続「Ultra Catcher 4」が期間限定特別価格！家族みんなのポケ活をスマートにサポート！夏休み前に入手！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNRlRLQXdxYlZ2NFZVOGFWYTJ4cUZPUnV4VmNKRXpyOGhMYkRsb2xYcEhUTzd3cHFnYXRWVUZDa0ExUDJPS3hhb0RXMWdZSlBaTmtBMHEzc2k5dkNRTzdhWWR0NkpKeG1qMzlF?oc=5": {
+      "title": "【楽天お買い物マラソン開催中】「暑くて外に出られない」が変わる日。天候・体力の制約を軽減するポケモンGO(R)対応ARゲームサポートツール「ARmate（エーアールメイト）」特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-20T06:16:29.610930+00:00"
     }
   },
-  "last_updated": "2026-07-20T02:45:39.998054+00:00"
+  "last_updated": "2026-07-20T06:16:29.611236+00:00"
 }

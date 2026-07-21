@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRjBMMHVLMzk2N01oMjZieXpsVDZmdUxtQi0xbDcxTHdyNkR5Mm9rQl9fdmRlaE5LUERhWDczS1A0ODc1TmhoZURtekV0U2VmWkdCTmwwV2NNNUdIV29tU0FoaU5WLTk3MWRDVg?oc=5": {
-      "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2dvRGFaRm1NdjgzOFlQX3dwNzZ0V2l2bXVTVVFDbEoydjRQRlhDYy1kTXd3NU1mWEZMVTV5TWNFZFZ4b2JvMy0wNmt1cFdzbVRZbTZfajhIVlZLUFZ0Wkx0SVdJX1ZPbWlhT2ZXc2dhOW1wZzFmSENhek9VM3p2SXY5MTlveUZVWVdJN2lwclZPT0xZZ2t2ZGJyRWpqX2kxZm0zdWdR?oc=5": {
-      "title": "良品計画、三菱商事と資本関係解消 業務提携は継続 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyaU5mdnNkeVJ0SUlkNVVxZ2g1NG0yMDVWc1BPRmZoTTB3SFozTXVzUkJiX2s2V1B4Z1c5cHBHTDlVUkhWc3VwTmNfV1k2cE1Uc041LXdXR05uX3FlWWNsdmItbTU1SExGY25F?oc=5": {
-      "title": "日立システムズと三井物産セキュアディレクション、サイバーセキュリティ領域で協業を開始 - 時事ドットコム",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXdSdUdJSG9tMGtla1lYNnBabFh3MHJHZkpjSmR6WUVaYjI3QTYtX3I3eXRrVDhHbHJrS3VsaDlRVlhfMmFhaGU3bUUtSm1wUWhvWHFoLXRDeVl5Mk9mSElUdURZMk1KTlZtbjA2UTFDTUhGZ3RWeGlzMV8yUXM4aDRMTXZfa1V5YmdrWGluVEhkcUlWejh4YzYteGh6Z3pKeF9SWEYtaGs?oc=5": {
-      "title": "ENEOS・出光・コスモ、原油タンカー全て通過 ホルムズ海峡 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE14X1FyZUlPUndVTXpGU3drdXctVWRHT0U2bGhXZ2tzOWtmN2p3RGR5RFAtV0Y2UnM4TEpzM21SbTNXSDdVN1czOGV3Z09yTGY4MU5TMGFTV0ZWNWZ6OTdCRFJld3BqOWpGRlE?oc=5": {
-      "title": "ミツウロコグループホールディングス[8131]：コーポレート・ガバナンスに関する報告書 2026/06/18 2026年7月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ミツウロコグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FVDFTR2NNQUJHajVEdll2Vmhhd0lCV1ZDNDZkVC1YQlcxdzFjcDltNEF5WWIzNXlIZ3pmdWY0NUJNR0VtcmpiNkplSnE3UzhUQ1MtTUZYTnVhM2VnLWhnZlgweHUtcW1Wd2RGNA?oc=5": {
-      "title": "東光高岳[6617]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東光高岳",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3p4RVA5MEdGVUd2M2E4SFBNeXBfdzNJa2cyM0JXMHp2M2lKMFNHWUxTcTlVMnp1aUR4SGd3NTRfa0x3bDVuOEJpVERQdU1McUJieVZRZlBIV0xLQ01NNWZ4WmF2VGlhSEtDTjZoUmN5ZHFQTkZsdjQ5SjZXNUdmVktaLVQ2cWs1b3ktZ2hzbDNPLTJLdEowaEY3Y3RhTFVwZExaQi1kZ3U?oc=5": {
-      "title": "トヨタ取引先非上場3社の26年3月期増益 三五、好業績生かし拠点再編 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLRThKS0ZrbDhpMmxyZlFMak5kU1g5NGJwSlpCLVhHbWlFRklFS2hQazNBME9TeXJ1ajk5ZVJwMnF6Q1FjamI4V2RYUE5md2wxVUZjNHlWQWNyNGc4Um1IYU1lTGwxMERESHRB?oc=5": {
-      "title": "７月１４日、熊本市で開幕する国際会議「グローバル・ネイチャーポジティブ・サミット２０２６」でイオンの取り組みを発信 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aUWtxZlNRSlgzRU5QejNHeDBuWGp6TzdZdXk1cEFoV0RteTJ6QV9reEZkXzVCUXlYN29INXFkSTNGbU5SRV80akRkdUhQYXMzOE1TTU84bE5hcDh3YjFnMWl6bnhZWDhWeV80?oc=5": {
-      "title": "海外送金サービス「DCOM Money Express」、三菱UFJ銀行のリアルタイム口座振替サービスを導入 - 時事ドットコム",
-      "company": "三菱UFJ銀行",
-      "source": "時事通信",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2F2d0todnhGd0U1NXhJcmEwOThqNVpFcXRHUGNDUTBkRUZKTUNDUUxwNzVTTjQydUpZQ3p0WlBFalgzRkp0c1JIN0FXVWdKUzJEcGwtdXZaTjJuR1RCeFM3WTF6QVdSRlJZakhvOFFtM0Ewc2Z2OGVlZlFTSE01VHZZNl95Z191eldILXdHVk96VlN3RXM5akFPYzE?oc=5": {
-      "title": "株式会社オリエントコーポレーション - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmFHNEdQZmdMSDJWX1ozM05ONGk1UFBPRjRoOHVoTGRaelM1MUZ0b2gtNy1JdFVZMlpJWWZsLVNVRWh4SVZLOGpFSDFMY3RoWURaLXFJaEV4UUdLaVQtb1JEeGxhNzE2ZlZvOERCNXQ4emtYZGR4RnZsZ0ZCd2V1Unc2RDk5aHJSTTRRUnBiQXppRWFxaW5NLTNBRDlXdC1xSEVxZldn?oc=5": {
-      "title": "JCB、訪日客向けにステーブルコイン決済 米ドル連動「USDC」で - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE0bkxMS1d0WFZseDBOSW80dTBQQUlydEgyZm1pQklhVWdxSFNzcXBDSkw4YWRCZVgxVnQ4MEJVZ25FWGJCNjNvUzNVY2hIWVdPWnBsVVBOYk42SHlsY2FMOXd5cXFYdWxoYlBtMml4ZTFtT09qT29KWkFFMkRxeU1NZGxEaE5sbEEyZGpUSnNkeG9kUG56LVlYM2NRTDI5NlE4M1VuNFRYLTZkZDViSEROVUNCSG0yUnJpM2s4UFc5cWNJb3Bjb281OVo?oc=5": {
-      "title": "東映アニメーション[4816]：コーポレート・ガバナンスに関する報告書 2026/07/14 2026年7月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T02:14:30.668803+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wV1hramxGeFFWS3hWZzBTUGtFYTZCWnRUVkhjampHVE84SnkzWWx2LU50MzI4eFRlUTNpWFpmaFgxaWh6a2pEc1RYMGVvX1pMYk9zUTh4c1l3d0F0bERCZXhEYnZUOWwtUC00?oc=5": {
       "title": "日立システムズと三井物産セキュアディレクション、サイバーセキュリティ領域で協業を開始 - 時事ドットコム",
       "company": "三井物産",
@@ -1709,7 +1637,61 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-20T21:57:46.026491+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LUEpmN0tzOUs0dDdWUDJwRXFfTmhlQzhpdzgwbFd4VTNDTVVVTE9rMWZEZ2MycXBqcHh3NVJEamkyS0R1NXpWck5YNHVNUDI0b1hqbDlxN0VuMFRsUGtPQlZpWHpTTi1ObGc?oc=5": {
+      "title": "池上通信機[6771]：三井物産エアロスペース様から札幌市消防局様向けヘリコプターテレビ電送システムを受注～より遠方の現場から、より鮮明な映像伝送を実現～ 2026年7月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQzZkY3VFQ0RyZ2NQajczWVJJTVRoek5CeFNtTXdiZEJOTDVVMEJFVE0xQVpJcWtIX3lMTlhESlphZUljb2dobE4wMjBpOTdMWjlOOFNsTlVhSmI3dmZJSTdXWGNVSXJVbndGYg?oc=5": {
+      "title": "サッポロ、「サッポロ 男梅サワー いい塩梅」を数量限定発売 - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tMzY0VGdlT2hFckxMREhzVnJ1WVI0OUpXSmU1OHBZWjh5SHp2WllKQ2lSWFdibzRSNHd6WDVqNUFJcnJKelI5Qk1aSTk4SHlyTE9XeA?oc=5": {
+      "title": "「稼ぐ力」強化へ、取引先と連携＝改善の余地指摘―近トヨタ社長インタビュー - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE04RlZTUWZGOUlZa1dub0RMMlVvRUZmdXBkYWZ3bEJKYzFFWDNfcGhZWG1lYXlKVmhDMUFfMWxNNm9NN1NZVC1MQ2twYTlYUzZCMFAxcW81QlMwRG1IRTU1NFA3UkItSFVPbGY0?oc=5": {
+      "title": "BaseMe内の就活生において「AIに最も相談した企業」1位はサイバーエージェント ― サマーインターン期はトヨタ9.5倍・ANA急騰、企業研究をする学生の4割が\"面接で何を聞かれるか\"を質問 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ybmVhQnd2QjBCQUN3Z0hYbkstSEFqb1JZOC1MU1BudEp3ZDhOY0pCSV9ja0xjT0plYjAxcFN0YnZsMkRDRFFncTJNQ1YycVhUX2tQcjExRFN3M3lOMXY2WUV3amxnSDV0UFlv?oc=5": {
+      "title": "トヨタ・モビリティ基金、2026年度の「Mobility for ALL」プロジェクトにて８チームを採択 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjEyc2FaTWRTNGQ1VEdBT3JXTHRWTGJqUm8yTjVQajhmMmFnNXVobWxoQ1BNLXdNcFBEMlpkT1JlVGx5YXBVcF8wMEZoNXJMUmhyZ3RwWkFGQmtzQTJ0WVJhM3cxNUplY0k3WkVCdjYwcV9DMlJHYy1tSnAwOTBSS0V4OEgwUmpnNWdvZ2l0V3B4blk3MEtpZ3d2Z1BaNERjNnpsTTlzbGhNVDFZMGNBd29JODdzOXYwdEY3dTQzY1VLdWczZWVvTzZUMTU?oc=5": {
+      "title": "イオンファンタジー[4343]：『にゃんこ大戦争』の限定プライズがモーリーファンタジー・PALO にて登場！「BIG ぬいぐるみ」や「サウンドマスコット」などが７月31日より展開開始 2026年7月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE40aTNON3NXWS0xV2pFNGtnZC1NdnlNM3pIVmJnamhMbWpyS0EwZXBBUkdiejgzMnN6TlAzZk43UkZaX1lIS0t0ck1ZdDg0VmxVVnFQYkJrbWJkc2JIcmdnUDRoTXRULW04RHVn?oc=5": {
+      "title": "屋外設置型ベビーケアルーム「mamaro solana(TM)」を「イオンモール川口前川」に設置しました！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zck5PQmlrSmMwUF9EbGtCdk5GQm9SMHF4WmR0RUtVdFhEUFlVeVpKNVE1U051UUw2dlktSnY5N2pfaUttMWxxUEpMN3V4X1ZPUXJBdjV0VGdJUmxFbnhWVGltNjlxVTk3dDhv?oc=5": {
+      "title": "ラントリップ×イオンモール太田、夏の運動不足を涼しい開店前の館内で解決。登録者150名を突破し、8月2日に開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOU5mQ0hmaUdwNTBEb1BDZXp3UVdySmJielBRYkYzdXRiZUFhWDVQdk5kTzdVM2R5WEVlRFZrc0tTYUk4UjZRTEpROEFZQXR0ZmoyWGFaZ0pXRThhYnF6djlsSS1JaXRXcXp5MjI1c3lCc0VHTnFqaFhiblJCaTg2bU1XZ3pQaUJycGxNci14VU1rRkpuSnRDWXJB?oc=5": {
+      "title": "九州電力送配電、顧客情報1354万件漏洩の恐れ データ保存用のSSD紛失（2ページ目） - 日経クロステック",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T02:29:25.061947+00:00"
     }
   },
-  "last_updated": "2026-07-20T21:57:46.026969+00:00"
+  "last_updated": "2026-07-21T02:29:25.062452+00:00"
 }

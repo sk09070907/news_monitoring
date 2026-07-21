@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdWRvdVdhdXUtZVB1NG5lQ2xWOGNLdzlZNlhOS0tWaGdBTm1WblM3WlZXOV9hcG1GRTdlMHBGczRpRlZ1NE95UHBjQVRsZmpjTVNRZ0tNMEZmTnhOQ09hVGJUY3ZwcDhOSWc?oc=5": {
-      "title": "三井化学 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T13:29:25.886447+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhZN01VcVg4c0pDXzRrRm1HNDl5Y1d0VFlfd1lkSkZQanVKLW1QWnEzWjNfUnp4TUJPRy1rV0UtUjJ2cDNHR0NMY1NxMGx6M01BQ2tfeWtwLWVVeUctU1ZmYVdIV2l1bTBuR3h2SHFNYzdEeUJWZ2xNMnZTeF9oZ2JOLXlqdDBwZURIV2pGb1ZaMGprTFRHS0p6eW8?oc=5": {
-      "title": "東京センチュリー株式会社 - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T13:29:25.886447+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YS1RnMXRJcVFZdU9XdFljdl9FMTJXNDZNRUFBcmNsNWJJZnZkMkFjdWVuTm1sd0k2ajNONzhITjZiMElIVUlyZnR3SVY0cmNCZVRXTG51ZTd4Tk1EQ0VValA0dXBDVWVFTi02bnZ3?oc=5": {
       "title": "ブローカーでの再保険手配【豊田通商グループ】 - 日経転職版",
       "company": "豊田通商",
@@ -1625,7 +1613,19 @@
       "company": "名古屋銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySWNpcXYtRnAyNVRyOFpqMG55NE9abVZoSDlxUEtBNGFFVG9KSEoxVUxBVE8yYUpmbnM3dS1fcFdweXJiUDl0NnEwNE5VUEpMeTVxcjdSQU45eHczYkRYZk5xcWkxOUpKZzFySA?oc=5": {
+      "title": "三井不・NTT東、食事配送ロボを実用化 施設の仮想地図を活用 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T13:44:26.072407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndEY5V3VJZEJBSUFBTDdjZEZ2Vk5FNEpUMEkxWFZnV0F3R3pRVUx2QU5rR2wySkxhZlJYeVAwSzItUXZFbjdkRnRhcllIeGt4T2wxWHhTV2NvdUlyN0JaQ1FZcUM5cnliRklnWQ?oc=5": {
+      "title": "フジクラグループ、経営理念MVCV及びマテリアリティの改定を発表 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T13:44:26.072407+00:00"
     }
   },
-  "last_updated": "2026-07-21T11:06:34.249372+00:00"
+  "last_updated": "2026-07-21T13:44:26.072832+00:00"
 }

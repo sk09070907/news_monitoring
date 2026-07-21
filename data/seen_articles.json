@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZXJyVWJLekYzSWNuaUItR0dfMXpEWUFGOG1OVzVSNHlxc3otLVFhOEFIV3ZWUnY1LXA5RzYxV1F6ZWhrQmVUTWU2Z21FWjMzY2lIM29FbElMaFdKOFRGNDhqdkNOTTJPNHdycw?oc=5": {
-      "title": "住友商事、データセンター機器リユースの米企業に出資 数十億円 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pOXVTcjlDZDV0Q1lTT1dLNmpMVWRrSVFrVElMRC1sUGVMRTZWUzk1WmRoV1IwbVhEaDE0a2lCOHJLWHNlNld3a0JueERRYnctNjFMVzRQdkVNVFNMWFBNaGhtLUxEZ3g0NVB3?oc=5": {
-      "title": "「第77回NTT児童画コンクール」を開催：時事ドットコム - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXR5TjdiS1oxR2VDZzR2cHZ6WFA3U0ZVbzBYNlMybVMyVkIwbF9fNkROd2ROYU1CWGdQN3NudVZtbGN6STBhR1J5NWREWUQyZ1NBMUotNW9NUV9ORzlUTTVIT0lWaEZsZzZzMEwtazFNNHdWQ1AwTHNZWFBKUnROaHpjTFhEc3dNTTdnVmhfV01xN2MyVUtMWHE5ak92QzNqcVlnMmR3?oc=5": {
-      "title": "トヨタ取引先非上場3社の26年3月期増益 三五、好業績生かし拠点再編 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE45YnllTUw0cFFPWWVvejFCdEMweVhMRjZIOFBDbV8yZFEyeG5nWmpHb3djVE5MVWhueHVhSHpTU191ZUlQMUhnUTBjMmZjRWI2U2toaGVscHJOemNaaFh4WTVQc1B3dGJmTDhZ?oc=5": {
-      "title": "【楽天市場50％OFF】5月に完売が続いたBluetooth通話＆スマートウォッチ「DOOGEE AnyWise W1 Lite」が8,950円、7月20日まで - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82cHVSXzNoR3JOWEdRN2w3amdVYms4a2hvR3ZIYUc5Yy1KbGpnekgydnNmWFhlN1NneFdYS1E4TDdOMFp2NDFrRHRJUUtWcU1KTlpYQVVxOFR0ZlRJVEJsWVNtR2w4VjkxUXEzZQ?oc=5": {
-      "title": "九州電力、バニラビーンズの生産に成功 国内需要の9割輸入 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sUEJBSzlDZkNBd2FhOHNubVJDd21JSDJjVE1ydUN1Vmdxa0FScGhOc2lkZ0hXWHRhOWxkbHF4Wkp5SjQta18xOExEQTV6Z2JLalgtaUpTUTN2TWF6QVkxcXA1aVNBYk92MVA2Yg?oc=5": {
-      "title": "西京銀行、新本社ビル8月稼働 地域最大の800人収容ホール併設 - 日本経済新聞",
-      "company": "西京銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aY1NKMi1hWTBTdXkzMTFBNi1Ea3ZRNzdhZ1NiaHVrS2hIdXA0bVZydTlhTXg0WUhQZWtQakZqQ0xGOWRURmJEa3dpQWNWZ0Zrd2JPRk5JeWF0aHBDN3Q0Z21RZGRiRzI0U2c?oc=5": {
-      "title": "東京センチュリー[8439]：コーポレート・ガバナンスに関する報告書 2026/07/14 2026年7月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T10:43:49.613570+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdWRvdVdhdXUtZVB1NG5lQ2xWOGNLdzlZNlhOS0tWaGdBTm1WblM3WlZXOV9hcG1GRTdlMHBGczRpRlZ1NE95UHBjQVRsZmpjTVNRZ0tNMEZmTnhOQ09hVGJUY3ZwcDhOSWc?oc=5": {
       "title": "三井化学 - 日本経済新聞",
       "company": "三井化学",
@@ -1631,7 +1589,43 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-21T08:24:55.200324+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HVVRic0J0WER0Z2ZLSFlSMW9NTHRTczZXZndnZllLUjFmczhuWGJTVnF2bnpMN0NWVVVOdGZTSnhmTG9Yb2FJbWMzRW9mZE93N1htaElRNGxsLWRVVWZQYms2QndhOUkzdzNF?oc=5": {
+      "title": "ソニー生命、NTTドコモビジネスX NPS(R)ベンチマーク調査2026「生命保険部門 請求体験調査」3年連続で第1位を受賞 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYXZFOGxiQTFycVZGam1kbU5CMUFKUmdzcl93YVdfaFhaTEdQc0xrbTBrbTc2b2lJUXBVelZlbV9DS2ZFNUd4VGhJdGFpZDlCaTBtOXpWYVVsbUEyZlA3ZFktcUQzSl8xaU84?oc=5": {
+      "title": "宮崎県警察本部、NTTタウンページ、トビラシステムズが「犯罪の起きにくい社会づくりに関する協定」を締結 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KTlNkZGYzcFZGekdfVXRkOEI2ZEdrUTh1RWt4YUJ3SDJsN3ZTQ0FUMmlTMUswUC1VX0RnVDA1RmV1SlBSQTNIVjk0LXFxaV9tUF9uZXhsRlEwUnR4ZndKX3otWGVIMC1OQVRNXw?oc=5": {
+      "title": "フジクラ、6月の上方修正は「米国外での突発受注」 不確実性高く - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZTN2ZlEzTWlBdUs0NlY3UExDMnlUYXNXazBfQ01DM3oxckEtWUpvaDE1bzhSU1RlcFU2TnMwSFgyUEg3WWlUeDdoQmJWaHc5SmUtcXdTbzctcXBHaXNESWN5S21lYUM2OUhvTg?oc=5": {
+      "title": "アルプスアルパイン、次世代EVの48V電源に対応した車載検出スイッチ「SPVQKシリーズ」を発売 - 日本経済新聞",
+      "company": "アルプスアルパイン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFNk5YUlNGX1BvSXd2clFRY1dGNVdWd04zQ1c4R19jRWZ4X0RfZXNXV1ZjZmdWNXBmTUxhZDg1NUVjRHdvRlNaV2h3OEQ3bVZyaWYzSnowY3hPNGRDNW5pOFBJU3J1NXBhbkdVSQ?oc=5": {
+      "title": "トヨタ系サブスクKINTO、中古車で初期費用なしの新プラン - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xR1JuMTd0SlRPM09XSDdiczZMTmRnbkw0RHRBcmF1ci05bUdXRThGeG9tM2JSUGlNWWtaNVp1c28xYTlickxYbVd2QlppWElPNllkU0pjSnNQNmVqeE94TzVDVzE0Rkx4T1FabQ?oc=5": {
+      "title": "名古屋銀行、取引先の会員制総会を開催 懇親会で顧客同士も交流 - 日本経済新聞",
+      "company": "名古屋銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T11:06:34.248926+00:00"
     }
   },
-  "last_updated": "2026-07-21T08:24:55.200817+00:00"
+  "last_updated": "2026-07-21T11:06:34.249372+00:00"
 }

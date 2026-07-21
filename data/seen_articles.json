@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YS1RnMXRJcVFZdU9XdFljdl9FMTJXNDZNRUFBcmNsNWJJZnZkMkFjdWVuTm1sd0k2ajNONzhITjZiMElIVUlyZnR3SVY0cmNCZVRXTG51ZTd4Tk1EQ0VValA0dXBDVWVFTi02bnZ3?oc=5": {
-      "title": "ブローカーでの再保険手配【豊田通商グループ】 - 日経転職版",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ZlZ0TmVDc1p6NDdHb2g4cURmaUxHT0gxQ003SEM1d1N0Q0V6dkVvMzZGY3N2YTlmNXFsVkRIa2NlZTBveUd0SzRMNWFiNjcycG11aDZzNTgyNTh2bmMtYzdKeUp4bFdsMGU1YQ?oc=5": {
-      "title": "フジクラ株、「上方修正サプライズ」後の上げをほぼ帳消しに - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEdVWVhtQ3c5NE9wUy1wekFPTTd5RnYyc1FpNllXb2R1VmVoem1Ed3lvMEs0MnhMVEdwYUZnd2NyekRycHRDMEVoU3B5ZkVObi1LQkFEYm9BY2lxUlFfYjZOSF9jZXZkTzlRTU5yT3hVaWpYME94WlhkNzZqTk5HUmRieHFxZHRLeGJ1NkV1VTM5WGtWcDJDYk9ZaGxDdE15eUhZ?oc=5": {
-      "title": "楽天グループの親子上場、「会社秘書役」の嚆矢に - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUlFvX05laDloRE9WZFlkbS1UdmZRZnB4WnlwTFMzZHZhaFFNXzV2bTh4bjJnZTlrWGtoQ05YNUZoUEZnS28tZkhSSjZmR1VqRFJLc0JTc0hUVjBuZTV6Ymk0MFRGVU16YXphZg?oc=5": {
-      "title": "札幌に楽天ステイ進出 6〜8人でも余裕、EC人気商品もお試しOK - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HdlhBNGgzZVkzallSakNCR0lBNkRSN2RyMWFxVldMdTlKdm1nc05uZEE5Z1BWMUhHMTFhN1VoUzFTeTd2NlRnMXlpTFlZNlZQTGNzbmRadV9LVzJ2NDVhVEM3Z2VTeFpjME1iNTB3dmlRMkphN2JoMVRleGRwdw?oc=5": {
-      "title": "楽天モバイルが手掛ける日本発の衛星通信 政府が1500億円支援の理由は？ - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EX18zcjhWd2VVVFNHZlk0WE1WQTNBc0pUZFB6VEJUNVFCQl9wSWd1X1diUHpseTR1QTMwcm50NlplMFgtZnBVM01majNWX0NwWm5PLUphNjQ4LWZLLVZBYkdiVU43dW1odldzWQ?oc=5": {
-      "title": "イオン、「八王子滝山」は食品スーパー無し 有利子負債2倍が迫る変革 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyRnhQbnMwVHBKc1hEOGNtdDVPazItUG9qWE5sc2NobzI5M0xrcl9MQXZWQ0ItTGNwZnJkd3RLc2lfWlJ1QjZpME5CQXpBcGp5d0dlTndQeUxRRlM3eEVIUGRSOUk5Ull6eWVWMg?oc=5": {
-      "title": "水などの自然資本、国際会議が新指標 ソニーGやイオンが環境再生 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-14T21:54:07.248390+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pR05KQ1VUdUJXTFQtamZpMGlfWjNCMzNaUlBZcEF2WUFXbjdCclV0dXNDMTJxY2JGa3NrS2FVUGFQbF8yNDV1ODRLTXBtTGw3RmtuYVVYdkN6ZUFWLUdNSWxhUTRpQmVRQnc?oc=5": {
       "title": "三菱商事[8058]：特定子会社の異動（子会社の特定子会社化）に関するお知らせ 2026年7月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三菱商事",
@@ -1625,7 +1583,61 @@
       "company": "フジクラ",
       "source": "日本経済新聞",
       "seen_at": "2026-07-21T13:44:26.072407+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MGx4ZFhaeUMtcy1JeGxlOVZsQTBkZHhGaGtyTXIxYld5cy10UWFXbXowcTNndFZJUjUyZEFCVjkzVzl2MldqT0taV1B3OFFlWTJOMlp4Z0JJaF9DSHFTMjZGTWZLQkljcnRSaA?oc=5": {
+      "title": "世界デジタルサミット NTT・AIの基盤つくる 日本IBM・生産性を6割向上 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55dTVMdjJsZEkxOW82R2RjNE1LZk5EOFRERnFNZzJYX2hSM3UxYUplaWNqOVE0TjMyU1lzcGVkWkJtUTJDNHd1Y3JlcDdva1k3aEhYMzVpY3RnRjQxa1pIVk5BbXUxWUMwckR6aQ?oc=5": {
+      "title": "ホルムズ危機後の三井化学 バイオ原料、リサイクルと攻めのM＆A - 日経クロステック",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80Ym5Yclo3bTZFUldjQkJUUVJ3aVlPZWxNbGFGNUlQMEE2ajFjd2ZoalYtS0QxTEJieWYyZGFtMlVTQzh4V05HOTNsaXNDOWZ6amhESGI5T1BfT0lpcHNucWo3VDhTM1JTZUpESw?oc=5": {
+      "title": "フジクラ 6月の上方修正、米国外での突発受注が原因 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kNlpRa2JQRDZ2Q25mQkYtdWNVajRaTTI0T2lxR2VOREpNbVROMUpkV0dGLU1NVlhKZUVpd0lOU2xISEVYUjNtY0s2ejNMYktHSmEyQkJ2SnhjRlJxa0xTRmNmWjNyYndFTUM4QjYxSUdwdUdNYk1n?oc=5": {
+      "title": "合成メタン､大型設備の開発競争 IHIが30年に25万世帯分 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtamNuYUwwVG1DY01MR2NINkI0bDNaSDI0YWdxN3p6RDVsT1ZYcmF1TGh3cUszbnR1ZjQybFUtNEdEZzNpSnVpcVJuQXp4c3ZMbnVGSzZZZnZEbk1qczIteEVaMmRyVTRhZVkzSVZMRHBTM3ZDbEpHRFE4Wmc1WVE?oc=5": {
+      "title": "編集者の視点 ｢トヨタ､南アで新型ハイラックス生産｣ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3NjZXdDcVZLSUEtUzVGQUdLXzM4bzBqMXBwYUhwNFA0YVRuNFZ2bUlWaUR0bHhNR3cyMFl2YjhMdlZfYlo5VTRHakk1a0lIRzk0eXI5V09haVJrMG91TXNVcmxVNFZKSzVWMEVUV19UNDcwampEQzljQVQ4TG9PUXZkT1NVNVhSWmU1MQ?oc=5": {
+      "title": "発火事故が多いリチウムイオン電池、「燃焼の3要素」が内部でそろう危険性 - 日経クロステック",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qMFh3cENCSFZKa0pVQjZ6cmtVYlVZeEw4SkF4M0hxLUl5T1BKRlJXeHVvd1E4d2NwRVU4SER3NmphZmJNcVZ6MkZ2ZlA3M1NEZGJrRHh5M3FGV2h6ZUVza3hSSmpSZ1VOV0piMA?oc=5": {
+      "title": "データセンターでリチウムイオン蓄電池が急増、政府が規制の矛盾解消を検討 - 日経クロステック",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RQ0xzcFhQbVlDYTEtWmw4NDJPT3BKWWNDaDdfa2c2cVJqQzh2OFJrWVZIVXM3OFZZV0YtN1ZrcF9Mc3lZc0tRVk9LZ1ZEUlhVVTBoMVBXYjlpaUQyMUg1YXJHQUNhUzVEQmZDWGxB?oc=5": {
+      "title": "【IT計画グループ】中部電力グループ全体のIT計画策定業務 - 日経転職版",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZZWZ1MVpLdlVKWXFJRDItckJuQk5MNTRsWXNvX0QzLU1OY3J3YzhSVTJnczlhM215SEpIS3FrSUtLSDUzUWRtS3g4TGFxM0ZrbGk1dmN0ellqQTNHOFVXNWtmVGc?oc=5": {
+      "title": "画像・写真：ソフトバンク１―２オリックス：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-07-21T22:00:53.824582+00:00"
     }
   },
-  "last_updated": "2026-07-21T13:44:26.072832+00:00"
+  "last_updated": "2026-07-21T22:00:53.824933+00:00"
 }

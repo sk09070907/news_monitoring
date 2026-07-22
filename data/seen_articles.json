@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SMFdZYkp4dXJwMEVvYnJ1bWZYeEtDRXV0bzRzNzI0X2ZxaV9iOVJtZUtDMWN5RTktYUl4bHdEakJEMEdKTUFtb3NUd2V6WFVIdlN5RFFaLUhXYnhvVnlVbUtNYlJqOTNub2F0cg?oc=5": {
-      "title": "NTTデータ、請求書業務DXサービス「TetraBRiDGE for Bank」を提供開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PaUNrQXRQSWxZU3NVYTV3ZG12Sy1jd1A4Qk1LdUlSZTVRUVBuUzBYUUo3bzBuVFJUbHFxam13MGJaZERBWmpLMUxBZVhmdUhEeXhjZjdrVWJrVXZPRUtGa2VsNzR6RWYxeXNn?oc=5": {
-      "title": "ソニー生命、NTTドコモビジネスX NPS(R)ベンチマーク調査2026「生命保険部門」2年連続で第1位を受賞 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1bm44RUxEWmI5Ykk1NHFvdUluTHFrOTJfN2JUbmc4aXBES1E4ZmhpalNCdmdoMWJ1bC1GT0RFakNkUERwUkJDUWNockhIdkRGbno2NVlQSnhQeV9faEtNTnQ2V1dsX3ZCcjZpYg?oc=5": {
-      "title": "R&I、フジクラをシングルAプラスに格上げ - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wbkVMclJFb1VPendGWE5ITDktc0ZNNWtFZnhLRnN0eUlUTzhVWUJULVM1cTdyTXNwN3Rac21ocm1vZzFYeW96V3dfQ3drcG1uR3ZZZFliZnZsSWRNdDNYcEJITmFpSUk2REh0UQ?oc=5": {
-      "title": "フジクラ、FASTプロジェクト推進会社「Starlight Engine社」に出資 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LOS1CaHBaU002RUZRVzY0OWktbF9YUDA4UUxuQWgtUXR2TGc5MW9xZVBBeWVSZW5MbjdoWnRtakFGaFl0dGJaM1dyYmdPcHFSM3p1R0F2Wm5LN0ZORThJYmI4MnNpRzM2VFRR?oc=5": {
-      "title": "「楽天ブックス」、夏休みを前に「自由研究に関する調査」結果を発表 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSlN1Qk9JNDFkOWZ1aWI2N2FrMTJ3UzhSMnF6dXBtRFhRMU14VnAtU3hlaUxlZEF2bEM3QjBFc1NON2J5TmIwQjlWRDFoRkVNWXc0Umd1bVNZNFBjQk40YWhiWEo0V0YyRW40?oc=5": {
-      "title": "楽天銀行、「25周年ありがとう！超大感謝祭！」を実施：時事ドットコム - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTckNIS0dQX3FXT2lvRDVxcDNIcnN3OWRjbVk3ZEVzZ08xNlFDM2V4S3hfcDNZN1FCUEJUUEJNT1ZHekNxMFZNMlJ3Mlh1anFFa2hlLWlzMGhjVFBWX0s0TW1vbw?oc=5": {
-      "title": "イオンやくら寿司にも影響 ＫＦＣは休業のおそれ、配送滞る―ニチレイ障害 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51NnliS21JMC1kdmktR3NXamJzNXh6SEVvR2J0aWJYcnRPZGlOeVU3MlpoM254MkJoTDJVb3F3b0h0ZDk0c3JUSlNLakpidmdmeThfYw?oc=5": {
-      "title": "◎ニチレイ障害、イオンやくら寿司にも影響 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fc3laTW1sZHdBT1h1aktaQV9IRnExQk5xMGUzWFU4eVEyeFFPeGk1Rm9IbDhsdzZUX1hVOGFZRW1FVG1yODJCSThOSEg2ZnpCS0x3cXF0cXVOY2hqQzZPXzFWNkVVNWxyRTc0?oc=5": {
-      "title": "【JR東海】“名駅”エリア回遊体験イベント「メイエキクエスト」を開催します！ - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdjhoN2hhZW9BeTAxMGNjN1YzdTBocmZBWjB6SU8wV1lKd1c0blpPdUN3UFNfZVZuQmhEM0JwWnVIdS15NENVQlpmcWNQbGRtcGlXQ0R2eWdCamxWUGhRcVVQdVg1b05Ud0hxSQ?oc=5": {
-      "title": "エフアンドエムと三菱UFJ銀行、業務提携契約の締結および「F&M Club for MUFG」の取扱開始 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PMGp6UXQ2dVhXVjc0TWMyOFhhcmdvWjhjTGUzdzVnREpYNk11TXdVLTNzRUJtbjBaYW9ENjdBTTdva3VqeUZzMXlMQmU5bWxoVkxGcVBHTnRkeHZ4V2xER2xqWWZNUkRFbVBN?oc=5": {
-      "title": "日本生命、ライフサイエンス・イノベーションエコシステム形成に向けた四者連携覚書締結について発表 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkeC1NdHYtUzdQajB0RmVOTHp0TjNQZ0lZa2Z6YXVmSmMyNXYwcWtMTkdIdXBPSFV1M0FSam1nM21NQjJFdVVRNzlLLThacTVZUVpvN045R3EweVoxVmtLa1NVZ2RqNl9Rb1Br?oc=5": {
-      "title": "ロート製薬「BELAIR LAB」×オリックス・バファローズ コラボディフューザー数量限定発売！ - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-15T10:48:09.862944+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ba0d4czZGSG12eUQwNy1yaEdnT3JJVE9CTkNDNURubGxPQjdKRUJjTU9aVzZWRk4xTzktRVQwYXlmbWo4WnZTdUViRmNuTENMaHhxUzU2dFFuTmpvS1JpVFF5NENOLVBUNDVodw?oc=5": {
       "title": "三井化学、歯科用3Dプリント事業を子会社に統合 製造･販売まで一貫 - 日本経済新聞",
       "company": "三井化学",
@@ -1499,7 +1427,49 @@
       "company": "大和証券グループ本社",
       "source": "日本経済新聞",
       "seen_at": "2026-07-22T08:25:30.253800+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hb3g4bGtzeXMxY2NmQ2F2WmYzalkxMU92SE1qMnpRQ0hfTkdwdklmSXVDLUpPeG10UWZrTmx6SFZpbFdSbXBjUHBwVGF4dTZRNkJZWWVzQzlXc2tYZXdlRGhZVTFLZ0t0WHhzQQ?oc=5": {
+      "title": "NTTデータ先端技術、「Prossione Virtualization」導入・運用支援サービスを提供開始 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9semxnQ2NyOElwckJucmx2RG9pc0ZnVjFxRlJBbGZpbTdrcTV5VS12YVBHTThyNVBrWU43M2RQeW9VYkV6djFkVlpRRnVVa2NndkFUb3Q2S2txb1drdkh2NjBNT3JObzJzTlI0?oc=5": {
+      "title": "NTTデータ先端技術、「Prossione Virtualization」の導入・運用支援サービス提供開始 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTUUFpd3Z6ZWdBYU5xN1pOakl4SHY3YXkxS01PVWMybkVyZzNzbHdqZUpQdk5MR3NQZ2l1LVpHdjNCeU5udjBVQXpkamhsb2VsekpjcDZranVEM2R5ZzBiUlE3aFpFRUhEN0Jmcw?oc=5": {
+      "title": "イオン、個人向け社債700億円を発行 機関投資家向けも準備 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vcEVvSUJUYjFud2IwR3JZSlRmZUMyTTRBQlk2YWo5U05xaTVsSFE4NVEyNE9VdmYzY1hXczFUM0dlQ0dnVDN5OF9MY2xiWmF0bl91YTZxa3lqUTFGTThydklnWVg1ek5sUVpn?oc=5": {
+      "title": "【 JR西日本 × 合同会社O 】持ち主不明の忘れもの傘をアートの力で再生する「re:bon」プロジェクト。第１弾企画のデザインコンペを開催！ - 時事ドットコム",
+      "company": "西日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XX2FiQVNXVlNYaHlEbUNWMUNWUmVsbWtWYXdxc3F1VTg4VVBzYW1hQjJxU2JUMDUzMmtieFZFOU9pT3M3VXAwMTdLd1ZsajBnZkR6RnBhdlNTLTVHc24tcFg5bklRT0ZGRlZVQw?oc=5": {
+      "title": "福島第1原発廃炉事業の組織再編 東電社長「26年秋に規制委へ相談」 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMUQ3ZUQ4NlJhelF4bHVoeU5nd0ZNQmhucWxENjJQeU92akI2YkZzNEFBV0JFODQ4bkNNZmF6TWtVOEtZU2d6TnA3YUtndlVmbzJjaV9JRmNZUW1ZdDZQb2FLWlVfb2QwdXhjdw?oc=5": {
+      "title": "関西電力・美浜原発3号機の蒸気漏れ、施設の安全に影響なし 規制委 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSDZ6TE51czhPV256Q0czTDFwWkVLRWtBR0Z3OGpGVlBYR2dHZUpTYm9LMDRDcmdEM0Z4WUlrcFhoamhCR21CcU9uWmVJTmc3UFNiNUpZbGlIUzRvRXlZMEJ0LVVTZ1k5MUo0WA?oc=5": {
+      "title": "九州電力やソニー系、鹿児島・薩摩川内と連携 データセンター集積へ - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-22T11:07:43.413660+00:00"
     }
   },
-  "last_updated": "2026-07-22T08:25:30.254106+00:00"
+  "last_updated": "2026-07-22T11:07:43.414075+00:00"
 }

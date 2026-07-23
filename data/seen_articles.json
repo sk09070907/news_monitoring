@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vd3RDR20zWllvcmxOT2NwdTNjZFNQejVOVmM1LXVTN2tnMFFBVlB1NHZ0RGNDVDBGUFBjbjlMam9ZWWhrNEs4cWRSakJRMEwzOWgzWWR4cGJXNHdjcGtQN2xiTzdDYUlCdi1kNw?oc=5": {
-      "title": "NTTデータGSL、AI時代の経営変革を加速する「Autonomous Enterprise支援サービス」を提供開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESDc2VXFfeHQzNk9ILUZMYnV1QlFTN3NNcHBmMDNxZ1VpOElqWkY0Snc2UkFkMHVlbHI2Y0QwdXlicU8wTEZOSXBqVTJnb2Z2RFNrQVBaS0gtTFNNUHhyQmMteGtsYlMtMkE3Mg?oc=5": {
-      "title": "日製鋼(5631)第14、15回社債発行 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUOU9uS29NV1ZzUmFnc2hnV2syTFVYR2xXaV8wV2s5X3RrVEFHSnAxTDVXLXZKU2RxS01hZXRtdmZsblh6RWZwS281S3AzZ0k2c09ORXBQcy1lNU5GVHRTSTBGNDAybVVxQWI4?oc=5": {
-      "title": "株式会社FAI、アイシン高丘株式会社と共同開発を開始：時事ドットコム - 時事ドットコム",
-      "company": "アイシン",
-      "source": "時事通信",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE52UzRFc1R1ZmxpaVg1YzdyLWFRWlYtanpPZGhmTkxtRXdrRHMtUjFzazZsMVJReTdnQkRnYW1vU1ZIMVBJS2tYVktvRHJ5VVlqNkNtd2NBSzhVTFhNeG9qUkQtZHNfTGYxYU80?oc=5": {
-      "title": "ABC-MART GRAND STAGE イオンモール高岡店2026年7月16日（木）オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4UU40em5HM0tRTEoyVlFuWFhHUnlnNGQ5QVVJNHFlV0lsTHZqV1MzMlJUZkROTTBfLS13a2FzTi1IRlVpVGVWSkdoM0lhVHRNU1NsejZ2ajgtQXJWRnNPZ1ppcUVwbThZQ3dZ?oc=5": {
-      "title": "第3回 ASONE(R)ベスト ユースケースアワード 事後レポート: 関西電力、塩野義製薬が受賞、ASONE(R)を活用した法令遵守体制の構築・運用事例を紹介 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zb1VHSHZGeDVVX0JqbDNyZFpyZHBJUDNvSl9XdXVpS2pEMC1qdnVSRHZZd2hQMXloMkhxY19hZ3hoVjlVc19idlZxSEItcDdvczRiMjlxalhiVC1mNzZXSTdya1pfQW5NNF9BZA?oc=5": {
-      "title": "みずほFG(8411)第27、28回永久劣後債発行 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EVk5UaFFwRW5FczJUYlJPTE5mRHFUblNsQUFYUmtBSmliR2Y0ZC14ZmM5Qm9tYVFvdjBGUWY4MlRRWkRGZ1RJSjh6WDUxd01SekxHYVhQTGE1T0IwNlRZNmdyT1dNQzJTVnkw?oc=5": {
-      "title": "みずほFG、NVIDIAの製品・サービスおよび技術的知見を活用し、金融機関向けAI活用基盤の高度化に向けた検討を開始 - 時事ドットコム",
-      "company": "みずほフィナンシャルグループ",
-      "source": "時事通信",
-      "seen_at": "2026-07-16T05:38:30.915651+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YMjlhQUliaEdGSklLTUl5MXBwSlVOTGxRZWUzUVpMRk9IcXRZc2tjZUhKaDJ1cVdFTVVzS2twQ0VObGNDcVc3ektJWWozMjBBVFJkX09uOU5feXhFclFsZC1YdTIwN0ZVMEdmcA?oc=5": {
       "title": "伊藤忠商事と三井物産、豪州で鉄鉱石の新鉱山開発 28年から生産 - 日本経済新聞",
       "company": "三井物産",
@@ -1481,7 +1439,133 @@
       "company": "三井住友銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-07-23T02:33:14.529778+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZGhIenRVN25oZ2JwWEs4cGRFWlhDMXgzbDJqTGhPWFlvTUNKUUJBQVBhZzVBLVNURG8zWl9EUkZnQU1yQ3lJTEJtRGc4MHlFTndhbDdUM2ZUUWpWT081YllQaE5SSWE5QUxZ?oc=5": {
+      "title": "三菱商事の「Mill-Box」、大成建設の東京都内大型現場で活用進む - 時事ドットコム",
+      "company": "三菱商事",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BZkVMamZwa0N4RFJuOHdHQTUxOGhIdWdlR21lclRSYThRTExQRW44QmhwWUtfM081aGlPaWNlTUtfRUtaS2EzZnJPNjZBWWxKbVZGelkxQy1SVURrY2dTZ2lYNHlaOUc0dGc?oc=5": {
+      "title": "三機工業[1961]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三機工業",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fWW9uX2lOakFERDU1akZjUWROTWo3a0tJQzM0RmdhRmh4WDRveHNIWFB0TXBRZUZZVTJzX2J1dTZEdVpJeWhjaUdFcEt4b0VtbVdQcmcxVHNpMnhGeXZjaVZyNjloRlA5ZXZoRg?oc=5": {
+      "title": "栗本鐵工所、IHIプラントより粉砕機設備（石炭関連の設備を除く）および焼成設備に関する事業を譲受 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yVzh0aS1uYzJoYVZya3BKV2MtSUxjX2VPMmdicW9mUTZTbmstbDZWN2szNDQ3TTE0M2dua1M4N2hUbXl1WTM1M1lEY2otVXY2Z1JMUWpXNFhNaW1uXy01RDNDM1hlZ0I2bU13?oc=5": {
+      "title": "株式会社IHIプラントの粉体関連事業の譲受に関するお知らせ - 時事ドットコム",
+      "company": "IHI",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrbWFad09kVzFZWVdKT19mQzVNMVgxVldIbW85VnJWamEtWmJxTEludDVvdm1raF9rM0tvbkRFcnpMbVFrbmcyTURUaV8ycWRUZGY3V3BFMFcwbDg4d2FYVlZlM2F2MGJpUmxz?oc=5": {
+      "title": "【トヨタ元副社長 河合満氏が登壇】\"早活人材\"の可能性を考えるシンポジウムを7月30日、愛知県岡崎市で開催 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFTN0pueEw2ZTgwMEhCTVQ0SlVDdVNsbFlObEhYem1OSWttLTFlVnNoQmNxeHV0eHpUYS1lbTdLc3RLUGU1Ni1iZHY4MW1hWTc5M0o1UTE4MUZhTHVzZFpuUkdpVTRrQ29JUTFjTXo3N2lMNkx4Sk04eERvR2FmWUZWUHBQQXg5YklCTC1xd2l5ZFU5VG5WLVZ0RUk?oc=5": {
+      "title": "株式会社パイロットコーポレーション - 日本経済新聞",
+      "company": "パイロットコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wMWpMNXJtYzZYQW53Ql9lNGlGRXNhZVBJS2RwcnlnSG55Y3lma3RJb0QtTVBnRjlTeUJia0JSazAtNFFEakNNUWRfOWVEWHI0ZktDdlJOYTVOdDZpcHZKOWJzNDNobVZaTjJB?oc=5": {
+      "title": "楽天、「Rakuten esports SHOP」初のポップアップショップを期間限定オープン - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jaV8tdHVDSE9TVC1jLWF3dmotN0YzVFRYZ1NjSWJMNEhDSUh2OW5YdUV0Zl9sV3c4MjJTUWpJOXRCUnp2YVVHYjBVcE11V2pjZ05LZjZYcWd0NDRseko3eFRFQzhuaXV5Y1FR?oc=5": {
+      "title": "【ラーメン魁力屋】京都北白川 ラーメン魁力屋「イオンモール名古屋茶屋店」(愛知県名古屋市)が2026年7月30日(木)にグランドオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qd2VIcGZVUk8yWVE5TnJTRHhELVptVE92MVA1Y3dZZ1huZ3NGa0dUT0oxaU1GUnEzMjJrbEZCdU80VlY0RFg5ME9WYmFwX3lVSl91RmlkMHBMMXZXRk05bHBVM05LeHFlM2dr?oc=5": {
+      "title": "売場面積は約330坪！ホビー、トレカ、本、レコード売場も拡充！「BOOKOFF イオン吹田店」2026年7月27日(月)グランドオープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlRGpESzY3cGVReTBhdWQtRGtJcUJYQ29NcjMxd0M4R1pWc09WZTA2VW94TUhIVFhjb253SEFFNGVORmFwMVpHS3QzRXlPYXdFQk1kWlZzMExYWUhqM2syWUl1SFhuZjNQUHdZ?oc=5": {
+      "title": "【新店OPEN】リカバリーウェアReD 愛知県・茨城県初のオフィシャルショップ！東急百貨店吉祥寺店、イオンモール東浦、イーアスつくばに新規出店 - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UHJLZDlrUl83Xzh6RW52c2tCY29rQ3JDLWlRY0g1Q3huYkZBdm5Fcncydnd3R1NuTVBsbXlVRDBBRXBCYXR3T2hvRkJPa2E0MUg3TFNnc2Z5dzFkQWdjOGN3Smg4VzFvMHVz?oc=5": {
+      "title": "業界NO.1の店舗数*ヘアカラー専門店fufu、2026年7月23日(木)イオンモール銚子店（千葉県銚子市）をオープン！初回限定価格は2,000円（税込2,200円）から - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQXlmSXZHNXFKMzlWNkZ4Z3NVT1lDSktKQkJrQ0VEVXZFWlUtXzlKT2xDel9GU2NKaFdGVkhDLW5aU1lwZnZacjNnUHdOUmJ3Z3AzdjVwcjA1LUk1ek5GbnpJakVuU2JZbHhlR25jM0dReVNkbVVWVmU2T0J6MF9DMDN4T1ZnOG92eVN0T3FpcUxLSXA2YnFwZUo0WUlhX295cnRKOE1FZ3dDei1qZDFUczhjRGlhbE0yamVLV3pqQ2NSR040SnBOZ2s0Z2U?oc=5": {
+      "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaXlhbWdZaTBDWENEWjByODlHZHFDNXJ1NjctQWVQdkNiMjZreXVWcEFWVXlFNUc4YkY5NXMycTc4YVNnMTUtX1FENXdKWkwwNlBKTDdTZmtqVm95bTBJQU11dllXZmEtQUZMSXo5ZXV0a2JobHRFS1l6ZmVXMkJvTV9DNkF0dXY4cjNIYWxnU0xQdTRfcGZNZmZDNDRyMXZNTmxyZ1VZYW1aZ0RadjA1YllZS1V3UGw4MEZHOFl6Nk9wOS1iRm80aTRMR0c?oc=5": {
+      "title": "関西電力[9503]：法定事後開示書類（会社分割）（株式会社モアクト） 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTER5UWE2M1J5Y0V2YjB3Z1h5bFhJTFl2YmJ4cUVsb2pZbFNyZzM0X0xyOTg2X2tNbjZ4cjllY1plaFd3b29VN25uOWRvY0JwWlFmVjY1bDQxVGRVWWNFS1QxSG9ZX1dmSkxMN2xDWlJZMXFSQ05HQUxoQzFySnZsU05MSExuZnNWRnBOa3VYU3NzSTd6UXFVd2d1R0E4bXdNNTVfZTdVY3ZhMHhLUFVBQ2hkWlBhdTRqckRxSjdsZEZVVlI5bjVmbl9qWG4?oc=5": {
+      "title": "関西電力[9503]：法定事前開示書類（会社分割）（株式会社モアクト） 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE05QkJQQjlJWDJpT3ZzVVA0SnFEbVJ1cGU2Y2tuVDJlVWt6TElFMkdmdGZJdW5JUmNBNVhtQnh6aVFSaTlUYWk3N2tLR3dRcWhxQm1peDcwb255Q1hISFFEa25ubEoxdUNraFE?oc=5": {
+      "title": "関西電力[9503]：法定事前開示書類（会社分割）（株式会社モアクト） 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSEdJZ3VpS2hWa3lySGw3aXdoOEt4MGgwdmc0RjFtUzJ5alBIMTV6Ml9qekdyV2tOSU9YY2FodHZFbW9CTkpGeWI4S1RuMHY3Yjg5NjNnUWE4ZnNfRzg5bDM5ck5yREZucUE?oc=5": {
+      "title": "北海道電力[9509]：公募ハイブリッド社債（劣後特約付社債）の発行条件決定について 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Tm13c2h3clBnUEtHeTRMejIydkM1aXFVTVZnalptcHI0RUZKeGRWemRia0hLOE9QUm9FckxhZmxwWHhyTi16RU5SMHhPTy1JTzhmUExmT1NTTWwzRHdIVU9tQWw5eFl5Y01YMQ?oc=5": {
+      "title": "北海電(9509)第1回劣後債発行 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWh6MkR6Tmdvc0drV2UyVXl1MEJ6T0E2Zm5IczlNcHJlSHlTZGJyTklfUXhxLVJwN2E3dFcxRVpNWjdCY0VuRnpSQXR2blo4bGs5cHV2YkN3Z3BvOFNBdC1UcS1mN2ZVN2ZJ?oc=5": {
+      "title": "「建設分野における脱炭素・資源循環の政策と最新動向」と題して、国土交通省 平山 鉄也氏/（株）みずほ銀行 諸冨 貴洸氏/（株）竹中工務店 福井 彰一氏によるセミナーを2026年8月31日(月)開催!! - 時事ドットコム",
+      "company": "みずほ銀行",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cjRxcmJjZXNYYUd6SnB3OEZQdHVDNjFtWVVoVExXam5jVUpzRVFZR0d6djBJTnNvVy1RME1KYWMwSl9OSmJxNnktaFl3RWlvTGZ0bURNU2dPeHdkY1k0Nnk0R3VWcWdyZHc?oc=5": {
+      "title": "名古屋銀行[8522]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月23日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "名古屋銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ib25TTUtpMHVmTjVROVhacF9wTGVrT3NyZHBRek1ReEV4T2s5NTh5QUZELXJjTXhmME44V1JqMHlIRk9Ua0hUejRFdHdUcmY0QTlLaWFNNjVWVXd1LWc1dXJ1S2lOUzlGT1ZNOQ?oc=5": {
+      "title": "変更報告書（特例対象株券等） 提出者：日本生命保険相互会社：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本生命保険相互会社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IQlRWVDZRS3hBUWppaXVySE1OWTJRa0daVmFscXFGeE9abW5FZkwxM2xubHVxTGNfaWVlSGVEOENreHhiZ095TkR5QTlwMWllQ1JESGVoSU9zY3pHaUxBVk9mV3VBaHBIT0JV?oc=5": {
+      "title": "「三井不動産ロジスティクスパーク（MFLP）」 「三井不動産インダストリアルパーク（MFIP）」 2026年度開発計画を発表 - 時事ドットコム",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T05:52:26.006238+00:00"
     }
   },
-  "last_updated": "2026-07-23T02:33:14.530147+00:00"
+  "last_updated": "2026-07-23T05:52:26.006652+00:00"
 }

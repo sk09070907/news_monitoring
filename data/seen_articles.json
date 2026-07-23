@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdnlGNFlHcEJPdmZqdEFBSGprQkJobnNTejVBWGRTNnYyRmpTVGljRF9VNU1aLWlKRm9IeS0xQmNEcXVRbnZ4UlhpSzFGZU9vWHMwWXY4dzFsRElLQmNncGVNbTlVRWhwcjRHXw?oc=5": {
-      "title": "三井倉庫ロジスティクスと日本IBM、現場社員がAIアプリケーションを開発・運用する実践型のDX人材育成モデルを共同で構築 - 日本経済新聞",
-      "company": "三井倉庫ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-16T13:45:39.877974+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRXJWdHNNRzJnUGxkSWRzTkhUbDNfSWpMSVVCLTY5VVV3cjZwZVhXcmZGdUNhazR1eHBFUW1kVUhsLVluU1NjUXFRZzdTZGI1LXdTRkp1QzdpcGRqbHk3SmdNaEp5bC0wTGNBMw?oc=5": {
       "title": "豪鉱山、28年生産開始 伊藤忠と三井物産が発表 - 日本経済新聞",
       "company": "三井物産",
@@ -1511,7 +1505,37 @@
       "company": "関西電力",
       "source": "時事通信",
       "seen_at": "2026-07-23T11:07:33.883858+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMkJEcHFGS2ZGdFRraGxJcUExTk93Qkp1emhQdmVyN0RJZ3NFRkZPOHFNa2lXazZVa01ZVVNFeWh5ZE43blZXYy02bXdnWmYyRWVtc3kwbzFkMzZvR1N0bm1XODhWd1RGX09KeQ?oc=5": {
+      "title": "九州電力系、発電所保守のIHI米国子会社の買収完了 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-23T13:52:26.751072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1dFRVdDNUZHRBVWZnOFFlUEItdkxpR2VPS1hHdnpCMTQ1YncyTTRvemw2UnhiVlViZExTUENuRlE3dDRybHNWVklIb01YOUxtUlJsN2NOTVZCR3NmRTN0LWpIcw?oc=5": {
+      "title": "規制委評価受け福井県に報告 美浜原発の蒸気漏れ―関電 - 時事ドットコム",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T13:52:26.751072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzbkxBNjRxaG1pN2E2SFR5YmtCbG16RHpVUEh1YWpxTjF0NkFhTTAyUlF1dkx1SnBIS2ZFT2w5N2Q3anVIbDBILVphYTR3V2Q2MWRFc1pUSldGbXZnY0pYX0xvS3Zzdw?oc=5": {
+      "title": "【速報】愛媛県地盤の地方銀行、いよぎんホールディングスと愛媛銀行が経営統合する方向で最終調整していることが分かった - 時事ドットコム",
+      "company": "愛媛銀行",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T13:52:26.751072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CLXJaRFZCb1dNYjQxNmF0UTYwOHdQWkpCVUlLN2VnbVJkT21jT0VBT0ZtRWthUDZlWkNoVVpHdUE2MGkwQkpSSUJZTlJnS0NkVEViWg?oc=5": {
+      "title": "ソフトバンク６―５オリックス - 時事通信ニュース",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T13:52:26.751072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsYW51Z2VudEdzcWN3T0UxbUd1OWNHaF9uQjZYdkFFMzU0dVJybUFoM2pPSEFKTkhWYmNvQV91eUJRUkMtX1lxd3lzZkd1T1dFajZLVVhIejJJWF83VXdmLWkwVm4?oc=5": {
+      "title": "画像・写真：ソフトバンク６―５オリックス：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-07-23T13:52:26.751072+00:00"
     }
   },
-  "last_updated": "2026-07-23T11:07:33.884679+00:00"
+  "last_updated": "2026-07-23T13:52:26.751431+00:00"
 }

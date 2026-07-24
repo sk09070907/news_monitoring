@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13akRQb09ENzZmWVdjN1FzdVd6eXFpb3pZWTM5QUNybkNqdnZNVDBjRU5hbVdCbTNfNEJKUllNank3U3FwRlppVTlHYlE3RWRiV01HZnZmenJNZUF2dU5jR1lkdklnT1JCSERwNQ?oc=5": {
-      "title": "若手もGX最上位資格､入社3年目で600万円省エネ NTT系ややまびこ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSmtWTHB2M3hUQVE3cmdfakRfbmFpUXM5UmpPc0ZBMnRFekRTYUplUUtaWHpOdmxOczdQQmNIUm50ZlBVblN0OWZhYXlicnBxNHhzbUFsMGE3c0xfelE?oc=5": {
-      "title": "◎アサヒ、個人情報漏えいの恐れ３７万件追加 - 時事通信ニュース",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LdXkyWnRkd3dHRWl4RTFfMDFTVjhJbWNRaENhbkVmVVF6YnhMV1pqb0JjVFBpT3VjTWdQLXU0aVZ4WG9LSlcyeldCMTNHV3YxUnhIOXEzS3lMYmU4LUZyTXBPVlFKa1ZXZFhKNw?oc=5": {
-      "title": "アサヒ、時価総額でキリンが追撃 資本政策がトップ維持のカギ - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBES2RWSmltVTFOdDhKdkJ1OW5vdjI5S1NhSW5PdV9zVGlKcmFWSkhMeGpFMDBQcW5Ga0ZNMlQ5Ni1PbWx6MjMtSU8wWFJoS0Fyb0RObjRHRXhtZ3pUU3BPUkxyYWpBbGwzVVIzWEFnOF93MDJwQkNWaV84bVBGQQ?oc=5": {
-      "title": "IHI株に底入れムード 航空・防衛・原子力に先行投資 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ERlF4bzBtZHpxVUkwTEg0SFZvSDdpeUdRM1RVdS1hSmc4djBFT1JhRU4tVjV6WGJlOGkzLU0yRERZUmVsamFCRnBRT1FOanRkdGdFQU9Md2FBNVBxOXZDVWFIaFo4dVc0b05oTQ?oc=5": {
-      "title": "格安通販「Temu」日本上陸3年 利用者急増、楽天・アマゾンを猛追 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dXBxYk1za0U0eVZweTRJcTdKalhxaDROMzZYamp0Sy1iX2RiMU1FZTNlVlNGWU0xQnFuNUNubVhJVnp3ZzVCZGZ3Zktka2M3UzYwclh3eDJGUXZBRlF6UkNOZjNiSXR0QjZ2RQ?oc=5": {
-      "title": "南海・近鉄、10月に企画列車 泉州・南河内の食PR - 日本経済新聞",
-      "company": "近畿日本鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T21:46:38.619413+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE94aGlxeTZNZm44NjNhbU9GRGpJYVRMYjlDRU9WUENJZ203cjNUVG9pWEhFbGVsSUhSU1ZEeHhpcHM5WWtyYlVobmVQVjVKX1JJQ05WbTN0T2F2enRjUVhWZTN2Xy1EcEVDZGJwRw?oc=5": {
       "title": "森ビル「虎ノ門ヒルズ」拡張 隣地4万平米を再開発、年内に計画案 - 日本経済新聞",
       "company": "森ビル",
@@ -1481,7 +1445,25 @@
       "company": "日本生命保険相互会社",
       "source": "日本経済新聞",
       "seen_at": "2026-07-24T13:40:35.518923+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTkNVUFFVOV9SaVY4Z19vcVZqX3BGck91bmRjR3d2MEYzbjd1dnNfNF9QTmFnS29VMjE2UnVfQzltZlAyZ0hrVFZoM3hjQ3kwQlVYQVI4Wl9ZY1EzUjd1SS1zQkF6eHNsdWptVA?oc=5": {
+      "title": "イオンフィナンシャルサービス、最終減益 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T22:00:36.200473+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVE94Q01oR1dnRUhRS0V1dE12UjRONHBTM1RRR000Z19vMnp5alhhdzk3SG5FUFBUTmhpY0U5VzhON3JXeHNOcm5DWU8yeDZGRWZBRktFSkwwOWIzbjg0a2xVUHlQY3psOTFZaF83RUpNQlJhNTctQWFjWk1yWndBYzFYMmx0YU5qUFotcW5SYko0WXZhOWZVRkNma09kR1loNlprUG55TXlmZUNwenVsVHJ1LWpCVDBXeS1BUW80blRlQms0VUxiNWlGTmI?oc=5": {
+      "title": "あおぞら銀行[8304]：統合報告書 ディスクロージャー誌 本編 2026 2026年7月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T22:00:36.200473+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjSFNTdWljcU1xSUd5eko3SXFQLVpsT1pnRDcwR0tKb1MtNDFySVc5T2xibDBkYzJYbGtKUFgtX2lKTlM1Qkd6X3NEczRaVUYyd2gwRDhtOFEzNUNWUklUQ2l4WXBtTEhhUTBCWA?oc=5": {
+      "title": "三井住友トラストグループ[8309]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T22:00:36.200473+00:00"
     }
   },
-  "last_updated": "2026-07-24T13:40:35.519439+00:00"
+  "last_updated": "2026-07-24T22:00:36.200885+00:00"
 }

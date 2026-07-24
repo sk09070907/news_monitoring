@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQ0w0Q3M4dDFQcWcxMmxEVU9CNXdTTWRBcGIzdDkzVDhEME1EbUozZ1EzWmxfUncxZzNSMkVtYWZHTlFfTG5nWUszbjhiT0dHWmcwUmJIemN1eGFLRWN3dFlGaWgyc2g2SmJCeg?oc=5": {
-      "title": "三井物産など、新潟沖で洋上風力発電の漁業影響調査 27年から - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Z2JleHptRWlFSzVySV81c0xOX2tMM1V6R1NXQ1JyZWs3a1RmV2Z3VnNhUnF4LVN1cjlZUkxKN01qcWxzOG5USTFBZUFtYjdRLWcyQnlQdXlMN1A5UWRfM2lkdzUyYkpfXzNLbQ?oc=5": {
-      "title": "NTTとTBS、IP事業推進へ新会社 AI活用し子供向け体験型コンテンツ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE14VDRlNzRyZFVsSUlrOVJnYmRLTjhDODJ4M0FiaWNfWV8wUnpPeXQ2dHI5U0xFVHNxZENKaDZZejRKWWc5cTRnV3d2NXpubTRtQkZ0UVduMVppQ2FSZlZoZGNCdHNRbWZibnF6MA?oc=5": {
-      "title": "鹿島、演算工房の株式を取得し子会社化 - 日本経済新聞",
-      "company": "鹿島建設",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91bGx0UERpaGVLMjd5aHN4bVo2XzNsOGdGcE5hc0ZiYWFheG15V0RTeWhlOWpiTDFFVzMyVzJaaDZaM0FKbzlnUkpyZGdKbXVQb1c2Xw?oc=5": {
-      "title": "個人情報漏えいの恐れ、３７万件追加＝アサヒ、計２２８万件 - 時事通信ニュース",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUWEwb2FRR2NhOXN0eWtZVndzVWVFbnZGN1J5bTNtWG5zWnR3TVNpVDNQUXJTX09mUDNhTXdYLTJvRTNkc1o2RGhvcEM2YTE2VTRqU0dBcDhEd0VTQjRqVy1vZm9sZmpsbU1YbQ?oc=5": {
-      "title": "デンカ、自動車向け特殊ゴム事業撤退 EV普及見込み事業を選別 - 日本経済新聞",
-      "company": "デンカ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBcUpMRkZXZ3lxYTA0c1dPcE5FSkk2Y1lCdF9NWTFZODNrRkFaSlpJV2E5SmxlaDNqcmpFOVV4c0ozZ1RjMEQyeXJzN3ZPT2Iyam1zWXBWNTd1OVVvMEp3OUM0Wmh1dEZNS1Jj?oc=5": {
-      "title": "山下達郎・竹内まりやの夫婦放談 番外編！「“音ひとつ”で情感が変わる」 ライブに対する美学を語る『山下達郎の楽天カード サンデー・ソングブック』 - 時事ドットコム",
-      "company": "楽天カード",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3SFlRUWFiem9DUGRmQklscHJuLWNSZWlybDhqRVQ0M3dETGp4NDREa0UyeFVVd3p3S01RS0tjTjFmMWM0bzVlMWwtQXlTNkVTdUpQcWZkU0RNeTVmemJMN05EVzd5VVJGbHM0?oc=5": {
-      "title": "ヘッドウォータース、JR東日本の新規事業「HirakeBA」をAI駆動開発で支援 - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVXhCOC1IdFJkTzd4T2hSWkxNMUNrUFRtRHhsc2JGZkt3UzVqcEN1dXl1SWNaNTNOYVQtMW0tZlAtSUFXTmpMbTM1V1BIZ2lCZzludWgtNFgtbi1YWnhlRGJhWU9TU0VBQXc?oc=5": {
-      "title": "センコーグループホールディングス[9069]：分配可能額を超えた自己株式の取得に関する第三者委員会調査報告書に基づく再発防止策について 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NE1aNl9xdkpvcVBBdEdxT1phMHNFRlRDSU5yOE04RTlaWXJ5d1Itdm5GNWRQSDh6aUpEY25vM1ZULUxSeDlKVmhuRnl6OTFNelY0bWJxbkMtUEgxakIxV2tYR1loazczbkpF?oc=5": {
-      "title": "【JPIセミナー】「関西電力(株)におけるDX2035戦略と生成AI活用の最前線 ～OpenAIとの連携による全社AI変革とDX実践～」7月31日(金)＜大阪開催＞ - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BaUM2TGNxRlVjbl9Rc2VOSFZGbkRsekxwazI3SHk3aWdfcURCOWd2Z0pqVm5kUlUtSzc3N3lqWG1KRGFBRHNjUV9zTU5GbjVnWW5xMkpsQTRYR2JlWTU4VmlIZl9fdVVnWDNQdw?oc=5": {
-      "title": "東北電力と倉元製作所、ペロブスカイト太陽電池の性能評価で連携 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UWVZmZFlkRkd4cmRGOFFFUHBPbzVYd2FDX3pibkhwaTFNYlJENXJmdFBadEMtbjJVLTcybEZSQ2E2VTdGWXBRMzNPbzlwWTZJejNxYVpETXJDSWNtN3E2TmdqSDlhQUdtbGpNQw?oc=5": {
-      "title": "高松市で農業法人向けセミナー 農林中央金庫と日本政策金融公庫 - 日本経済新聞",
-      "company": "農林中央金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fLU9laG8xcVF4TF9mT2pJeThnU3F4NHFEaWhCSVJWZElldmlic3V3bDVqZnVkSDM5ZWljSTBoeXQyLVp5SGJCa3ZxZXNGNnViR2hZWHhjVDdCSW4ySE9wOGRnb2VHOXllZ2c?oc=5": {
-      "title": "クレディセゾン[8253]：取締役及び執行役員に対する株式報酬としての自己株式処分の払込完了に関するお知らせ 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE53bF9KalNsQk56d0o3RkNqamZLbUxFSHRNRGN6ZTBmb3BlaURNaG4xQVBNeHljdmdnNFpLQmhYMDNzYWgxSGczSUVPcEV2bDZwVkxBczl5ZVNoZmZ3Zks3ZVBUQjBhcFh3WHJV?oc=5": {
-      "title": "ＴＫＣの財務会計ソフト「ＦＸクラウドシリーズ」がJCBデビットカードとのAPI連携を開始しました - 時事ドットコム",
-      "company": "ジェーシービー",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQRHhyZ3FJUVVvUFJUZ0k1VnlnV3F2bHA2QmMwQ1ZhYlVxMVZBVml0MFRPQ3NIcDRNcHF2dmdZajhDWjZ2QmRVQmM4Y1hPTUFqbFM1SmluRERWd1pGWTk4c0JMbk1lT0R5LWk4?oc=5": {
-      "title": "ガウマピクス株式会社 代表・山口ヒロキが「太秦 NINJA PITCH 2026」にて最優秀賞・東映賞をダブル受賞 - 時事ドットコム",
-      "company": "東映",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T10:46:05.556949+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxVFlSeGJscHZpM0lURlloVGZiR1J0X3d2bmdaLTA1RzBBQWFfYmYxeS1Ca0w0OGdqN0RIQ05RZ0Y4ZUVWRmVQZ1JaaVk1NXFVdjZDbXZIbl9ZRnZESEE?oc=5": {
       "title": "個人情報漏えいの恐れ、３７万件追加＝アサヒ、計２２８万件 - 時事通信ニュース",
       "company": "アサヒグループホールディングス",
@@ -1499,7 +1415,49 @@
       "company": "大和証券グループ本社",
       "source": "日本経済新聞",
       "seen_at": "2026-07-24T08:25:29.324935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yX0dzWDRHSWFqSFdUelp1S1diNVhNdUkyZHlkNmpEVVM0dGtaOXRWcUhMN2xGYlBtaU55QU1FOU9aaG1OOW14M21wYmZCc3hPNC1tdDUxX3N6RnNRakplRU42N3lZX0xiT0RB?oc=5": {
+      "title": "ダイセルの原点をたどるーセルロイドのウェブページを公開：時事ドットコム - 時事ドットコム",
+      "company": "ダイセル",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WeEFyVzRDQTdwZjQ3eWJoa0JfY011LWNHaWN6NTV5b05UODM0Q2hCT2RzQ205b3JVRndVUTZ1SDlib1J2cVg4ZVZILUdSZElUQVVGa2hUbUhyR3RRSWFMYUFQYjZqR180RVo4?oc=5": {
+      "title": "『Re:lation』のAI社員が楽天市場・Yahoo!ショッピング・LINE・Instagramなど9種類の問い合わせ窓口の自動対応を開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SMUQ2dVM3RTJtajJlNXk2c2VaV1FBUlBQQ0ZLYnhZOV83dnE0a3JIWFNpV18yTlI0NF9xZ1pBakRyTlRMYUpFaHVNZnpVU0lIc1h6WmFydG54NENHalpWOGpWdG8zSmlvbHJZ?oc=5": {
+      "title": "7月26日(日) 「北海道日本ハム vs 楽天」鈴木亜美さんによるファーストピッチをGAORA SPORTSで生中継。さらにGAORA SPORTS放送席にも登場！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RN05kdVRJdFhpTVA2UDFzTnNfdzItVmtQRDE5NVlLeW1jQm94Ui0xd2pyaWIwTlBDQTBfamtCRTBXTFNUV2FhWG01NWU1SGZKRE5iN0VLdFpNZ0JvelhRdEdTLTNTdVQ5b3BJ?oc=5": {
+      "title": "【coca】\"岩手県初出店\"となる「イオンモール盛岡店」2026年7月24日（金）よりオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJvR01seWUtQlRYLWFHQkNlZWswQ0hRM2NSbTU2VElIOTI4dXVpOEMtS2tlVWpiTDV3SlVodDdXMGVlYUJNY0h4dXBJTGIxbkVMbkxVcl9tTDRzVXpoVlJ0WDZnams0Ui1TWFQ5UXFqcUVnd21zZTJocER4NU1Od19FeTFvbHhnYVROWWl1eEJrVHFtaXBIZzZFSFl4MUt6WG9IQWl2ekdHN2xTd1h0R3FOdVVUZ01FZkpIT3cxUzhaZVoxTFBDd0N6UHY?oc=5": {
+      "title": "センコーグループホールディングス[9069]：取締役等に対する譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "センコーグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SW9zSkN0RnQ0TS10clgxU0VBdXhXUEtJR2VsazFwWmJMZHRBcWlybjRCLXhfdEIzWkV0ZGdNUzRnWEt3VUE2YlpfSXV2RldZNzh0Wjl6cV9KS0hfNnE3RExWM05iMWZHMS1B?oc=5": {
+      "title": "ゲットワークス、東北電力との協業により宮城県七ヶ浜町に新設したコンテナ型データセンター「宮城AIデータセンター」が竣工 - 時事ドットコム",
+      "company": "東北電力",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQzJYXzBWc25HMzRFLU9qTUlXZ3BnbF80elpNVG1qeVdzS2tvREFKZGdORjA2YUtMNDhNdl9tZzZYek1BMXh5dEl6OWVENW5XdW45SGVXemNXcUhpOXFta3dIU3htT3BjLXc?oc=5": {
+      "title": "愛媛銀行[8541]：株式会社いよぎんホールディングスと株式会社愛媛銀行の経営統合に関する基本合意について 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T11:02:40.047016+00:00"
     }
   },
-  "last_updated": "2026-07-24T08:25:29.325447+00:00"
+  "last_updated": "2026-07-24T11:02:40.047375+00:00"
 }

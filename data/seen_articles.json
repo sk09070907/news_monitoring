@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Qk9IbXRnZWdKTjNQUGFTRUdKbTNnYlBNa3JtUjFJUXJqeExQb1BVeDd1UE1FMWtIVF81LTdReWZkZnpzQ2xmSnBlZ0ZsQm5QZWMtY1FPTERwY2gySmxwQ3NENUtqa1BQUHc?oc=5": {
-      "title": "東京計器[7721]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T02:28:18.812586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aVWUwVFhYNy12bExrU1BYM0Z1SkpTTFl2OGVZN1dwd25LaWs5bjJsU3NqcmF0Qmc1alBDMDZmLTFJWmV0S09PeVJfZlV2Q3JSTFFnSnliUG12UHg4Z3FWZFlBZVB6dUN5RG44?oc=5": {
-      "title": "【近江ちゃんぽん亭 イオンモール堺鉄砲町店】開店9周年記念「周年祭」開催！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T02:28:18.812586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdTlqUUpRQUgyV0FSZHJqbkVoVWJXUjNJUGliTTRQaTI3cGlSbmxtNTNwSkRDTmF0emhmTkQwQTFCaENUemxIV1p4RnV5VU1aMEV5WnFUbUhvVzVEck5yYVlPdnA2UC1YcU5QNg?oc=5": {
-      "title": "野村HD一時4.4%安 日経平均大幅安で証券株に売り、大和も軟調 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-17T02:28:18.812586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yZFRMaEFMSFlNQ0d2WkNCZWFqcXVpc01FaExPRjJSZUhmTzlLdGtCSHUzQjNPV0wyNkJDaXZrNEFLeFRDV1dIMm1ISzJwQ3lzdjd1UElKTlhiR09GMHNoYkJlVkNRaVB0bjEw?oc=5": {
-      "title": "JCBデビットカードがＴＫＣの会計ソフトに対応：時事ドットコム - 時事ドットコム",
-      "company": "ジェーシービー",
-      "source": "時事通信",
-      "seen_at": "2026-07-17T02:28:18.812586+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sOTBWZDhpVmlSd3EyUGgxU210OEZjYk1ELWxINnc2eUQxTmlYSVRxbEdwZjdLRXkwT21mRW9sckRCU3ZTa3RkMXducl82SWxneElNNWpmdVJERVBjbS1pMlBXc2pId01TSGpJ?oc=5": {
       "title": "NTT ExCパートナー 厚生労働大臣認定「プラチナえるぼし」認定を取得 - 時事ドットコム",
       "company": "NTT",
@@ -1517,7 +1493,49 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-07-23T22:00:50.374320+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE03UWdDQklsQUFhdXkzWW1DZ2pXekNaNUhQYjMtX2RicE5lMkMycHZ3VkxiTEljcHItbjFwSXZoYzFjaFE2aHNuWFBIXzJYWVc1SnI5QkxaMXZURlJjOGtXN0s3TzEzUGVvaWM4bHg3S1NoT2M?oc=5": {
+      "title": "JFEHD、「CFO4人体制」金利復活に備え - NIKKEI Financial",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNbC14S21nZDM5TV9kbzBGYkNVeEdXcnpLN0JNbFBVWXp4MTYxSzlOU1A4b091bTkybHVPNEt5UWViNjIyWnI5UVlQWmdlWkcyNjZaUzd2MkdzZmdqSXBwanVJNEloTHVJY1pF?oc=5": {
+      "title": "「楽天のCSVエラー待ち」から解放。EC特化AIエージェント「ECPRO BRAIN」が最短10分で成否を通知する仕様へアップデート。 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmUXpIN2l5Y0ZDZEU0cTBxM05mNE56WmFWeEh4RENFc2xNcXJqNGZXU0N0VmxRMGdUbHJ3TWNGb1JYcVFMLXl2YWs0UXpZUlRzNUlITjBzSEwzc0x1TV9FNXZ1SXlFRjkyRUlV?oc=5": {
+      "title": "168万人以上が体験したストレッチ専門店『Dr.stretch（ドクターストレッチ）イオンモール与野』がオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRVotd1NSU0JLRUFUeWNRWGtiTktrbWxLYnBWYXV4M3VrUDBkei15SWdiSFpOLUJSakpkZXZCemdSbE9neVZEcEtsazF0b2tRLUN3SGZuUi04TXJ4RTNUSk41ZlRWaTR0ajlzVg?oc=5": {
+      "title": "愛媛銀行の株価が年初来高値 「いよぎんHDと経営統合へ」報道 - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRkV6NndRUmh6OGUxX2F3NFpJQ2NwZWl1TS0wTnUzNU1YeDJTV1U4TS1IUG5kMjlhellrR1pZd0c3YXhybGhHZ1g4aXZ6clZWNC1nVURFNDVBOEpSaE5uV1FGampsazF0aElURQ?oc=5": {
+      "title": "いよぎんHDと愛媛銀行、統合で船舶融資の強み増す - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVEwtNTJ1WG5jUkZ0T3lUclo4WXdPLVpqaFloUlUtUXRUSGdmX19FMC1zWHZ3VC1jeWxLcmUwalI2SEd1UFp3RjNiTEpaSDhoR05uYk90X0lwTzNrdVZTRzd4M2xpS0VESGc?oc=5": {
+      "title": "愛媛銀行[8541]：当行に関する一部報道について 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "愛媛銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83eThtRndGbjktdXdPVVU0UU1QSnJBRDVHcUpCQXVIWXc4NzNBV2FOaHR6dVVhM3lvS0dJRGhCTTNwYWx3NGxuY2ljU3BHaThiaUx2SzFvRUZuZmNwa0lkR25qdWdvX19zdUhRRQ?oc=5": {
+      "title": "三井住友信託銀行・大阪本店、精神障害者の支店勤務可能に 雇用を拡大 - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-24T02:30:00.245058+00:00"
     }
   },
-  "last_updated": "2026-07-23T22:00:50.374793+00:00"
+  "last_updated": "2026-07-24T02:30:00.245630+00:00"
 }

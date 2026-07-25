@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEg4U1NBVE53UFhzZGk0Rzd6OEEtb0JYX2dOaTFxRXJiOXpDRlV0bVVwek1xMUNIQU41c3A5VnNGb1NWb3JfVEozOVFUcEIyUXJGbU52OUpoNWZpOWR1ZkUtS0pDdlBnQmdN?oc=5": {
-      "title": "【coca】兵庫県7店舗目となる「イオンモール神戸北店」2026年7月17日（金）よりオープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-18T05:23:36.673681+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxRXFoczNPdGJIdlROci1mQ1NvNWlMVXVhamNiUFZ6MTlMWmtDQURyaEdPU0hfVG5yTU5VRVpJQk95TU9nRDdGSTRaODNIRlZMRGNTTGRYZWg3RXd1aWIwVzYyVUJBUWZlMlJz?oc=5": {
       "title": "【楽天市場お買い物マラソン】夏の猛暑対策！カー用品メーカーMAXWINの夏のドライブ快適グッズ全部を今だけ特別価格にて販売！ - 時事ドットコム",
       "company": "楽天",
@@ -1469,7 +1463,19 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-07-25T02:28:14.134339+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfa3pHcDdKd1daUWZHcy1xU25GLVozcHAtOFFhMWF6dk1hQWp2bURVMHRabnB0UE51YkNkejBQdUp1cnEzVWhudkRUQ05UUU5oWnZURzlPZUFEZnFOVlR0bTV4MUZfNG5Nendn?oc=5": {
+      "title": "『イオンタウン周南 ふれあいフェスティバル』 ポケモンカードゲーム大会等開催！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-25T05:41:36.822731+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53REJlMHRKdUlNMG50cTdWd1hlX2FoM1ZDX1k0dmdDR1RXRGdMRFU2QzhwQ0t2MF9uZDM1TUpvYnlTeHJCWFFzUjhmblZVcnYxVHlMNDNTempYbW1QNVhVUDNLR0dIZEJBWFNKdw?oc=5": {
+      "title": "石川ケニーに「米国で頑張って」 レッズ入団表明でオリックスGM - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-25T05:41:36.822731+00:00"
     }
   },
-  "last_updated": "2026-07-25T02:28:14.134773+00:00"
+  "last_updated": "2026-07-25T05:41:36.822962+00:00"
 }

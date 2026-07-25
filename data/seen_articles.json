@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE94aGlxeTZNZm44NjNhbU9GRGpJYVRMYjlDRU9WUENJZ203cjNUVG9pWEhFbGVsSUhSU1ZEeHhpcHM5WWtyYlVobmVQVjVKX1JJQ05WbTN0T2F2enRjUVhWZTN2Xy1EcEVDZGJwRw?oc=5": {
-      "title": "森ビル「虎ノ門ヒルズ」拡張 隣地4万平米を再開発、年内に計画案 - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-18T02:13:05.853592+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEg4U1NBVE53UFhzZGk0Rzd6OEEtb0JYX2dOaTFxRXJiOXpDRlV0bVVwek1xMUNIQU41c3A5VnNGb1NWb3JfVEozOVFUcEIyUXJGbU52OUpoNWZpOWR1ZkUtS0pDdlBnQmdN?oc=5": {
       "title": "【coca】兵庫県7店舗目となる「イオンモール神戸北店」2026年7月17日（金）よりオープン！ - 時事ドットコム",
       "company": "イオン",
@@ -1463,7 +1457,19 @@
       "company": "三井住友トラストグループ",
       "source": "日本経済新聞",
       "seen_at": "2026-07-24T22:00:36.200473+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUt5UmQwR1V6QWh4QkFtM2NIcEdkT2g0UjJSTmE3NFRHM3B0MWI2NVhsNEI4bXMyMGFGUmthVm5kQTE1c01kZGs2Ny1kUHJUcUl1b2ZGQm50c0lkMGVDNk8tVk5xZGhFVmczZUpZQkNZZG12UGwwM1Y5emRNY1ZySlotd0xqSlE?oc=5": {
+      "title": "「NTT、IOWN宇宙へ」「インテルとTSMCサブ2nm」 注目5本 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-25T02:28:14.134339+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYW1qb1BSLXdhaUVveHlNb1ZoUEN2MEctWGh5QnNCOHEzdmNCZTJfYm50RVRGNTRQc3U0OVBzRU03cEM3NkotQmRWdkE4STNoVEthNlkxTnJiZFlqcm9yR04zeExWaTV0THRr?oc=5": {
+      "title": "【7月25日限定・楽天ポイント5倍】タッチスクリーン搭載スマート集音器「Cearvol Wave」シリーズが特別価格で登場！テレビも会議もこれ1台で快適に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-25T02:28:14.134339+00:00"
     }
   },
-  "last_updated": "2026-07-24T22:00:36.200885+00:00"
+  "last_updated": "2026-07-25T02:28:14.134773+00:00"
 }

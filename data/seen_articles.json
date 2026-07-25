@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BUDJBRW9FdVpyWWNVSTFBM19mMlFZY3h2UnhDeXFORGIxNVNoQ3VHU1F3T0d4VlJXdVJHVmx3eFFaWFhIeWhNNlV5TExVQnRMY01zSEwxYkRoSmFjdGdRQW9TVktqUk5veTFtVA?oc=5": {
-      "title": "三菱商事と業務提携 創薬支援のアクセリード - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-18T10:16:54.125823+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94SXdIU3RYX1JlUlhMeXF4dmtxSXV1dF9QNWpUR3ZFWkdnYURPZ0dwRmdyOGk1M2Q4ZjY5T0p4UVVNTjctZGhocXRzeExrTExoaWV4dUdocEZkYndpU1E?oc=5": {
       "title": "◎〔決算〕２６年３月期のトヨタ売上高、初の５０兆円に - 時事通信ニュース",
       "company": "トヨタ自動車",
@@ -1463,7 +1457,13 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-25T08:03:17.731431+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcjhfVVJsRjNreXVPU1JFd1ktYXo3TkRQUUFKVWo1ME9LNDJUNU81d2hMWHJqSjliYk1YNk1CXzlhU0Q4Y0s1TnYtQWJTNWdiSEdwNGFpanVURXVGb1p1UVRfNWxIbldEQ1NMTg?oc=5": {
+      "title": "アンモニア発電機を試験稼働 IHI、来年度に販売 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-25T10:25:20.359309+00:00"
     }
   },
-  "last_updated": "2026-07-25T08:03:17.731595+00:00"
+  "last_updated": "2026-07-25T10:25:20.359716+00:00"
 }

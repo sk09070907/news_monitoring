@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxRXFoczNPdGJIdlROci1mQ1NvNWlMVXVhamNiUFZ6MTlMWmtDQURyaEdPU0hfVG5yTU5VRVpJQk95TU9nRDdGSTRaODNIRlZMRGNTTGRYZWg3RXd1aWIwVzYyVUJBUWZlMlJz?oc=5": {
-      "title": "【楽天市場お買い物マラソン】夏の猛暑対策！カー用品メーカーMAXWINの夏のドライブ快適グッズ全部を今だけ特別価格にて販売！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-18T07:46:34.558589+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWTgzLXBtelAxSnZkVFpSVU1QcktNdHZrX2o0VGc0alY4QXVhaDNqdTIwdTZTcEJJUWFlcm5qMnVwUEVOYUJvV2xsQVdOQS13RjJpNXh4RkFNTmw3OEcyUHQydEtqdDltTENj?oc=5": {
-      "title": "【毛呂山町】女性専用マシンピラティススタジオ「ピラティスK」がイオンタウン毛呂山町に2026年7月28日（火）誕生。埼玉県内9店舗目へ拡大！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-18T07:46:34.558589+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE43bHhPYkZoeGxGUEF3VTNCeFZlV3V4cXBjVTVDeGlBQzNaMVJmZ2VMcnFIb2ZVXzQ0aE5SRnBfZzZYRnJfRUxkRVBaYVYzXzNsd0lHc0VNbmNiSjNWV1BrZ0MtRDFLRlRyOFBN?oc=5": {
-      "title": "【イベントレポート】Xiaomi Store 東海エリア初上陸！2026年7月18日（土）イオンモール Nagoya Noritake Gardenにてグランドオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-18T07:46:34.558589+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BUDJBRW9FdVpyWWNVSTFBM19mMlFZY3h2UnhDeXFORGIxNVNoQ3VHU1F3T0d4VlJXdVJHVmx3eFFaWFhIeWhNNlV5TExVQnRMY01zSEwxYkRoSmFjdGdRQW9TVktqUk5veTFtVA?oc=5": {
       "title": "三菱商事と業務提携 創薬支援のアクセリード - 日本経済新聞",
       "company": "三菱商事",
@@ -1475,7 +1457,13 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-25T05:41:36.822731+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sc1ZTcXJOUjRGVDdKOGdrd1k1RG54RnZiOThaY1hiR1I2azRaQmZfOEJnMHFwTGVKVk83N3FxTnhJWmhFcWxhd0tuUXYxc0lMeEJzYWVDWE1NSlA1b2Y0VkNUckRGeXBmdnc?oc=5": {
+      "title": "石川ケニーに「米国で頑張って」 レッズ入団表明でオリックスGM - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-25T08:03:17.731431+00:00"
     }
   },
-  "last_updated": "2026-07-25T05:41:36.822962+00:00"
+  "last_updated": "2026-07-25T08:03:17.731595+00:00"
 }

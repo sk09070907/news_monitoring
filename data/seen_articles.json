@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44MVY1V09IUENUUkluMEhibF9LdFp6Rk8yNXZ3UTFZRDBDSEVyNVp0dnkzei1XQnk4YVNJaWt1YXBXdUgybDdNQnYyRTZJeVRjU1FnMmpwajcwRVRUSUs3blZ5aUFGVHdGUFZVUA?oc=5": {
-      "title": "シニア労災防止へ「エイジフレンドリー」、東芝はだまし絵で注意喚起 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-19T21:45:55.192237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySXNXdEwtWDlfS1Jva0NDbnR3MDB6LWp2cTk0dktINWx3VEczTWNUckhzUl9ldUlRSGpWZFRSTWI4ZS1qSENUWWJINEpJQW8yM2JjZEZjYlJ6TEUxT2ZBaG1pcnNnaEtnS0NXOQ?oc=5": {
-      "title": "シニア労災防げ 職場見直し 法改正で努力義務に/東芝は「だまし絵」活用 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-19T21:45:55.192237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Rd295S2c3V3hqTEdDVm9qVV95RzdZTXByM0hrZFF4cEIzQWpXc3NtT2NwQ0M1UmEwR1poWFRJTTJQUW41MkZnN1JGdDJOM2pfV1pjSjFVQ0ZNQ0hR?oc=5": {
-      "title": "「ジェーシービー」のニュース・最新情報 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-19T21:45:55.192237+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE02VkFTLUtfeEdIOVh3R01TcllsMW54YklIcldXeEl2MkR4S3V6V3d5RDl5MFNYOUNYT2R3UnZpVnVHNng5WmNjQ0E3TXhmVkQxUjFkWEVCSF9WLW9zQlBvRHhFb0I0RFF5RVJj?oc=5": {
       "title": "【楽天ポイント5倍P×45％OFF】Android 16・Gemini AI搭載「POCKAM P13PRO」13インチSIMフリータブレットが33,858円！楽天お買い物マラソン開催 - 時事ドットコム",
       "company": "楽天",
@@ -1433,7 +1415,61 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-07-25T21:50:11.063282+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNGdnQVhQVXFIUHJjTEcyeXYwZWZrUnlGS3piMi1pdTFnRVM3S3ZYM2pfQnZjZWpycElmcUEtN1A1a2VGd0xVNEpob05zZWtOajdSZ0E0WFRoR0dDSHVVckVxYVV4ZWc?oc=5": {
+      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経ビジネス電子版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXFpV1I0aFMwV1k2SlM3el9BQWhLMk9qTHdZNTRfRGw3Um96T0did29FLTFxRkRkX0REYXJSc0RQUTlBRFFfRkhxcVFmLVYyemJ3anUxZ1RpQXMzU05nWk5LeVFqYjBMdzlPX2hMR0c1akVMa2dYWl9JMmJPZXZZaUVRbGRYMzV5UFZjeFZB?oc=5": {
+      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経ビジネス電子版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFliMF9wVnRmODZRZWJxYkEwYzk0dkRHYUZVUmFlZjBLZHBaekVTc1N2UFVGZ3F4RDdrUUtseTVvaE5kOFFLa2s3MS1TUmlOUnNGUnZxdDlaQ1NPdUZ0MXBjRjQ4M3JlTlBOWExnQ29NZjFJUnk3bWtzNGNIdFFZekF0X0JzMmpHV1FnaQ?oc=5": {
+      "title": "記者もだまされかけた「ニセ警察」 NTT東系が対策アプリ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rVzd2OFRfN0hIOU9EUzBMTXR3WVBNOVBuRFpUWG1wbzMyUWRURDVJemZsQmMteEFSdVYwcm1PUXVTaHNCV2doV0loMThwc0Rza21KQnAxdUlyWjBKdVE?oc=5": {
+      "title": "◎個人情報１１万件超漏えい＝サイバー攻撃で確認―アサヒＧＨＤ - 時事通信ニュース",
+      "company": "アサヒグループホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNTdVQTlUWDlGWkdxVTIzRmlFRHY2WC12M0RTTEJCWWpURC04OV9hTWcxVnAyMURsM0dqaTZ2NVlZNTFqQmlVN3dYR196bVEwY1dVc3N0TFJOdVktZnY2UnJiVVZLTDJsRUQ4bA?oc=5": {
+      "title": "トヨタ経済圏を越えろ 愛知・三河、車から宇宙へ・ちくわは海外に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNDI0eHpHYXNCaWR2WkhhNG9OT3BZVHlYOE16ZlFDdEJWVkJKMmw5UnlPTnoxelh6WEg5c1YxNC1iVjZ1NTBUS2tyZmVlTjB5YXpKRndWU2F5bzltRjhiRHdOYkllSFVORXEtcQ?oc=5": {
+      "title": "「柔らかく物つかむフィジカルAI」大学発新興が開発続々 トヨタも着目 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kX1l3Z0xCLWJkR0NyQWhDUGhfeEN6LUFNSWVTZGRFWVdzdGcxa2FoWWNlNVFiY2pZanNnLWJHTmI1Q25ScGpNX0tzbVZCQk9SazhGOVhQcW9SZjByYVlTeVRQMUU1NEpyZWtndA?oc=5": {
+      "title": "楽天シンフォニー、ウクライナで4G実証 ラボ環境で5Gも - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4azB3QU0tOWo5dWQ1Tzc1dEk4NFN5emQxZVVuSzRaR0RKT3pEYk9TZkU0R1lFMlhicGg5M3ZxRjV2NDQybU9ldi04dnlUSklHeWpXZVZNNEJ4TVZpTjZZNlNDeXNOWDZQNmo2Vg?oc=5": {
+      "title": "嫌われたくない…30代の迷走で学んだ「共感と決断は別」みずほFG執行役 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVVRjdmNUV3lOM3I3ODgwLVAyZXo2WUZyR1pIUnRMaGlodThncG5rVWZweEdaS1BpWWF2OG1FVExWQUk0Q0doWWxHLXBCVU5xdUEtaEk1a25OOFd0ZjhzLTZXWTRXWG1sZ2h1Zw?oc=5": {
+      "title": "三井不動産、熊本にフィジカルAI開発拠点 日台で次世代半導体技術 - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-26T21:54:47.485616+00:00"
     }
   },
-  "last_updated": "2026-07-26T13:16:27.121011+00:00"
+  "last_updated": "2026-07-26T21:54:47.486006+00:00"
 }

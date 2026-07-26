@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRE9mMkpEY3RGRmVHXzVrWTBYdlRLRTMzNWhtd28wV1hOUnB4ZkJNRXdtWF9VWC1BQXlMcnNDOEtnLXd6dGV3dnoxMWhMVDVUMHNrRndRRFRTbDVEcElsUnBmN3J2WllHbHlydA?oc=5": {
-      "title": "三菱商事・中西社長「食関連で1000億円投資」 穀物メジャーとSAF - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-19T08:13:01.641151+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jb09LbHNpd3B1aWpSLTFNOW9ISUxpamdfMjhNbUVRZ3liNlpveXkxS04xLXVYengydG1QQy16NFB6YWp1MDlNazdJdjFJWG9OdmhZV29zdWVhazdSYVpCamhqMmp1d0JHelVr?oc=5": {
       "title": "スマートプリ機「HARTi Photo」がイオン「超！ナツ夏祭り」に登場 - 時事ドットコム",
       "company": "イオン",
@@ -1447,5 +1441,5 @@
       "seen_at": "2026-07-25T21:50:11.063282+00:00"
     }
   },
-  "last_updated": "2026-07-26T06:00:10.710812+00:00"
+  "last_updated": "2026-07-26T08:37:04.063122+00:00"
 }

@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HVVRic0J0WER0Z2ZLSFlSMW9NTHRTczZXZndnZllLUjFmczhuWGJTVnF2bnpMN0NWVVVOdGZTSnhmTG9Yb2FJbWMzRW9mZE93N1htaElRNGxsLWRVVWZQYms2QndhOUkzdzNF?oc=5": {
-      "title": "ソニー生命、NTTドコモビジネスX NPS(R)ベンチマーク調査2026「生命保険部門 請求体験調査」3年連続で第1位を受賞 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYXZFOGxiQTFycVZGam1kbU5CMUFKUmdzcl93YVdfaFhaTEdQc0xrbTBrbTc2b2lJUXBVelZlbV9DS2ZFNUd4VGhJdGFpZDlCaTBtOXpWYVVsbUEyZlA3ZFktcUQzSl8xaU84?oc=5": {
-      "title": "宮崎県警察本部、NTTタウンページ、トビラシステムズが「犯罪の起きにくい社会づくりに関する協定」を締結 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KTlNkZGYzcFZGekdfVXRkOEI2ZEdrUTh1RWt4YUJ3SDJsN3ZTQ0FUMmlTMUswUC1VX0RnVDA1RmV1SlBSQTNIVjk0LXFxaV9tUF9uZXhsRlEwUnR4ZndKX3otWGVIMC1OQVRNXw?oc=5": {
-      "title": "フジクラ、6月の上方修正は「米国外での突発受注」 不確実性高く - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZTN2ZlEzTWlBdUs0NlY3UExDMnlUYXNXazBfQ01DM3oxckEtWUpvaDE1bzhSU1RlcFU2TnMwSFgyUEg3WWlUeDdoQmJWaHc5SmUtcXdTbzctcXBHaXNESWN5S21lYUM2OUhvTg?oc=5": {
-      "title": "アルプスアルパイン、次世代EVの48V電源に対応した車載検出スイッチ「SPVQKシリーズ」を発売 - 日本経済新聞",
-      "company": "アルプスアルパイン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFNk5YUlNGX1BvSXd2clFRY1dGNVdWd04zQ1c4R19jRWZ4X0RfZXNXV1ZjZmdWNXBmTUxhZDg1NUVjRHdvRlNaV2h3OEQ3bVZyaWYzSnowY3hPNGRDNW5pOFBJU3J1NXBhbkdVSQ?oc=5": {
-      "title": "トヨタ系サブスクKINTO、中古車で初期費用なしの新プラン - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xR1JuMTd0SlRPM09XSDdiczZMTmRnbkw0RHRBcmF1ci05bUdXRThGeG9tM2JSUGlNWWtaNVp1c28xYTlickxYbVd2QlppWElPNllkU0pjSnNQNmVqeE94TzVDVzE0Rkx4T1FabQ?oc=5": {
-      "title": "名古屋銀行、取引先の会員制総会を開催 懇親会で顧客同士も交流 - 日本経済新聞",
-      "company": "名古屋銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T11:06:34.248926+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySWNpcXYtRnAyNVRyOFpqMG55NE9abVZoSDlxUEtBNGFFVG9KSEoxVUxBVE8yYUpmbnM3dS1fcFdweXJiUDl0NnEwNE5VUEpMeTVxcjdSQU45eHczYkRYZk5xcWkxOUpKZzFySA?oc=5": {
       "title": "三井不・NTT東、食事配送ロボを実用化 施設の仮想地図を活用 - 日本経済新聞",
       "company": "NTT",
@@ -1769,7 +1733,61 @@
       "company": "日本生命保険相互会社",
       "source": "日本経済新聞",
       "seen_at": "2026-07-28T08:30:53.624275+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nMWVFbTNSX21uOXZuOGdaLW9TTlpSNmIteDZSQmhyLUtuVktKT3gzemZaY25vUk1ld3NVQ25VaUlSY3pCOVVmcTgzcksyMDg5dVhrUWg5WXhxQmRZTlZZNFBLcw?oc=5": {
+      "title": "【三菱商事グループ】データサイエンス/オープンポジション - 日経転職版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITXl0UG9MbUN5TmdqZlVQdXYwLTZxQmxKcGo3UEExMVJCWkNSenk4YUU2NEt6V2l4ZGliWFZmUWVabVo2LW5qVG5jTlRpUlJtN2M0X3ZLVEhaQS0wVmlrOEoyc1Jwam8?oc=5": {
+      "title": "石狩市でデータセンターの企業連合、NTT東やさくらインターネットなど11社 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZjEwaHFraXFPTy0tQ3lONkRtRXVxbHVmNmRNUXdhQ2NYQkg2TlAzN256OXNVdUlJZFQyZjF1ZW9JRjEzOHlocV9lZzhMUElaWlVtNTBhdThyNXBzWEVrUHIzT0pmSUhhRV9QZA?oc=5": {
+      "title": "NTTデータとNTT西日本、NTTマーケティングアクトProCXの合弁会社化に関する最終契約を締結 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZi0xcVlZckkzcmN1S1JSUUJkb2xMOUdScExpZjFZODBVaGlTX3I5QTJlMWVpLUxKaXJOUDFpakNIZHFGUERPSldBOWozRFlDYWZ5NzhVblVtNFVq?oc=5": {
+      "title": "熊本県の一部で通信障害発生、地震の影響 NTTドコモやKDDIなど - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ya2ZaWVpIYVA3YUE5Y3ZNVjkyNDJKelh2b1ZQQ0NnMWQ4b0NLUHdoRjJoZkRLb29HM1Rzc0tTYS1TQUlXWnFvSlkyRlhxTVNYVDRULThmZ2tXTG5NeV9aekRfNjlWQmprNUxR?oc=5": {
+      "title": "NTTレゾナントテクノロジー、次世代IT人材育成を支援全国4都市の学生ハッカソン「Tornado2026」に公式パートナーとして技術協力 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTnZ4MmI0VXQ0STZsVUhXalNLSlVDZHpTQzN2WTQzRW12SG91blFEQ0tKcTA1S2Z0c052c2VzRkJ5YndyekYwRExqMUE1YXlwQy02MjVFVzc0RGxqTGwyNE9vRzZlSWFDUGs2eg?oc=5": {
+      "title": "熊本県で震度7 イオンモール熊本で爆発、2階崩落で多数閉じ込めか - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iUnltRkFzbWtrNjdocEhTeUVZRmJrMjAzaXpPMVlWRjFnTXVWM1h6WU1DZVZjWmZxN3hrbFdkSlhEV0xhVFZEUXp0LVBxMExlOU5lRFBiM3dlM2pUYmFLVmZJN0s1aC1JNHJV?oc=5": {
+      "title": "この夏、春日井に３世代で楽しめる新しい遊び場が誕生！「タイトーステーション イオン春日井店」8月1日（土）グランドオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OQ1hBVFV5al8xODhHTExzLWdOdUhGQkxyNXVxSzV6SUxwLXZmQzh5ckQtcGUyR3ozWHNfTlRSOE5qTFBJaTRKSXJJcWtHQTNqV0FwZE9UQWhESkxSOFRVN1JrQ2FyZw?oc=5": {
+      "title": "【速報】原子力規制庁によると、九州電力玄海（げんかい）、川内（せんだい）両原発、四国電力伊方（いかた）原発で異常は確認されていない - 時事ドットコム",
+      "company": "四国電力",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aTFRSLTFrMldBcjFUWlpnOGJiTUN3ZU9HMjJMSmhYbEd5T1kzWkNuYmVmVlVDYVBuaUd6UU1NNkdUZ0UwYVNoNlNndG4wMEg0WGttUndZSDUxMW9hLXNyeml0UWJ4RW9jZ0lr?oc=5": {
+      "title": "国内最大級の生命保険会社である日本生命保険相互会社がNDD認定（非ダークパターン認定）を取得 - 時事ドットコム",
+      "company": "日本生命保険相互会社",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T11:15:46.353172+00:00"
     }
   },
-  "last_updated": "2026-07-28T08:30:53.624714+00:00"
+  "last_updated": "2026-07-28T11:15:46.353599+00:00"
 }

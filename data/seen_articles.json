@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySWNpcXYtRnAyNVRyOFpqMG55NE9abVZoSDlxUEtBNGFFVG9KSEoxVUxBVE8yYUpmbnM3dS1fcFdweXJiUDl0NnEwNE5VUEpMeTVxcjdSQU45eHczYkRYZk5xcWkxOUpKZzFySA?oc=5": {
-      "title": "三井不・NTT東、食事配送ロボを実用化 施設の仮想地図を活用 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T13:44:26.072407+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndEY5V3VJZEJBSUFBTDdjZEZ2Vk5FNEpUMEkxWFZnV0F3R3pRVUx2QU5rR2wySkxhZlJYeVAwSzItUXZFbjdkRnRhcllIeGt4T2wxWHhTV2NvdUlyN0JaQ1FZcUM5cnliRklnWQ?oc=5": {
-      "title": "フジクラグループ、経営理念MVCV及びマテリアリティの改定を発表 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T13:44:26.072407+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MGx4ZFhaeUMtcy1JeGxlOVZsQTBkZHhGaGtyTXIxYld5cy10UWFXbXowcTNndFZJUjUyZEFCVjkzVzl2MldqT0taV1B3OFFlWTJOMlp4Z0JJaF9DSHFTMjZGTWZLQkljcnRSaA?oc=5": {
       "title": "世界デジタルサミット NTT・AIの基盤つくる 日本IBM・生産性を6割向上 - 日本経済新聞",
       "company": "NTT",
@@ -1787,7 +1775,103 @@
       "company": "日本生命保険相互会社",
       "source": "時事通信",
       "seen_at": "2026-07-28T11:15:46.353172+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CV0dOLVZiTmNZRTlLMHFnNW55bnJNZG5fbVI3VjJOTFhzb1g5RlliWGZIc3NwbXJGbUl2RHNwZE5UVzFieFVHRUJUQjd1X2J1MVE?oc=5": {
+      "title": "NTT East, 10 Others Form Data Center Consortium in Hokkaido - 時事通信ニュース",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5": {
+      "title": "日本製紙、工場の煙突倒壊 イオンモールで爆発、被害確認急ぐ―熊本震度７ - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wazRjbUZ3ZHB5STZKRFMyZnVOa0liem0wcWt4MUZmT3J5dkhOYi04WTJEX3NtdHNYY1QtckJlOXdkT2Z0bkpMQ2d3VC1PaXlrUnlVRg?oc=5": {
+      "title": "日本製紙、工場の煙突倒壊＝イオン、モールの被害確認急ぐ―熊本震度７ - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXNWdTM1BXVDFlS0JVYW1xNWpvOEVwN004Q0lCQ1h0aGRIN3BJX09fMnFlUmx5TkJZdmU2TDBXT3R1alZtRUhrdzI5ZkllUFpHYWRDaw?oc=5": {
+      "title": "◎〔熊本地震影響〕トヨタ、福岡３工場の稼働停止 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4weDh6YkNwdElLcU9veXQ1ZjNJY2c3Tkc4dHF1RF9FU3JLOXV6RUs3bW80Y1QwZl9maG5fS2dBOFN3bWttWW4zZFdLMVRicjU0elVmQkdua09HZ3FiSmg1T3pQRWRPSmRjdXNv?oc=5": {
+      "title": "【トヨタ・コニック・プロ×安田不動産】本社を構える街、神田淡路町に新たなにぎわいを！ 「ワテラスの夏祭り2026」に出展 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvRjM5ZzctM3VVd2VTS1FVV3hHdHAwcmhtQkQyRVZwY1BVQ3BQRnJocXZvWl9VOVZFR3ZkRDZKQUVIN1RrUEFiMkpEd2VWeThJYzVHc1JkVW1RMUpwbHg2eTFvSEo3WV9LSXNj?oc=5": {
+      "title": "トヨタ・モビリティ基金、「サステナブル・シティズ・チャレンジ」3都市で社会実装を担うイノベーターを選定 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tRXRKbzMtNzdYTVp5TlppTUhJZnRDZ0U0ak11UC1uaXh5d1RBWmdEbTFQdG1pQW44bTh2cjYzTlNRcEZ6T21jZ1V6OVg2WXlvbUtOc2lNSE5xa0s5VkhhN0h3V3B5SHZtUFM0?oc=5": {
+      "title": "「楽天銀行アプリ」で「楽天カード」の請求金額が確認可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZVlV6YkxsM1RXc1BBcDQ4THU0dlJ3QTJFLWZLaGRZVmt5NXliQkZmZXhuQkp1aXI2dWt4eXN2V2g5WU5tVndmYkFsdGZ1RXY4OUdJN1U5LVZ0OGd6MkFHMUtKTGc4aXhTOGZyWA?oc=5": {
+      "title": "イオンモール、爆発の衝撃「ボンと地響きのような音」 熊本で震度7 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQzZFelZSMEZaYzdGcE16cTExUmZoUGxRSE5SemxTQUwtVVRfWFNGMXNFWi1aSE14OEc3elQ4eTgwQXFJd1FLVllFUUFEYS1Qb3htYk55SFRvRjl5d25wSnBCcERhbGhsT1c4dg?oc=5": {
+      "title": "小泉防衛相「人命救助を最優先」 イオンモール熊本の救援に陸自部隊 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QclNyQ3V6OWMyd2hUY2FGNzRySE1kUW1rZ0gwand6cjBpNFpnazdLOHdQMVotVE1zbWgtemJhMWQxQVRuQ0JyMW1jejVYdWo3OWN0ZQ?oc=5": {
+      "title": "熊本県で震度7 イオンモール熊本で爆発、2階崩落で多数閉じ込めか : 映像 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4NjdSZ094U2t5THFLYzVfbVkyUDhIazhIWUlUdFR0dmd6ck00SVBJX0pUYklmLXZmUEtsWjFQTUo4V2hWTU0wUmpFLWRNWEl2c1QyOEhfbFRfRmtxVjY5SEY1ZXRFdw?oc=5": {
+      "title": "【速報】警察関係者によると、崩落したイオンモール熊本で従業員２０～３０人が安否不明になっているとの情報がある - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX0ZwbjVOVDdLV1dua3RoSkl4RUZYR3g0dXFEX0g4YmNuTE5qYTdkSm5HcmVuVU9RcmF0ZzJmVTB6U1kzRFBJU3hKLUJsNmxWMG00eg?oc=5": {
+      "title": "立ち上る煙「爆弾落ちたかと」＝２階崩落のイオンモール―熊本・嘉島町 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5": {
+      "title": "画像・写真：崩落したイオンモール熊本：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5": {
+      "title": "画像・写真：崩落したイオンモール熊本：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lT1dDbm1mZjJOOXFEV2dFVFFhNzdQZ0haUURMYWVYMTJyVk5STHF2a2FjWEZvSXRFN3lOTFVHMHlWTjNLQXFMQTVqRk5nT3V3VlhuQ2RKNHFadDBwSDQxdFlZZGtYNG5PRUkw?oc=5": {
+      "title": "愛知・名古屋2026公式ライセンスショップ（イオン新瑞橋店内）がOPENします 7月30日（木）オープニングセレモニーを開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiLXZtUDdIMmZlT1lvNHk3RFBFamxvWXYtLUZqMDNqQzRyWXI0aFZwYzVXdFlUQlZOQ0RMMnI2NS1aRk9UeS1QZXlPRmkyNWJvd0lTbUxLc0M5OFpvWTBKRDZGSkY4MmJscndHNg?oc=5": {
+      "title": "九州電力、サワラやアジの棒ずしを冷凍に ECで全国へ販路拡大 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-28T14:02:13.774423+00:00"
     }
   },
-  "last_updated": "2026-07-28T11:15:46.353599+00:00"
+  "last_updated": "2026-07-28T14:02:13.775057+00:00"
 }

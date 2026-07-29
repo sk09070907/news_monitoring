@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MGx4ZFhaeUMtcy1JeGxlOVZsQTBkZHhGaGtyTXIxYld5cy10UWFXbXowcTNndFZJUjUyZEFCVjkzVzl2MldqT0taV1B3OFFlWTJOMlp4Z0JJaF9DSHFTMjZGTWZLQkljcnRSaA?oc=5": {
-      "title": "世界デジタルサミット NTT・AIの基盤つくる 日本IBM・生産性を6割向上 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55dTVMdjJsZEkxOW82R2RjNE1LZk5EOFRERnFNZzJYX2hSM3UxYUplaWNqOVE0TjMyU1lzcGVkWkJtUTJDNHd1Y3JlcDdva1k3aEhYMzVpY3RnRjQxa1pIVk5BbXUxWUMwckR6aQ?oc=5": {
-      "title": "ホルムズ危機後の三井化学 バイオ原料、リサイクルと攻めのM＆A - 日経クロステック",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80Ym5Yclo3bTZFUldjQkJUUVJ3aVlPZWxNbGFGNUlQMEE2ajFjd2ZoalYtS0QxTEJieWYyZGFtMlVTQzh4V05HOTNsaXNDOWZ6amhESGI5T1BfT0lpcHNucWo3VDhTM1JTZUpESw?oc=5": {
-      "title": "フジクラ 6月の上方修正、米国外での突発受注が原因 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kNlpRa2JQRDZ2Q25mQkYtdWNVajRaTTI0T2lxR2VOREpNbVROMUpkV0dGLU1NVlhKZUVpd0lOU2xISEVYUjNtY0s2ejNMYktHSmEyQkJ2SnhjRlJxa0xTRmNmWjNyYndFTUM4QjYxSUdwdUdNYk1n?oc=5": {
-      "title": "合成メタン､大型設備の開発競争 IHIが30年に25万世帯分 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtamNuYUwwVG1DY01MR2NINkI0bDNaSDI0YWdxN3p6RDVsT1ZYcmF1TGh3cUszbnR1ZjQybFUtNEdEZzNpSnVpcVJuQXp4c3ZMbnVGSzZZZnZEbk1qczIteEVaMmRyVTRhZVkzSVZMRHBTM3ZDbEpHRFE4Wmc1WVE?oc=5": {
-      "title": "編集者の視点 ｢トヨタ､南アで新型ハイラックス生産｣ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3NjZXdDcVZLSUEtUzVGQUdLXzM4bzBqMXBwYUhwNFA0YVRuNFZ2bUlWaUR0bHhNR3cyMFl2YjhMdlZfYlo5VTRHakk1a0lIRzk0eXI5V09haVJrMG91TXNVcmxVNFZKSzVWMEVUV19UNDcwampEQzljQVQ4TG9PUXZkT1NVNVhSWmU1MQ?oc=5": {
-      "title": "発火事故が多いリチウムイオン電池、「燃焼の3要素」が内部でそろう危険性 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qMFh3cENCSFZKa0pVQjZ6cmtVYlVZeEw4SkF4M0hxLUl5T1BKRlJXeHVvd1E4d2NwRVU4SER3NmphZmJNcVZ6MkZ2ZlA3M1NEZGJrRHh5M3FGV2h6ZUVza3hSSmpSZ1VOV0piMA?oc=5": {
-      "title": "データセンターでリチウムイオン蓄電池が急増、政府が規制の矛盾解消を検討 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RQ0xzcFhQbVlDYTEtWmw4NDJPT3BKWWNDaDdfa2c2cVJqQzh2OFJrWVZIVXM3OFZZV0YtN1ZrcF9Mc3lZc0tRVk9LZ1ZEUlhVVTBoMVBXYjlpaUQyMUg1YXJHQUNhUzVEQmZDWGxB?oc=5": {
-      "title": "【IT計画グループ】中部電力グループ全体のIT計画策定業務 - 日経転職版",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZZWZ1MVpLdlVKWXFJRDItckJuQk5MNTRsWXNvX0QzLU1OY3J3YzhSVTJnczlhM215SEpIS3FrSUtLSDUzUWRtS3g4TGFxM0ZrbGk1dmN0ellqQTNHOFVXNWtmVGc?oc=5": {
-      "title": "画像・写真：ソフトバンク１―２オリックス：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-21T22:00:53.824582+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bDJWSlRkbU41UGF0RVRFd09SN3hPcVpIOURpZzB5NmtRb1VHY08yUUYyaGZHMWxOMWFZd1lCSWphQWMzLXpaOG5GYWJRVDV3N2lGMHdmRFQ3TUFE?oc=5": {
       "title": "NTTドコモビジネスがNutanixを用いた仮想化基盤、ライセンス料を従量課金に - 日経クロステック",
       "company": "NTT",
@@ -2027,7 +1973,139 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-07-28T21:59:30.032707+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53OVp3dVI2WC1wTEtWMllJdm9Md1k3NElhclNCaFZ1aU9md1NSNnlpWU1jRjFjWnBmOVYxVFVZenRWbGtJVFA0ZkoxOFEtempLMkxScHQ4Ulp0R1dRZDY1eVRXRjdsRGNBZlBIRQ?oc=5": {
+      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経クロステック",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Od3RxUWZ1SzQ3c2RUVGt3N3NiRUoxX0UteGR3QnlaUGNoR0lycUhHVnBGNWZfeEl4RlVNQV82d2tXME5NTWV0SnNZM1dkOEQwMV83d2h5SGR5SXdwb2tJSlNTeE5PVi1oREpZcw?oc=5": {
+      "title": "サッポロ、気候変動適応に向けてうどんこ病への抵抗性をもつホップ「フラノ2004B号」を開発 - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IenBVRlBRY21IQ3RfaFJPYTJlV3NmcHdFNFhKZmdJZzBIRm04c3k4akI0d3hyQ09zVGsyRVZwZ04wT2RycnZhbFlnY0tMMGs4U2hKdl9leVRrSlFXTWgyanNSS2VtRWg4cEFEXw?oc=5": {
+      "title": "熊本地震で関連株価に影響 東エレク、日本製紙、九州地銀など - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5": {
+      "title": "死亡１３人、安否不明者の捜索続く イオンモールと日本製紙工場―３６市町村４７００人避難・熊本震度７ - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMUxJbk1xTEVMaFhZYkJpSGhwS3FDelNPeUpzZUdxYVFiUk5OUzBDQzB6cGU3VUMwZkdNVWVDM1k4N0hUTTdCV0I1R05MRWM?oc=5": {
+      "title": "【動画】イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止―熊本地震 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZV9UR0F0TlBTWEVPa3lfbGFtYmFobFR6ZE80N3YzWUlPNkNlZzRWZ0pZOExqQ01UZFh0ZnA0aUEyVEhpQkVndGRkRV9CMlpi?oc=5": {
+      "title": "イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震：ニュース動画：時事ドットコム - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjYxbFJBRG1XTEdmcmg1MTZpLU9KSnFnenpydXpmaHhELTRSTjEzNXZ2dFVFTUQzaDE3WWMtMUJiNWZvWHRtVWdzVURFNGhDUS1WcnlvaVdXX1BuMmRvNE96akE1UlJmbmZqY25wYU9xTFFXVmpJazVrT3plRUw1Zw?oc=5": {
+      "title": "イオンモールで爆発 日本製紙、工場の煙突倒壊―トヨタ・ホンダ、工場停止―熊本地震 - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYm9QTUxhZGJfbW9wdGlaQlBLUWMxQkIweHB5MnVHQ2NMZXY5eFVfWHZRY2NtYm5HYjBUZHpqZDh6bG91cHhTRGFiRk5NSjFkNDlXWlpOaWRtSDNEbl9PTXNfTDBOZGZ5Q3o4Q1pZN1JST3QxNW1VNG5XdGdZX21IUmhR?oc=5": {
+      "title": "死亡２人、安否不明者の捜索続く イオンモールと日本製紙工場―３６市町村４７００人避難・熊本震度７ - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNG14M3RwQU96ZlRVUEpwdFNfcklMdGdvTVRjREJoLVV2RUFKNjRFWEVucDVKT2JadmlhV0dFZGlEYnZhNHF4M01SX2kxYy1IM1YwbQ?oc=5": {
+      "title": "死亡２人、安否不明者の捜索続く＝イオンモールと日本製紙工場―３６市町村４７００人避難・熊本震度７ - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UNlVzX19RNV9KLW9WR1VzV1R0X2w5NWM0dnhiUW5WVmJXZExVRE5JRk1hM3ZKWmY1dFVHRVNUQjZVTGJ0R0Zad1FUOURTb1BCYVpjZGJZSU9iaWVWaXc?oc=5": {
+      "title": "◎イオンモールで爆発＝日本製紙、工場の煙突倒壊―トヨタ・ホンダ、工場停止―熊本地震 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkTXVtTnJTUFU0Ry00MWZrOVgtS1hmZ3p1NFF3QkEzNGtIZWZkc2syMWYyQWtyVi1ZaVFsVWllWmpsNXpFajVHWHRRNjJPdjBUYmtEWnViYl9yQUg0M0J6eVRNN1pfRTJ2cWJ3eQ?oc=5": {
+      "title": "トヨタ車の設計会社が「江戸のカクテル」 三河みりんで海外狙う - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbzlDeVA0U0FCc0tIT2xTRzZMZ0FMWGhYZmp3WGk4NkpQa3Yxc2FfdTI2X0hGN2wxaDBTVXBTem5QVnZMNXI1XzZiM3hTX1c2eW9USVJiTFZKTk5pZU9DZkV1b3NKSUFtdmppTQ?oc=5": {
+      "title": "激震「10年前の恐怖再び」 熊本で震度7 イオンモール爆発「ボンと地響き」 懸命の救助活動 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55YW5lM0hrR01hN3Rnejl1NHB3TkJBdHVLTVBsemhTWllPUmpUaDFfX0ozajhHMlZyVFhsT0xab2JVSmh0T2Z5V0lhZmRDSllXU1hFdmJZalR4cW40Yzc3cWt3a3dPdw?oc=5": {
+      "title": "【速報】熊本県によると、イオンモール熊本で４人が救助され、１０人が安否不明になっている - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNMXhfVXd4Yk85ODhRSVRoRFhYUW5Pckw3ZzZnVzZhaEpYalJGRExnT2d4QURXWVBNZ2xhZ3dFYUFLdFhJbWstWEFfeGdLeUswYzBaRw?oc=5": {
+      "title": "イオン周辺、がれき散乱＝知人の無事願う人も―熊本・嘉島町 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IUm1VZjlidnhLSGs0cnJhWGZkaGJTaHYxTi1kNC1uTDJJMHdGdWlvb3lwNE44T3JJSXNBRllJN2dUa1NWTHhhQ0h4bnpQVlZUbGphSw?oc=5": {
+      "title": "◎イオン周辺、がれき散乱 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HdnZpMHhDcFd2S0VYZXUzZWt6YlpTX0xtUzJwNl8yd1pMbFlOYWpON2J5RFExOFAwVzR5Y3Y0amVPdjVaQkZ1bkROaDEyTVR6S3Rpay1KOURoUHdlSjdHUjRreWpNUQ?oc=5": {
+      "title": "【速報】熊本県によると、イオンモール熊本で２０代女性２人の死亡が確認された - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2pEVkdFQzljMXphdDdjZWI3Qk1LX2hWaXNsdUJCU05SREJreHVMYjhoTGZyRHdZTHhWYW4zS3p5d3lTM3F6cENFRGZOa2pFNUpSalItcjhtWGhnUHg1b3JRNU5OdXBxamFYNzMtSmhqTnFKdW1pMGVVZFdTMnNoMQ?oc=5": {
+      "title": "死亡２人、安否不明者の捜索続く イオンモールと日本製紙工場―３６市町村４７００人避難・熊本震度７ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRG52TEFaa1R2X3FOZWQ2b1JDaElLNnA1Nkh2eUdQRVU3VmR0eGlmVGxzbjBRRENqalBDai14bldtb292a1I5RUxlNGZiUGI1aEtxWUZnSXFsX29CczQxTlBWX2U?oc=5": {
+      "title": "画像・写真：損傷したイオンモール熊本 熊本震度７：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50VnBTUVRqOWt1VmdzQUdBck9BaFdLTkk3S0gxdUVEeGxMdlg5NnpsZC12SFVyWHA3Sl9pNDVkbXQ1NS0tdmp6LVVLRXlGOXpKSWNVZ0FWb01LbGt3REdlQVl6M08?oc=5": {
+      "title": "画像・写真：イオン周辺、がれき散乱：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZk92OVEwLUhjNVJoR3BsMElsV25aTm50d3RPQWVLQnFCdnE4bHRZcldSZzZuc1EyOGxrRkRDNmtSRkVqOEU4ZHhqTElSQkdfZlVjaXN3c09hNTJCSGVwX3BLczM?oc=5": {
+      "title": "画像・写真：２階部分が崩落したイオンモール熊本：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0weWNFUHNQR0JmZ0g0cFQ1bUJZSnhYcFNjdXZBeWstTDBiYm8tbWQ2SEtOMUluLXktZUNaNGJDcVpSLVAwTUhKQXI1UzhucUUta0E4Vm9ndTltTlFyNTZjdXc3Z1licTRjZjZv?oc=5": {
+      "title": "【第2弾】日清食品・NEC・旭化成・農林中央金庫のCIO／DX責任者ら、著名企業の登壇が決定 - 時事ドットコム",
+      "company": "農林中央金庫",
+      "source": "時事通信",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZXhFVEIydkU0MkFRZTBOQ2xuVndtUjFNY2gxdWxIeW5oaXNaZVNDVHhyTy1MeF9YY2hYbDF2cjZRb21TWUQ3MjdKYmhDSG5xa0cyOGZoM2tGS0hYTG12aWNkZW9oZUFzOXRR?oc=5": {
+      "title": "三井住友信託銀行、三井住友トラスト・資産のミライ研究所が金融教育に関するアンケート結果を公表 - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-29T02:27:44.458978+00:00"
     }
   },
-  "last_updated": "2026-07-28T21:59:30.032919+00:00"
+  "last_updated": "2026-07-29T02:27:44.459482+00:00"
 }

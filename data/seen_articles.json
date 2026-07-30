@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE52U3lyR2pPdENieWgwQlJ6WTdUc04xMHV3UkRESHhfNmhUTGhGVTFYVklnQkxUYl9UUXRQajEzZUUxbXJDajJuWU9sa0tVbE5DQkpkOXJZOWt6MHYxYl95WEVyeGRaSVBZOHFaMUotMzgwa1lPNjFXQVRPNG94WXIxM3Bfc0haUWhMLUZmWmN0UWZwdTBRZ290MHBjb1ZrTjN0Vw?oc=5": {
-      "title": "三井物産、米自動車販売大手に追加出資 取得額6000億円 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-23T22:00:50.374320+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamU4MHRNcTFQbjBQY0JYLWsxNHdrSmZyY0pjMnFtZ0FhaVhzS3NTTk9PbWZTdERHazZQajJjY1l2R1d3bEJUR0dTWmxacFg5Z2U5a2Exckx4am9PZVdDbFJZWWpFckIzS3JvZVd5WGhQdHlRakkzWkVkWkV6M2c1ckJoU1ZkSWtWanV1NTBOMHg2VnNY?oc=5": {
-      "title": "JFEHD、「CFO4人体制」金利復活に備え - NIKKEI Financial",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-23T22:00:50.374320+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JTVZZVGVrSUZ4YUpadTlyLWhQam53eTdCVjJJOEFnTEdzWjBYclctMng5TFBUcDFudzdzQVdQRFFZb21EWkMtWTlOUXhuVzZLdnhDUlJGQWRlenhEWHdTNGNxcw?oc=5": {
-      "title": "いよぎんＨＤと愛媛銀行が統合へ 来年４月めど、行名は維持 - 時事ドットコム",
-      "company": "愛媛銀行",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T22:00:50.374320+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUanI4UVJiN3lKTFNZcEt3THZ5WFZsbEhjREpnNl9WblczNElERzktR1lSaWQ2MXJ0SDQyU1poTWdwY1Fld1lwOTlZcXNaZ2tqZGp1U25pOTBTRGF0V3c?oc=5": {
-      "title": "いよぎんＨＤと愛媛銀行が統合へ＝来年４月めど、行名は維持 - 時事通信ニュース",
-      "company": "愛媛銀行",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T22:00:50.374320+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kTnczY3lrWFNlSFBmcEdXR1FqXzl1cUxZUUpBU1R5aU1VeUpSaW5Lc3pvWmxlYXpGeWhGdllESHJrX0hmX25iYk9VaWY5MUhGNGRIaXNiRlBzd0phOEE?oc=5": {
-      "title": "◎ソフトバンク６―５オリックス - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T22:00:50.374320+00:00"
-    },
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE03UWdDQklsQUFhdXkzWW1DZ2pXekNaNUhQYjMtX2RicE5lMkMycHZ3VkxiTEljcHItbjFwSXZoYzFjaFE2aHNuWFBIXzJYWVc1SnI5QkxaMXZURlJjOGtXN0s3TzEzUGVvaWM4bHg3S1NoT2M?oc=5": {
       "title": "JFEHD、「CFO4人体制」金利復活に備え - NIKKEI Financial",
       "company": "JFEホールディングス",
@@ -3209,7 +3179,139 @@
       "company": "芙蓉総合リース",
       "source": "日本経済新聞",
       "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sNzNNeHc3TW45RktsUDNEQmRZTk9RTS01SzZZNnVfeVNUYWI0ZGo0YWFMejZGUzc4M0xwVmJSZzZpSkJMQzBBNnhmMXU2bzZjUHdsMzY5d215RzBkMlJYYS1ETWtqVkViQTgtag?oc=5": {
+      "title": "社有寮を復活させた伊藤忠 ひとつ屋根の下で対話力や仕事術磨く - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Yi1UNUxBM2s5SG9oRFc2OEgzV1RwazNWZDNta2EtS3Jzc25iWW5nOEdHeVhiTUpRaEotcDU2c2VCRnBHTm1oTWVNNXRaOVdUUU5qTHYzcV9VQ3o4eVRvY1RWVXIyTUpjYlJBUg?oc=5": {
+      "title": "クレヨンしんちゃん、タイでも嵐を呼ぶゾ 住友商事など現地財閥と - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg?oc=5": {
+      "title": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MkMtU0xQTDlJbFhFMzJ6UTNSM0t1eTFPNmh0dnpBZ1N2bi1HekhwUWxoaXpTZlUtY1JzUklHZVh3WThjOXFnak1wUURsaGFEMnBBX3ZNQmhmNFl0amJQUHlsR0hZaTR4c1pYMFo3QQ?oc=5": {
+      "title": "地震で損壊した日本製紙八代工場 地震…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxcnpJWjJzdXpkQ1ZWcVR0LUJOaXJzVWhXcXRrTFdGZFRrcVRjYkY3czlSeXFTU19XOC0wU1h0Y2dhaHJiX2Yta1ZvUmN0b3NCQ1dzMG5DclM3OUpXY204a2ZNdlNTc1RQbGVNY0J1NA?oc=5": {
+      "title": "日本製紙八代工場での救助活動 地震で…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNGsydlFnamtxaC1KY0hkYW1INlZIcWhTQUdKa1V4WlQzcWw3VWotbUVxQUZYa24yTmpCMUdkSzI0eDlPemVGa01zUWdZNmtUNG9MazdtRTRBOFlxRnBGZ2kxMUYyTHc1am1CRQ?oc=5": {
+      "title": "新幹線車両、曲折越え台湾へ 日立・東芝、2度の入札不調経て 鉄道輸出モデル事例に - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iSDlTM1c4VThiS0ZMTnBQSUdKRkxIUURZQXA1ODQ4N0RLZlB1dldCRldzaXVFRUJzeFBWVTJJdjREOU5HaFZCbHFPME4xeGpsWW4zQUpiWnJhMEllVE1CN2N1VjdNNXhmUWdrTA?oc=5": {
+      "title": "トヨタ系中堅5社「熊本地震の影響を懸念」生産堅調も先行き見通せず - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bG81anVicnNDTGJ3QjJSSUxNeEV1MkFTS1paZXl6NHp6OW1CS1hDNGY3UFZMTXlwVE9LaTRjMnJqelROejZyLWhVS2FqOWdENXlGeDdwUzh2cWpwTWZQRWFHWkEwNTJkbzZVeVFRb0t6ZGRzRTBBeTZEcm5jMUE?oc=5": {
+      "title": "1〜6月国内EV販売､トヨタが2位浮上 BYDは5位→9位に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81amYtTUpGQ2hMWDJscWdvbzNXVWozcmotMElPY3FsazE2eE9QZFhPNTlCVEJQSnlDZlV3bWY4VDRNOWJuNEI5ajNnc1h5bjRxOTh6MkJFVUFyeHQzb3V3MnhaWTg?oc=5": {
+      "title": "躍り出たMUFG、トヨタ・キオクシアも超えた 時価総額「国内トップ」の衝撃 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERU44Z0RqVnVtd0E3NkNNTTVPeUVXSFNlcEhNbG43ekw3WjBUdDVtNGNWNEoxeFVjVm81OVFvYWpYX1dQRTRhLXBVYTZsUGVYdFpJU0JHeWRNSWJGTTFPaEE2Nk1xdW8?oc=5": {
+      "title": "［新連載］MUFG、時価総額トヨタ超え国内首位 海外M＆A花開き純利益2兆円 - 日経ビジネス電子版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BMlR6MWl1ZzQ2U2R2MWROVWRXaldaT1ctREZFalFfS05Yckw2UnNtOFlLYUtlNHh3Ul9sYS0waEd3cHVZUVBhSzg1eVVSRVNuSnlnaE9zT2h1c055eWJ3Tk1CTHNDS2RpREVLRQ?oc=5": {
+      "title": "熊本のアイシン工場被災、再びネックに トヨタ・日産に影響 他工場で代替生産視野 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2wwNms1TTE3RUEyNUFINElTbXVoZkNsZjRINHFDZ2hXb0Fhcmg3bnYtb2haNXF3d2VLRXVYTWtpMVhsMzBWbkNKOWlTamlvYTVGTVg4Z2NYU2ZlUVRRU05IWFIxRDgzLU02RmFiM2FSa1NhS25qTWJLTlZRQmYxMFhn?oc=5": {
+      "title": "トヨタとホンダ、通行可能道路を無償公開 熊本地震、避難や支援に活用を - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5": {
+      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5": {
+      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGb25CbmEwQ3hORFhRMG5lYVBiWFBsbzBhd3BJSk53QjNETGc4UXhKbXNLY1V6N0VYMk4tUEhEdG1ISGhkQ3l6c3RUQUZyZGdlRHBhMkdtV3l0Z1ZqSXlMdldPRGtPODg1b0JzMFNzYw?oc=5": {
+      "title": "損傷したイオンモール熊本 地震の発生…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nd2p6eHFPTnhjSk44N2p4OTJ1MDNHVUlnUFRCMUpmQXhzM1ZVYV96ak9WM1Y0Mzc0NzVJLUxGdVh0Qzh2c1dMZHVPel8ySDJra28yOFRiTk95c3Uzek1JUmhKSGRJT0paa0sxUlZNOGl3a2tmeldJ?oc=5": {
+      "title": "風車の羽根内部に点検ドローン 関電系、27年春に事業化 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQ0Y4VU54UE1Zb3ctcjlmT01jNWJtbmtFRGJIX3VWYU9aejBsSXVqaEVzLVVFMktacURJQkxjcGdNV0JkY2o5SFJpWVRzSUo2aEN6dEd4ZWctcG1xR3FZZjVuR2Jsc1U2RTIxcA?oc=5": {
+      "title": "北海道電力社長、27年のラピダス量産「既存電源で十分対応可能」 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVVcyUW1KNDhVN21sV29HRkF3dzJSWS1YekFwZ1pVZUJmZ3A0MTJCdkpYekxrZ0tkX3JTUkpVRHNwRTMzT3c1bnFwQVgwX1B1bDZVd1lqdlhTSmZfRENWRms1ckI?oc=5": {
+      "title": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 - 日経ビジネス電子版",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UUll4aXFER1pEbnBRN1FjMTdJY2Vad0pLZVNOSm1NRWY1S1JMRm1ieHN0eEhMT2d3dmYwRjljMWNtZ2dEREZSakRWYm9JSHctR1phWDNJN0dxb3QtRnA3elp2eWI?oc=5": {
+      "title": "時価総額1位のMUFG半沢淳一社長「日本に新たな資金循環生み出す」 - 日経ビジネス電子版",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRkxhcWd1UDYwLXJTMW5wSjFJQXBCUjVxTWdIUWtrSkxwS2djbjZnX0s0ZjNHZ0VBWG8yX3NZTjJOR2VYSVotcHpmRHdnTVB1X0RJdU9QN1hYTk5uc0ZsN0tIU3U0bWtJRUoxSA?oc=5": {
+      "title": "みずほFG、純利益上振れ 今期、12%増1.4兆円に - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYldKbnJLajJHeEFXd1huSDdVbVVXd05KYVVXVzZZVmsxZDdHTV9Vd09yVlQtWGhVTHhFLWMtaTFpbnpJdkFuZ1R5MHN5SHNQT2xTUUw4QXVhUmhNMDBBR0dIZEpSYThUZmZnZw?oc=5": {
+      "title": "三井住友トラスト、純利益57%増 4～6月に1422億円 - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNzVUbzY0ZUJ5dVcyQXVHX2w5UWlBSF9uQVF3Z29Pcy01QnVCbFdkd2cxYTg2UGdOaVVra1NpLXlwN0JFSHhYcklmNzhJSDVnS2dyeVBoZ0hWUDFwYXJzZjdmZjR0QlpwcVpr?oc=5": {
+      "title": "CCCが挑む空間アセットのバリューアップ――野村不動産「H¹T」・オリックス不動産投資顧問との共創で結実した、オフィスビル空中階の新たな空間活用モデル - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T22:09:23.422249+00:00"
     }
   },
-  "last_updated": "2026-07-30T13:55:16.965242+00:00"
+  "last_updated": "2026-07-30T22:09:23.422814+00:00"
 }

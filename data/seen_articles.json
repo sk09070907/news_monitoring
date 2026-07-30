@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMkJEcHFGS2ZGdFRraGxJcUExTk93Qkp1emhQdmVyN0RJZ3NFRkZPOHFNa2lXazZVa01ZVVNFeWh5ZE43blZXYy02bXdnWmYyRWVtc3kwbzFkMzZvR1N0bm1XODhWd1RGX09KeQ?oc=5": {
-      "title": "九州電力系、発電所保守のIHI米国子会社の買収完了 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-23T13:52:26.751072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1dFRVdDNUZHRBVWZnOFFlUEItdkxpR2VPS1hHdnpCMTQ1YncyTTRvemw2UnhiVlViZExTUENuRlE3dDRybHNWVklIb01YOUxtUlJsN2NOTVZCR3NmRTN0LWpIcw?oc=5": {
-      "title": "規制委評価受け福井県に報告 美浜原発の蒸気漏れ―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T13:52:26.751072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzbkxBNjRxaG1pN2E2SFR5YmtCbG16RHpVUEh1YWpxTjF0NkFhTTAyUlF1dkx1SnBIS2ZFT2w5N2Q3anVIbDBILVphYTR3V2Q2MWRFc1pUSldGbXZnY0pYX0xvS3Zzdw?oc=5": {
-      "title": "【速報】愛媛県地盤の地方銀行、いよぎんホールディングスと愛媛銀行が経営統合する方向で最終調整していることが分かった - 時事ドットコム",
-      "company": "愛媛銀行",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T13:52:26.751072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CLXJaRFZCb1dNYjQxNmF0UTYwOHdQWkpCVUlLN2VnbVJkT21jT0VBT0ZtRWthUDZlWkNoVVpHdUE2MGkwQkpSSUJZTlJnS0NkVEViWg?oc=5": {
-      "title": "ソフトバンク６―５オリックス - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T13:52:26.751072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsYW51Z2VudEdzcWN3T0UxbUd1OWNHaF9uQjZYdkFFMzU0dVJybUFoM2pPSEFKTkhWYmNvQV91eUJRUkMtX1lxd3lzZkd1T1dFajZLVVhIejJJWF83VXdmLWkwVm4?oc=5": {
-      "title": "画像・写真：ソフトバンク６―５オリックス：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-23T13:52:26.751072+00:00"
-    },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE52U3lyR2pPdENieWgwQlJ6WTdUc04xMHV3UkRESHhfNmhUTGhGVTFYVklnQkxUYl9UUXRQajEzZUUxbXJDajJuWU9sa0tVbE5DQkpkOXJZOWt6MHYxYl95WEVyeGRaSVBZOHFaMUotMzgwa1lPNjFXQVRPNG94WXIxM3Bfc0haUWhMLUZmWmN0UWZwdTBRZ290MHBjb1ZrTjN0Vw?oc=5": {
       "title": "三井物産、米自動車販売大手に追加出資 取得額6000億円 - 日本経済新聞",
       "company": "三井物産",
@@ -3089,7 +3059,157 @@
       "company": "野村不動産ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-30T11:09:09.620489+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVaUNMSlZidlBuRGFBc01CenJkZTIydkVaeEJET0NJY2pyeG43aXl3N1k3WDB4anJMTF9KYmVqeGM3ZUt6Tm44cGstY1lDbFRvS2pjZG1rdW1lYlZGdFFNRWw2c0xaaEtSS3dfRA?oc=5": {
+      "title": "小学生がIOWNを体験 NTTグループの夏休みイベント - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjQnVGRGxDMGpDZ0hWelVMcVFtLVZBN1c4S0dxM0NnVFpCS1RvRV8tS0xIbUNVT0J0d3kxM1daTWtBWXRVa2ZXSWNIQ2FHb3NrLWtuQWZQdlFENlgtX3oyeFd6dDJWV0lJTlE1Yg?oc=5": {
+      "title": "製紙各社、新聞用紙の供給支援で連携 日本製紙八代工場の停止受け - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94NTRJc3N4bmdZdURyMzJOUklQeDEzLTBSMVhVUW9MbWxqRnA3bDVjSFR1endsOXZaS3ljcUxaVUo1emlkQ3p4c0Jtdm5PYlR0ZnBQMGV6a01TN3pnODFZQjkzaw?oc=5": {
+      "title": "台湾へ新幹線車両を初出荷 ２７年夏から営業運転―日立・東芝 - 時事ドットコム",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXZaOW1OTkdXV3hsaHhneUktUnYzTENCUE11VXdTU3BWTDJwcHNqR29WZW5TV2dXa1Bxc1dPdC1BbzlTQUR6aVFZT3g4RUFtQUt4RV83SFlRNDVhQUVEU2RiOUFXQjV5QXZlSEsxMlNxNk1qOXpiWnhSOERYODB1TXJB?oc=5": {
+      "title": "台湾へ新幹線車両を初出荷 ２７年夏から営業運転―日立・東芝 - 時事ドットコム",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zZHZMVnp5LVVXaHZNalFQRjlyYTUyV1BQZWhBZElRNjNRLTBLOU5JbXJ5ak9wMXNJeXIwcFVzNFN1ZEc4amVMdjdkOU5GQjVJdVE?oc=5": {
+      "title": "Hitachi, Toshiba Mark New High-Speed Train Shipment to Taiwan - sp.m.jiji.com",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00YzhBc3IzdDdPN3FtcHkzUGlPNmltSlZKM2MzOWxOV0tIREJtdkU0T2wxVHY1a3VfaDRQU3lhdm43c2o3M092ei1pMVUtOGhZY2ZiMnFyRUhwSHNXekE?oc=5": {
+      "title": "トヨタとホンダ、通行可能道路を無償公開＝熊本地震、避難や支援に活用を - sp.m.jiji.com",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vU1RyZlFYb0p5dFFFc08wZjlNSk42aGRLTHNuQ252aDBnUTBDazV6ODFvVnA5OTRVdEdOQ2VwQkt6Vm1EUUhvajdHdTRSYVFtNm5DSA?oc=5": {
+      "title": "◎〔熊本地震影響〕トヨタとホンダ、通行可能道路を無償公開 - sp.m.jiji.com",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44R2k3bjFYcFJMRk9lZHZOb1U2TXY0YlZGT1NJdGFYLUFKczg0ZzJtVWJVR2poQklxVmNZd25la3ZJRFFGOVp5YnhJeEF0a1NvLW5TWWk2ZC0wN1NPaGNIbGx6eHFPTjJOeGI3QQ?oc=5": {
+      "title": "きょうの5本 アイシン熊本被災、10年越し対策も及ばず - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEb3NBaUlSMFFWLXozRWJWdjU5TE5vZ3FiVFhXcHMySVNMdTZwSlR1U2tfWDZ2RklRTUNwcmIyNERYS1lCcEhQbWFsNS1Ya2FuZ1dFTTZDNFUyOFpoWElzSllqVmlmQVk3MFUzaA?oc=5": {
+      "title": "【豊田】意匠設計＜自社Gのオフィス・施設＞アイシングループの安定基盤◆創業60年の総合ディベロッパー - 日経転職版",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyX2tQZ1BOUFRCdlNkWkE2SDZSMWJNZkxtVmVDcVdIcVVjanNWWjU0NFQ3SFNrUFlKMlZwT2xPVGxDQWNDMVUyd2FyMXRrc0ktRUpPcG0xcVRON2owakxmZENlMDBPc2pmSDRv?oc=5": {
+      "title": "楽天インサイト、海外生活者へのインタビュー調査を最短5営業日で実現する「AIチャットインタビュー for Global」の提供を開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jOGNTYkJRYVpaaXdEd1RnZ1N4MFlyVU0xUVhOT01pTk5ha09rS25GRXFBUzJNcENzakd3WlIydUlaR0N1NWl4cHhSOHBxLUJ5Z2ktdEs4UjM3eVF0QnZfOW1CVXdIVWtIQXpn?oc=5": {
+      "title": "IoT/DX プラットフォーム『MEEQ』の「共通プラン」にて楽天モバイル回線の先行提供を開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkIyWE9NNFY3OGRaQ0hKRm9HVEU5OVlwVzZoNm93Wkw4d241Z05CbXVGWmJiUFNTZllGRU56aFBHMERVSU1DVE9Na0d5Yl9mODF3cWJtUnhNMUt6SWpDWTYwZ0U4WGRxU3NUYUdIbFVXMU5nek9LcFdsWWZlcTJLd0Z3?oc=5": {
+      "title": "「ここまで損壊するのか…」 イオン爆発、困難極める救助―熊本震度７ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01ckpMdnNUOHNDS0xCRm5aUmdHcE5HTzJRYjdBZVlnN3NJN25PR19nTWNzR2RaYlBVZjg5US1nY0hEd2Zvelp1QUNkdTMtQ1lIN1Y3OQ?oc=5": {
+      "title": "配管からガス漏れ、引火か＝イオンモール熊本の爆発―専門家 - sp.m.jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PbTFSbEJEVFRuVGlIbGZxLXI0Q3Nma0FLY2dibG8xTTFnYjlvb19HTlpMeHRWMkYzNy02b1FYdU5rWnhHQ1k5TjVRZTA1MEZ5Y3dzVQ?oc=5": {
+      "title": "◎懸命の救助活動続く＝イオンモールや製紙工場、倒壊民家で―熊本震度７ - sp.m.jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rbm4zWS1FLTJVSnNscGNPdVdsWWVDVVZGQkdia2dqdnI0TkVDMkU3dGEyb0xGeXp5SlZvLVZySnFkalBzM0NRLWhiSmo1RXZRZVREYVBqU2FFZ2VBSXJIUUx2Nm0?oc=5": {
+      "title": "画像・写真：損傷したイオンモール熊本 熊本震度７：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNNEJnalBtR3dCQ1d6aVkzQTV4WmFRZDNiN2M5SjhWN2xlN2phaUQ0amNMRGJubXIwazlLRjJsY0ZaOEs3RC1DeDY0NE5rcnhRYlBROA?oc=5": {
+      "title": "「ここまで損壊するのか…」＝イオン爆発、困難極める救助―熊本震度７ - sp.m.jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5SlRDVE4xdEFIcmJxdklOX0hYQzJKdG5HSkpVdm5sYU84LTR2d0Q1X2tGcGQ1MWJsdjhocDlmOWQybGdyb2RRYTFieFV5VEtzYXJKMDdwYURKdlVlMzFwaHpCbDdfd0QxYXV3cw?oc=5": {
+      "title": "イオンモール熊本事故でオンワードHDの従業員1人死亡 安否不明者2人 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5": {
+      "title": "懸命の救助活動続く＝イオンモールや製紙工場、倒壊民家で―熊本震度７ - sp.m.jiji.com",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SdHZzb3lQNmFaZTdkTklxbEpBVzVWUEotOEctVElMa05DSmlEb0hHYm8tWEp3b0xCdFZKOGV0V1JpS0VtcjViaTB3Y1luU211WnUxOEJreURvZjJXakcxWmpLV0Q?oc=5": {
+      "title": "画像・写真：損傷したイオンモール熊本 熊本震度７：時事ドットコム - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oNmt3VXI4WnpMeGtsXzhsRTJjanJZNkYzZk9rdE5LQnpVUG9CMl9fWnVpYlAyU2U3ZVZsb2RDZXZUQUhrWWtfWFpEdWVVamRYczl2cDZLVGpQMzA5YmxvNXc4TQ?oc=5": {
+      "title": "懸命の救助活動続く イオンモールや製紙工場、倒壊民家で―熊本震度７ - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbnNaa2dtaUpwUEU4b0hXVnZhQlJIdkVkZWNYWE1lU1FTaUxINmk4MDh0VUdTdVh2M05xY2s2aW9JMzRoOHpCZGtmOExnYks4T3dFc2Y4MlpLLU0tSVRLVWlPVURTbU5kLVJv?oc=5": {
+      "title": "【(株)ジェイアール西日本ファッショングッズ】JR西日本グループとのコラボレーションTシャツを好評につき追加販売します！（ユニクロJR新大阪店限定） - 時事ドットコム",
+      "company": "西日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zTUtMdVV0OTdVQWNKSXlxZkx6ZjMzR3E2R1p6a3k4M1pRSmxfTk5EY0dZMmhybGNvb2ZDVGhhT2t4WXpOdW9XNkRyZGlMZlk2Wk9xT0JRYk1wSXluTFFxMGFONm1heUh6akE?oc=5": {
+      "title": "北海道電力[9509]：泊発電所における防潮堤設置工事の完了時期について 2026年7月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQ0paaVk4SE5WbGpVZlg2bVVGbzV1NXdXUkUwYUdQNktoeVZpNTZPYVB2QUxna241dFZOeTFGR0I4aVNDcUk2VkMyR1JmMmNUejRyeWU0QjU1emU4MFU4R2p1U2hldzlRN1E?oc=5": {
+      "title": "三井住友トラストグループ[8309]：社員向けインセンティブ・プラン（RS信託）の継続および制度拡充ならびに信託における株式取得に係る事項の決定に関するお知らせ 2026年7月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hQXJsWlhwMDE0Y1RnMXpZMFI5Sy1tcVZrUlNkdDB6aGJ0MWxsY21DMHJMM3JCVFp3czZZMms0RDhWenFiaDNYbEx5d3FwdXZCc0h6bEQ5WEUxMDFLWklFU2RUVUVSUjNKUmc?oc=5": {
+      "title": "横浜フィナンシャルグループ[7186]：三井住友トラスト・パナソニックファイナンスの株式取得（持分法適用関連会社化）に関する最終契約締結について 2026年7月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友トラスト・パナソニックファイナンス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qUkN0NkRXZkFjbGs1R3dkalVESU1KNGRiTElCenBnSTRzMklqeS1zWXMzLXpBcTRodUZZeXY5VWhlQnVSMEVIQVNpRzBodUI4ZGd3RDNDcjNESng1bG5QMHB6SHZmSzJVZkE?oc=5": {
+      "title": "芙蓉総合リース[8424]：2027年３月期 第１四半期決算概要資料 2026年7月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "芙蓉総合リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T13:55:16.964494+00:00"
     }
   },
-  "last_updated": "2026-07-30T11:09:09.621078+00:00"
+  "last_updated": "2026-07-30T13:55:16.965242+00:00"
 }

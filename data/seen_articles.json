@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTXBUcXZfY2h6akpSMUMxX2FVcVhPVE9GeWRMOXhXSVBHbEdCS255emtad0NhWHZhSl9CZ1diMnZyeVh3WlUyM0ExMzAteWVJeHJqNFVBTHV6eHNYek5fYzZzb0h4MVhaZVJHOA?oc=5": {
-      "title": "三井物産、米自動車販売大手に非公開化を提案 6000億円出資 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-22T22:01:20.430102+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kbjR6czdIWXhYaFBGVGFrVllVZTJIQU9rcENLSFQ3MUJ2LWtmalFDLUVqUDFtT3Q1UGlFSUg5bmVRX3pKOHBQc1l0TDRMdTl6ajdRNmxhR3VpREwtX3kzVTBMR2xhSlZRMU5mMg?oc=5": {
-      "title": "豊田通商、トヨタ支える「黒子」 車物流見直し地政学リスクに備え - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-22T22:01:20.430102+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uVERydGV0a1p5eEdlTGhPQkN6T2NXZ3NfdEpmUC1pYUx6bzFaSHRBdEZ3ZjUyVUphMlA4QzRHa0RRVnA5aS1lS3VJSGhJdjMtdGllUFAtTlJRU2NTSndVTHV0NXE2MnF5UFo2bw?oc=5": {
-      "title": "NTTの島田明社長「光電融合デバイス、部材の試験提供を開始」 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-22T22:01:20.430102+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82STg1ZFNtV1phRW5Ta3MzejJpSkZVQ05fb1ExMThHQnVzUEl1M28wSloxNVB5U05TTkpNUjBtRm1ROEc5S19kcVRuVlFZeGZEaHE1ZEJyZjgwSXhHb2NBSlBFaWZDdw?oc=5": {
-      "title": "楽天とShopify幹部が徹底議論 「エージェンティックコマース」未来予想図 - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-22T22:01:20.430102+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJaW1QOUQxa3V5bzl3YlFSUF9sVmFwZTFweHZqMXRMcFppb3dFZ0VqM3BfN2VCYjFRNlJmSjRvTjZyNVJObjZ3c0dqX2Y0cWRDeVpfUmNhaW5lQ1gxUzhjbVhoNV9GNGpsMkdQUzFTMGg4dmR1b01R?oc=5": {
-      "title": "九電やソニー系など､データセンター集積見据え連携 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-22T22:01:20.430102+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XcFNrb3hFNTNXWU1IYS1OYnlLLU1VRGE5TGZqQUZpOXkzRVotSzlYSmctUU1OWEdaeHJpR0tUc3FvZE4zX3FVbFQ1THlKNnpoM0xiNkg0VXpheW41R1hRRThB?oc=5": {
       "title": "トヨタや日産「米国製逆輸入車」懸命アピール 透ける米市場依存の危うさ - 日経ビジネス電子版",
       "company": "トヨタ自動車",
@@ -2831,7 +2801,67 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-07-29T21:56:35.572178+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FaThZYzdmMFB3c0tfOTRIYXkwRnNYVHRVZ0J5NGJpMVE2cG5kQjJOUk1QLVlOZXJ6a3E2LWN4dkNSUVk0RE80UF9zS1Q2dHZsalY5b3g0UDRwZHJzLUdGRnhDUnN4dnp5SWcw?oc=5": {
+      "title": "三井物産デジタル・アセットマネジメント、韓国の名門・成均館大学Fintech MBAの訪日企業訪問プログラムに協力 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80djVVSHhoQ2c1YThZOHp3QWhSd3pXM2s0RmJhWUhISGRELVRTM3dHSXJQUEZib0UtVFd4b2VxenpiSGIzRExYTk1hZW13Q0ZySzV0Zk9GdDZpSVBxMnpfWEMtVElsRVQzamNmSA?oc=5": {
+      "title": "量子計算機、用途拡大へ企業提携 日産など、車の空気抵抗を計算 三井物産は材料や創薬向けに - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDSVh1bmJoWXMtY01oMDlkNGJZUTdrNFJwYWl1Y3dxcHdRMlRGWlBkNzdKV3NHT1BNaDg5RjIwSUJ2UHhhZUdlaVFVSEFkZDJmazBpWE56dml0SlBPZ0ZMODBLSldfYjRpREE?oc=5": {
+      "title": "ジェイフロンティア[2934]：静岡トヨタ自動車、福利厚生に「SOKUYAKUベネフィット」を導入。多様な業界で働き方に関係なく、医療アクセスの利便性を提供 2026年7月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tM05CUUc4VDBOa285MmFqSVZCWDhicUZLSEIwUURkSWlBeEk0S1U5Sk1qeUVWTk4xb3p3VWl4OVdvNTNFYXRYQlZDaGphMFhfcWd1TEx1cVB3TUg3MldCTGpicGVETzRRa0c0dg?oc=5": {
+      "title": "トヨタ偏重脱した三河のウルトラマン プレス技術を力に変身 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKNC1xUXB6cGw5anZZYTdlUEhkcVM2cHdKWTliRThUSXZoak52cHpGOG5FRnZZd09oSWU1S1dsaGlJN19ORTZacXktWVJueTJfMl9DMUM0RXF6U3p1dzZkRFVYVjRKcl9tOXV3?oc=5": {
+      "title": "静岡トヨタ自動車、福利厚生に「SOKUYAKUベネフィット」を導入。多様な業界で働き方に関係なく、医療アクセスの利便性を提供 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nLWdFajZNWWhLYjItZTBwSEM2WEZ6UzU0b2RSMkFHM3B6R01ZZlFVcXI5cmllWnFpbmpxWEl2a3BtYlN1akpWcmlrSzBJNVVDa0hrZGFiLXBDV0Z6eTE5d3VIWnMweHNleG5v?oc=5": {
+      "title": "楽天クラッチ募金、「令和8年熊本地震被害支援募金」への寄付受付を開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FSzJuUmNqYVh6LUpoWUx6bXd3ZHgzajBVQUtnQnl3ZEwwWkcydlhTNU5jNXdqZE1jbEdETWVUcXcya1JVMmxkZV82d3lQcjFXeGpZSndiZUE2ckJpeV9OMENnZmU?oc=5": {
+      "title": "画像・写真：イオンモール熊本で続く救助活動：時事ドットコム - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Na1pDTU9YTkVDZ2pyTHJoelpjRzBENGJFdk5VQkU3QjZPYXVnY2o2T3p4ZDR1NlY2WEFQWERKVDZESWJTeS11eGZjWHZObkxpcW9PT1dTUGZZVng0dG83Q0xFVGhia0huNkFoaA?oc=5": {
+      "title": "東電、原発再稼働でも減益 経常89%減、販売苦戦・燃料高で 4～6月 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZW9KS0FXYkxqYm9WbUFWRmpWZnNVckhxcTI3VGRNZ2xPX2xTR3JKQ1VGRzJ4aUNhTlY3UTZMRm9qZV82QndnaFFLcXpPdkNjOFo2eUg3YW5OdU85VVBFU1RtZm9GekVzS0pMMQ?oc=5": {
+      "title": "【大阪】法人営業◆SBI新生銀行100%子会社/金融業界経験者歓迎 - 日経転職版",
+      "company": "SBI新生銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EbVR0a0FfUjdTSVhQWXlPaFVYTWh3dXVvLTJsX3hYa2oyZjZmLU9UemRJQTJRZktQTzZveHpqYVhVbllVSmNNSnJnWDhGTlFHalFZYzdlTlQzLUZWbHhqNHg2MG1rQnlNOWdJQg?oc=5": {
+      "title": "アスエネ、SMFLみらいパートナーズと業務提携契約を締結 - 日本経済新聞",
+      "company": "三井住友ファイナンス＆リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-30T02:09:16.010782+00:00"
     }
   },
-  "last_updated": "2026-07-29T21:56:35.572453+00:00"
+  "last_updated": "2026-07-30T02:09:16.011305+00:00"
 }

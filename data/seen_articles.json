@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE03UWdDQklsQUFhdXkzWW1DZ2pXekNaNUhQYjMtX2RicE5lMkMycHZ3VkxiTEljcHItbjFwSXZoYzFjaFE2aHNuWFBIXzJYWVc1SnI5QkxaMXZURlJjOGtXN0s3TzEzUGVvaWM4bHg3S1NoT2M?oc=5": {
-      "title": "JFEHD、「CFO4人体制」金利復活に備え - NIKKEI Financial",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNbC14S21nZDM5TV9kbzBGYkNVeEdXcnpLN0JNbFBVWXp4MTYxSzlOU1A4b091bTkybHVPNEt5UWViNjIyWnI5UVlQWmdlWkcyNjZaUzd2MkdzZmdqSXBwanVJNEloTHVJY1pF?oc=5": {
-      "title": "「楽天のCSVエラー待ち」から解放。EC特化AIエージェント「ECPRO BRAIN」が最短10分で成否を通知する仕様へアップデート。 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmUXpIN2l5Y0ZDZEU0cTBxM05mNE56WmFWeEh4RENFc2xNcXJqNGZXU0N0VmxRMGdUbHJ3TWNGb1JYcVFMLXl2YWs0UXpZUlRzNUlITjBzSEwzc0x1TV9FNXZ1SXlFRjkyRUlV?oc=5": {
-      "title": "168万人以上が体験したストレッチ専門店『Dr.stretch（ドクターストレッチ）イオンモール与野』がオープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRVotd1NSU0JLRUFUeWNRWGtiTktrbWxLYnBWYXV4M3VrUDBkei15SWdiSFpOLUJSakpkZXZCemdSbE9neVZEcEtsazF0b2tRLUN3SGZuUi04TXJ4RTNUSk41ZlRWaTR0ajlzVg?oc=5": {
-      "title": "愛媛銀行の株価が年初来高値 「いよぎんHDと経営統合へ」報道 - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRkV6NndRUmh6OGUxX2F3NFpJQ2NwZWl1TS0wTnUzNU1YeDJTV1U4TS1IUG5kMjlhellrR1pZd0c3YXhybGhHZ1g4aXZ6clZWNC1nVURFNDVBOEpSaE5uV1FGampsazF0aElURQ?oc=5": {
-      "title": "いよぎんHDと愛媛銀行、統合で船舶融資の強み増す - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVEwtNTJ1WG5jUkZ0T3lUclo4WXdPLVpqaFloUlUtUXRUSGdmX19FMC1zWHZ3VC1jeWxLcmUwalI2SEd1UFp3RjNiTEpaSDhoR05uYk90X0lwTzNrdVZTRzd4M2xpS0VESGc?oc=5": {
-      "title": "愛媛銀行[8541]：当行に関する一部報道について 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83eThtRndGbjktdXdPVVU0UU1QSnJBRDVHcUpCQXVIWXc4NzNBV2FOaHR6dVVhM3lvS0dJRGhCTTNwYWx3NGxuY2ljU3BHaThiaUx2SzFvRUZuZmNwa0lkR25qdWdvX19zdUhRRQ?oc=5": {
-      "title": "三井住友信託銀行・大阪本店、精神障害者の支店勤務可能に 雇用を拡大 - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T02:30:00.245058+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CaGp3ZlJKa0RCWVN2S2lvUWN6dkdhdEtfbXQ4OGlMc3lWT3pjMGw0N3VRRXdOUDJRd09tV3hjZzdLVE16UFdlWGEtcm5zTVN0eHhMSWxqUVBET1dGRWdMLXAyYzh3czlHZW5KSw?oc=5": {
       "title": "NTTドコモ、「moto g37 M-51G」の予約受付を開始 - 日本経済新聞",
       "company": "NTT",
@@ -3311,7 +3269,73 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-07-30T22:09:23.422249+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aM044cWdoLXRlUGtFR2lVT2w5bFdmclNFc0FQRFN6NU51T0xCdnUtaUt1NG9jeVg0LTdOYnFTZ0hRLVpTS25qZ25NNVhKaWRjVTgzZExzcXRkaUVfMlJKY0VVeVR4QjVkVjJv?oc=5": {
+      "title": "TYPICAと住商フーズ、新たなコーヒー生豆調達モデルの提供開始 - jiji.com",
+      "company": "住友商事",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUnN3Rmo4aHNCMzZhSjFhZmRDV0RwUTRQajd4Y2p1blRVSkQydDFpalBldFp6c1VBOG1PQktNUkhtLTFubkk3ak5QQzY5c09TUS1BUTdzRjlqMUU5ajRWcFZUNTAyblVGNlFhajhCMA?oc=5": {
+      "title": "日本製紙八代工場での救助活動 地震で…：熊本地震（2026年7月） 写真特集：時事ドットコム - jiji.com",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZ1pOUlpER3c3OHh1SGpaTUZGOWVOQnhLeUprR2dlSHZnVjRiRU1zaDQtd3RxNWtiWlFUWktpRm1YemtMTURSWU42SmdEZzZQRXctYWFYODlOaTZpUTI4M2JTdkxES01tdkh1Uw?oc=5": {
+      "title": "トヨタ、愛知の工場を3〜7日に停止 熊本地震で福岡工場も停止延長 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRlZ1eGVZVV9aTmJKWEFud3Nfb3RqOUV2eTVPUEFYYXoxNUlFVzFkXzRQSEpDRjBlZEI0TkJFeWhZUEFGVm95YmdSUF9yMzRXckc2SE1Rd2h6b21oR0ozRDhwXzhHeDRQY1E?oc=5": {
+      "title": "全国保証[7164]：インテリックスホールディングスグループおよび楽天銀行株式会社との住宅ローンに係る新たな取組について 2026年7月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Zk5GTldUdHVqU3JKc1N4czFmMUc2bGhNd3V2V25aWTlYRUJzcmROUjZVMTZuTUhMSE9lMU5sNFFRNHlCeFBjZGwxWlFubllJcGFHUUhXUVU2UTRlY0tzSEZfQ1E5dXY0TnhpZQ?oc=5": {
+      "title": "イオンモール熊本事故、オンワードHDの従業員計3人死亡 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLVjRzOGZUTnB0VTBEeFJKeE5pX2I5VkxpTENiU2xVLWlNYWVWQ3RSOG04dk9VdzJ4ZEEwbllGSmRNR1d0d0JQdkZETjBRczBCaUtjWi1vVTk5SzRvcHp0SnBsb01kVWZYd01Rcw?oc=5": {
+      "title": "終戦に思う未完の投資教育 ソニーやイオン、株主と歩む公器の責務 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE03QkNWTnExX3JoMmxVSDZ5a0Z2YXAwdkpMalRQczdLcE81SkdISWhXN3AzMS1aRkNRZ2dJaENlenNXWFE2UzQ1UGlVQmJTVzVwUWxtZ2lMMUFFN2swYXRrYWp0ajVJRGJMTnFrZWV3OA?oc=5": {
+      "title": "イオンモール熊本の入り口を照らす警察…：熊本地震（2026年7月） 写真特集：時事ドットコム - jiji.com",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE85bXEzcE5GOHlCazh6QVh5ZEdwc1hRZ0h6WGdsQkJ1NzNDUjVsWElyQU5Ba1YtUEdDQm80dExScHJyS29yRElkS3Bma3BPTnN1M3o5YThQSGdqdjlUX2tTeFZDM1JBdGRiUmc?oc=5": {
+      "title": "ＳＢＩ新生銀行[8303]：中間配当の導入に伴う配当予想の修正に関するお知らせ 2026年7月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBI新生銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIaGlSZmJsSXRfakZPdFV2TVdiazAwRjNYcVFJbm01WGVUWUJubF9MODJ4d1YxaWl6TXFQeGpoc2psRTFyUUFkVzRmbXI0V2EydW4wOFJYd2F2bWlqMmxJY2QyM1JocTRDSEE?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：中間配当予想の修正に関するお知らせ 2026年7月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lc2Q3RE9RVXhRMG9UMTBJam5sNzZVOGI2NFBxYXVwWlZNVWJDVklqSzc5emhoa3hKTURad1pMTndva05ONGZUMmd4LWlrZEszbkpHdC05Ry1tQjZUZS1ZMUMxd0dMLVRsaFE?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結） 2026年7月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERGVfNFJoSkY2NzF4V3dXRlNPWWEwR25wVFR4Q0w0aDI4eHNQbmlJU1JnaHhRVHM5Rldhb0FHYTh3YjhnVlpTYW9LWlphRDFyQmNNV2FKa1c5S1NuYkhOR1NpVGR6NEFKTDRwSg?oc=5": {
+      "title": "SBIの26年4〜6月期、純利益75%増 通期予想は非開示 - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T02:37:20.096351+00:00"
     }
   },
-  "last_updated": "2026-07-30T22:09:23.422814+00:00"
+  "last_updated": "2026-07-31T02:37:20.096909+00:00"
 }

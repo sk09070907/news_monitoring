@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjRzBYel9MTWF3aVZYTGhJY2JlYWN4NGQ0V3pvdllKYXZzcmxySGRlYmQ1cGdfTjZGX0w3R0dhU0NJazdFV2dzLWRhRFdQV2hqMFZPX0RkTEktSzJlREJORGYtTm1YTUF2dEFmZA?oc=5": {
-      "title": "アサヒ、オーストラリアでRTD「贅沢搾り」発売 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0NzZXajBpSkVpWHhWRDRhQTE0a1dBNkwwMGdWUVNOLU1rZDdBQVRrRG1mMzlFU2pFTkpyeng3OVZyZmQwbU1XdW5qVVFLcUFYZHAteTctanJ4SXVIS2pqdlI3NmZuNVJGNEE?oc=5": {
-      "title": "大日精化工業[4116]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大日精化工業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fU0otWHp3Z09NRWM1ai1lY3pta0cxQUp0SDIxbHg5SVlmejRNR19rQXdqVkRhMGV5UVlNTl96YWljUUxPN1N3bWhmR1RHazF4ZzNyVjRKX1c2cWxDME9mZ09jaWxNbm1ILWc?oc=5": {
-      "title": "アルプスアルパイン[6770]：譲渡制限付株式報酬としての自己株式の処分の払込完了及び一部失権に関するお知らせ 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アルプスアルパイン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdW1LTnJIUm5JQU1jc3pvWk5vMjVvNGVCamtBQV9uVjd0NmpoeVR6TjdLdUY3d21rcUFqQmtxMC1kYVdLQ1dGOXlrdUstcF9KQ0d2X0p6NG5yWmF1Y2toSGVmc0VJaUdVN0JCbw?oc=5": {
-      "title": "楽天モバイル、米モトローラ社製スマホの取り扱いを開始し最新機種「moto g37j」を予約受付開始 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NHJhMGtCaHlUNENrN1RIeFJBRzVRYl9fekxaWDVnTlRidHZuNXpXVzFEWTcyT1YzZTBvMWlXNHBHY1h4YWV6SUJTWEdTUFNiXzA3UUswS3dPTXJDUmFwSktYWE5nNFltbFE?oc=5": {
-      "title": "センコーグループホールディングス[9069]：取締役等に対する譲渡制限付株式報酬としての自己株式処分の払込完了に関するお知らせ 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81RV9relNBWDR2WVhmMDZIZTBsMkJkb3o5ZGt4dWpkdDBEcWVvSjBJRXcwTHU0TlJqMnhucXZCUXZ1RDB0NFpRMUlMTFk5YV8wVTAtYU1fMmlsekk0TGwwSEZ0VGJaQ2lWemdITQ?oc=5": {
-      "title": "愛媛銀行[8541]：臨時報告書 株式交換 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0JTdmhBM3dzVWF4R0N1aXVnZExfdHR4dnRmNk82cl83SUJ6cGJ1TWh4RUZoTUpZdHF3Q2E3aWt3Nk8xMWJrUjNac0YwNnhpTHJ2cEVsOWVYQ0kxX2piZ0RNeHhYM2cycDRfNXRsV2p3ZmdScnFNRTlmbmxzY0FYTXVHNW1lOVFFYnhGazlBVW1jNHRLSG5BSDdSVjk?oc=5": {
-      "title": "株式会社いよぎんホールディングスと株式会社愛媛銀行の 経営統合に関する基本合意について - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdk1BMjRsb0JXX2Vuc2NLOHQ3NXp0Y2FEVEtRNExDNFdVMm9NRTZveC1jcHpPNkQ1dUFVaTgyYmlzdWM0TFY4N3ZvYUJNX1pHWW5DdUZmREs4bDFSVjVUOHloZG9ZMEt4d01pMXY4NEhFM3dzMnlicGlsLW51Z3VReE94NEJTU2R5cTR5OFlvVEpKd0R2REx2dWJVdWRwZ0lLYUZ6dzRWUzI2S3U0NGk5alFicEQwVzdoZFplZThHbmRtM0VTR2pvc2xvaFc?oc=5": {
-      "title": "大和証券グループ本社[8601]：大和総研、レオンテクノロジーと協業し「SCS評価制度」伴走支援サービスの提供を開始 2026年7月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cG9Yc3hrMWI0QXRzMHZ1Q1EzZXZrbFJyNzFFZW90MjZmNW1mV25qZmMxbkh2bmJkNVdib0NLNmJXcmZjLTNfWU1IRXozemRremVhSkM1bVZ5YnBjTEhobHNEYkpCeXFvR3hSTQ?oc=5": {
-      "title": "日本生命、ライフプラザパートナーズとライフサロンの合併を発表 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T13:40:35.518923+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTkNVUFFVOV9SaVY4Z19vcVZqX3BGck91bmRjR3d2MEYzbjd1dnNfNF9QTmFnS29VMjE2UnVfQzltZlAyZ0hrVFZoM3hjQ3kwQlVYQVI4Wl9ZY1EzUjd1SS1zQkF6eHNsdWptVA?oc=5": {
       "title": "イオンフィナンシャルサービス、最終減益 - 日本経済新聞",
       "company": "イオン",
@@ -3857,7 +3803,97 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-07-31T11:29:32.195849+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeU04SExDZjIzSVp1MmxNUGFlOFBoSnJvME9IcFcyeldMRmRhakdJOHNUVUlFU1RQczVvYWY4NFZQVWw3S013MUt6cVZfV1AtUjdDdA?oc=5": {
+      "title": "◎〔熊本地震影響〕日本製紙、八代工場で９人死亡 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWHdWa3VhRlVqVVVJQUd6WVF4ODVGNUVQaGZ2dVFRTlltbkxKWjVnTXU0Skw0S0RXaGxCWUdPMFVKSlNyQ05jVE82RjNVeDFsRzZKTGFUZjBDZndKbVE?oc=5": {
+      "title": "トヨタ、愛知の工場停止＝車部品の供給停滞、影響広がる―熊本地震 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXZXJNZnR1ZS12Ym9yQ0hZZUVTSzNHTXFuNjl4Rjc3NGo4RW5hR3pkRkpGdU1KVGhSWWttWlNBTFNrR2xodEQ3aURfNWJQMVFWYTZGaw?oc=5": {
+      "title": "◎〔決算〕トヨタ系大手、２６年４～６月期は４社減益 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2QVFlZ2NWY2JPNDdmODdndndzVmlqTmlEOVd3Q3BjeERvQVRQRXdCaS0zVTJfUC1RWEN5OHQyVVRhc0U1SHliQ0N1TEFRZHBxbkZPdTNhU3BabkkxUmZ3cllyNGxZMnQxSDRrYg?oc=5": {
+      "title": "トヨタ航空子会社､「レクサス」ブランドのヘリで空の旅 8月24日開始 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05Q2ctaDRIQmFoUXpHT09od0lvOVdNOVRzNTkySGdiVXZWUUhUTi1QZTlkbHZLM1FBWmM2M1ZiNXJLbjdvMVVZNmhrUm1KSU50NkRvcDFRNEUzbmZmcFpXZkd1eEZTVVI1cjNTbw?oc=5": {
+      "title": "アイシン、熊本の工場で順次生産再開 近藤副社長「10年前の対策生きる」 - 日経クロステック",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZYzlXVHBjb1VZOV9IRVQ5Q0ZjYjRwNUtXcDktRHNJMmZpb1RSU2F2OW13T0NIVENjQTEyd0xwbEhvbkV1NFpkQ2VzU0pqNTlBMDdxejY3elo1di1sZkZzdjlnWXFoS1VBZjEw?oc=5": {
+      "title": "シリーズ累計41万枚突破・楽天ランキング8冠*達成の「SHAPEDAYS」がリニューアルした「24Hスキンブラ」がバラエティショップ・ドラッグストアなど全国82店舗で8月より店頭販売開始* - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXJCYktURm1LX1RnQzZyTmF5VVB4bmdfSHZGTGFBS3JmZzJkaE5WZnRGeW9pS051R1JlT2o2RkhWR3ZpSkxkOFdqWHdGRF9BUkloRFFUdVJZbmN0dHpCaWl5b1VnRXRsQWw4dUhaVmpqY08xS1RwX21oUEl5LW1BekJNTHVTYTQ1NFJ4ZFNUMFk?oc=5": {
+      "title": "爆発事故発生の「イオンモール熊本」 ドローンが映した衝撃の大きさ - 日経クロステック",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYUhGdFA2emxMM0JFcDdZQkVWX0NROWZiek9tQU5NQmlvUzMySzc1NnNTYXBTT1VUUkxUWlVUWDVCWmZaR0VrVk9aeVp6T3N4RnAxYw?oc=5": {
+      "title": "壁の下敷き、高齢男性が心肺停止＝「イオンモール宇城」で発見―熊本震度７ - 時事通信ニュース",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWpmc1dvU2NaZ3JETzkzVGlQZll2TXRzRTFkc0FGLU9HUHVZTVJ5NHZrOV9FbDBHTGVqVzk0OUlTNFpsVERHbE85aUt5M1ptdTBsQzAybFRfWVkwOUU4Z2lGNU94MXVHYmpVQlIxZnlyOUVuTkY0U3JkQzRxZkpGWTJrWXg4SE94czJWNWViNno?oc=5": {
+      "title": "イオンモール熊本爆発なぜ 専門家「焦点はガス遮断装置」 問われる管理体制 - 日経クロステック",
+      "company": "イオンモール",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50U2wyZnJFU3VlWUF3WnFxM2d0WE9kM3VQbklmdElZOXpWSUVjaEgxNEItck94cGxFSmVSQUVqRjQ0c3YtdENjZjltVmpra3RycWl3b3BKRTItMHQ2MzJycXdHMHNWcGR2RkE2Zg?oc=5": {
+      "title": "西武HDの純利益24%増 4〜6月、運賃引き上げ最高益 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tMmg3c0hvUFU2Rkpkb2NEV0QwZzBQcDQyc1ZyLXJGUjEwWk9pdURHTVpNVDRtU0VET2p0MHlKa21ycVlmakxsdUF0bnBhbENRS0FrNA?oc=5": {
+      "title": "◎〔決算〕関電、２６年４～６月期は増収・営業減益 - 時事通信ニュース",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pcjgzTy1hYmJCWWpfeVo2bW5PVUJKT0hxRVBUdTc4NzZ3Q3BfRkhCcDN4QUltT2RjRVp0bmZsU01GSHdNMXh2cThrVjhXMHUycnlJUWhjSUlPYTgtNnJ6SkNHUHBWQ1dyY3QwMw?oc=5": {
+      "title": "決算:九州電力、4〜6月純利益31％増 地震の損害「16年ほど大きくない」 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGVkVaYWhnbXhoVldTc05lSFpST09kS0pCUU9kRW83dnpva0hRZ1NnWE1pLW1yTGVVb09ScHNuNjJXRmFYYUY1NDZrTTZINkFNYXBCZA?oc=5": {
+      "title": "有効期限切れで防護区域入域＝再処理工場、設定誤り２年半―日本原燃 - 時事通信ニュース",
+      "company": "日本原燃",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bWQwdGVoTDhzYXNKV05HQ0lKTXhHd0Q0QTQxbERnUGRPdnlIam1RU3NXbzk0dW9IZk85MS1JVnJDWFl6c25ZUFZiVjhySHhLdXpWX2gyeEtBZTk0MDBRdXhYbw?oc=5": {
+      "title": "有効期限切れで防護区域入域 再処理工場、設定誤り２年半―日本原燃 - 時事ドットコム",
+      "company": "日本原燃",
+      "source": "時事通信",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzdOT1J4LTdTS1lkNXZDbXhBNGVOelgxRnl1QWxPWFNpcWNmdFhUV3V3aUhuaVY1Q3hYcmo3dm9Vczc5RHpDQUZDYU9EM0dLMXNqNjVNLTBjdzNrZUd6WHBkcmE3OGVMVnhzVk0tdU9PZFhzYXRYZzItNDJVd2JxNEs3YU03Mnc1?oc=5": {
+      "title": "MUFG、電光石火のミュトス対応 サカナAIと「48人の精鋭」で切り開くAI金融 - 日経ビジネス電子版",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-07-31T14:01:00.984946+00:00"
     }
   },
-  "last_updated": "2026-07-31T11:29:32.196558+00:00"
+  "last_updated": "2026-07-31T14:01:00.985508+00:00"
 }

@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTkNVUFFVOV9SaVY4Z19vcVZqX3BGck91bmRjR3d2MEYzbjd1dnNfNF9QTmFnS29VMjE2UnVfQzltZlAyZ0hrVFZoM3hjQ3kwQlVYQVI4Wl9ZY1EzUjd1SS1zQkF6eHNsdWptVA?oc=5": {
-      "title": "イオンフィナンシャルサービス、最終減益 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T22:00:36.200473+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVE94Q01oR1dnRUhRS0V1dE12UjRONHBTM1RRR000Z19vMnp5alhhdzk3SG5FUFBUTmhpY0U5VzhON3JXeHNOcm5DWU8yeDZGRWZBRktFSkwwOWIzbjg0a2xVUHlQY3psOTFZaF83RUpNQlJhNTctQWFjWk1yWndBYzFYMmx0YU5qUFotcW5SYko0WXZhOWZVRkNma09kR1loNlprUG55TXlmZUNwenVsVHJ1LWpCVDBXeS1BUW80blRlQms0VUxiNWlGTmI?oc=5": {
-      "title": "あおぞら銀行[8304]：統合報告書 ディスクロージャー誌 本編 2026 2026年7月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T22:00:36.200473+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjSFNTdWljcU1xSUd5eko3SXFQLVpsT1pnRDcwR0tKb1MtNDFySVc5T2xibDBkYzJYbGtKUFgtX2lKTlM1Qkd6X3NEczRaVUYyd2gwRDhtOFEzNUNWUklUQ2l4WXBtTEhhUTBCWA?oc=5": {
-      "title": "三井住友トラストグループ[8309]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友トラストグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-24T22:00:36.200473+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUt5UmQwR1V6QWh4QkFtM2NIcEdkT2g0UjJSTmE3NFRHM3B0MWI2NVhsNEI4bXMyMGFGUmthVm5kQTE1c01kZGs2Ny1kUHJUcUl1b2ZGQm50c0lkMGVDNk8tVk5xZGhFVmczZUpZQkNZZG12UGwwM1Y5emRNY1ZySlotd0xqSlE?oc=5": {
-      "title": "「NTT、IOWN宇宙へ」「インテルとTSMCサブ2nm」 注目5本 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-25T02:28:14.134339+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYW1qb1BSLXdhaUVveHlNb1ZoUEN2MEctWGh5QnNCOHEzdmNCZTJfYm50RVRGNTRQc3U0OVBzRU03cEM3NkotQmRWdkE4STNoVEthNlkxTnJiZFlqcm9yR04zeExWaTV0THRr?oc=5": {
-      "title": "【7月25日限定・楽天ポイント5倍】タッチスクリーン搭載スマート集音器「Cearvol Wave」シリーズが特別価格で登場！テレビも会議もこれ1台で快適に - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-25T02:28:14.134339+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfa3pHcDdKd1daUWZHcy1xU25GLVozcHAtOFFhMWF6dk1hQWp2bURVMHRabnB0UE51YkNkejBQdUp1cnEzVWhudkRUQ05UUU5oWnZURzlPZUFEZnFOVlR0bTV4MUZfNG5Nendn?oc=5": {
       "title": "『イオンタウン周南 ふれあいフェスティバル』 ポケモンカードゲーム大会等開催！ - 時事ドットコム",
       "company": "イオン",
@@ -3905,7 +3875,25 @@
       "company": "日本原燃",
       "source": "時事通信",
       "seen_at": "2026-07-31T22:00:09.982657+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xbGQ0c2Z6TVJ2amtsazJubEZFRlRDbXNFQkMxWGNUb3dwRXRQaERQV2RsQlpKejk5bTFuNjA4RGUwdE9WUmhFUkNBMWFPWjVZZ0dBdmdQaVlfNUZfdHNWR3hqd240MlUwbm1OeWFB?oc=5": {
+      "title": "モータ制御装置の構造設計【パワーエレクトロニクス】◆東芝・三菱電機の合弁企業◆ - 日経転職版",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-01T02:35:26.791807+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TNWJ1ZmJidVNjRkdPaG5WM01McnYxMWM5MlpGYzVJbjZwUjhrLWZaVk5ZN1VnX2xUQUNhREk5ZmMzbjJkMWZkYWRaMVRNV0FNcXNhYzRQWE1acjl2LVc1aFpFZw?oc=5": {
+      "title": "【トヨタ自動車 請負案件】車体下部設計／開発初期から携われる - 日経転職版",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-01T02:35:26.791807+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VMkN3Y2huTDBUcnBGN1ZKZ040NGlTby1sM1FNTTZzWDhBLVVDZTRlMEJEMTA0WHpsOEJnYzcxQVFQQ3RyTDV0a0JGdGJtNDNJQW4zWW1YclVmQVNUTDFmVWotb1JoTXJaVWQtaw?oc=5": {
+      "title": "【SBI損害保険株式会社】カスタマーサポート|契約関連|未経験歓迎|2026年10月入社|新宿勤務 - 日経転職版",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-01T02:35:26.791807+00:00"
     }
   },
-  "last_updated": "2026-07-31T22:00:09.983029+00:00"
+  "last_updated": "2026-08-01T02:35:26.792276+00:00"
 }

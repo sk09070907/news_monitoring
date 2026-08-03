@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNGdnQVhQVXFIUHJjTEcyeXYwZWZrUnlGS3piMi1pdTFnRVM3S3ZYM2pfQnZjZWpycElmcUEtN1A1a2VGd0xVNEpob05zZWtOajdSZ0E0WFRoR0dDSHVVckVxYVV4ZWc?oc=5": {
-      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXFpV1I0aFMwV1k2SlM3el9BQWhLMk9qTHdZNTRfRGw3Um96T0did29FLTFxRkRkX0REYXJSc0RQUTlBRFFfRkhxcVFmLVYyemJ3anUxZ1RpQXMzU05nWk5LeVFqYjBMdzlPX2hMR0c1akVMa2dYWl9JMmJPZXZZaUVRbGRYMzV5UFZjeFZB?oc=5": {
-      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFliMF9wVnRmODZRZWJxYkEwYzk0dkRHYUZVUmFlZjBLZHBaekVTc1N2UFVGZ3F4RDdrUUtseTVvaE5kOFFLa2s3MS1TUmlOUnNGUnZxdDlaQ1NPdUZ0MXBjRjQ4M3JlTlBOWExnQ29NZjFJUnk3bWtzNGNIdFFZekF0X0JzMmpHV1FnaQ?oc=5": {
-      "title": "記者もだまされかけた「ニセ警察」 NTT東系が対策アプリ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rVzd2OFRfN0hIOU9EUzBMTXR3WVBNOVBuRFpUWG1wbzMyUWRURDVJemZsQmMteEFSdVYwcm1PUXVTaHNCV2doV0loMThwc0Rza21KQnAxdUlyWjBKdVE?oc=5": {
-      "title": "◎個人情報１１万件超漏えい＝サイバー攻撃で確認―アサヒＧＨＤ - 時事通信ニュース",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNTdVQTlUWDlGWkdxVTIzRmlFRHY2WC12M0RTTEJCWWpURC04OV9hTWcxVnAyMURsM0dqaTZ2NVlZNTFqQmlVN3dYR196bVEwY1dVc3N0TFJOdVktZnY2UnJiVVZLTDJsRUQ4bA?oc=5": {
-      "title": "トヨタ経済圏を越えろ 愛知・三河、車から宇宙へ・ちくわは海外に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNDI0eHpHYXNCaWR2WkhhNG9OT3BZVHlYOE16ZlFDdEJWVkJKMmw5UnlPTnoxelh6WEg5c1YxNC1iVjZ1NTBUS2tyZmVlTjB5YXpKRndWU2F5bzltRjhiRHdOYkllSFVORXEtcQ?oc=5": {
-      "title": "「柔らかく物つかむフィジカルAI」大学発新興が開発続々 トヨタも着目 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kX1l3Z0xCLWJkR0NyQWhDUGhfeEN6LUFNSWVTZGRFWVdzdGcxa2FoWWNlNVFiY2pZanNnLWJHTmI1Q25ScGpNX0tzbVZCQk9SazhGOVhQcW9SZjByYVlTeVRQMUU1NEpyZWtndA?oc=5": {
-      "title": "楽天シンフォニー、ウクライナで4G実証 ラボ環境で5Gも - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4azB3QU0tOWo5dWQ1Tzc1dEk4NFN5emQxZVVuSzRaR0RKT3pEYk9TZkU0R1lFMlhicGg5M3ZxRjV2NDQybU9ldi04dnlUSklHeWpXZVZNNEJ4TVZpTjZZNlNDeXNOWDZQNmo2Vg?oc=5": {
-      "title": "嫌われたくない…30代の迷走で学んだ「共感と決断は別」みずほFG執行役 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVVRjdmNUV3lOM3I3ODgwLVAyZXo2WUZyR1pIUnRMaGlodThncG5rVWZweEdaS1BpWWF2OG1FVExWQUk0Q0doWWxHLXBCVU5xdUEtaEk1a25OOFd0ZjhzLTZXWTRXWG1sZ2h1Zw?oc=5": {
-      "title": "三井不動産、熊本にフィジカルAI開発拠点 日台で次世代半導体技術 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-26T21:54:47.485616+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjlReEtvWnJOdVl0U3lyOEdCQTFnOUlEVTAwUDk3RWpzNEEzb2tCSVhyRVZpRmFNQVZjTGVPUU9VeXdMN3NxTWNpUHB6UGdFby1uSnE2N1g0QmJDcUVjVDRkM2UtR29xcnM1enZFM3BwR0JJdFhleXY4ZWltZ0pBVW1FYmR0T0RZRVdhTnVB?oc=5": {
       "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日経ビジネス電子版",
       "company": "三菱商事",
@@ -4073,7 +4019,73 @@
       "company": "三菱UFJフィナンシャル・グループ",
       "source": "日本経済新聞",
       "seen_at": "2026-08-02T21:51:16.421708+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWlXNnpGVG1RUk56WVhnMWYyRG0yYUo1VzB6TUs4LTR1VEwwdlFaOEN6b1VEbm1UdE1MMjE3N21uanNtYVpGMGlwakxfekVwZTVDd3cyYjZXbC1rOU1pekd6NmF0Wk1hODlYZ1RzQWlGR181TGpJRE9xYkdNYWlSVExBLTZTQzl1dzJ0Nl9mQkVGVUpkdXVldGFWY0VSZjV6N0wzZDFQUlQzY3dqcFhZTmhQRXZVV0pDdTZKZWY4STZMckR3MVdCRy1VclA?oc=5": {
+      "title": "伊藤忠商事[8001]：一部報道について 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMTZLcmo3UjU1cVhGTkx2YXd0QjdwNjh4Ni1sOTVkQzFxOEpobWlZeUNqeXd1UkYyR2ZyeGxBSzBnU0txcm5WcEp4UkdsZFpUNXZyQnVNLVQwWEp6c1hBcU5VZVlCNmhRRlgw?oc=5": {
+      "title": "住友商事のCVCが、地域医療承継を支える経営支援パッケージおよびクリニックDXを提供するエクイタスメディカル株式会社へ出資 - 時事ドットコム",
+      "company": "住友商事",
+      "source": "時事通信",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XZUFhR0VnU2tBSHVhamItSE9EQV9oTkJoWk1pT2pJbk9Pd2xIeTlMSjhIYktyOXVSWkQwQThyLXJHVGZlc25iam5GbEV2UXhWTnpmNjBsZXhDZWlHS3RGbHkyVnk2YU43bHFr?oc=5": {
+      "title": "エクイタスメディカル、みらい創造インベストメンツ・メドレー・住商ベンチャー・パートナーズ等から戦略的資金調達 - 時事ドットコム",
+      "company": "住友商事",
+      "source": "時事通信",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbjJFeHVjQlotczFCTG80RHRCMG5WOGxDUmNHUFZfaGFYcWo3M3FWTzZWWmN3RVJxUmxYMjk2RXBIUHp3ekhxYUxnRV9iMWNPNk5lUUFDZzd1dlFTZEN3bFY3dkpCT05uYXBjRg?oc=5": {
+      "title": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 - woman.nikkei.com",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zUzNEUnVWdVNobHdEMHJwbTlQbDIwQTNiNkY2djRpOVJrRUpyMUd4TGtBYU9WWDM0b1k2SDR0VVZHX0oweEl5MUlLZWEtWDBPb3RaZnBZeGhXcGY3dFNhclkwZmJWVmNBTHIteGRiZ2JTdlN4aXQ4?oc=5": {
+      "title": "ENEOSHD社長「東南アで脱炭素燃料」 石油回帰に反論 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9jYlBlSGtheGxBdUdETTlsNnNJd0FwMWMyQVNXZ0EzWUJvajVjSUlia3ZoamhWLXZvSWt3amJITGhmdmt0N0haWE5zZTdyaHBLdWtYMkxNVzItZkNXNGU3N1dMVjJXS2ZkT1dQVFliWmNfUQ?oc=5": {
+      "title": "JFEスチールが「脱メインフレーム」完了、支えたのは製鉄業への熱い思い（4ページ目） - 日経クロステック",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bkcxZEZkVVRjNVhLQmhfamdQQVpVNEl0R1kwbDVlei1vb05vT3JsQ3k5Y3FQQmc0dzc0RmJPNDFzSnlUVi14aWlLelN3RkEta0FOOU9OenJmTFpTb2VWeEwzb3g1S1ZNMWo0?oc=5": {
+      "title": "【本日開始】次世代・フル電動ウォーターガン「ASUYA」、最大30%OFFの『真夏の大感謝祭』を公式・Amazon・楽天で同時開催！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQnNNbENqMlc3bjg3eE1CaHVKUjAyX0ozUHNZUC1raUt2X3Bxc1BPT2x2ZGh4RXRlZXI1YzNET1ZycFBSdGJlN0J1N3hSclFXY0hFaXJ5dlBiTExoSU5nU2NjUFJscW1nc1M0?oc=5": {
+      "title": "【イオンペットとGRANDSが共同開発】愛犬の毎日に“ごちそう”を。 冷凍フレッシュドッグフード 「Peton（ペトン）」を発売 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zUUFYUnhpdFBHa1FfSDUwalkwaUNITnFIZUpYU09YcTFINWxzYk5VSEdidHJrVmFTSGRMYThMTEl0SGFrc0xfdXhXd0U4ZThRNDJtV29HWkRHd2dIQWVyY1EwQndUYkljWkNqUkhua1RtMkdpZXcw?oc=5": {
+      "title": "鉄道で水素大量輸送 関西電力･JR西､既存インフラで実証 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlMWpLcjNPMzFCelN4MGtFOWNYanFDMHlrQkdMSjBPTlJKUG8yN282cWZkT2d4VVAybENGRVZWU0dXbVJadHJDQ1liSUhsQ1lXcEhkbnR3Y1ktRTJFRm90ZzlfSlZ0V3JTdDc4?oc=5": {
+      "title": "ディープテック特化型VCのBUILD1号ファンド、東京都に続き、日本政策投資銀行や商工組合中央金庫がLP参画 - 時事ドットコム",
+      "company": "日本政策投資銀行",
+      "source": "時事通信",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTjBmQ0hZamI2WmREcXhhWkJhTFdYaHBFMDRETV90bmtiSVhvY0ZzWUE0VGZaeTVOTEkyRzZJVUgtRjRCWnZ3dENqZVNFU1paYVJjbDZCdmgzeHRvWnFHZHVIeE42ZlhZcVE?oc=5": {
+      "title": "東京センチュリー[8439]：一部報道について 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京センチュリー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-03T02:36:31.176754+00:00"
     }
   },
-  "last_updated": "2026-08-02T21:51:16.422078+00:00"
+  "last_updated": "2026-08-03T02:36:31.177415+00:00"
 }

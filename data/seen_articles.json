@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ETFUzbTFRT0k5TmtUb0Q1VVFzVTFhNlZpemxLYTIyYmxCb0RTSzN1anBfb09tUGhKUER0ZVBvSGNCLXBUUkpJZE1ZQ1pZN3pXcXRrTHg5QU1BbC1KcFY2TmxRV3gycFBTU0lr?oc=5": {
-      "title": "ＦＰＴと伊藤忠商事グループは、内製型イノベーション推進組織の「Global Tech Center」を本格始動 - 時事ドットコム",
-      "company": "伊藤忠商事",
-      "source": "時事通信",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUa2o3M0FnVlRsRTE0ZVU3T01EdHJYT2hVWlpESUNiakJMYzBkMGtaZUZOTmpvWVk0dkJrNW1EUTAtR0xoelU2ZVFYeFZTTXI5b0VUUUxIZ2N3ODdDdzgzNHpyOFRZcTY5NElHMVFaN3A1d0VrQlVfdWptbEFiczQ?oc=5": {
-      "title": "石狩市でデータセンターの企業連合、NTT東やさくらインターネットなど11社 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xdms2MXlIWjNvbHZIX2Z4Z2swWEtocm1mRmFSR0lyNzN3OW40bmNDMDZCQlJ3RlVmQmZjWG82VVBQR19NMG9EZEQyVFdPVndDTllhZkdiTzJrRldXOThRRVFGLXNVdk15RnliNA?oc=5": {
-      "title": "車向け特殊ゴム事業撤退 デンカ、EV普及見込み選別 - 日本経済新聞",
-      "company": "デンカ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BbWRYQ3c1Zkx2M3k1RjVSNXN6RWJzUFczdG1MTVVPalhBeXdCbGdfUG9RLWxEeENOZHdPdzZlVmFFSVpydnNZMnJ3N2Fnekt0TGNRUGkxYUhUR0hBUFZiY2tadXF1b21IRmFjSQ?oc=5": {
-      "title": "三井化学、生成AIで新材料開発を加速する「AI Materials Foundry」に創設メンバーとして参画 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fS3pyZHVvLWFsMS1PV203TFkxRTN2NGpndkdVYWQxZmp1YjgyRXFJbnI4eDN4WjBaUnRGamg0QkxtSzYySU1KeW9ZY3YyS3VvUDhscGZ6UTJuMjZ4WGg5NGpELWtYQWtBZVQwaQ?oc=5": {
-      "title": "合成ガソリンを初輸入へ ENEOS、年度内にも - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHpsSkRIVkF5MWNzcHppVUo0TnlNNzZTMTlLNXBvaDJJQk14RC1OS2trV2ZYTW53QXFaTGpkMUJyVzZPUE5JRm40TllQNHg0TkFRYXI2UWxkaEwzVEh3aC1lRTZYSkdRNDFZRHQyODFITFFHb0dGNDI1QkM4WnM0TmRqcHdqNFhqNHYtc21UeHJLT0NLQ3V2NzNHQjhmandOMVVKZkVxLUpqbGZvQTd5QzBZOS1LRmotQk8tSTBWNGtmUGVmWDg0Q2U4UGw?oc=5": {
-      "title": "東芝テック - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwY0tzY3A0c212Tld4RnplRndfSnFMem4tZmNYa1VIbHZva0Y1UVFST1NBNzN0c2l5NVc0QmhRWVN5aDBQSzZqRDFoVl8tQkFmcUdnVno5NXpPa09iVWQyY3lCUGlPNlc3UDdF?oc=5": {
-      "title": "アイシンコムセンター＆デンソーミュージアム コラボイベント開催のお知らせ - 時事ドットコム",
-      "company": "アイシン",
-      "source": "時事通信",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vdE56X0Vsc3pxUlQtUXVUYW00UGFXMW8yRU4tUTJkSXljcnBrQl8xRnNIWlBvWGRhVGNsWi1tTEwxakpSMXJBM2stNWpBZWM1R3VkcVlMd3dWYjJFT0dxb1JVLU1DLWh0VmI4?oc=5": {
-      "title": "楽天、「by R」プロジェクトを通じて、「KHOKI」のランウェイショー開催を支援 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTXN2UV9XVjlYRjJPMTZuNG4zd0NHWi0tTXZzOVh3aE1sWXhVLS1rLUJuNlkySXhxTEpaSTV2XzUxVzVSNVBqaXItUnh5am1WUXE5QlFsVV9xVXZmaWotNTVEZldPeDVJWG1V?oc=5": {
-      "title": "【EC事業者向け】オンラインセミナー「楽天スーパーセール直前 最終チェック！売上を左右する\"最後のひと押し\"完全解説」を8月20日に開催！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiNnVwRWJ0UGJubDZ5YkNvdC1xUkFzT2U5d1Nfa19hcURad0Mya1dKOG1ONE8tUXprNkNIU0hXZjAxNTVfRU5mX0EzVU1uU0hGQXdudS1YNTkzN1ctNW5HSmdxYXJvaTRBSm9j?oc=5": {
-      "title": "【ロフト】今秋、2026年10月オープン！「イオンモールナゴヤドーム前ロフト」 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSjVEY3VtakRLUlRXcHlqM2U1c2VBSFlHV1pONzlBX2o1NWliM3Bia0N3dmhkcDZqVTdaTzZjS2w4QkxfRUZwOTd5Sk0xZU1EZkZsMXd5MUVmc0p0cEYzYlJ1ekdpSWxnSU5Zcw?oc=5": {
-      "title": "西武ホールディングス[9024]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wSzFIMEtqc0JDTTZld2hhX3pMZi0xYjE5eVUxUTZkVHpqWkdtODhJRlhPLU93NG5XSG1tOGZNZmNoQUdVWVZOVjZ0dmJ3R3Jvam4xQmlZZmY3V1piLWJjWDI4MVI3Zk8wSnRJSw?oc=5": {
-      "title": "九州電力、玄海原発・川内原発に異常なし - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wTmpvdWRBVWdEY1hiV1ZIOUtLWEhfZXN1VENVZ29RYnlXODdldVZxeklvU0pZS2JMZk41cGVDdUY2clp1QVpqTVpqd3FWUjNPenllVlNWZVZXYjRZTmRsWmFRTnhObXgxS09HQw?oc=5": {
-      "title": "日本生命、NDD認定（非ダークパターン認定）を取得 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-28T08:30:53.624275+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nMWVFbTNSX21uOXZuOGdaLW9TTlpSNmIteDZSQmhyLUtuVktKT3gzemZaY25vUk1ld3NVQ25VaUlSY3pCOVVmcTgzcksyMDg5dVhrUWg5WXhxQmRZTlZZNFBLcw?oc=5": {
       "title": "【三菱商事グループ】データサイエンス/オープンポジション - 日経転職版",
       "company": "三菱商事",
@@ -4373,7 +4295,217 @@
       "company": "芙蓉総合リース",
       "source": "時事通信",
       "seen_at": "2026-08-04T05:46:16.355915+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsOXlwMXBraFFQZWZZZ0tRa1hUQWt1RTZUQy04bjVnYU1VOUhKTXdGbjlBTDZ2dTM1a0hZUHVXQ3lfQzdvaTFZNk9DSGZOSDc0TUctajJ0bEFYV3V2RDI0NURJQkZseXpLZWc?oc=5": {
+      "title": "三井物産[8031]：自己株式取得に係る事項の決定及び自己株式消却に係る事項の決定 2026年8月4日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDBhMUxzeERZZDFqNTNHME5rYlBUS0pjS0lxMFRsU2VSZThTUHhrYTJHMklIZ2RhVC1KTDV3dDI4cG5ZZERvNWhocS12YngyU3hRR2dHOHpxRDBhbmJxY011SHBIcl9lcnc3RjhNck11MXVZVFBrbWtSZl8xc0RCSDhQNXExVDVWNlE?oc=5": {
+      "title": "三井物産CFO「29年以降は純利益1兆円が通常運転」 鉄鉱石・LNGの収益拡大 - 日経ビジネス電子版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE01X2NCVnN2VmZVNlZ5bFM4MWVHdW9ZclJrOEl5TXI1QjZxQk5LcmlxbHhlZ2J2MTJyeng1QnNyX3VKZklXZExqSVRVQ0YyZncxZlI3ang4blFxUXZLWEhqbWt2R09uUkg0UDRjTw?oc=5": {
+      "title": "海外拠点AI活用へ新組織 伊藤忠、ベトナム社と提携 - nikkei.com",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE04SGJJMjkzdWxVZ3BEZWhJdEt5SHlBQ3ZEVHUxeFhmZ1U4dU1Dc0Y2VVZmY3hYenlPQUlncXhfRHVncWllY1IyYnB4TUVldEpqTTdVZ1ZKb1FSTkxLdlViMklPM0VQRWpGTTN5SGR3?oc=5": {
+      "title": "ERPアカウント営業リーダー【大手企業担当／住友商事G】 - 日経転職版",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVFaX0ExNWJpTFd1NTJhc3BWRGFKclUybEJ4WFRyYVI3ZS1yZXhseGhNaldueDVHanRjbklPVXpPQkdWcWtVdDgzSXlSSUg2TW9YWmJ1cFNpSXFwSXJabUh6R0xySGtoZ21Xb1FoUmZyMGY5aURPRXVqRFZQVXo4WmNXVVJCSk5SUVkwNkZrM3g0c1JseDU0LXFsbDQ?oc=5": {
+      "title": "2026 年８月４日 各 位 会 社 名 株式会社東光高岳 代表者名 代表取締役社⻑ 一ノ瀬 貴士 （コー - nikkei.com",
+      "company": "東光高岳",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQR3JLVDBlaGVfTWNPTVEzY01VYXNTWVBQX25wQmk2NWlzV2toZl9UU3p2WDhzbjh0RVR6ZEhkd210Y1RtV0VnbE1GRzlfTnE1VUpNSFNWQ3J3SmdPdHluTHBxLXhpa3hYYTY1bA?oc=5": {
+      "title": "トヨタ自動車、株価が安い 27年3月期純利益は上方修正 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kSmpHRXRVUzNWMm8yeGlNa0VnMy1SWkxGcjctbGJlMUt2aF9CWUZPdzNkLVVBYWpRVFU5QS1UR29McGRMb3lNQzZySkxwOWxZUWRwTGtZeGt0WjBaRFQtQnFHclJyVEU3bkRjcw?oc=5": {
+      "title": "トヨタ株、業績見通し上方修正で一進一退 円高リスクが急浮上 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oM2NiMVB0YzRSVGt6ZEJJT0ZHbjBaSmlvbS1OM3g5NjlrOHBfQUhlWlJVa2d6SkJ6UnQwOGs0andkTThneXJydGJRV2F0Z2haZzR2WTBYbGR0TXdsdF9KMlZoUTdkdlo2UTBpRg?oc=5": {
+      "title": "トヨタ、上限1兆円の自社株買い 2億株の自己株消却も発表 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZmhKN2w0a2Rmck1NWUg0WmhuakZuYVgyUDMxTlN5cEhEVDBsOURfVGhURlVlVjRvbVpwSzdCWnhqc1VUSDZjR3VuQzN0YXdRcnhWajE1d3Ftb2QxVDBFZ3lSckNORnNhS3c?oc=5": {
+      "title": "トヨタ - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNmFJR3VmeWlfUEJ0QVdFT2NLeUl4R0FXNzNWc3c3cnVRenZzazRXWnA2bERUc0xJb1kxN0xaQ3diRjBSTGxkLVBCRHhHYWl6UmhRWlRtRDhLZDZnNWc?oc=5": {
+      "title": "トヨタ、純利益３兆２５００億円に＝２７年３月期予想を上方修正 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBETEZReFhDNVZVWnU0c1BwR1pyU1I4X05PcEM4aFA5S0ZxNTJLc0hVcWFSYThERUQzMmktN1YzXzFaRXpyMG10NlYyai1MdXdwMzJTTg?oc=5": {
+      "title": "トヨタ、純利益３兆２５００億円に＝予想を上方修正―２７年３月期 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JemFrRGR0RWIzdno5azByZW9WbHdzb0NMY25YVE5oWk5ramVBWVBoZV8tVmNiaU0wQjVxLUxZTGltZkQtbUtTRDA2SVRJeFhBZFd6bA?oc=5": {
+      "title": "◎〔熊本地震影響〕トヨタ、月末まで愛知の工場で一部稼働停止 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTROOE04a2xwLVhCazlSVnhjcWx5aUc5UF9zTDViN3I4TFVpTGZrWDVaZTA0MmNXVXdHRXlKRnNmc0tEYjhCemQ5ZFB6UC1BV2xYZTJvMTNjUHA4Z2o4SUdpMW5JWTFJNHlvX2xHbDJfRkdkTUFfNnoweDBFc3ZCdmkxRzQ?oc=5": {
+      "title": "アイシン、熊本の工場で順次生産再開 近藤副社長「10年前の対策生きる」 - 日経ビジネス電子版",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XQm5OblgzTko3MWE2TkdRenlLLUdkQU0xeUxHX0M5R21kRFRTZUlHVmd2ejQ0WFFhZm90QzU0TndMMjc5OGdMNkJBWnVPOUNuX1JCM2RtWTItaHkxZmhEdmJacHI?oc=5": {
+      "title": "楽天・吉井理人監督流！「チームの立て直し方」をインタビュー【てれまさ】 - nhk.or.jp",
+      "company": "楽天",
+      "source": "NHK",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnUUxpNlkxQXQtcjFTVHVNdG9rbWloSWoyVUdwTUFvUUppMHFzOXhJOVktX0xPSEhsZ0VPQW5mNGs0UjlGcU9PWjc1aE1OUng3bG1uS0k3ZnpGYmVZUlRTM0hVWjVEd3haU3R3?oc=5": {
+      "title": "「楽天ペイ」アプリ、Android(TM)版で「楽天Edyカード」へのチャージなどが可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXbTI3ZHpIYzFfdWc1Wlh4WS1tU0l5bXBkanNBb0JaZFVMTDdYb2pwZk92eHhKQm5TMU9LVE1zY3YxcUVxY0FHaWZMUXk5dWhydG05UmEwVjcyTGU4bFdndUJnTmtjaTBPN0JJ?oc=5": {
+      "title": "【８月楽天お買い物マラソン】ポケモンGO(R)対応・捕獲量最大10倍！座ったまま1km圏内をしっかりフォロー！歩きスマホゼロの革新ARサポートツール「Pocket Hunter」が期間限定大特価 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fQVRmREFTZUNkTFBpSEwzQW0yWUQ5X0JKeS1fQld4U3IyRjROWFJUU0xuMEQ3UVdWU2N5QVBNSVFnSEZvcDNQS1g0U2h0dnp5eDE2aTEtTGZtRlk3M1lFbWJMRy05X3ZZbllz?oc=5": {
+      "title": "【8月楽天お買い物マラソン】「暑くて外に出られない」日も、ポケ活は止まらない。天候・体力の制約を軽減するポケモンGO(R)対応ARゲームサポートツール「ARmate（エーアールメイト）」が特別価格！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbENiOFBHSXFMeEpkZEVRM09UdnFaUVRPS2gyb0tJTzV6LVpGZGl5ak0xT3F4XzVVVF92VlE2V2ladU1HXzhmOUVTZlJEcUstWUxoekZyV3ZUOVFlZURvVkRDYXlRN1A2QUxv?oc=5": {
+      "title": "【8月楽天お買い物マラソン】猛暑のポケ活は\"持たずに捕まえる\"時代へ｜4台同時接続オートキャッチ『Ultra Catcher 4』期間限定特別価格 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03X2lhLUtZSjNDcWxqVWlyUUd1VWJRWVZoWTVpTnRlMmFMZUk0Y2h6RElNTVJkRF9LdXJkay00QnBCNUZUNlQ0WWR6MDNRXzdVXzZSRzlSdHdRbWhpQzhhNGw3d1dBeXZ4T0hxdQ?oc=5": {
+      "title": "オンワードHD従業員、貴重品取りに戻り死亡 イオンモール熊本事故で - nikkei.com",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mS2VVdUxrRzNzUUJjWDNzMnFGeXBacW9uYnRuT1VrdUZhREZhdmpMXzBnLXVQZVI1eF95amlhMk0tellraHVHNndFLTk3enJBZDRHMlBjcDBtYWtrNm5ERFYxbVJTMHJBcnc?oc=5": {
+      "title": "ＣＲＡＶＩＡ[6573]：「POCA i」国内第１号店が玉光堂イオンモールつくば店で稼働開始 2026年8月4日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5": {
+      "title": "爆発のイオン前、献花や色紙＝断水地域、給水並ぶ列も―熊本地震１週間 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JcEIwNlkwX0NKRjJSdVlveXpDS0VUajV5cVo4SE1Vb2tWTFdpSkh3OEJwRjZzUjF2ZktLNGFCNmdEb1h5QWF3eWV1UHV0REMzd1VUU2E1d19ZMzJDQmE0MGVEVFU?oc=5": {
+      "title": "画像・写真：爆発のイオン前、献花や色紙：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5": {
+      "title": "爆発のイオン前、献花や色紙 断水地域、給水並ぶ列も―熊本地震１週間 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrbzFiQkwyNHh4dU9mNzhyTUJNQTVvTTlvN2Rab0xuT0ZMUHFvd1ZMX0xpbzZaOVRnek1VZ1VDZzVDcmFsV2J4eDRUQnNEOEhrMThZMi1ZWklYQWd6WnBia0VnMVZZZEg2bDFV?oc=5": {
+      "title": "883系ソニック車内限定商品などを販売「イオン鉄道グッズ販売会 in イオンパークプレイス大分店」を開催します - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50MTlPVG9zSEJEMUh6ZWJOSE44RTAtQVVhZU1KZzlKbFJOam9icVBZV1dLaV9VWFV0Z190YlY1eWtRMlRpVXJGVTFyX203SVphQTJVTW5QN3dMTXgtOV9zdlpaNjRZYkdReWlZ?oc=5": {
+      "title": "福島県とイオンエンターテイメント株式会社が連携し、福島県総合情報誌「ふくしままっぷ」ブランドムービー『ふくふくの地図』の映画館プロモーションを実施 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udDc3ZkpWbkFuRE14cHFwWmFILTd4MGVlcThwNjZCRE9Kd2FpdUNjTEQyM1dxdkM2YlZPR1JvZl9nUV9RX01vaWYtVjRYOXZVZ2NHLXRDVlBxZko4eDlCZ21ZZEpOUjFSSGdN?oc=5": {
+      "title": "「POCA i」国内第１号店が玉光堂イオンモールつくば店で稼働開始 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rZ01Gb251WlZOaFFzaGMxeDZydkhPdlpoalRFRnA3TGdNTkZjRDJFcnEwMGlRVFREbktUR3R5ZExiX3BWRV83R3JzZmpidDRhQlEyaUVSNzQ4Zkx4Zm5VZUN1YjN0allUSW9F?oc=5": {
+      "title": "日立・商船三井・JAL、沖縄県久米島にて 国内初となるCO2除去技術の実証に向けたMOUを締結 - 時事ドットコム",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mLW1FS0p6a3NVSlNmMDlLVWtoZHNmUVZ2Snh1OVJqZHZYLUtIM1JYTllMR2ctN05sMmJieW1UN0VMZUhuSzVEVFhJbVlOSnJJQncwMXhtRGRwOWhjVDNiMTdKSk1IU0h0NkxJZQ?oc=5": {
+      "title": "中部電力、不正アクセスで個人情報流出の疑い 最大7万4100人分 - nikkei.com",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93aGVTZndXOHlkZFQ1VFdqdFZyYk5MQ180N2NCXzUyZDhmN2VKYmlLWXV0Ti1QbURtTVlvckhzMHBSZTJSSkIzQ1VoeGQ5SXdUdE5HdlJwTkZEWUIzcTB4b3pUZ2txY0F5ZjYw?oc=5": {
+      "title": "「東北電力のハウスクリーニング」新プランの提供について：時事ドットコム - 時事ドットコム",
+      "company": "東北電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbHRjQkVmbnE0TnI5NXNod0xidml0bnR1YkM0SXY5Uk1FWldlYl9WLTA5VlpMdm9sSmJBQmJBNXZTOFVDbHdtb3NidzZfOG4tM2lHYTljVTRlT095ZU9CV2dsMDRpQjYyU1pZ?oc=5": {
+      "title": "Polyuse、みずほ銀行、商工中金より11億円の資金調達。累計調達額は50億円 - 時事ドットコム",
+      "company": "みずほ銀行",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RNnBPSTdtc0l0WjdrRGJWa01DaUFrZEpXVGl4QmVQMHR3QkZjS1I0OVZtS2wtNXZGWHh6WEt4bUtkbFZoaklVZHdodzFVVllIVTJFU2pnTXdRazhTdGNCd05MVGl2VkJEdXc?oc=5": {
+      "title": "大和証券グループ本社[8601]：GPIFが採用する6つの国内株式ESG指数すべてに4年連続で選定 2026年8月4日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRVlUWURvVHZ3Y2VvYjdITnRvYmZ1RUFmU01jckQ4ZnpLTHJmU3VkSkR1cDU2cWlDY3Atb3dkZktoSGtDVkh4Q2tuaW41UE9qaU9WM3BOczRHQXVZcXRlck5uNTh5R2tXVmE2YzJn?oc=5": {
+      "title": "【オリックスグループ向け／最上流】大規模PM/PMO - 日経転職版",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxa1plU3JKT0x6MW9WRWszUDBKYmpiNHNuX25JMTVwT1pFQWl3Y3JJemFDWUtkejY3Y1Y0SkhOa1kyWENIS24yWVp3NWk3RmtyU0hFWlloMmxkbHp4V2REb2tzRWZaV0w5RndZ?oc=5": {
+      "title": "Seibii、オリックス・東京センチュリー・出光興産との資本業務提携を開始 - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KcVBqZ1pBcTNDZ0o2R1pjX3pTcnVIcnhhZDFTSEtBcUY1WmtXVEZRQldFMGFHM3FNcFA0eWgyMHRVVnEwb01CdG9mYzA0V2l0dFRVOGUzbnNsSHY1WnNmeHdJSVJodjA1QXQ4?oc=5": {
+      "title": "JCB、徳島大正銀行と「とくぎんJCBビジネスデビット」の発行開始 - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcl9FU3lJTzJScURiU1l0YWF1OW9tcU9ra2FpV1YxNkpMNE4zajVMaENzTE5QR201bkk5V09MSGlfbmZBVjRqLXV1NGxRVG1Fa0lYME1MX2RqVFF3akRYbUJqcXVDTjRmZlpDeQ?oc=5": {
+      "title": "三井不動産、箱根の最高級ホテルを12月に開業 予約受け付けを開始 - nikkei.com",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-04T08:34:32.173089+00:00"
     }
   },
-  "last_updated": "2026-08-04T05:46:16.356511+00:00"
+  "last_updated": "2026-08-04T08:34:32.173743+00:00"
 }

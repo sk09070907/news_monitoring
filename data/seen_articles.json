@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeU04SExDZjIzSVp1MmxNUGFlOFBoSnJvME9IcFcyeldMRmRhakdJOHNUVUlFU1RQczVvYWY4NFZQVWw3S013MUt6cVZfV1AtUjdDdA?oc=5": {
-      "title": "◎〔熊本地震影響〕日本製紙、八代工場で９人死亡 - 時事通信ニュース",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWHdWa3VhRlVqVVVJQUd6WVF4ODVGNUVQaGZ2dVFRTlltbkxKWjVnTXU0Skw0S0RXaGxCWUdPMFVKSlNyQ05jVE82RjNVeDFsRzZKTGFUZjBDZndKbVE?oc=5": {
-      "title": "トヨタ、愛知の工場停止＝車部品の供給停滞、影響広がる―熊本地震 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXZXJNZnR1ZS12Ym9yQ0hZZUVTSzNHTXFuNjl4Rjc3NGo4RW5hR3pkRkpGdU1KVGhSWWttWlNBTFNrR2xodEQ3aURfNWJQMVFWYTZGaw?oc=5": {
-      "title": "◎〔決算〕トヨタ系大手、２６年４～６月期は４社減益 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2QVFlZ2NWY2JPNDdmODdndndzVmlqTmlEOVd3Q3BjeERvQVRQRXdCaS0zVTJfUC1RWEN5OHQyVVRhc0U1SHliQ0N1TEFRZHBxbkZPdTNhU3BabkkxUmZ3cllyNGxZMnQxSDRrYg?oc=5": {
-      "title": "トヨタ航空子会社､「レクサス」ブランドのヘリで空の旅 8月24日開始 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05Q2ctaDRIQmFoUXpHT09od0lvOVdNOVRzNTkySGdiVXZWUUhUTi1QZTlkbHZLM1FBWmM2M1ZiNXJLbjdvMVVZNmhrUm1KSU50NkRvcDFRNEUzbmZmcFpXZkd1eEZTVVI1cjNTbw?oc=5": {
-      "title": "アイシン、熊本の工場で順次生産再開 近藤副社長「10年前の対策生きる」 - 日経クロステック",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZYzlXVHBjb1VZOV9IRVQ5Q0ZjYjRwNUtXcDktRHNJMmZpb1RSU2F2OW13T0NIVENjQTEyd0xwbEhvbkV1NFpkQ2VzU0pqNTlBMDdxejY3elo1di1sZkZzdjlnWXFoS1VBZjEw?oc=5": {
-      "title": "シリーズ累計41万枚突破・楽天ランキング8冠*達成の「SHAPEDAYS」がリニューアルした「24Hスキンブラ」がバラエティショップ・ドラッグストアなど全国82店舗で8月より店頭販売開始* - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXJCYktURm1LX1RnQzZyTmF5VVB4bmdfSHZGTGFBS3JmZzJkaE5WZnRGeW9pS051R1JlT2o2RkhWR3ZpSkxkOFdqWHdGRF9BUkloRFFUdVJZbmN0dHpCaWl5b1VnRXRsQWw4dUhaVmpqY08xS1RwX21oUEl5LW1BekJNTHVTYTQ1NFJ4ZFNUMFk?oc=5": {
-      "title": "爆発事故発生の「イオンモール熊本」 ドローンが映した衝撃の大きさ - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYUhGdFA2emxMM0JFcDdZQkVWX0NROWZiek9tQU5NQmlvUzMySzc1NnNTYXBTT1VUUkxUWlVUWDVCWmZaR0VrVk9aeVp6T3N4RnAxYw?oc=5": {
-      "title": "壁の下敷き、高齢男性が心肺停止＝「イオンモール宇城」で発見―熊本震度７ - 時事通信ニュース",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWpmc1dvU2NaZ3JETzkzVGlQZll2TXRzRTFkc0FGLU9HUHVZTVJ5NHZrOV9FbDBHTGVqVzk0OUlTNFpsVERHbE85aUt5M1ptdTBsQzAybFRfWVkwOUU4Z2lGNU94MXVHYmpVQlIxZnlyOUVuTkY0U3JkQzRxZkpGWTJrWXg4SE94czJWNWViNno?oc=5": {
-      "title": "イオンモール熊本爆発なぜ 専門家「焦点はガス遮断装置」 問われる管理体制 - 日経クロステック",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50U2wyZnJFU3VlWUF3WnFxM2d0WE9kM3VQbklmdElZOXpWSUVjaEgxNEItck94cGxFSmVSQUVqRjQ0c3YtdENjZjltVmpra3RycWl3b3BKRTItMHQ2MzJycXdHMHNWcGR2RkE2Zg?oc=5": {
-      "title": "西武HDの純利益24%増 4〜6月、運賃引き上げ最高益 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tMmg3c0hvUFU2Rkpkb2NEV0QwZzBQcDQyc1ZyLXJGUjEwWk9pdURHTVpNVDRtU0VET2p0MHlKa21ycVlmakxsdUF0bnBhbENRS0FrNA?oc=5": {
-      "title": "◎〔決算〕関電、２６年４～６月期は増収・営業減益 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pcjgzTy1hYmJCWWpfeVo2bW5PVUJKT0hxRVBUdTc4NzZ3Q3BfRkhCcDN4QUltT2RjRVp0bmZsU01GSHdNMXh2cThrVjhXMHUycnlJUWhjSUlPYTgtNnJ6SkNHUHBWQ1dyY3QwMw?oc=5": {
-      "title": "決算:九州電力、4〜6月純利益31％増 地震の損害「16年ほど大きくない」 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGVkVaYWhnbXhoVldTc05lSFpST09kS0pCUU9kRW83dnpva0hRZ1NnWE1pLW1yTGVVb09ScHNuNjJXRmFYYUY1NDZrTTZINkFNYXBCZA?oc=5": {
-      "title": "有効期限切れで防護区域入域＝再処理工場、設定誤り２年半―日本原燃 - 時事通信ニュース",
-      "company": "日本原燃",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bWQwdGVoTDhzYXNKV05HQ0lKTXhHd0Q0QTQxbERnUGRPdnlIam1RU3NXbzk0dW9IZk85MS1JVnJDWFl6c25ZUFZiVjhySHhLdXpWX2gyeEtBZTk0MDBRdXhYbw?oc=5": {
-      "title": "有効期限切れで防護区域入域 再処理工場、設定誤り２年半―日本原燃 - 時事ドットコム",
-      "company": "日本原燃",
-      "source": "時事通信",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzdOT1J4LTdTS1lkNXZDbXhBNGVOelgxRnl1QWxPWFNpcWNmdFhUV3V3aUhuaVY1Q3hYcmo3dm9Vczc5RHpDQUZDYU9EM0dLMXNqNjVNLTBjdzNrZUd6WHBkcmE3OGVMVnhzVk0tdU9PZFhzYXRYZzItNDJVd2JxNEs3YU03Mnc1?oc=5": {
-      "title": "MUFG、電光石火のミュトス対応 サカナAIと「48人の精鋭」で切り開くAI金融 - 日経ビジネス電子版",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-31T14:01:00.984946+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kbTgwMnNBaExDYkdxdWJzRFk5ODZmTnhubTUxZVQzT1Jhalh2anE3Q1JqdUpBbldWNXEyY2ZYZk9TV0xvMVpaczBqenkxWUx1OS1KTzl3eGVzYURRcFkxdWxXLXgyWElTekhVNw?oc=5": {
       "title": "伊藤忠、米航空リースに出資 3000億円で傘下に 機数、世界6位 東京センチュリーと協業 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -3629,7 +3539,97 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-08-07T12:58:15.780653+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Hekk3ekk0ZHFQMkMwNmRzLUVkTy1rSklrWDJESkFWOER5TUdkdkJvWlZUTE9HeW1lWG10Qm1UOWpFZTJ0Skw0OWVOODItTm5qSUxkOEdkbUQyYUpkaGdLb1lmLV8xZXoxWHNxZw?oc=5": {
+      "title": "JTの時価総額がNTT超え 世界で紙巻き値上げ、加熱式シェア拡大の好循環 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1hhM0RUbGFNSGo5cTN6eXVyNHJFWjNhcjQtcndxUHEwTWJWV1hrZjFWbVZHYXlqdGIzRHB0UmpQUGI1OF95RlpteVFoSEg0SXhqQXdMMkRLWHdubTJqMWVYbXBoZWtwSHFVVFhSV2duSWZjajBRNGhoTmExeGk1MWRCMENjSHZEYmxzajRlVzdyQQ?oc=5": {
+      "title": "東洋エンジニアリング[6330] : 東洋エンジの26年4～6月期、純利益5.1倍 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東洋エンジニアリング",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWGNERWM4WnU2dWFJS0lZOXVaWGF0MGFvMlNzQUwwMFJKUDBFeWxCRXdjNzhGSlJvalpib1BZdUVBUXZwbWtaSzNqYXBYV0syX1Z0a3FKTVZ6VG85UERCa0pWckdCb0Zzd1JydA?oc=5": {
+      "title": "ENEOS、米化学2000億円で買収 タイヤ原料で世界3位に - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE04Ym9vX3k4UC1FYmk5b3B1WGgzMER2WjlkSV84Y0s1TktiMXpNVlVLbEZiSnJqaGxlUld5dmEtQjY4VW95QXNTVFlHTThaekNWb3ZBMXR0WUxrU3Q2QkZVUzFTT05Fcm9qLU5VTA?oc=5": {
+      "title": "フジクラ970億円上振れ 今期純利益2.1倍 光ファイバー関連伸長 大型受注、下期も継続 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxdzBmTzVBd3RoZ0t1Z3hQZ25pT08tclpKWTZrTlNzLUtkWU0yNG1TNDFzWWQxNnZPcko5eUo2Y2JKUkNjZkpNUUk4a2N2UmJ4ZEhKag?oc=5": {
+      "title": "東芝、純利益４．４兆円＝キオクシア株急騰で３０倍―４～６月期 - 時事通信ニュース",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2oxNHpmY0xBc1ZQVEM5OFVKTjg0SVNWZnBWRjRSTVNrbTJEQXF0aXhPSVliOWZ0dFdqc2hWQmlOVnBfNExpME1Db1NWVXBVcUZZUlMxMmR3OVRkVkdfamxKbDRkZ2w0Zjl1VUFSRnNyZ0FBV21xdmxRYjFiV1l4ZA?oc=5": {
+      "title": "東芝、純利益４．４兆円 キオクシア株急騰で３０倍―４～６月期 - 時事ドットコム",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12SXRZWTQtZHlZSFhGVG5GaVlFbHB6blpkSTg2b2wtQmFMZ3lsa3J2czNIcm5vczJyODQzWVR5VHRiT1JnemdCMkJCeURKNGhNY2dhZw?oc=5": {
+      "title": "◎〔決算〕東芝、４～６月期の純利益４．４兆円 - 時事通信ニュース",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iVE1lUkRXWnM0b0NPczl1MXppWGFJOTdBZFNid19mRE5wbjhJTlVuNEQ5TzBLZUZaMjVrOXZfckRwV2w5ck9wN1lNZDFqazNhbXpLSGZMSk5VRkxxTjJjREVkSkV5R2R0NTJMNw?oc=5": {
+      "title": "東芝、純利益30倍の4.4兆円 4～6月 キオクシア株高騰で - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrT3BhTzhRZmtsYk1ZTlhLemotZXQxbTJRWWxKcnUzY2F0NmRBd25sUW1UaFkyUFZKa0RDR0VibENuaDNtM3BOcHV2aGNidHNXSmpYSkN4QXo4UXZGRFJYWmRqMjFMdE41VjRzbw?oc=5": {
+      "title": "KDDI、楽天に回線貸し出し終了 都市部で9月末 ネットワーク負荷解消 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sdGoxRk03SE1TRzRlWE1XTzdWRjNVSW9IeUdXNTh0Vmg2NDlBSVViTUxmOVlITFdINFhQRnE0THpjYkdVQm5EUUdTek5qTjQ4OUdrOGpqemoxRGpnR0hvdWRnLVoyVmFuRXRaVA?oc=5": {
+      "title": "サイバー犯罪、SNSで集った少年らの手口とは 楽天モバイルなど攻撃 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEYxT0Nmd2R6RGZkazVlYXZPTVRGU1hLMEM4OXhmYzJNNkhTdDAwSWpGcjlrS083RXVaMG5Sci1sVnRlLVR0NEZTeE5YNEhuWWh6TU14ZmNmR2Y5c1NERU9wYUZuSTlHRVhON3VZdlZIRUNiMm1ZOXo3cG5SYlZiNg?oc=5": {
+      "title": "ＫＤＤＩ、楽天へ通信貸し出し終了 ９月末、一部地方では継続 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZnExQmFEMWhTTFdQRUVlT1RXcEpqVHBXeTFLaDhteDVBWFdiZHJGZmpDVFBDM0RZd1dhdFZMeEtoZlBTenRYMXAzUWdtS2VtVWJPcA?oc=5": {
+      "title": "◎ＫＤＤＩ、楽天へ通信貸し出し終了 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VaEFMWlRnVEh1bGVjclhBWDdBWC1QaVAzNElDQzlqUVVnQ0hfVWJlYlhCVWtYR0JwQVFDakxWdmJIa1JJTXR5Skg5bXlxTEcxV3FoYg?oc=5": {
+      "title": "ＫＤＤＩ、楽天へ通信貸し出し終了＝９月末、一部地方では継続 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4N3ltdzlySm4tZjRhN3JfbVh4amRsa1hTM0Q5OUI2ZVY2NHRKVmk0c3lYTWlLSEI0N0kxaVRkUzZFazlCX3RGbnB4UnNKb2Y4Z0VXZVhCY0xnMFdZN3pCU2M5RWp0T2piU1BUNw?oc=5": {
+      "title": "海運3社、今期業績上振れ 株主還元割れる判断 郵船が増配 商船三井は先送り - 日本経済新聞",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02clJub2cxbklKN3YzeFZYaWZoWXlBVXNHWW54dGdIcnZabG5UUXVCY0xDckpvV0pVVzNka1pGMm5kU1hqdFpNS0s5WkZDdXdZZEV4MnVBaDBFR3ZndkJFNm9LaG9uX01UU3hr?oc=5": {
+      "title": "KPMGコンサルティング、環境省が進める「昼の再エネ余剰電力需要創出モデル実証（令和8年度）」を九州電力と共同で実施 - 時事ドットコム",
+      "company": "九州電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T21:34:21.557160+00:00"
     }
   },
-  "last_updated": "2026-08-07T12:58:15.781286+00:00"
+  "last_updated": "2026-08-07T21:34:21.557698+00:00"
 }

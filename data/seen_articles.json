@@ -1,137 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sNzNNeHc3TW45RktsUDNEQmRZTk9RTS01SzZZNnVfeVNUYWI0ZGo0YWFMejZGUzc4M0xwVmJSZzZpSkJMQzBBNnhmMXU2bzZjUHdsMzY5d215RzBkMlJYYS1ETWtqVkViQTgtag?oc=5": {
-      "title": "社有寮を復活させた伊藤忠 ひとつ屋根の下で対話力や仕事術磨く - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Yi1UNUxBM2s5SG9oRFc2OEgzV1RwazNWZDNta2EtS3Jzc25iWW5nOEdHeVhiTUpRaEotcDU2c2VCRnBHTm1oTWVNNXRaOVdUUU5qTHYzcV9VQ3o4eVRvY1RWVXIyTUpjYlJBUg?oc=5": {
-      "title": "クレヨンしんちゃん、タイでも嵐を呼ぶゾ 住友商事など現地財閥と - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRVVaN2twOXVvT1ZCNFIySHJOdzdMVUNneDZGLVBvZHlPWV9RVEpDYTliX2JCUVFUcWZOS2xCd0stazl3Tm5RVjdVVnpFUjFBaDU5OE1vMXI4azdibFVxc3ZiTjJRSjU1XzFiUg?oc=5": {
-      "title": "TISIとKDDIが残業時間大幅減、NTTは男性育児休業取得率を大幅アップ - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MkMtU0xQTDlJbFhFMzJ6UTNSM0t1eTFPNmh0dnpBZ1N2bi1HekhwUWxoaXpTZlUtY1JzUklHZVh3WThjOXFnak1wUURsaGFEMnBBX3ZNQmhmNFl0amJQUHlsR0hZaTR4c1pYMFo3QQ?oc=5": {
-      "title": "地震で損壊した日本製紙八代工場 地震…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxcnpJWjJzdXpkQ1ZWcVR0LUJOaXJzVWhXcXRrTFdGZFRrcVRjYkY3czlSeXFTU19XOC0wU1h0Y2dhaHJiX2Yta1ZvUmN0b3NCQ1dzMG5DclM3OUpXY204a2ZNdlNTc1RQbGVNY0J1NA?oc=5": {
-      "title": "日本製紙八代工場での救助活動 地震で…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNGsydlFnamtxaC1KY0hkYW1INlZIcWhTQUdKa1V4WlQzcWw3VWotbUVxQUZYa24yTmpCMUdkSzI0eDlPemVGa01zUWdZNmtUNG9MazdtRTRBOFlxRnBGZ2kxMUYyTHc1am1CRQ?oc=5": {
-      "title": "新幹線車両、曲折越え台湾へ 日立・東芝、2度の入札不調経て 鉄道輸出モデル事例に - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iSDlTM1c4VThiS0ZMTnBQSUdKRkxIUURZQXA1ODQ4N0RLZlB1dldCRldzaXVFRUJzeFBWVTJJdjREOU5HaFZCbHFPME4xeGpsWW4zQUpiWnJhMEllVE1CN2N1VjdNNXhmUWdrTA?oc=5": {
-      "title": "トヨタ系中堅5社「熊本地震の影響を懸念」生産堅調も先行き見通せず - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bG81anVicnNDTGJ3QjJSSUxNeEV1MkFTS1paZXl6NHp6OW1CS1hDNGY3UFZMTXlwVE9LaTRjMnJqelROejZyLWhVS2FqOWdENXlGeDdwUzh2cWpwTWZQRWFHWkEwNTJkbzZVeVFRb0t6ZGRzRTBBeTZEcm5jMUE?oc=5": {
-      "title": "1〜6月国内EV販売､トヨタが2位浮上 BYDは5位→9位に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81amYtTUpGQ2hMWDJscWdvbzNXVWozcmotMElPY3FsazE2eE9QZFhPNTlCVEJQSnlDZlV3bWY4VDRNOWJuNEI5ajNnc1h5bjRxOTh6MkJFVUFyeHQzb3V3MnhaWTg?oc=5": {
-      "title": "躍り出たMUFG、トヨタ・キオクシアも超えた 時価総額「国内トップ」の衝撃 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERU44Z0RqVnVtd0E3NkNNTTVPeUVXSFNlcEhNbG43ekw3WjBUdDVtNGNWNEoxeFVjVm81OVFvYWpYX1dQRTRhLXBVYTZsUGVYdFpJU0JHeWRNSWJGTTFPaEE2Nk1xdW8?oc=5": {
-      "title": "［新連載］MUFG、時価総額トヨタ超え国内首位 海外M＆A花開き純利益2兆円 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BMlR6MWl1ZzQ2U2R2MWROVWRXaldaT1ctREZFalFfS05Yckw2UnNtOFlLYUtlNHh3Ul9sYS0waEd3cHVZUVBhSzg1eVVSRVNuSnlnaE9zT2h1c055eWJ3Tk1CTHNDS2RpREVLRQ?oc=5": {
-      "title": "熊本のアイシン工場被災、再びネックに トヨタ・日産に影響 他工場で代替生産視野 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2wwNms1TTE3RUEyNUFINElTbXVoZkNsZjRINHFDZ2hXb0Fhcmg3bnYtb2haNXF3d2VLRXVYTWtpMVhsMzBWbkNKOWlTamlvYTVGTVg4Z2NYU2ZlUVRRU05IWFIxRDgzLU02RmFiM2FSa1NhS25qTWJLTlZRQmYxMFhn?oc=5": {
-      "title": "トヨタとホンダ、通行可能道路を無償公開 熊本地震、避難や支援に活用を - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5": {
-      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5": {
-      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGb25CbmEwQ3hORFhRMG5lYVBiWFBsbzBhd3BJSk53QjNETGc4UXhKbXNLY1V6N0VYMk4tUEhEdG1ISGhkQ3l6c3RUQUZyZGdlRHBhMkdtV3l0Z1ZqSXlMdldPRGtPODg1b0JzMFNzYw?oc=5": {
-      "title": "損傷したイオンモール熊本 地震の発生…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nd2p6eHFPTnhjSk44N2p4OTJ1MDNHVUlnUFRCMUpmQXhzM1ZVYV96ak9WM1Y0Mzc0NzVJLUxGdVh0Qzh2c1dMZHVPel8ySDJra28yOFRiTk95c3Uzek1JUmhKSGRJT0paa0sxUlZNOGl3a2tmeldJ?oc=5": {
-      "title": "風車の羽根内部に点検ドローン 関電系、27年春に事業化 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQ0Y4VU54UE1Zb3ctcjlmT01jNWJtbmtFRGJIX3VWYU9aejBsSXVqaEVzLVVFMktacURJQkxjcGdNV0JkY2o5SFJpWVRzSUo2aEN6dEd4ZWctcG1xR3FZZjVuR2Jsc1U2RTIxcA?oc=5": {
-      "title": "北海道電力社長、27年のラピダス量産「既存電源で十分対応可能」 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVVcyUW1KNDhVN21sV29HRkF3dzJSWS1YekFwZ1pVZUJmZ3A0MTJCdkpYekxrZ0tkX3JTUkpVRHNwRTMzT3c1bnFwQVgwX1B1bDZVd1lqdlhTSmZfRENWRms1ckI?oc=5": {
-      "title": "MUFG、未完の王者 時価総額1位、AI時代の金融進化論 - 日経ビジネス電子版",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UUll4aXFER1pEbnBRN1FjMTdJY2Vad0pLZVNOSm1NRWY1S1JMRm1ieHN0eEhMT2d3dmYwRjljMWNtZ2dEREZSakRWYm9JSHctR1phWDNJN0dxb3QtRnA3elp2eWI?oc=5": {
-      "title": "時価総額1位のMUFG半沢淳一社長「日本に新たな資金循環生み出す」 - 日経ビジネス電子版",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRkxhcWd1UDYwLXJTMW5wSjFJQXBCUjVxTWdIUWtrSkxwS2djbjZnX0s0ZjNHZ0VBWG8yX3NZTjJOR2VYSVotcHpmRHdnTVB1X0RJdU9QN1hYTk5uc0ZsN0tIU3U0bWtJRUoxSA?oc=5": {
-      "title": "みずほFG、純利益上振れ 今期、12%増1.4兆円に - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYldKbnJLajJHeEFXd1huSDdVbVVXd05KYVVXVzZZVmsxZDdHTV9Vd09yVlQtWGhVTHhFLWMtaTFpbnpJdkFuZ1R5MHN5SHNQT2xTUUw4QXVhUmhNMDBBR0dIZEpSYThUZmZnZw?oc=5": {
-      "title": "三井住友トラスト、純利益57%増 4～6月に1422億円 - 日本経済新聞",
-      "company": "三井住友トラストグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNzVUbzY0ZUJ5dVcyQXVHX2w5UWlBSF9uQVF3Z29Pcy01QnVCbFdkd2cxYTg2UGdOaVVra1NpLXlwN0JFSHhYcklmNzhJSDVnS2dyeVBoZ0hWUDFwYXJzZjdmZjR0QlpwcVpr?oc=5": {
-      "title": "CCCが挑む空間アセットのバリューアップ――野村不動産「H¹T」・オリックス不動産投資顧問との共創で結実した、オフィスビル空中階の新たな空間活用モデル - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-07-30T22:09:23.422249+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aM044cWdoLXRlUGtFR2lVT2w5bFdmclNFc0FQRFN6NU51T0xCdnUtaUt1NG9jeVg0LTdOYnFTZ0hRLVpTS25qZ25NNVhKaWRjVTgzZExzcXRkaUVfMlJKY0VVeVR4QjVkVjJv?oc=5": {
       "title": "TYPICAと住商フーズ、新たなコーヒー生豆調達モデルの提供開始 - jiji.com",
       "company": "住友商事",
@@ -3767,7 +3635,223 @@
       "company": "NTT",
       "source": "日本経済新聞",
       "seen_at": "2026-08-06T14:02:41.430779+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40eUV5SDZBVFZZOFBFcUlzQ1A3TlQ3NEs4OUlBbXcwM2d6M0VXR3BtVUJDdDZYZTNGYmIwRWFSWXFYcktHcFFQcWdZWlgzWVQzeXFLdGZKUWJENVhJYU5UQlNBMEpqWHBCWGs3RA?oc=5": {
+      "title": "伊藤忠、CMの効率向上 日テレと、購買・視聴データを連携 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTVZROWxZc0VaazdGLTdZYmlmdkI2VmZYdGREaVd0cHhnT1FBSkxZUGVMYUNTLU1EMlBWdzUyQkRuYTJLUU9Uc3dCRE13bjVlMW51eUtjMGRfUzVHbEpEalByMWVjeGdFSkZvYw?oc=5": {
+      "title": "NTTドコモが「ahamo」を10GB増量、競合対抗の先にある狙いとは - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXBrdU1NTmstTFlneHlQWno2TkY5clNqRC1DZ29PQXhYeldpeVkzZkxhaXRrcnNXdElkQVpSS212QnFPTE1ad1NuQ25sNDRhYTljcTcxYzI1MVNmbVgzT0c1OFRxNVRGWmVpQVBjRHBrYmZVcFN3UlhuVjZfUlVGaWpoY0J1YVFUYXhzTUgzWFlvS3BIc1ZaNHZaUEc?oc=5": {
+      "title": "(株)ニップン 第１四半期連結累計期間の業績および通期連結業績予想 - 日本経済新聞",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnVvOGxrZnFUVW5YWDhpMVpUbUFZWUJfVUU0NGpOMU9nSDdRRUl6UlJya1d3Rm9aRUItS3gxeUVOQWEtM2NDU1RBM2NyVnhLc3Y0ZmJUXzFXdm5oNDlROExSXzByRjhlTjNmR1pid0I4cUdhb3hvU3RmeDBMYmN1SXlweHk4TkRXdHllcElEVm4tZw?oc=5": {
+      "title": "パイロットコーポレーション[7846] : パイロットの26年1～6月期、純利益34.5%増 通期予想を上方修正：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "パイロットコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nb1FkR1Bxc3ozcExEdTY0SDhjZEc5aHVTNFRxdDM0R04tNU42Z2htVEtodEhVbnRpeDVJVFJYVTVSSnEyaExkMF82YzVJQWI2X2Z2azBjYTZ0UXo5VTY3eXYxeWdLT1I3bTMyZg?oc=5": {
+      "title": "ネット証券4社、4～6月最終利益2.3倍 SBI・楽天は最高 信用取引ブームで収入増 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MXdFcDdrNlREQWpRN0dMd212WkRUYnMwZVFmNmlNRGZPaUNVWG83b0ZzWWpuNFZsU3d5V1VBLUxhV3pmYndOSlh4WDFnbEFVWG85UnR4dVFrOERqa2FPcFlXREN1QQ?oc=5": {
+      "title": "映画界トップ対談 ディズニー×イオンシネマが明かす新たな劇場“体験型”モデル - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmZGtRdXk3SkxNVk1vWE9iUGJ2NU5zRzIzYnpZRFFlTFp3dElmY0RSUVdDa0NDNGR4RXFFQ0hkb3R5c0VvLW82Y1FrVTFfTHhOemMxdnpRSUg5Q1oxWmxCOV9nZ050SGh3?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lR01oUWptck5rMTdwRnFRa3ZheldJb2w3Q0RjMW85LUVDVHB1Z2I4T3ZtS1B1V1B2TktsRFRlVzNVQVBGanJKRWFfNWlHYjhPclIxd04xeXljNVBHN21VRUNZbFVIbWJB?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVlZiOGxMV005QmttYlVhREF4ZnZqYy1kXzJuNWl3cGdjVThNR25CRVdPb3hTZFhUS3JuN2dMcDQwVlFmazFoYUNBcVlUR0ViWjd5UnZkODJyV0p5MUxGbXo3bFJOWDVi?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WGJHZGVsSUpmTXRaOWZFMzQ3Z0xhSmZ4XzNlVk5CWlY0Y2k0bVRZSUQ0VzVETFNiS1JFdkhoaXdibG9xVlFRNkgzNjJuSFFqQXFhNGR6YXVGaTZVTWFQT1owRFpZWmlp?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UHRsQjRLcy1UV1pRQTAzYTRlbm1jaEZQX0FTbXE0MlFyNF93Q3ZCMG8tU3ZoUHhOc3piT1lJYmptaVRvTEtoYkN5X1hKNW1wd3JwQnotNThFUmY4SXFTcGJmTkZ4SWxJ?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOMnk2Wkx4STVlVVNOVGpFZFE4OHU2enJFZUI0bGU5eVdCdmNQQVZjT0lmZTk0cWh0SHFZN1lVcXJ4U0ROQklDNWd4VE9ma3ZqVU0xSjVZRkV3UXF1N2FZMHVHZG5Bd0tl?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93VGlTSjJhNWY3bk52VHhHaHp5WVRTYlpvelNrSzVHRFJ1c1FQSHFFS3RVTXJtNzZGSFMxV2t0eVRxUkFpNERZOUFKVDlmZklHNEtkMGNzTHpXTG9ZampGaTNvVDdHSzNN?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SQ3JVNjRwU3lodTd0RUlVbko3bDlqbFRwVUVySmxFSTFpV3pQYWJuNFM0SFlwNWZCQ0NiNnFtV1UwNnY2NC1rdWw1T19CeG5ISHN4RkVqT19wMjBVY3U1UkhsY1V1U2V6?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMDMwRFRBdEF6My1JcURjandRMUtxX2NKUnJoM2pyMEJRdEFobGtjaXpHRmlFMkcwcEthdml2ZTg4amF3VzNuai1JNlo4bXQycWV0RlFhR2VGWGNBUzVfMTlCMFBzZmJI?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VGMxb1g3aTBuc3lXaU1PMklVakVlRFdjWjg3TlE4WU1PR3dVWWtXSUZrYm5DNmQ5Mmx5b0tfVVJma3ZFYk10alAwc2RHckllY1JEa2dkT2E2bmxwaDdSNGdLNmhFeWZJ?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04eVJNU2tRM2tBOGg2c0RxOEc3dmJpc3RxeXlPVm9tOWVzejFHaEQ2VjlNMU5sZjBvaXl2ZnJWeDJ5U2JiWHk0TEptazZWdDV6WFM1X2gyRUVnZ04wX0NveDJVLTRMMlRv?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qXzBLbW1za2FxUS1UVFQ0M2xEcDh4RnVkd1NEMVJhUzBzZWRCS3FoMFBTQTI2UlpDdHhpd1ZPMG5KcDBOYnNxOEIzT3JqWHZLaG03cG5KU0xINTRzYzJKdE8tYkxlVUlp?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZ01kOVlyc1dkdHhRZkc4V0V1MUtRd1RBUm5GeVc4RDREZmhKbTNSQjNNTEpHdkVQa3Z2bjZYNGw4MVVGdVhUSVZodXAtckhzQkltY0FvZWFGR0hheHpTbjFxREtrb2tP?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5paGMtR2RaOUhCSG5oY3plbWZGU2l3N2JlSm9TcTdpcTBXVkxxbVVmZzNBaU1KdU5NeFFxc1hsWW9XbDVYWEJuX3VBbnFTWTZ5WURxeTNMTktQcGQ1M2pIbnFqTy1PMVNV?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLWWRnQ3djcGhJWUNXUFgzeDdJM2hySmRaTVhpZTdENFE2NHRXclpaREMwVzRJcEpKeEgxeWp5TmpWUWN6SGpYTVVkNFZvc3FxV1Z4cXRkYjRJZDI4ZWdWelpwSThIRUhC?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yU3ZQWnJ3dUtINU1UaHhCblc5VXp5RXNUMUpwWlBMRGxGTHBJZTd2c05idXhjV250Wmt1QVUyODlUdUlTMVdwS3ZoaFpaSmtzTk12Zk1KTzh5WDVOLXNCeUcxdWdmbTRN?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxMlAzbUJYOVlsbkRfbks1Q1UwUlEtU0MxX0Fnb0UzUy1ZM3BISG5PR1FJSWpfQVZ5dGZqUmFMNzItQWk4LXJqdlFjbGFpNmRpdnpPYUkzbU16dHV5Y29yVWZKWjFqYWc3?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pSi1ROXJlSFRBb19YcEIxZjZrMDRrSFM0Nmt5OVVGUkI3QUR2Qk1KY1BSdWd1ZXpWdUZHUXp4alhBVk5vdHpFX3h4TFRRcnZweUhudklvRDBiYmRvZnJYYjg5dGlqQ1FO?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DWGNUOXFoTXFZdDBFdFloQ2ZoR3R0amFobl8xTnBHTTBkaUJrcUs5VkZwVkFyNGEtNm9WejhjWWZSRGdkcUlIYWV4NVJUVzNaMkVnY3hQd0swZ2VqS3kxOFh3THp4cmFo?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbERucHVLTmpMVmE1S1phMFNUQ0NPcVJPVlJCREJ6Q1d5NE1QcU1LWWlmeDJEazhBS0wxTTREY0tIZGRVRDhQYTF6bEluWUw3VTRNUkpZT1c2OFJZRWxOcEFLODlmTWFX?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xUXVTV0stdmFGbVJwTDhKWDJ4SWVpVHlJaUNxTnpESFpicGR3MHpzRU03MXFCTTloUTh5MThkNlNYb0VaaFZDVHB6QkgwOHpVY29ncjJaTUhzTUx6SGd3d2k1QjNuWWpX?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mcDhPOHJvRlJMVnRfcjNoVFZRQXZXNVZ0TDZDZXl3LTJKRGhoaGdlUFJHa00zczB3eTQtamJqYTB0S3Y5SXpSa1RfdXkyOVRTVjVXX1cwT0FsT2NQWjhmMWs3T0VHd3Rv?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQXZzOE5ZNGp0WHJUOEM1RjVFVjdoNnl6V2Nfb1hUcEdUcWVVczVNallpY3FibXFYOC10N2RXVTYwTlUxMXRzSENGTUU3aUtUWTU4ZC1XNjVHa004Q1duXzg4SzdqSjlE?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OX0tSRFh2cE9kRkptOHk3R0h6SWQ4YjVYMmNycFJsSFd3c29MRFBObkNyeEtOdEhIMjNIRTBxRURCWFNuY0EwRUg1MEVhdW1qOTQwWjJ1RVJjS0RmYjJQRXIwWE1RVFVn?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5SFpPeE1PMWprTnJKMzZRYmtQWENpZkxuOVZ6RFJwTW9Qc01McDNPdjFwR29JNGVsQlhyZGtNMlR5aHR2UDFXVjFYV01HWi0yQk5YbHdIR0FTQ3RlMVFOeHZpNkxYYXE2?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0ZmlQVU0zR2V5THVwd0JxNnJSY004OEhPOWVfWTE4YzlrZFJCN1JkajFvTTdySjJQQW9EUVhUMkIza0NEczVqZzNKdEtGQ2JXQUVHRFBLWnpYSTFFcF9mSk90X3lwSlYt?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LMm5lS2FGVXlYTHQweFhydFpmaDFZRjBIcmpJOF9uczQ3bW0zM1Y2dHYwd2haOV81RnNqRVpDVDl6eEtqRnBWMFlGcEpKRzFmVnhFYjhaRU5RQXhQajJmR3lKX212Z3Q4?oc=5": {
+      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - jiji.com",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lMHRlc05kN0RIaVliNzFQRG1SM004TWVmRDFWQVZLVkJ0aG9qT3RHbnU5MjdwYUZ1SU1LT2diODF6MUV6NGNnakYwR2ozeE9tdkQtOC1tNTJtV01qVDNZMWFzSi0za1NDSC13?oc=5": {
+      "title": "ＦＰＴ、Qsol株式会社と戦略的協業に向けた基本合意書を締結 ～九電グループ向けシステム開発・運用保守領域で中長期的な協業を推進～ - jiji.com",
+      "company": "九州電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ERVNCLXNNU0VmLUNxZXQ1M3NxYU83UXZSSDlaNUk2Q21TSFd5b3o4dzgwV0cxUVl6NGxpcWt1RXVqeVhKbFZuSVJVOElCWXhjaWJCUER6bnhEWWh6U1ZqY1Iyemk4MXp6RktmTw?oc=5": {
+      "title": "みずほ銀行が助言した組織再編「行き過ぎた節税」 大阪地裁が認定 - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcURaM20wbzJVb29iZXJ3YU94OE0tLWNMbzFTUFN3RkJUSnlQUHRDcTIxbjRkODVTSThmNmNQVXV6dERJX0NZZ3FhTEVGakFoRWdneUUzQy1wQzdQNE9qSDFpd1VTZEJSWWo4?oc=5": {
+      "title": "JCB、「第64回 宣伝会議賞/中高生部門」に協賛 - jiji.com",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-08-07T01:00:48.882204+00:00"
     }
   },
-  "last_updated": "2026-08-06T14:02:41.431429+00:00"
+  "last_updated": "2026-08-07T01:00:48.882858+00:00"
 }

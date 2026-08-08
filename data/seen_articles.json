@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91MWtfeTNwazRSR29BQ25ScnVnZEJnTXU3c2RLdnhpbFZ4WnlXajEwYWNwdm1iaDNDTXFBclRXTGRhMm1CRnJwQkNwSmlSTlRwanJaOFNTY0JjRHNo?oc=5": {
-      "title": "「京都中央信用金庫」のニュース・最新情報 - 日本経済新聞",
-      "company": "京都中央信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T13:15:05.183371+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVFNwRnlUWU1mX1ZsSjZkWVNxQXU0SHZFNWhJcHhHWXhkMWd6MFZZUVlMUUZYN0pxQXRTdUY5SjdOT2F2dV9ab0kwcno3MnpWenNYVUVXMXdGTm5GRFF3b1ZyV1ZMRC1BbjZKUA?oc=5": {
       "title": "【札幌】エム・シー・ヘルスケア 医療機関向けコンサルティング営業（既存顧客）三菱商事グループ - 日経転職版",
       "company": "三菱商事",
@@ -3605,7 +3599,31 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-08-08T12:42:27.889796+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVVTSkpVbmhRTF91d2loLVMtdXNzeGlIZ090cElXSFd0QnhaMmV2VWpyaDJ1LUw5VVpVS2d3U3o1dGthcTdPb3FNV2p1a2dCdXFrMWxaZTdvWHZuZ2RYTmZ1Rmo0bk9vR3RNdjB6dUJIMVRSazA0dUFZRUhkaGdIVDdIZU9lVlU5dlRJNmx5VmlRZw?oc=5": {
+      "title": "ミツウロコＧの26年4～6月期、純利益7.3%減 通期予想据え置き - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-08T21:24:28.401429+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTV4TUZ0Mk5NWjBBZ2pIR0lOTXZESVNWLW9VSGp2U3NQX2FJTzV1bjFHY2RsS1JRQXVERUc1Q0x0SlplWVA5TGF6cm1LVEt4czB6eVZ3anVKQW5aQk44eXRSbTJzc1VON1NqTjE1S1h0UkcyUF9vYzBLeWNVMjlPaDgzQTdkbDBJOHNQdnFLR2xmdw?oc=5": {
+      "title": "京三製作所[6742] : 京三の26年4～6月期、最終損益は3億9800万円の黒字 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "京三製作所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-08T21:24:28.401429+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ckFOWWtJMTYteF9LVzZkWEZPdTBtZ04zUWpTSVRiRmJrU1U3blFFMzZtVUYxblczdWxuakdRbzlBc2ctX09MeVlQUE1idUVtUERZdWdETVlDSHNyVjNETVpWMFR5MUpTOE8yeg?oc=5": {
+      "title": "関西電力、大飯原発3号機に異常 原子炉を自動停止 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-08T21:24:28.401429+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ERlBFVzJKOGpfU1NLVm94QnlsNExpVHpTSnZhRlpWUS1feURTLVJ6cm9PVFFSMGxEM2d3M01jaGJYcFhMWUZGZFBNb0xjWlFYNUNrYVdzUDNQV2RkUFBkWTFyVmk4SlNJam1Vbw?oc=5": {
+      "title": "石炭火力のCO2初輸送 関電や川重、地下貯留にらむ - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-08T21:24:28.401429+00:00"
     }
   },
-  "last_updated": "2026-08-08T12:42:27.889996+00:00"
+  "last_updated": "2026-08-08T21:24:28.402099+00:00"
 }

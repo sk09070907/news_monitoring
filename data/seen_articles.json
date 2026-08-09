@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UNnpqZmdkZk1UQThUQl92Yy11WlhLVEZPTlk3XzA4aWVtZjZfd0RkRS1NZF93Zk4yamlFVURST1hvMzNPN3ZmX2tvZW5JeHVMN2dKelNOaWlVaGR3UFJXQkcxMWlLRXcwWDNRaw?oc=5": {
-      "title": "「イオンモール宇城」で男性客死亡、天井の下敷きに 熊本地震 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-02T13:15:53.315703+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkcVRpeVNPeWFFTENPTDZtN2dORV9EMkxMM2p5ZVF1dTJzOENoM2plVWVYTGdhV004MXpVSHV1Q3FxRXZiT3VyRjNUZ1hUNFM5UTc3WQ?oc=5": {
-      "title": "「イオンモール宇城」の男性客死亡＝崩落した天井の下敷き―熊本地震 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-02T13:15:53.315703+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaazBvY0VmTlpQYlZQNDZpaTZ0dXNPVS1fUnlucTRLM3ZpcGxTd2dJMTBJOTJjVGEtYXU2ckppQmN6RGd5Mms1eHVOSmNKdlRhM2VYZ0VCelI0ak5vSEtibFNYMWZJbjcyLXpGblZB?oc=5": {
       "title": "エンタープライズセールス【大手ゼネコン担当／フレックス／三菱商事グループ】 - 日経転職版",
       "company": "三菱商事",
@@ -3599,7 +3587,85 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-08-09T09:36:56.225270+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE95SVUtMzZhQ1ZCZDRxdEt2MXloNGIyWkNxVXFRMHo5OUUwWDlhN2tiQ2xFdUhoZ3VLS1pIcGN5LWRZaHhwWDAzQjUyQ2w1R25JcUdzV21MTUVQaUx4MkF4a3VyLS0xMjJiVmV1dl9WTTdlQjNzclB6dlU5enhRU0k?oc=5": {
+      "title": "三菱自、三菱商事と薄れる関係 読まれた記事〜経営編 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYnhfYmNQOGdVd2hiTXo2U2FacmF6ODZnNTYwaXpmVDhkMzJTX3A5Q1ljN0l3cjVaSXk5VlJ5M3dmU2pFUkhuMllSMmpJdnNWakZKVzdPVjVSUXoxZkNBbFlyTTNJdXFheUxWSg?oc=5": {
+      "title": "中央アジアでデータセンター競争 NEC、豊田通商参画 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3NXdWQtNG1FdjlQb1VEczlQLTdxTjFhMVJpTF85UXFhbmRRdFFESV9xNjBaMFFXWDNlM29kVU4zQ25RZ3czT2s1Qm9FUGd5bk9yM2t3bkV2aUtKNGNkWUZ2XzZEbVNZRzF6Nk94dlQ3VW4tbHJIWk51Ty0zUUFRc3dQbjg0bFpNdXZRenpKeDR2Zw?oc=5": {
+      "title": "広島ガス[9535] : 広ガスの26年4～6月期、純利益32.9%減 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "広島ガス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE95OXNwZ0NKUUQzX21RTEFhZWRlSjdsUnp2czAtbEF3RmZOUUVBUGtETlZBX2lzNnA3MVZsbUx5VnNTdzl6STdnTFdHZTlUQjUySUVzTVItZFk0RS1RVHhCZXZNOXhIa2dZME50WDF2Y2xmbUpzRlhYLWZhT0tzV2M?oc=5": {
+      "title": "今こそ投資にアクセル 「トヨタ新体制始動」まとめ読み - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UV2Fsdkg5YTVtWm1Gampsa3RKR0dSeW4zOWUtM3Jza0lHVDV5b0pZRldVUnpMOE9UQXpjc1hBcnNiLTNjeFlwWmJoOWlYMGMyT0ZBTktiZmYyd2lTcUtYT0lqTWsxWGs?oc=5": {
+      "title": "国内完成車、部品の品質に共通指針 トヨタ「忖度の壁壊す」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZF9PLWxMUFpsS0REbmhUdm5iMHBhU0lGSXY5RzJ3RUVFY1ZQRUdkSzlvU2g0SjlQcXFGM2oxX2h0WURwd3lqQlZMUXZnN0VfaEpLWlBFSTU1TmxCZGs3dWpzUVo5V1k?oc=5": {
+      "title": "トヨタ、液体水素と超電導モーター レース車2200km走破 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Pd3NtZzZlQUhoTllCVGNnWVNIZmJLUHQ0LUV0VmpMTHpublVnMlo3bUJMQmoxUFdGTE5ycVc4bUdobUg2OEt4RjFrY0hUM3I4azNKVHB0RFRZOG5HdVUyS2NvSGlPU0k?oc=5": {
+      "title": "エヌビディアとトヨタ、AI・ソフトで協業拡大 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11TWNPY3JVeE9LOHUxaEtodW9QUkN4bEVMUEVvRW91SjlBN1lHUWVrTGR4YWdic3BKYVpuOWZsaTdMT01ybHBtQTRITThUVWlDRlNISTFjZmlSSWFoblcyUFYyMHJJdzg?oc=5": {
+      "title": "スバルがEV戦略見直しで混流生産、矢島工場「トヨタ方式に合わせる」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LTUdzY0dMQTRiVHJMaWp6LU9PYjBMX19HbU0yQmc5MFpjYi15bUY4U25oSlZtNUEyV2d0UThFVGVuZ0ZqQmVpWDI5OEx3cnk1MjFXR2swVkV2RkJuQzlkOGgyVDJ4S28?oc=5": {
+      "title": "マツダCX-5、新ソフト基盤にAGL ADASはトヨタと協業 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbENRUFRINUNYMEc3eXpfMFo5bUdaRHMxUXc1dE16ZWpjaTZXTVY1eEcwYlNMZm5vX2ZVelN4Y0FyS2UwQ1V3cExKbnhCcEhqQU51aUp3U2hpYlRxdnlDeG1UMUszVlU?oc=5": {
+      "title": "アイシン「精いっぱい」、車部品14社の中国生存競争 - 日経クロステック",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkNwY09qSnVESU1YbmU1aWxBV1M0dmNmQnRWdWtCTEVVQU9TNmVwVFlPN2htdDI2UktPdUpKN2REUmZveDRrZEV4eHprTXF5UmVMN0lSYktVOHF0RmVrcUNjUlJ0WkdPN1dfbkZibEEyWWp6Q1Q1S1N1RnRwbFBERVFPeS1XLTZZQ096elltTVpubkdm?oc=5": {
+      "title": "スペースX上場、「ご指名」受けたSBIと楽天 - NIKKEI Financial",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSnlKaldqMjJTeGwzMWhmQ2VQWEhCb1pDZVQ1OUE3OTc0ZmhtYkR1Y04zTDZJUERucVYzd01DWDFTWnI5bzBUYlJfc2JFeUNETkh0VV9taXA3T3ZWLXBWNHJiR2NtOWtaUGxPOQ?oc=5": {
+      "title": "イオン爆発の法的責任は 専門家「危険認識、対策怠れば刑事罰も」 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE91N3dIbmxnNjZlMWFRYWp3S1A3OXFpS1RVYk9sbW1VcEVqcWxTS2d6QzVaX1hwMzg5SEhoalgyNlFKY2lrVHhLb01XRXBSMldlSzUtVGVzWThDZ3czNWVaMV9rOUJsNzMtZDFFTg?oc=5": {
+      "title": "組み込みソフト開発（リチウムイオン電池）※先進技術の開発案件！ - 日経転職版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T21:26:18.148954+00:00"
     }
   },
-  "last_updated": "2026-08-09T12:44:19.651673+00:00"
+  "last_updated": "2026-08-09T21:26:18.149515+00:00"
 }

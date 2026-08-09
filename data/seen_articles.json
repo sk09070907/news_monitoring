@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VnlhR1cxT0FheXlIV0doVmpxY3FHY3J0WkxBUzBXdUYwa2xfcE1YVi1BNGxwSWQ3M2dxdXh2S2s0anJLUGttODk0NU9EYUxZcnhzbEswVVdBZV9vUDE2QURxWUhlUHRVRUM3cg?oc=5": {
-      "title": "【戦略事業コンプライアンス支援部 法務支援課：法務担当】★楽天シンフォニー株式会社 - 日経転職版",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-02T05:57:14.844650+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cnRJNHZaS0IwNE9jNlVDdDZ2NVlDeEQzekR0QUgteDRnMU41enYxa2p4ZDd6ckdLbld5aVotdFpPbmJNWlhVa0xYNDJhZDZRNEVxQTBLVjFQczRQYjFib0ljNHlKNWJKazJCRQ?oc=5": {
       "title": "【千葉/幕張】環境プラントの操業・維持管理業務/JFEエンジニアリンググループ・福利厚生充実 - 日経転職版",
       "company": "JFEホールディングス",
@@ -3605,7 +3599,31 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-08-09T04:16:42.563076+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNakQ5X2ZsTUVtMVduNDI4TkNhdGl1UWQzazJMc0QtRDk0RFQtOHdDcFN5aFlnUDJXbWladWRZa1h0eFpId0Rld2c0eFBYOEt4eWQ5bjJtNlFxRDhMd2M1elhmTG1MeFNPTVg5VEdrVFZUZVpCQlQtd0IzbmxGWnhnNg?oc=5": {
+      "title": "大飯３号機が自動停止 発電機関連の警報、原因調査―関電 - 時事ドットコム",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T06:52:53.403657+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UVVZTHQ0aWVZSlREVndYVkU3YVJiREZyYWVRUm44Z3VUZHVITGVkUXlIMDZtT1BuQnNMRGs1VEJkWFoxQ3lwcl9IREt2cEJVS2NlUmtNVTIxRkRUZTZET1ZBaVFvNG9WWTZpbFpVRQ?oc=5": {
+      "title": "大飯３号機が自動停止＝発電機関連の警報、原因調査―関電 - iJAMPポータル",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T06:52:53.403657+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZk1IS2pYOUcxVl82aDlkZzc5LXdNZjhxRlpqcFVydkNqOGZVLVRQRDZTY1d0S0dfN2E4ZWZWc1VjTzVvM3NSSnJuWDdNTHZLaEE?oc=5": {
+      "title": "Orix Pitcher Yoshihisa Hirano to Retire at End of Season - sp.m.jiji.com",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T06:52:53.403657+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53MHhpV3hHNWt6SVlWMi02dE5GWjIwQ24ySHN1YW5MTHRPcWlTOGs0QWluWFF4UDN3TFNMM2E5RVB3dHVkd01nZmZibUJBNU1Dd1BzelozSEpiTnpZZFpWeEY2RDU3WVpUSUttdzBUaw?oc=5": {
+      "title": "平野佳寿投手、今季限りで現役引退＝４２歳、日米通算２５８セーブ―オリックス - iJAMPポータル",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T06:52:53.403657+00:00"
     }
   },
-  "last_updated": "2026-08-09T04:16:42.563372+00:00"
+  "last_updated": "2026-08-09T06:52:53.404109+00:00"
 }

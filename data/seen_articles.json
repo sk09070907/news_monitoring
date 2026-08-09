@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ha3JrSl9mVEx5UGR2X05HV3RuLV9iRlJlWG5MUWtsTVZyRkdqV0xtQkJKM3haclQ0YWVQWDNTRGFzcF9mM3gzVVFCa0JQU2hZOUZxdXJvV3ptMkVqbmxuREhjMEtqNGYxTmsyTQ?oc=5": {
-      "title": "【豊田市】設備・修繕工事の施工管理～アイシングループの安定&ホワイト環境 - 日経転職版",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-02T02:34:05.914697+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VnlhR1cxT0FheXlIV0doVmpxY3FHY3J0WkxBUzBXdUYwa2xfcE1YVi1BNGxwSWQ3M2dxdXh2S2s0anJLUGttODk0NU9EYUxZcnhzbEswVVdBZV9vUDE2QURxWUhlUHRVRUM3cg?oc=5": {
       "title": "【戦略事業コンプライアンス支援部 法務支援課：法務担当】★楽天シンフォニー株式会社 - 日経転職版",
       "company": "楽天",
@@ -3593,7 +3587,25 @@
       "company": "関西電力",
       "source": "時事通信",
       "seen_at": "2026-08-09T01:27:53.110962+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SaEFJUk0xR3hncGM4UEljS2FISFo5Smd2c21RVDFlb1ZxYlBXVFBlM3Z1RVNBaThhRkxXQkYzUWJ3R0RrMG1faGRFdHk0RzRrQ2FZVEZpR0FCekZMdjZQVHR0OUI1QXNIRzdqQw?oc=5": {
+      "title": "鋳鉄が生む忠実な音 アイシン系の音響器具の「レクサス」が人気に - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T04:16:42.563076+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wcU9qSW9oNHhWV0tkSUZmYXF1SUV2b2JlcDUzcjVSd2JRWkdLa21jQmVXWER6NGVpckt2d1RlNmo5eHdKa1JSZGg3eF90d2tlTWdrSnlUTEVSbGlEUm5HeWd6WQ?oc=5": {
+      "title": "大飯３号機が自動停止 発電機関連の警報、原因調査―関電 - 時事ドットコム",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T04:16:42.563076+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSXRsYjBFdFBRWldaZnNWeS1FcmpESElYWVZxcHNBeWZIcGQtMExpSFZYVEhTd2M0NklCVzhoSHlkQnNqUXM0SHAtUnRzNVd2UHdaS3h4eVdWc1RzQWc?oc=5": {
+      "title": "平野佳寿投手、今季限りで現役引退＝４２歳、日米通算２５８セーブ―オリックス - 時事通信ニュース",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T04:16:42.563076+00:00"
     }
   },
-  "last_updated": "2026-08-09T01:27:53.111531+00:00"
+  "last_updated": "2026-08-09T04:16:42.563372+00:00"
 }

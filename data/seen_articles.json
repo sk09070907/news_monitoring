@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cnRJNHZaS0IwNE9jNlVDdDZ2NVlDeEQzekR0QUgteDRnMU41enYxa2p4ZDd6ckdLbld5aVotdFpPbmJNWlhVa0xYNDJhZDZRNEVxQTBLVjFQczRQYjFib0ljNHlKNWJKazJCRQ?oc=5": {
-      "title": "【千葉/幕張】環境プラントの操業・維持管理業務/JFEエンジニアリンググループ・福利厚生充実 - 日経転職版",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-02T08:21:09.925772+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2M3NJc2ZGd29NeERDcHZwMHAtRGJhNGVsUUhLOWtWYUc2TW1RdjVTQ2hTT3VnbDVvTFltdjliS0RlaGFSVWI5VGJ3ZFAxcm9CTnVCSU1KRVdDNG5zUjlrWWRVMUhScDFaUFNSeA?oc=5": {
-      "title": "【大阪】システムエンジニア★富士通×関電Gの安定基盤／離職率4％／平均残業17.4h★ - 日経転職版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-02T08:21:09.925772+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhT3VGeC1yOC1RTkJrcWZEeGZGTjdWUmF0dlppal9WbENrTDZsblZETDlxdHMxTjhNNUpjWjRpV3pxTUVLczQ3NEhtdTM0aTFDT3pRSE51d1otcG9FbHRWRGZOMA?oc=5": {
       "title": "【栃木】店長候補（楽天モバイルショップ直営店）※全国採用 - 日経転職版",
       "company": "楽天",
@@ -3623,7 +3611,13 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-08-09T06:52:53.403657+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEdXk5NHdrcUJ0TkotbGpZUVZUamIzZWVKYzkteFNNUUk2ckszeWsxdEN1OHJEelhENXFFd2pqbXVkM3VlcXZNWFQ5LXc4OHVDN09NVmFPM1Yxczg1ajlYRzlXWDI?oc=5": {
+      "title": "画像・写真：イオンモール周辺を警備する警察官：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T09:36:56.225270+00:00"
     }
   },
-  "last_updated": "2026-08-09T06:52:53.404109+00:00"
+  "last_updated": "2026-08-09T09:36:56.225683+00:00"
 }

@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVFNwRnlUWU1mX1ZsSjZkWVNxQXU0SHZFNWhJcHhHWXhkMWd6MFZZUVlMUUZYN0pxQXRTdUY5SjdOT2F2dV9ab0kwcno3MnpWenNYVUVXMXdGTm5GRFF3b1ZyV1ZMRC1BbjZKUA?oc=5": {
-      "title": "【札幌】エム・シー・ヘルスケア 医療機関向けコンサルティング営業（既存顧客）三菱商事グループ - 日経転職版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRk9KUkZhUUY3aVR0MWl0c0NITlppOGZSb1VXeUsxTlk1QVdoTEp4TnYyeGVZMEpral9Qd1pJN0pxUWh6ZUlrYlVPQ0t1dzlMTmxtVDdHRFNhbWluMFVrT01telhmWlFKZmNfR053?oc=5": {
-      "title": "【リモート可】リードエンジニア（建設業界向け「グリーンサイト」／三菱商事100％子会社） - 日経転職版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lTDl5blpuSG5YcV9iZGRiU0N5cU5aaXRHRTc5bnk4eS1JWG5JZ0Q3UC1yd2xhSWZ0R21xVmtiSFVhMmNYbllybkp5ZVgySTM5WVlNVGNqNkk4UTFFLW9KcDY2N3J4eHZlREZ1Qg?oc=5": {
-      "title": "【鹿児島】維持管理 ◎鹿島建設G/賞与7カ月/福利厚生充実/U・Iターン歓迎 - 日経転職版",
-      "company": "鹿島建設",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiNTR2Q0ZwamxQeVhiYmdheDFYTXN3RnZxNURqX2tXZk9yemdkZmhhdWtMd2hqTkhUMDhCb19IZ0pIbWVFMkVtdEllSFB2VlQ3enUyTEkyWEhWSmpDRjByQVkwYWRmQlBUN2tEQg?oc=5": {
-      "title": "【愛知】オープンポジション※公害防止管理者の資格をお持ちの方／アイシンG - 日経転職版",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vLUtxUkJDRnhFTWZha2ZHYzdOQ1Zlem10eEpua3ptUHFRenNPUldsdUJGQkxCZlgtV3otS3ZrS0IwdkJrVjhRSVM3aDgzMlZtRWc0d2l5djFKTnE4SDJySWpudTNQdWJMVHFQeA?oc=5": {
-      "title": "イオンモール捜索終了 爆発7人死亡 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaDg3RkNrLWZJcWIyaGtURGhwU0VpOTRicHZtOWpKQXN2dWtzMFFUWHEtNGx5S1NpSk9LbDlQaDdwRlUtMDhsT0djenUxU3NJU3h2LUNaZjN6Vk5raHhIRWVpTDVRR1Q5bWlfQQ?oc=5": {
-      "title": "面接１回【神戸】設備管理／関西電力グループ／夜勤や宿直なし／残業20h・年休122日 - 日経転職版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JbXdpNXVkY0dyQkdBcnlWUnI4UkluNHg1ejFsWGgtQ3gwSGExZnNaaWNhdzZvTmdIajd4LU1leUgteG5TTEtoMWZIWDhOa1FQZTBHeTY4cXhXVklZOGZ3UDJzYkF1dzNxLXZLcA?oc=5": {
-      "title": "〈大阪〉【三井住友ファイナンス＆リースの子会社】未経験からなれる法人営業職 ★業界経験不問★ - 日経転職版",
-      "company": "三井住友ファイナンス＆リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-01T21:50:25.348481+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ha3JrSl9mVEx5UGR2X05HV3RuLV9iRlJlWG5MUWtsTVZyRkdqV0xtQkJKM3haclQ0YWVQWDNTRGFzcF9mM3gzVVFCa0JQU2hZOUZxdXJvV3ptMkVqbmxuREhjMEtqNGYxTmsyTQ?oc=5": {
       "title": "【豊田市】設備・修繕工事の施工管理～アイシングループの安定&ホワイト環境 - 日経転職版",
       "company": "アイシン",
@@ -3623,7 +3581,19 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-08-08T21:24:28.401429+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oajhhNEtVdERHY0hySFlSTi1HeTExZENqaVVrXy1kLXBVdWhlU1RhSk9FWUN5YXhFaVF0SW9pbUhBT0FRLW11eTYyblVFYkdpY2hlemZxWk5PU0wwNDJVSnhjS05fVXhyRWFSMkJ3?oc=5": {
+      "title": "次世代設備の電気制御開発エンジニア（制御盤設計～立上げ）【佐倉】◆フジクラ成長領域／老舗の安定性 - 日経転職版",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-09T01:27:53.110962+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCM0tNSVFra0Uwd19zTDRHNWlFSFdaXzZxYnZlVm9ZU2VFNkU2TTVkc01zemc0NUZlX1BGWXgyRjZtZGZXM24wR21BYngzS1lhM3RmdQ?oc=5": {
+      "title": "大飯３号機が自動停止＝発電機関連の警報、原因調査―関電 - 時事通信ニュース",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-09T01:27:53.110962+00:00"
     }
   },
-  "last_updated": "2026-08-08T21:24:28.402099+00:00"
+  "last_updated": "2026-08-09T01:27:53.111531+00:00"
 }

@@ -1,287 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBibEs3cHBXZktBY0xhcDVWTE9IVjl3czV5VTRvc1E4VWRSVjlDcjJHbmtaR3ZBelJXMTVLb2JXLWtvWlpNZVZ5R0VlcGwwYlJteFBNR21UV19WbktCRktBOW12S014SkItLVE?oc=5": {
-      "title": "伊藤忠商事[8001]：2027年3月期 第1四半期決算短信〔IFRS〕（連結） 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE10M0dUa2VvcVJVT0RlYzNCQXJ1WlNXNi1VUjBBZERqOEdpb1FPZ3dNakI2U2xoa2p1QVdEem0yUDBndXZuS0w0c2JUYXFMRkNOQS1ZSVg5TjJnSTZIamppMXRRazJaUGRmMmlERQ?oc=5": {
-      "title": "決算:伊藤忠の純利益3％増 4〜6月、自社株買い最大3000億円 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUa3RlcnN4a2p6aTl2Zl9fYi14U2d4c2IxZE5jaGp3N1paVTlEengtU09XUkpYaXh4Nk5seHVUR29CVk9xTmVicVRUTWJKY3lGZEVSU19OZE4tcDQ1OUlWUjVwa2x0c2FpWUY3Xw?oc=5": {
-      "title": "NTTドコモなど､茨城･ひたちなか市と協定 フェスでスマホ決済 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mSnNsejFmTk4tczVibDVXRU9ib0RDNWZTcU5na1FxbGFCcHZ6SjhkbzdodWswSGJnc01JOUVQN1pXTmNCNjNiVkVsNmRSU0d4bWpSZmNydy0yR3RrYVNDQlpKYkhFcG1zdl9N?oc=5": {
-      "title": "OptQCとNTT、光量子コンピュータの実用化に向け新たに資本業務提携契約を締結 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTF6T3BHTzlOZFN1bG1RbjBXWW9OMlBoc2ROMnhqV3Q4bDJQRkhZZ3ZFSl9XeW9vcFNCOXZIdFJjY2NhYlQwR0dsZkJ2MGtldFdhT1BmWDNJUTNwOXFzTm82MWNodGlBN2NGWHJRdk5od3JOVnlLLWZXSlVvSEpURGRSMGJBYm8wQ1lkenFvZElGUndVMXRnSnE0WEJza2FnbEZRMXAxRjNlaTlBcFJmUWt4S3dRZ1VHMDlQVWtxT2RScUVtX29kZGs1T0w?oc=5": {
-      "title": "ＥＮＥＯＳホールディングス[5020]：自己株式の取得状況（途中経過）に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rcmZEMzV4TTJTLUJJZEpwYkZHTVNaUTlwQV85cVNRVHRkQlR1WEV6dW1qQnQ1YUJVTXFqbVJXcWVvSDNseVo5VHNsVWZQaTBfeXZxODlMSWtVNnJCZm9vZldpQTdnYnl0cW9aMA?oc=5": {
-      "title": "決算:日本製鋼所の純利益35%増 4〜6月、価格構成が改善 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxd01Bak5mQUtRVG5XVnRESnBkaHpQZGV4YXNPbW9hSlNqY1o5bG9oeWRtZUtuNDRHbXVfT1JZUFNBSGN0VEZuZEk2WEpvbDZxOHdVMS1Ia3BEdEZvYW5KMlAyekhVLXMxMXc?oc=5": {
-      "title": "日本製鋼所[5631]：2027年３月期 第１四半期決算短信〔日本基準〕（連結） 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VDFNSG1XUUNuX2x3RG1zMXRsb2E0UUJUQWJ6eDAtSk9SYS0yNGFScHByOXVpUXhSbkxWdnJHTVBfdXZfUjdYa1kyRVBiQTgzUzRZeHRGck1jQTV6a05FbnVTbUR0WEpEbmc?oc=5": {
-      "title": "三井Ｅ＆Ｓ[7003]：2027年３月期第１四半期決算短信〔日本基準〕（連結） 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井E&S",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MWktqdlNJUENSUUt2RzJQemJEcXdPOUpPZDJjbFVkbE5zUldNMDJES3QxTzJGTDVxRjJkekNONEd2aDBKaFJqMFJZNXl5UjBmejdIZ2pOOUZ3cGU5MG1aVGFZT1N4TGl2U1E?oc=5": {
-      "title": "三井Ｅ＆Ｓ[7003]：2027年３月期通期連結業績予想の修正に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井E&S",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2FuakNtMHlHX1lGTG9NemFEWnlocEFaeFVUYUx1V2dXNC1xRENDUDdTVTBTeEVKUDIzQ2JDaTZaSjF5NmZJbEFLQnFVRGI4dmlFLUpBZXhxNHNFTGhNNFUzb0N5al84TmVYMXh6YU01WnktUGNtaWNhZ25tNS0xSnpya1UzNHUybFF6aEhsQmR5dw?oc=5": {
-      "title": "三井Ｅ＆Ｓ[7003] : 三井Ｅ＆Ｓの26年4～6月期、純利益13.1%増 通期予想を上方修正：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井E&S",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRE9yekd0VktuWjNlVWw4Y0hwS3Q5TUIwYjBkX0NZNjNXLThUUjlqbDNtR2lOOTBvWWpWbVVOaHJ1OFRUTWdYRWhLeFRTdHNEZHF5eE5IZzhZV2lZbTM2S1ZKSzRDcGhlbWc?oc=5": {
-      "title": "三井Ｅ＆Ｓ[7003]：2026年度第１四半期決算説明資料 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井E&S",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeS1kRWtXOGlyVzFNbFhGR2drZTA5WjNwdDZha2dGZkZSbnlZYVNYaHhXZWJBUzNyUC1YemRDOW1BM3RadlNsRS1aZkhtMDZJY1pyMm1qSGJNeVp4aWZwZi1JODFfRGl0VzU0Tg?oc=5": {
-      "title": "「ボンドロ」シール、トヨタ自動車とコラボ ファン層広げる - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UmUtQ0MtcWtyLWlWX0xuaHV1SUI3cDhzWldBOTA4S1I1TEs0LVBiLWdmdzRnTGpQMUUwb2U0STNIbGM0RmtGYnEzTFYtUVVpV2syc2RoTW1CMXhmeFduZ29rMmZNRTYyVTZveg?oc=5": {
-      "title": "アイシン、熊本の工場で一部生産再開 ラインで安全・品質を確認 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nWDJHYzBmcmFFWW4xbXRzNWJaYnQxa1gyX05wZlI1TTNXZER1MnVnQURyd0ItOElxa0twMVVhZTNTZWl1cWFUNkp3czlTLVF1anVsaDlIb3ltZnFqcEx5NFV1MTkwajhseENv?oc=5": {
-      "title": "長野県 飯綱町 楽天グループ株式会社と包括連携協定を締結します - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aejRJS0gzRzZHM1VEMEtaZ1ZxYWU4cjQ0T0ZvNXc0ZkZMN1B4NkRrM3pnMEpYQmU5Nlg3cmk5ZkFjMy13VU5Idi14VHNNdjlaNWRpenBMNE5DUkYwcEVQcEphUGZ4M09ZdjRn?oc=5": {
-      "title": "ジェイフロンティアと楽天、オンライン診療および服薬指導の普及定着に向け連携開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zOEJmNHcxUVgwWlRoMEJTTVRBUjZLTElDSC1mX1ZKakkzSWJvc1pMRV8zWkU2X0VuZ3BLYndNWVFhczJXYk9UQl9EM0wxVy1ESktucmdiNFhvQXY4Q1FobXFfNEloWmJqVjlv?oc=5": {
-      "title": "楽天インサイト、より多くのモニター参加と、さらなる調査品質の向上を目的にアンケート回答画面をリニューアル - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWkhvUVR4VTdkMWx0UUl2SHpnaHB1WTJYY1lnNXJqVGxFMEEzc1lCaXNyeEVxX0ktNVdIakxDY1UyZW1rako5NzdvbzRCd1RITGNQTWxhQ0Z2VEtmdVUwQzJlUU91eXd2UTBkeQ?oc=5": {
-      "title": "福岡市、熊本地震の支援職員が帰庁報告 イオン事故「経験ない現場」 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWHgzb1BzVlBmMzY0NTJjVTh2d1FEdXVGeTFReE1vMVVhYzh5YXlMaHV3bmtDRGNKQmJCNExURVhuVS1kamNweUhzYmJ0Rkw1QlBqd2FqMEowald5SDZpT0xkWHA5RjFpU1NkWA?oc=5": {
-      "title": "イオンモール爆発で犠牲、大竹さん葬儀 「心の強い大好きな先輩」 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QM2pxQVZCNU1oUnl1bVE3VlBkekU2ZFFnX2ZvcXZ2TTItdDN5cm1DdVROU3g2NmdXVFozY3JuZUFoSjdVQkNzMWpXSEQxV2JMWnJyOFY3N0VPLU1XbTFrOUdYYXFrSGNjYVctVA?oc=5": {
-      "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5": {
-      "title": "避難後、戻るように指示 イオン爆発で従業員２人死亡―所属会社が謝罪・熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZOWp1YzZjaFo2NlJNUXFkQXRWRFNZVDNYWi15SG9kX0sydU1WSDVQandXcjc0RFVBdGhmektKLXROdFdwcUx0LVJHWjhSMXRUWDJab1RLMlR1Tnc4U0RBZlpFOVpsamlHVUFaWnQ4MA?oc=5": {
-      "title": "イオンモール内を調査＝爆発の原因究明本格化―経産省など - portal.ijamp.jiji.com",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUJoc1NSZHptd2lYUFNyYmpPTkJoMXM5eHpCWkpka1k5VXJSbWRBVmF3SC0wN2pMeER5NWtxd1RvZVhuZlJEcUxkT19wb3NYM2tCM0pnakctRXBGSVJiVm12U1B4RDc4bGJKbHVPRy1HdlQ2QWhmS1RhZW9MMXM1RDNB?oc=5": {
-      "title": "避難後、戻るように指示 イオン爆発で従業員２人死亡―所属会社が謝罪・熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11d2FfMlBhdjlwUkVIR1U5c2hkbWwxUHBVdnJaTDEwZEUzSU9JYVNDbW1QZUF2dGVfNlNic3plU0p2dC0wTEEwUklqc2Q4RHpIbVNyS0o5aE1FekdZdHZPcGE4NA?oc=5": {
-      "title": "イオンモール内を調査 爆発の原因究明本格化―経産省など - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5": {
-      "title": "避難後、戻るように指示 イオン爆発で従業員２人死亡―所属会社が謝罪・熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE40RS1jMGFQbFdXZm93NkEtVnh3d3FpcTJpdDJsU0pUQnI4STctMWQxSUZXdC1yREQ1V3dwMmpGSU1XT2RSbF96dVJhSHo0NHZmQzJqdnJ3N3daS3oxRnhXLU9ENE9HSWdQQ3FF?oc=5": {
-      "title": "QuizKnockがクイズ制作を担当！ 「飛鳥・藤原の宮都」世界遺産登録を奈良県・近鉄・JR東海・JR西日本の4者で盛り上げる！ 「飛鳥トラベル」日本はじまりの地をめぐる旅が開催決定 - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GSlFQS1o1ZmtTSS00dXhMRG9NcmoxbTlEU01qQjR2b1l3SVQ1OHhIMHZnOFBZSHZVN1ZBczJvc1Y2ZlRUcVhSMUMwSkNid2lDSWxqSmlTNjk3LWl5eng3TVdFU1JJdGVuc1kxRg?oc=5": {
-      "title": "西武HD、軽井沢町のヘリ実証に参画 空飛ぶクルマ見据え - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lYjVHYlF1d2piYmwxLWJJbWRGVV9tR1lXQVJTbjVxeHJlTFlobnJNTG5RSVZweTJjRFpIRHA4dlBOV2FnS2F4aDdQYjE1NGpHX29mTmkxdlRPRXdCV29BYkM2WjduSVJ1bnc?oc=5": {
-      "title": "商船三井[9104]：2027年３月期業績予想（連結・個別）の修正に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jc25MZjZPNVVfV29ZdXZtZG02N19FRkNnUVlIZ0FnbDlFV25iME5uTF9mNVZFV25jSlNaTEZBV2xqQTNPUmFiTHhIeVB6WU9sdGhfbkhLdXo3NGh5WFZzcUl2ZFlXMGpiZWpoSQ?oc=5": {
-      "title": "決算:商船三井の27年３月期、一転最終増益に 運賃市況が想定上回る - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xdGNUeDJvZTY3VElUTS1SNVFQakwydGlpV2cxNGN4bkRsSm5JWmx0Z3hBbVYyMVZRUi1MZm40VThISXpKYWNGeXh3bEZSb3ZqQnBKWVZoQThnb05GUTVfcFhUV3lsU0Q5QXRaWA?oc=5": {
-      "title": "設備管理職/データセンター（江東区）関西電力Gで基盤安定/日勤・土日祝休み ☆ - 日経転職版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OcUZmTzlHX1N5QkpaSi1xWWJTODR1VXJuT0hJd1hEZFVQN3pzcmVlTEttcG9LUmVDZWJuZ3EyU0RzZ1BCRFlFeFZJbHQ1UWMtLXBtTHlkc3l4UHl0WjVuQW9oT2lYVmZHNFZZ?oc=5": {
-      "title": "DAIGOさん・伊原六花さん・笑福亭鶴瓶さん出演！お祭りの賑わいで「引越すなら電気もガスも関西電力」を伝える新CMを8月3日（月）から放映開始。 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRlAwdUtGX1A4MkVLTndyazFIUFhZNUlaOXJELWtCVnFlYzRReHFsbEJnbzJSb1Q2WWNxRmpUN25sNlF2enBGZW5Jc0diTWJTaTIwYTJZNGdsUkxFb0NmYTBoU1hqSnVBeTZxOQ?oc=5": {
-      "title": "東北電力、社員寮の食事が健康食に認定 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xLVRxQjM4ZnpjdWZ5ajdrSUFGVWlCUS13YnJzNHdEOUl4R29wUUhBc1hFOXVENlZsOUFsV3V3TWRYbHRGOVQwZGNZYUVCWE40VUc0bFRWbU1tZW1hTlRZV1A2RzVUUl9pQ0E?oc=5": {
-      "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：2027年3月期 第1四半期決算短信〔日本基準〕(連結) 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMFJ6Rl9NcXNGWUFZZzVocTBhVWNVdHRKRENPUmFlaGtxUGt4WURuZFBfdGFUejBLQ0xhcDB0QWJlZzhRMG1NdHFZaE9NLVlPQmdGNXpaaERpSC00Q255djR3RDJTU1E?oc=5": {
-      "title": "MUFG、専門人材2500人でスピード感 「将軍に平身低頭の大名」汚名返上 - 日経ビジネス電子版",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HandoTDdrZFdhbkctc044cUo5QzZzcmh3MDI0emJtYjdvS0JYNjU4a3JhVVlyMTdrVWhrckExaXdva1NlR2otaUF4R29fMHVOcnlDaTNuMUQ5LVdGMVZOWU1LbFFZZ1BYeFE?oc=5": {
-      "title": "三井住友フィナンシャルグループ[8316]：（開示事項の変更）株式分割により増加する株式数の変更に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友フィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYjZTQmRfSzJQaEM3c0FNT1BvTHM0Mk83TzlBZ0dyU0tBOUE0V2c1M1N1Umd1UEVOS09mdHpnN2dZT0hTUzhGT3RlcUM2bFhuc3FzUTU5VlJiZ3Y4dHZsNGVySHZGaWhka0E?oc=5": {
-      "title": "三井住友フィナンシャルグループ[8316]：自己株式の取得状況および取得終了ならびに自己株式の消却に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友フィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DaWtjNXJjdS1lSTlLTkJsSi1nRU1TYTRIYVNmZUU4VUY5cmlkTmJhbVV1VjdFRTl1WkVfLTNYVGdzcmlCN044aWRSbWRkWTNJZURVdjNoZ1pRdUxKc1FXUEM4TjA0NHVZZ00w?oc=5": {
-      "title": "国連WFP協会、三井住友銀行と遺贈寄付に関する連携協定を締結 - 時事ドットコム",
-      "company": "三井住友銀行",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUmhWTDVMendPYmcxYmJzMmotWnMxNlQwT0NSR2thT0tUa2Z4N1dCczB2NVNQSmcwOEJmWlUycmNRb1I5VEJPNjNLRlJOVVRlb3c2dVpPdm85a20tRDhFc3hRTDBLbURYcnc?oc=5": {
-      "title": "みずほフィナンシャルグループ[8411]：自己株式の取得状況に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzhKdnlmRmVqVFVHQlJXNnNXZ2ZFQ1lzd0R2RmI3cVJSaWZsaTRGckllZEh2TS1adGdPS2NQZktMNGdScVFIMllGSDJPX0xwREs2aTMwNk53RDc3blMwcTFvN0lvNlRlcTgxUldRN2JrM3hxSGtidXY0eUN1WlFxUXlkejVLdFVwQTR2a0pyRy0wdw?oc=5": {
-      "title": "愛媛銀行[8541] : 愛媛銀の26年4～6月期、純利益0.5%減 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "愛媛銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSDg2UzVMV1o3RjZiT0RpeGI3MjVsNlhqWkZudUpOTTZVMnp2dXJvTzBCLUZ6UlQ0cWRIY1FmRndsRUoyb2FqYS1hR0labTdjVE9MdU1rajVYQjFSNGZoek52WFdmMFNnOGc?oc=5": {
-      "title": "野村ホールディングス[8604]：2027年3月期第1四半期 決算説明資料 米国会計基準 (US GAAP) 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNDZvQl9VUk5rZDdNeWVzbFRTd1RZLVhESWlHTWZxY0hjdTkzWkk2UDNnR2Z6a1BlVnlnYjJKX3NOVGJhNzI4cGppWGpoOFlONXBabjNXMkw5SzNSaGhRa24yTnNRWV82WHZubg?oc=5": {
-      "title": "大和証券グループ本社株価、一時3%超安 利益確定売り - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUzAzNHFlY3pRRlRLMDBRZS1xa1lSdkZITF9UcWtubHg0RHZ2bFphN1FMLU03OFJwUUtrOC1RTU40N1BYTnVvalhmQVc3b3c1dzdScjdFNHlQRkxFTzhHMlh5UU5qc3Bib3c?oc=5": {
-      "title": "東京センチュリー[8439]：2027年3月期 第1四半期決算短信〔日本基準〕(連結) 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDNCMnhJRDlob1MwREduSFdkalNYeUdaYnMxbXc1UEVJcTZfVGlneHhHSEFNVjdTVWFrNXZCV0tOVGExdDJncFNRNDNvUS1IdjJSU3JwSjE2SGczS1lWYV9zWjF5SWFUSDRLQ2xJeVhsY1FzdVIxLTM2VmphTzJiZWluTzVDZi1hV0wxVkxkNUdJVWlWN1dvWklFOGxlaDJ5T21DNThkakVxcDRtNzZrSW5TaEtzUFJMeHdUMUpTZmNKNHktZmctU19FZTc?oc=5": {
-      "title": "東京センチュリー[8439]：第三者割当による社債型種類株式の発行並びに資本金及び資本準備金の額の減少に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRE00dGM5WGhWd2VRNGlZS1ZRUDRQNXZWQmFXVEFXN2p4U1d0S3RxX3phQnJBUWtQemo5SXlVTkhYc29lcWx1RWREYWczSkhCQVB1RFIza0V4MWJGYjRDQjhxYng4b195dFZmQjdZaXlBSnNzM0U1b0V4bXUtOEU1UFVGYlZ5UlhxWmdGbnd1YVZGTWpKLTl6MjRieFVQaWhUZ3JVU3VRZkptNTNFNGVtSnA3MjhXZE1iQnp3aHVQaVhMRzRzRWplc05ISXI?oc=5": {
-      "title": "東京センチュリー[8439]：2027年3月期 第1四半期決算 IR資料 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmt1NzZFd1VWMXB4S2pqaGphSWdJaHBDLU00MGRua0QyT1dWZ2d3ZzlIQ3VZNWRfZU0wckRzbGlVdjNaWktYS1FSQ1ZMS0M2NXB4M3FMdnFvQnFvQ3gtR01FQzRWZEFRTVB0YWRlR2VZenRfTGRRczFXYlhGN0FJUnlyc2RXSTdnUHUzTGlBdXVVS2tBWkIxcGp4bGFSOGZ3TGU4MDBpcGhHVTVUdTZxY2dPeUQyNTF1UFk4U25QM2NoeHpGZXN0WVc0RkY?oc=5": {
-      "title": "東京センチュリー[8439]：連結子会社（特定子会社）の持分法適用関連会社への異動に関する基本合意書締結および特別利益の計上に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE40QTJOckROTmRyMU5fQndWOE5zWHlxaWJ6d1EyYjFackxFYzgyUXFwYkpQdW5zVVVUS3NOYWlwY1lXeUo0YU1Eek9VZkV1RnoxTzh5NUVsMy1zQ3U2Wl93M19pbHR2SEd6Q3c?oc=5": {
-      "title": "東京センチュリー[8439]：第5回公募ハイブリッド社債（劣後特約付）の発行に関するお知らせ 2026年8月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KOVFtbXNUWXNXWDZSc0RwdC1wNE9zZnI3WjBSQjMyaVB0REJudFNEV1I0Y1BVeXVFMUI1dGI5S0E2ZmppX3VOOWhBaFh2Q2pXRnBza3ZrbWpqQko3RGNnRU9IWk5vVXRJQU9fdw?oc=5": {
-      "title": "東京センチュ(8439)減資 - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GUnRoSkNOakpoSW9FQUNLNUhIbXNGRFpJOUJPY0hpWWNDV3M4QWhSQTF2ai00emc2UkRqNjFZUEd5RnI3bk1rTnpaTXpLX0pVdlBHa21lLVFiOUV5ZFpFX1JqWXh5WW1SU0NV?oc=5": {
-      "title": "三井不動産グループ初、多様な住宅の共用部へ アーティストと繋がる「デジタルアートフレーム」を導入 - 時事ドットコム",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T12:22:45.144096+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE14ZXVWbDQ3RkxkYkxqMmVfbk14RFAzeHJwMEFRa1hGT2c5c3hrbjY4dGg3TXdnMzhBT2NPWDVXU2hvODBUYkJkT3gwZVZCQXdpTE5MVWJXc05mUDU2N21nNHd0ZmdoTm51Z1Fwag?oc=5": {
       "title": "商社大手、資源追い風 三菱商事47%増益、丸紅は21%増益 4～6月最終 - 日本経済新聞",
       "company": "三菱商事",
@@ -3647,7 +3365,61 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-08-10T10:15:44.426514+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fNGcyamNvMWVjSEFsSU9JWmFHYndwOXkzRWpzb2FZaC1xbHlNaGdDcHIxM0hOUGxjYnktSngzYWRyZjRBNmtkVV85TUdaRnQyTXZSWHpuaHMyNU9QVldNYng1YzA2TWdHOXRtNw?oc=5": {
+      "title": "楽天カード：半期報告書－第27期(2026/01/01－2026/12/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天カード",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBNjU4SGlpQ0NKejJiOGdYR09leXV1Y29qdEZZS25RMFF3S1l2d0FwZTc0bXZkcjBZVjZueFN0SDB4NWtyVHdPQjN2dFhGWVkzUHV2aw?oc=5": {
+      "title": "◎〔決算〕楽天、６月中間期に７年ぶり営業黒字 - sp.m.jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJYkRsME1PLWtEOWUwbTctU3lYR1BIUU5naDFXYnhzT0dodWFtX3dOREEyVTBQLTNJTEhyWkFkQkM4dVpQTlg1QkFSdXhqTFM2alhyQw?oc=5": {
+      "title": "楽天、７年ぶり営業黒字＝通販、金融が好調―６月中間 - sp.m.jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GWFNzTDdNR3NoNlpPOXJZd1lVNkNMaVhtcHJqR1d6MlhwbEhaenRDWEgyVDVHR3I3Y0lkMGxCMUVBb2psOGw0QjhINjQ1dzl5T1c0enNhbFA3S0hfb2Z5Q2xFSQ?oc=5": {
+      "title": "楽天、７年ぶり営業黒字 通販、金融が好調―６月中間 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnBJcWZPZUMxekNPdEZ0MVlFTzRuZ0h1b0xjZkJ1c1dqeUhxX0RHbUlRVExDVUNTcXVvVjZWaXdqS0kzV0lLeU1sby1xay10Y0dTTWhtay1MWFJGUW4xRGc2ckxVMDdMMkZpaExxQ0pyRzVzMVdqRGpnMUtzWjduVll1RGFLTGtlQV8zRGlhWmVTR01Eakd0Vndka3U?oc=5": {
+      "title": "近鉄グループホールディングス株式会社 - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MDgyTUNKZ0xYVE5HVmJqTGtFVkJFd0Z2UFliaUluN0p0QnF3VFJxZEIwWnFrZ19CRkN5aGtKV2w4ZFBCemFsTFRnNjZ2Qjd3dS1mZVpiMzlqTUZOc3FtOGRhOXMzZlJoOGc?oc=5": {
+      "title": "近鉄グループホールディングス[9041]：2027年3月期 第1四半期 決算説明資料 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhTX0NkWEMzVi03akpwcFJMaG5SRWlaMjFKNTRRc2ZWVC05QUkzY1QydzZnY0FoMkxqSlhKT3kySnhaZUF3QWFIR2dfVjRXWVBNaUVHeFR6WnZmV0p6bVpMbjczZXN0QnBnU3BjVWxIOTFZWHQ0VjBiSDNSdU5wMkZUOXRySERXUlpFTzBiUDFUQU9wYkNEbFdxVW9UUHZQZ2pwQ2lZWHVqMVRNOVJYcF9xeXZHRkRiOE1uUHZtSTFFa29PYWRDbU4ybWI?oc=5": {
+      "title": "近鉄グループホールディングス[9041]：コーポレート・ガバナンスに関する報告書 2026/08/10 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "近鉄グループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IV05FQ2phTFRHODJBc2RaNEJvN2hzT3Bha0J0Qm1KVGs0T3hQdWY1LXFWR05OQkpQalZnZExxQnFiaFE0NFc2cTR5ZUxfYlhYZWNTTWVYMnU4ZE4zaTFMNWk2YUk4d3ZZdXc?oc=5": {
+      "title": "東映[9605]：配当方針の変更に関するお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aWW03eldZaWZnRW1LMkZYSjIydUpWV0tDaVE1V1hHY2U3NVZhM0NzUFdKVy10UEFCR1NRMXF3bFVoSkdVTWM2a2ZNUTNRYVlhVDdSa3YyYTQ3UGc3VDZ3RzRsYUZ3WkdXeXc?oc=5": {
+      "title": "東映[9605]：2027年３月期第１四半期決算説明資料 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-10T13:02:17.103801+00:00"
     }
   },
-  "last_updated": "2026-08-10T10:15:44.426836+00:00"
+  "last_updated": "2026-08-10T13:02:17.104470+00:00"
 }

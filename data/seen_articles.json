@@ -1,137 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE14ZXVWbDQ3RkxkYkxqMmVfbk14RFAzeHJwMEFRa1hGT2c5c3hrbjY4dGg3TXdnMzhBT2NPWDVXU2hvODBUYkJkT3gwZVZCQXdpTE5MVWJXc05mUDU2N21nNHd0ZmdoTm51Z1Fwag?oc=5": {
-      "title": "商社大手、資源追い風 三菱商事47%増益、丸紅は21%増益 4～6月最終 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWa05qUmdpNW9tZ1B0c01jdWlaM1RZUHhTWDNaZHNfdU9DMU9waGswWFNwVndzMGFjS2FjcjEtWUhJNUZiN083cWpJZWJ4ZVJibzZ6cnV5aHlBZFVGQ3pNMEd2NTB4emM?oc=5": {
-      "title": "三井物産CFO「29年以降は純利益1兆円が通常運転」 鉄鉱石・LNGの収益拡大 - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmNtMHltTFFYMkpmVUYxcnROSmhXR295N3BUSlpFTUNJdFZxLTFfa3JQLWxDb25LWk90UG5JTTdadklhQVJjdTRyV0RLblNpRmMxajJmT0F0QnVTblJaOEtpTlVacDNCaEFibnBfakxoZlVHc1htTk93clRuYUlKTzgyLTVTZUY3MHN0NWtR?oc=5": {
-      "title": "三井物産CFO「29年以降は純利益1兆円が通常運転」 鉄鉱石・LNGの収益拡大 - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jTHZITzI0aVpJZWtqNC1tSmJuZzFjc1dBd210LUlPQ1VmUHZjSHRPYWN3WnRtdkd4SVlNM1pCTER1bGRuMzhpTlFBNFJTdTgxbWllNlJQZXJMMENNbThzdnVucVpjU0drYnVHRVR3?oc=5": {
-      "title": "国内／海外営業（基礎化学品本部／オープンポジション）【東京】■三井物産100％グループ化学専門商社 - 日経転職版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGNG9aaGp1WWllT1FKMzYxNm92dEZtZkFqNjlWSVpQNlozSmVsOGV2eHFxaWcteUtuY1NCbnlfTjdJOUsxN3lHTFRDTmRGeWxaM25TNERJblptVUNwN0dzaVpaT3IxNGg0aGRaaA?oc=5": {
-      "title": "伊藤忠商事へのTOB - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTHhlN3psSF9RcldxbkJmY1huNmhwZ3JJN0Y3ejJOYnBlSjdEMEFCZDlZdmFSLTJJZlhobGVKVGtrV0dNSDB6Z2tKcHFUOWx1aXphdDVNeTN4NjBIajhjMUZaWWJhem5ac295MQ?oc=5": {
-      "title": "新興とNTT、光方式量子計算機開発で提携 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2M3NIZi0wUUFMOHJnVncxMi1YcnhLTEtHMEtGOHhjUXhqekd1YjJqeW5kZEFDRzUzSjlFSXV0RW9CdkgzWDB4VXprRzV2TWdTc1FKR1N5WUdjTVY3YjB5TUlrS0dBRnJ1eElYYg?oc=5": {
-      "title": "ENEOSHD「成長投資に1兆円」 シェブロン事業買収機に東南アで供給網 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ucldZTzFVZnViVmNOU0lYZ2FiVk1vWnBDSDBiTXgzckJmVXJUajVFMUZTU0t3UktxMFJBci1Gdm1QdkVhVzBaSC1hVXhGb241TUVUSnY0QlEwdW5EY095dVhnM3BuMno4dHVR?oc=5": {
-      "title": "日本製鋼所、純利益35%増 4～6月 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3JiOGdBN0ZVZkRjUVVhVGtYV3JyQlkxaC1KVVB4R3ItQmd5SXV3OXNTRVJZdUlpZVk1MlByU05ZMC1uUkpTNk5lTXI0RDBNMllOcWNHSnRpTms3b29sMW5FR0NfdjZOdnZKOGdneTk1UTJqZWJEMm51VEw3eUJ4ZThkbzBMVHlQUG9wTmphRm1Xdw?oc=5": {
-      "title": "日本製鋼所[5631] : 日製鋼の26年4～6月期、純利益35.4%増 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SeGlJR21oZVBLZVQ0LThDVnN2dzZjQkZMREJtU05aeWxWR2N4OHFBRUpYbGJhZkhkVGk2aDFaMm9XUzVZOXU1Q0Q4SDVHbGJTdmp2SmVrNUZOeDZiU2hPLVZ0b0xvd0w5ZWkydFln?oc=5": {
-      "title": "再エネ設備のフィールドサービスマネジメント【保守計画／現場統括】◆東芝×三菱電機◆ - 日経転職版",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldy1EYW5faktsSEs5TWdENHpXUDcxWGpFZjlQUER1Y21qYzhaY1lnalB0Qk9IVjVnTzZKTWJWVXdHNlA3REk0ZXNtSHV3SDNLNFpmeFM3RlhTNGxBMEtFR29kcUJFMVpfRjlaTg?oc=5": {
-      "title": "【北海道／苫小牧】建築施工管理（自社Gの工場・オフィスなど）◆アイシングループの安定&ホワイト環境 - 日経転職版",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ld1dka1hRbFFIRGI1NHM5V09odDhWOUhVZEVabHFuWUowTnQ5VGYyMnY2U1dUOE4wa2NaeUstLUZhZWY0YzdmeG91ampTQWRJSUYyRV9fNFloYWtYYWZSWnl2ZDAyMVZoSW9B?oc=5": {
-      "title": "楽天証券とみずほ銀行、Workplace Businessにおいて株式贈与サービス「自社株ギフト」の取扱開始について - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zb1BaZzFWY1hQYkUzWlpKcDdzUkVvNE1OdnM3YU1EY3JfaWhiYzhEeGpxX2V2TWxvalFFYm1NYklzZUFqMjNEZVIyd1hfSEdKUzEzOA?oc=5": {
-      "title": "イオンモール内を調査＝爆発の原因究明本格化―経産省など - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmhJS0sybVI5VFVDREhvMHljVmI2a2dVNE9aMndlMXZQLVZTbjRNU05LcWYwaTY1UnYxLUZrY2xWUlZkU0cxRXVmSUZWNkotOTZ6ZEVhdlJ4a2M0MmNEV0l6dVRsNW5sRjFZTGk1RE55c2JCRm9KTHh2SEFwNm1YUw?oc=5": {
-      "title": "イオンモール内を調査 爆発の原因究明本格化―経産省など - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbjU4VmdUXzBJLVQ4MWltR1dUOU1LNERwY01WWDdEOWRGUzYxRi1RZ2ttM25wQUpuSmZZZGRkSEpab08xZjdxUTlkUUVFckI3R0p3UzFLNWlxVFRicl9vbzUzTDF2dDJWZFpJYmRFSQ?oc=5": {
-      "title": "避難後の従業員に戻るよう指示 イオン…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pdUhQakVIREpfSk81OGdZNTY1dXdVVFFZN28yRmVIOU9odkFMSmloVUFCN3U4TlY0MlBrakF6TDlaSW1jbFlleHVWQ3J2NlBiTmJZUjM3ejQ2OTNz?oc=5": {
-      "title": "「東京電力エナジーパートナー」のニュース・最新情報 - 日本経済新聞",
-      "company": "東京電力エナジーパートナー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41cWQzVlhoQURfWUdxckc3UDNlSFBCcjJaR2hYMEdpcWFTYndjVkVMOTRzZV9mVTN5TF9IQlJLeW5JZVVKaS1DRmxWWDNodWVIQS1TTDNWZVYtTi1oM3EtTWVza29MRFhZMWR6Zw?oc=5": {
-      "title": "面接１回【神戸】設備管理／関西電力グループ／夜勤や宿直なし／残業20h・年休122日 - 日経転職版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKN3RiN2VIakE0YmkwMmdfcUZKTGRzdnpNalNOd1gwQzJlcnNsLV82bHd0NjhiQXF2QXFpNkhfeEFuWjRlY1RzNUxCSmdSNDVpV0tLaHlLazVyV0ZoSHh2RWNtazN3cE9CU3lMWDRn?oc=5": {
-      "title": "●クラウドスペシャリスト（DBJ情報企画部への出向ポジション／上流メイン） - 日経転職版",
-      "company": "日本政策投資銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZkkxQVVmR1Rqc09fYUVhZHBzcWRMWGxYQ1RGTnRrZE1BMnRxd25uZTN5aVhSbHJ5UVpjdTF1NUZhTE5USzFLTUo3Q0ZFOVVnWVZMZnF6Qm5kaFpjZlIzUVpTNmkwOThvZVV3?oc=5": {
-      "title": "ダイナースクラブカードを発行する三井住友トラストクラブ、青山学院大学・東海大学で金融教育講義を実施 - 時事ドットコム",
-      "company": "三井住友トラストグループ",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wTXJGWVpxUVBNNWw1T3Bjbk1NYWQ3U29QOWk4U2UxWnpCQktGai1DdnoyanVWWnQ2WDZqU1ZOS3ZoRGMzT2lBUVZJd3d6NEM3SHhiRw?oc=5": {
-      "title": "◎来田を祝福するオリックスナイン - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uR3pzTThaRzNoQk9semRlbS13RWhpLThSNTQwaWh6ZTZZLTNZS1hGUlQ2UTgtdTBBZ0loZ2VKLTZTZ2V0aFZUNnZnQUo2N29UcXJoOWtSMkVCZ2VKOTNyZUlmSzQ?oc=5": {
-      "title": "画像・写真：来田を祝福するオリックスナイン：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDlsWVR5ZVBhNnlic3g5U0x6N0FEUFBkN211c1VJV3RIX1hRcF9tVE5TdEpEM05yNXBLUmNLTlZKdjBHa3BmVHhBcXlPNHhXcThPNG0wUUN0aG9PeUQwRzU0dnlFVnEzU0FBNWFIS3RkX2NnTlk3RzlZaGJ4OWFoX3FGbWJiM0k2TnZFQlBvVU83Q2FXdERDU0prZ0s?oc=5": {
-      "title": "東京センチュリー株式会社連結子会社 TC Skyward Aviation U.S., Inc. 持分取得を通じた Aviation Capital Gro - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-03T22:04:18.782003+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOankwbGhqd1k2N1BmT2JkelF5OTBYaHRSdWxhYTJCTWc2dzNlQzAxMWdjdlNkN3MzcnMyem5fNTZaeUFMcVpjdGhvVkx4QlFnQW1YNkxDbEpIa2t0dEM4bWIteWljZ3R4Mmhkb1JoQ3VUSjRIQjFITktLRzJsVDkwTWN0VlUwXzczQWFWbWhB?oc=5": {
       "title": "三井物産CFO「29年以降は純利益1兆円が通常運転」 鉄鉱石・LNGの収益拡大 - 日経ビジネス電子版",
       "company": "三井物産",
@@ -3467,7 +3335,25 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-10T21:36:33.650431+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5": {
+      "title": "売上金保管指示「許せない」 「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-11T01:27:28.066126+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOako1MFd5MFZOTzlfbGxTNkdTa1gzT0xPZVdickJlamhfNHMwNEFDTWR2bEFQb0pvdVZrQUVQeUtGSnFkVzExTnlUZFoxWUFJeGVicGJ2OTV5ZXFzaGNIYVY5MG02VFpMSzV5emR5clJzSTBHcWIzUzZYcWhqdUVPa0dn?oc=5": {
+      "title": "売上金保管指示「許せない」 「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-11T01:27:28.066126+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVWJlb3NROGVQcnM5cEgyQUg1S20wYXVsY0FMX1RlN1pZY1lrY05jNTFhSHR6TUtZYnFlbzFXaUw3d3FSTk15UEkzS3B2TTY4anNIV2o2TGRpQUQ5SnhtZ2ZzcFJQTXVabW8wWkhB?oc=5": {
+      "title": "IT・DX推進課長候補◇SIer歓迎◇クレディセゾンG/年休124日/ - 日経転職版",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T01:27:28.066126+00:00"
     }
   },
-  "last_updated": "2026-08-10T21:36:33.650792+00:00"
+  "last_updated": "2026-08-11T01:27:28.066672+00:00"
 }

@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aWjNqSTFsQUxORkdJakl6eDk4ZVIyM1diNVBvb2tneTRUNTVXNmhWX1hlYU1na0std0U5UUYwVjRiWjM5YTZkT24xN2xYZU80NTA0ag?oc=5": {
-      "title": "◎〔決算〕三井物産、２６年４～６月期は純利益最高 - sp.m.jiji.com",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE40N3dfd3JLY0E2RlAtS1JSMzVheHVxNWt1bmVId2s2LUxtLU9xZDVwRWxVV3lEYTlXWVZORU1PRDU0anAtNEF6VEZjZWdmc2JXMUlfMWR2eWp3ZDBWRF93Y1R3Z1dwU1Y0c0g1eldn?oc=5": {
-      "title": "新規事業開発担当【モビリティサービス／住友商事グループ】 - career.nikkei.com",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JWi1PMEJFc0RoQVpEWHloaHRIRnhIUU1TQTlwakp0alFkWWN0QzFIUGZWTFlFeDQ5VHg1eHRVS0NvOVF5d2xhejlqZTZLVENFdWpIRw?oc=5": {
-      "title": "◎日本製紙、５日に八代市で記者会見 - sp.m.jiji.com",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5": {
-      "title": "日本製紙社長ら５日に記者会見＝八代工場９人死亡、経緯説明へ―熊本震度７ - sp.m.jiji.com",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtY3ZMV0lqMkVQUC1BS1k0N1Nfb2RQQ0ljeGs0NG1CUlltLU1oQ0xrMmVRd3AzUjZBdTJGNWhHV2lUQXFsYkRMNWhCMmFOVjhodElkN1NHQjlUQ2FEemgzVFVHSDM5eE5UTmN4MUNrWQ?oc=5": {
-      "title": "日本製紙社長ら５日に記者会見＝八代工場９人死亡、経緯説明へ―熊本震度７ - iJAMPポータル",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYzFqTHhydEVxSkhiR3ptMUhNVDN3dzNnZjN3Yjgyb2xjVE4tSlp2VVhNbXowTVQ5aTVNS2NXT3VETG9jbWNIdERrc3c0WlA2OWVuTl9HNG5GZFUzZ01ZcEpRbWtBYW5mUWc?oc=5": {
-      "title": "トヨタ自動車[7203]：2027年３月期 第１四半期決算 投資家向け決算説明会 質疑応答（要旨） 2026年8月4日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZmtZRHFFRS1QNHhraHE1dU1ld016T2NsOXZZZmg3dXplZEtCN0dqNFZjNnRrTGFhR21vSnZDUnc3UkJJVjdBenJ4TFRxYmdGZk1EQ3RkQi1tZlZJRGxTVUpob0l1Y2NzM0VnNg?oc=5": {
-      "title": "決算:トヨタ、米国への収益依存高まる トランプ政策次第で1台費用20万円増 - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hU1ZNd1FMZXFTQnM3Q0F0bUtzQkI4eVpNTWI4YWF3T0hfM2E0R1FkWFUtTWgzdmVOM1c1aDJFelpjTkNaT1FlQjNjdWVfLUJvNFZaOQ?oc=5": {
-      "title": "◎〔決算〕トヨタ、２６年４～６月期の連結純利益１兆４７７０億円 - sp.m.jiji.com",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50OV9nWXVraGstZjREWXJzR1ZvQ1VxTkRDODVjYk1nbGxOWVVFbmU0T3B2OXBMTWJKUm8yS2d0N2oySnJveXNnM1FEblIzSDhMNlJiaw?oc=5": {
-      "title": "○トヨタ、上限１兆円の自社株買い - sp.m.jiji.com",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5": {
-      "title": "「雑魚寝痛い」「断水いつまで」 避難１週間、疲労限界に―イオン前に献花や色紙・熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5idnFDS0hqQzdqSnBidzlIQ2tGbEdwTWQ5YTh3NlMwRUdRaW80SmlvenpQdHFlRlY1UklZaGtRN3RaTHE5NTZOdW9JbklLdUVIdk9yWUcybHN3WWVoUnNQV2dHMGphSFpNTlhIN19Dcw?oc=5": {
-      "title": "爆発のイオン前、献花や色紙＝断水地域、給水並ぶ列も―熊本地震１週間 - iJAMPポータル",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkFWY3VXVTVVVDRIblUxVm1fN3VrdGtMYVdITEdvNzRGZEhDZnFtSTVfNk9PbkVXUVhSS29RSTd6NWhYVXFUbFVvWERucUk0dmg2SFRPNG41SzQxR0hnanpwRm5Kakt5bG1QZkxhSkNXY2p0clQ5NzBoNXBrU29XdEtB?oc=5": {
-      "title": "爆発のイオン前、献花や色紙 断水地域、給水並ぶ列も―熊本地震１週間 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlVKYzctVE1QT1gyWjhqbEY4RUNkTTFpVi02TTZlaDJkcm52M3Vvb09KNmhrcmFpRzU4b0FMTi1jNk5ldWtGQ2RPS1FlMW5aNElBb08zamczYXlGdHdHd3EtNzlsQm5adjJPT1NfR2FZdjQ3N0Z4U3RYd0lyV1kybw?oc=5": {
-      "title": "死亡３人、１４分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度７ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmenJLeUxxdGM1ODFKZWZYaWVtTDcxcXRnU3dsMGRSSGVtYlVaNmg0cTNfdmVzZGxZY0E1MXhKb292SmpkMUhENkxRLURPcERLSmNaS1B4Tnk3N3lmT0duVk5xRzR0c0FrZEpRTA?oc=5": {
-      "title": "商船三井、株価が反発 27年3月期13%最終増益に上方修正 - nikkei.com",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xUUk5Z2xYQ3FtNVRkR0U3Z3M0Z01YeHhhSUdnWkU1c0RrZnlLZFNyaWtudFIzSmxFb24tY3BSazE2amxiZWlEOER1b2M1MGFYdkZZTWxVYlFhMFB5TmEyTkFtOGRRRE5vUFJ6bw?oc=5": {
-      "title": "トヨタファイナンス：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - nikkei.com",
-      "company": "トヨタファイナンス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T14:05:59.295652+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXblluYUtydzlUMElEclpidW9fckxOT2hsWTZRaHFqWGhCSUZpZTF3VnRaYTZsMlByMWRIZ2dKTmQzamktcDF1OG5zYmFiYlhIZ0F4YlJpb0M5THJvaHNrUUVUSFM4TmtYYUM4Rw?oc=5": {
       "title": "サツドラHD、三菱商事系と築く道内経済圏 MBO成立で上場廃止へ - 日本経済新聞",
       "company": "三菱商事",
@@ -2975,7 +2885,43 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-08-11T12:58:23.565823+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1naEJHMDV4a2paWFAzSFloV19Rd0l2cjA2Y05JZmlpRWNNRmNBcHQzb2s0SmM1R2VmSWpPek1iNVJCWFVTYTY0Q0N0MkhGaS1ibTF5cmtLb3hYRmowUFp3RGZqR1hqdmQyR2lURQ?oc=5": {
+      "title": "奥田碩氏が死去、93歳 トヨタ社長や経団連会長など歴任 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VNExJM3c1WlZBd0d6V1BZMmNjUVkwUDhLaExCTjRZRXVqOGM4WVRFRWdab3pwSFB4cWRad0VneWRIWDFTT3V0SERBZ2QwcGJiNFRneXhwdm5RbG9wY3c0OGprcHhKTWw2d2VhbA?oc=5": {
+      "title": "トヨタ奥田氏が死去 グローバル化を推進、自動車世界最大手の礎築く - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ROEQ2NWFScFUyanF3YWFwSV9ldk9DMVZ1UllUcVJQZ3FpT1ZQUkN3dWNKQXRuZ2F5VHBMTlFYa0FaSTJxLUlzWldhWjBNaXVQQjVxNzltbUdHUzZYN0ZrZzN1Q3NuNkN0N2JQSA?oc=5": {
+      "title": "トヨタ出資のジョビー、800億円で米防衛新興を買収 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVG8zdm1YU2xQVmxZTmgxRi04eHFzM25wTklFOWRKYUNfMEN0Q3Jzd3UzVG1Obnp0ajY4RThYeFN4Q3JyQm13eDJfMWpLN3RpY1NGWk5qQkx1VEZKNlUtTmx1V0swYnJMdmlkMA?oc=5": {
+      "title": "日経平均、年末に高値7万6000円 楽天投信投資顧問の平川康彦氏 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2T0QxeC0xcWxPYkY1SzJnSUgweEJPRjRmTzF3MzRwa1JsQVlySEIzWDBHczViaVZMQUJQYV9SdjY5aUZLdUJHdUNOXy1YM2Z2d0tGck1hR25nSHZMWE5laXpJaHBMRV9WRlV5cg?oc=5": {
+      "title": "カナデビア、廃棄リチウムイオン電池の回収箱 火災リスク減 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1TlhRNEV1NUxXWEhYOEhoM0Fwa3drWUZVYjE5Z3QzYXUxS3g5TjhjelBsY0VhRi05R1lvX1JaTjJKRG5JeUZ0cDZQZkN0TzlmQjBDTkFzNnRBTUNrby1ZeTVPR2o3V2pMaUl4Qw?oc=5": {
+      "title": "決算:西武HD株、保有不動産の価値に届かず 市場は「宝の持ち腐れ」懸念 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-11T21:40:28.438586+00:00"
     }
   },
-  "last_updated": "2026-08-11T12:58:23.566088+00:00"
+  "last_updated": "2026-08-11T21:40:28.439184+00:00"
 }

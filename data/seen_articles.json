@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeWI3cDk3MEE3d2VzckRvY1gybjdPVUV6WFlJSFlEY2JxeS1EaUN2bHpwREhGYzV6a3h4VGtfQkxWWnNkZEZGUGhWeUM4cFc0ck12TlJpUTExQ3hwVDlYaWVVNA?oc=5": {
-      "title": "日本製紙社長ら５日に記者会見 八代工場９人死亡、経緯説明へ―熊本震度７ - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OVEZ6SnNYRlZiUkRpRlZWdDJJd1hEd0o5blZxSzgwS25qUTFaMFN3SUhDZmw1Vk9KWTQxQWRXVDVuMXFTZlVDb3l3X1FNWXZHVndkZjB6bEY1cmRDejlLb1k2WjJCcXM1bi1OYTZlc0pMeHUtb1VsQ01SblpYUQ?oc=5": {
-      "title": "JIGSAW急落、ヤマトHDが続落、フジクラ続伸（4日） - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuTlVHeVNnbno2eGNyMUI3MVJ3WnozdEFDQlNLclJXT2ItM0FIZEF4dUhsVWFyTy1KMzRoTGlDcFJEazZsNVRFTDNBVWlPc1BpLWNnbjZzTmYxajhid3Z1dVExOERVNjBaYUVHVw?oc=5": {
-      "title": "トヨタ、ハイブリッド車向け次世代電池を生産 28年までに60万台規模 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxcUJhQnF1MnJQdHNUcWtNUzYyNGY5UUxsYzFlWnpVR3ZCeUI3Q0gwQ3d2MllXZ0JKS3J3YlQtbXl4SGR0WDUweHBwSzdLenl3TnpwWA?oc=5": {
-      "title": "トヨタ、純利益を上方修正＝円安が寄与、中東影響も緩和―２７年３月期 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnJGSWlLWWY2dHdtSGUzRHlhYVlvRUoybnVFZDFRaEhRUDkzdmxCSzd4eUVCUG9MUU5MLV9jWWotLXlNNnM3b3lCRHlteFBBakhWT002RjNhOS1lb2tnelVFUjJja29ONWVtQVZrSjdnMWVUSUJZdkpyY2VtM0RhWFdn?oc=5": {
-      "title": "トヨタ、純利益を上方修正 円安が寄与、中東影響も緩和―２７年３月期 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pVDZIclBIcE1DQlFuZHRrZ3c3Q1hxRkZ4bnFBOVR2bzY3a3JRcHFQTWo2TDFIYnU0YnNyOFljQzZyaFcxYVVOUDd2QzBpaDJpTURDWVNzMkJTRlotYTEzMVN3bw?oc=5": {
-      "title": "熊本地震、稼働再開急ぐ 部品供給停滞で影響不透明―トヨタ - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsWUdIb3dpTEhoVWRYTnRKRVk0NHF3WHd6cFZrM1oyelByZk56T2RyaEh2Z0FRbnoxX3h6Z0ljT0gxYXRRWUxpVFpqTDE4VGVSQmYtNQ?oc=5": {
-      "title": "◎トヨタ、自己株最大５億株を取得へ - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lM0k3Rmc2emVma2liUzIyOVBMZE5tNTNLc1RYcXpqUlduUlMwalZmTDRKX2VaYlRpaGktRWxmNmtkM1JIcS1rYnZxN3BRUXNrLTZVbQ?oc=5": {
-      "title": "○〔決算〕トヨタ、純利益３兆２５００億円に - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KVFhhTlNRQkNValVVVjJLRWt1d19UNVk3WmFEanlzWURzYnJibVdtUF95elkzUFVrMWFjWFlnNXRrWHlsVDVmMGhOTEVLTjVWYUtUTA?oc=5": {
-      "title": "◎〔決算〕トヨタ、２７年３月期の純利益３兆２５００億円に - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkS0xBTjBxX1JjT29JOU5yS05FX01qNERLeWxLUDVXS084TmdhR2Vxd21EMjc1Y0RGM3hTaWdqZUNNeG1XcVNtTjdjdlIwS3ZBSGVkSFZJNU12clBhcEdMcVVBb2ZfMUZCRlhV?oc=5": {
-      "title": "楽天、「ふるさと住民登録制度」の受け皿となるポータルサイト「楽天ふるさと住民」を2027年春に新設 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZG1iQmpONlUtSGlQQVpCQVNqTF96MGFSMHRmVkZMZE01WF8takRPYWFrc3JjdmIzSjZWcWNFdzVlbWNIbWZ4enFIdHFub3FSRGN0UHEtYlp6dlRhYUw3cHpHM3Y2eFJDTmtn?oc=5": {
-      "title": "「楽天ペイ」、圏外や電波が弱い時でも支払い可能に - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE14R1pXSnRtNmY3aGQyaVdQaHFWTzRMS1I1dFdGNWRGTzB2MmhaelQtc2l2MkFJcFlNRnhSZnVXZ2FrV0JnSmplZVd6TklscXEwMk5fLUp3MXVndzRnOU56cGQwQ2pFU29ma0VjaQ?oc=5": {
-      "title": "東京都、LPガス供給設備を点検 イオンモール熊本爆発事故受け - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX2VwRmNBakFpOVhRNlJUN1h0UWFsSTRpNGx4bmhWOUpoVTZLMUFIeXd2REZSSXJpaEdUYW5iV1E2MzhkQnUtZXN1NHoyZV9Yc0l4SlFzNzN3YnVsSTJfWFBNTQ?oc=5": {
-      "title": "死亡３人、１４分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度７ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ocC1Ra0h5NG9wb3g3dGNITFF0cXBhZ3FzTjAzLW4xUm1rbHdXRDdJcEFtdUxWVVFzMkloMko3ZGprOUVKUWlDOTNqeWhaNVhHX3plcDY2OXliZ2FPdzN1NTA5VWR3ejN4Y3RR?oc=5": {
-      "title": "日立・商船三井・JAL、沖縄県久米島にて 国内初となるCO2除去技術の実証に向けたMOUを締結 - 時事ドットコム",
-      "company": "商船三井",
-      "source": "時事通信",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WTWlqVkVLUTc4M3c1SDlNZ3dqaHdTYmpxMHRFU3R2aDJydl9vbkFQeVhjVVVrUVR2UEp6ZE1KZkJtZlF0RTJiZXdPNHBDYUZoLUZ2SHgxWndvV0FBMzg0ZkVGNHFBQmp0bk5Zbg?oc=5": {
-      "title": "トヨタ紡織、新興企業との連携強化イベント MUFGと共催 - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-04T11:22:39.779795+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aWjNqSTFsQUxORkdJakl6eDk4ZVIyM1diNVBvb2tneTRUNTVXNmhWX1hlYU1na0std0U5UUYwVjRiWjM5YTZkT24xN2xYZU80NTA0ag?oc=5": {
       "title": "◎〔決算〕三井物産、２６年４～６月期は純利益最高 - sp.m.jiji.com",
       "company": "三井物産",
@@ -3059,7 +2969,13 @@
       "company": "イオンモール",
       "source": "時事通信",
       "seen_at": "2026-08-11T09:58:40.597370+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZcFhGWjk0eGJBQjRjanUtTVBUSDd6NVIyWVJ0VElST1lxdEQ4M2w4SkE2T2MxVzdHNlFuQ0szU3pZcmZFUWs1V1lLaXExUnFmWlJfRg?oc=5": {
+      "title": "○イオン、熊本地震発生後に従業員に再入館許可 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-11T12:58:23.565823+00:00"
     }
   },
-  "last_updated": "2026-08-11T09:58:40.597940+00:00"
+  "last_updated": "2026-08-11T12:58:23.566088+00:00"
 }

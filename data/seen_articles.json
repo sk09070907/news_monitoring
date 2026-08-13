@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dnNFamxZeGx5SEdCdXd2ZUJsbGhmUnpBMUNCN2VMNlJFVGpnY1NMVUN5aU5zekZHR3JJaVFDODAwMi1PenRJUld6N2JubkE2dnIxXzVTOTl5UVpVeHVfWjJLVWxDWmVMVmZlbA?oc=5": {
-      "title": "日本製紙の折れた煙突が象徴 G7で最も老朽化した日本の製造基盤 - 日経ビジネス電子版",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNOEFsZ2FSRGZvVlpUZUtSZGZhSWlzVmx6MVdWT0dPZFd5dlVOZ2ZxcFdESGVGTXFuQkZYU3M5N3g5SXdsUXJVQWE3amdrdGhIN3dKWGNxQmZRaUFjQzVkNEp0ZTJFUEszekE?oc=5": {
-      "title": "日本製紙の折れた煙突／大和ハウス子会社／スーパーの消費増税対応（2026年8月6日版） - 日経ビジネス電子版",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkQ3SFZVdktMbWZwZ0xQOVJjNFMtQnQ4OXlIbVIxcFJYTW1IM1QtcEhJbmlySGhzdEpmSlMwNGJzYTI4YnZVcnFxcV9LS08yeFlNMml4X0JkSzJIcE0yX2p5am1oTTBSNVQ3WA?oc=5": {
-      "title": "日本製紙、八代工場の再開めど立たず 業績予想、今期未定に 熊本地震9人死亡で社長が謝罪 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzJoNzJoUWRoSm5CSENwdzJWNWpQWng2V0VQdkhvM2pvY1I4UjYyNzRQcWthWFNfTVRpM20zaWw0T0k3czBMY3RSOVBrWmZmWFFoeUIwZkdhSFpfUnY1ajhNNFduVEI2cGZBNlc0V21rWlBnV1RseHQ2N2hkV0poM3NB?oc=5": {
-      "title": "工場で９人死亡「重く受け止める」 日本製紙社長が会見―熊本・八代市 - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmxEQldPVHFhRUNUdUxBVmtUZThmLS16TEs2eGVIQi1fUzN3cHQwODNaRlRrYndMcnJtVTFpRVlVOWlpbjdyRXRBYU5sZHl5b25sMHRVZ1Z3MXQ0X1B2SVRXbnczNURiaTc1d1E5b0txZjhaNGRlYjdsdUdKbnVpWnJB?oc=5": {
-      "title": "工場で９人死亡「重く受け止める」 日本製紙社長が会見―熊本・八代市 - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DRVVsdlJlaFB3OTAyWnFPN2NzYU5JQUt1c3BqcUl2YW9JNEtRalZqMWh6NG5aaVZXOV9KN0tLejNhWkFfVGNLekNzUldZTDZWMVUw?oc=5": {
-      "title": "長周期地震動が影響か＝細長い建物揺れやすく―日本製紙工場の煙突倒壊・専門家・熊本震度７ - 内外教育ウェブ",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pOUI4LXVveUhnc2t1MUgtR0N0UkhQOTBYb2FQN1BCYmxacE1qM0ZBeUFGcmFvREZsZTNnTFlrbXlDcGQzT0xaUXBMV2hGbXJSN1F3SERSSEN4LW4zT1AydGJDU0l0d1ZVSHJfdA?oc=5": {
-      "title": "ENEOS Xplora忍田社長、ホルムズ通る原油権益「手放さない」 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aYnlqeHFoUVFRV2VPLUdnbVRlOWUzZGtsdy03MlZwM0oxVTBGVUNla2ZMZmhMSXpGay1KQldVS2RCc1lrbENSOVdRWDM0OF9PZDFZeEZfYXhsZmNQRWxpdGFhN2U5MjRvbFA1Yw?oc=5": {
-      "title": "GSユアサ、今期純利益35億円上振れ - 日本経済新聞",
-      "company": "ジーエス・ユアサコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0M3VzeVhTejFUSjNDcWk4cGpDMnVMNHVZT2dmcHgxN0pjVnItYXl3VmZQLW03LWNTb2p6S1RHTWFveEJmS3MtZWFTX2hGVER2dGNKY2t0UkV2TXdEb19yN3F6cEpKaDNqZUVuZA?oc=5": {
-      "title": "トヨタ世界生産1050万台計画 27年に、ハイブリッド車の需要増 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZV9taXkzQXVpX3dQRE9RLTdUbGEwMlFUX2lQZE5mLWFZRGhBRUpxcFRtcUxISzFraG9NLUtqMlZrNDA4RXFISlJ6M1VfRHpzOGNhNA?oc=5": {
-      "title": "○トヨタ、九州の工場稼働再開へ - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SelFHNmZVd1QwVXNFUE9NVU5kQ2NPVG9CT242U3ZmcGx3RmlGbXRMUm0tVXhmREFJUHVRTi1TVlJ4QS1wcURiWVZpcm5XVlJVVGJWRllJUUJjemtHbmRIMUVZZHdKOWFhRHc4?oc=5": {
-      "title": "【熊本馬刺しドットコム】楽天市場「2026年6月度ショップ・オブ・ザ・マンス」にて受賞！5万店舗の頂点へ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5": {
-      "title": "イオンモール熊本はどのように「復活」するか - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE94Mks3SnlVaFRBUTJOTGd6ZHRNTGJGcEtkd2swR0pGaV9Wc2FmOHEwTno4Y3lLX21CUjhMQk0wZjU3Ym5kQVpVNFVxV2p3Q1ZPaC1iWnNseFk1UGJXaVZaTEpjRFh3VmU1QXRKeA?oc=5": {
-      "title": "爆発後「イオンモール熊本」をドローン撮影で記録、外壁が吹き飛び天井崩落 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBORHF6UjlMTXFmMWJwb1R4Zjc2aTNnUS1ld1Y1QS1NSklramZTQ2QxS2hMOUZaRnFfNi1wNUk0V0NBcGFhd0tTOHVTN1FuWVZsZEpCc0hvdS1jeTN5SGZiUDhmOVlMUjN3dGNkaF92STd4ZzExdldNZ3kxc29kbw?oc=5": {
-      "title": "ＬＰガス「原因の可能性高い」 イオンモール爆発事故で経産省―熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rdzViclB3MW9oMEtlOUFHUk8tUmVaTTExNWw5QXFMRENyX1FGbEtKdndJUFVCNmlqWDBsUjR4MF95X1hucU5wRWZ6RWtZQ0NCSDh5bXowX3U2eW9lU2EtUloxaloyWmhvanF5SA?oc=5": {
-      "title": "中小の「AI社員」安く早く育成 西京銀行、成功体験生かし導入伴走 - 日本経済新聞",
-      "company": "西京銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-05T22:08:32.546214+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mTXloUmJFZV9TR1htREVqMmh6Rmh3b3p3Nkk2T2NZc2RJeHlfYzBqM3ZjNTRnUkFtMEdOTjI0NERReEZSSmhKc3MzeWd3Y2lLZHF5Y3lZc01sSHF5Mk0tbFNfYlQxWUR5UnJkUw?oc=5": {
       "title": "NTTデータ関西、自治体給付アプリ拡充 15歳未満も対応可能に - nikkei.com",
       "company": "NTT",
@@ -2723,7 +2633,25 @@
       "company": "センコーグループホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-12T21:40:13.408434+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NLV9PcktXLXJTV01GRVFZUnAyQzNtUHd4VG9QU0VOQl8yWWNTTUtCUVUybVhmVklqOTRkdXFQWG9STEp2TU5Nem5JeHBMckxBR2dXY0lCdWtpQnRidzM5dkJNZ1dROGZ2d2pQRw?oc=5": {
+      "title": "「オルカン」連動指数、JFEHDと西武HDを除外 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-13T01:47:18.034803+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE56OWJ2elVkc1NUQ09MSG8tQW1NVnN6TjdlVkY3TkVHY1VXMWVtaXhPQkEwdmRkbzNER0dUaC1RYlpTamRnd3JfNkNmbUJBb1NoeVZFX1NyWjZRZkU1bng1eUllb2ZFVDVneHZETg?oc=5": {
+      "title": "豪州で中国EV急増、揺らぐ日本車の牙城 BYDがトヨタに肉薄 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-13T01:47:18.034803+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPby1fZW9DNnlTYWNkdG1vRGwtUEctcDZrYzg4akdpT2FmSFo0VzgtcHVfWUYxTk0tTU9qNWZud1I4eVpNUnRSMUpCcXN3UlFJUjdvTGduWV9CYXVUMkNsSkVzQXhGcVZMd3pqUk84M2E5SzdyenBybGVORmRuSFphZ0Rn?oc=5": {
+      "title": "奥田碩さん死去、９３歳 トヨタ社長や経団連会長を歴任 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-13T01:47:18.034803+00:00"
     }
   },
-  "last_updated": "2026-08-12T21:40:13.408943+00:00"
+  "last_updated": "2026-08-13T01:47:18.035349+00:00"
 }

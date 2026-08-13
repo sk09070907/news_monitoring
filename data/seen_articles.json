@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5MENIMTlTM24wa0pmMGJuRU1FY3dxS2w2WFFscTVpSDNWa2hxLUVEMlluTGdmaF92SVp4QmRZTlJrMlVMYTNwNlBITlJWcWlQYngzb0RHRWRDZ0UwS3FBcjA3dEItOVpkZzVvdQ?oc=5": {
-      "title": "伊藤忠と日テレ、TV広告効果を見える化 ファミマ購買と視聴データで - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZaURzLTl4ajlOWmwxRmpKVThMTzJLTFQwRHdjbnpaVmp3dUJEMURJYXRzWTJUQTBIS1V0RmVjT2VnSV8wMy1ZaFNhcEo0b1FHY1M0ek9YY2l6SXZUTDhMVjNNLU1mUXoxS2M2cA?oc=5": {
-      "title": "鹿島、トンネルのインバート施工をリアルタイムに数値評価して可視化 - 日本経済新聞",
-      "company": "鹿島建設",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE10cEozNm16bGtIbGQxblhxbVh1aXV1d3BGalVpdGYtNm85TU5qb0tRMUhKZjJGSDFUSnZsYlAzR0dOSTJMdHB0MXZ4UkZ1dmxXSmNhS1k4eERoMjFIRWRJdUVTVWJTcnB0eGc?oc=5": {
-      "title": "ニップン - 日本経済新聞",
-      "company": "ニップン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUl5TmZKZEt0V0F2b04wejhuWk10UzZERlJpZEpfRk1NRi1WOWtjdXJzbVoxZ25XSV92dDJza2hDOF9QaVA4cVFPcTZkZUpyOEZhYkY2VW1wb0czd21wLUR5ME0zOWRyYzZ4WFlHajk4bnlWb3hsNzljMF9PWG1TZ2dTeFhOQ0djS0QtVjZCamVRdw?oc=5": {
-      "title": "日本化学産業[4094] : 日化産の26年4～6月期、純利益6.6%減 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本化学産業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFVOdE85bDBXajk1dndZT015YUF0UDB3Q0VKNzRaek16OFgyNVFMUXBYd2tUbU55U3RWMXF0Y0N1VHRQRmtTcXFSNnE2MXlhTVhtTnJCNFFfa0NacUxVZ25GUmt3UHp2NXhMeVNRN0NuZmdqRVBxcUVoWnhoVm14N2g4bDNKOVpnZzhEaHpoN0xMVVhFTjlaYjBuYUc0TnQxbVhwVjZhbDFRR0pCZDh0VEV3QlVWVUE2LVRRajFyZzV6OXNrZzJBMldjaDc?oc=5": {
-      "title": "太平洋セメント[5233]：2026年度 第１四半期 決算説明資料 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "太平洋セメント",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLX0pNVURIRlh5amF2RTNzVThzMDRxNDdhUmNUQmJmbGk1TExMRjJfOW1VLWg2RG1POTFhSExrWmlLS3czSks2aTJwTGRqZDI2SG5TTnl3SjZlQkg1cGpLOVRtTXJwbmVGUXFkaQ?oc=5": {
-      "title": "トヨタ、国内の完成車9工場を7日に稼働停止 台風13号接近で - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jS3ZZek1WQmp4RUUxck9YdzAyOVNRR2VqTlZpYWpjTXlscmJwNW9BdHJVVHN2Zjg1bXdIR19FZ0FEdTRxc3hBRzl5T3FDd0tVMVdtSHA1TDA5U280Y1NMeHkzMA?oc=5": {
-      "title": "トヨタ、国内９工場停止 台風１３号接近で：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NTldmZGV1SDRkWWRBOXFNVDlzeXJlQmR2Qm12b0dmc0ZFSGJBNFBNVlhwTGJRY25qMFAwbmNXWXRqX29Ja2NGQ2tta2hadDFaSl85Z0U4VHpzcVl1TXQyQkd5XzB6c2g0YkE?oc=5": {
-      "title": "アイシン[7259]：自己株式の取得状況に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjSkVkU2FpRG9QNGJaM2dtZW4xY1RFT1pvMlhyaGhTRmtVNkJ0WHRDNi1jclFEcERjMlBsU25ZcU9vTm85X3hrSU5Vd3ZQRUFObEE2cEszSnJaaEx3X2pWWllaVjNBRDlHRWxR?oc=5": {
-      "title": "【楽天お買い物マラソン限定50％OFF】上品なパープルカラーの11インチAIタブレット「POCKAM P11PRO」が19,950円！豪華6点セットも付属 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Xd21CQzU4NnpFTEZYOTd5WXd4SHpSeDBQZTlNdGMxVnJtbmJWR25pRFZiLTdjVFNsbng4VVBNYUlxRmN1X2daQUFBRzhHLWJpejU2M1ZjVm8yMUh5cURiSFUxUHRNUVNJMUdJ?oc=5": {
-      "title": "【JR東海】ＪＲ東海グループが京都の新たな“旅の拠点”を創出 「コートヤード・バイ・マリオット京都駅」2026年11月16日開業 - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CSmNpMF9EZThsTVJlSUE5LWdGY3BDbTRka1JhdHBjMHd3TGRFZHQ0ZlJDYTNlWUxYU0NBX1N1X3NqekRMbkJzMkZHTGlMWk5sNE5SVExOQ18zMzhLNlhrNnJMQnZ3MURMc3c?oc=5": {
-      "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了） 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZTEyem8yUks3MXFleDNxbU5DbnZBMVZzQVhxNS1aUERZTGFHT2pvcG5vZjFQSl83OXZaM25xUjdDQXN1LVpmbzNrQUdxanhNaFdpWXNKSVJmMVF3MWEyTXJ6MGJPMGh0djNHNg?oc=5": {
-      "title": "京都中央信用金庫など、学生の起業家育成で協業 ゼミ形式で伴走支援 - 日本経済新聞",
-      "company": "京都中央信用金庫",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObGxlYVl4czdnU3cxZFBCV1BYZ2t2MXNlcS1QZUNNTEN2OVFIMXkzSGV5SVVjZ0VkLVNUU3J3amxQVE8wdFgwX3ZJYnlwYXpyNlpxbjdET1FHMWxjUWFjY1J2eG5yNkI0M1Z4Tw?oc=5": {
-      "title": "JCBとトレンドマイクロ、MyJCBアプリでAIによる「トレンドマイクロ 詐欺チェック」を提供 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0blVYZnQ5MDdUV0pQVEJvUFoyUkc0ZkxaV0s1M3hfYS1hNFNmTmFiQi1jRlBMWU13R0EyQktUSm5SdjIyUTVSNnQ3UGZTNmhyVHpsNTBaRU8wWWxocWNWSGQ0ZS02SExYR1dR?oc=5": {
-      "title": "映画の幕開けを告げる“あの映像”が実用的なアイテムに！「東映ヒストリカル グッズコレクション」 8月下旬より発売 - 時事ドットコム",
-      "company": "東映",
-      "source": "時事通信",
-      "seen_at": "2026-08-06T11:22:18.724728+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE01bVdocnlGdnNLSGl4T3RWazhNWDZvdGdIcjJBMTJmT2h1YW1wUXhiVV9EdjBfZkx3MmJ6YmpvZXJmcTU2VHB1ZmtCRHk0ZkowcXVnYVVMandQS1hxRER3YkVFUXZpNWRpS05tdQ?oc=5": {
       "title": "メディパルHD、三菱商事と病院向け共同購買網拡大 医療材費を削減 - 日本経済新聞",
       "company": "三菱商事",
@@ -2489,7 +2405,25 @@
       "company": "三井住友トラストグループ",
       "source": "時事通信",
       "seen_at": "2026-08-13T10:02:30.934328+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VRDh4T3U2aDJTVGRmWHZaZ19MT0pESEdLbXNIVXF3RkRYNE1mRTVTcnRFREhMNHZROVZnbzJDbGktdVFJamd3eWVTdHk5clhDWHVaRg?oc=5": {
+      "title": "◎楽天証券、親子向けイベント開催 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-13T13:04:37.483608+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ec2xDa3VSY01SUjYydXNPcWljNzEyNktaVTNCUjVNSlFZYi05b3dQaDZndGFUeHhLSGZqd3U1NnNBWGZoRFl5cnQtQWlZVjBvQUFYYjN4MzNEWFJsc3Rwc0tGd0R2YUFhOE1j?oc=5": {
+      "title": "Secured Finance、三菱UFJ信託銀行による日本国債（JGB）レポ取引オンチェーン化の実証実験にレンディングプロトコルを提供 - jiji.com",
+      "company": "三菱UFJ信託銀行",
+      "source": "時事通信",
+      "seen_at": "2026-08-13T13:04:37.483608+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aXlSX1FUY254VzVZdVFkS1RsMFJYZ3dwd2hTcUtGQk1qbEMtaG0tOTY0V2RhOFo2QlFWMkJnMHNoR2I5NWZHX0tEZUR5RGhjbno1SUFfY2xIaFR0Y0dZRmE3UkxSQnBQLUlOWg?oc=5": {
+      "title": "野村、シンガポールで金現物取引に参入 アジアの富裕層取り込み - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-13T13:04:37.483608+00:00"
     }
   },
-  "last_updated": "2026-08-13T10:02:30.934856+00:00"
+  "last_updated": "2026-08-13T13:04:37.484127+00:00"
 }

@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XUy1CQklicWJiLVNseUxSekxQV25RcWczOFdFLVR3YkdFSk1SeVVOOEF6WkcwRlBhTFJaeXZaTl9RZnpaSTl2Z1Btd29Xa2VxdEJQcUc4RXBmTWdNSkJfM3h1OHV1aU9uMEFQZg?oc=5": {
-      "title": "三菱商事とメディパルHD、ヘルスケア・食・日用品の領域における新たな業務提携契約を締結 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44NXVYNktLQkVXVURYS0s0VG5BWUFpd3EweHNZNlZsSjlJNGc4REw0QkNyZmlMUnRtMDgwY2hhVnJoZkZqTWF2TWFWc1FVLXBkRGk5WGU0cTlTSjZ3X0p5bnZsOXVucW9iX2RiSQ?oc=5": {
-      "title": "NTTデータ、限度額内の融資をオンラインで完結するサービス - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CUFYwb1lqcXppbm1tUDdsMm54QnM3bldsd2MzLUM5bGxiZTZMdDdVRld3dUstRUg5TmNpLUN0WDdBNmlsUm1hTVpIc1NTLXF6a3hVVUpOR3RBRkVLa3g2a0UzaE85MTAyeUxz?oc=5": {
-      "title": "カゴメ、王子ホールディングス、ダイナパックが連携し、工場で発生する紙容器損紙を段ボールへ再資源化する実証を開始 - 時事ドットコム",
-      "company": "王子ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWenFJLXUxUDhUSWw2a2NzOE1oVEt0QS11a3dLTXdwZzIwT3EzQmV2U1dLNHJZNENUaUlDS0xLQ1BWZ3NoUU95eV9KT1NhZkJXbjNjMXlIWV91MlA2LXNVQWlOZmZEdUZhVjB5cA?oc=5": {
-      "title": "デンカの26年4〜6月期、純利益43.2%減 通期予想据え置き - 日本経済新聞",
-      "company": "デンカ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jTFVhcC0xSXV1T3IyMGVBUnZ6X2hTU3NIVEt3cWlUeWhDWHhBN1Z2c2dXRWdJWnUybDF5elJmcFNTOGstdHR5ekRrRjZWMXJKNlFjWGN2T21KTk56OEtzSDY0eWZ1QUYyc0ZvZQ?oc=5": {
-      "title": "デンカ26年4〜9月期、純利益予想を据え置き トントンからトントンに - 日本経済新聞",
-      "company": "デンカ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Y25yLXRubWdhQXprZHAtYmVUSHAwNHQzNHRwcDRLS19ETWEtVldHMlJya1pRQ3BJdjVPVGliNUZrdEtiN2JmRlIwNXVNZlBYdEtuZ25KS0o3N1N4a2tZUFpwbjJNMDlLRVl3?oc=5": {
-      "title": "＜楽天モバイル＞折りたたみスマホならSamsung Galaxy「Samsung Galaxy Z Fold8 Ultra | Fold8 | Flip8」本日発売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibGw3MWNENUtnYXVRWmlVQ2llU3MwMnZoa2wyNWJ4Sm5nSHc2Ni00ZEZPUjBXTkpleEJqVmZwQ21qWGpWc3pXR1gzYW5CZDF1Z0ZCZFRhaUJ1UndqOGd1a29RcENzY3htWnc?oc=5": {
-      "title": "みのや[386A]：イオンモール名古屋茶屋店 ８月７日オープン 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zbFgydjQzUEFueWZmMmlrT1RJTWpPVUFWMUZaM2M2MGhRVkE3Rkh1cUpRVlRaZWd1cDJEYkFHNnY0LXA4NDZ6U3BoTjhUbnBfS1lKS2FrMmliLUl0N050RWlvMkh0T0Nl?oc=5": {
-      "title": "「イオンモール熊本」爆発事故（2026年7月） 写真特集 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-07T02:33:28.133569+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZDhyQ3FiUHp1OEROYzhjZERndEREOWhIaWpXMFdWX0dpcFExVmRFX3NMYWVBb2x6QlVldWJBZE5zbW1lUHFrWUJySnBfUHlJMGpTT1hPNnZseVFfLWgwdks1OE44NzA5NVF3?oc=5": {
       "title": "三菱商事とメディパルホールディングスによるヘルスケア・食・日用品の領域における新たな業務提携に関するお知らせ - 時事ドットコム",
       "company": "三菱商事",
@@ -2249,7 +2201,85 @@
       "company": "森ビル",
       "source": "日本経済新聞",
       "seen_at": "2026-08-14T01:45:15.362639+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSTV5VElzOXpZdHA3T0lKNFlnb2V5amRweEV0c0NHVDRVRDFoSGpzRDBxWm1EeGNEeTFCOVBXMXpFVlFUb3UtMFFHYlpGa1duTmwxU1dwZWsyMC1HU3RucmRUa1FUcVpTZTlYdlln?oc=5": {
+      "title": "エンジニアリングマネージャー（三菱商事グループのデジタル戦略） - 日経転職版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRkNJVWVxS003SXNrRkI0MFNBcFFudUVVaTVhYjFWcTJld0IwX2FTUEFhY3VCNFZnYnEzRXpSN0hITGdMQUJIbzZuUHFTTVh3VmxDOUFmSWhfQXFCRi1VeDViODNHMzMwWENUeQ?oc=5": {
+      "title": "豊田通商、ユニ・チャームとケニアで共同出資会社「SOFY UNICHARM EAST AFRICA」として事業を開始 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE55YVcta1lGWl8waUFkOGY2NVFRd2ZzTW9ZQ2ZaZmxhR3RMRDBENWpYWEIycnd4d1NXQ3hRT0V6MlB1Y0NzMUJudlNtYjAzUFU4cDh0ckc1ek9WUXF6N3FPa2hBWm5lTS1Rc3c?oc=5": {
+      "title": "アサヒグループホールディングス[2502]：2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年8月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWRJaFRBRHotMnFuZHg5QzZuU1EzRDluMEZmYk5qb3ZuZGRWS2xBbG5tT21aNE5pay1JeURhT1lwYjRUTE1yRlpvYS04UFJDSXk4RXhVZjJ3MWxiX2VId0VpM05MejE0SXJOek96MURtZDhvd1NaeFlaRGFGVG5Eb3pUeS1CU0xlaWJnTnFBOGNEQQ?oc=5": {
+      "title": "アサヒグループホールディングス[2502] : アサヒの26年1～3月期、純利益0.4%減 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk1mUnNoX0o1V1lwVnFFd2JHNUxIWEZrOTVkMndXYXI0YnVnSHZEb1FhcXkyZlU4YmQ0UERkQ2dSSUdWcjhFaVc1d2YxallHOEtBMlFLVFlhVkZMbnVCUHJSUHAzbXhhMGNrSUFldUd0RzBDVVh4NFMzYlVVVThKMW9rYkdYalFpb0EzM1ZuaG52cFF4M3Mta3g5UGNET05QSUJuaUV3TFB0cEQ4anFPUGVXck55WnpXTUNrb1daLTBJazB4eGNQSkwtWGs?oc=5": {
+      "title": "アサヒ - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WU0xmSDFYd2NkZy1GaTlGa1NLU2xJZ0hzQW4yYV9Xak1fOEFPcWxvUzRFS2hsS2gzMHdpNmVIUk5nRzl6OXlyV1ZWcEVIdXlaRGNOeEhRQy0tc1ExdllxenJOeHFwT0FrYWt3VQ?oc=5": {
+      "title": "アサヒ - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE16M0RFUWpmQU00SFYtX1BVWmtvOU5fMks2TzdvOGw1TEhweE42ekNuZGFsRU1ZSFgyMmhHQ0lQNVZjeW5LVU40cWYxOVJZWUlwV2hqOG9RMGhFanZ3QjN6QlZxMDFySmJWRWc?oc=5": {
+      "title": "アサヒグループホールディングス[2502]：2026年12月期 第１四半期決算短信〔ＩＦＲＳ〕（連結） 2026年8月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE15OGlUSWZsbjMzSzJqdzFjSFhYZHZtdnFXZkx2d2JNYkpId042d2taTEtOa1ZuXzhjS00yQzVab1h2S0NYQ3hsdlotSHRlTlZRWTN0YUFwbzlGNnRaQnBZQ08wa0lIemdTUFE?oc=5": {
+      "title": "アサヒグループホールディングス[2502]：2026年12月期 第１四半期決算補足資料 2026年8月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZT3pNUGtLM0lFQU1zN0trU0xjWUowN0NFM0E1YVlpX2xvT3JwSDdBSDd1ZUhjR3l6UEdNclZmbEV4T3hHUjdraEs0aUstMVl3X3RqTFl6TkVkMmVXcHBRY1VGRjVySU96ZmxGaA?oc=5": {
+      "title": "決算:アサヒGHD純利益69%増 1〜6月、博多工場の用地売却益が寄与 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUTM4aGxjQmEwcy1aMm96Q3Q2aTZ6aWlNQzc0cnl1dkNJb2MybFBRLUt0VW1jV1FpRzlnTUJfbTJCbU9GN05xemNOLTRib0lWWlJxdmdUOS1HVmIyWVNmN1JCQ01qMW5kV2dXTQ?oc=5": {
+      "title": "アサヒの26年1〜6月期、純利益68.8%増 通期予想据え置き - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TWxhbUJRVF9ISF9xUzdMRnV0ZkVQRmg0dmZuS2VkNF9md1NHdVVLa0c3NkVhZVJRSkROM0FGM1ltX0hOU3ZZbmxRdk1RQkNjSzlhcFhiZ05nTTdRM2lqdEdkTmpQT084RUVKUg?oc=5": {
+      "title": "アサヒの26年1〜3月期、純利益0.4%減 通期予想据え置き - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuTlBYdnNPYndsT21EdXZ2MXBKSDdLLVZhUkI4ZEpMR1o2dnlRZ0NHRlA3WEg4MlY1dmdjU0hPdmNUd1Q5MEphR3hRaE41ckdSNWVtTDZzWTFiVUt1LVJXRzZKSlR6eElWcEF4LQ?oc=5": {
+      "title": "沈むな日本車 トヨタ・ホンダ・日産の生き残り策まとめ読み - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zeGpUYkJucnpFS01wLWZ2cWIxSVBXTlJoY0lyZUxJUDVhS25rblNEUEowQTlWZEQyN1c4VExtUG1iM05RX2VISmVxb1hhUHQySmVCdkxlb1JMTkk0aDl5UW9ZN1lNcTE3dlZN?oc=5": {
+      "title": "澁澤コネクト、リチウムイオンバッテリーフォークリフトを「国際物流総合展2026」に展示 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-14T04:46:50.572137+00:00"
     }
   },
-  "last_updated": "2026-08-14T01:45:15.363176+00:00"
+  "last_updated": "2026-08-14T04:46:50.572644+00:00"
 }

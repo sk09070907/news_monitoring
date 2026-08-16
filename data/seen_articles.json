@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oajhhNEtVdERHY0hySFlSTi1HeTExZENqaVVrXy1kLXBVdWhlU1RhSk9FWUN5YXhFaVF0SW9pbUhBT0FRLW11eTYyblVFYkdpY2hlemZxWk5PU0wwNDJVSnhjS05fVXhyRWFSMkJ3?oc=5": {
-      "title": "次世代設備の電気制御開発エンジニア（制御盤設計～立上げ）【佐倉】◆フジクラ成長領域／老舗の安定性 - 日経転職版",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-09T01:27:53.110962+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCM0tNSVFra0Uwd19zTDRHNWlFSFdaXzZxYnZlVm9ZU2VFNkU2TTVkc01zemc0NUZlX1BGWXgyRjZtZGZXM24wR21BYngzS1lhM3RmdQ?oc=5": {
-      "title": "大飯３号機が自動停止＝発電機関連の警報、原因調査―関電 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T01:27:53.110962+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SaEFJUk0xR3hncGM4UEljS2FISFo5Smd2c21RVDFlb1ZxYlBXVFBlM3Z1RVNBaThhRkxXQkYzUWJ3R0RrMG1faGRFdHk0RzRrQ2FZVEZpR0FCekZMdjZQVHR0OUI1QXNIRzdqQw?oc=5": {
       "title": "鋳鉄が生む忠実な音 アイシン系の音響器具の「レクサス」が人気に - 日本経済新聞",
       "company": "アイシン",
@@ -1819,5 +1807,5 @@
       "seen_at": "2026-08-16T01:09:30.007525+00:00"
     }
   },
-  "last_updated": "2026-08-16T01:09:30.007921+00:00"
+  "last_updated": "2026-08-16T03:45:42.291410+00:00"
 }

@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNakQ5X2ZsTUVtMVduNDI4TkNhdGl1UWQzazJMc0QtRDk0RFQtOHdDcFN5aFlnUDJXbWladWRZa1h0eFpId0Rld2c0eFBYOEt4eWQ5bjJtNlFxRDhMd2M1elhmTG1MeFNPTVg5VEdrVFZUZVpCQlQtd0IzbmxGWnhnNg?oc=5": {
-      "title": "大飯３号機が自動停止 発電機関連の警報、原因調査―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T06:52:53.403657+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UVVZTHQ0aWVZSlREVndYVkU3YVJiREZyYWVRUm44Z3VUZHVITGVkUXlIMDZtT1BuQnNMRGs1VEJkWFoxQ3lwcl9IREt2cEJVS2NlUmtNVTIxRkRUZTZET1ZBaVFvNG9WWTZpbFpVRQ?oc=5": {
-      "title": "大飯３号機が自動停止＝発電機関連の警報、原因調査―関電 - iJAMPポータル",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T06:52:53.403657+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZk1IS2pYOUcxVl82aDlkZzc5LXdNZjhxRlpqcFVydkNqOGZVLVRQRDZTY1d0S0dfN2E4ZWZWc1VjTzVvM3NSSnJuWDdNTHZLaEE?oc=5": {
-      "title": "Orix Pitcher Yoshihisa Hirano to Retire at End of Season - sp.m.jiji.com",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T06:52:53.403657+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53MHhpV3hHNWt6SVlWMi02dE5GWjIwQ24ySHN1YW5MTHRPcWlTOGs0QWluWFF4UDN3TFNMM2E5RVB3dHVkd01nZmZibUJBNU1Dd1BzelozSEpiTnpZZFpWeEY2RDU3WVpUSUttdzBUaw?oc=5": {
-      "title": "平野佳寿投手、今季限りで現役引退＝４２歳、日米通算２５８セーブ―オリックス - iJAMPポータル",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T06:52:53.403657+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEdXk5NHdrcUJ0TkotbGpZUVZUamIzZWVKYzkteFNNUUk2ckszeWsxdEN1OHJEelhENXFFd2pqbXVkM3VlcXZNWFQ5LXc4OHVDN09NVmFPM1Yxczg1ajlYRzlXWDI?oc=5": {
       "title": "画像・写真：イオンモール周辺を警備する警察官：時事ドットコム - 時事ドットコム",
       "company": "イオン",
@@ -1787,7 +1763,13 @@
       "company": "中部電力",
       "source": "時事通信",
       "seen_at": "2026-08-16T01:09:30.007525+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FMGJfcHlnakRPM3Z6OEFrdHY3MFBVZW9kUXBfSHU0blpkcXhaTVFtX183QWlQbXpLMzlXeS1IdjFLWXpwMWptT0dabjBySzc2MzdacHlYWEo4QVV1N252bERtaw?oc=5": {
+      "title": "浜岡不正、問われる経営責任 月内にも調査委報告―中部電力 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-16T09:24:25.458151+00:00"
     }
   },
-  "last_updated": "2026-08-16T06:35:22.374803+00:00"
+  "last_updated": "2026-08-16T09:24:25.458398+00:00"
 }

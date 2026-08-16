@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SaEFJUk0xR3hncGM4UEljS2FISFo5Smd2c21RVDFlb1ZxYlBXVFBlM3Z1RVNBaThhRkxXQkYzUWJ3R0RrMG1faGRFdHk0RzRrQ2FZVEZpR0FCekZMdjZQVHR0OUI1QXNIRzdqQw?oc=5": {
-      "title": "鋳鉄が生む忠実な音 アイシン系の音響器具の「レクサス」が人気に - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-09T04:16:42.563076+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wcU9qSW9oNHhWV0tkSUZmYXF1SUV2b2JlcDUzcjVSd2JRWkdLa21jQmVXWER6NGVpckt2d1RlNmo5eHdKa1JSZGg3eF90d2tlTWdrSnlUTEVSbGlEUm5HeWd6WQ?oc=5": {
-      "title": "大飯３号機が自動停止 発電機関連の警報、原因調査―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T04:16:42.563076+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSXRsYjBFdFBRWldaZnNWeS1FcmpESElYWVZxcHNBeWZIcGQtMExpSFZYVEhTd2M0NklCVzhoSHlkQnNqUXM0SHAtUnRzNVd2UHdaS3h4eVdWc1RzQWc?oc=5": {
-      "title": "平野佳寿投手、今季限りで現役引退＝４２歳、日米通算２５８セーブ―オリックス - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-08-09T04:16:42.563076+00:00"
-    },
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNakQ5X2ZsTUVtMVduNDI4TkNhdGl1UWQzazJMc0QtRDk0RFQtOHdDcFN5aFlnUDJXbWladWRZa1h0eFpId0Rld2c0eFBYOEt4eWQ5bjJtNlFxRDhMd2M1elhmTG1MeFNPTVg5VEdrVFZUZVpCQlQtd0IzbmxGWnhnNg?oc=5": {
       "title": "大飯３号機が自動停止 発電機関連の警報、原因調査―関電 - 時事ドットコム",
       "company": "関西電力",
@@ -1807,5 +1789,5 @@
       "seen_at": "2026-08-16T01:09:30.007525+00:00"
     }
   },
-  "last_updated": "2026-08-16T03:45:42.291410+00:00"
+  "last_updated": "2026-08-16T06:35:22.374803+00:00"
 }

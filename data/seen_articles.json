@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVVTSkpVbmhRTF91d2loLVMtdXNzeGlIZ090cElXSFd0QnhaMmV2VWpyaDJ1LUw5VVpVS2d3U3o1dGthcTdPb3FNV2p1a2dCdXFrMWxaZTdvWHZuZ2RYTmZ1Rmo0bk9vR3RNdjB6dUJIMVRSazA0dUFZRUhkaGdIVDdIZU9lVlU5dlRJNmx5VmlRZw?oc=5": {
-      "title": "ミツウロコＧの26年4～6月期、純利益7.3%減 通期予想据え置き - 日本経済新聞",
-      "company": "ミツウロコグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-08T21:24:28.401429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTV4TUZ0Mk5NWjBBZ2pIR0lOTXZESVNWLW9VSGp2U3NQX2FJTzV1bjFHY2RsS1JRQXVERUc1Q0x0SlplWVA5TGF6cm1LVEt4czB6eVZ3anVKQW5aQk44eXRSbTJzc1VON1NqTjE1S1h0UkcyUF9vYzBLeWNVMjlPaDgzQTdkbDBJOHNQdnFLR2xmdw?oc=5": {
-      "title": "京三製作所[6742] : 京三の26年4～6月期、最終損益は3億9800万円の黒字 通期予想据え置き：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "京三製作所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-08T21:24:28.401429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ckFOWWtJMTYteF9LVzZkWEZPdTBtZ04zUWpTSVRiRmJrU1U3blFFMzZtVUYxblczdWxuakdRbzlBc2ctX09MeVlQUE1idUVtUERZdWdETVlDSHNyVjNETVpWMFR5MUpTOE8yeg?oc=5": {
-      "title": "関西電力、大飯原発3号機に異常 原子炉を自動停止 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-08T21:24:28.401429+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ERlBFVzJKOGpfU1NLVm94QnlsNExpVHpTSnZhRlpWUS1feURTLVJ6cm9PVFFSMGxEM2d3M01jaGJYcFhMWUZGZFBNb0xjWlFYNUNrYVdzUDNQV2RkUFBkWTFyVmk4SlNJam1Vbw?oc=5": {
-      "title": "石炭火力のCO2初輸送 関電や川重、地下貯留にらむ - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-08T21:24:28.401429+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oajhhNEtVdERHY0hySFlSTi1HeTExZENqaVVrXy1kLXBVdWhlU1RhSk9FWUN5YXhFaVF0SW9pbUhBT0FRLW11eTYyblVFYkdpY2hlemZxWk5PU0wwNDJVSnhjS05fVXhyRWFSMkJ3?oc=5": {
       "title": "次世代設備の電気制御開発エンジニア（制御盤設計～立上げ）【佐倉】◆フジクラ成長領域／老舗の安定性 - 日経転職版",
       "company": "フジクラ",
@@ -1823,7 +1799,25 @@
       "company": "鹿島建設",
       "source": "時事通信",
       "seen_at": "2026-08-15T21:15:24.890107+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxcXk4VUZFaEZxdUVWSWNLQXI0U3dNdTNQajJ3UDQwdFlidXlHdXhuc2pnQ1U4QlQxR18yb3pOTXBQYW5hcnl1bFA4ejM3eUIyNFlrN2swYlBvODF1czFGdVBUZHpjM2ZtX3dlcnBn?oc=5": {
+      "title": "●ワークサイトPM（建設クラウド／三菱商事100％子会社） - 日経転職版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-16T01:09:30.007525+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44c3hiQTNVOXNGclFtTGxrb2g5Z0NXRlV4dzJXdTN3clQ5LU8wZWJmdEszSnNoV0lhSnd6OVQydzh0bVdMRkFxdFJ0U1kwZDNnSE84bmoyM1VnbjJ1QjRPeC1WTQ?oc=5": {
+      "title": "浜岡不正、問われる経営責任 月内にも調査委報告―中部電力 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-16T01:09:30.007525+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYkFLQzlkc2JDNFlDODVVbkVoQVY5c1lELUZOSkd1bUR1dFc2dWxVZ3pFVW1DVUpObHZPbEhKLVZhMzFnSXd1TXBsLTNfakRSa19vR1djdVoxNmpPLWY5dkRrYWdVcVdxWmsySG5ZcGpyeS1MVFlDWkszUWJJOEJmbDlB?oc=5": {
+      "title": "浜岡不正、問われる経営責任 月内にも調査委報告―中部電力 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-16T01:09:30.007525+00:00"
     }
   },
-  "last_updated": "2026-08-15T21:15:24.890291+00:00"
+  "last_updated": "2026-08-16T01:09:30.007921+00:00"
 }

@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSU9NVzBVLWVsRlljeUdYaU9Bd0VsRXhCMEVwcFd6dE1nNEtJZm9ybHJEQ2NBZmYwN1lrdUx3Zng0emJMenAzUTdNSXA3ZVROUmc2dzRHeEFMQU1XU3o1UHBXbEVwZGhPOEN4Qg?oc=5": {
-      "title": "住友商事、英の洋上風力に参画 浮体式へ初の出資 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYlZjY1p5RFphNl9EaG80UWtoTHUwZHhBckhaQUdURnhCNG5ILXJTOWs0NzNKZnpLMWFQLXFTV1JwWHVaMUk0djZUYmVNLS13VUNyVG9JV3R1UmNhSzRLZ3VWTU9LeFRJd1NZQw?oc=5": {
-      "title": "音響器具の「レクサス」快走 アイシン高丘、雑音消すオーディオ台 車素材活用、愛好家が支持 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5naUI0NWwzSUJUZ0MyZTdTckJoMzFSN0YzMWs3dktjNU1uSGhQVlJncmdqOUJ5U25ReEtZUFpQeTJPOXVpd2ZieC1xbWY4SHo4a0V2NFhqZ3Z3Zkt2OHVJTWFzTmxJRC1LYTU0dQ?oc=5": {
-      "title": "楽天G1～6月営業益、7年ぶり黒字 EC好調 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZNnVvLWxVTFRvMm5PWkxldDktelUzclkwaktIYkVsMDZsUk1JOVJEOFpXWXlMdm5qOVM0VHhXR09oN3Y1SnBvQTBVNFlnYkl5QUctblFobFQ4TFlvd1oyTUdEY0NHOFdZd2RlXw?oc=5": {
-      "title": "楽天、危うい低料金戦略 KDDI回線縮小で投資負担増 遠のく携帯「独り立ち」 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jcFIzc2hRU0d0SGhVWUxUanUzM2dZM3hwYUk1VUU4bWRfTGU4d3B4RVM1M3A2Q01DR3ZXSXdaSzJhcWZ3TXRFa3VVV1E5M3JoWVFnTDlvcWczUVUzSW03ekFQSDAzZndyTW16YTF3?oc=5": {
-      "title": "データサイエンティスト／データアナリスト 【東京】◎楽天グループのFinTech領域を推進◎ - 日経転職版",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZDd3SlNQSVpNT1NvUnQ4N193T1pNa0dkWlpidW1KSThwa0JxZGNIUjhBVDNLWjV4ZEEyZEhhRkdIMWs4c0xpS25LTmpNa2FQZzZMb3Nva05zQllud0E?oc=5": {
-      "title": "◎楽天、７年ぶり営業黒字＝通販、金融が好調―６月中間 - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lZUdVVERzQnlFRllSYktkMm1JQWhXa3diRjNfVDEwaTNnVy1xYUJiSFk0LTRweFdtbGROYmIyRDMxNG02UVI3U0ljU1FkQ0plTDhKdWZhNkhPM3hxcFE?oc=5": {
-      "title": "◎〔決算〕楽天、６月中間期に７年ぶり営業黒字 - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XUjlCbWxqZzF5SXhMRTFzQWhMN2ZsU18ybXJhNU1DeGxQVDFnWFMyT1dxQzVVRUlGUXhsSDNFVFB3blUwQlM4eWt1RXJ1NjBhMFpqcFI2Z082UnZ6YmJYdnJIeTdLVFNoQWJwYldR?oc=5": {
-      "title": "インフラ戦略企画・組織マネジメント（オリックスグループ／役員補佐／リモート可） - 日経転職版",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-10T21:36:33.650431+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5": {
       "title": "売上金保管指示「許せない」 「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震 - 時事ドットコム",
       "company": "イオン",
@@ -1535,7 +1487,37 @@
       "company": "森ビル",
       "source": "日本経済新聞",
       "seen_at": "2026-08-17T21:20:37.213560+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZHpkSFFod3I3S2ZRcXBSUG1nRUkwa1BzclBHMFJ2SmRibVNaMThCRmdlTHFsWWJCSC0tWVhfMi1wRzg4OWtmdHJTNVhZU0p4UndqVjhsMHFvMmF0aUVoUV9rYW5yTF9tclBrVw?oc=5": {
+      "title": "コスモブルーム、10月に宇宙でシート展開実験 トヨタ系などが出資 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T01:05:24.494724+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tMXBoelZHem90V2xCdGw1clM3X0xvMF9SbTUwS240M2owV2FqYk9VazhsZ2E5VUtqSE1wVUlOWFZPcDJoNmpqOW5RaWo3THEzLS1PV2pCdXdvaEs0S056UU1zbUFDSjlhV0dPWQ?oc=5": {
+      "title": "近鉄の磁気定期券、販売終了へ - 日本経済新聞",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T01:05:24.494724+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aRHozVXlxNzJpN3lfYll1Si1TN1lKYlI5QXNBY010R0V3d3JYT3VpUGwzWWtZQmx1N3ZFVVItNWVGcGxCU3BKZzhacExab0RLOHZqMlhvWFFWMjc2SmJUNW52aDJxY2d5NUE?oc=5": {
+      "title": "ＲＯＢＯＴ ＰＡＹＭＥＮＴ[4374]：森ビル株式会社が運営する3つのインキュベーション拠点で「請求管理ロボ」を採用 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T01:05:24.494724+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ3VVS013clc2YzJkSm43Y3AzcUtnN1EzbExKWHl4dkJ2QWczeU42TkVPUWJWNFhna2xxeldZaHNXM3JzaHlJVWFlX2U1WEpXTG9iWExuM2s5b0FtYmRBV0Y0YURtajhKWWc?oc=5": {
+      "title": "日本ビルファンド投資法人[8951]：2026年６月期（第50期）決算説明会資料 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本ビルファンド",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T01:05:24.494724+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVVkZHBFYk5wNUN5WnRkanBQdXRMRlFUSWRYM3RNZDhsQUVEeW9WTElDc1llUFJETXVZLUNHRUpGbEdWTHEtcU1aelZ6VlhzMEhfcGtDakZ2SUh2NWNLN1dNeUtjekpteHVQZzN4OGxRdFViMllBeGFUSEY5TEVNZG51YVFQc2Q3QzBmRlBaWTNXdFJ2SzYwWHdPSHhQaW1MTlJrOXc3MW42Nm1SWkd2LTZhYzVkSHVuaXk2UC1aaHhULVpTdnRKWjRiT2Y?oc=5": {
+      "title": "日本ビルファンド投資法人[8951]：2026年６月期（第50期）決算説明会資料 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本ビルファンド",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T01:05:24.494724+00:00"
     }
   },
-  "last_updated": "2026-08-17T21:20:37.214048+00:00"
+  "last_updated": "2026-08-18T01:05:24.495160+00:00"
 }

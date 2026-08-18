@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZcFhGWjk0eGJBQjRjanUtTVBUSDd6NVIyWVJ0VElST1lxdEQ4M2w4SkE2T2MxVzdHNlFuQ0szU3pZcmZFUWs1V1lLaXExUnFmWlJfRg?oc=5": {
-      "title": "○イオン、熊本地震発生後に従業員に再入館許可 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-11T12:58:23.565823+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1naEJHMDV4a2paWFAzSFloV19Rd0l2cjA2Y05JZmlpRWNNRmNBcHQzb2s0SmM1R2VmSWpPek1iNVJCWFVTYTY0Q0N0MkhGaS1ibTF5cmtLb3hYRmowUFp3RGZqR1hqdmQyR2lURQ?oc=5": {
       "title": "奥田碩氏が死去、93歳 トヨタ社長や経団連会長など歴任 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1553,7 +1547,55 @@
       "company": "ジェーシービー",
       "source": "日本経済新聞",
       "seen_at": "2026-08-18T12:40:18.422592+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pNnNOdEpBNUNTakdhQUFmZUVoTFo5TlJ6NWdualRrTHRPSjdPMGVvY0VGeHg0aTJTVkZ5WFdLMDNiTHRLX1ZhZ1Q0V1l0ZjNrQ3FZem9kZEVmSlQ3T3RocHZFaXczNDdLVzBjSA?oc=5": {
+      "title": "（決算トーク）「格下げは想定していた」 NTT 島田明社長 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRmdhVE5OZ2NnM3NMTUU2bGdBQzFwY1hLaGlSZWVfRlJtal9RSGRzV0ZwMHNrdnUxTzRkVUw2Q2hYNXZQS1BaTzJ1TWstNl9ibmpSQkR4cW1sZExYY2NRRDRXTWt4cDFCdWJEQg?oc=5": {
+      "title": "空飛ぶトヨタ、米社と「創業の夢」実現 都市部でエアタクシー - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKVGJyeVlUamJZX3JJb0FldlNRTU1tOXdfR19HNkg0MlI1X1NGYzBjRlprXzA4MjM2R3A4TXRpSzJUYkZJUmpSZS16UDVwWWlEcGgxRFZsek9nU2k1SFpYdHFEbzFVZXlJRHY0cQ?oc=5": {
+      "title": "トヨタのミニバン、運転席と3列目で会話しやすく 林テレンプが改良 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpVXZGVW43dWxGb0hnTm92aGJQeXFudUNpOXdVbURHV3ZaQ1pjTWJCMTI5Q3Y0SG1nS2JuVmNHQXh0c19rb3FqaldOX2FacnRiV1pHb0paaWdfSW5ocWxLc1NLc0NJSDNCeHlibA?oc=5": {
+      "title": "ナトリウムイオン蓄電池で新興2社が連携 3年で200メガワット時目標 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUWFsbGc3b2NscVdlWGNuX0JQUF9XTHVxS2s0YVpXRzEzSjF6M2hjNDZRY0FZWkd4Znc0aVZQNmk3bDJBSjV0Y3AtNFBBX1MteWZJSExvaUhQTVpSWFFQWS1ha3BzODg?oc=5": {
+      "title": "三井倉庫HDが検品に生成AI、バーコードなし商材をスマホ撮影で照合 - 日経クロステック",
+      "company": "三井倉庫ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qbDF6eWNNZldBTlFpLVpiNjZ4NWoxeldLS0NKRGtfUi15Q2hrSkVibjNyLTUtRHpmTkozS2pna0VmZ3p5OWgxZU9EY2p6MkNYYWw0RE5KMkxEbXZrVFM0d2t2eXp5Q3dxWlItX0k3WWV3RjZ2?oc=5": {
+      "title": "オリックス宮内氏×さくらインターネット田中氏 「AI時代も日本企業は戦える」 - 日経ビジネス電子版",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zUUMtZXAtaGY1VUN0Wkw3dzlVWm5nUHhwaFBBRG1MTE9xakhoZUdDQWlmM3N5QU9aV0pub2NnLWVNRjVjUmRvT1VRYVVTVENzZFdwS1ptOVVWOWRKRkdEbUxMTHhBaXdyVnNPMg?oc=5": {
+      "title": "ステーブルコイン決済、ローソン店頭で JCB、訪日客向け実証 - 日本経済新聞",
+      "company": "ジェーシービー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SjlwQ1NIQmhkSElMR0xlaVpJc3JuVjJjeUJZOG5LSDlqNzdET282S21VM1Z0ZGtMUVV1c0J2cmd6a2VLaXNxY01qSmFMTEZTb3FjZ0hKV1lSQ3VZdlhZR0RXZEJtMjNicE44?oc=5": {
+      "title": "〈Leader's Voice〉東京をさらに強くする 森ビル 向後康弘社長 - 日本経済新聞",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-18T21:18:47.747159+00:00"
     }
   },
-  "last_updated": "2026-08-18T12:40:18.423079+00:00"
+  "last_updated": "2026-08-18T21:18:47.747617+00:00"
 }

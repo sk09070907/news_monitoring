@@ -1,125 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMa2ZBY3Q2dVRiUjNZNV9MUnlkMThIUXBvS2QwT2wwQjFVT2VlRXA2NlFDTFRqRDNfRUp6OUExMjNXZ3A5YjFmbnBwMl81RmZxWUZXQjJFZTkxTzRxVTBaTXdZT3BORWhERnhOXw?oc=5": {
-      "title": "三菱商事、最終増益 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wU0h3RGlOb0loQlo0cVI0UTlYcXJmRnVCQTZ3cEctaF9GS1p6VFEtbUVUS2k5c3FpVXpKQkYzb2x2YUdPZkRhRXhNVTVEaGV6Ulo1Tlhjb0k5dW1jUTUwZG5fQTBaYXJqa3p3Vg?oc=5": {
-      "title": "三井物産、最終増益 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83SWtqcVpTdjhXOFVRa0N2MnBiMjZkVkVXX0RuZ0RCei1qa3lId0dsbzhVT2VnMVhENk5kM1hDTXpEV29RTWRKNE8za25BVVloc080dWtHdXV6YldITHZmUG5hTUl1OVVEaVQ4SA?oc=5": {
-      "title": "伊藤忠商事、3期連続最高益 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yWkhnd1N5ZVRwSFZnaWRUTUpkdG1mSzByNTdjMHNpaDVuNE9KdnpibEVCSGNDT0piRTNKOGR3V003OVM5bnZSeXhXcGJFcmVLQUlWdlM1ZFIwMDNxS1NDM1NuRGpPZ21qRk54Yg?oc=5": {
-      "title": "住友商事、2年連続最高益 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNkFVU3BiZkFhVFdjM3ZqaGF4dTg5bTRSZ0pnWmstVFNEUHNHVGIzYWJBRnZKV0RsLUhHNW5VLU42Qnk2Tnhya1g3U1dYME1ySzc5VkhsMUcwM1MzZmdld2Y3anF3eFkyUVE?oc=5": {
-      "title": "ＷＯＷＯＷ[4839]：（開示事項の経過）当社完全子会社と株式会社NTTドコモとの吸収分割契約の締結に関するお知らせ 2026年8月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKWDVaenF6dThmeWlIRHYxQmhDMVNPZC1nbzVtSjd6OU53WkpsQTRncHVQbmp5LUl4OWFOVjlDcURXMlAwRkNQbkM1WkNVVERaMHFod1BNVWFoaktCaTBLdGlKQnhaTUx2dzhV?oc=5": {
-      "title": "NTTドコモビジネス・NTTモビリティ・NTTドコモ、自動運転とオンデマンド配車システムを組み合わせた実証実験を開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SG81RkZERmM4T2pjbGtSMlFSQzJVaGY5RXdlZklrdFVfTWFLRTk3Z0szOGtFT3pGY2lkZF9TeVZfVk85cmo4ZXh4N3l3UWZiQW5iMklxMHRqMzR0bzFGY3ZXUU1ZXzliSHZz?oc=5": {
-      "title": "（開示事項の経過）当社完全子会社と株式会社NTTドコモとの 吸収分割契約の締結に関するお知らせ - jiji.com",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tbVV4djcySGRZTHEtWmtiTXdseDFyZFQ0V2FaSk84U2tiOTdUYmFEZWtZamMtVEY5R1RsWXdocTE2b182dDJRUVl5ZjA4Y0NwUjhmdmtyM2NmZE5BSG8yX3RBZGRGeHNlbnIw?oc=5": {
-      "title": "カイロスマーケティング、NTTデータと共催で「顧客の関心が高いうちに商談につなげる」オンラインセミナーを開催 - jiji.com",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUy1VWTh2QnhvMFBCNVJjXzNhSnVGMnBHTTlDZXRMM2dpdlI5MGpVWUJ3OUNOaTMzVTBjSVFadWJ3RHdjYmIzRnZfWjZvZW1rNzl3ajhxU29Xd1Y0ajdSZXNRd3BrQjNLVVVjdQ?oc=5": {
-      "title": "アサヒグループホールディングス[2502]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE10eV8teUxqY3lPNk0waXpCbzgwd3lZd2RVRE5iTjR2THU5WTZidl8wbnRURm9fT0VqTWE3dlRhd2l1RGMxTVhsWUlSRHk1clJNdUFXYk1KblljUjBkeWhyNUstWm5maWxNOVF5Vg?oc=5": {
-      "title": "「トヨタの敵はトヨタ」奥田碩氏が死去、変えないリスクに警鐘鳴らす - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUTdaQ0Y0NWNXZ1dYRXVLNGQ1dWhPYXRzak8wQlotdVpZcHU3aGtYa3ZUbHJyVThSVGxXUW5jV25IckhZLXRaeHB2WllaeEhLWUoxTTdFYkQ1Vk1SSHlhT2RXclVGTlBRYnNDTA?oc=5": {
-      "title": "追悼 トヨタ奥田碩氏、20年前に語った「変えられないニッポン」への憂い - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aeDhYNlprMDFyQnRHYnBHXzZGRENORGhwa1VzUExKTmplc2d0cWdkcnZfZGh4cWV0V0t2UjNteVo5U2dpMHRrTWRCbmoydGxuY3dQbQ?oc=5": {
-      "title": "トヨタ自動車の社長、会長を務めた奥田碩氏が死去した。９３歳だった - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FNVZrd01hWmRyWkxObEw2TFNRNUlVMkN6NDRHRGNlRzFCNlhfbW9QZnFTRVN1ZmF5cVE4TkpzSEkwOFBHTEJSSzdxS01kOXpVV0RJd0xYUy05YVBFMkVDaERxVS00eFZkQWUw?oc=5": {
-      "title": "【楽天市場デイリーランキング4冠】発売直後から完売が続く「VALX ハイブリッドプロテイン」が予約販売開始後も4部門で第1位を獲得 - jiji.com",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vQm9EZEpmN0JZaHlCdDQxb0g2bnJwTEM1ZW92alpELUhRZHE0RDBLYS0ySzAwaFk3T094Vl9DN1o0UFFHRXhoQWxIQXU4UzAybURWME5IZ0hoa3hoTDhCZ2xoakY4SmpPV0VV?oc=5": {
-      "title": "【楽天市場 数限定50%オフ半額セール】Android 16＆Gemini AI対応の11インチタブレット「DOOGEE U11 Pro」最大30GB RAM・256GBストレージ、限定で18950円 - jiji.com",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iSVFoQm9EQmZKM3VJMjY3bVV1QVBoN1VOVVhtVjh3YzlIeUJ4ZUsxeVpFNzAzeElFLUxyVXJaVzJqWWVNa1BpMEVmU0lVTS1obHRMQlZHYW5iTzVDdDQ2VzZlT1FIdEFFWUQzYg?oc=5": {
-      "title": "イオン、遺族に補償検討 モール爆発事故で7人死亡 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5": {
-      "title": "イオン、爆発事故遺族に補償の意向＝「早期に対応」―熊本地震 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dTBDMl83UC1aWlNoNjFnTTB4amhRSEgzXzEzTHllenlpOFk0REs3dTJZUVNhQUNRN3RYMzgyb1lXR2drZEttREVQTGVVRFNwMEZwN2RoR0FCNmdzNi1rYllNVmJKZw?oc=5": {
-      "title": "【速報】イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした - jiji.com",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5": {
-      "title": "イオン、爆発事故遺族に補償の意向 「早期に対応」―熊本地震 - jiji.com",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTUliblJXb2g2c1VUZEhqSW5BUVFkQVdTejZoQ2pHanNob0l6UWZlVDRfZ2ZhUkRDVEltU3g5ZGJhRVhScFZtOXpYdVNCYVBsX2tZN2ZOQVJmWXp1bDhNdzBpaHpSOGZWb3M2NQ?oc=5": {
-      "title": "BIPROGY、中部電力ミライズに環境価値管理サービス「Re : lvis」を提供開始 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE96TFo1U1BHUjJYbE4zTVlhak9YOVFnR1pfdVI5cExqd2RHM0lmTFMtTUg0X0lOblhIdk5QbkpaUEFLQ1JlVllqNm1sT2l3ZlNwM0VzZ2ZhVVNXMU94UWY4aHdCZWlRZWNjLWNV?oc=5": {
-      "title": "【日本ハンドボール協会】三菱UFJ銀行 渋谷支店と「渋谷次世代育成パートナー」契約を締結 - jiji.com",
-      "company": "三菱UFJ銀行",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T04:46:18.010496+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSE9KRXdtSm8yR250Y2kzemhVek92bUVFdHUyYmlLV1NTSkluaHBZaGpiS1NUcHRrd3dVMUhaanpnWGF1Q1dsZWZ2eDlfa1hSZmpQV0FMM1Mxa1J5bk90eV9zeWYzcDF4Z19aQQ?oc=5": {
       "title": "モロッコでごみ発電所建設 伊藤忠、カナデビアなどと - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -1565,7 +1445,91 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-08-19T03:44:16.387598+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSEpGbTNZMnY0NTRocFAxRWlacmtfV3hmOUVWazlEeTVjSzBWN3dzOTgwaHY2THAxUjhMbTNJLVlicTJxUDZKX05wWFpTV2w0MzVmU2hqWUQ1UGNoN3F5MF9QWFk5NDVOWERBbg?oc=5": {
+      "title": "NTT-AT、RPAツールWinActor Ver.7.7.0を販売開始 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rOFVHWlUxMXBrRE1qVTNYNURaX0llSTJwUFRmM1ZzejAtc3VlYkVNZlNEVGo3c0NvTkM3SUIwSHpBOVp2dzE0NkxJdDhzQzA5VV9paS1yaWx3VnZzQzB2a2lSTG5Tc1o3bWpJ?oc=5": {
+      "title": "インフォメーション・ディベロプメント、NTTデータ社主催「Work Shift for Resilience 2026」に登壇 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRFpFVHllSXlSNnVUY04zRTMzMGtGVm1uWDlkckx1aG9rdkpxVk5qdDJYVDFKUGNhb1Z0Rk9pSXRMbUtrOXNtU0R4V0ZTeDNNVERSQVZFYlFiMXVYZzF0R29YZl9uUHNxYW5KbQ?oc=5": {
+      "title": "東証後場寄り 日経平均は軟調 ソフトバンクGやフジクラが下げ拡大 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYjRZZ1g3TFlDbnRQN0RVajF2Zks3V1VSRlZiNDYweG5NRmlaV21wNndFbEl0QmJ3M3NWMFVoQ2RwdEdWeC1aNXdpWDFXOURpR1gzaVRrSzZsc05FNzdicGItbTA1ZlRiVlFkNw?oc=5": {
+      "title": "フジクラ、増益幅拡大 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iVy1qUEJZamQ4V1VaeHFETkkwZHNrVTVrRm02eEpUam5QY2hFUkVqTnJkRzhsZm1TMERZUi14bWhOa1RETUJSWUppaGRwZ09sZkFOTzdKUlJ2aG13cjNhMHh0TU9aNzlVRVRtQg?oc=5": {
+      "title": "古河電気工業株価が一時12.7%安 米電線株安が波及、フジクラも安い - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJYkxDX0htcE9BX0dORkNYZDNCLW9NWDJhajBNX284bU9jQlRMY3gxTTJuR3RXSFpiaHZxUV9kYkk1a0U2aDBNNEN2TDdzOFBsblZjVy1XTjdVZXBXMnVKYVhnY29JejdubmdMSw?oc=5": {
+      "title": "ふるさと住民登録を支援 楽天Gがポータルサイト - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uOHJfZ3pVWWMwdVEyYXpHREJfaWtlbWJrOVowVUg2aEM3M2xPcFBPM1FaV2gyNWJoc0lxTThxaWpCQ0NLNXF1VEYwRnFVY3ppTWpxZlZ4dzZtbTRQSjU1ZDFXeHJ4ZGppamVZ?oc=5": {
+      "title": "楽天トラベルの国内旅行予約者向け「Travelキャンセル保険」累計契約件数が100万件を突破 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSGYtUnkzS2xnU2pZOWxleXVVY1hLTFBzdWpySUpTdG5DSVgyYWZyUndMbml2WEdxRl9hSkw0a3Fmb1NteE42OFdlczk5aG81WEZBc1NRWFBwdlQzcEE3VWY5cmJUU0NxUndN?oc=5": {
+      "title": "地域の子育て世代をサポートする「イオン すくすくラボ」を８月26日（水）「ちきゅうのにわ 幕張新都心店」で開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtWmowalJBN0Rub2k2c3pzOW54T011Vm5uYXRlY2t1VUZaT3VGSlNZdngtc1F6eWxmejdMTDBDd1hrYWVQdDJKb0ZmaUpBZkw1ZHUyaVVjTXNpRWpYaDV1UWhjR0VuS0RoYVE?oc=5": {
+      "title": "関西電力[9503]：託送料金見直しに伴う電気料金への反映予定および特別高圧・高圧分野の標準メニューの見直しについて 2026年8月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc1BqYkxwZS1iZFNDRzVxb3J6Z0pOSTdfX095WU5jQ0QzYUpRM2RFeUlUeGRWSDlrMkFLWHNVeEZEVW9rQlRUV1JjZjg5ZVR5RTY2ZG44eGNzZThmazItVUxSRG1uU2RaN0tTYw?oc=5": {
+      "title": "停止中の大飯原発3号機、部品に損傷 異常警報で関西電力が調査 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1UlFReFJYd2JhTWNnOWE5dndjclc5bHZydnFfenN4c1RWWlFPMk1PeGt5SEdyeE9UblItbkJJSTNLSVlBcG0tWVEtSWpIZkl6cV83NkZUOTcyUG5EZ0FaNWs3MHNNS3dqeTgyWg?oc=5": {
+      "title": "四国電力[9507]：臨時報告書 主要株主の異動 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BYldkWlFEdGRTWjEzWVJjdTVpUlNkNFIzSmtnalVuRzljX0JJMGVWQmhleGlPVC02NFdocFZGZExodHdNLVdHOFpaNnp2WnQ4dzd0bQ?oc=5": {
+      "title": "◎北海道電力社長、泊原発「全工事を停止し総点検」 - 時事通信ニュース",
+      "company": "北海道電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTBKQm9ZTzNQb050UjRQV2pfUWxYeVBlRFBLNFVIdEcxZlRhWENuandMTUk0RXdnNHNxMGptblI1SzFrQVp2UDZrUElsTmJOTWFsUmE4R3RtYXF2cjAwNUlxaW9CaVd1VVotYTNtMlU3YXNqT2IxUl9MNlNONmNySQ?oc=5": {
+      "title": "北海道電力社長、泊原発「全工事を停止し総点検」 作業員死亡事故受け - 時事ドットコム",
+      "company": "北海道電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbktSTkVBLWtoM1lwenRVcHYzWjlSSk5fajREdjRKbVl3VEVUVGVXS2hCemRPWm1OM1V2Qi1xYzhhc1c2VVB3cTFfanVielkxeEw0Q2F6U0ZQRm85Tjg1Ujh5czVxMGFLemE4?oc=5": {
+      "title": "JCB、デジタルガレージと連携し、ローソン店頭でステーブルコインを用いた決済の実証実験（PoC）を実施 - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T06:39:56.230495+00:00"
     }
   },
-  "last_updated": "2026-08-19T03:44:16.388056+00:00"
+  "last_updated": "2026-08-19T06:39:56.230955+00:00"
 }

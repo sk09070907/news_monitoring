@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kRGNmbUhDWFlReHhDLWZJVlB3ZF9namkwWktwZUhoMjdYck9PekxRN2tEdVhIQ2ZzdUhwSDd2NDlmSzRPYXBMSFdXRkxYZm9SN2lUclBVTFphWUh5S0hkMVducHNaenEyandKWQ?oc=5": {
-      "title": "伊藤忠商事[8001]：変更報告書 提出者：伊藤忠商事株式会社：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SRFZoSTZRaWVzbTh1Ukt6amR1OEt6MGRkamx3YmVGdTBtcEEzNkNUQjdyREs5RjFhTXc3WlZ6NFoyY2N5bll6bkJUUEFubC1iT01zdE92OEdwbjJKSmpwZk9TQQ?oc=5": {
-      "title": "奥田碩さん死去、９３歳 トヨタ社長や経団連会長を歴任 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfWmh2OWhUOVNYYXl6cEYyVU1pdG5uYnlUWENYRjVtV2dqY1pYNGFFcFQ0M2F1MjB2cW0wWW9FZmZheVVGQXh3aGxxMHRWaXFJNi1XUFhJYkVmWE9ubDE3b1k5NTh6V05ERC1yQQ?oc=5": {
-      "title": "トヨタ奥田元社長死去、大村知事「心より哀悼の意」 愛知万博に尽力 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UXNETGVlUUFURF9SSVB6SXdfTXUwdDZZeURTV1I0VUtLOGNMbURCSWVYR0VqWUpGa2FERUpGdTBZbmc2WE56WHdVSnVaQW1wTnRUN0xMZWxlSFRVd0E?oc=5": {
-      "title": "イオン、遺族に補償の方針＝爆発事故「解明待たず早期対応」―熊本地震 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wcExuVjJOd2Etal8tZVdUNmdEclVKS3Yya3M0X3Q4VU9NZFRGRXZfVzR2Uk1VRnlTVUxEbGtuZHpXTFYta1JxYmFmVmhNamluaTMwMg?oc=5": {
-      "title": "◎イオン、遺族に補償の方針 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Z0l2QVZFOGtTSWZMUjBIQ3Vxc19lSEZrd3NEUzhaYWVpOTVmQjZmYjhlbXpMUGV3UVhtOHFzQndSVzYyZVhSakpUM21vdXVhRGZCZQ?oc=5": {
-      "title": "◎イオン、遺族に補償の方針 熊本地震 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WERrT0NFVnpNbGZYM0VzWnhoeEU4X1JudVFYajc1Wnk0RUI4aGxuVlJjYmVkTmFwWGNyQWRMSDR0U0FLTTdYeGxYRHRuTEtDOGhPaFJLN3RyeXQ2WThJNmw0aw?oc=5": {
-      "title": "イオン、爆発事故遺族に補償の意向 「早期に対応」―熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GX3JjSElNc1hVR01fd21NYmVXOUdsaER3SEhHSDZOZnFnOUo2TTFHb3F5eVBtQVBfcjlCRGFVSlR1SXFqWlkzUVdxMGxzdlU2ZFdmNFNMa25JZE9zZEJqRkdqaHVZN1NJZlJn?oc=5": {
-      "title": "【静岡富士宮市】1日最大176個を販売した、行列のできるわたあめ自販機「CANDY SPIN」8月12日（水）、静岡県富士宮市のイオンモール富士宮に設置。 - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM25HV2JsTVJXNTVBLUVPSG12OVB6TWh5a25FVTUxX2lZOTdreVNYS29FenJkSHZPOEZmZEVma19XNEtSa0xtWkZ3eUhodjZEVGExT1NIMzlyYndHdXdlMFRZSVFVUndQR3F4Wm9sdVVVTkpZRk96aXRGOTVOSXc1RzJkTVhxeHVKNFhGcG1HT3l1dw?oc=5": {
-      "title": "センコーＨＤの26年4～6月期、純利益28%増 通期予想据え置き - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwc25mOUM1QXlPNERWWWI3QVdKSnprYWpsNjU0endQQlRSTzZZZ0V6Vk1ud2hwYUE2TGhORUVzdGEwZVM1S0c0UDRfT2Jfd2RRWXVRQURMeHAybWRxdjlaSEJFV2pWVzY0NXc?oc=5": {
-      "title": "センコーＨＤ - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41T29zU2trQ08ybThDRmMxMlRvUGhKbzRWMlNfUHRUaTluTkxGWXhvdEM3ckJQQTRWY3lVc1RFXzNSbTBvUTB6YzBSOTRHVTJzMjBtQ0JVWW02TjhBcUxaN053bnR1SXZZSVRnYw?oc=5": {
-      "title": "センコーHDの26年4〜6月期、純利益28%増 通期予想据え置き - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3N3QzUGpfQWxFSk1Rc1NVNGFscEhwdTJkRkVPakpLdkZfamh0WFJERWZTS1VyVHpxc0VhdmV1WUFQem12b2dvZmN0NGE4cXFkYm9OenlVamxtcmtGdGJhaDZWclR1SDJLVzhrMQ?oc=5": {
-      "title": "決算:センコーGHD純利益28%増 4〜6月、価格転嫁や同業子会社化で - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnLUJMc1g1bmk0dGRZdHcwZ2dqOVlqRHIwMWlVcVB3bkNGN0hjbThlelh2RFE2OVRUcGE0U0xpc2RQVGQ1NG8zUDdWcVotNWtRTGJBUk9SekhKc3AyT2c5d000WS1JQUtMTHlHMQ?oc=5": {
-      "title": "名古屋銀行、アジア大会貢献で県と市が感謝状 ボランティア派遣も - 日本経済新聞",
-      "company": "名古屋銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oeHNCNEVMM3MyZDFMdU9uZWM0MEZzeHRfSWhrYWFtQzRRdWxXZXFMV0tNRkxJZGxwcktHcjlpVF85bHpVZWdSbkt6RXFPRXc4UUl1ZGQ4TXZTTlZKRDIybndHTQ?oc=5": {
-      "title": "【オリックスグループ向け／最上流】大規模PM/PMO - 日経転職版",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T10:01:21.444083+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PYUZHblVVOWpzLW5jMkFBNE5qcjhjSTRISnJnZTQ3bHRDbnNCbXZSazB1Y2d4LVpodEQ4WG5oZ1lBMEZYX1FxRFRtcHhvZDZfbHBzMG82OGdIaDlzbHRiVC1DbnRQWDFKakhMXw?oc=5": {
       "title": "自動運転車両をアプリで配車 ドコモなどNTT系3社が名古屋市で実証 - 日本経済新聞",
       "company": "NTT",
@@ -1505,7 +1421,37 @@
       "company": "ジェーシービー",
       "source": "日本経済新聞",
       "seen_at": "2026-08-19T09:31:30.739451+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tdnVkUE81UFFhbGFEQXZyejh2SWJLaDBJQnR6VHFiZnE0dU1ETzNrbW0zcFpPYTZmOGlBbElFbE9CSjQyaDVTN1V0VXVWb3YwdHkxOEtVd0Y2MFZMZlcxblhLUThsLVFaZ1F2Nw?oc=5": {
+      "title": "NTTデータ、AIで企業の知財業務を支援 発明の発掘を効率化 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T12:40:47.904004+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUGNGLUlhMnJhOVMyMW1kWC0wV0ZzVjVGUHZWaTdtamNWZlhsLVVjTkZDMVlzWnkxcGF6bWE2ZGZ5WG5wZFh5elJtSjRkVUR0NUJQY2xkSDBaU2V1WmV5NWZPTXE1OVgzSW92cg?oc=5": {
+      "title": "西武ホールディングス、最終減益 - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T12:40:47.904004+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41S2lKQXlBNURlTWxmQVAtRFdDcE02WHFGLU12MHZXNmZkR1loTEtUWGZPS0xqdlkxMC1FMnFYaU85VG56WHVFa2NLS25OUDlpZG1vYmhNMFFYTEJUUmZLTDhTbw?oc=5": {
+      "title": "企業向け電気料金、１１月値上げ 物価上昇、１１年半ぶり―関電 - 時事ドットコム",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T12:40:47.904004+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFVldE9sTG1lX0tPLVhsbjI0dmFOeFpaMmZtWTk4WjJOVmZnUjF2Y3IyODFKN25CTzNVWk5Jc1EwWlBGVHZGVTJiZ0JQYy01ajFIaGpyc3pIa1M1aE14aThMMnZmR0tIYk5MalhWZ3pOb05iMjRVcnUxUGVYSXJZTlNvem9tQm91YjBGSGJmUGFaWVVaY3NhOC1iMkE?oc=5": {
+      "title": "デジタルガレージ、JCBと連携し、 ローソン店頭でステーブルコインを用いた店頭決済の実証実 - 日本経済新聞",
+      "company": "ジェーシービー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T12:40:47.904004+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NS0ttSWc0Q292WlJJNGhLOUhEN0FZQ0pnVm9FRzgxempoMlNTdmtvUkNuMW40N3JoNTBrRkJEZUd2cTZ4RU10dWNXeThibkFLR2M3WnZHcllrSUI0T1V0bklkaGZRcWFhbDRv?oc=5": {
+      "title": "時代劇の名優＆本物の斬られ役が横浜に集結！ 京都・東映剣会と本格殺陣を披露！9月22日(火)開催ラジオ「時代劇が好きなのだ！」3周年記念イベント「秋風、大立ち回り！」のチケットをチケットペイにて販売！ - 時事ドットコム",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-08-19T12:40:47.904004+00:00"
     }
   },
-  "last_updated": "2026-08-19T09:31:30.739933+00:00"
+  "last_updated": "2026-08-19T12:40:47.904442+00:00"
 }

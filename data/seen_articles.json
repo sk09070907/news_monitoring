@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1naEJHMDV4a2paWFAzSFloV19Rd0l2cjA2Y05JZmlpRWNNRmNBcHQzb2s0SmM1R2VmSWpPek1iNVJCWFVTYTY0Q0N0MkhGaS1ibTF5cmtLb3hYRmowUFp3RGZqR1hqdmQyR2lURQ?oc=5": {
-      "title": "奥田碩氏が死去、93歳 トヨタ社長や経団連会長など歴任 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VNExJM3c1WlZBd0d6V1BZMmNjUVkwUDhLaExCTjRZRXVqOGM4WVRFRWdab3pwSFB4cWRad0VneWRIWDFTT3V0SERBZ2QwcGJiNFRneXhwdm5RbG9wY3c0OGprcHhKTWw2d2VhbA?oc=5": {
-      "title": "トヨタ奥田氏が死去 グローバル化を推進、自動車世界最大手の礎築く - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ROEQ2NWFScFUyanF3YWFwSV9ldk9DMVZ1UllUcVJQZ3FpT1ZQUkN3dWNKQXRuZ2F5VHBMTlFYa0FaSTJxLUlzWldhWjBNaXVQQjVxNzltbUdHUzZYN0ZrZzN1Q3NuNkN0N2JQSA?oc=5": {
-      "title": "トヨタ出資のジョビー、800億円で米防衛新興を買収 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVG8zdm1YU2xQVmxZTmgxRi04eHFzM25wTklFOWRKYUNfMEN0Q3Jzd3UzVG1Obnp0ajY4RThYeFN4Q3JyQm13eDJfMWpLN3RpY1NGWk5qQkx1VEZKNlUtTmx1V0swYnJMdmlkMA?oc=5": {
-      "title": "日経平均、年末に高値7万6000円 楽天投信投資顧問の平川康彦氏 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2T0QxeC0xcWxPYkY1SzJnSUgweEJPRjRmTzF3MzRwa1JsQVlySEIzWDBHczViaVZMQUJQYV9SdjY5aUZLdUJHdUNOXy1YM2Z2d0tGck1hR25nSHZMWE5laXpJaHBMRV9WRlV5cg?oc=5": {
-      "title": "カナデビア、廃棄リチウムイオン電池の回収箱 火災リスク減 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1TlhRNEV1NUxXWEhYOEhoM0Fwa3drWUZVYjE5Z3QzYXUxS3g5TjhjelBsY0VhRi05R1lvX1JaTjJKRG5JeUZ0cDZQZkN0TzlmQjBDTkFzNnRBTUNrby1ZeTVPR2o3V2pMaUl4Qw?oc=5": {
-      "title": "決算:西武HD株、保有不動産の価値に届かず 市場は「宝の持ち腐れ」懸念 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-11T21:40:28.438586+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUThCejlmM0lIS2xFNG52LXMxbEIxWUJ3MEFVREtIZkZwei1FYTUxdjUtN0UyTldmM1JFVXVQMWlRWDVpMXNWMTMyZ0tzT1Vid0I2TmowYkczeEV1SnNSRjhJOVU4bVk3SGc?oc=5": {
       "title": "アサヒグループホールディングス[2502]：臨時株主総会招集ご通知 2026年8月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "アサヒグループホールディングス",
@@ -1595,7 +1559,13 @@
       "company": "森ビル",
       "source": "日本経済新聞",
       "seen_at": "2026-08-18T21:18:47.747159+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NExId01oVnZOX3BnOHRlVXdua3JObU9TUmcxeGgzWHBzamZ2RDVWeHBFbFR3NTk0bDVra2FlZkxwN2NmdWUtcll4ZUhrM3JJZkh6bHh2RDBCTTMzeXBYTmtiMTZ4TmtMU0VfWQ?oc=5": {
+      "title": "王子製紙など3社、新聞用紙を代替供給 日本製紙の八代工場停止 - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-19T01:05:50.875386+00:00"
     }
   },
-  "last_updated": "2026-08-18T21:18:47.747617+00:00"
+  "last_updated": "2026-08-19T01:05:50.875605+00:00"
 }

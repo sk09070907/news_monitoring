@@ -1,65 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ec2plX2VVZ3RXV1h2eFhFbnhoTEVkZjdIVTJpNS1Pb0lnV0xuX2NQN3VNVm4xQWJvMmdWZldySVZwVmJkTW85c21DS1YyUnc5Qlc1QU5DdDlrRGQ2RzdKc083Rk5RVkhrakNz?oc=5": {
-      "title": "「NTTドコモ Presents Lemino BOXING PHOENIX BATTLE 159」Leminoプレミアムにて独占生配信決定！2026年8月19日（水）17:45より生配信スタート - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ILUVKS2JJNmI0d0Y0THdyNFB1dnhDU3k1aWRPNEhjaEpweDU3UXdUUDZyaTUwU0w3UEJwQ3pRSjFtRmR0bW9xQUJtb3lHaWNsNnFn?oc=5": {
-      "title": "トヨタの敵はトヨタ ~ 一言切り抜きfrom日経#332｜一言切り抜きfrom日経 by 倉成英俊 - 日経COMEMO",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81TUJUWlRHTDhBOU0xbllFdmlyOUx2S0VDZFZGenBMVHhNU3hpeWZOejl3OGhnNWg1QnRwclhHU3hlZnFjdmZ3NlotYmpfMWRIemhLVkhncE03dUJBdzFrSXlTLUFocDNBZGhxYQ?oc=5": {
-      "title": "（社説）改革の力示したトヨタ奥田氏 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Nb1ltS0U4Wm1ObVQ2ejZ4NWFFdWQwU2pFU1lvVWVMYkFXSElzSFM3eTdFVFMzTzNFTWk0c2ozT3poRVBfelYzUDM3Ym91T3Q1ZDJMd2tpd25kRzJ6a0pfNG1yYnBMRmRtQkE?oc=5": {
-      "title": "トヨタ自動車の社長や会長を歴任し、経団連会長も務め…：追悼2026 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zZHhfR3d5dDlGV3NZN3d0ZlJQZXJPdTVMSGhjRzdfV0tIYnkwUnJubVgtRmNTUXRfejI5TnVKNVdtOFFPM2d0dkpsdElRQkhvM0NBaWl5SlVaMFhwR0VSUVR1V1BDel9ISkJN?oc=5": {
-      "title": "「え！空飛ぶ精霊馬で帰省ラッシュ回避!?」声優・ファイルーズあいがほぼ全役を熱演！お盆特別動画をトヨタ公式SNSで公開 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oRG1wSFZKSFhOR3RGYWZwU184R082S2RLMENuSnpEY2ZzcGdPdzBPN1YzUi12OEFSeHNZbEE3TUg3c05JalJKRUFZMzhIREZIclBkX3F2Z0oyMTZfSC01OHNzYm5RRmhXc2xtNA?oc=5": {
-      "title": "楽天モバイル、「Google Pixel 11 / 11 Pro」を予約受付開始 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vZDR2YWhhOG5qU1ZKM0F3NE1RSGwyeVBQemJIWFQ1SVdWWXJKRHhsckhXTnplcExkc21GV2VoRm5HSzRsZnZCX2p2WmNoVEpIZmdBaHVjVVVCVzhrbFVUZGRnc2psSm1qRUVV?oc=5": {
-      "title": "楽天モバイル、「Google Pixel 11」および「Google Pixel 11 Pro」を8月13日（木）より予約受付開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEOTliLXRLZm5PNXd6R095NEMwX0g2Q1ZyckpEdk01Z1JfZ3o3Rm10ZFU0MElqcDA2QTZxXzRha2I3TW1RV0JwcVJveFE4U3lrTVBTQzZ6ZThrQ0lnLW8ySmVXbTBlZzdra3lZeA?oc=5": {
-      "title": "リチウムイオン電池、夏に火災多発 AIでバッテリーなど分別し回収 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUZVFGTnA2NXlBZzFCMjlldXRXZmEzZUxjVjBWQjljVkNHT3dyTXJEMmRERTh1SDhBaWI5c1QyUmIyazhfNW1ZUEVISHBNd2J1X1h3SE8tOGN6dkM1OEl0WjVRYWxGVFN0Tk4wdw?oc=5": {
-      "title": "北海道電力、増収減益 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqeUdjUzlGVmRRZWJZVUdtbGpMQmp3YTlJZTV5ZXFjd2xqMWxjRlBsdXJkMTlqMm8zZTV4YzlRU3VlbGJocm9zNExvaEsxR0lYOEpSWVVEX3NXeTVCNWI2TTlva1VuN1o0YUlEeA?oc=5": {
-      "title": "JA三井リース、3Dプリンター住宅メーカーのセレンディクスと業務提携契約を締結 - 日本経済新聞",
-      "company": "JA三井リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T04:49:33.998156+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SS19BZi01Zng4YUdTM2x6VFl3OEE2M1hhSFZYeHZKNFUzRU9fN082WnFYZjhvUnZLLTY0c09tVnZuYUloT0Y1VTVRNkVuUTdBSy1FQzZrSTJwVDJyNEhqclhTY2tiZEdqQlgw?oc=5": {
       "title": "NTTソノリティ、音響ブランド「nwm」が「ビジネスパーソンの夏の働き方と『耳の温暖化』実態調査 2026」の結果を発表 - 日本経済新聞",
       "company": "NTT",
@@ -1529,7 +1469,97 @@
       "company": "トヨタファイナンス",
       "source": "時事通信",
       "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kaVgtZ2N5VUdEaXl0SUJrVHJreU9WSFk5cXRHMDBvaDdEZDdpMHc0LWVLLWloWENQTGpwdV91Vjg4b2N2RlQ1RWlVcmEtT3cwaGpBOXNDZmhacjJjUFE2NkJVY3RzMjRLQkRaZQ?oc=5": {
+      "title": "大量保有報告書 提出者：伊藤忠フードインベストメント合同会社：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNUlYaDByRHRxalVjd3BnNTRXbDMzMXBVZmgtZ2FOVW9zMjY0aXpVS2dad216WGlnXzhkM016VzBPM1ZOdlRnbEZRMzA1OTE4RDlHTEd5VHdZeUtTT2hiakoybkM4ekt1eHBj?oc=5": {
+      "title": "NTTセキュリティ・ジャパン、「情報セキュリティーNEXT 東京2026」に出展・講演 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQ0g3bUwtWmh4ZGZyT1hoQkRUNEQydjBlQWJNR1ZqTWZ2dmgxMWpqbVEzTVJUTEdfWVBxQzBFWWxlYi1yR1puQWVwNVlYYmxGUG8tajVZY1dqS292b2h1cXhBYldWX0tFWjhJ?oc=5": {
+      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。 - 時事ドットコム",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LVDVsWEVZZ0txbEVtUTliNE85aFBEdldmcHFtS2kyZUFaVVdIVnhKNHU1bkNKRDhjS2VRdHNMMmdGbGNfUE9QMkJRXzNTekRubU5xa2otbnVtR2ZkSDBteFVPbXNUSDRqak1jLQ?oc=5": {
+      "title": "デンカ、増収増益 - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc3F1TjBmQkM5QjEwTWNXMlV4YTdwbDlRdENHZXFTbi10emRkYnZLNXpPT1ZnNVlKUFpsNXNOZVE4UFFiTzZIcHlONHREMHZDczhSMjlCN1FTazJfZ1d3ZzROeEo4Yl95NzlJSg?oc=5": {
+      "title": "アルプスアルパイン、増収増益 - 日本経済新聞",
+      "company": "アルプスアルパイン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrdGVya1NnZndOaGFyZndGa0JocmVjaHZoTlNMaDh4TUxQVnBfdTlQV3d5Z1Y4ZDJhWHR2WllVa1BFdWZ3VXZFWUl5NlFYT3dtclZJcHJtVGthalY1aUNqNm9EMVIwVzgxSXl3?oc=5": {
+      "title": "フェルメール《真珠の耳飾りの少女》展 公式グッズを「にっぽん津々浦々 楽天市場店」で販売します - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSllBd2ZlRW5ZMG1palNjSW9ZV0VjSVNheXZYRkZ1R2I2cGxRSjJPOUZTSklSNkxlRmZCWVRIZ1lMRTc4WF9pUW9EdkFMR3ZPa1liT2V4eFhraDZqcWhucUZJRWoyNWJOSnN1LQ?oc=5": {
+      "title": "イオン、モール爆発事故で調査委発足 事故原因など検証 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRlVHQldtbDlmbXR0RFRCbUdmMmJ1T2lZRjNuZjZfSmpQbElweS01Qk9Mdk4tSmdYN19MWlZkSkRyWUxpMXNhSDQ5Qkpzc3BsRVc4Q18zZm04QW5qaGgwd0NaUGlYY210WExoUQ?oc=5": {
+      "title": "旭化成、リチウムイオン電池の高エネルギー密度化とコスト競争力に貢献する炭酸リチウムを活用したリチウムプレドープ技術を開発 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5": {
+      "title": "イオン、爆発事故の調査委発足＝再発防止策を提言へ―熊本地震 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93M3dPRVNZREpkcElsSkJRLXdBbzE0Z1o0R3YyZl9PZ1dTMGdSbmIzNEFjWHZ5cmdaS1ZXM0lhUW9GdVFkc0EtWmVxQU5hU2FqclFVRjVkWktJQkJHMnM0aHhzRk9DbHE4b3RN?oc=5": {
+      "title": "カスミ 8月21日「イオン チアーズクラブ カスミつくば」トマト収穫体験・カゴメ工場見学実施のお知らせ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXVS1iYTYwR3BCODV4ZG1rZGN0Tm8zR1BOWEJ4VV9OZmQyZDF1NGE2RzJ6anFFN2dWeFcyUDBHWG84eE02LUhjR0lFU1BZUXl1a2hFMTBHTjFWZ3IySklxaWYzLVd5czhtNGp3?oc=5": {
+      "title": "Pilates KASANE イオンモールつくば店で「BeEARTH × for her.」コラボを開催！試飲イベントも大盛況 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMk5iMl9rUFlUeWFPSVJNYVM4RWtxbk5VbGN3VDRueDRsS3ZWSXdYbUptTkZJY3hHa0Vza1pKZzRSQTg1c2RueWhVN3MwMzZQUm5iWnNTQjVUeHlQSlY5UGZhamxQOVBDVjRmbg?oc=5": {
+      "title": "三井住友信託銀行：変更報告書（特例対象株券等） 提出者：三井住友信託銀行株式会社：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFByOXE1ZVBFZDVBWU5ERHhHS0tCWVJmYm0tNXVUUHV1dlN2cnBMenZqeUpyaGdIOXlVc3A4UXJyU1JyeVY0RGY1cHB6M0JOdTc2SjdUYnd0ajZWLUZFb1BaTWxTRUFJWkE3QzVZ?oc=5": {
+      "title": "京都中央信用金庫主催『中信学生デザインコンテスト２０２６』の応募作品を募集します！ - 時事ドットコム",
+      "company": "京都中央信用金庫",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KR0pTVXNrZG9BMzJYdWJ0aU1MOFFHQjlGMk1XMXZSUFlnMHdIelVCZGZjV3Q0V0djQk92eVA2dFhGLThiUDV1S2R0aUp2MUdVY2V4Zl9QdXlDU3JyZlhCdlY0bGNTbE1QaFhz?oc=5": {
+      "title": "ジャックス、「令和8年熊本地震」に対する義援金を拠出 - 時事ドットコム",
+      "company": "ジャックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sajZIa3VJVmNGWGg1Tk5kSldweGttSElqaWtoR2duUUZEUzcydm5mdk1WeDY5dHdCd1JRUEJuZ3JLTkpDVG4xWmdla2tUY0s5YjA5Qk02SkxJa0VaM19FLTluM3BDb2dZVUdV?oc=5": {
+      "title": "「みんなで決めよう！東映特撮Blu-ray化 PROJECT！2026」Blu-ray化作品、決定!! 第1弾は、「超人バロム・1」「超人機メタルダー」の2作品!! - 時事ドットコム",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T06:41:39.823220+00:00"
     }
   },
-  "last_updated": "2026-08-20T03:44:37.557942+00:00"
+  "last_updated": "2026-08-20T06:41:39.823686+00:00"
 }

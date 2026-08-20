@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iZHdhSlk1UGFGaG50QXFycFU5dDlOMkstVFAxUVJBTWJPNjVJUHY5R1pITzJrN25PV0twVTJYb05MTE0tOGNKUFd5OEhXUXdySkk4TTU2N0ktb2dMdk9pVDhLbWpPZEF5a3MxYQ?oc=5": {
-      "title": "AIに聞く年末の時価総額首位企業 チャットGPT→ソフトバンクG ジェミニ→三菱UFJ クロード→トヨタ自動車 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMlNXa2Q4NjhpOW5vblJGckZTZXhmMzJNU19qYm0wLUF2dFlWekU1VnlvZHJGUWhrNjMyLU9DTlFqcHRoUFMwcTd5Wlp6dkdQWG12TGpSNnpqWEN4eGE5UFZpSjNLdk9WRXVaVg?oc=5": {
-      "title": "「世界のトヨタ」へ道筋 奥田碩元社長死去 海外生産やHV投入先導 財界重鎮、構造改革唱える - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOemtMMlJqbHRzMWl0b0QtcDVOY3FneUNaOVlHSWJVSzd5LThEZjRBcHNpeWNCX09HaGp4ZmxDY1YxanlBN1UwaUlLOEFFTHRySEkzODFYMGhnZEhYdlVWdEJaX0ZTS2RUaTByOGpuZUxET3NKOFEzc2VzXzRUY05MYVdR?oc=5": {
-      "title": "トヨタ世界一の礎築く 財界でも剛腕発揮―奥田碩さん死去 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlTlp0SV9tdW5HZnZqRV96bFZBMTBuUXU1QlBaalE3UWdueGhjOHppQUFyZmFEOGpmVGc2SFlUX29jeGNkaVpyLXQ5M3FBSDk5c3FtdkFOWlRwQjJZVmpnak9pQnRqa2NPalJFWQ?oc=5": {
-      "title": "楽天・前田健が日本通算100勝 中断味方に7回2失点 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5": {
-      "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcjB4blItbDJFYUUzRlRfajRFVlJOektkeDFiLWRjcU52TkgyQU9Cb1VaS0JqV25zZXhPa2R4WXM3OTdWcTVOR3c5dmMxMk5ieVhoa0l5WUJVZ3dBX0NuVl9vYWJMejhESXhxdw?oc=5": {
-      "title": "イオンが一時入館認める 熊本、モール爆発で避難後に 遺族補償「早期に対応」 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNVljbUM1WDVETkc4c2xhV0ViRFEyU3ZLVGVEU1dLRnU0aGd6bUFKbExFVERlUTBxV05zb2swZU1IVEx5WUhUNEV5Z1ZNSkgtdW94TWNZNGRMc3NVLXdDeWNsVHVieG9RX2ZvaA?oc=5": {
-      "title": "第三者委の設置、雑貨会社が検討 イオンモール爆発巡り - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ib3BEdGhCVDJ1QWJmSDEzdHFDZWJqYlNIN1Zja1NvOUpZLWJtNnNGTC1neFdwV2xtWWxFTEdaeXYtNWhtZUxQbkVxWF9JMmlXZGhqeUlXaFp1dGxhNDBpSUVZSlRIYnh3YU04Sw?oc=5": {
-      "title": "センコーGHD、28%増益 4～6月最終 物流で価格転嫁進む - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-12T21:40:13.408434+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NLV9PcktXLXJTV01GRVFZUnAyQzNtUHd4VG9QU0VOQl8yWWNTTUtCUVUybVhmVklqOTRkdXFQWG9STEp2TU5Nem5JeHBMckxBR2dXY0lCdWtpQnRidzM5dkJNZ1dROGZ2d2pQRw?oc=5": {
       "title": "「オルカン」連動指数、JFEHDと西武HDを除外 - 日本経済新聞",
       "company": "JFEホールディングス",
@@ -1457,7 +1409,31 @@
       "company": "野村不動産ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-19T21:20:35.961045+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WTFhSaHFDVTNOa2dDbDFBZ2k5dXFzX0pqcGh6NVBlRTdMWURreXBlSkZPc1VwZlp4Z2VzcHJXSGJmV3BVTWFTa3hpR2N0LTVXZ1BTVHFzLVBRbkV3aGNleEJlTDNvQlhRNk9DNw?oc=5": {
+      "title": "今日の株価材料（新聞など、20日）伊藤忠がデータセンター参入 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T01:05:20.127543+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9BVTE4cmVpOUotaHdxbnZTdC1KV2tpenZFc3VhM0FUUEd5YktOSXRLY3A0VnN1XzRUZlhleDhhNE5KdDVwVTMtdlVTSU1vRzVJa0o5OUtHdGUxLUY2NGNWUm4ycXhrRlBOMlk3SGpYbGhPUQ?oc=5": {
+      "title": "石狩市でデータセンターの企業連合 NTT東やさくらインターネットら11社 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T01:05:20.127543+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrSzNpZDFrakMxTXJuaEs4enZ3MlR3dzlZZ0JlUzFjRXlUOThVbGQxUi1WVmJhWXp2bFBrWVZnZXViMGllZGx4UGI3Rm45SHNrMFQza1JQZERpNGY3MTFha2VWLWQ1UG5FRU9GVA?oc=5": {
+      "title": "ナイジェリア財閥がアフリカ最大のIPOへ 石油子会社、三井化学と協業 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T01:05:20.127543+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFByWThBUWh0SVRzZVZFdFdqRGZRc0hjaEVrZHVoWnd6N3c2V1diZWd1aFp0WUl5cUxUSUpHNEdleFUyV2dxQUlzMkpuei1BLVJrZndjZ2dmT1dJeXZQaXVQMjNZOXF3cWV4ZXB0OA?oc=5": {
+      "title": "トヨタとステーションAi、交通安全で共創 スタートアップと事業生む - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T01:05:20.127543+00:00"
     }
   },
-  "last_updated": "2026-08-19T21:20:35.961548+00:00"
+  "last_updated": "2026-08-20T01:05:20.128010+00:00"
 }

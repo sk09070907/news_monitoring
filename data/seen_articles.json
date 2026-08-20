@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NLV9PcktXLXJTV01GRVFZUnAyQzNtUHd4VG9QU0VOQl8yWWNTTUtCUVUybVhmVklqOTRkdXFQWG9STEp2TU5Nem5JeHBMckxBR2dXY0lCdWtpQnRidzM5dkJNZ1dROGZ2d2pQRw?oc=5": {
-      "title": "「オルカン」連動指数、JFEHDと西武HDを除外 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T01:47:18.034803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE56OWJ2elVkc1NUQ09MSG8tQW1NVnN6TjdlVkY3TkVHY1VXMWVtaXhPQkEwdmRkbzNER0dUaC1RYlpTamRnd3JfNkNmbUJBb1NoeVZFX1NyWjZRZkU1bng1eUllb2ZFVDVneHZETg?oc=5": {
-      "title": "豪州で中国EV急増、揺らぐ日本車の牙城 BYDがトヨタに肉薄 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T01:47:18.034803+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPby1fZW9DNnlTYWNkdG1vRGwtUEctcDZrYzg4akdpT2FmSFo0VzgtcHVfWUYxTk0tTU9qNWZud1I4eVpNUnRSMUpCcXN3UlFJUjdvTGduWV9CYXVUMkNsSkVzQXhGcVZMd3pqUk84M2E5SzdyenBybGVORmRuSFphZ0Rn?oc=5": {
-      "title": "奥田碩さん死去、９３歳 トヨタ社長や経団連会長を歴任 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T01:47:18.034803+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ec2plX2VVZ3RXV1h2eFhFbnhoTEVkZjdIVTJpNS1Pb0lnV0xuX2NQN3VNVm4xQWJvMmdWZldySVZwVmJkTW85c21DS1YyUnc5Qlc1QU5DdDlrRGQ2RzdKc083Rk5RVkhrakNz?oc=5": {
       "title": "「NTTドコモ Presents Lemino BOXING PHOENIX BATTLE 159」Leminoプレミアムにて独占生配信決定！2026年8月19日（水）17:45より生配信スタート - 時事ドットコム",
       "company": "NTT",
@@ -1433,7 +1415,121 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-08-20T01:05:20.127543+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGMFp6c2lIajNHWVk5MTZxVTI2bXBOamYxY0ZvelJ0VEdHU19hSHJncWNJaHVuV0czOENubHMxcGpBclhHN2N3SUs5dTllLVhiMHNSUzNfR3lNbWxIU01FOFRoN0V3a1ctZFZpTQ?oc=5": {
+      "title": "伊藤忠商事の株価反発 「データセンター開発に参入」報道 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ia2J0dmY0czFMMHJKRW9aM2RfXzY5WTZ2WHBxVnF5YkxlQjY2VnZxa3lEbkl0N0JUaFJPUC1iZXh2WVB3RUttWnJOOWp3VHdleDhYc3lmRXJpdG1MalVsYWQ4TUhEaVczRVln?oc=5": {
+      "title": "北多摩7市・多摩信用金庫・NTT DXパートナー、中小企業の脱炭素経営推進で連携 - jiji.com",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSHFKNzJDMkhLWkVFZWo2eS03ejNJTWVWS0JxcW1BS2hKU2lmYnY2RFZTUFh2SEUwWDktOFNjX1ZuN05HYVg5dm9zWjdvLTREVndhT1FUdFc3RFhYQ29tb0tUck1QaFlESjgw?oc=5": {
+      "title": "NTTドコモビジネスX NPS(R)ベンチマーク調査2026の「銀行部門」で、ソニー銀行が1位を獲得 - jiji.com",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91S3pLMXZMa2FPYWExX1R3S3FyQWt0RkVsdlJQYV9mTWlSWlJxMGw4amU1YjhVbTFwRldQWGtmckpEUGZLSnpydlA1bGVrRkMxZXhjZg?oc=5": {
+      "title": "紀平梨花、鹿島建設と所属契約＝フィギュア - 時事通信ニュース",
+      "company": "鹿島建設",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GNURtd3dWQzVYa0d4WjR0WXUwMUtlN0N3T1lucl9hXzB5dklrWERoRGxuWkt1elNXT2huT05maWdENTZCOWNNWnFrbVU3cUg4RDExcHNhMkJ6enZnYnJZdzg4Yw?oc=5": {
+      "title": "紀平梨花、鹿島建設と所属契約 フィギュア：時事ドットコム - jiji.com",
+      "company": "鹿島建設",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02RUhxZWFzdFRPY2FKVUtNTUx3YW04NGJ5TzJZWE1xcXhCU3R1aUtyN3pVdWZodTNmWFEwdmpjUFhoVTVJYXpUOHpwUUcxQTdjejNvTnBBTDBrVzQwVktIVWJtUmw1VG9kaVl5UA?oc=5": {
+      "title": "日本製紙、通期予想を未定に - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXc0NllHeERLOS1XbmgyeEJMRGk1QWNOYlo3cjN0ODRBVjJBX0IxQ1lXaVJwdUNkOWVDMC1PeVRKTENzS012SnZ6RmJfWUVlNmVrZ3U0eFVKZnhNV1NNY2NVb3BQSHE0eUpNQ3Zuc1d0QTRNVnUxTFItakNwbzQwTUtqclJxdHVQVTNFaWpKU1dldzNsT3FoSVlMZw?oc=5": {
+      "title": "イオン爆発、日本製紙工場で死者 八代市役所では免震ダンパーに変形（2ページ目） - xtech.nikkei.com",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdV83ZUlyblBMb3BNWC1TZ25LNlBxYllianBPOUZSU05zSzIwS3ZHdVlkd1JxZGNrSGRncGt6YnlSYXNhLXByNWNTTG9CanR4d0Z4SGFpaEgxWTZMdm8xcENhWQ?oc=5": {
+      "title": "東芝：産業用機器の48V電源ライン保護に適した小型80V耐圧電子ヒューズ（eFuse IC）の発売について - jiji.com",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpTnN5RVZCUHFqOU0zSlp2dHM2bGY3OUFDdFd4Z2ZrWFBFeGZNOG1vaEJkdGQwTHNVVjlfanR1UGU0RkFiZktocC1pcHlCMlhnak8xUGhyd3VTQ0JGdXMzcmR6VTZyMWZILXpB?oc=5": {
+      "title": "トヨタ自動車とSTATION Ai、交通安全分野の新サービス創出に向けスタートアップなどを募集 - jiji.com",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rU3BuRm1rd1BiOG9DMHplOEN2UG92YUtIRmc2SnNHcFdvU2VOOXg4amtzMVBpcVQ0RGd1UUpDLWxsM3VsYXV0SEVqTThfYjJ0QWlxYkVCMGc0dTZjWVVicDRuY0ZQb0x3bUFF?oc=5": {
+      "title": "楽天の翌日配送に対応する365日出荷。冷凍・冷蔵食品メーカーは物流体制をどう構築するか - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Lb0szcy0xNWRnN2FHMnJDX2w3R0xFRUNuaVhxdHVpQ0x1WGhRbEtKVTlBV185N09lVGxtU1h5RXUzcExZMExuR1ZlbUhubUtPOEdtYXc0a2dEbmNqTkdMZ00taVdza19udTY4?oc=5": {
+      "title": "【楽天市場で50％OFF】Android 16×Gemini AI搭載 タブレット「POCKAM P10」が32,800円→16,400円！キーボード付きフルセットを期間限定価格で - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MTzFGV3dEMzQxejBBbm9na19NWWRIaFNoSDRiU015elJ1aU5Wc3pfVE5vRUxLdVFQNXp3dDltZHpXUmZHc0hPc2Y4TUtSVG9BeFdDcVJ1UlpIV09IX3pkVGlrcUw1Uk5Qa0tn?oc=5": {
+      "title": "Honda シビックの歴代モデルが大集合のデザイン！Tシャツに新色が楽天市場に登場！ - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13MDliS0lMNnVBekhRV2VLMmllckNKOERVcm41MFZJUmF5MlBtYlZIRUhoNDRNS3pyX0pZN3Q2dXJpelJxbTFmRGZBVGJHTmdRc2sxVGcybjZHemtndDBuV3Btc3lVT3I5NnNv?oc=5": {
+      "title": "アルゴンイオンスパッタによる原子スケール１次元ストライプ構造―体心立方鉄（Fe(001)）表面における非平衡表面応力緩和プロセスの発見― - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NV05rczRpS253cGRGeEN3a1AxNnJXclVDTlNCMnVBU01PNmdhNS04UXRLUWR1SkluT3hsNlB3NG56VE96cWYzd0hoUGNlM3RvVjJSUUFuZHBGa0VrRWhBaUkyaURFZDg3WjBj?oc=5": {
+      "title": "b-monster、初の九州進出。「イオンモール福岡スタジオ」を2026年11月オープン - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyd0xaRkxRcnJ6UmFJbHNiaEdXVkdwZjFkeExpUW5haElTT2ZrQjBOeEYxTUNMZnoyTzRzck44Q19YaHlQYnB5NjhtS1NMWlM1akdqLUlqb2s1dDlPa1VzaEtvSXNGYi1PVWJn?oc=5": {
+      "title": "【UTAGE BREWING×JAL×JR東日本】規格外の山形県産メロンを活用した「山形県産メロン クラフトラガー」販売開始 - jiji.com",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IdnZqZG9ZVGtnTkN2OWNpSmxFSExJV3Z3Rksya0w4Z0xSMDlJMG9uOVdDaXJBUTdwUmtDVXlUbmx4S2F0T1JXUEZibGhCTkRlX19KWlQxclJ4OFY1U1JHU2hUOVJ2Rmd6eTVXQQ?oc=5": {
+      "title": "関西電力、株価一時9.1%高 企業向け電気料金10〜15%上げ - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CWFpjR2pyLUhfTDE5aU92NWpuRTJaZU5jaEQ4c1ZxdS1yRy00UVl3d09UUlg5S09CNlRiOVRJbEpHRk9JSnJwbjJ6b3RxQ1dkRVoxMjY3X2s0X19NV25mVGlpNEpFTDc5ZGUtZg?oc=5": {
+      "title": "中部電力、水道データ活用で見守り 愛知・半田市で実証 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZVhYM29pME1ZdjRmYkVsQU5kNXZhVU9aaU9VLVRhSXJaZWpueDZ4ai14bGZmdzBNNXpsVm05QmJXTjZLVkZNMWVPSzl1bUNEVmg3Y3dZZ05OczI5NXBpZjhLQk8yd0d4cWx4Tw?oc=5": {
+      "title": "三井住友信託銀行：大量保有報告書（特例対象株券等） 提出者：三井住友信託銀行株式会社：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iMjRCU21zaDU3Wkh5elFvNXNXSFJJVFpSVWVhNXFEQ1lOZEZpaWFkdlJZY3pMLV9mREVaNkpJLUVkbm1rQ19LdG5aM25UZk9ndVhXMXRVVmFuNXJoeUdKVmZTcjNfS2lzcG9B?oc=5": {
+      "title": "トヨタファイナンス株式会社が提供するST債にオンライン本人確認サービス「LIQUID eKYC」を提供 - 時事ドットコム",
+      "company": "トヨタファイナンス",
+      "source": "時事通信",
+      "seen_at": "2026-08-20T03:44:37.557400+00:00"
     }
   },
-  "last_updated": "2026-08-20T01:05:20.128010+00:00"
+  "last_updated": "2026-08-20T03:44:37.557942+00:00"
 }

@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VRDh4T3U2aDJTVGRmWHZaZ19MT0pESEdLbXNIVXF3RkRYNE1mRTVTcnRFREhMNHZROVZnbzJDbGktdVFJamd3eWVTdHk5clhDWHVaRg?oc=5": {
-      "title": "◎楽天証券、親子向けイベント開催 - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T13:04:37.483608+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ec2xDa3VSY01SUjYydXNPcWljNzEyNktaVTNCUjVNSlFZYi05b3dQaDZndGFUeHhLSGZqd3U1NnNBWGZoRFl5cnQtQWlZVjBvQUFYYjN4MzNEWFJsc3Rwc0tGd0R2YUFhOE1j?oc=5": {
-      "title": "Secured Finance、三菱UFJ信託銀行による日本国債（JGB）レポ取引オンチェーン化の実証実験にレンディングプロトコルを提供 - jiji.com",
-      "company": "三菱UFJ信託銀行",
-      "source": "時事通信",
-      "seen_at": "2026-08-13T13:04:37.483608+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aXlSX1FUY254VzVZdVFkS1RsMFJYZ3dwd2hTcUtGQk1qbEMtaG0tOTY0V2RhOFo2QlFWMkJnMHNoR2I5NWZHX0tEZUR5RGhjbno1SUFfY2xIaFR0Y0dZRmE3UkxSQnBQLUlOWg?oc=5": {
-      "title": "野村、シンガポールで金現物取引に参入 アジアの富裕層取り込み - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T13:04:37.483608+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMmZXUXNTdlpyQUo4bHhVZnZuM3VCREJ0X3BoajMxMzBTRVlCUV8zVDNKV2xkMDlvMG40ZElVMjh3ektxNlYyVWNlS0xpMDNVUG5zQjhxb3ZSSXpudS1OeDNMMTBrYS1STmI1cg?oc=5": {
       "title": "三菱商事系の「神の海老」 ヤオコーやセブン採用 販売5割増へ - 日本経済新聞",
       "company": "三菱商事",
@@ -1583,7 +1565,73 @@
       "company": "北陸電力",
       "source": "日本経済新聞",
       "seen_at": "2026-08-20T12:43:03.350858+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1odV9fWXZiZWNCeVlNYTgxTlNxYjcxd09acS1SbHBBSkstTnJ6bHVCdTN2T0NzUHBmUDR2SnllUkdyVFE0VDg2Y25nZ3ZiQm1rYmwtblhjblhMZW5BbVo1dnJsaWZGMHlERHBsYw?oc=5": {
+      "title": "伊藤忠がデータセンター 数千億円投資 JR東と協業視野 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YT2EzTC1QMFE2TWZkWmZEb2drWHMzVEpuaFUxQVh3MFlEcnUzS0ZXRndOVUh5azVNZi1ucVVscUhYLVA2UEZBM3FsQkZQN1Z5dkN3dTdTYjEyMklYYXJ0akhuNEh4aEtwVWJCSg?oc=5": {
+      "title": "中東アルミ大手、不可抗力宣言でも日本供給 伊藤忠築いた40年の信頼 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQlVDb25sVzVNZFZSU29QX1p4Y3hiSTI4b20yMGlxWG1uVUpfeFFISk8tVXotZk90eEZPMUFPU0dnZ1dTUndWMUJVekRyc05ZN3doMlgxRkZCc0dyal9jc0pBSUhYeWJtZFNyeg?oc=5": {
+      "title": "NTT・スカパーJSATが挑む「衛星間光通信」、宇宙データセンターに向け開発 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWi1jV1hnQmh5V0tDck8tTml3TGxYRkxHZ2VyUzZreDFKdkdtTHo2RS1EUTZSb2hINkxCajJlc1FSUm5rYjNlclpZTjl2WVhlSnc0N3JhSFlCVmV3b1VycmFna29NbzY5VnpITW9nTE5fOXpnbmZ5WnhTUVloYmRRdWpyTFEzajJuX21DbA?oc=5": {
+      "title": "「なぜうちが？」と驚きも 三井化学が「子育てしやすい会社」2位に躍進 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OeXk4dmhwV3REXzlxMERrZlROWlpuVHdfRF9pc3hna204d183TUhudjUzUVE1VWpjb0lVUk5Lbjg2UHpCVW9rajlFY0hPajFBeURMUlVSTmRKOVlZWFZHb0VUSnZCeDFRVkZEeQ?oc=5": {
+      "title": "交通安全で新興とタッグ トヨタ ステーションAiと連携 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE42OXN6WWZkRTRLWXFFVVZqRmxtdGpHekJzY3c1eS0xeEloZ2FRbWYwOUduNk93T2tocWRRQnVyMENpNy1xbDdwbFJBTFZ4TWJ2UTlYX1dwOTBkT3ZZN2JFSmFLR3BCaHZYenc?oc=5": {
+      "title": "国内完成車14社、部品の曖昧な品質基準に共通指針 トヨタ「忖度の壁壊す」／吉利、驚異の熱効率48％エンジン量産 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRGwyYXh1ajY5ZUlSdGx0RnhfNENDV0xFMHZMUFd1NWtJMmR6QTdrVmQ3T0dJcVJnNDZoNlY4SGgxX3RsV0xyczgwWjdrWTMzOUF6TXcyVjBOdDdja1RNSlJWazRUUzgyX2Flbw?oc=5": {
+      "title": "群馬県公式オンラインストア 楽天市場に年内開設 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE02THZUZUdDLXhBaTNzQ01POXRjamJhd0Nhd0d1eV9vTkVGSWlILTNpM2tlSUY2aDhtUmdJREszQl9PcC1wMlg5NloybkFUNVduREN6bnp5WWQ1VU1ITkxnUUxhRnJ3WVR5VzdUbmg5cmpCZlpDTDNmVnNmMGlYUQ?oc=5": {
+      "title": "アイグリッド、太陽光を余さず融通 イオンや物流大手が顧客 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNUnZiQ2l6bldPYlVBNm1XSktCYWh0QmVrNzNFRXg5UG53akJNZ2REeW83RGpkV295MEp4MkxLa2FHMExCejFocTVSa3FCWDItSDRSdVdiSGFtMzNvbXJKVlNyVkU?oc=5": {
+      "title": "「導入ありき」の処方箋 三菱UFJ信託銀行 専門職ジョブ型で“一国二制度” - 日経ビジネス電子版",
+      "company": "三菱UFJ信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUZNallsM2RJXzFWRmJXTExjaEJBcWtDdWNWeG03VF9ESG5iZG5BZjBJd0l3YklmNVhfNnpfREplMUMzSDVVUmpFa21hbHAwSFZGVE5tSW5wNGNqY0tfdVQ5UjByVE9SR1ZvWWJ2RE1FQ0dRNFRwQUVNc3VjRGtWbDFod0k2a25taXc?oc=5": {
+      "title": "「導入ありき」の処方箋 三菱UFJ信託銀行 専門職ジョブ型で“一国二制度” - 日経ビジネス電子版",
+      "company": "三菱UFJ信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCSy11NmpJOTNoWFlwZjJmRG1IOUxfejVfUTRsS1pVWDRzWm9YZmhweUpCQ2ZYc2RiRnNtVFpQNjg1MVdwaGVrcThPbWltUm5xYW5CUDdpb0FHek92UHI2bDdn?oc=5": {
+      "title": "野村不動産ソリューションズ 代表取締役社長 日比野勇志と二宮和也が語る ｜ 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-20T21:22:47.162360+00:00"
     }
   },
-  "last_updated": "2026-08-20T12:43:03.351316+00:00"
+  "last_updated": "2026-08-20T21:22:47.162885+00:00"
 }

@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vc3BLOWN2bDJJSml5dDllOWZrQ256VmQxdUQzRkhrZW11U2E3VWwtdlRFUDdaZEdzQXU2Zjl4eHFnaVpJN0EzNXB3X3VRYzgwcG8zbnNBSC1IT25CWE1JUmFMVQ?oc=5": {
-      "title": "アサヒＧＨＤ、純利益過去最高 円安、土地売却も寄与―６月中間 - 時事ドットコム",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-08-14T13:00:50.388274+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGpqcGpGS0p1aHpaSEo2by10VjRHS3Faa0ZUSXNkVlZvMGcxZEthZ3dpc3FQRU9CV2F1RTVLeFd6ZlJkM3NqSW5zdXJ3Ung2SmowVlhVb3V3QVpLWlZtcnZQR0pXaWRaZTd3dzdGU1JrQ2NRd0E1VkpYTVpqbTdQVA?oc=5": {
-      "title": "アサヒＧＨＤ、純利益過去最高 円安、土地売却も寄与―６月中間 - 時事ドットコム",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-08-14T13:00:50.388274+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzMWNYcVFBVW9tbHBtdklaSmVUSnQyeUVrRUxaSGdtZWprb1hTR3R0eWFsMGhCYl8ycVZ1X2piR1F3Q09fcmxlaGhId0VoTlZlbDc1UA?oc=5": {
-      "title": "○〔決算〕アサヒＧＨＤ、６月中間純利益が過去最高 - 時事通信ニュース",
-      "company": "アサヒグループホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-08-14T13:00:50.388274+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mcFE3WWdQTXlaYm13d0VZSnBiQlYzNjBYa0cxeFZUMHZ1V1hyaE5KSy1BWk1YUk5ialdkN25VVzJCQl85NEpBVHVTdFpobnB3YWE0TGtwNUFsYmFERWpIQTBhc2hfRllIc0Rr?oc=5": {
-      "title": "「りそな!nイオンモール名古屋茶屋」の開設について：時事ドットコム - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-08-14T13:00:50.388274+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rc3ZGeFVoMGdqUUI0M2tmY3B4VWZZNmE3MV93RndJTDZEd1hHOVFzWTlJVXduZHVFemtsYXQ4aHREc194TktrcXBfSzQzZy1YR3RpeW94MmF4M0tuWU1GTkR3NXpyNm5LaVlXSA?oc=5": {
       "title": "NTTドコモ、衛星とスマホの通信拡充 28年度中に音声通話 - 日本経済新聞",
       "company": "NTT",
@@ -1685,7 +1661,31 @@
       "company": "大和証券グループ本社",
       "source": "日本経済新聞",
       "seen_at": "2026-08-21T12:41:26.867701+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM05XdzRGT21oVnNqVUpfV296dVBpMm9rLWp4UlYwTzhoSEFNdl9tYUswdlQ5a0pyT0tNTUFiLVF4MDdpSVkzbmplTWh4bW1SWlluRUZ4YXpYb1BjNjhRZU1pc0FIVXVIMWtBQQ?oc=5": {
+      "title": "常温・常圧で水素輸送 東京大学やアイシンなどが実証実験に成功 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T21:18:38.755186+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMlduczZkdnRGSElpbnVLSFNrT3Vfbm5JenpOZkhtbl93RGJITWR3Wk9xVENJS19lWlRWMlBkMVduci1EbHlBUkl2dnViSjUxSU8xLU00NU5jQzVLWnFYSlFVMGpla01idVF6Rw?oc=5": {
+      "title": "楽天G株が軟調、回線借り入れ縮小に懸念 自前投資も難路 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T21:18:38.755186+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSHpXaG1zeVFiOFVRMTRTN2o5SXlYb0RITUJrYm1ZUTk0MHpUeEFjaXp3bzZiSnNVaXVqT194bkFHS0J4WkhPNkpuSjB3eWhMVTE2MW1rMjRycFRBWXlUSWg0NmtvRjhXQlZpVg?oc=5": {
+      "title": "面接１回【大阪】設備管理／関西電力グループ／残業20h・年休122日 - 日経転職版",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T21:18:38.755186+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSWp1UzhYQVJvVm9yMlg0TFFYcHo5Y0JEZElDcjhWVk1fbjhobG16U1pXc2dEcE5MWmVnUDlVWEh6UXhkcWwwMUJfcVFjbk9Ud3owREUxY2xrV0t1SVBiTkJoZ2g0MVhYcHg4?oc=5": {
+      "title": "SMBC信託銀行プレスティアの外貨預金残高、国内No.1 ― 5年連続の首位 - 時事ドットコム",
+      "company": "三井住友銀行",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T21:18:38.755186+00:00"
     }
   },
-  "last_updated": "2026-08-21T12:41:26.868201+00:00"
+  "last_updated": "2026-08-21T21:18:38.755595+00:00"
 }

@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9aY0VDY3VoaUFjd0ptR3p6VzRmMnJZOHowWDhCYnB2TEdCeS1OMmF6ZEU5alNFSmx1bms3dzk4QUJjTkFqV09RVWlZb3dsQTJzOENCaG5xSzRDRTdsWkdmNzBpNVJ3aklEVi0yR0J4WmFJdw?oc=5": {
-      "title": "NTTドコモが金融を刷新強化 dカードやd払いも外部提供へ - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T01:45:15.362639+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbU5Edll4Qk1yZWpuUVpXRXJpR2dwcEIxb2pXUnN3NmZUTEtoYzAtQm0xSTI3UWtzTFJhN2lvZ091djJ2R3ZRU28zUmZvcGlYTzdoZi1NQ1ZEaGlHN2F1aHVuempueFpSYy1lOUEwWm1wODhpbEhhcGJaaEtHbENXbFZYbWRqa1RtbklXN1ZjemJPZnpjUHpLWC1RYTlRc05Vd1hheUJ5N1VMWGNnbWNRM1pmWjNraGNiM2MwQnZBRFRvWGl4Y0t6STdvMWRaekFhU182SHoyWDIxdDJmWXlmRVdHNHBMRExWU3VXeUpn?oc=5": {
-      "title": "IHI「アンモニア燃焼」開発物語 - 日経クロステック",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T01:45:15.362639+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdm9OMWtzMHN0NU1JT2gySlo5cTFvZjhPbEFBWWFPX190SkF4ZFV1N0VwYzVYQ2VvLWxxZFNVWVhIelozc1VSdTQwWmlIRlBkbEtiVF9TdkdBaVJaRTE4VTJxVzMtZkdIZ1lyMjZB?oc=5": {
-      "title": "【基本出社】ホテル社内SE（基幹システム・ネットワーク運用／森ビルグループ） - career.nikkei.com",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T01:45:15.362639+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSTV5VElzOXpZdHA3T0lKNFlnb2V5amRweEV0c0NHVDRVRDFoSGpzRDBxWm1EeGNEeTFCOVBXMXpFVlFUb3UtMFFHYlpGa1duTmwxU1dwZWsyMC1HU3RucmRUa1FUcVpTZTlYdlln?oc=5": {
       "title": "エンジニアリングマネージャー（三菱商事グループのデジタル戦略） - 日経転職版",
       "company": "三菱商事",
@@ -1595,7 +1577,61 @@
       "company": "三井住友銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-08-21T01:08:48.564497+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40OVFva0ZFdGpPdThhblRwZUpPMDJFWGt4ZjhyczQ0ay1leVhfa052VXhXZlJBS29EZE1OSTVha041YklPNTdCV2lBdElOcXM4NXlPcGp4bEFYdFFvV1QxT3J4cUw2bWVJaUd3dg?oc=5": {
+      "title": "日本製紙株価が一進一退 リンテック株全て売却、特別利益計上へ - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sb0VkajVGNGg1VUx3N1IxcnhxaGVQYk51REdoOERheFd5elJBXzM2LXVWMUNxanNDM0hmWkpQdldqaTVyaDNYTVdnX2FZblBTMG95dmt5RkRHYzVTZGd0RHJBMWo5eHYteXc?oc=5": {
+      "title": "ダイセル[4202]：従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分の払込完了及び一部失権に関するお知らせ 2026年8月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzWkdnMlBUMEp2WS1rRXRfNjJHeDhPZVRjdjhkazUtWUhibElwV05acDRMcWJFczNEbnlRbXJULTRJeFdWekJUSUVSaXhTbmJ4bWN1WFB4LVN6R3l1UmxpdElEZXVWYkYya2lV?oc=5": {
+      "title": "【事後レポート】水素から生まれた電気が、DJの音に！ トヨタ「MIRAI」からの給電で、発電由来CO2排出量を削減 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtZVlNR3RXQm9NcHB0ck5wZU0xTTZ0UGRuU0ZlLWl2YVIwdkdLZVl2SFFXQ2t3TlZRTkozOGRvS3BvTDZLc2p3azN1Q3ctbTRubXJuWWd6TEtabnR1WllpdmNjMWY1clNid1Fr?oc=5": {
+      "title": "8月のおせちが楽天市場全体で1位にちこり村「田舎の手づくりおせち」が楽天総合デイリーランキング11年連続1位（※1） - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE40RGVab2NzSWJqa21QMFBqTy1POHhUUDlwVWw2emJTWGdTbkFwcW5fem1xZERUQXdLMS1jLUEwVFZPX2RVSEdNT1AxSmVZbW1tU044bVZFdVJTeUdUbmZkdW5PLTk2OFF0QlJj?oc=5": {
+      "title": "「楽天ポイントカード」、九州を中心に展開するホームセンター「ＨＩヒロセ」「ＯＫホーム＆ガーデン」などの全店舗で利用可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JcFdQZWZneXc1ZXhNTWttS1VSdXcyWHdfdVQ0c1JhS2NGbndGdTlyUXpfTDlYZmR1c1d5d2lxVlFBVmw5emliRlFEVXpteEdlVEx0TjBiZ2xvUGp1Qmg5YXV5YnJfRVlORjI0?oc=5": {
+      "title": "LIFULL HOME'S、楽天銀行と協業し賃貸初期費用の分割払いを可能にする「新生活費用サポート」プログラムを提供開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtMzBXRXVPa0dhdk1Fd1gwSnVXZ2xFNGxVbE5mbml4Rld1QTJjRjdBWDBqMVR6bEt2OHF5bXVNcXpLcmktcm16VGlDdk16R3pXeXBmYkQ4cFdIc1loRkpaZ2RYWl9qYWlKeGlN?oc=5": {
+      "title": "MUFGファーストセンティアサステナブル投資研究所レポート【持続可能なリチウムイオン電池：投資家向けブリーフィング】発行 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWWEwU0VlaU02M0htTGp6aDVXallCa0dRMDlGaWZHdUhfQVRNNWRBcWR3M29oc3FJX0l3dGFOeE83QnNfTGFsWkJkTl9HODdSSXdCTnM3RUF6d1pUSEg2dy1CU2hYWG4zT09QMQ?oc=5": {
+      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbmtPOUlxWnhDMXQwaVpNbFJqUTNSSjRxTW1sc05Cc3Z2cGZUNFVGdko4bGtJS3duMmtQTm9NcVFsa3FUN3RWZW5aYks3R0Y1SFNJM0RVWjVSenRhTk1TOTBXSmYwU24xWW9R?oc=5": {
+      "title": "SansanとJCBが販売パートナー契約を締結：時事ドットコム - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-08-21T03:48:41.124395+00:00"
     }
   },
-  "last_updated": "2026-08-21T01:08:48.564938+00:00"
+  "last_updated": "2026-08-21T03:48:41.124836+00:00"
 }

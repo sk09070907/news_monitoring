@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMmZXUXNTdlpyQUo4bHhVZnZuM3VCREJ0X3BoajMxMzBTRVlCUV8zVDNKV2xkMDlvMG40ZElVMjh3ektxNlYyVWNlS0xpMDNVUG5zQjhxb3ZSSXpudS1OeDNMMTBrYS1STmI1cg?oc=5": {
-      "title": "三菱商事系の「神の海老」 ヤオコーやセブン採用 販売5割増へ - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UMk1MNjZXbzU4VDlQNG5RbUZlaWhVb2dWeXl2WkhZcHE0cGRGWHV2cDIxZkVnUnBVMG9YSUR6bWl0V1puM0NQeFphaXJKZXlaLWVJbTJCcFhvR01Fa1dBWkdxZVNPQWthUEFudWF3?oc=5": {
-      "title": "＜大手製造・医療業界担当＞QAエンジニア（PM） ～住友商事（SCSK）グループ/プライム×長期案件 - 日経転職版",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrWjVnQ3VydW00empwUm4ybXVVaXVadjBmMWxjZjNSUURMRnhIdlB5TzVHSTRpMGJtMGFsczJfeUdWNjMzSXgwbl9MYlZvc3hjcF9BNTk3MWFNeFdVMnNoZkpXa3dYZnE2aGl0Yw?oc=5": {
-      "title": "住友電工、「選択と集中せず」のジレンマ フジクラに劣る効率性と評価 - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wXzJyYWc5dklsdkdMRjRwX3RhNVpVNk1Gc3FJQVNQNURqSEg4V1RFbElLYTZZeTlibjh6LWpwY0NBdGFqWGtVVm5OYVdOcTlqd2h5djNPMlhzWlpnYUw2SW9QUXJQX3p0alZINg?oc=5": {
-      "title": "日経平均は年末にかけて上昇、年内高値は7万2000円 楽天証券土信田氏 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3R2xyX3FjODk3WUJUVDlKSUxQRDhwd2dJdmlqZ21XelRSdGl0UU1YdkpTTzZzRDZlLWFnYlNLZkxUTURYc05QRmVKRHcyRTFFVVp5QUtaSEFjV1ItMWhCenozelZ1dTlPTGpGbA?oc=5": {
-      "title": "「オルカン」連動指数、JFEHD・西武HD除外 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXRC1MdmpoZmlFV2ZfcVZSZ09pMXZlZG95VFV6UlBhVEVjV3lhMGp6VnpSa19Cd0pTcHpQYkl0RGRFaVBhTXFUN1hXbHVuT0lTeEFJaGZqRHJHM2NISjVYZFZuRjBTdUVaWTltQQ?oc=5": {
-      "title": "四国電力[9507]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "四国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE00TWwtZEtOUFlRU2l5QXdQVWlVdWhoeC1zUUhmZng1SG44RVFybUpJcVJhUlUwOW9hNkl3R2kySml2eFM4TGZpVGVIS1hjTWpUendQdEExOXZRbDVzaXFDa2hheExuZzRrNkpfdg?oc=5": {
-      "title": "野村、シンガポールで金現物取引に参入 アジア富裕層に的 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WU252UzBlYnRBOXMxNWpOeGNvU05ldFowMnBkVElBQmx4dU9SR0RTTWtHcDBMUjNzVVJQNWxNbk10ekVrSHZLaHpVQjlOWmJyZTBQaFFmWkEySmxIcGM5T2xpMGxIOVFCZ2ZfSQ?oc=5": {
-      "title": "森ビル、米国に「ヒルズ流」輸出 現地不動産と共同事業 日本の開発停滞補う - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-13T21:39:45.975217+00:00"
-    },
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9aY0VDY3VoaUFjd0ptR3p6VzRmMnJZOHowWDhCYnB2TEdCeS1OMmF6ZEU5alNFSmx1bms3dzk4QUJjTkFqV09RVWlZb3dsQTJzOENCaG5xSzRDRTdsWkdmNzBpNVJ3aklEVi0yR0J4WmFJdw?oc=5": {
       "title": "NTTドコモが金融を刷新強化 dカードやd払いも外部提供へ - 日経クロステック",
       "company": "NTT",
@@ -1631,7 +1583,19 @@
       "company": "野村ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-20T21:22:47.162360+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYktRVTNNZUZXaHAydE80VlNGZ0VUUHhfNTZtSUE4bXM0TG84LUlNWjdOYVFHMTBEVGlDYll3UU5MOE5TX2FwTHRHZVVjNUZuX1RXYWphQWFFdDBJS2pjbTNjbG1TX2U4eW9wUg?oc=5": {
+      "title": "「なぜうちが？」と驚きも 三井化学が「子育てしやすい会社」2位に躍進 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T01:08:48.564497+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50M19OM3JpUUNDY0JZUjRvS3JUZDNUbjVqazhHTExZR204UG5HNk4yT3RQb3ZCNy1yXzZRcXh4ZnBSZjNIWGJYcXZlOXZaR3JXMkRZb2tqZGZEYjdwT201bmtxa1VPN0I2TmQtNw?oc=5": {
+      "title": "米国債買い入れ増、市場の見方 「投資家心理は改善」三井住友銀行チーフ・マーケット・エコノミスト 森谷亨氏 - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-21T01:08:48.564497+00:00"
     }
   },
-  "last_updated": "2026-08-20T21:22:47.162885+00:00"
+  "last_updated": "2026-08-21T01:08:48.564938+00:00"
 }

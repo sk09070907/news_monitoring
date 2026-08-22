@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rc3ZGeFVoMGdqUUI0M2tmY3B4VWZZNmE3MV93RndJTDZEd1hHOVFzWTlJVXduZHVFemtsYXQ4aHREc194TktrcXBfSzQzZy1YR3RpeW94MmF4M0tuWU1GTkR3NXpyNm5LaVlXSA?oc=5": {
-      "title": "NTTドコモ、衛星とスマホの通信拡充 28年度中に音声通話 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Kem9KNGZWNzZTOVhRNkdsWDNMT0Y4LUJQV2c4czZWaGxId1VWQ1Z0b00tZDFQWldYZ3ktWnhhZ0x0OXlFZW9PaURYSHYyWDVzSTRIb2Fqd0F1a2hmbkZ1dmpiS1Z2am13RkFzakhYcjRza2FMZmJuX0J1T0hqZw?oc=5": {
-      "title": "キリン、時価総額でアサヒ超え射程に 酒類立て直しが次の焦点 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tUlFMWTN1R3JXaEdzcEFyM3Zjb2hSUjZoc3hzR3plYXVvTEdWZVEybGFrOWh0aTFkX1RFbk1pUEg5NlB3NHRvLUZFeGRaVFNGczJCY1JFX2ZyU3JkejlYZmYxNVNsYjl6NzR3Ng?oc=5": {
-      "title": "アサヒ、1～6月純利益69%増 工場用地売却益も寄与 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4dU5PYWJVVTF3TEU3MzBDb2RiWWVOMzQ5d3AtSUZLWGx4aGxGekRlQlZick94bzF0aW1CcWNvT0dsV0ZtWjgzRk12eUxlRzZWZklOa3NUTG1PWUc2MUxsUEZaU0EycDh3Nm02eg?oc=5": {
-      "title": "空の足に「レクサス・ヘリ」 エアロトヨタ、24日から開始 箱型の客室でゆったり - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CaTdFTzlfWlZ1TFk2OWcwMkRxU1lkQUpjTWJYWEdCQ1BXd2M5cGtPV1U1ZkY3cTE0MWJaUjFGZi1yTXpyNGlqaktyZXo4SEhZSFBaTVhnMko2QkdWVlZETkpZUkEzdm9XdWwwVg?oc=5": {
-      "title": "楽天モバイル「通信網間借り」終了へ迫るXデー 再契約か自己投資か - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKS293b05QUHJxMkswLTRWTGpaQmJsNkxEYUpzbmpkdHJsTllGX1ZRTWN6MEVUMFlMRHRBblJSMzNOZTE1ZV9EdmJyWkx3bnJFV25RMVNWSk1vTGxHdnJCZzVoZ2lsWW5sTTRobA?oc=5": {
-      "title": "イオンモール爆発、「災害に強い」LPガスの誤算 防災拠点の自負崩れる - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5": {
-      "title": "イオンモール熊本 小型無人機で撮影し…：熊本地震（2026年7月） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-14T21:20:16.504524+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwM214b2RUMUk5cmRGbXR3c2h0X09ZMThQWWowOXUtZ0hnTDE0aldWcGtWWVduVWJ1TTF2bnE4NGFLYWY3UTBTcXdzbzFQUG52V1BDMTQ0TndYZE8xQTNRNzFSdjZ3QlJEUTlEYg?oc=5": {
       "title": "〈Leader's Voice〉ホルムズ原油権益「手放さない」 ENEOSエクスプローラ 忍田泰彦社長 - 日本経済新聞",
       "company": "ENEOSホールディングス",
@@ -1687,5 +1645,5 @@
       "seen_at": "2026-08-21T21:18:38.755186+00:00"
     }
   },
-  "last_updated": "2026-08-21T21:18:38.755595+00:00"
+  "last_updated": "2026-08-22T01:05:11.675324+00:00"
 }

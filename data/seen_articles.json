@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncmVQOUI0VHl3OXFwMEJURS1OVlUwdTJTX2FwdGg1Ulc4RFR0eWo2a3ZreVphSkVZeXV5WGVtamFWalVzTlBiMUZVY3k3bXo0SDM3ZFlRT2JqOWI2UHNNclplaw?oc=5": {
-      "title": "鹿島が開幕２連勝 広島、町田も―Ｊ１：時事ドットコム - 時事ドットコム",
-      "company": "鹿島建設",
-      "source": "時事通信",
-      "seen_at": "2026-08-15T21:15:24.890107+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxcXk4VUZFaEZxdUVWSWNLQXI0U3dNdTNQajJ3UDQwdFlidXlHdXhuc2pnQ1U4QlQxR18yb3pOTXBQYW5hcnl1bFA4ejM3eUIyNFlrN2swYlBvODF1czFGdVBUZHpjM2ZtX3dlcnBn?oc=5": {
       "title": "●ワークサイトPM（建設クラウド／三菱商事100％子会社） - 日経転職版",
       "company": "三菱商事",
@@ -1637,7 +1631,13 @@
       "company": "北海道電力",
       "source": "日本経済新聞",
       "seen_at": "2026-08-22T09:24:10.984066+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9weHZ3RVVjbk8xUGtUdnJ0R04wOEFnQ2gzaW5BZXA5b1NCcXI2eTlKalVDNU5vMmE4WjZiWXBGTEZQYjM1RnZtb182T0tuVU9iVF93VlVTOENRSXoxRm9maFFtVFFRa3IwZHZ0MA?oc=5": {
+      "title": "「スターリンク小作人」解放策によぎる不安 楽天連合に1500億円補助 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-22T21:16:08.165918+00:00"
     }
   },
-  "last_updated": "2026-08-22T12:33:53.872752+00:00"
+  "last_updated": "2026-08-22T21:16:08.166266+00:00"
 }

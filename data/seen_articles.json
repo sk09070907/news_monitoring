@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwM214b2RUMUk5cmRGbXR3c2h0X09ZMThQWWowOXUtZ0hnTDE0aldWcGtWWVduVWJ1TTF2bnE4NGFLYWY3UTBTcXdzbzFQUG52V1BDMTQ0TndYZE8xQTNRNzFSdjZ3QlJEUTlEYg?oc=5": {
-      "title": "〈Leader's Voice〉ホルムズ原油権益「手放さない」 ENEOSエクスプローラ 忍田泰彦社長 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-15T01:05:34.988285+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJd3JaNU0tUTcyV21BN09vbVNqclhQazRmb0ZpdGQ1bDlGaTQ1VDNaaUpPZWQ1VFBSTEhEWHU2NG5kZ1NhcmUtc180Z2ZqeHpBcUt6WDNYUWVsZ2tvZ2dXQ3RRaWsxc2ttVHFr?oc=5": {
-      "title": "【楽天市場で50%OFF】GPS・防水・AMOLED搭載「DOOGEE AnyMoving M1 Pro」が20,950円！アウトドアから健康管理まで1台で対応 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-15T03:36:30.777195+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ieGVOZnJ3ODhDRFNrejJjODFybDR4VEEybFd0MEVaYnNoWU9CN012eWJUVGxnYXo0LWFDVHQ5NVdWNHZsMDVuQ19mcjZ3SDRNZ3VuTA?oc=5": {
       "title": "◎中部電力、浜岡不正で問われる経営責任 - 時事通信ニュース",
       "company": "中部電力",
@@ -1643,7 +1631,13 @@
       "company": "三井住友銀行",
       "source": "時事通信",
       "seen_at": "2026-08-21T21:18:38.755186+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JWVp4cG9XTlpCbUs4NXhqamVUZ1V4WlNBTUtKeUg0anptSk9RTTdkaTVyeklSaVVyQXg4cGFYdGxJTE5Gak1tLVFyZDZxVzhyUF9pV0JHdjRqRk9oVFZCU0pUcHRwek93YXg4?oc=5": {
+      "title": "10万部超のベストセラー『トヨタの会議は30分』著者、注目の最新刊！努力が報われないサイクルを根本から変える『仕事ができる人の超整理術』が発売 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-08-22T03:38:57.179742+00:00"
     }
   },
-  "last_updated": "2026-08-22T01:05:11.675324+00:00"
+  "last_updated": "2026-08-22T03:38:57.180154+00:00"
 }

@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVVLLThJQnpnZGt5d2lnTURCWTdBRTM0OEE4SG13cnRZTHdiNTIzUjVXaWstNXM5cURieG9oRW54RHYyX2JiYnpWQkN6bmc3aWFoaS1sNkxUbUtyN0lHaEI0c0N0R0FyaUNGdFhzeFRlckljaXl4WTY3dGlSRERMT2ZNM0FtQmhxZjRGcl90WnlFLW50V0pqZUZWVGQ2MnhaRHU4?oc=5": {
-      "title": "楽天G株が軟調、回線借り入れ縮小に懸念 自前投資も難路 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-16T21:14:32.076175+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE85U3ZWY19BdDI2d0tCbXE3a1NYMEMtMzl2RnFzeDJDM0NKdFRDclJMMVJhMlpCRWVhZ0JWZGVzTTUwRmZUU3NHVE9zeFBvUGN4NVdsV3RLOWF2bFl0Z0ZVa2YxRlhWTVMtTmc?oc=5": {
-      "title": "みずほ銀行が1位通過 日経カップ予選E組 - r.nikkei.com",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-16T21:14:32.076175+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rY05kVzM1MEV3emJXZWkzN0YxUGdzdHZYZjNCZ2otQjVSV2JmSWpEOG5aaHkyNW03ME9ocjI0cVAzTjBIYU14b3hvZlV2SzhNSXZmU214dWVyR25qaWx4RDFVeGdvV1cyblE?oc=5": {
       "title": "三井化学[4183]：（開示事項の経過）米国Ultradent社買収手続完了に関するお知らせ 2026年8月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三井化学",
@@ -1613,7 +1601,61 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-08-22T21:16:08.165918+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fMHpFSXpvNDg1SEU3THJFRXFYbjNpSmtvcE4ydmx3MzdNTXVidzRydU54aUJiUkNlWU5EeVhSQXBjRE04enRVa2lLZ2V3OURWQVRXMUdaNjNYcjZmYlJEQ2Y0RFE5X0tueUp5aQ?oc=5": {
+      "title": "三菱商事の中西社長「世界のリスクへの感度、理解し受け継いできた」 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91VWxDYThjalR0dE45QW1DbWZQUmVFUVc5QWNjTzRkMnhoRFFSckFERVp4QWJuVXNhZkpRRXVQd1NWWmg1WjR5S2l6ZHNaVDhudWRQYXJaVXVWWkZtakNNZTZWLUIxckpWSkRtTGN5UWxfN3ZZUXdB?oc=5": {
+      "title": "三井物産、チリで合成燃料レンタカー 地産地消方式に解 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQaWV0Q3lmNG93NElGcndmRTJ5OUtvaGhTSDhwWlpVVUpqVThmZHdBd04zY0JWaVVxcW9nWC10ZGx5MzFrU1VTbmxaNTZZRWFYSzE3NDVPSTkxU3JySHBaOWFwTm1CeDE3RExnaA?oc=5": {
+      "title": "台湾企業の九州進出、IT最大手と伊藤忠系が支援 合弁で半導体集積促す - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2xzeUpLNkg0ZVJwY2JtREZYNUo1VW94Rmp5S0lWV2dBd0NnT0FJY2VXQmk3cGFLbWhNVXlHc0Y3NkxuX1dMWTV5djViYTdwSUE2NndkZEZZZVNfajE4MzZKbGxkdFoyQW1MZmIyY2h6VTY0ZDN1MGdrVnNUbVFoOUtpRnlzZkR1QksydlA0cXJvMWVDeHVqNDBVVTdIT2Y2UG9tVmpLTnFFdnhRV2c?oc=5": {
+      "title": "NTTの光電融合、製品化へ商談 クラウド大手が成否左右 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WnlZSHF1Umd5dllPVmkzQ05qaFNlRHZHSThaclE5alpxSkFmUno0ZnRaZmZxR2t6UjZlMUp4aWMzZ3FFVFZQdlJjMUpNR2ZiR2xPQWw5LW4wazlMNzlSR0JoMjFjYVJ5dG5hYw?oc=5": {
+      "title": "静岡・磐田発「NTTエビ」の現在地 陸上養殖で社会課題解決 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Z3lNLXExSmFlbzVyTVhFRDRBcXJ2M1A0SzV3UW9xdDNJRUtTWWYxVC02aTlwSDdlaGR5M09wSkgyckFFVF9oa0ZoYWlXdjBDTUd0aW9wcmc5QlZTNGJMLWhPSUVKZ3RkWEhqRw?oc=5": {
+      "title": "トヨタが立ち向かう3つの課題、描く「次の夢」 成長の糧は失敗の場 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMXd2LWpzUTlCUmNNMGZRTXRKVFRsR21TeTRoaDRGNWlXdUhHYTF3TWZYX2xyRERGcUNWYmhQQVlTOURBZFh3akg0ZkpGb3JZT2FocHUtU0tVeExNbUdDcGdBWGtMa2JsOG9XTw?oc=5": {
+      "title": "トヨタやノリタケ、AI開発も現地現物 社員が「製造王国」の道ひらく - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcVd6VXJKQmVXcnp2dktCaVlBTjlGTVZOeUZEalp0UE1EV0prWmdRbm9tTG9qN1luR1c0YmdXZEtFUHpJWVpleHRaOTZFaklDXzg5X1JaSXFmSjNwNkh4NG9CZXoxZnVCc0dUTQ?oc=5": {
+      "title": "決算:九州電力、燃料価格が家庭向け料金の転嫁上限に 「中東情勢を注視」 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMV95cXNrdzY5SUo1SnhXdW1DcVpIOWdEQjFxRDdjU0V1R2pMNlpHaUROM29jT1pvNk9BR2U5Nk1LRncyb25uNTZkTHVTbEZZYzVpUm1qbk42blBvMGVlM1g0YmJYZ2NZZkxCbndBR3g1WDdOMXVpemR6X1R1QU1LVzZwWTdtSDZoNXJRSHRUTmM3bGprS3VtNQ?oc=5": {
+      "title": "フジとSBIの呉越同舟 結びつけた1兆円ディール - NIKKEI Financial",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-23T21:16:23.192332+00:00"
     }
   },
-  "last_updated": "2026-08-23T12:34:20.624389+00:00"
+  "last_updated": "2026-08-23T21:16:23.192786+00:00"
 }

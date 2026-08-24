@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BS1lERmw5NGRod3JZTVlVRXdvcnU2dFR6cE11Y1h4VWVSS0l6SW5UajUzVHhPRklPQ25ydXpDT2l0S1ZFLWxqR25LMko2aVJKWU1Pdl9wN0J0blhVOGJpS0t1eTcyTmRxcFYzSA?oc=5": {
-      "title": "光電融合の急所、CPOの熱対策 NTTは光エンジン交換可能に - xtech.nikkei.com",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMaFVHR1VocU9hSFhXTFpQMXE5LU96WmdRT0ZZR21MRlJMc0VxU1ZHdS1rZU5iZ3V4N29sREh0S09uLTAwdTJNMEhtdTNEMFN0MHhCXzdBOEo1SHVMcHRGWjdmaER4dzRmM1NKMg?oc=5": {
-      "title": "三井化学、歯科材の米社買収完了 - nikkei.com",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JWTA5TXpueWNZWlBSVVh0SVcyOW00MWRBZmo5dTlyRlVLTXQtY1RjUGV5dWRKYlcwWWRlM0RObUx3eXRBalVnbXh2MVZQTzU2b3RLeVBrOWptRzU5WHNLYWFJTTZxcVJwT1lLXw?oc=5": {
-      "title": "楽天、日独防衛協力に参画 新興と提携、陸自にドローン 国産化も視野 - nikkei.com",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmtaZ3ZnNTBoXzhYQ1I3QjM5QmFVdGF2QVhaeGpZS3R5R0MydUhDcHlXd19ZQlloNTRSN3VGRHcyX0I0ZlVsdEYxRGVGdkRzbEl3RkJ0UUZWM3Q0MHZPYURCV2VpbDJfRzBIQnFFNlRDLU05SWxwcnlxVzRYSmFfcA?oc=5": {
-      "title": "楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNQmJEV0MzaENKM1dkVV9QQUtURDZub3NJSklWYTQ1WnpFcTZ2Y0tMakhlLXVSdEcxTTBkU1M3M0FHSjFsWjlSZ3NjbDVIWFFBTHE2b1JEV19rZ3FXR2NwdTAta3VNcEhEcF8w?oc=5": {
-      "title": "イオンイーハート『おひつごはん四六時中』ユキグニファクトリーの３種のきのこで、ひと足早く秋の味覚を - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LaTZrSTVnR3Y3aFduZjA0akZlNVN1blBKWVBuX1hneW84clpGNlQxdEFBdkVRM0N4S2dOY0cyNS1QTW5uWFFwdFhVRDBaOE5NdEF2aXUybW5OaUpmMWxsNGNzNGkzSGtfWm5KMg?oc=5": {
-      "title": "東電の横尾会長、新潟知事と会談 「原子力安全確保努める」 - nikkei.com",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YQV9IMUFEcU9TRjA5emJ3VTdENk13S1k3UXhWUHF0VUt1OENlS2hBaERtY0E1aHgwQy03TV9xQkhhcnhzSjZPSjdPcnVSVVVRQXV6ZkZsZkNaSW9Ga1QzWXpaX3Q1cDFEOFNibg?oc=5": {
-      "title": "森ビル社長「東京をさらに強く」 六本木や虎ノ門が軸、港区集中貫く - nikkei.com",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T21:20:37.213560+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZHpkSFFod3I3S2ZRcXBSUG1nRUkwa1BzclBHMFJ2SmRibVNaMThCRmdlTHFsWWJCSC0tWVhfMi1wRzg4OWtmdHJTNVhZU0p4UndqVjhsMHFvMmF0aUVoUV9rYW5yTF9tclBrVw?oc=5": {
       "title": "コスモブルーム、10月に宇宙でシート展開実験 トヨタ系などが出資 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1847,7 +1805,97 @@
       "company": "アコム",
       "source": "日本経済新聞",
       "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40Q2h6RmIzd3RZTzRvRjZqN3k2T1JUOVpNZkx4RXZkUW5PVk9RQm5jdWZhQ01jQmo3STVUbG8tVHcyVmhZbXNyN2JSNmc2NEs3Q0dYa0dER05KUl9mY1M2azZPN1pRR2RnOGRrWA?oc=5": {
+      "title": "かんぽ、不動産ファンド4000億円に倍増 三井物産と連携拡大 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81YmlkWmVSVDZXNnUwOVNsSFpiclhTQmR1Y2ljNl9TME5sdVlSVWkySDIya2tnNENOZ08tdFJsQ3pJbnRKRzRVdXhCR0FfS0M4OGhTSzgtampqZjdWZ1dSeV9HNHZ5SXhZajZGTg?oc=5": {
+      "title": "【東京】金融事業担当（ファンドの組成など）※三井物産G/英語を活かす/リモートあり - 日経転職版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQXJoZ04xSkUtQ1llMjYzN2hteFJ4VGxObnVRMkIyUE9uX003TlFyV2pNTWl4djdIVUlEbUFpNFhhdHRQakpFVG5LSE1ZR3pqajdDYUxEckJTcHZta0VnbWIzLWVNNVBUenEtRg?oc=5": {
+      "title": "台湾企業の九州進出支援 伊藤忠系、IT最大手と合弁 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZ3BlWHZuM21YMnphZnktWDRuQ3R0WHlvTkhRWHFuRFlLQWxkVDJPenRmOHh4VGs2c3ptcm1XLXlLMWZ0SlVpdGVXUklDYmhVTVJuVEpIQWN6eExqUkJCdFY4Z2pMSXN4QkF0Mw?oc=5": {
+      "title": "新システムは成長基盤、「2025年の崖」を克服したJFEホールディングス社長 - 日経クロステック",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXo5dEpSU1MtRHVmaHFtWTZKbFJxU0NacTRhQmlsSTg0aHkwNEVoM1BKamI4SFQ0ZUpIeHplbUFkbHZRbl9fRllnUnYtbW1TNElvNEtBRFREWWlDN3JaXzU0VENUN0ZBSTZ2bVZaaHZaNzVzNFdqYWVxaHRmZ05ELUtTRERkMXdyVUt1bGlqNjkyaW0zYXNDVlR1UUNmQ2dv?oc=5": {
+      "title": "トヨタカレンダー刷新､異例の協議前倒し 供給網に配慮 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZWk3YWRRV1FFODZPRWNXWHdSTXpmSy05NVdyWnZYYXVjUHo2X050anMyNmRkMDJpVFo2ajA1OEh6bFIyRV96UnlnbFdlNV9zUEhyeUdIVGN2b2d1LXY5RnhWdFVfMV94UzhyRw?oc=5": {
+      "title": "トヨタ、E2E自動運転も独自「ハイブリッド」 説明可能性を追求 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd1lOY0Y2cGhiLTZ3aVBJVElobFJfbi1IM2NlRTY2T2J1aS1jQ1lubF80cHQzaHZDYy1DNUcxUXk3bWtidENDdks1ZXdqdjRsQlV6Tmd3VGRpLUtpWTFma1l6S1ZHSmQxbXdMZQ?oc=5": {
+      "title": "トヨタ、国内物流を再構築 ダイハツと部品配送を効率化 改正法に対応 管理の規格を統一 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRLVV3RkVPVG9tU0Z2Y1dBR1dLOTVKckhWNU1UR0pBUVhfZmNkZjJGMmxXSnFlejdRXzFEZG9zNXZpcXVSYjNZTFdYMkdtZXZubWswT3oxbzN1WUZMa0JPaEhobnZLTU0zYmFmSw?oc=5": {
+      "title": "トヨタ・モビリティ基金、ブラジルに新興支援拠点 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcDBTVnRib3RFemY0aVFFUkxsZklDLXNyOGR4MGlSUXhOWHAwTEhJVHBOdFQ1WTF1MDFpZXUxRTU4b0tfT2J5dVp2QmRnUl8tcU4wQW1NSU1vQnJ5d0tmTzZNSXF2Q19qcW1lVw?oc=5": {
+      "title": "トヨタ基金、ブラジルに新拠点 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZ2QtOTNFNUxmUGJwYU85ckt6NTBkRWVwa3ktaEwwWVpvVHhMQkRTT05IZ29jcm1jQlYtRXVDU0JMVTc4eDllTDZnX2FSbUt6Y1lCMWNnejBld0RnN285dkZJRzhfN1JIMUE2RA?oc=5": {
+      "title": "大谷喜一 私の履歴書（24）イオンとセブン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcHc4RDhRVjVGWl9qR1ZiSV9sZXFWb2ppcThrUlVrbXRvYkQ1SkpvaGFHcmx4eDdGWWdGUWdtVXk5V1dKSEFKbFVWLXpYM01mbVR2RlgyemFVWmcwWUtCc011V1RsbVM4M3htdA?oc=5": {
+      "title": "大谷喜一（24） イオンとセブン CFS株主争奪戦に敗北 鈴木敏文氏、異例の出資判断 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92U0wyT2xjY0pvUmxNT3FZaEFyOUt5Tlc4VFNZUFJGUmJxOTdqX2N3dkFlSGNTMXRnc1RyQUVYU1B5cVRNbVo0N2NERkZQbldvTGx1blN3N0JadHpxekxqeUc2MVJrZ3h3MFZPbg?oc=5": {
+      "title": "【広島】設備管理／関西電力グループ／残業20h・年休122日・面接１回 - 日経転職版",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGFPY3hiTlJFQ3R6ejdSR05KRVhURFI0VU53RTRBd1FyXzd3UERXYzg3V3pPWDhHb2QtVXZrNUpzUlJ1Y0RycDZyS2MwTlM5YkFpelZWdXhhZE5lTG1LNE5KX3dHNVNydVF2QXltTmNORi1oNWJUM3FrOVpuZjMwcUZWQXkxY0tjRko3UnVsT0s5WmVnajdUSE9R?oc=5": {
+      "title": "三菱UFJ銀行が口座開設プロセスを再設計、JPKIが本人確認の中心に - 日経クロステック",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTlJoSXdHaU9vaUNCOHhrLUlPMlphbHFudG1rbU8wVEE5UUR3Q09TbnZGMEI4cWd2WHcwTmhIdlVEWTdwMHhHNGltNzk5VTJOQkFGTUJHMUM1YUh4bndEQXhSMU9PRjdLUXdHTw?oc=5": {
+      "title": "三井住友トラスト、ベトナムで資産運用参入 国営銀と新会社 - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdXZSck5LMV9XVzBVRWcyU2JhNG1jUmpxZld0ZmswVWZ1NXpSQ2Zqc2dpdHlGQW1fNHI5M0JPYl9zSFBmcU15c09PMEpqbVlZeUpETG8wMmc3amtSRUExU3NrdHBxMXRFMFNveQ?oc=5": {
+      "title": "日本株ADR24日、高安まちまち オリックス上昇、ホンダは下落 - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T21:23:49.815336+00:00"
     }
   },
-  "last_updated": "2026-08-24T12:44:17.947389+00:00"
+  "last_updated": "2026-08-24T21:23:49.815905+00:00"
 }

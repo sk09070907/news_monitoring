@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XemVjMmZwU3pQREJnTF9pZUtfX3FKTThDR212S0lNU1YxVVRhSkY2ZFkwYTdXSjF1VEpWVWZBSldfaDFLNjdURHg1MnRJVWtIN0ZNaGRBSzFmYnlWRVcwOHFUS3QtZFJtM3N1VA?oc=5": {
-      "title": "大和ハウス、三菱商事系と協業 AI活用で工期適正化など検証 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T12:38:57.923140+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQ1ZFOVFzYm9reFVOaHlfWEJFeDE4NHViOEpRMEFoMmwyUzBPU3ZpWUZjS2dNSThLMHhMNFBvb1NnQkdQajVtMWNNYjdXbUhGU21MUUNOSXFpSlpoMUh5b1JxWXEtX1dUMVE2Zg?oc=5": {
-      "title": "三井物産の安永会長、ブラジル国家勲章を受章 経団連活動も評価 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T12:38:57.923140+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Vk14TzB3R2RudVRiQlN3WnBhUHQ3SUxuOS1CWFI4T3FsTTI5bVFWVUVaUllUSHE0SDE5ZWpCRWxFeWtqdkEwY0FtRFNtTF8xQjR0elc5NG5vdjE0UFE?oc=5": {
-      "title": "楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-17T12:38:57.923140+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ySTZCdTV4bVNoNXpaM0ZpOVRyeXNDaHJWNF9pV3JsbXJIb09hRG10SjloM0c5d0c0eGhVZGpZbmJiV2FBZXc2dldnUGhpZjl4N3IwVGs5U0hzU1FvYWJvMlVBVjFuT0hWandYdA?oc=5": {
-      "title": "東電の横尾会長、新潟知事と初会談「信頼回復は途上」 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T12:38:57.923140+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BS1lERmw5NGRod3JZTVlVRXdvcnU2dFR6cE11Y1h4VWVSS0l6SW5UajUzVHhPRklPQ25ydXpDT2l0S1ZFLWxqR25LMko2aVJKWU1Pdl9wN0J0blhVOGJpS0t1eTcyTmRxcFYzSA?oc=5": {
       "title": "光電融合の急所、CPOの熱対策 NTTは光エンジン交換可能に - xtech.nikkei.com",
       "company": "NTT",
@@ -1787,7 +1763,91 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-08-24T09:44:36.081025+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWUw2VlUwUGt6VGJYRlEyQkh5UXdJaFU1TFZEUHI1cUxWNElVODdlUFBwSk10U0xGQk5vbUh0UGFKdXFwYnJXVHRZbHkxS1FFNUc4YmdVTTVYbFo5dl9VcVdsMEpiTWdpanlDSg?oc=5": {
+      "title": "かんぽ生命、不動産ファンド4000億円に倍増 三井物産との連携拡大 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSW0yZllUa0dwVk9KSFY2MkVlazZnNTZmUnNmU2VSaHp3SWtSR01YUUg3d29RR1RtNndSTEZIMkpleWtJa2FYbXFvUHJ5b2R3ejUtSVRTLXhJaFdTMDFSalVzZjhsUlRnSkFHeWpMZjlINi1aWlE2YTZ0Tk9kWUJFZXZRQ3BOaGVf?oc=5": {
+      "title": "NTTドコモが安全性強化のモバイルバッテリー 求められるさらなる取り組み - 日経ビジネス電子版",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNnRNdlRhejh2dHJPaFF0MVN4TEVxS1FPZnlBYzVxNnh2U0dxdTVqWTMtM3dxYWFlVkVKakladnZNakUta2JXUlZPSFNkb2l3N0RQMg?oc=5": {
+      "title": "◎日本製紙、特別利益１２３億円計上 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE55SDIxOXBTMjhrOTdSOGh1V0U2NTZBNFZ6SWM1R3Bjd0FUNm9ZMzVxeE1PMVpVTTU1akhUaWVDaW1SS0NBck9WOUVSNUhXMTZNTHR4MjE3LUJfZC0zNnNRX2kyWTdDRVowU0E?oc=5": {
+      "title": "日本製紙[3863]：保有株式の売却に関するお知らせ（経過報告） 2026年8月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQ2tvZkRnX1A3X3lfTEt2UVVoR2JHNGk0eURmX3dEWExCRzUtb1BSUXk0RTgzSlp6alhHbGlOSmxlRl95V3BXdVVfcmJwT0hrWkNuR1h4NHNEWkx5RDB2czcxTVJoSDdrcFVfNw?oc=5": {
+      "title": "トヨタ「ウーブン・シティ」で訪問者を募集 静岡県在住者が対象 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50ekVwcDBMZkM2M29Wb3p4c1JqaXp5TlJHT1A5eVo2WVJldm4zYkFtN3B1SnpTeFd1NF9RR2s5bnVxbHUtYVljbnVpWE5LamxqcjNURnZkZmx5ZGttSXAwT2puaU5TVTFfZGtLVw?oc=5": {
+      "title": "【福井／越前市】建築施工管理（自社Gの工場・オフィスなど）◆アイシングループの安定&ホワイト環境 - 日経転職版",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LYlY2LXhqMVZ5RVN6ckxQcFN1MEkta0FIMnhKU2dhTVlwb1lyWVJmU0ROVVl1YVpjNDlKYkxLOXZZRDZrRVhoRTNSMHBSNUNfSTE3RTN4U0FVNFpha05sbDg5WXh5TFgyaXd3Yw?oc=5": {
+      "title": "楽天銀行、最終増益 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE16a25qRFBUOFdhaUY1NXVjc3VfQlo5ZmF0cGllLWdpdUZmOUZ1MU5fYkRJSzJzZGczN0g2TFotTGd5OHB1S2JZZk1DSHdXNWxfc05nbXF5X21Mb29YVkFPUGU3dkN5emlHRlJETA?oc=5": {
+      "title": "JR東日本、京都フュージョニアリングへの出資について発表 - 日本経済新聞",
+      "company": "東日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlQkZrNFNOV25tbnFBSlBhV3BjQ3NqWlNnbEl0MmduQzVTUmNxV0huWU9uVXNPbmc2Si1jSlFMc0owTlRIUXpSNTdQaExJbXYyX3EtVXpjRm9xQUlWbmxpdHltdmRuQ2dWbkJXMw?oc=5": {
+      "title": "九州電力社長「データセンター立地も支援」 川内原発の地元に表明 - 日本経済新聞",
+      "company": "九州電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zQnQ3MU5YTnJrYjRaM1k4N2tueXZpZ0lpRE9LS2J4UFFDSV9uamZLclo3a2hLbFpoN1dYek0zRzdiNjBKTDl5VDM5MHdMbldhTWZNZnZiS3RDN3lwVzFDa3dkNHRZS0xXSUw4bg?oc=5": {
+      "title": "みずほフィナンシャルグループ、最高益 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc2JGalFZektqYmNLeWNjSkRhcXBYSUdESWx6VVc0NFN5b1BySUFOa2hQYjc5T3BPVVJaLUl6WGYzM0RuSkVsN3M2eFRWRWZONTY4ZklTbmZtU29Gb09wUTZoendDQ3Bqdm0tQg?oc=5": {
+      "title": "三井住友トラストグループ、最高益 - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtZHY3U2xBSjJUbWZhWjJZOXhoanJCelF2dmZxQXVPVjdvcjRwdl9McThLYnk2T21aZTBZb1J4ekd3RHN1RTFwVUFkSjA4S3RUamEyMm1PRVVScXBvRUxVSGxDTTdoakJuZ1RLYg?oc=5": {
+      "title": "野村ホールディングス、増収増益 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ldHV6NkQxUFZzZXVDWXluT2U0ajU0VmN1a0tuYXR6Y29ZcG5aU01aU1VIblJleDBMRi1CRDFnbGJYUjNvUVVhc1lGTUhTSDFCX2lHamxST2hzUU1lLUQ3VVBDdF9zaGRQY1E?oc=5": {
+      "title": "アコム - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMTlMN29CVVRzeEMybWtCZkJyTFB5MkNydUd4MUZ4d1g2TUlLcHlyTjNzSFNwTWZrQm4zckxleGpGa2hVMW4zZklEYkZ0amg3ejZpMHVOTFRJV0ZiUzI4MEs5eG5QQjh6MVE?oc=5": {
+      "title": "アコム - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T12:44:17.946897+00:00"
     }
   },
-  "last_updated": "2026-08-24T09:44:36.081559+00:00"
+  "last_updated": "2026-08-24T12:44:17.947389+00:00"
 }

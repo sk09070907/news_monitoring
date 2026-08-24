@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rY05kVzM1MEV3emJXZWkzN0YxUGdzdHZYZjNCZ2otQjVSV2JmSWpEOG5aaHkyNW03ME9ocjI0cVAzTjBIYU14b3hvZlV2SzhNSXZmU214dWVyR25qaWx4RDFVeGdvV1cyblE?oc=5": {
-      "title": "三井化学[4183]：（開示事項の経過）米国Ultradent社買収手続完了に関するお知らせ 2026年8月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T03:47:45.917556+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZ0M0d2xKZnp2dkk1bUpNVG5wRF8wdk1JNUVOeVI4bVNJajJ5V25paWZkMVg0UGY4d3V2ME5jeWZLaDFWMG9WSVBtN2RtYTAzOTlhWWxMT1RqbmFOSzZuWkpRWm1VNnpJbTF4Vw?oc=5": {
-      "title": "楽天が攻撃型ドローン、陸自配備と国産化を推進 独巨大新興と提携 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T03:47:45.917556+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE82QXdfeDhSUzk5TE5MSjJfRGE4clJnd2M2OGoxQzVuSzViQXozUlNFWEVXVURxeklvR2thUTBPX3Fwc0EzVmFzTlhaSS16VnhfWlFJdGp1TDFxeF9aQk11N2I0SklMVVhlU1pFdkZVYXpWcVkxQ1pDdVVXUGFxZw?oc=5": {
-      "title": "楽天G株が軟調、回線借り入れ縮小に懸念 自前投資も難路 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T03:47:45.917556+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EcGY1N2ZtdmdUY1AtVlRhdU5XdEF1X0l4T2RkNlNnTmhwNWZlV0J6R192TDlpUWJPSTBiNENjZmtlSnB3UTVKcnNEOGpfX29Gb0t1V3BYcElEbEpQNl9yTy1rWUxBQi1TbkE?oc=5": {
-      "title": "イオンファンタジー[4343]：「進研ゼミ 小学講座」でお馴染みの『コラショ』がプライズに登場！8月21日(金)よりモーリーファンタジー・PALOにて展開開始 2026年8月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-17T03:47:45.917556+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSlV4VTJuZVVIcHQzRFR0VFpPNTNXSWJqODZpWmU0ZU82a3BwazkwVG5qbENUSFNrdDZiWjRMal83bl94Y1RTc21SZWkzUzR6c1hwOUtUemQxTnVVTnJMT1RoTTRyR05SaExBNg?oc=5": {
       "title": "NTTドコモビジネスとエクサウィザーズ、専用環境で利用できる「クローズドAIエージェント」を共同開発し提供開始 - 日本経済新聞",
       "company": "NTT",
@@ -1673,7 +1649,103 @@
       "company": "SBIホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-24T01:08:08.849810+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uM1lJNkpScTl4N1NvSk8tREF3aFB1M0psZEhlNUJSSklsNU1aT1AyR1NsYi1YRlVwOW1pcUhsNWFtQVFzQll3MlJ6aUpub1dCZF9PbTMzclVuaHNNOHA5Ny1heE81YTlFQUZR?oc=5": {
+      "title": "NTTドコモビジネス、SkyWay開発部門においてISMSオートメーションツール「SecureNavi」を導入 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE15T1EtVVJvdDNhQ1hTNy1BMHRVUUFLSEttb3ZlR1ZZX0JWMUJ2d2REdXVMbzh6Y3hCTmFqQ0ZIa3BiVWVHTGNqMkpDbFM5elBXRWE5cnlhZmFoZDB5VU5Xc19DX3BQZzBRbVpvYQ?oc=5": {
+      "title": "太平洋セメント、増収増益 - 日本経済新聞",
+      "company": "太平洋セメント",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wMS1UdUVtSUdTZWhOcGRRdkRPVkxOb0xSeEczcnBVR1RxdmRWc3R1Sm9NbElUWkl5MHU0cjZ3SW5aenF4QXV5Y0Y3SG9aMHhiNUdET0ktWGJ1SmVkOHZmQ05uZUFVUG4wZFRYVw?oc=5": {
+      "title": "トヨタが国内物流を効率化 ダイハツなどと部品配送を統一、新法にらむ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qOHhJVkRfRWdSUDNQV08xSW9MUmJVX09lbXRVTE9WUTNnSDYydk1kNnRBVmlfVDFoNlcwRmQ1TlJFeEdNZHJLM29rbWZKUWc2RkhMU21IM0dWTXZaN1dWRmNyR01qSW5zZjVv?oc=5": {
+      "title": "当店独占販売・楽天市場限定！「アニメ『お買いものパンダ！』シリーズ」2026年9月1日（火）発売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EOVlGUkljNHh5VlZtbDBibGhzN2pwT1lXd2xfa0d2YjdiLVkySTVBTHY4SG43WGZ4anVBSXlHY0xhMjdsVGtxcmlWUVRBaEtpa1lQb2RJWE5oMjVCeFgzSU5VZHA4aHhLak13?oc=5": {
+      "title": "楽天市場向けRPP広告自動最適化ツール「ECPRO RPP」、新機能「下限CPC機能」をリリース！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Gb3BDTWRHZVd0QlY4SmFHNDdOUVA4ZnlwSGc0VzZaSkNyVWFmdEo5STREZTgtVTNWLXVlTWs3NWFUXzB3Y0tHWms4LW9hVnMwY0dvaDROTW1CRUhBbHZSQmpZNUV5UFRYb2FR?oc=5": {
+      "title": "ブラジャーに求める「盛りたい！細見えしたい！苦しくない！」に応えた「ふわっとスリムブラ」が楽天市場ランキング1位獲得！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TSk5FRmVKUWVFbndIb3JOTkNVQVNWNjktS2dCTk10U0JNdU9LT2dPTUNsdnRJUXJDSXNfVi1QVlFZUUFRcDZhVGRKM3dROWhSMFdaTll6dnZrNG83eTdFM2podHMyTnpZV0ln?oc=5": {
+      "title": "【楽天直伝！】購買力のある見込み顧客獲得のマーケティング戦略！CPAを最適化する広告×ポイントインセンティブ設計【9月7日開催】 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmY3V3FPc193Ti1ZVnllZHlDVDF3VzhaeDVucHdwQXZnRW1QeS1tM2lLY2JjQ3NfaXF6a3pBR09JMHV5TlFpaWFndVJzbUY5SEVWRG1McUxmdWlVSTVKcENsUTdJaTBOZmtvYS14UXpOY0NwNU9UZlFDVUN2QmRRanZnSEotQzhqdF9GUExET0dUZ09DeGx3MmZ3dXVuN1NEWVdjdkU1V1FiNWRCOFd0M185ZGh4Yl81OVdpbEJ1S3RzUE9zay10dWl5aUc?oc=5": {
+      "title": "イオンファンタジー[4343]：大人気おにごっこゲーム『オバケイドロ』の限定プライズ第二弾！ 8月25日（火）よりモーリーオンラインにて先行展開開始 2026年8月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGZJQjFuNE9lOUlyeUdQTUZVenZ5RkNLc2VNVzZOTHhpSjBRYjc1NUNRS3N2dWZHN2lkbUNLSTR6aWlrTEk4MC1WYmtyNVRLZHFueWFqUGJ6MW1ON1hWckVtaXRSdUVKUHpoWksyMmJOR3pjZGh4SlA3SnNmU2FUdV8xTVZaelVERzBJZkpUazZCT2MtdE84T0kyM3d3d1Awd212QzJVSlVVc2htc0NkbDRaa3FPSVZFVC1BQ0Rjdjh6eElXZmFMQVNOMW4?oc=5": {
+      "title": "イオンファンタジー[4343]：世界中で愛される『PINGU（ピングー）』の限定カプセルトイ第二弾！8月28日（金）より「かぷえぼ」限定で展開開始 2026年8月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzUDlIeWtGS0JGSnFPQnVMb21RdmtsZGg1UGRjOUN2T2t6Znk4Z0NoR3FGbHN0el9pbnpIWEdDbGZZM0lkN3J0Mm9vckhFU3pyRmM3dWhpNTlZWUFWbXgxT1BvVjhrekJOS3NV?oc=5": {
+      "title": "使用済みリチウムイオン電池由来の再生資源で新規資源と同等水準の電池性能の確認に成功｜マークテック株式会社 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE16UXZ1Zjd4N3lGNG42NVBVRXU4Tk5DZ09Jc3I2VkdpYWo4Q2tPM256MkhVMjdJWG9RQTZFLUgxLTNhbEJUZ3E4OHlkYWw3OUd1VVhVaTJFdExJaGJVcktoVzBoUVc5V1VvX0Rz?oc=5": {
+      "title": "大阪府イオンモール茨木に「市場型海鮮BBQイベント『出張！浜焼き うまか市場』出航！ 9月5日～期間限定開催！ビアガーデン利用にも！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYWxjZjMyM0ZoVFZBYXpva2FXVHA5eGVLN3ZuMEs3MHBnUS1RY09FaktFb19OUlRqb3lGd0swdjM0NEswMGZTUnowR2s1UE1QeVJDY1FnckNLa1libEQxcVFVREsyT25wdjZn?oc=5": {
+      "title": "【群馬初出店】昭和25年創業・老舗の極上餡で作り1日3,000個販売する浅草今川焼き「月のうさぎ」がイオンモール高崎に2026年9月4日（金）期間限定で出店します。 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rMUN5b2E4SzhlM3d5YmVhMC1QN2JOcnRUS3VTR005UGtHb3NDNmYtZm1reXY0ZkZNeDVSN01Lb2VDcTR4cy0wTGdPMWRfSnRIcDR1MVlYd2UtRE5uM2V4b2tudVpMUEZ0QlE?oc=5": {
+      "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年8月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNnVCLUl2dGRwdkZ5UGtoMm9BNXJZOWg3eWVLdG9sRjIwY0FTLXNfdFRNMzBsdnN2emE5VWdMOVh2elF2RW0tYmNxNkNQckNyV2JrcGFTVnBHQy1saFhKeU5jTXVDaXFEWW1n?oc=5": {
+      "title": "オリックス・バファローズ × I.LO:VE「バファローズトレカ」第2弾が8月28日より登場！全20種類のラインナップにスペシャルレアカードも！ - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LUjFMOFdmQWFfakJsbUxMOHNEYXlMU1JkNVFKQlR4UWthZWg5YVNHR01zWVI0YkxpTDdDdkpVWVFZcTJ3NXlHYTlyeFk0LWhheVVGRTRJeVBaZUJUSWtzblg2a3J3bFFDeUk2OA?oc=5": {
+      "title": "オリコ、百五銀行と提携し「オリコ保証フラット35パッケージローン」の取り扱いを開始 - 日本経済新聞",
+      "company": "オリエントコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Nm9NQ3NrbXRqaFQxR2VpZmxKNXNjaFI2UnhpeFJ6SDlzS2hWWnNaTXdMT1AwalgwZ2s0T0Y4NGJJblZoTnFXS3lTSTdIeXlsblNibzU2ZGpLMS1yblZ4NmFPM3Jja0I1NVdv?oc=5": {
+      "title": "オリコ、百五銀行とフラット３５に組み合わせた住宅ローンの取り扱いを開始 - 時事ドットコム",
+      "company": "オリエントコーポレーション",
+      "source": "時事通信",
+      "seen_at": "2026-08-24T03:53:30.180325+00:00"
     }
   },
-  "last_updated": "2026-08-24T01:08:08.849985+00:00"
+  "last_updated": "2026-08-24T03:53:30.180775+00:00"
 }

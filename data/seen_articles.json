@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZHpkSFFod3I3S2ZRcXBSUG1nRUkwa1BzclBHMFJ2SmRibVNaMThCRmdlTHFsWWJCSC0tWVhfMi1wRzg4OWtmdHJTNVhZU0p4UndqVjhsMHFvMmF0aUVoUV9rYW5yTF9tclBrVw?oc=5": {
-      "title": "コスモブルーム、10月に宇宙でシート展開実験 トヨタ系などが出資 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T01:05:24.494724+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tMXBoelZHem90V2xCdGw1clM3X0xvMF9SbTUwS240M2owV2FqYk9VazhsZ2E5VUtqSE1wVUlOWFZPcDJoNmpqOW5RaWo3THEzLS1PV2pCdXdvaEs0S056UU1zbUFDSjlhV0dPWQ?oc=5": {
-      "title": "近鉄の磁気定期券、販売終了へ - 日本経済新聞",
-      "company": "近畿日本鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T01:05:24.494724+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aRHozVXlxNzJpN3lfYll1Si1TN1lKYlI5QXNBY010R0V3d3JYT3VpUGwzWWtZQmx1N3ZFVVItNWVGcGxCU3BKZzhacExab0RLOHZqMlhvWFFWMjc2SmJUNW52aDJxY2d5NUE?oc=5": {
-      "title": "ＲＯＢＯＴ ＰＡＹＭＥＮＴ[4374]：森ビル株式会社が運営する3つのインキュベーション拠点で「請求管理ロボ」を採用 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T01:05:24.494724+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQ3VVS013clc2YzJkSm43Y3AzcUtnN1EzbExKWHl4dkJ2QWczeU42TkVPUWJWNFhna2xxeldZaHNXM3JzaHlJVWFlX2U1WEpXTG9iWExuM2s5b0FtYmRBV0Y0YURtajhKWWc?oc=5": {
-      "title": "日本ビルファンド投資法人[8951]：2026年６月期（第50期）決算説明会資料 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本ビルファンド",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T01:05:24.494724+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVVkZHBFYk5wNUN5WnRkanBQdXRMRlFUSWRYM3RNZDhsQUVEeW9WTElDc1llUFJETXVZLUNHRUpGbEdWTHEtcU1aelZ6VlhzMEhfcGtDakZ2SUh2NWNLN1dNeUtjekpteHVQZzN4OGxRdFViMllBeGFUSEY5TEVNZG51YVFQc2Q3QzBmRlBaWTNXdFJ2SzYwWHdPSHhQaW1MTlJrOXc3MW42Nm1SWkd2LTZhYzVkSHVuaXk2UC1aaHhULVpTdnRKWjRiT2Y?oc=5": {
-      "title": "日本ビルファンド投資法人[8951]：2026年６月期（第50期）決算説明会資料 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本ビルファンド",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T01:05:24.494724+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTUJrdzJ3MG1ZM1BXNmFnSzZRRXFkTnd1Nm1YOGJFT3NnVmd1UjJqY3lwWjdZYTlIV2NSZ05iTWRXczI2UzBWcnlDNDBXaUw4OEdyZHhVeVFlYmNOREJKZUpOYw?oc=5": {
       "title": "楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け - 時事ドットコム",
       "company": "楽天",
@@ -1895,7 +1865,25 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-24T21:23:49.815336+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE15bG9MQVFZbFRkcExUTk83SWl2czd3RUxVVDRmQXlkVS1FWnl6MlUwZzhiVTZuUExEZjRucFJfbXltV3piRU9CZ0xqTDRmTXVuS0JKaHBoN2EtOE16VDZnWGZpbDgxMkZZdUtvMF96ci1ydw?oc=5": {
+      "title": "新システムは成長基盤、「2025年の崖」を克服したJFEホールディングス社長（2ページ目） - 日経クロステック",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T01:07:33.163878+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWXc3bFNiMXFkaFFUa3RpLW9PWGF3N2lYdTlBT1lzQmNZY3ZZSmc3TXhwUmc3VmxnVTNDUWFKVGpWTTVyZnZfbEVIVjBvWlBmeGhtcnFDTGxCRTVncGpjYkU2ZHkyLVMzQm1fZA?oc=5": {
+      "title": "三菱UFJ銀行が口座開設プロセスを再設計、JPKIが本人確認の中心に - 日経クロステック",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T01:07:33.163878+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hbTdNN3NweTJhLWpkUDU4YTJldDRPS3lTS0ZvOS1tQ2MzSTNyTFd1bG5vMVRMT29aekJOR2sxaGJ4eTBjMDRjRUhKTjBqRlhiMzhPbFdTLWJyOTV6MWV5MTVTSjBOSmN3MmVSNQ?oc=5": {
+      "title": "クレディセゾン、増収増益 - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T01:07:33.163878+00:00"
     }
   },
-  "last_updated": "2026-08-24T21:23:49.815905+00:00"
+  "last_updated": "2026-08-25T01:07:33.164288+00:00"
 }

@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pNnNOdEpBNUNTakdhQUFmZUVoTFo5TlJ6NWdualRrTHRPSjdPMGVvY0VGeHg0aTJTVkZ5WFdLMDNiTHRLX1ZhZ1Q0V1l0ZjNrQ3FZem9kZEVmSlQ3T3RocHZFaXczNDdLVzBjSA?oc=5": {
-      "title": "（決算トーク）「格下げは想定していた」 NTT 島田明社長 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRmdhVE5OZ2NnM3NMTUU2bGdBQzFwY1hLaGlSZWVfRlJtal9RSGRzV0ZwMHNrdnUxTzRkVUw2Q2hYNXZQS1BaTzJ1TWstNl9ibmpSQkR4cW1sZExYY2NRRDRXTWt4cDFCdWJEQg?oc=5": {
-      "title": "空飛ぶトヨタ、米社と「創業の夢」実現 都市部でエアタクシー - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKVGJyeVlUamJZX3JJb0FldlNRTU1tOXdfR19HNkg0MlI1X1NGYzBjRlprXzA4MjM2R3A4TXRpSzJUYkZJUmpSZS16UDVwWWlEcGgxRFZsek9nU2k1SFpYdHFEbzFVZXlJRHY0cQ?oc=5": {
-      "title": "トヨタのミニバン、運転席と3列目で会話しやすく 林テレンプが改良 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpVXZGVW43dWxGb0hnTm92aGJQeXFudUNpOXdVbURHV3ZaQ1pjTWJCMTI5Q3Y0SG1nS2JuVmNHQXh0c19rb3FqaldOX2FacnRiV1pHb0paaWdfSW5ocWxLc1NLc0NJSDNCeHlibA?oc=5": {
-      "title": "ナトリウムイオン蓄電池で新興2社が連携 3年で200メガワット時目標 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUWFsbGc3b2NscVdlWGNuX0JQUF9XTHVxS2s0YVpXRzEzSjF6M2hjNDZRY0FZWkd4Znc0aVZQNmk3bDJBSjV0Y3AtNFBBX1MteWZJSExvaUhQTVpSWFFQWS1ha3BzODg?oc=5": {
-      "title": "三井倉庫HDが検品に生成AI、バーコードなし商材をスマホ撮影で照合 - 日経クロステック",
-      "company": "三井倉庫ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qbDF6eWNNZldBTlFpLVpiNjZ4NWoxeldLS0NKRGtfUi15Q2hrSkVibjNyLTUtRHpmTkozS2pna0VmZ3p5OWgxZU9EY2p6MkNYYWw0RE5KMkxEbXZrVFM0d2t2eXp5Q3dxWlItX0k3WWV3RjZ2?oc=5": {
-      "title": "オリックス宮内氏×さくらインターネット田中氏 「AI時代も日本企業は戦える」 - 日経ビジネス電子版",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zUUMtZXAtaGY1VUN0Wkw3dzlVWm5nUHhwaFBBRG1MTE9xakhoZUdDQWlmM3N5QU9aV0pub2NnLWVNRjVjUmRvT1VRYVVTVENzZFdwS1ptOVVWOWRKRkdEbUxMTHhBaXdyVnNPMg?oc=5": {
-      "title": "ステーブルコイン決済、ローソン店頭で JCB、訪日客向け実証 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SjlwQ1NIQmhkSElMR0xlaVpJc3JuVjJjeUJZOG5LSDlqNzdET282S21VM1Z0ZGtMUVV1c0J2cmd6a2VLaXNxY01qSmFMTEZTb3FjZ0hKV1lSQ3VZdlhZR0RXZEJtMjNicE44?oc=5": {
-      "title": "〈Leader's Voice〉東京をさらに強くする 森ビル 向後康弘社長 - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T21:18:47.747159+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NExId01oVnZOX3BnOHRlVXdua3JObU9TUmcxeGgzWHBzamZ2RDVWeHBFbFR3NTk0bDVra2FlZkxwN2NmdWUtcll4ZUhrM3JJZkh6bHh2RDBCTTMzeXBYTmtiMTZ4TmtMU0VfWQ?oc=5": {
       "title": "王子製紙など3社、新聞用紙を代替供給 日本製紙の八代工場停止 - 日本経済新聞",
       "company": "日本製紙",
@@ -2021,7 +1973,97 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wa1VNNzUyVko1SU92UmU0UDRtanJBd0xOUkw4ZWQ2blUxTllDTGxOY05QTlZDV3A1dkY2RDVQM3o5SGktOF81dUZQbTRyTU1FbjIzem56ZXVZektCMHY5WmpycnpQcXg0ckxhMw?oc=5": {
+      "title": "三井物産の堀社長「資源や情報、希少性あるものをプロとして管理」 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTFJWa09TODVkRXJzdmtBbWNhRXRNRGMxVnRVTVhMSl9QTEpaclFKekFWN1k4OVFhYlFMY2JlZDJXX3Q0WGpvTnlJS3hNLUhjRWhMMC1ZWW90V3lvdWhBeTVVZGJxSTVkcmozeg?oc=5": {
+      "title": "魚種日本一の長崎、刺し身のサブスク 伊藤忠や漁連が全国展開めざす - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uNHl2ZXNHWGVqQTRyOTIyODBOVHJHQm9jcGF2Y1Fmbzd2a1pidks2T0hBNk9Bc18taEJpeUpjd2lVRXlOY2ZQY3hQcDlLb3VwWENCemdjbGQ2UkpMN29zOGxUR2d3dC10SVNpNw?oc=5": {
+      "title": "バイオ燃料エコグリーン、国内ファンドが買収 ENEOS系から100億円超 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqVHo2VFZvS0xwQUpBZlk0ODlqRE5MWjlYaGZybWR6UTdsQ0NzcUFOeG1pZkowWlhNTVd1RGhEcEZ1enVCQ093UG52VHFVRkNBdzktclZZbHpmZzhoWXNndXJ6UTN3czVxdklFQQ?oc=5": {
+      "title": "ミツウロコ系、さいたま市で営農型太陽光発電 パネル下でマイタケ - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZlJINWdnUzJuRVhrOUowOERyM1dnLVBRUEJlLTJ4OUVQOGNOVXY3Y2hhYmgtN2JCRjQ2QkRITW1mZ3YwSXBoUjhDMzVaOEJVVUJEMFFQNUgzcExsbXhEbmQxVHN2WEtTcnB5Rg?oc=5": {
+      "title": "トヨタ、全方位ロボット開発で狙う車の次 「世界に打って出る」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZ3I1VTlNTjFwOWdvbXZzei1VMHNJNWliQlJKbGg3ci0wcVdDd2llU1RubHFaVjBmcEkzYzFPSmxnUGxwa2xCT2lTRjl1Vlhma0VYeHdLNndCTDF1VGNNcTZfNDNJTWltUFozdg?oc=5": {
+      "title": "トヨタ系KINTO社長「鑑定書付き中古車を販売」 サブスク返却車使う - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CYVM5TFVfTTdiakVYNGNGUzVVcXBlYm9ha2Q5b1lnU0Rad1F0Wkw4MXk0eWZCUkNQMm5GdFpCNDV5VGgxdHdWVzlRbkFKNVFsN0dhZGpmblhSMDg3ZGhseVptY0xJakNXeXdv?oc=5": {
+      "title": "「楽天Edy」、全国の「Airペイ」導入店舗で順次取り扱いを開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETzN0aFk1MjV5aGxJREVWN1ZRdXU3c3JlOUxsNC1GdWhrV2VvbE9XZEljbHR4MVNRbDdWamxfb3NjMGdhMlQ0QnI2ZUF3MGQ4TzVMcmp3dzUyNmxKbzRPZjJTN0FtdnBMYUNB?oc=5": {
+      "title": "徳島県つるぎ町の魅力をふるさと納税で全国へ！ 半田そうめんなど、楽天ふるさと納税・ふるさとチョイスで寄附受付開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMG5Lb3dTWnBXOUxEZ2ZFek9WREszTGJXZFJRQnYwUk5FZVl6QkI0enZWbXJuM0s5b0phV1N0cGxpYnVudkt2Q1kwbGtGTFI3SkNObk41MHFRV21MUkw3RzBrN1NaOElhbXdDVA?oc=5": {
+      "title": "中国の重イオン加速器「HIAF」が試験運転 宇宙機・医療・材料研究に活用へ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWNYY21BR2NHRVFIRGpDcUZTMVlzdXBLVHcwNElHbFYxMnYtaW9iUVNMQ2NuOWl5TGk3VHB5ZGdIOG9ZZktTNkVZVUVVU2d1VXBKbU9sdWNrYkhtcWFMejBMRFBnUHdZUmFFSA?oc=5": {
+      "title": "熊本イオン爆発、経産省が調査委 来月に初会合 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YS1ppbWhadk10S012UHNpbWpXaGJpVHdiUWxKUHo0d3NZeGczT0xySGNQMnVSZUJkTC1ZNmVDb2dhWmhqX3o0Wmc5Y2dWZzg1NmxIdW5hb053Z25WSDdmZnVUcFpvbjd1dklPbQ?oc=5": {
+      "title": "熊本地震1カ月 災害列島の死角(中)防災シナリオ、揺らぐ前提 イオン爆発や南九州道分断… - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uT0R5TVlyZWJtSU8yX1J4SU1OZ1BLVVFjNTBHT2hQMmpyQzRkOHEwa05tZU5kdXk5WVFsUEo3NHFIa3RsUHZSSVRPcFZxNGNmdDhFYnNqcVRqWnBjZHNpX1NyRXRvZzlteVNLQzVB?oc=5": {
+      "title": "【リモート可】労務担当者～JR西日本G～ - 日経転職版",
+      "company": "西日本旅客鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SclRLSXFFT08xaXNhN2YyX1JHbGFMVEJTUGdqZVROeDB1UE1CdVZsaXZnMVZRa1FIV0ZuVjgxV2hMZndjbTctNE5CWkREMlFGV1Fxc29aZFNNOW15N3l2WnJTaDV5R3NKQUd6Wg?oc=5": {
+      "title": "東電やJR東、人材育成で連携 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZHgtbnNHUlFoQmNWeHRuemJSVGYtTGxqRW81LVN3OERTelBvbFJlOFNpXzdmMVVHVkVfS2l6YlBRUXpZXzB0TEdfcnh4NnV4RkZvSk9VaUIweGFhTC03Rkl2YVllV3lwck5iWQ?oc=5": {
+      "title": "日本株ADR25日、買い優勢 みずほFGや野村が上昇 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVUx0XzFwTmtISUlzeHZBajVqRHJWeFcxSTc4ajA0SVR1amRBYWNhTVRZRWtoQXNfWjl4OVNnMzdoRE1qcnZGZXQ1UXFnT0llVVN3SDAyREJQeHJXajAzbnBMS0RUYXZfSzV0MQ?oc=5": {
+      "title": "オリエントコーポレーション、増収増益 - 日本経済新聞",
+      "company": "オリエントコーポレーション",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T21:22:40.803366+00:00"
     }
   },
-  "last_updated": "2026-08-25T12:42:30.776526+00:00"
+  "last_updated": "2026-08-25T21:22:40.803846+00:00"
 }

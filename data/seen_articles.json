@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTUJrdzJ3MG1ZM1BXNmFnSzZRRXFkTnd1Nm1YOGJFT3NnVmd1UjJqY3lwWjdZYTlIV2NSZ05iTWRXczI2UzBWcnlDNDBXaUw4OEdyZHhVeVFlYmNOREJKZUpOYw?oc=5": {
-      "title": "楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOZFYxLUU3QUVickRESl9CdGZENEZDeERhXzZyYWZmRndoTzhPQVI4ME5rZEFyZXFKWjJCbl8ybzZ0SWxFMWh1Wl92eWNXTWw0bDBJVVJTOUU1RFpXd2o1SklLRXltNFNrNVow?oc=5": {
-      "title": "楽天市場向けRPP広告自動最適化ツール「ECPRO RPP」に、自社運用とノウハウ蓄積を支援する「内製化／運用代行プラン」を新設！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MeHZFeTdEQjdkUWZodHEzMU42N2RYcDhSakpqZkY3dFIzUHItU1VMUjgtRjNsZzFKWk05aWlETWlNN1RQUXdxNEdOdHVLZ3ZzUlF1UTNVVUlUX0xLUEUwMkthSlF5YV9rdEE?oc=5": {
-      "title": "あおぞら銀行[8304]：2027年3月期 第1四半期 自己資本比率について 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yU2tFdnVmUk9uYk9pQzVEaktpZTZ2UFNIWWliM0RiaXkwZmRPd3o1NWFIS3F3bFBIdEYzUFU1dkZYWHFzVmJ2OC14RERCa2t5R0lCSC01OGgtUHBZZjE1d3VQYk03RExoOEtN?oc=5": {
-      "title": "日本生命保険相互会社と介護業界の人材不足解消に向け包括連携協定を締結 - 時事ドットコム",
-      "company": "日本生命保険相互会社",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WLTF5dTJwVWJlRFJ3U29fQ0hmVFdHQ2FVQmhFVXI3ejFwVzI5bTJnU1FmSEJwX24tODdROFJpbXRKZmVZQUNtWElXeVZBUkxmX2JNSXBPM2xwTU5nSHJVeERSQWdtSXlkMTN2RA?oc=5": {
-      "title": "日本生命、ビースタイルメディアと介護業界における人材不足の課題解決に向けた包括連携協定を締結 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tZUJGZGRVVWxJNVkxSWpvVU1KR3hNVDNzQUpubENROTVLR3VFUEY1SUU2eWlmdUJyWG5IZklkdTBHX1RCeG1NLVozZWxwdHZwU1E4RmZpZFVyZllLcmxFTVlGV3RTeHVseHA4?oc=5": {
-      "title": "JCBのタッチ決済がロサンゼルスの路線バスと地下鉄/ライトレールで利用可能に - 時事ドットコム",
-      "company": "ジェーシービー",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zY0E2TTljVXpZRzJjOHZmQVR0MjJQWTNqM2IzX0xUSTJmdVo5cTBvVi11bFl3bEU1VDRLREtoN3lfNGNnYVpBQ241V0JGOEZtLUQtR2M2eVUtZzB4c0s0aFcwWDRkeFJfMlNv?oc=5": {
-      "title": "森ビル株式会社が運営する3つのインキュベーション拠点で「請求管理ロボ」を採用 - 時事ドットコム",
-      "company": "森ビル",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3FDMkdhTHFheXU0d0p6YTlVMUdJYmIwX2NYa2o4RmRCRFZraEwtbFR6blRqWEszX3VmWFJjMFZhWDEzV1I1NDN3RnRYeXhObUJJalJINGlUS3NEWExsLXRma2JtVXBsRkVvYXNHZHVneHZjclNiclp1MEFjcGJsX2pLT09JS3ltY0c4VmFidk5UWWVPWE5ObEtuVUo?oc=5": {
-      "title": "【IR】森ビル株式会社が運営するインベーション施設3拠点で 「請求管理ロボ」を採用 - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T03:42:15.845942+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Z0E4ZXU4STlVU2N6MV9VaVhiVGtiZUQ2VEVhN1hESUt3MU1RNTVLckFpUzhOZ3hMMjZyYWpIODRNbmhMblkyYWJ4cEpLN3d5czNfZEtuM2JsMkxpcGpScXh6WUNTYXhyQXc?oc=5": {
       "title": "太平洋セメント[5233]：譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "太平洋セメント",
@@ -1883,7 +1835,61 @@
       "company": "クレディセゾン",
       "source": "日本経済新聞",
       "seen_at": "2026-08-25T01:07:33.163878+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12VzE3MHM4d2lHZmFMOTd1U2c5TFlZZHJKX0NVV3BBNHNXeXdKbGdLamVVcVg4NmdtS3ZmWkZZaHBscjFUUjV0WWRhUFg2WEc1UEZSWEZCWDJkNDBUa0Z2UVQzdFFSRTZreGJ1MQ?oc=5": {
+      "title": "NTT系、従業員の対話促すeラーニング提供開始 理解深めて成果向上 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yblpXUUNINHBCMXhqbktjTW41MzRMYUFYdWRONkktSEx3ZUNROWVMbTc4VGl4a3poak5yMDVzUzR3YlZTemNQRkJRWWJiSHc3WW5QQ2dQWFU5c3FYRzlUZjNQTUx5TXFqc1NsUQ?oc=5": {
+      "title": "東芝ライフスタイル、ドラム式洗濯乾燥機「ZABOON」から「TW-137XP6」を発売 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVXFfYS1IZFZmOGNyLWdxc2FPVUFoX2Q4bC1YcjJraVpySE9ZNVNxOEdETmRtbEp3cDVGVFR0SDE5UXdwWmRscVBxc3lDbFkxSFFyQlJWdE9qdDFIRFZxSDd3UnFHbnBpZy1JY1BvWlltdW9uXzlMcy03ZzdWVFE?oc=5": {
+      "title": "トヨタカレンダー刷新､異例の協議前倒し 供給網に配慮 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jVzNZQ1RTWnNsdmYxSHp3T1VfZnlhdUVUZzBGcEFKZFY4Z1U3R3ktQi1WdEZYSTdySG1mVmMteWh2bnAzcC0tZFc0N21ZMFh5VmYyRTN5ZmM3SmpFQXFGUDYtX1lwS1pac3FV?oc=5": {
+      "title": "【MOTTERU】8/24(月) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kRWFEdE5mUEVKSjczazVpRjRWcXo0ckx4bnl3cHh5YmdNZW1GSXBPN1lzZDJBbVdCWFpqbnhzd2Y2alU1VzlmdUhNWTN6WHFnQUh6R1kxc2FwTmZ4R0htYU9idS1XY3RqYzZYUw?oc=5": {
+      "title": "防災シナリオ、揺らいだ前提 イオンモール爆発に南九州道分断損傷 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aQjg1YUVSOHZ2WlVEbDFHUk9sT3RJMnhBYUlqTTRWSWd6dUdvbHdDNjRKSGIxaFI2Rk5YNmxjQklZQnN3YlEyc2hXbl9PR0VXOVRQWUtwdUUtQUhrMm9VQzcxZFJKdWRmZVRHaw?oc=5": {
+      "title": "【大阪・福岡】電動系要素部品（車載用リチウムイオン電池）の先行開発業務_K510 - 日経転職版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNNmFiZ1pPSWp2UjZSdENvNVQ0TWx0cDVvQlAxa3VRb1l2QmtmTDBkYWRYNDg4dlZSQ01rUTRmUDg3TnVoUExYMDN0d2R5SDd1cHV6Tk0tQXNxZGZYZ2xjR1cwaklndHF4ZmxuSUtn?oc=5": {
+      "title": "【調達・購買担当】商船三井G◆ICTシェアードサービス調達・購買_メンバー - 日経転職版",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81LUZKTzlPUG1PdXhhR29BOTdqdzdua0xCMTRJQzNtcXVNQXhna3JCLUZFRkRvYUxMSWlhSlZsZURRZGVfQllYU3ppNDctUS15TFAtLXN3Y0p3Mlp5bThZY0kwanlJelF5Qjh5VQ?oc=5": {
+      "title": "みずほ銀行：変更報告書 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44RWh4bk9QU09DaXhWLVQ3RnRGb2hlRFV4bXh3MnIxb3U2ZVFPSWhMN0RjbnVnR3dOUDZVOUpUZE1FSURvejhPS0FXaGIyZXY3M3daTFdLV2dTTl91b3MweFFDU2pmdlB6cE13eQ?oc=5": {
+      "title": "アコム(8572)第92回社債発行 - 日本経済新聞",
+      "company": "アコム",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T03:46:42.003969+00:00"
     }
   },
-  "last_updated": "2026-08-25T01:07:33.164288+00:00"
+  "last_updated": "2026-08-25T03:46:42.004446+00:00"
 }

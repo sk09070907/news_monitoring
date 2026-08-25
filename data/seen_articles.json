@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMW9BVlJ4VDVaVldDNU1SMUVRNlI0ajR2MWdmU0ptNERBQ2pEeXNXbzRhTEYzLU84emN3UlpGbkptQkswV2JndW9zX3N0SEYxdjIzd3ZPT1RZMm9qYUdjU1dyUWJXTlQ3bktTYVhKNEFFRzQyM2tUa1lvbzZaQU04Rk9CYm5ZVm1qdXB5MUZoU2pCbkJBUmphdk9ZbFhpNHd2MUxGd3ZKeTQzR29Md0tuN3g1b2NkdF9Zd1cxMDJPTHFFZDVIWFdfcUVoU0I?oc=5": {
-      "title": "日本製紙[3863]：2027年3月期 第1四半期決算説明会 書き起こし公開のお知らせ 2026年8月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbGt0UUR1VWZnRVlHVWtReTFMQVltWXl3bUY4NXdhOXZmZzJrRGVaN0VhLWdjS3JzeElFN3ozVnlpNUdyTWU3YnYzQ0ZoWm9rbl9mV0pETk15V2FZVzVPbEpVNHNjbmlsdmc2Vg?oc=5": {
-      "title": "王子製紙など3社、新聞用紙を代替供給 日本製紙八代工場の被災受け - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1TlQ5N0RjVjVUOHJyY0VMYU5YNGc1ZWpsMnNwUlVZMTlvaENVU2FqQ09NYWhfTUZSMVN5Z0JxZ3M2NlJBRjFpUlVrZjdtaFlpMWdiWjJYcTZVNnNicDFaTWU2ZWszeDhOOUN3?oc=5": {
-      "title": "客室向けリチウムイオンバッテリー保管庫「エナバコH」 9月15日発売 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1NWhIelU2MXgzeHo3UzZkT01KNUFJakVhTThwNktlb3lzaWZvVUJxVzRTQldqUWZFa0JydmZRUjRJZXp1dWp3SmlPOGtuU012MUxCVzE1MmtFX0xFdDFnRnI5RzhpVmdEa3cw?oc=5": {
-      "title": "&choa！、イオンモール土岐にて催事を開催：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BOG9YWllFYUE5eUNjSGNPWU5nOHZsMnVzSTVlTjN4bFQ4UG9pTnpiSEFHeG44VzVFV2dFTzJ6cUF0TllxbllWSG9VTzVsUWpvY1E?oc=5": {
-      "title": "INTERVIEW: DBJ to Deepen Ties with Regional Banks to Boost Risk Capital - sp.m.jiji.com",
-      "company": "日本政策投資銀行",
-      "source": "時事通信",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rQ2U2QzhqZW1tN2ZyVzc2bnp2MkhJTGpHT29EWmd5U3VYckVlQkVObTdWVm90cDJtQ0RzeE9YUW9mRG8xUHVMbFpFdll0a1hFRE8xclNHYTJUNklzckVhNllhRWdVNUxVbkRzdQ?oc=5": {
-      "title": "JCB、ローソン店頭でステーブルコイン決済を実証 訪日客を想定 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-18T12:40:18.422592+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pNnNOdEpBNUNTakdhQUFmZUVoTFo5TlJ6NWdualRrTHRPSjdPMGVvY0VGeHg0aTJTVkZ5WFdLMDNiTHRLX1ZhZ1Q0V1l0ZjNrQ3FZem9kZEVmSlQ3T3RocHZFaXczNDdLVzBjSA?oc=5": {
       "title": "（決算トーク）「格下げは想定していた」 NTT 島田明社長 - 日本経済新聞",
       "company": "NTT",
@@ -2021,7 +1985,43 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-08-25T09:33:36.089097+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUE5mR3pPTVlYaEx1dFliVlJ3b2lUSkp5TnJHMkxHXy1rajNuRTF2c2hCUmZEZ0xSWmRFTlZlV2pfNmFkNkU0NFBBYXpJR1NYSTJJZUhaZGNxcnBWcFVuVG0wVUlQZ2xuR0JhbA?oc=5": {
+      "title": "日本製紙[3863]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ibzJ0WE1HbnFpRzhoemNIRWtOZGYtSUJDUnVVUEVCb09yV2YzOUxybXNmUUxYVEIzeDAwdzZZbzd0UTNUeXlDZm1RaDlwTHVzb2hlUEtweElFWmhQUC1oSDR6ZmRwWTNldVFF?oc=5": {
+      "title": "JFEホールディングス・JFEスチール・日本GLP・川崎市、高度物流拠点の形成に向けた連携協定を締結 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EYnZhZk82Tmh4eTJGMFFfNExCTkp1RWhjT2VjTS03QXZXWnZnc0FmMF9feERvcEdXRWFiSEpQdElrRmJERjdRSDJZRGFvZTZsWkQ4ZDZIbUFReUFXV3JGd25NX2JpZ3dQclFIMg?oc=5": {
+      "title": "【川崎本社】東芝＠家電メーカー／法務部：知的財産業務（特許の発掘・出願・権利化） - 日経転職版",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORVlXZ3lQVkJoRzEycTluLU5jbHY2NkJ3eHhUcG9lZjBpTnVDRXBSVGU2dmdyd01PNlMtX2tubmxHQzBLT2RfdUlSQWZnVHRFS0FmeENrdHF2TWk4MmdqZWxacUFMb1dzTjNGZA?oc=5": {
+      "title": "楽天グループ、低価格ECサイト「楽天ラクヨコ」を新設 若年層念頭に - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qLW5kMjlrUnpKMkVoaUVjLXVJQ3hoenpYOHVNMHJrX3BsaHA3am04OEpiV3duUy15bGxGMnNZU1FVT2xsZ2pEZXNXUTJmYTl2bHgwNVZkWEZsYnM3QUduWjFQaWxsTTRzUmRr?oc=5": {
+      "title": "楽天、プチプラアイテムを集めた新オンラインストア「楽天ラクヨコ」を開設 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92QS1hV2VwREdpX3FjVHdrZkNhWG9uVTh6Nk1KSS11R0x4ZXVGVTZfNDRiQlg4RnNMUG9ieUhnbDdobDFpa0l6ZU4xTm1FdkJieFNhcg?oc=5": {
+      "title": "◎経産省、イオン爆発事故で調査委設置 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-08-25T12:42:30.776049+00:00"
     }
   },
-  "last_updated": "2026-08-25T09:33:36.089603+00:00"
+  "last_updated": "2026-08-25T12:42:30.776526+00:00"
 }

@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tdnVkUE81UFFhbGFEQXZyejh2SWJLaDBJQnR6VHFiZnE0dU1ETzNrbW0zcFpPYTZmOGlBbElFbE9CSjQyaDVTN1V0VXVWb3YwdHkxOEtVd0Y2MFZMZlcxblhLUThsLVFaZ1F2Nw?oc=5": {
-      "title": "NTTデータ、AIで企業の知財業務を支援 発明の発掘を効率化 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T12:40:47.904004+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUGNGLUlhMnJhOVMyMW1kWC0wV0ZzVjVGUHZWaTdtamNWZlhsLVVjTkZDMVlzWnkxcGF6bWE2ZGZ5WG5wZFh5elJtSjRkVUR0NUJQY2xkSDBaU2V1WmV5NWZPTXE1OVgzSW92cg?oc=5": {
-      "title": "西武ホールディングス、最終減益 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T12:40:47.904004+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41S2lKQXlBNURlTWxmQVAtRFdDcE02WHFGLU12MHZXNmZkR1loTEtUWGZPS0xqdlkxMC1FMnFYaU85VG56WHVFa2NLS25OUDlpZG1vYmhNMFFYTEJUUmZLTDhTbw?oc=5": {
-      "title": "企業向け電気料金、１１月値上げ 物価上昇、１１年半ぶり―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-19T12:40:47.904004+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFVldE9sTG1lX0tPLVhsbjI0dmFOeFpaMmZtWTk4WjJOVmZnUjF2Y3IyODFKN25CTzNVWk5Jc1EwWlBGVHZGVTJiZ0JQYy01ajFIaGpyc3pIa1M1aE14aThMMnZmR0tIYk5MalhWZ3pOb05iMjRVcnUxUGVYSXJZTlNvem9tQm91YjBGSGJmUGFaWVVaY3NhOC1iMkE?oc=5": {
-      "title": "デジタルガレージ、JCBと連携し、 ローソン店頭でステーブルコインを用いた店頭決済の実証実 - 日本経済新聞",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T12:40:47.904004+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NS0ttSWc0Q292WlJJNGhLOUhEN0FZQ0pnVm9FRzgxempoMlNTdmtvUkNuMW40N3JoNTBrRkJEZUd2cTZ4RU10dWNXeThibkFLR2M3WnZHcllrSUI0T1V0bklkaGZRcWFhbDRv?oc=5": {
-      "title": "時代劇の名優＆本物の斬られ役が横浜に集結！ 京都・東映剣会と本格殺陣を披露！9月22日(火)開催ラジオ「時代劇が好きなのだ！」3周年記念イベント「秋風、大立ち回り！」のチケットをチケットペイにて販売！ - 時事ドットコム",
-      "company": "東映",
-      "source": "時事通信",
-      "seen_at": "2026-08-19T12:40:47.904004+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tWGlhRXExU1puYW82WTVJUktHQ1lSNHpZTFM1WGQzQ1BaN21IY1M4RHA4OVVPWHU2UzF5d2xXMnZtNXprOUdWalJKMjBuQkhIdXZUZzI2SW1LUTFuQlIydDB5TVVCdnBCR0lZTA?oc=5": {
       "title": "大和ハウス、三菱商事系と協業 - 日本経済新聞",
       "company": "三菱商事",
@@ -2147,7 +2117,73 @@
       "company": "森ビル",
       "source": "時事通信",
       "seen_at": "2026-08-26T09:38:51.710555+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kamRTc1NCVC1TRHZXTXdXbnprS05lVExscldsT3dDdWVVVEVhOWRrYmlVTjJhb1hQU29ORS1SUHBSektPWncwTm5Sa1UtVDdzWVdvNml4cjNjejRReE9DSXB4VFdDek1FbWtxWg?oc=5": {
+      "title": "NTTデータ、エージェントAI基盤に新機能 業務履歴に基づき支援 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZlc0UmUtbTZ4ejRfWERFaHg4VmxDT1gwUzBsREtaM3ZKRnNTVkdmVll0aUxtWnRROC1SNjBEeVpRSjAxLXFGbzZiZUV3eWpnSmdMU3E0clNRR25reUZGbnY0OFYzVXY1ZmNfXw?oc=5": {
+      "title": "国内初の洋上風力部品が完成 JFEエンジ社長「28年にもフル稼働」 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jbzVwbE1XY3h6Z3lNZjhHdXRwVmpQU053c185UUt5S2pWMUhSbEVwNGRlZzY1ME1oWE1sWEx4X0RzRWYyb3ViOUlGSDFFdEtHTUtYQ09QWmVmUFBOWWl2WGYwVVVWSnlJTVVF?oc=5": {
+      "title": "≪発売わずか1時間で楽天総合1位 ※1 を獲得！≫ 1分間に7台売れた ※2 話題の“時短うるツヤ”美髪器「イコエル ケアスチームブラシアイロン」、楽天デイリーランキング4冠達成の大ヒットスタート！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xemRCNi1KY3FHTy12NXo3S3B5eF9VVmM4TFBiYmJxRHdOdkxpLTFPZGtOd0FFQXJ5RThnb19JWEFqNzgxNWhGLXpiaVJWNS0ybWkyMmtKR3NhNk05U0lHUGZCQ2l0Xy00VEVNVw?oc=5": {
+      "title": "浜岡原発の廃炉で不適切手続きか 中部電力「疑いに対し調査中」 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vbmk0SkotY0pLZ2lqaTFpNnUzNDFxbzN6S0FoSUZxVDZFU0VlZFVWbkg2Y2lnWTJnSEtObklSZEVNcUlCYU5MR1UwNWlFRjFEVXczbmlwQmlxaEpyVXZMY0tQMA?oc=5": {
+      "title": "浜岡原発廃炉で不適切請求か 工事費用など、中部電力が調査中 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Pdi13eUpPQWEwME5qdXV6c0xlWnEwTUJuZHVzOThDLXVfMjREakRZMXQtVGtrUWtFZjBMemZ0RVN3YjFMT3hPMnRfQ3dSMDB3Tm9Mbg?oc=5": {
+      "title": "◎浜岡原発廃炉で不適切請求か＝工事費用など、中部電力が調査中 - 時事通信ニュース",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYkcyazI0bEVZejAxTU5WQWRFSjk3RTRDLWxLWkZxTjFwRjJMdVl5eDV2Tk5fSkNia1lBZGdVTUdGQjNHVmpTVVRKcFJxVHBFc2VreWEyLVl2Y1MwdXMxV0M4MnA2bmNuWGc?oc=5": {
+      "title": "チエル[3933]：チエルネクサス、社会課題の解決に向け 三井住友銀行「ソーシャル円定期預金」への預け入れを実施 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40bTgyTEgzU0RqNkNYRzVFQ3ppLUF5am83bUpodVBsRm1jVXhoaWZCcXRPMzJubjF6akVwUEwwSVh5Uy1EV1pMWFFweUpISUVJa2lZYkd0T3Jab1B4TlBzVHloc3Y1UUVKT3UyZg?oc=5": {
+      "title": "日本生命、神奈川県との「ニッセイ医療費白書」を活用した公民連携での健康増進取組について発表 - 日本経済新聞",
+      "company": "日本生命保険相互会社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWVSYTVPWFBFUGlnbDZUU3BCN1A1WW1RTnVIRkgzVExnbHQ0MjBweWw5RlhaZHBrLUFMRW5KMkkzSXRnMnVuTUFrTHgwNzBXZ2ZVcmZyczU4R1g2Zmo1UklKR3A3VVQ1LVhkaHJ5YUV5Q2kxa3FCQ0FzLTlsQTVONXliN2RIem1uVmU3Rm1xTHM2aUdzQm5oeGVZT3YwNzRSOWxhSXdrbHRyRmtpRGZ2QnZUQWNPZGpSRGxjREttXzB6QjVzT0kwcUEzMlI?oc=5": {
+      "title": "オリックス不動産投資法人[8954]：国内不動産信託受益権の取得（豊洲プライムスクエア、 那覇新都心センタービル：追加取得）に関するお知らせ 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lQ2dzVU1JbWRMaUlhR1M2RmFMNTRhRU82NUhjdWlHTWNwVFJUYXRsaXdxdjZuUUh5UDdnRVpxa1JNcXdCWTVXU2VfRl80Sm91VldJZWRGQ2JwR3A3ZlRMektZNUREME02OWc?oc=5": {
+      "title": "オリックス不動産投資法人[8954]：2026年8月26日公表のプレスリリースに関する補足説明資料 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wc2ZvaHdJZE41M1YyOU1rcmdmMFY5eHU2SzBuTWwzeTZFaGxhZFAteWJJQVZvajZaRXhLSXpYY1pjY0lxbGItRE5PcmMwellYWEMyTQ?oc=5": {
+      "title": "◎森ビル社長：六本木再開発、工夫で計画維持 - 時事通信ニュース",
+      "company": "森ビル",
+      "source": "時事通信",
+      "seen_at": "2026-08-26T12:46:45.363256+00:00"
     }
   },
-  "last_updated": "2026-08-26T09:38:51.711045+00:00"
+  "last_updated": "2026-08-26T12:46:45.363767+00:00"
 }

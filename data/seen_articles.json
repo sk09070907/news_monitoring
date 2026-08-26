@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NExId01oVnZOX3BnOHRlVXdua3JObU9TUmcxeGgzWHBzamZ2RDVWeHBFbFR3NTk0bDVra2FlZkxwN2NmdWUtcll4ZUhrM3JJZkh6bHh2RDBCTTMzeXBYTmtiMTZ4TmtMU0VfWQ?oc=5": {
-      "title": "王子製紙など3社、新聞用紙を代替供給 日本製紙の八代工場停止 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T01:05:50.875386+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DT21TdlUtM0N2ZTVkdXI3NThZVnBPNjdDWEZ0bzFxMHMteXFSR240Z2xhcVhsRWFnS3JOQW9xWTZySVNzR3czOVNyLXc4ZWlJcnRLQkRlenRBN180N2JTTGFsZ1pfSlU4QTlR?oc=5": {
       "title": "住友商事のCVCが、サプライチェーンリスク管理クラウド「Resilire（レジリア）」を提供する株式会社Resilire へ出資 - 時事ドットコム",
       "company": "住友商事",
@@ -2063,7 +2057,37 @@
       "company": "オリエントコーポレーション",
       "source": "日本経済新聞",
       "seen_at": "2026-08-25T21:22:40.803366+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hUW1CSEQxempMbUZpUVNMSDNmUEI1TkZyOWV4a2ZKMTJZOEpqX0dwNXpYRGF3RzVpX1hmR2xVbWk5Wm0tTkcyNHJxb19mdEduLXlpcFFVN2N1SDBvRXdCbXJ0VDg3elVwTUE?oc=5": {
+      "title": "揚羽[9330]：揚羽、〈NTTデータグループ〉の「仕事と介護の両立支援プロジェクト」を伴走支援 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T01:09:42.434298+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDZxU2tzdnJHLWh4V3JBbE1DajRZX1lzM29PTzlfQTBjQUlBZlhSbHAyNFZ5cW04ckZpU1U5OFJDNEt3Z2NnczJnc1Bkb1VzTm14RjBETUxkTUxrLXRMMzNuZDZ4LWpWMTUyVno1cFBnVTV1eWpybWp5Zy1qQ0tXMnBfMEdXNVJhV3NRSjdUVFNIWGE0OTNjbnBGNEs?oc=5": {
+      "title": "ENEOSなど6社、船舶でのCO2回収・貯留に向け調査 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T01:09:42.434298+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvejhyd1gxODVPR21WaWZBankxOHRZOVpTdUItWndmdDMtbmZaaG1PY1RPdUJmWWp6RmJRM1ZfbWx6MHVEdnNXUk5kMWVCcFo2V0pRaDltZS03czJUWXhFMzA4VjlGSTBOQ3JwVw?oc=5": {
+      "title": "関西電力、大阪府箕面市にデータセンター新設 29年にも完成 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T01:09:42.434298+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGWWE0TDJ1aTVFaDhuN3BOVHFYZGxSRzRjbnB6c3NmV201eW1EUU9Td2MzX2VQMGJoaG5SZnU5OF85ZXB1UTZzZHdQVEYzUFFiaFg0VDBYNXdjZWtzbTVrQ2EwbVFhNkJUNndSQQ?oc=5": {
+      "title": "北電、環境債200億円 来月上旬発行 送配電網を強化 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T01:09:42.434298+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjQ1Zm15LVB3ZnJvWkoxVnIxSVRzUFR6Z3V2ZnFubEloMkxRWk96NEpuT1VtMUIxcWkwMEdfNjJ6b3FvaFlaaGxucHdkT2stYU9nSDRfQlZYRGlRN1ppT19BaDAwazdnRG1JTGdBSXBPV3FuaU1UM2hfSUJVUXpDdC11ZWNoZm52VWpmWDFQNVBlMjJiY1FodUw1bWRrU2I0Njc1RVllM2RvUEpkazNQdXp0QUxMVF9oZXN2Vk15NzhWbUhNT2k0cXExNVI?oc=5": {
+      "title": "大和証券グループ本社[8601]：大和企業投資とMain Sequence Ventures、日豪ディープテック・グロースファンド「Sakura Fund」の組成に向けた協業を開始 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-26T01:09:42.434298+00:00"
     }
   },
-  "last_updated": "2026-08-25T21:22:40.803846+00:00"
+  "last_updated": "2026-08-26T01:09:42.434918+00:00"
 }

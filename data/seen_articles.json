@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tWGlhRXExU1puYW82WTVJUktHQ1lSNHpZTFM1WGQzQ1BaN21IY1M4RHA4OVVPWHU2UzF5d2xXMnZtNXprOUdWalJKMjBuQkhIdXZUZzI2SW1LUTFuQlIydDB5TVVCdnBCR0lZTA?oc=5": {
-      "title": "大和ハウス、三菱商事系と協業 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMndMS0ozSFl6b3ZqaDB3enBGdTRia2ZSMGQ5YjdDRURzaldpYnd5Vkt0UjBBV3RHdGFGOTJ3cmhwMTByYm9YeFJpNVNsc0F5dzlhUk1xQkd2eGZxMUt1Tk4tZDIwdWd5RE5Bc1FlY1ZiYlk3QkwzOVpTUWNHNm5xUUFaSlR0T0EyVWZOOXhMNURMZ2RVMmc?oc=5": {
-      "title": "イオン爆発、日本製紙工場で死者 八代市役所では免震ダンパーに変形 - 日経クロステック",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTYmsyZjJHS3hOWkNlR0hWYjdEU3Z4dTR3Tm41UVFtaDVuYTQxU3BYYVQ0R3hPc0xlMFBUcDZjUlg2SWltaU5EelBrbVFWakNqY1pCUGNuMlZQczZYeUFBcXdSYUQ0T3M?oc=5": {
-      "title": "NECはAI活用、ENEOSは30の業種別基準を精査 SSBJ開示を経営改革に - 日経ビジネス電子版",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ldlN6aGZiMGp0TVdXTWtUUnhvc3ZqRGdJNHpnemxaU1ZjQzd1Ny1TMU1ULTlMbF8zc3Rid2xtS1pvMXNQcnd4WGxIV2NXcFB2Tk9tdmNOMC1TV3ZrLTV3NFlqNFZmZ3c?oc=5": {
-      "title": "EV失速でホンダ・トヨタが方針転換 日本メーカーの生存戦略 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeENkQXJHclJiWkd4a2VFQ3ZmbTVZMlJKdTVHcWl6Y0N3d1pOZFd1SGttb1lDTGt3NXVNODFYczV2QUxIekp1ZnRXemcwTmRUYkNzT2lfdlVzYmRiT0x4MjRpaHVlZXNIWjRUZkN2MFAwbVNYTERuSGhFVXVjZ1F6VFNSSzhncWs0cEVLTk9yUVQ0TC04TjZNOHZ3M3ZzeXV3VTRfTw?oc=5": {
-      "title": "トヨタ城下町の脱･系列依存を支援 名古屋銀､地銀7行と - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcXN3dGI4Mm04SUdvVk56ZDY4NE5kRHBaSk5IaGs4bFAwd3hyQTBIZ25JU3lUNVRYSTFUell0bkczZWdKdXA1ZEpxSk1fc1VGNndZX0VBa2VhdUdRUFNTWTFFVDRuOUpOTXFTWF83ME1acFRlNkdF?oc=5": {
-      "title": "ナトリウムイオン蓄電池､新興2社連携 200MW時目標 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oUmxYUWVGYlloVC1RMVlmZGJDLXgtS1JFek9OZmNZbk1MZlk4U3ViX0lDYnFVXzNTdkNSOHZZZGJqd0FfVjdRSVRQTHE3NHFhYmc1ck9IYlRNdTNSdkZXVFdmcGRNQXExeGJzeVJR?oc=5": {
-      "title": "イオン爆発、日本製紙工場で死者 八代市役所では免震ダンパーに変形 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MTzlrX016NEdadklyS1B1bEVnbFpvOVdHRlJ3ZUZFTEIxWUJYblJQYzUtcEJ3clFuWDRYY1ZFNzV6LUxXdUsySWh3WGI1VW96aUFTc0VxZHpBeDJ3LVE?oc=5": {
-      "title": "企業向け電気料金、１１月値上げ＝物価上昇、１１年半ぶり―関電 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2t6OUt1M3lqRDFBX3B3SDFzd1p5R0JZeVlTNExJOS1DQ0FkZHU1b0h5UjlDVlpQekFBQkRESGJoMTd1ZnNGMnkxMFZPdkU4aVZSd04zTUxaaF9EU09naWxIM2k0Rnl0VGM1TUJhMHM0NGthcHBIMFFIWUdvYjl6Qg?oc=5": {
-      "title": "企業向け電気料金、１１月値上げ 物価上昇、１１年半ぶり―関電 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTHdSR2NhRDMzY2k3bjBsZGVrUl9MY2YybTBIWlF4SGdSbWhsOVo5dTlVV2VkWFNZakZybnBXNGctTFhXZWxYVDI3UnNUemY1dFdQYTR1S01iV0d3TGc?oc=5": {
-      "title": "◎関電、企業向け電気料金を１１月に値上げ - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE41RlRnYzVDeFY5RHFUakJjZW9JNzNQazRUZlI2OTBTeWpHYlhhbTdZN3d0OXNMT1VjbUVKSkJtWUhnMzlPMEFyOVpTbmZWOXhCOFJkTWpMdFNJS1JZYXozekRqSkhQUmdPQUE?oc=5": {
-      "title": "北陸電力、減収減益 - 日本経済新聞",
-      "company": "北陸電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZnhvam45bllVbmt1RjlWblFaYnZNbjVzNnFpVlNKcHpUMW5WQUIxNFZ0M3J5dUV6aVFya2xTbkVaNHgydVNCNzM0T0ZySU9vdXdBajNaNlRnNFdfcERjQ0E4M1F1S3RoU3VrdA?oc=5": {
-      "title": "カニの縁 野村不動産ホールディングス会長・沓掛英二 - 日本経済新聞",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-19T21:20:35.961045+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WTFhSaHFDVTNOa2dDbDFBZ2k5dXFzX0pqcGh6NVBlRTdMWURreXBlSkZPc1VwZlp4Z2VzcHJXSGJmV3BVTWFTa3hpR2N0LTVXZ1BTVHFzLVBRbkV3aGNleEJlTDNvQlhRNk9DNw?oc=5": {
       "title": "今日の株価材料（新聞など、20日）伊藤忠がデータセンター参入 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2183,7 +2111,91 @@
       "company": "森ビル",
       "source": "時事通信",
       "seen_at": "2026-08-26T12:46:45.363256+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McUxGZTdJV1d1Sl9ibW8tOVpvUms2X3UxTFFSem16bWZ4eUdteFRCZWxEUTN4OWs2UHpYRE42d2lZV2dPcHBkVzBYVXhlb0JnMXJxU3Y3VzdxSWk4VjlBcXBJVEVONGxoYnRXYw?oc=5": {
+      "title": "「そこまでやらなくても」から始まった三井化学の変革 女性活躍は経営課題 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IOThkaHU2V2QtZk01VXNvMW9FVTdlRFBrdFJEckZjMGROLWFnaUhpTHBmc01GcjBXcFQ1MkhZZ2s3YU5RUDRwd2xxQXpvNW1ZVUZoTk1UU3lQWXB5bmVKMHZ5d2pIWWF1UTRiay1kNDh2ZGY1aXBz?oc=5": {
+      "title": "パネル下でマイタケ栽培 ミツウロコ系が営農型太陽光 - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WcEU4eENVdFZieVdjNmgxQmpDSF94WlVyMXVxTjI0c0Y4TmQ0ak4tX1lWeEJfaFVGSVMzYmM0VUtsVDUtQTc2U1ZyOTJLcUJDUkJndlA1UG55WjJ4bDg5ZkxRWkNOZU5PM0NJMA?oc=5": {
+      "title": "ミツウロコHD系、さいたまで営農型太陽光 マイタケ栽培、再エネを地産地消 - 日本経済新聞",
+      "company": "ミツウロコグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N3A2UkJ5ZENndWhIeDBEZnZuXzFLdGZDUXdZemMzMlM2Q3dXWlREWTFTQUowZXJfR2MzWUF1R2J6Z2N2VG0yMW1HQk1rcXpBbDB3MFdEbzBHSWVSUG1yR0M4UV9PSHVhT1Q1eQ?oc=5": {
+      "title": "米国のカナダ関税「日本車影響大きく」 トヨタ・ホンダ米販売の2割 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQ09ITmo3ZWdQS2FxZGFtQzVINDhwSkcyWmQxUXVLUnlUQWlzVlRWdTNUOEJISkFwcG9ZczhnTDBTaFZFdGNFRHljY0dEVmFxcHd2aEJQc25GelN0R1VKS2VYMkljajJsQ2xvdg?oc=5": {
+      "title": "岐路に立つデンソー、新たな競合はテックジャイアント トヨタの将来左右 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFQxa0NsRGs1dU1KNUp5bERlYVVkUDRNb3k4Sy1pRGl5UnJuUGlJbnhDZHRYc3V5Um5sT2pudmJkZXFFWHBnN0tycmJobFpLb09XNWMwODZienowOGtZUF8xMHhGQTA4eUlCeV9TTE9RUGFid1Z6SGg2ekoxUHgtZnF6X1g5Wnh6UVpOajVOZHdXTlNzN0ZaMVVzMHZ4OFUwamZRcg?oc=5": {
+      "title": "トヨタのE2E自動運転､モジュラー型･ルールベースと併用 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wX2ZkdGF0TzBOYzZUb0tEVjZKUWxFRTJTQUtMdVhHSHI3Ny1oUVVqSkI4T0UzeFVvVjJWUXplUEI0RnNsUEs5al9OVUNoeEl2RlpIWEVrekluMEtMVWxzNGVDNkhEX2QtMXZmag?oc=5": {
+      "title": "楽天モバイル回線を不正契約疑い、19歳男逮捕 トクリュウに転売か - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13YVY1TVY0eTliYTUwWms4VWlpUUtFNlVPSmJCSlhTX294NjBIQ0ppSWNreEt2MWdzV00wVHgtaFRCS0drT3hpRjlydnlqSExxenh6V2tTRmxRWUt6LVQxUWJBWGdaNjRrRW9oeg?oc=5": {
+      "title": "中部電力、浜岡原発の廃炉で不適正手続き 25年3月期に - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbDFKM1c1QldfQUQyZ3FPaWk5WkdEcGdsVTVjYktGNWxXNUJfTjYwd2JyRG9wZTEtaXFHNWpDUnJ4dlBXNG1FRlFxUUc4SnB2NW42TnN0SkEya1MwN3JyNzVRRkVwT2t1c2VWeg?oc=5": {
+      "title": "浜岡原発、不適切手続きか 中部電力、廃炉費用の請求巡り - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80bXZYN1NXdjlhOHdZNzBFUkowMWZNMmdzVWpFWlptNUoyV0ExQWpiSzAwdnY0V29FLTlVS1F2NWRBbEpyYXd3amVsTXM2SXd6R3NLYWZFRzUxYm43RVE?oc=5": {
+      "title": "浜岡原発廃炉で不適切請求か＝工事費用など、中部電力が調査中 - 時事通信ニュース",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3RXazlfZkpadDBhdGFpakc5UUpmcTNQNmVBTUF4d0p2QUxpU3lVSWc3VVEyWEYzRGI1OFdpVXM1a0FJcHdiUUl1R2RlZXFFZ3ZfRXRQVTJFOTRtUnpPZmotdEwwaW13ZkhDOVkzOWpvRTFGNUhqZTBEc2ItNXVKRw?oc=5": {
+      "title": "浜岡原発廃炉で不適切請求か 工事費用など、中部電力が調査中 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdDZFVm5XVXZTNEJWSi1OMWR5RldTWG9DOW14Y2o2OHlvMHpYM0p3c2lTMy1mcV9sYkJibV9taGFBd1F0eDF5MDJDdmlHQ01Wc3cwMlpraXBvdVNwSHJGQ0lRemU5QlpibzRCdw?oc=5": {
+      "title": "MUFG、相続準備をネットで完結 「エムット」に新機能、富裕層サービスも刷新 - 日本経済新聞",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbE82OFZwclpVMHFCYlBkWEphYmZ0NWphZi1lbE9qSzg3X1FEZm9SRFZUWmdjUXhLcXhtckJjQlE5djRYSTZrSzVhSC0tX1VRc1VvU2M5ZWdjSEZmTVozZDE2dDVuNVVZTVNySw?oc=5": {
+      "title": "三井住友トラスト系、資産運用会社をベトナムで設立 - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wNGNGNi1Gc1YyT0p2UVFQaWtnTlk1N1dIdkVneElPb0RSdWVsSk16XzBiTWdwTmZaaUlmblZUVDQ0M25lSm1SX190ajhYNHpJNjlSWktvbmdlak5kcGVlQ1NMR25hOXF4Ylp0Mw?oc=5": {
+      "title": "オリックス、日本の造船を鍛える 発注面から次世代船普及を後押し - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-27T00:24:16.408109+00:00"
     }
   },
-  "last_updated": "2026-08-26T12:46:45.363767+00:00"
+  "last_updated": "2026-08-27T00:24:16.408607+00:00"
 }

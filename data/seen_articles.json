@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9weHZ3RVVjbk8xUGtUdnJ0R04wOEFnQ2gzaW5BZXA5b1NCcXI2eTlKalVDNU5vMmE4WjZiWXBGTEZQYjM1RnZtb182T0tuVU9iVF93VlVTOENRSXoxRm9maFFtVFFRa3IwZHZ0MA?oc=5": {
-      "title": "「スターリンク小作人」解放策によぎる不安 楽天連合に1500億円補助 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-22T21:16:08.165918+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fMHpFSXpvNDg1SEU3THJFRXFYbjNpSmtvcE4ydmx3MzdNTXVidzRydU54aUJiUkNlWU5EeVhSQXBjRE04enRVa2lLZ2V3OURWQVRXMUdaNjNYcjZmYlJEQ2Y0RFE5X0tueUp5aQ?oc=5": {
       "title": "三菱商事の中西社長「世界のリスクへの感度、理解し受け継いできた」 - 日本経済新聞",
       "company": "三菱商事",
@@ -2279,7 +2273,19 @@
       "company": "東京電力ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-29T12:17:11.818062+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VcnEySlUydmt6UGxWakRvQ0JHYVdJNkR4RGdEUWV2X2hqbE9HVWoxTjR6WkJSeDMtcTZIOTA4UGxuRGlUR3JFSW1qZjlEM1NxZkw0YzdRLTcwbFo0dnY2VXlKWWt4U0xOU2E3VA?oc=5": {
+      "title": "トヨタやノリタケが駆ける「製造王国の道」 AIが工場の現場パートナー - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-29T22:57:48.050213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObXpjUTZMeXdfS1VHUUY1MnlwXzdjYWdVMmJfSDM3M1BuR3ZRa0xTOHplcXdiRWI0NVRiYjlNVGhhdVR3N2d4MVByS2dpR1RmUmdnQURjZS00Si1VbGJFTGREUS10Uk1OQzN1WA?oc=5": {
+      "title": "福島第1廃炉にAIロボ 国・東電、年度内にも共同事業体 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-29T22:57:48.050213+00:00"
     }
   },
-  "last_updated": "2026-08-29T12:17:11.818517+00:00"
+  "last_updated": "2026-08-29T22:57:48.050648+00:00"
 }

@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fMHpFSXpvNDg1SEU3THJFRXFYbjNpSmtvcE4ydmx3MzdNTXVidzRydU54aUJiUkNlWU5EeVhSQXBjRE04enRVa2lLZ2V3OURWQVRXMUdaNjNYcjZmYlJEQ2Y0RFE5X0tueUp5aQ?oc=5": {
-      "title": "三菱商事の中西社長「世界のリスクへの感度、理解し受け継いできた」 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91VWxDYThjalR0dE45QW1DbWZQUmVFUVc5QWNjTzRkMnhoRFFSckFERVp4QWJuVXNhZkpRRXVQd1NWWmg1WjR5S2l6ZHNaVDhudWRQYXJaVXVWWkZtakNNZTZWLUIxckpWSkRtTGN5UWxfN3ZZUXdB?oc=5": {
-      "title": "三井物産、チリで合成燃料レンタカー 地産地消方式に解 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQaWV0Q3lmNG93NElGcndmRTJ5OUtvaGhTSDhwWlpVVUpqVThmZHdBd04zY0JWaVVxcW9nWC10ZGx5MzFrU1VTbmxaNTZZRWFYSzE3NDVPSTkxU3JySHBaOWFwTm1CeDE3RExnaA?oc=5": {
-      "title": "台湾企業の九州進出、IT最大手と伊藤忠系が支援 合弁で半導体集積促す - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2xzeUpLNkg0ZVJwY2JtREZYNUo1VW94Rmp5S0lWV2dBd0NnT0FJY2VXQmk3cGFLbWhNVXlHc0Y3NkxuX1dMWTV5djViYTdwSUE2NndkZEZZZVNfajE4MzZKbGxkdFoyQW1MZmIyY2h6VTY0ZDN1MGdrVnNUbVFoOUtpRnlzZkR1QksydlA0cXJvMWVDeHVqNDBVVTdIT2Y2UG9tVmpLTnFFdnhRV2c?oc=5": {
-      "title": "NTTの光電融合、製品化へ商談 クラウド大手が成否左右 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WnlZSHF1Umd5dllPVmkzQ05qaFNlRHZHSThaclE5alpxSkFmUno0ZnRaZmZxR2t6UjZlMUp4aWMzZ3FFVFZQdlJjMUpNR2ZiR2xPQWw5LW4wazlMNzlSR0JoMjFjYVJ5dG5hYw?oc=5": {
-      "title": "静岡・磐田発「NTTエビ」の現在地 陸上養殖で社会課題解決 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Z3lNLXExSmFlbzVyTVhFRDRBcXJ2M1A0SzV3UW9xdDNJRUtTWWYxVC02aTlwSDdlaGR5M09wSkgyckFFVF9oa0ZoYWlXdjBDTUd0aW9wcmc5QlZTNGJMLWhPSUVKZ3RkWEhqRw?oc=5": {
-      "title": "トヨタが立ち向かう3つの課題、描く「次の夢」 成長の糧は失敗の場 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMXd2LWpzUTlCUmNNMGZRTXRKVFRsR21TeTRoaDRGNWlXdUhHYTF3TWZYX2xyRERGcUNWYmhQQVlTOURBZFh3akg0ZkpGb3JZT2FocHUtU0tVeExNbUdDcGdBWGtMa2JsOG9XTw?oc=5": {
-      "title": "トヨタやノリタケ、AI開発も現地現物 社員が「製造王国」の道ひらく - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcVd6VXJKQmVXcnp2dktCaVlBTjlGTVZOeUZEalp0UE1EV0prWmdRbm9tTG9qN1luR1c0YmdXZEtFUHpJWVpleHRaOTZFaklDXzg5X1JaSXFmSjNwNkh4NG9CZXoxZnVCc0dUTQ?oc=5": {
-      "title": "決算:九州電力、燃料価格が家庭向け料金の転嫁上限に 「中東情勢を注視」 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMV95cXNrdzY5SUo1SnhXdW1DcVpIOWdEQjFxRDdjU0V1R2pMNlpHaUROM29jT1pvNk9BR2U5Nk1LRncyb25uNTZkTHVTbEZZYzVpUm1qbk42blBvMGVlM1g0YmJYZ2NZZkxCbndBR3g1WDdOMXVpemR6X1R1QU1LVzZwWTdtSDZoNXJRSHRUTmM3bGprS3VtNQ?oc=5": {
-      "title": "フジとSBIの呉越同舟 結びつけた1兆円ディール - NIKKEI Financial",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-23T21:16:23.192332+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFFvODFBYTNEa0pVZE5sR2pnS0pNVmZhYzYtb19IN09Ia3JYNVZiRlN0dzdteng2cXdsVmxRcGl3VFdILWtsOGh5TTJfMkRrMGNkb3FzRDAwcm9EckVWS3RsWUd2SXp3QUFQa0pXT3lRdHJUcTFuMDU0VzNNUVdTT0ZMdTFxM0doRXlmaA?oc=5": {
       "title": "NTTの光電融合、製品化へ商談 クラウド大手が成否左右 - 日本経済新聞",
       "company": "NTT",
@@ -2285,7 +2231,49 @@
       "company": "東京電力ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-08-29T22:57:48.050213+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSYXFfM20wODJteU5JRUxXcUstNzNyazh2dTVoSTlsajNZWmFzTGV5MENjWTFrRnNzY1VDeUx3RV9kVjVXaUJwOEE2SlU1dkc2bWpJR1k4TnJqZkZiNDMtUFVjTTBUeWxNaTA4Vw?oc=5": {
+      "title": "伊藤忠商事、インドでアンモニア貯蔵・販売 グリーン燃料輸出も視野 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GSGpHX3ZPY0tpSS1uRDBpdnR4cUJ6VTRGc0JUWFpKQkRUeEVlcVdVTUEzdVBLdHpYU1JJb3NKNi1DSjRzYlMxRTcxbE9fT2t1ZUpBbmdIazh5LTdrU3R1LUYxZXc0UWhFRkE?oc=5": {
+      "title": "ワンプレート冷食市場は5年で3倍超 最大手ニップンが課題克服の新商品 - 日経クロストレンド",
+      "company": "ニップン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CbmFGdG9RWFRCbWd6UTlKRTJJOHB4R3FRRHRzUWhoTkRPcXJMcWxFLURpeVBvX0xNNlVjNDZMZkpuNDRfODl3Y3loQWowLUY0X3VBOXNKM2liR0Q3bFpiSks3c2pJZFNp?oc=5": {
+      "title": "トヨタや三菱重工などが参戦、ブリヂストンはたわむ金属タイヤ - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hdmN2VWx6SDVERVZFaGxYRXJueXJYeXhQem9KSFNYNno1aHBNSEVWeHNKVU9ZOEV2RFBxLUdFd2V6YWJzSjhLTlFmRE1Jdk1UeHhHYUlsSTd0bFNWSEZQOW1CNjZ6OVpo?oc=5": {
+      "title": "国内14社、部品の品質基準に共通指針 トヨタ「忖度の壁を壊したい」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tQkpIdHY1V3FSdE5lVl9feWRUd25BT2tsSkFBd2RUcE1zSTYxdVpZQVNLdG1TS0xrWW1CQnFEQXVMUllXbVA1WGtBOVFBeTVDUFMwamp4M2RIS1dTY1Y5UXBJYjEtV1M5VnBVOA?oc=5": {
+      "title": "楽天グループ、AI活用で利益創出255億円 ECの平均購買額17%アップ - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVmpRUHdvZzE5b2IxeXhRZktZTDlUN3NkWUR5MkZSY0g5OG4wS1d4Qm40bVRMUUZTZWJSZl91STcxTzExa3dCQmdRYnkyY0VYR0pESnh1SjIxbDZ6YWNjLTZIZzVHR2RGWG1QdA?oc=5": {
+      "title": "ナトリウムイオン電池、スカンジウム使い長寿命化 東京理科大学 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eld2R3RoQ3F3amRGNVVfYzNLaE85by11UFZ3bUt4clJURnV4NUNGLVgtNkgtM1BpcjEtMEVBVUNkMmY4Mm4ya1BJTlZuX3ZIaXdrNTFiTmhpbFEtbmdlNFIyd1Npcm8yZkhNUw?oc=5": {
+      "title": "関西電力、火力発電所の保守手順をAIで作成 年10億円のコスト削減に - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-08-30T23:04:29.889112+00:00"
     }
   },
-  "last_updated": "2026-08-30T16:02:21.580747+00:00"
+  "last_updated": "2026-08-30T23:04:29.889623+00:00"
 }

@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE15bG9MQVFZbFRkcExUTk83SWl2czd3RUxVVDRmQXlkVS1FWnl6MlUwZzhiVTZuUExEZjRucFJfbXltV3piRU9CZ0xqTDRmTXVuS0JKaHBoN2EtOE16VDZnWGZpbDgxMkZZdUtvMF96ci1ydw?oc=5": {
-      "title": "新システムは成長基盤、「2025年の崖」を克服したJFEホールディングス社長（2ページ目） - 日経クロステック",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T01:07:33.163878+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWXc3bFNiMXFkaFFUa3RpLW9PWGF3N2lYdTlBT1lzQmNZY3ZZSmc3TXhwUmc3VmxnVTNDUWFKVGpWTTVyZnZfbEVIVjBvWlBmeGhtcnFDTGxCRTVncGpjYkU2ZHkyLVMzQm1fZA?oc=5": {
-      "title": "三菱UFJ銀行が口座開設プロセスを再設計、JPKIが本人確認の中心に - 日経クロステック",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T01:07:33.163878+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hbTdNN3NweTJhLWpkUDU4YTJldDRPS3lTS0ZvOS1tQ2MzSTNyTFd1bG5vMVRMT29aekJOR2sxaGJ4eTBjMDRjRUhKTjBqRlhiMzhPbFdTLWJyOTV6MWV5MTVTSjBOSmN3MmVSNQ?oc=5": {
-      "title": "クレディセゾン、増収増益 - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T01:07:33.163878+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE12VzE3MHM4d2lHZmFMOTd1U2c5TFlZZHJKX0NVV3BBNHNXeXdKbGdLamVVcVg4NmdtS3ZmWkZZaHBscjFUUjV0WWRhUFg2WEc1UEZSWEZCWDJkNDBUa0Z2UVQzdFFSRTZreGJ1MQ?oc=5": {
       "title": "NTT系、従業員の対話促すeラーニング提供開始 理解深めて成果向上 - 日本経済新聞",
       "company": "NTT",
@@ -2225,7 +2207,79 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-09-01T00:19:49.653926+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iLWNiRl8tV2ZKWGlFTFA2RFRoTlZzcXlURHpxQlZsb3NSUTR1TmNXbWNBMEpxazJxY2lJcVAxMGlLeTNCTkNOX1M4bDdxeUw1SlNXUWNmdk9NdTQ2UGNYbzA5a3NtV0lHZHQ5Nw?oc=5": {
+      "title": "ローソンに広告配信 KDDI・三菱商事が新会社 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW0wZ080bmlMWjJpMVRxRmNLcDA3cUhTSlFLXzlEZ29mOVMtMHQ5TG5vZC1ncWdudjM2MWx1Tnp4eDlJaDFrVXBXbkJqeDN5ZlBFc0owbld3TXkzeFlLejRKdjNWNV9FOGd1XzNRYWI1MmU2TUVGcDc4d0NsUFVVZnlfcE5XVGk4MUU2bnlTQi1WU01yWmxkZ1NYUFJtWG5CY2tWZTgwVVBLc3RDMnBRMnpuYWEwU3RwaEFjY2I2aE1Dam94c0xSUTBPRXA?oc=5": {
+      "title": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年9月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rRVBRblM0Y0ZIQzBGWW1MN2RsVGdIVS1uT1dSZFo4aFNFZnY3d0FzOVlFSG11YnBwWDltdE9nVURjakJEaWNlQW1Dd2pKenJLbWJOMzl0eHJzVmNCMUdTUnZVU0hJcHFXdkxv?oc=5": {
+      "title": "NTTデータ バリュー・エンジニア、アイテックとAI時代の新リテラシー「データマネジメント」人材育成事業で協業を開始 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYUtNUmUtSmlPWFRsdDEyd085SXBHY1d3UURONFFoYWVzd203cXNxYV9KTnM2cGZjSXNlYmxxblFscGl6WXF5UUJCUVNDdFZabVFrdUNwLTFtYndTaDdYamFzMGNubC1CZ3c?oc=5": {
+      "title": "三機工業[1961]：自己株式の取得状況に関するお知らせ 2026年9月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三機工業",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lNlF0YnVQUHpOcnVIWFlHNzY5OGZnUDhIdU4xakdWMmlaZl9SbXhnbWstWmRCRDZuR0MtT0VGZEdWUlpsellTTi1tZlhUU0oyWUR4aXA5N3NlNjNZajZVVndRRXYtd3U0S1drbA?oc=5": {
+      "title": "アサヒグループホールディングス[2502]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE85OGlDLWM5OVZ4bS1oOWtQbzBRYUliRzZnc1RLWVZIX2IwOE8wM3BIMnFDR2VPQUxtZlo5QWdmYmloSW9FTjBkMHVOMlRLQVAzTndtQ2REZUU0dU1zYlY2dUJBc1B4bzRlbWc?oc=5": {
+      "title": "デジタルプラス[3691]：資金移動業対応デジタルウォレット、楽天ペイ残高（楽天キャッシュ）と連携 2026年9月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ycC10c0xqYUhxaHFxa2ZQNlhMWE5PUDFiX1JzTG5QQ1JDd1c3cXh6Q1B2U3NXX3hETVppRVlMdnpyQUMyd3h6SWtyeTFQSFdMLVBiMFZFZ2JiamtJb3hTTXRNdVR3WEtXZ3FZ?oc=5": {
+      "title": "「楽天ペイ」「楽天ポイントカード」、愛媛県松山市を中心に展開するスーパーマーケット「セブンスター」の全店舗で利用可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE82MFVoc1Zxdjc4NF93YkhqSVpuREg4NGdhc1FrakNMRVZYUGpLS2FyLVJkRDVEWmItQmJ2RFNPT2FFa0t5X0VXWWpuTnRESlBnLWpRaXF4QjF4UzV4N2czSk5vT2tVQTBTcGpn?oc=5": {
+      "title": "大規模イオントラップ量子コンピュータに向けた省配線・低温電圧制御技術を実証 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rdk1HS09zSXpKZkljMERXUjdwV2xCSlFSTkZjOGpram5sZTBLY25RcDdBZ2gtSlNBWUdIYVdaRGlkNVpEbFE1bFBWQUdVNXJSWWxPcmxobHd2YnJTQ3FpYmZaSG9zaWJGNmhnRA?oc=5": {
+      "title": "西武HD、環境配慮木材の利用へ農水省と協定 軽井沢プリンスも - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ0o3RzNpRjlvcmR2RmlZeXQ3Y1IwVzhyYkFMclB0MzJ6NzRWNHhKaVRHZHljRTd3eXhLbFNiNXRNR25hc3c0TkpnSWI3Nmpzd1dUM2xQZlJhVlBfalFoMHJWX3N5emg2RUE?oc=5": {
+      "title": "四国電力[9507]：自己株式の取得状況に関するお知らせ（会社法第１６５条第２項の規定による定款の定めに基づく自己株式の取得） 2026年9月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EaXFxbWQzQ0JjUzhCTmlqSDZQcXhGeUlSa1dQSmZLNWp3YzFXRlB2eGhKTEVwLUZ6RFNtSktuR1JfWnpKZ3l3emRkOHZLNHMtdkRaSVBOZ0RPR1lmaGU0ZnRtellQWEdOaFN3?oc=5": {
+      "title": "【9月8日開催・残席わずか】ライオン・みずほ・三井住友銀行・東急・コクヨのキーマンが集結。「AI×内製開発」の最前線に迫る希少カンファレンスがいよいよ来週開催 - 時事ドットコム",
+      "company": "三井住友銀行",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aWEtSZENCOWtuS1RTZWVGcTlXU3hXcFRWdmFqdzNDcnd2N1Q1LXZndkVqOGJMOEtUUWRqVzFUa2swdUhzempLVlJyN3Jpb3NWY2tsZ0tOcW9SVkh6RUtoWnVNTGk0STM5amtz?oc=5": {
+      "title": "三井不動産レジデンシャルにてダイナミックマッププラットフォームの3Dmapspocket(R)が採用 用地取得前の眺望確認・事業検討を3D空間データで支援 - 時事ドットコム",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T03:34:25.906625+00:00"
     }
   },
-  "last_updated": "2026-09-01T00:19:49.654388+00:00"
+  "last_updated": "2026-09-01T03:34:25.907229+00:00"
 }

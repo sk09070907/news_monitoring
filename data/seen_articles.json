@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wa1VNNzUyVko1SU92UmU0UDRtanJBd0xOUkw4ZWQ2blUxTllDTGxOY05QTlZDV3A1dkY2RDVQM3o5SGktOF81dUZQbTRyTU1FbjIzem56ZXVZektCMHY5WmpycnpQcXg0ckxhMw?oc=5": {
-      "title": "三井物産の堀社長「資源や情報、希少性あるものをプロとして管理」 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTFJWa09TODVkRXJzdmtBbWNhRXRNRGMxVnRVTVhMSl9QTEpaclFKekFWN1k4OVFhYlFMY2JlZDJXX3Q0WGpvTnlJS3hNLUhjRWhMMC1ZWW90V3lvdWhBeTVVZGJxSTVkcmozeg?oc=5": {
-      "title": "魚種日本一の長崎、刺し身のサブスク 伊藤忠や漁連が全国展開めざす - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uNHl2ZXNHWGVqQTRyOTIyODBOVHJHQm9jcGF2Y1Fmbzd2a1pidks2T0hBNk9Bc18taEJpeUpjd2lVRXlOY2ZQY3hQcDlLb3VwWENCemdjbGQ2UkpMN29zOGxUR2d3dC10SVNpNw?oc=5": {
-      "title": "バイオ燃料エコグリーン、国内ファンドが買収 ENEOS系から100億円超 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqVHo2VFZvS0xwQUpBZlk0ODlqRE5MWjlYaGZybWR6UTdsQ0NzcUFOeG1pZkowWlhNTVd1RGhEcEZ1enVCQ093UG52VHFVRkNBdzktclZZbHpmZzhoWXNndXJ6UTN3czVxdklFQQ?oc=5": {
-      "title": "ミツウロコ系、さいたま市で営農型太陽光発電 パネル下でマイタケ - 日本経済新聞",
-      "company": "ミツウロコグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZlJINWdnUzJuRVhrOUowOERyM1dnLVBRUEJlLTJ4OUVQOGNOVXY3Y2hhYmgtN2JCRjQ2QkRITW1mZ3YwSXBoUjhDMzVaOEJVVUJEMFFQNUgzcExsbXhEbmQxVHN2WEtTcnB5Rg?oc=5": {
-      "title": "トヨタ、全方位ロボット開発で狙う車の次 「世界に打って出る」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZ3I1VTlNTjFwOWdvbXZzei1VMHNJNWliQlJKbGg3ci0wcVdDd2llU1RubHFaVjBmcEkzYzFPSmxnUGxwa2xCT2lTRjl1Vlhma0VYeHdLNndCTDF1VGNNcTZfNDNJTWltUFozdg?oc=5": {
-      "title": "トヨタ系KINTO社長「鑑定書付き中古車を販売」 サブスク返却車使う - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CYVM5TFVfTTdiakVYNGNGUzVVcXBlYm9ha2Q5b1lnU0Rad1F0Wkw4MXk0eWZCUkNQMm5GdFpCNDV5VGgxdHdWVzlRbkFKNVFsN0dhZGpmblhSMDg3ZGhseVptY0xJakNXeXdv?oc=5": {
-      "title": "「楽天Edy」、全国の「Airペイ」導入店舗で順次取り扱いを開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETzN0aFk1MjV5aGxJREVWN1ZRdXU3c3JlOUxsNC1GdWhrV2VvbE9XZEljbHR4MVNRbDdWamxfb3NjMGdhMlQ0QnI2ZUF3MGQ4TzVMcmp3dzUyNmxKbzRPZjJTN0FtdnBMYUNB?oc=5": {
-      "title": "徳島県つるぎ町の魅力をふるさと納税で全国へ！ 半田そうめんなど、楽天ふるさと納税・ふるさとチョイスで寄附受付開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMG5Lb3dTWnBXOUxEZ2ZFek9WREszTGJXZFJRQnYwUk5FZVl6QkI0enZWbXJuM0s5b0phV1N0cGxpYnVudkt2Q1kwbGtGTFI3SkNObk41MHFRV21MUkw3RzBrN1NaOElhbXdDVA?oc=5": {
-      "title": "中国の重イオン加速器「HIAF」が試験運転 宇宙機・医療・材料研究に活用へ - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWNYY21BR2NHRVFIRGpDcUZTMVlzdXBLVHcwNElHbFYxMnYtaW9iUVNMQ2NuOWl5TGk3VHB5ZGdIOG9ZZktTNkVZVUVVU2d1VXBKbU9sdWNrYkhtcWFMejBMRFBnUHdZUmFFSA?oc=5": {
-      "title": "熊本イオン爆発、経産省が調査委 来月に初会合 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YS1ppbWhadk10S012UHNpbWpXaGJpVHdiUWxKUHo0d3NZeGczT0xySGNQMnVSZUJkTC1ZNmVDb2dhWmhqX3o0Wmc5Y2dWZzg1NmxIdW5hb053Z25WSDdmZnVUcFpvbjd1dklPbQ?oc=5": {
-      "title": "熊本地震1カ月 災害列島の死角(中)防災シナリオ、揺らぐ前提 イオン爆発や南九州道分断… - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uT0R5TVlyZWJtSU8yX1J4SU1OZ1BLVVFjNTBHT2hQMmpyQzRkOHEwa05tZU5kdXk5WVFsUEo3NHFIa3RsUHZSSVRPcFZxNGNmdDhFYnNqcVRqWnBjZHNpX1NyRXRvZzlteVNLQzVB?oc=5": {
-      "title": "【リモート可】労務担当者～JR西日本G～ - 日経転職版",
-      "company": "西日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SclRLSXFFT08xaXNhN2YyX1JHbGFMVEJTUGdqZVROeDB1UE1CdVZsaXZnMVZRa1FIV0ZuVjgxV2hMZndjbTctNE5CWkREMlFGV1Fxc29aZFNNOW15N3l2WnJTaDV5R3NKQUd6Wg?oc=5": {
-      "title": "東電やJR東、人材育成で連携 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZHgtbnNHUlFoQmNWeHRuemJSVGYtTGxqRW81LVN3OERTelBvbFJlOFNpXzdmMVVHVkVfS2l6YlBRUXpZXzB0TEdfcnh4NnV4RkZvSk9VaUIweGFhTC03Rkl2YVllV3lwck5iWQ?oc=5": {
-      "title": "日本株ADR25日、買い優勢 みずほFGや野村が上昇 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVUx0XzFwTmtISUlzeHZBajVqRHJWeFcxSTc4ajA0SVR1amRBYWNhTVRZRWtoQXNfWjl4OVNnMzdoRE1qcnZGZXQ1UXFnT0llVVN3SDAyREJQeHJXajAzbnBMS0RUYXZfSzV0MQ?oc=5": {
-      "title": "オリエントコーポレーション、増収増益 - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T21:22:40.803366+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hUW1CSEQxempMbUZpUVNMSDNmUEI1TkZyOWV4a2ZKMTJZOEpqX0dwNXpYRGF3RzVpX1hmR2xVbWk5Wm0tTkcyNHJxb19mdEduLXlpcFFVN2N1SDBvRXdCbXJ0VDg3elVwTUE?oc=5": {
       "title": "揚羽[9330]：揚羽、〈NTTデータグループ〉の「仕事と介護の両立支援プロジェクト」を伴走支援 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "NTT",
@@ -2369,7 +2279,55 @@
       "company": "野村不動産ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmdkTUVlZWFaUnZsclF2VE5KX1Fjdm9nTS1NeXR6N2pUdzlVY29tRXlxVndFblhQNVlzWUcwMmpUVXBKZmdUMjJIbExLYVdFSzg1aHgwaHY1Z2lzeGJWQVp1STVuM0hlRFZDd0l0U3VJOVV0TElOQ1lhMGZYM3ItMWxEOWZRRkg1UTNsVw?oc=5": {
+      "title": "コンサルになる伊藤忠 電通系出資でアクセンチュア対抗 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQVh4WXBPZGdWM2JIcjRwNnJhSHZ2YzZYQnczTDNkaVFBa04tU0Z4aTMzVk5rUG15b2IyaHVuWm9BMWp4U09rT1F0cWt3LVlPYkNXTzFwMW91MlRvMVJoTWZieDF2YUxzd0xvVA?oc=5": {
+      "title": "空港インフラの異常検知、AIで効率2倍に 住商と成田・関空など - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0NzNyYVhMdEg1a1VQcHZIVWs5OVl3YUd3X1kzVTNOVHFJMzB1dEF6Y0hLQU1RTDM5TDlmdC1FTVVZbGoxdHhXa2cxV2Vvbm85SWItcVdmNGNudUhNNjN1YmpvV1kyMGNDRWpn?oc=5": {
+      "title": "【NTTドコモグループ新規事業創出プログラム「docomo STARTUP」からスタートアップが誕生】AIを活用しリベート予算の最適化をめざす「RebateX」をスピンアウト - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUW9RYWZabjh6SURHb3hpd3lZY2pvQlRiWVZFc25uZ0JZVkVoZTBKbnFzS1JXMEdZdm9XTjFldk5UVHBBZm1Wbzc4bWtVbEpucHZWOTQzRGozRVZXMWJvM0R2VEVPdw?oc=5": {
+      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日 - 日経クロストレンド",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmg0bWI2eGNzc1VwaUZNVmM2U2tkbi1uT3IzNWdTTnFkYXlONlNHRzRiWFF2cGQxLTNnU0lFQVRRaE1IVnFjd1IycWVpMVRqM2NRY29qN05ZSDR1R3BjbHhBN21nQXI3QmtYQU1xcjBlRHdZSGxuSGt6VEI4QllNMFl1YmJOLU15MFRNS09kUlUxRGhBNnVoMThEenE1QUFC?oc=5": {
+      "title": "トヨタ一強は崩れるか 米の大型HV、30年まで投入競争 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jNWFVTi1ITEtnRzlCUVhIc0dfVG1KamZZUVBnLVcyMDJ0dzdNR2Zfc2QxYU1LOTVkZFZSek1qQlhBU3lQd0Vrb0hjRGUwalMwQTA2eHNvbnI0c3NFenkwYzZ1UmRlN0NfZFFLVUhRMEpzZjRMQ250ZmoyRnVMZVE?oc=5": {
+      "title": "トヨタ･中嶋副社長､開発速度の原動力は｢圧倒的な失敗数｣ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fb3FVT0Fvb3FJQTc5M3ViSmg0bzRpQ3F4Q1RyX1pmN0dKVXJjVUhBTGJVaVRNZGh2Mzh5Q1FtSm5UY1ljRVFoSjhXeHItTHYtemF1dkdFVGhEcGV2dmw5eXhSeEVSLUg3Y2VuZw?oc=5": {
+      "title": "MUFG、電光石火のミュトス対応 サカナAIと｢48人の精鋭｣でAI活用 - 日本経済新聞",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tUEotWnhKdURfV2U3dW1laFpSeDhlNldTWXh5M3FZa3ZmaWR4b3RnUnNjT3c5OGJkZlVIY1ZNLTI3aVhQUmd5dUVrM2I1UFVSaFZMNENjUGtWT0p6QUpGandkdUFfQ2Jfb2duYw?oc=5": {
+      "title": "日本政策投資銀行社長の牧裕文氏（57）投資シフト支えた理論家 - 日本経済新聞",
+      "company": "日本政策投資銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T22:57:01.329414+00:00"
     }
   },
-  "last_updated": "2026-09-01T16:04:08.657741+00:00"
+  "last_updated": "2026-09-01T22:57:01.329945+00:00"
 }

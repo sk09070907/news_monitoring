@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUE5mR3pPTVlYaEx1dFliVlJ3b2lUSkp5TnJHMkxHXy1rajNuRTF2c2hCUmZEZ0xSWmRFTlZlV2pfNmFkNkU0NFBBYXpJR1NYSTJJZUhaZGNxcnBWcFVuVG0wVUlQZ2xuR0JhbA?oc=5": {
-      "title": "日本製紙[3863]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ibzJ0WE1HbnFpRzhoemNIRWtOZGYtSUJDUnVVUEVCb09yV2YzOUxybXNmUUxYVEIzeDAwdzZZbzd0UTNUeXlDZm1RaDlwTHVzb2hlUEtweElFWmhQUC1oSDR6ZmRwWTNldVFF?oc=5": {
-      "title": "JFEホールディングス・JFEスチール・日本GLP・川崎市、高度物流拠点の形成に向けた連携協定を締結 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EYnZhZk82Tmh4eTJGMFFfNExCTkp1RWhjT2VjTS03QXZXWnZnc0FmMF9feERvcEdXRWFiSEpQdElrRmJERjdRSDJZRGFvZTZsWkQ4ZDZIbUFReUFXV3JGd25NX2JpZ3dQclFIMg?oc=5": {
-      "title": "【川崎本社】東芝＠家電メーカー／法務部：知的財産業務（特許の発掘・出願・権利化） - 日経転職版",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORVlXZ3lQVkJoRzEycTluLU5jbHY2NkJ3eHhUcG9lZjBpTnVDRXBSVGU2dmdyd01PNlMtX2tubmxHQzBLT2RfdUlSQWZnVHRFS0FmeENrdHF2TWk4MmdqZWxacUFMb1dzTjNGZA?oc=5": {
-      "title": "楽天グループ、低価格ECサイト「楽天ラクヨコ」を新設 若年層念頭に - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qLW5kMjlrUnpKMkVoaUVjLXVJQ3hoenpYOHVNMHJrX3BsaHA3am04OEpiV3duUy15bGxGMnNZU1FVT2xsZ2pEZXNXUTJmYTl2bHgwNVZkWEZsYnM3QUduWjFQaWxsTTRzUmRr?oc=5": {
-      "title": "楽天、プチプラアイテムを集めた新オンラインストア「楽天ラクヨコ」を開設 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92QS1hV2VwREdpX3FjVHdrZkNhWG9uVTh6Nk1KSS11R0x4ZXVGVTZfNDRiQlg4RnNMUG9ieUhnbDdobDFpa0l6ZU4xTm1FdkJieFNhcg?oc=5": {
-      "title": "◎経産省、イオン爆発事故で調査委設置 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-25T12:42:30.776049+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wa1VNNzUyVko1SU92UmU0UDRtanJBd0xOUkw4ZWQ2blUxTllDTGxOY05QTlZDV3A1dkY2RDVQM3o5SGktOF81dUZQbTRyTU1FbjIzem56ZXVZektCMHY5WmpycnpQcXg0ckxhMw?oc=5": {
       "title": "三井物産の堀社長「資源や情報、希少性あるものをプロとして管理」 - 日本経済新聞",
       "company": "三井物産",
@@ -2321,7 +2285,91 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-09-01T11:08:16.485940+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBObGJNeW5hemlSS2MyN2hrNWJOSlRtMXBaZkNEX2ZmcUlsNkR2V3Fsb1NLMXRoWjJIZnAxS2xLQkozTUVZYU9nakNpRnpFOUpsc1c1eC14cElhVVR3NFp0blpNeGJ3ck5Eal9LU1JB?oc=5": {
+      "title": "SDGｓプロジェクト開発【東京】■三菱商事×双日／業界トップクラスの総合鉄鋼商社 - 日経転職版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VTBQa212T1hyUUF1OFBCOTBTTXVpOW9yRjRoY2Nrd2JIZmJaRVhJdUo5eHA1cmtJOF9TbTBfeWRXSUlXN0NQZ2l5dkdHbHZ1M0RXdnRyU2ltdTRJNzFYb1RSMnZNSnhya3llMQ?oc=5": {
+      "title": "三井物産、オランダの人工甘味料会社を連結子会社に 追加出資220億円 - nikkei.com",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qN2pYNi1wWTZxOF9YcWhsVjlCSmpiZTFza0g1MzJsU29pcDJudXBxSU93Ym41R1dFN1lBT1BfYk14eEd3R0w2UmpwaE1ld2x0Unh3YWJReHh2QVE3ZmVMa0ZVZU1TWXotc0pFQ2hB?oc=5": {
+      "title": "与信管理【審査やリスクマネジメント／豊田通商100％子会社食料専門商社／年休125日】 - 日経転職版",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01NVV4YnVpZG9nQlpHdmwzZ0h1SFFBdW14UXRaRm50bG42aXNHSEFfMEY2bGtJQWhnMnhaSDJvbndPOUpJMVQ0U0ozemtqWktNSll1dE1UNlpVNEY0emNXMXZUdGxSYXI4cFQw?oc=5": {
+      "title": "NTTデータバリュー・エンジニアとアイテック、AI時代の新リテラシー「データマネジメント」人材育成事業での協業を開始！ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm1XUnRPUUVuUXNKazFhTVRwdV84bk5OY1R1NUIySW5nYnRSazdnTHVXYU5QMWVQT2J4a1QxM1Q0d2NVWGstRUJGM2V4ajB2VG95SmpxNHU2Wml3UHZ0TFU2aFRqZEVJSFpiRHo2SHdaUW51YlhPWmJXeDFnaDI3dEpFRnhHZE5KWkZJ?oc=5": {
+      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日 - 日経クロストレンド",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bUNMbGV3WjBGYzAwLWNJa2o4MHE5MXZEbFFQX1daZ203N2lWQzg3RTNQc2dwTEp5OXBFY1BOTXBrWTVXbW10ak1SSUEzWjhpejM0WU53OGVnaWhFT1JqOEM5aXV4OWVXWnQ3Ng?oc=5": {
+      "title": "トヨタ、レクサス「NX」の新型を26年末から販売 加速性能向上 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NlJhM2ZFdUtkeXlkam5STUN6V040d0tPeWNDUGhVaGZQQ3Y1eEFqOGJ4RE1mQ3d1U0cyVmNTSVpQV1ZPNWZRTUJOcUZUSDZsT3JIdnRGWlZRWkVIMGc?oc=5": {
+      "title": "組合員との対話が軸＝トヨタ労組が定期大会 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnpEQk5IeGZBWjNvWnBNSVVVaTZFNnl0dWV0VXlweWxXMEtibEFaSExrb3BmY0haVkRMUUhSQ2FlaDdEWjVrN0gxS1hKNnhBQ1l5Qk1TMHd4TDdsbC1KcDc5ekNTbHhZTURFNGxhWnI0ZGtUdHRFZkF0bkpaZTBubA?oc=5": {
+      "title": "組合員との対話が軸 トヨタ労組が定期大会 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SdGFzT0Zxelc4YjNyQW9OWEtNRGRUc0ZIaEEwTGtodk0zT1VwTnUxOERxbmg3Z3B2dUdoeUNVVlhwbVpBTFotcnQ0RUQycGVkV2gzcg?oc=5": {
+      "title": "◎トヨタ労組、組合員との対話が軸 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRm9IRWFfS3Vad2tXVGZzWFJhcDZ6MU1IeTdsZEEtRWpCak9PYkxuajdnWnoxZU9qa2tGNC15TWhjN0xtY1ZyS0dTWWhiTHd1R1NmRlRFRzJKRmdBRmdyV2x1Q0tMRS1kZllmcA?oc=5": {
+      "title": "楽天G、低価格ECサイト 「ラクヨコ」若年層照準 - nikkei.com",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWlpyTnBjcXlpSS1VQzVDQjluRDB2UnI3RGdHZjd4dXdHbEdyR0J5QzM4LXB0dGJZVEp5bk5taTJwaWVJbWRmY2pRVlFXRFpoaXQ3ckplZENlc1hUTFZ6cmtYRUNQb0M0dlY4?oc=5": {
+      "title": "満足度の高い『ふるさと納税サイト』ランキング┃【ANAのふるさと納税】と【楽天ふるさと納税】が同点総合1位／【Amazonふるさと納税】が総合ランキングに初登場（オリコン顧客満足度(R)調査） - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcFc0S19henhwNWwyQWVWOTZIeXBxNEJycHdqY3dpSTNzZC1DNTUtdkdiYTI2bnVQSWxTdzhJWjBOUGs1UXdVU1pyeVZDZ0c1b2wyWlFFbmtzWXVuazAybHYtYm5tSEFINTRz?oc=5": {
+      "title": "【楽天市場50％OFF】AMOLED搭載スマートウォッチ「DOOGEE Anywise W1 Lite」が17,900円→8,950円！楽天市場で数量限定セール - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqMVViejBUNVJNQlQ2X1BDYjdDajhselFSRXRqSWhkRU9mSTlqRDM3UThOQzZqZUx4eG5uek5McTFNeUl2d25VRF9XbnpZRnEyTDkzaEZmdmg1OG9MaFE?oc=5": {
+      "title": "◎関電・美浜原発３号機、１２日に運転再開 - 時事通信ニュース",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DckNOUzNRMzh2RGpoRmNIMVpjTkRseXVzaXpnYlp4UVhGV29FUjI2Ukd6Tnk4elhkX2FiOUxadVN1T05hYkxESEZnZGo5aGNER2VzNVRyVklmNVllOGVEcGxmMEhOXzcyZVE?oc=5": {
+      "title": "野村不動産ホールディングス[3231]：統合レポート2026 2026年9月2日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "野村不動産ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-01T16:04:08.657237+00:00"
     }
   },
-  "last_updated": "2026-09-01T11:08:16.486502+00:00"
+  "last_updated": "2026-09-01T16:04:08.657741+00:00"
 }

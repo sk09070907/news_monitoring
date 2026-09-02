@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hUW1CSEQxempMbUZpUVNMSDNmUEI1TkZyOWV4a2ZKMTJZOEpqX0dwNXpYRGF3RzVpX1hmR2xVbWk5Wm0tTkcyNHJxb19mdEduLXlpcFFVN2N1SDBvRXdCbXJ0VDg3elVwTUE?oc=5": {
-      "title": "揚羽[9330]：揚羽、〈NTTデータグループ〉の「仕事と介護の両立支援プロジェクト」を伴走支援 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-26T01:09:42.434298+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDZxU2tzdnJHLWh4V3JBbE1DajRZX1lzM29PTzlfQTBjQUlBZlhSbHAyNFZ5cW04ckZpU1U5OFJDNEt3Z2NnczJnc1Bkb1VzTm14RjBETUxkTUxrLXRMMzNuZDZ4LWpWMTUyVno1cFBnVTV1eWpybWp5Zy1qQ0tXMnBfMEdXNVJhV3NRSjdUVFNIWGE0OTNjbnBGNEs?oc=5": {
-      "title": "ENEOSなど6社、船舶でのCO2回収・貯留に向け調査 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-26T01:09:42.434298+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvejhyd1gxODVPR21WaWZBankxOHRZOVpTdUItWndmdDMtbmZaaG1PY1RPdUJmWWp6RmJRM1ZfbWx6MHVEdnNXUk5kMWVCcFo2V0pRaDltZS03czJUWXhFMzA4VjlGSTBOQ3JwVw?oc=5": {
-      "title": "関西電力、大阪府箕面市にデータセンター新設 29年にも完成 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-26T01:09:42.434298+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGWWE0TDJ1aTVFaDhuN3BOVHFYZGxSRzRjbnB6c3NmV201eW1EUU9Td2MzX2VQMGJoaG5SZnU5OF85ZXB1UTZzZHdQVEYzUFFiaFg0VDBYNXdjZWtzbTVrQ2EwbVFhNkJUNndSQQ?oc=5": {
-      "title": "北電、環境債200億円 来月上旬発行 送配電網を強化 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-26T01:09:42.434298+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjQ1Zm15LVB3ZnJvWkoxVnIxSVRzUFR6Z3V2ZnFubEloMkxRWk96NEpuT1VtMUIxcWkwMEdfNjJ6b3FvaFlaaGxucHdkT2stYU9nSDRfQlZYRGlRN1ppT19BaDAwazdnRG1JTGdBSXBPV3FuaU1UM2hfSUJVUXpDdC11ZWNoZm52VWpmWDFQNVBlMjJiY1FodUw1bWRrU2I0Njc1RVllM2RvUEpkazNQdXp0QUxMVF9oZXN2Vk15NzhWbUhNT2k0cXExNVI?oc=5": {
-      "title": "大和証券グループ本社[8601]：大和企業投資とMain Sequence Ventures、日豪ディープテック・グロースファンド「Sakura Fund」の組成に向けた協業を開始 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-26T01:09:42.434298+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fOUM5M0xSWTVndlFzWlY5aUhvQ29KckNzclJxOHdIbFA3MDZ4bm52clNqWHN0bXV3cWVBWDU0bWdyU2V0WUh2MUhDZGxaVVdob0hseDg1cGJVcnNMWjhBQUEydFEyZ3g1cEs4Nw?oc=5": {
       "title": "洋上風力でJFEエンジが部品初製造 三菱商事撤退1年、国産65%へ始動 - 日本経済新聞",
       "company": "三菱商事",
@@ -2327,7 +2297,61 @@
       "company": "日本政策投資銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-09-01T22:57:01.329414+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0g3TkVQSjBDeWpHQ3hFOGxnX1BYcWMwWHg2cEg1MHk3OFpHU1pGWkZOdXpuWVo2RTFfS2xTeF9YSzRKeUVFSnBNNkxqUDdMVC0wSlBqeXZlbXo2NWFLTVY4UXI0TWZ3em9iZ0tCZ3F2QlVqbWtnVGVrNm1oRGdhU0RabHhUTFpuUEEwRGU5SDRYSnU5NHQ3bUVEZ1lUQlhZdlZxQUw2b0xWTWMyMXQ5VVpKX2RUbUh6cmpWQ01VTGxGQk4wY1hUTlRTbGg?oc=5": {
+      "title": "大和証券グループ本社[8601]：不動産セキュリティ・トークン「三井物産グループのデジタル証券 ～品川・オフィス＆ホテル～（譲渡制限付）」の引受 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVGFzaGdySkFsVC1XM1pkczZCNEtQMWhCVTJibEhMOWt6YXRRVnFMNXNJeTJiU0tlMzJNMjJJenpnUnY2ZVdSbWs3ZllFRnJaMkIwOUxvSmt4cENnelZDU1JsNnZWMkxjcHc?oc=5": {
+      "title": "伊藤忠商事[8001]：自己株式の公開買付けの結果並びに市場買付の開始に関するお知らせ 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2NFdxU195YXJZR2hmY2VxYjBDWWJXZnBFUnoxYXF4Y1ptOGIxUUp6NGw0MVg4R3RaWDg3a3p3WFVEOTRkM2k0QWdmWm0ycHloWVZLeFI5RWhsSFhIVm1ZellpeEo0Y2R6VG1zZHBYMGh5MFl3OU1aeVAxaEFJeEE?oc=5": {
+      "title": "トヨタ一強は崩れるか 米の大型HV、30年まで投入競争 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92eXdoYVJKNndxbm9iZXRPTWk3SGlLYjRBSlQtX2c1eXhhZVJ2bEJCal9tZjNnTV9WdnhxU21iZzY3UFBjWDg2eWthSjV0VW5vY081TkxOc0VIQ29HZHpDSk1mYldTRmJoNW5qUQ?oc=5": {
+      "title": "トヨタ、米国初生産のEV「ハイランダー」発売延期 27年以降に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWTJsemtZVHUwaHRRVnlRQTJUQ3RqaDVUOWJiZmswbFNZUnMwaHVjcjVhYjFJdkt0LXBLRWg0ZGNUQUpuTGZwaVBuX0Z3YU1LMEFBc04ydmNBUG44emx6Zlc3a29GUWpOVlBB?oc=5": {
+      "title": "【10722%達成】\"まるで水風呂！？\"の水冷シートクーラーSPEEDER『瞬冷』が楽天・Yahoo!でついに一般販売開始！ペルチェ式冷水循環シート(SP-WC1) - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95MHNmZTg4RTNyLXMxU2hzNUVEdHNJSUx1U0FhNEFMaV9kU3VmaHdKczQ3czFDaURYVnJfSG5rZU1aZ1ZJY0xXTk1USUg2LS1Cbm9PS2N2TFpPcHhKTXhOT3BnNlplX3hSaVNz?oc=5": {
+      "title": "【最大約39％OFF】Lexar人気ストレージが「楽天スーパーSALE」に登場！CFexpress・SDカード・4TB SSDを期間限定特別価格で販売 - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMEt2SGJ3OG9RUk93aUNmRHNuUlpFTUxxcnhzTFRVMUtOSzFoMEZWM3VRczViYk80VU03SGFycGJJczZQeElkV0hTLXNYMk1uR0RNekw3NXFQYm5Vd2hIZnRDQ3hqU3FSWDM0?oc=5": {
+      "title": "メトローム、分析ラボの自動化を加速する次世代イオンクロマトグラフィーシステム「OMNIS IC」を2026年9月1日に販売スタート！ - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzSUV1d1A2clJKOExvWld6WXl5YzZVT1V6cU5XRUZpYXdheWlGeDFPekVpU1RVY1g3cEUzemJOeDlGSEpGM0JaZ0h0eGVkWHNuQThlMHBtWG1FbVhnU3JKRmRkQXg2SDBFRG9V?oc=5": {
+      "title": "サン宝石フェアがイオンタウン吉川美南に登場！9月3日から4日間限定開催 - jiji.com",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV05ETkJZbW9HYlppdnpVMkk3SU16RFRCQ21fRUJ2cGpKbm9vV3JPNFRZVmJzX283VGw0bWdBbWpTWWt4eXhoTUFISS11MGdZYTl4dHl2U3dEalFORU5LcV95djRtOHNlWV9r?oc=5": {
+      "title": "アジラ、ザイマックスグループが運営管理する複数施設に「AI Security asilla」「asilla BIZ」を導入 - jiji.com",
+      "company": "ザイマックスグループ",
+      "source": "時事通信",
+      "seen_at": "2026-09-02T02:52:24.913715+00:00"
     }
   },
-  "last_updated": "2026-09-01T22:57:01.329945+00:00"
+  "last_updated": "2026-09-02T02:52:24.914308+00:00"
 }

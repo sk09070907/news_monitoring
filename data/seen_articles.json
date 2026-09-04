@@ -1,131 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbExYeV9YaE4zTDlmcmdhNzRFbWJJcFFRTkVTd0J3R29PMktsbV9rUzV2VldreU9HMWxrcTliY0gzcTA2eGF1bDNqdGk3QTU1MU1Kc2p5YnNtTWdGNHZhUVQzblhpVmJUSUFwMw?oc=5": {
-      "title": "トヨタ、先端EVを中国で先行生産 最大市場に軸足 まずレクサスSUV - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95MGpWUDZXZ1VfS2U4RGVyR2pYUHFzSmtYNWNIb2F2X2ExSGF0NENUSHFzSFFldlo1V21lcVZSWFJfNWpNeG1Pa09wZ2dFaGJleUdBeDEyQ3F0WUtDU1ZxZll5RTFrNTAxa193?oc=5": {
-      "title": "【開催報告】元楽天副社長 平井康文氏が登壇。織を共鳴させる企業文化と「感動」を生む顧客価値の極意 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5": {
-      "title": "爆発７人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震１カ月 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW0zUWxfSUx6c2N2eFZGSDJXSHJjMkJ2RmdrTzNPdXBDQVVBX09wWldKWEtNWERIR0p4WUYwLS1VdkhVSmlpX01DSE1yM01DQnVHRGFFRVZhcnFsTXoxNjhCTGlTTElGMzEzUjVDTlIwdkFEU1JIZUlHODMyWWtBc0xR?oc=5": {
-      "title": "爆発７人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震１カ月 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlBNMTdEaHRmdExJa2t4WXphSEFkTU1nbm1RVG9ia0dmdnBxSVkyLVM4MERhbXpvUWlMaG5NZUlCMVVYYTkyUXFXaHp0ckJVWGpadEUwX3BSXy1hQWU0X2JzZ0ZOMnM1UDJIZjYwUWg4U2JWYUhMZTA0dWFwUFhzZ1Bn?oc=5": {
-      "title": "被災１カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbDhybzVBTEt3czlWaVMyQTVORUVBeXBGRzc2TGRPcU9NS0FyUGJCN1ZteWd0THhjQUVnS1BqbmdIaEFlZ21XekdEbHhqcnI4UnMtbXR2QmhBRUplcTVYRFZnUVFFbTdqWDF5cEI0elQ2X2xRZE02V0dfc1NPcTRiMw?oc=5": {
-      "title": "爆発７人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震１カ月 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSGlUVWdiU1h0c1B1d0xKUF9DbHkxczlxQnFmSUxNNGF4dDd5VGpKZjc0eEsydmNxYW1xUmtjdG5RZnljRHljNjZWdGN1VW9sWHhqaW1hX3U1MXk0ZGZIYXgzMHVwZmJzRjIxYg?oc=5": {
-      "title": "福井県が見通せぬ核燃料乾式貯蔵の先 関電の搬出先未定で滞留懸念 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVZMWDdGblJFRDgyakhsZFpRUkRVYXlkb3RuTm9XdkhsOFhyRFI5N0VzeElMMFdsZFhGdzVkS0hvMVhhTndMYlJLbkhuWTY0dHQ1VGc3Q09aT04yckw4b0tkR1IwNUcwODJBY2lhc1pQcU9FNGhFdTFnNGYtOE9sNW5R?oc=5": {
-      "title": "乾式貯蔵施設を事前了解 関電初、原発で使用済み燃料保管―石田福井県知事 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haFpDTFFXTG5nNkZuclJpRl9NTFBXRkI1djNMUlo2ZktBY3UyZXhPT0Eya1RELXp3T0V3R25FcXJVSzFuWWRyVWszaDhkN29vbU1RYWE2eFBCVFFaWFFhZVl3RQ?oc=5": {
-      "title": "乾式貯蔵施設を事前了解 関電初、原発で使用済み燃料保管―石田福井県知事 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRmo3RXEyaXpXVnY4cnU0MkItQzlNcjZ5ajV3ODFzWXZwUmVqUE5HSXRuQ2VKLXMyb3BKQlRNcWJscmNtZDB5OWUyYjd3U1E0R2w5c1czaGdxZ1d0OFRMMVJXQ3dpUFkxc280bw?oc=5": {
-      "title": "北海道電力の洋上風力人材育成、経産省の補助金事業に採択 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWFJZcEVGMU1BVTFNdW9VSGFHUHNCRmZaSU8tRFd5NnJYY2huYkl1R0pEcVExS3JIUnVMLUxxMmkyTG9kUTB5MVJDQ0EzaDVrNnp5ZXFTXzh1bENZNmhJZ2FVdDBGMWVCTlJqaw?oc=5": {
-      "title": "北電の人材育成に補助金 洋上風力保守で経産省 - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R3VQVjl4RWtLWklkSmlPNkZ2QXBjWGNmcmc4aG1GX1JDaENKNHlVd3pqZGZYYV9kM2RfdEl5RjBxTnItbWw0NzNWRFRvVUNZTnBjeGpsaVl2QVlJakxyUzZvUTFZTnhqNHhNbQ?oc=5": {
-      "title": "東海第2原発の防潮堤完成2年遅れ 日本原電が見通し発表 - 日本経済新聞",
-      "company": "日本原子力発電",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByUHUwa0R4QXZjSmREVE5wTEs1c00weFlzeHE2eVdnNjZ6Yml5VXVfcVd0X3IwMDZ2LWM2T25Sd0d0LTZxcjVMb3VrYk5JWDM0RUR5S0MyUUhQM3FveTE0Ym1ONA?oc=5": {
-      "title": "安全工事完了、２８年１０月以降に 東海第２原発、延期４度目―日本原電 - 時事ドットコム",
-      "company": "日本原子力発電",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdENBVFZydjkwYkNCSEZOZ3V2RWU3WXE0TGpHWU50cjNGeG94SUpIMUFERi1XRlZMampfVDFRQV9GeWQwQjRRQVJYcFNncmt4dEYzSEhiZGlqM0xNRTl6cFYzdnoxMFM4N1ptbmhURllSbGNaTXpoTTRrY1dNMlhnSA?oc=5": {
-      "title": "安全工事完了、２８年１０月以降に 東海第２原発、延期４度目―日本原電 - 時事ドットコム",
-      "company": "日本原子力発電",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwWlJhbnNCU25TTE9WWTlubkQ4NWxudk02QnJqT29kWS1FRmxjV2RXQTZZZlhXc3ZVUnNEbU0wMTBwYUFnalNHbTVDcjBMRXEwNHpoQktmYTF6SFR0NG5xNEVqUVpvREh3YUhfRW11RQ?oc=5": {
-      "title": "安全工事完了、２８年１０月以降に＝東海第２原発、延期４度目―日本原電 - iJAMPポータル",
-      "company": "日本原子力発電",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tM1luVTQxVHlWaUJqN24wSTZzSF94U2xYQzdyOEQ5aFF1WThHbW5xbHdobTFUMVJrZnpkejRPRmNIZWhxYlpLUjVBaURIYVJIZlBqUA?oc=5": {
-      "title": "安全工事完了、２８年１０月以降に＝東海第２原発、延期４度目―日本原電 - 時事通信ニュース",
-      "company": "日本原子力発電",
-      "source": "時事通信",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE95U0JPZFhoQllWU29KVld3LUxWM1d1bWx2MG1uRDNVVDhKRWdBelJLX1FZS2tvU213bXN0eFR5MmM0eGppOHVOUkVDNXpmZ2RuZUVoMGVpZjN2RmJyWDBtUEhTdlVBeDFZOEp1Ug?oc=5": {
-      "title": "みずほ銀行、シンガポール商品取引業者のラディアントに法的手続き - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYNWw0OGxieDRXckxkV3RYbGR3dHZLWlpjb0ZOZU1qUGVscUp1WklvT2NNN2tKdGllcUYxWGctd2JmcEF2ZVNocWk4YmZRb0lONjMxNjdYUzFOOFJ6Z0dEb3NwR3ZqYV82VWxBWGJR?oc=5": {
-      "title": "情シス代行マネージャー（日本政策投資銀行グループ会社向け／次期管理職候補） - 日経転職版",
-      "company": "日本政策投資銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE85TDRNX3ZNWmRKUDZaSnVKTzJqRFJwLTlSOUFlQ3VlMVExZGFJR2dwUFViWUVIUlVwUktpSFJELWlqV3l0d0JkQ2hEVG9JdS1GMlNuYWxLTE5XczdvTUxjMmtobk5qbjkxQXc?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ 2026年8月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0VhOWNWSHFfQ2dfRW4ydHoxWENQTUI4elhjM3lKY1hLM0thZDFNWUxKX0ZmT3VmeXhUNVA3SUw4MFZZdF9UajB0WFlIT2pLT1hCVlY4SEhwRE9VWWJ4a05NTDdmUDdqS05fREtRa2RzcWotSzh0TXpvLS1oOUpLV1VoYy1LblNJLWh5czh4M05QeGF1ZHRPdV9lNjA?oc=5": {
-      "title": "SBIホールディングスとの資本業務提携契約の締結等 に関する補足説明資料 BASE株式会社 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE15VXFLUnNURGw3d3k4aEQ1cGtnNGNaeGh3OE9VdUZpT3RURndNZEVNczhWUGtJMjBkOVdkM0c0aXBVYjh0LTFCQkRnSzR1aDAyVmRoeXhibk9LV2tBZ2l1TlZrUWdESFZ1T2c?oc=5": {
-      "title": "ＢＡＳＥ[4477]：SBIホールディングスとの資本業務提携契約の締結等に関する補足説明資料 2026年8月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-28T21:43:48.866540+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2QnBGeVdXdUVtOTBBalZHNmd2bzcxUmRzSm1NWW54X1VWR2VjY3B6Z093elVjZlRNbnZ2X2VuS2E1ZkhyZlFQSDJZdlRrZXVSZVVjVklBalJIWE80S0tFVjFyLTZJNS1VVUpLbA?oc=5": {
       "title": "三井住友トラストグループ[8309]：発行登録追補書類（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三井住友トラストグループ",
@@ -2477,7 +2351,25 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-09-04T13:09:48.832697+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tR0FjMTJTS0haQ0hIU2lPTUZySm5aS3dGbGgtUGhLeWdYZl8wUVptTU9xNXFzWWRIRk5fMHA1YmF2MnZsaTd2SGhaMkRIVE5aSFFmN3J6dVJuZTZYbzNGeFp0d1BGNGtFdWhabg?oc=5": {
+      "title": "熊本の日本製紙工場火災、煙突撤去中の柱切断で出火か - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-04T22:44:36.883509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNmZYOGF1c0V5Wm9EbUZldXBjenNtYVlKQkVlSy02ekJiNVlZd1pxVkVScVBabVFuZk40ZUg2VmQ5R0IxU0tUd3FQTW9pYzFCQlQ5TVFSTTBfU1ZzMno4ZDlpa25oaEppN29PbA?oc=5": {
+      "title": "CFO戦略を聞く（3）防衛、海外比率高まる IHI常務執行役員 大嶋裕美氏 次期戦闘機の需要取り込む - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-04T22:44:36.883509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSTh1T0J3M1ZBclFjR1ZPVEdKZmVrSkJZVkFGSE1UcGpZNm9iQnBTeUpMQ1JHZ2UwQWI0dWNTeUJ5RzNXaDN0X0J1MnNRb3B0WDVrQjhHQWdtODRqWjRiQUNMTHBhQi0wS1VlMA?oc=5": {
+      "title": "取締役会トップ、139社が社外取 ホンダやIHIなど過去最多 海外企業先行、米は42% - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-04T22:44:36.883509+00:00"
     }
   },
-  "last_updated": "2026-09-04T13:09:48.833291+00:00"
+  "last_updated": "2026-09-04T22:44:36.884145+00:00"
 }

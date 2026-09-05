@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSHEtZ3lqeEdpUDRXR0kzZkZCcHZNT3RENW5aaS1IRlVFOXd5eFh6R1dsaFhTY21Za1RjcXpDRXl3RU5DZ0xtNXZLQTk5eFdmeE5kT3F3QVJkUHB3bzVpckltT1VZSFZnbFlOMQ?oc=5": {
-      "title": "光通信網の国際設計指針 KDDIやNTTなどが策定 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-29T12:17:11.818062+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnYUhWVFlnejFCVS1Ic3VNNEVDb0ZYeTd1dGtXVWxNNE9YNGdpWWxoNnVtdXREQlcwd01VMGxETXV6TkNsSl9WQ1VkZGh6cU9Za28tYThHSVhJODY4SkJZZVNvNlpTS0hWeDdHbA?oc=5": {
-      "title": "福島第1廃炉にフィジカルAI 国・東電、26年度内にも共同事業体 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-29T12:17:11.818062+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VcnEySlUydmt6UGxWakRvQ0JHYVdJNkR4RGdEUWV2X2hqbE9HVWoxTjR6WkJSeDMtcTZIOTA4UGxuRGlUR3JFSW1qZjlEM1NxZkw0YzdRLTcwbFo0dnY2VXlKWWt4U0xOU2E3VA?oc=5": {
       "title": "トヨタやノリタケが駆ける「製造王国の道」 AIが工場の現場パートナー - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -2407,5 +2395,5 @@
       "seen_at": "2026-09-05T07:27:54.749459+00:00"
     }
   },
-  "last_updated": "2026-09-05T07:27:54.750048+00:00"
+  "last_updated": "2026-09-05T12:22:01.117709+00:00"
 }

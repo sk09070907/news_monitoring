@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2QnBGeVdXdUVtOTBBalZHNmd2bzcxUmRzSm1NWW54X1VWR2VjY3B6Z093elVjZlRNbnZ2X2VuS2E1ZkhyZlFQSDJZdlRrZXVSZVVjVklBalJIWE80S0tFVjFyLTZJNS1VVUpLbA?oc=5": {
-      "title": "三井住友トラストグループ[8309]：発行登録追補書類（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友トラストグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-29T03:01:15.474272+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSHEtZ3lqeEdpUDRXR0kzZkZCcHZNT3RENW5aaS1IRlVFOXd5eFh6R1dsaFhTY21Za1RjcXpDRXl3RU5DZ0xtNXZLQTk5eFdmeE5kT3F3QVJkUHB3bzVpckltT1VZSFZnbFlOMQ?oc=5": {
       "title": "光通信網の国際設計指針 KDDIやNTTなどが策定 - 日本経済新聞",
       "company": "NTT",
@@ -2399,7 +2393,19 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-09-05T02:57:07.268157+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkWHhZTHhidDFhQzVsWXYxNmcyTWV1bUhuNGgzdFRHU0h4Zklxd0E3Q2VSd3I5QzlabnZwbDctY2lJQ204ckYxcldHODdCX2JYTkNOejFRX21FeTN4Tk55Rk1lb0k3YVpxVWQxcA?oc=5": {
+      "title": "リチウムイオン電池の回収実証 JFEエンジ、神奈川県などと連携 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-05T07:27:54.749459+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DZG5ndVU0T2ZIMlk5QXVSZFhjZUVQcXpfOFJMSW9xSXVHUTdFdkdWd2NXUW9sdW5HZ19qS2c4VFpjX3BpOWtCT3c5TTNkVFNrV05ITVBsV0pxUG1aTXpXR1h2SnBTa3JfRVF3?oc=5": {
+      "title": "「イオン福岡東ショッピングセンター」第2弾リニューアル、博多三氣とうどん大文字が9月11日オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-05T07:27:54.749459+00:00"
     }
   },
-  "last_updated": "2026-09-05T02:57:07.268411+00:00"
+  "last_updated": "2026-09-05T07:27:54.750048+00:00"
 }

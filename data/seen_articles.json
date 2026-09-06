@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VcnEySlUydmt6UGxWakRvQ0JHYVdJNkR4RGdEUWV2X2hqbE9HVWoxTjR6WkJSeDMtcTZIOTA4UGxuRGlUR3JFSW1qZjlEM1NxZkw0YzdRLTcwbFo0dnY2VXlKWWt4U0xOU2E3VA?oc=5": {
-      "title": "トヨタやノリタケが駆ける「製造王国の道」 AIが工場の現場パートナー - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-29T22:57:48.050213+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObXpjUTZMeXdfS1VHUUY1MnlwXzdjYWdVMmJfSDM3M1BuR3ZRa0xTOHplcXdiRWI0NVRiYjlNVGhhdVR3N2d4MVByS2dpR1RmUmdnQURjZS00Si1VbGJFTGREUS10Uk1OQzN1WA?oc=5": {
-      "title": "福島第1廃炉にAIロボ 国・東電、年度内にも共同事業体 - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-08-29T22:57:48.050213+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSYXFfM20wODJteU5JRUxXcUstNzNyazh2dTVoSTlsajNZWmFzTGV5MENjWTFrRnNzY1VDeUx3RV9kVjVXaUJwOEE2SlU1dkc2bWpJR1k4TnJqZkZiNDMtUFVjTTBUeWxNaTA4Vw?oc=5": {
       "title": "伊藤忠商事、インドでアンモニア貯蔵・販売 グリーン燃料輸出も視野 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2413,5 +2401,5 @@
       "seen_at": "2026-09-05T22:35:54.360128+00:00"
     }
   },
-  "last_updated": "2026-09-05T22:35:54.360374+00:00"
+  "last_updated": "2026-09-06T02:55:59.920058+00:00"
 }

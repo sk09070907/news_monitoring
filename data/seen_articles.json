@@ -1,137 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBObGJNeW5hemlSS2MyN2hrNWJOSlRtMXBaZkNEX2ZmcUlsNkR2V3Fsb1NLMXRoWjJIZnAxS2xLQkozTUVZYU9nakNpRnpFOUpsc1c1eC14cElhVVR3NFp0blpNeGJ3ck5Eal9LU1JB?oc=5": {
-      "title": "SDGｓプロジェクト開発【東京】■三菱商事×双日／業界トップクラスの総合鉄鋼商社 - 日経転職版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VTBQa212T1hyUUF1OFBCOTBTTXVpOW9yRjRoY2Nrd2JIZmJaRVhJdUo5eHA1cmtJOF9TbTBfeWRXSUlXN0NQZ2l5dkdHbHZ1M0RXdnRyU2ltdTRJNzFYb1RSMnZNSnhya3llMQ?oc=5": {
-      "title": "三井物産、オランダの人工甘味料会社を連結子会社に 追加出資220億円 - nikkei.com",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qN2pYNi1wWTZxOF9YcWhsVjlCSmpiZTFza0g1MzJsU29pcDJudXBxSU93Ym41R1dFN1lBT1BfYk14eEd3R0w2UmpwaE1ld2x0Unh3YWJReHh2QVE3ZmVMa0ZVZU1TWXotc0pFQ2hB?oc=5": {
-      "title": "与信管理【審査やリスクマネジメント／豊田通商100％子会社食料専門商社／年休125日】 - 日経転職版",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01NVV4YnVpZG9nQlpHdmwzZ0h1SFFBdW14UXRaRm50bG42aXNHSEFfMEY2bGtJQWhnMnhaSDJvbndPOUpJMVQ0U0ozemtqWktNSll1dE1UNlpVNEY0emNXMXZUdGxSYXI4cFQw?oc=5": {
-      "title": "NTTデータバリュー・エンジニアとアイテック、AI時代の新リテラシー「データマネジメント」人材育成事業での協業を開始！ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm1XUnRPUUVuUXNKazFhTVRwdV84bk5OY1R1NUIySW5nYnRSazdnTHVXYU5QMWVQT2J4a1QxM1Q0d2NVWGstRUJGM2V4ajB2VG95SmpxNHU2Wml3UHZ0TFU2aFRqZEVJSFpiRHo2SHdaUW51YlhPWmJXeDFnaDI3dEpFRnhHZE5KWkZJ?oc=5": {
-      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日 - 日経クロストレンド",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bUNMbGV3WjBGYzAwLWNJa2o4MHE5MXZEbFFQX1daZ203N2lWQzg3RTNQc2dwTEp5OXBFY1BOTXBrWTVXbW10ak1SSUEzWjhpejM0WU53OGVnaWhFT1JqOEM5aXV4OWVXWnQ3Ng?oc=5": {
-      "title": "トヨタ、レクサス「NX」の新型を26年末から販売 加速性能向上 - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NlJhM2ZFdUtkeXlkam5STUN6V040d0tPeWNDUGhVaGZQQ3Y1eEFqOGJ4RE1mQ3d1U0cyVmNTSVpQV1ZPNWZRTUJOcUZUSDZsT3JIdnRGWlZRWkVIMGc?oc=5": {
-      "title": "組合員との対話が軸＝トヨタ労組が定期大会 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnpEQk5IeGZBWjNvWnBNSVVVaTZFNnl0dWV0VXlweWxXMEtibEFaSExrb3BmY0haVkRMUUhSQ2FlaDdEWjVrN0gxS1hKNnhBQ1l5Qk1TMHd4TDdsbC1KcDc5ekNTbHhZTURFNGxhWnI0ZGtUdHRFZkF0bkpaZTBubA?oc=5": {
-      "title": "組合員との対話が軸 トヨタ労組が定期大会 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SdGFzT0Zxelc4YjNyQW9OWEtNRGRUc0ZIaEEwTGtodk0zT1VwTnUxOERxbmg3Z3B2dUdoeUNVVlhwbVpBTFotcnQ0RUQycGVkV2gzcg?oc=5": {
-      "title": "◎トヨタ労組、組合員との対話が軸 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRm9IRWFfS3Vad2tXVGZzWFJhcDZ6MU1IeTdsZEEtRWpCak9PYkxuajdnWnoxZU9qa2tGNC15TWhjN0xtY1ZyS0dTWWhiTHd1R1NmRlRFRzJKRmdBRmdyV2x1Q0tMRS1kZllmcA?oc=5": {
-      "title": "楽天G、低価格ECサイト 「ラクヨコ」若年層照準 - nikkei.com",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWlpyTnBjcXlpSS1VQzVDQjluRDB2UnI3RGdHZjd4dXdHbEdyR0J5QzM4LXB0dGJZVEp5bk5taTJwaWVJbWRmY2pRVlFXRFpoaXQ3ckplZENlc1hUTFZ6cmtYRUNQb0M0dlY4?oc=5": {
-      "title": "満足度の高い『ふるさと納税サイト』ランキング┃【ANAのふるさと納税】と【楽天ふるさと納税】が同点総合1位／【Amazonふるさと納税】が総合ランキングに初登場（オリコン顧客満足度(R)調査） - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcFc0S19henhwNWwyQWVWOTZIeXBxNEJycHdqY3dpSTNzZC1DNTUtdkdiYTI2bnVQSWxTdzhJWjBOUGs1UXdVU1pyeVZDZ0c1b2wyWlFFbmtzWXVuazAybHYtYm5tSEFINTRz?oc=5": {
-      "title": "【楽天市場50％OFF】AMOLED搭載スマートウォッチ「DOOGEE Anywise W1 Lite」が17,900円→8,950円！楽天市場で数量限定セール - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqMVViejBUNVJNQlQ2X1BDYjdDajhselFSRXRqSWhkRU9mSTlqRDM3UThOQzZqZUx4eG5uek5McTFNeUl2d25VRF9XbnpZRnEyTDkzaEZmdmg1OG9MaFE?oc=5": {
-      "title": "◎関電・美浜原発３号機、１２日に運転再開 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DckNOUzNRMzh2RGpoRmNIMVpjTkRseXVzaXpnYlp4UVhGV29FUjI2Ukd6Tnk4elhkX2FiOUxadVN1T05hYkxESEZnZGo5aGNER2VzNVRyVklmNVllOGVEcGxmMEhOXzcyZVE?oc=5": {
-      "title": "野村不動産ホールディングス[3231]：統合レポート2026 2026年9月2日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
-      "company": "野村不動産ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T16:04:08.657237+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmdkTUVlZWFaUnZsclF2VE5KX1Fjdm9nTS1NeXR6N2pUdzlVY29tRXlxVndFblhQNVlzWUcwMmpUVXBKZmdUMjJIbExLYVdFSzg1aHgwaHY1Z2lzeGJWQVp1STVuM0hlRFZDd0l0U3VJOVV0TElOQ1lhMGZYM3ItMWxEOWZRRkg1UTNsVw?oc=5": {
-      "title": "コンサルになる伊藤忠 電通系出資でアクセンチュア対抗 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQVh4WXBPZGdWM2JIcjRwNnJhSHZ2YzZYQnczTDNkaVFBa04tU0Z4aTMzVk5rUG15b2IyaHVuWm9BMWp4U09rT1F0cWt3LVlPYkNXTzFwMW91MlRvMVJoTWZieDF2YUxzd0xvVA?oc=5": {
-      "title": "空港インフラの異常検知、AIで効率2倍に 住商と成田・関空など - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0NzNyYVhMdEg1a1VQcHZIVWs5OVl3YUd3X1kzVTNOVHFJMzB1dEF6Y0hLQU1RTDM5TDlmdC1FTVVZbGoxdHhXa2cxV2Vvbm85SWItcVdmNGNudUhNNjN1YmpvV1kyMGNDRWpn?oc=5": {
-      "title": "【NTTドコモグループ新規事業創出プログラム「docomo STARTUP」からスタートアップが誕生】AIを活用しリベート予算の最適化をめざす「RebateX」をスピンアウト - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUW9RYWZabjh6SURHb3hpd3lZY2pvQlRiWVZFc25uZ0JZVkVoZTBKbnFzS1JXMEdZdm9XTjFldk5UVHBBZm1Wbzc4bWtVbEpucHZWOTQzRGozRVZXMWJvM0R2VEVPdw?oc=5": {
-      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日 - 日経クロストレンド",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmg0bWI2eGNzc1VwaUZNVmM2U2tkbi1uT3IzNWdTTnFkYXlONlNHRzRiWFF2cGQxLTNnU0lFQVRRaE1IVnFjd1IycWVpMVRqM2NRY29qN05ZSDR1R3BjbHhBN21nQXI3QmtYQU1xcjBlRHdZSGxuSGt6VEI4QllNMFl1YmJOLU15MFRNS09kUlUxRGhBNnVoMThEenE1QUFC?oc=5": {
-      "title": "トヨタ一強は崩れるか 米の大型HV、30年まで投入競争 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jNWFVTi1ITEtnRzlCUVhIc0dfVG1KamZZUVBnLVcyMDJ0dzdNR2Zfc2QxYU1LOTVkZFZSek1qQlhBU3lQd0Vrb0hjRGUwalMwQTA2eHNvbnI0c3NFenkwYzZ1UmRlN0NfZFFLVUhRMEpzZjRMQ250ZmoyRnVMZVE?oc=5": {
-      "title": "トヨタ･中嶋副社長､開発速度の原動力は｢圧倒的な失敗数｣ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fb3FVT0Fvb3FJQTc5M3ViSmg0bzRpQ3F4Q1RyX1pmN0dKVXJjVUhBTGJVaVRNZGh2Mzh5Q1FtSm5UY1ljRVFoSjhXeHItTHYtemF1dkdFVGhEcGV2dmw5eXhSeEVSLUg3Y2VuZw?oc=5": {
-      "title": "MUFG、電光石火のミュトス対応 サカナAIと｢48人の精鋭｣でAI活用 - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tUEotWnhKdURfV2U3dW1laFpSeDhlNldTWXh5M3FZa3ZmaWR4b3RnUnNjT3c5OGJkZlVIY1ZNLTI3aVhQUmd5dUVrM2I1UFVSaFZMNENjUGtWT0p6QUpGandkdUFfQ2Jfb2duYw?oc=5": {
-      "title": "日本政策投資銀行社長の牧裕文氏（57）投資シフト支えた理論家 - 日本経済新聞",
-      "company": "日本政策投資銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-01T22:57:01.329414+00:00"
-    },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0g3TkVQSjBDeWpHQ3hFOGxnX1BYcWMwWHg2cEg1MHk3OFpHU1pGWkZOdXpuWVo2RTFfS2xTeF9YSzRKeUVFSnBNNkxqUDdMVC0wSlBqeXZlbXo2NWFLTVY4UXI0TWZ3em9iZ0tCZ3F2QlVqbWtnVGVrNm1oRGdhU0RabHhUTFpuUEEwRGU5SDRYSnU5NHQ3bUVEZ1lUQlhZdlZxQUw2b0xWTWMyMXQ5VVpKX2RUbUh6cmpWQ01VTGxGQk4wY1hUTlRTbGg?oc=5": {
       "title": "大和証券グループ本社[8601]：不動産セキュリティ・トークン「三井物産グループのデジタル証券 ～品川・オフィス＆ホテル～（譲渡制限付）」の引受 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三井物産",
@@ -2351,7 +2219,55 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-09-08T15:59:20.531486+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XWS1aVlFwWTFZcjZpbjFsX29jWFU3MG1vdG42QVBJb2I3S3g1WEc5VVAyT2IzWEFZanBDcVE3ODdPYzlKRjdRUU1YRXRUdUpjWGpoWXZIY1lBVnM2NVh1c1JNNFl3RXlJenFzQg?oc=5": {
+      "title": "NTT「IOWN」ファンド、スペインの光技術新興に出資 第1号案件 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5bnJUNXBwNWJNeHJKVW9CTHE2VV9DR2N0Sk5IdmZFdGd6YVFwajE4RkJwUUczc040WlpnMllleGsyNndLMTZBak5MbWNxV3dEa1Z2SklQbWNtV1NCNFRxa2FMSVVEN1RRUV9IQw?oc=5": {
+      "title": "三井化学CFO、半導体材料などICT事業「営業利益率20%超え狙う」 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQUtFX0JFc05kXzlzd25Hd0xhSlR5N1gxd2YzZkVqdl9jS0s2YlNCLXVKeHpIaUU5UGRFMHZYOU44U21xRkxEMzYwaWI5T1RidUZ5WDhHekhIVkpEYU5mX3FYeXVWU19jOHFSNA?oc=5": {
+      "title": "自動車株1カ月ぶり安値 トヨタ4%安 円高、各社想定超え - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zeDM1YUxNRHBhVUctUHl2MWRDS0NXTHZIQ2R1NEZzNzcxR0NuWEgyNGl3Z1RfNnBlMUxOOGJJRkVGa002NWJfOGxic1BtbXA1TUM3T2Uzd2dEWEdUZU9WVlp1dktKa1gwYnJVUQ?oc=5": {
+      "title": "安さで徹底的に攻めるH.I.S.Mobile、楽天モバイルの副回線契約にも触手 - 日経クロステック",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDRUbVRzbHUyQVV1aE1wVEp6aXJyNWFxeXNlZE1VNmF6c0E4N0o4ajEtOGNLYlpYT3lzVkFCbHQyMDZLOUVDamg2YlpVekpGdlNFOVpKN3lnZDV6VmNaR1RaV0x2WkpWeFpTNmd1QUQ4dUNHM0lRbWF0dFBGMzBUVXlyMUppOTI3QzBxMmx4ejZaQUU2Z0E?oc=5": {
+      "title": "イオン離れ、Temu台頭で“本物”は絶滅？ マイルドヤンキー新消費 - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwQlpoZ3lrb2pMc0x0NTZkNWZtZFJjREtfOHh0ek1rWVh4d3NSZVFTeHE2Yk9aMjJSZ3FCUVFBRWVXNDk4S0FOMGZVQzlZZncxTF9uV2JOX0hRcGh3Mi1MZE0yLWYtLWs0ZDBv?oc=5": {
+      "title": "九州電力送配電とアストラゼネカ、EV充電サービスの実証を開始 - 時事ドットコム",
+      "company": "九州電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZFhMYU5NMnQxVDZMS1JuYUVqOTFSWXNlN0hhNVFlTVhZZXJxU05PSHZVYXFQXy0yVy1fTGY5SF9MWm5TOG8yOGYwRW9CZV9oMEJNUVFFbzNJOHZFRmxKWDlFSVphOEI0Slhrbw?oc=5": {
+      "title": "オリックス銀行、小松ウオールが脱・富士通UNIX 課題は非互換や性能 - 日経クロステック",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6aFpSMEl4bFNCZGc1cGRDTWJhMkZqbnE5RFdpMWVUWktob3ZJQmRHbGFOUjVqQUdDbkhZYU5adGVSLTZYVzNINnctcGt3TVRJSmZHcA?oc=5": {
+      "title": "◎マウンドに集まるオリックスナイン - 時事通信ニュース",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-09-08T23:07:31.457283+00:00"
     }
   },
-  "last_updated": "2026-09-08T15:59:20.532091+00:00"
+  "last_updated": "2026-09-08T23:07:31.457744+00:00"
 }

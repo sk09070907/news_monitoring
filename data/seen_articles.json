@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0g3TkVQSjBDeWpHQ3hFOGxnX1BYcWMwWHg2cEg1MHk3OFpHU1pGWkZOdXpuWVo2RTFfS2xTeF9YSzRKeUVFSnBNNkxqUDdMVC0wSlBqeXZlbXo2NWFLTVY4UXI0TWZ3em9iZ0tCZ3F2QlVqbWtnVGVrNm1oRGdhU0RabHhUTFpuUEEwRGU5SDRYSnU5NHQ3bUVEZ1lUQlhZdlZxQUw2b0xWTWMyMXQ5VVpKX2RUbUh6cmpWQ01VTGxGQk4wY1hUTlRTbGg?oc=5": {
-      "title": "大和証券グループ本社[8601]：不動産セキュリティ・トークン「三井物産グループのデジタル証券 ～品川・オフィス＆ホテル～（譲渡制限付）」の引受 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVGFzaGdySkFsVC1XM1pkczZCNEtQMWhCVTJibEhMOWt6YXRRVnFMNXNJeTJiU0tlMzJNMjJJenpnUnY2ZVdSbWs3ZllFRnJaMkIwOUxvSmt4cENnelZDU1JsNnZWMkxjcHc?oc=5": {
-      "title": "伊藤忠商事[8001]：自己株式の公開買付けの結果並びに市場買付の開始に関するお知らせ 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2NFdxU195YXJZR2hmY2VxYjBDWWJXZnBFUnoxYXF4Y1ptOGIxUUp6NGw0MVg4R3RaWDg3a3p3WFVEOTRkM2k0QWdmWm0ycHloWVZLeFI5RWhsSFhIVm1ZellpeEo0Y2R6VG1zZHBYMGh5MFl3OU1aeVAxaEFJeEE?oc=5": {
-      "title": "トヨタ一強は崩れるか 米の大型HV、30年まで投入競争 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92eXdoYVJKNndxbm9iZXRPTWk3SGlLYjRBSlQtX2c1eXhhZVJ2bEJCal9tZjNnTV9WdnhxU21iZzY3UFBjWDg2eWthSjV0VW5vY081TkxOc0VIQ29HZHpDSk1mYldTRmJoNW5qUQ?oc=5": {
-      "title": "トヨタ、米国初生産のEV「ハイランダー」発売延期 27年以降に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWTJsemtZVHUwaHRRVnlRQTJUQ3RqaDVUOWJiZmswbFNZUnMwaHVjcjVhYjFJdkt0LXBLRWg0ZGNUQUpuTGZwaVBuX0Z3YU1LMEFBc04ydmNBUG44emx6Zlc3a29GUWpOVlBB?oc=5": {
-      "title": "【10722%達成】\"まるで水風呂！？\"の水冷シートクーラーSPEEDER『瞬冷』が楽天・Yahoo!でついに一般販売開始！ペルチェ式冷水循環シート(SP-WC1) - jiji.com",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95MHNmZTg4RTNyLXMxU2hzNUVEdHNJSUx1U0FhNEFMaV9kU3VmaHdKczQ3czFDaURYVnJfSG5rZU1aZ1ZJY0xXTk1USUg2LS1Cbm9PS2N2TFpPcHhKTXhOT3BnNlplX3hSaVNz?oc=5": {
-      "title": "【最大約39％OFF】Lexar人気ストレージが「楽天スーパーSALE」に登場！CFexpress・SDカード・4TB SSDを期間限定特別価格で販売 - jiji.com",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMEt2SGJ3OG9RUk93aUNmRHNuUlpFTUxxcnhzTFRVMUtOSzFoMEZWM3VRczViYk80VU03SGFycGJJczZQeElkV0hTLXNYMk1uR0RNekw3NXFQYm5Vd2hIZnRDQ3hqU3FSWDM0?oc=5": {
-      "title": "メトローム、分析ラボの自動化を加速する次世代イオンクロマトグラフィーシステム「OMNIS IC」を2026年9月1日に販売スタート！ - jiji.com",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzSUV1d1A2clJKOExvWld6WXl5YzZVT1V6cU5XRUZpYXdheWlGeDFPekVpU1RVY1g3cEUzemJOeDlGSEpGM0JaZ0h0eGVkWHNuQThlMHBtWG1FbVhnU3JKRmRkQXg2SDBFRG9V?oc=5": {
-      "title": "サン宝石フェアがイオンタウン吉川美南に登場！9月3日から4日間限定開催 - jiji.com",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV05ETkJZbW9HYlppdnpVMkk3SU16RFRCQ21fRUJ2cGpKbm9vV3JPNFRZVmJzX283VGw0bWdBbWpTWWt4eXhoTUFISS11MGdZYTl4dHl2U3dEalFORU5LcV95djRtOHNlWV9r?oc=5": {
-      "title": "アジラ、ザイマックスグループが運営管理する複数施設に「AI Security asilla」「asilla BIZ」を導入 - jiji.com",
-      "company": "ザイマックスグループ",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T02:52:24.913715+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZWNON2M4dWhvc2w2LXlnWjhzRU12a1JyaDZYM1pJcWI5cDdCLU9YSGY0LWQxTmRXOXdxWlVyRF81V05XRWRwazRjM185eTRKV1h2SGFhV2ZtOEJ1eEo2VE0yVGszZl9mTVE?oc=5": {
       "title": "大和証券グループ本社[8601]：不動産セキュリティ・トークン「三井物産グループのデジタル証券 ～品川・オフィス＆ホテル～（譲渡制限付）」の引受 2026年9月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三井物産",
@@ -2267,7 +2213,31 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-09-08T23:07:31.457283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jR3pfVUFkbWNraGpTM3BySWlGQUVlTFE5TWlsX3RpUnA4cVRwWktpTmZWOXpaRE96Zi1VdDk2TjRQaXlEOGpveHp1LWdIakh3NXVfVmdFTVktZ2ZQTmJKZHdiTlY3cF90V3R3?oc=5": {
+      "title": "NTT、IOWN AI FundによるiPronicsへの初号出資を起点に次世代AIインフラの実現などを推進 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-09T03:04:48.304418+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yYkVtZ1otM3NNV3hYUDh4OUxFRDJULTlGX2ZYd0N4VHRSdXlBVzFpN29JZXJfVXpWSnN6anBYcGhLZTlEcmxPaWk1NVp1UHNtOF84TEc1UlhMNzR6dEZFMUFFbnh1MkI0NVNUTg?oc=5": {
+      "title": "NTTドコモ、フィリピンで「天気予報連動型リチウムイオン電池制御」技術を活用した実証実験を実施 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-09T03:04:48.304418+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1faEFlUG1hSVV0SmVpM0J0eUlVbU5yUHE3a0F2Tkp6Wm9WeUFEVHZkclB5UlAyczFZYzhsbWxWdXNVc1pSbVFTSXZmOUktY0JvaW84YWNyLXdBd0ZHc0FJanZEb0tkRVhmVllQYg?oc=5": {
+      "title": "JFE(5411)第45回社債発行 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-09T03:04:48.304418+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEamh0SDg3alRMRVQ3bUw2WTRHN3NDX25GV3NVMkxib1Ywcm9GTWk3dXpHRS1MLWVZSkU2TVV1ZVhrbXVIbGdlMFNFZG9DX0NfV3dLY096NXRJS0N0ekdIV3VEY2h0T0gzZWdpTA?oc=5": {
+      "title": "トヨタの株価が小反発 円高一服で買い戻し - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-09T03:04:48.304418+00:00"
     }
   },
-  "last_updated": "2026-09-08T23:07:31.457744+00:00"
+  "last_updated": "2026-09-09T03:04:48.304894+00:00"
 }

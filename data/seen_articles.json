@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb0NZcTNyeURwRHVjOU9sMzAxZy1qS0VQVDJfVDJjYUtWTVhlQ0d5LUZqaDdzMWNzZkQ0cVFESGJtNWc5dVJpT2Q5ZGVISnNYa1FvNzU3M2NxUFV3bnFuYk9VYUw1YXRZME1YMk5n?oc=5": {
-      "title": "経理【東京】■三菱商事×双日／業界トップクラスの総合鉄鋼商社 - 日経転職版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUXBjMl9hOUVUeTNRUUxwWFpzOFFuVHVLSzdvdS1CRGNtNEFmZ1pHbHZnVGFhekZibWZDc1A3M1Zkb215RDVEeFpSUS1LVk5yNHJyQnNsRVduM2FSOUxOV0Zla3V3RkFDN1JRcQ?oc=5": {
-      "title": "伊藤忠、広告分析に出資 TV視聴と購買データ連携 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyU1hqR0oyS1VUazQwQ1B3ZTRYTFYxX2V3Q1dlclRtYWpSNnNHX2tKeVl6R2VsaFBnVFVTSDRJY0w0bzgwdzdZMnltMlRSSEFJRFpZbzdCNUxSVFVYeUR5TlZxZEE5a2tBeXpMVA?oc=5": {
-      "title": "NTT系、フィジカルAI向けクラウド提供 製造・物流ロボ開発支援 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyR2VLZUhpdUowWGxsdjlBZUR0NGRNYVZKeU9OLWJSTXA5b1RvX3NpbndDSlN0Sm9yWU1ucFhOZDFWUlpfZkh2Vkx0LWh5Z0N6SVdJV1p5VDBPWkJWMXFMY1NUMGZNZFpSSnVEOA?oc=5": {
-      "title": "NTTドコモビジネスと千歳市、IOWN・AI活用し産業振興 包括連携 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfN243bU1wak5NQ0I0WGsxaUlqRThBbzFjbTdRZlhWN3IwYmVlb1dmVVVlOU5JUXp6RnhualZDdUpNZ29fWVd5Z1JwdnZtcFc4Nzg5eDR0R0hkbERtektpNUtScw?oc=5": {
-      "title": "NTT Transatel、最新のSamsung Galaxy ZシリーズにおけるeSIMブートストラップ接続ソリューションを提供開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWU0wQjE2XzlxS0hxTVAwNjZaVWJYVmZNNWtDTzdDNVd0U2JiWXhjU1Q2THltS2dCczJPdHBDZGxIbThZaUhiX0tfYzdIT0J5c2RkWjhpSE94a1h0LXhSeGpZVVQ3bDR3cmhxQnhR?oc=5": {
-      "title": "②SAPS4HANA/システムコンサルタント【社内SEを担う/三井金属グループ/フルリモート】 - 日経転職版",
-      "company": "三井金属鉱業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JUVp3M1RyOVZnTnRxSi1oTTlBMUlCY01aU3FTLWthWTlHaGsxTk5jaFlqeWdhYnF5cWduNnl2cUFibFlVZTJuazBsY0xaanVFamtHSjFMV0xIdXE2MHRmTF9TV2NDQjBzZHZjY2Z3?oc=5": {
-      "title": "①SAPS4HANA/システムコンサルタント【社内SEを担う/三井金属グループ/フルリモート】 - 日経転職版",
-      "company": "三井金属鉱業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HcVh0em1qVlptZ1dkZmF0ME0tNnFVVEprUkpUeWxfdnF0SE5rWnBYeHQySFcwbktmX0hldjdnOTFTSW1HYktOYXhVMS1aRm1BZjdiM01lYTFCQnlVbHFoNzZFbkxzY1NuWjgtbQ?oc=5": {
-      "title": "テストコースはドーム160個分 アイシン、北海道に7つの特殊路公開 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOUtVX0VsR3BTTi1kVVVRRF9hcWo1bDVXWU1pMS1wNEQxM1A3aEpJUFpnR2t3dGUwSGlMTE03TkVlUmpXeTNycG5TMDZNS204cF9XajVpRmloYkVCcGhOWnhwS0NybEZqRks1cA?oc=5": {
-      "title": "野村証券、債券引き受けの専門部署 企業の資金需要増大で新設 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T13:14:00.617233+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kaDhySnozQ1BySV9COFFRTUQ4ZUJtRXJGWHpmbzJOdGF1MGdhazJYUnNDbEFwaTZxekFVTm51RXVURHN4T3VGdHhFTy1hc0FNYzdHN3FPN0tZVFczbF9BUTkwaEF1VGhnbVJ6cw?oc=5": {
       "title": "希少性、プロとして管理 三井物産社長 堀健一氏 - 日本経済新聞",
       "company": "三井物産",
@@ -2315,7 +2261,19 @@
       "company": "日本ビルファンド",
       "source": "日本経済新聞",
       "seen_at": "2026-09-09T10:47:14.211484+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JX3ZDdUxwTDZsZHFXN3VKU2pyLTJKc0FtbUtDYWJtek5mZU9NUERRazNwXzBzUGhZcF9aMWtrT3pTc1RTakl5UnRtT0ZMa2g2WlJpSEZFS3NlMjFnYVMtS09NMjhiTlhhUm5NUg?oc=5": {
+      "title": "楽天メディカル、取締役副会長に武田薬品前CEOのウェバー氏 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-09T15:55:24.465322+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5keUZva2ZJQzhhYzRwT1NPLWtEME96WkM4WlZzYUxOX19KR0x5eVhCcEtoY3Y3bFpSWVFuUzYtZ1J0N1pzOWM5TWZrNG9QTjBwUkxYWg?oc=5": {
+      "title": "○関電、概略調査を１年延長 - 時事通信ニュース",
+      "company": "関西電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-09T15:55:24.465322+00:00"
     }
   },
-  "last_updated": "2026-09-09T10:47:14.211983+00:00"
+  "last_updated": "2026-09-09T15:55:24.465764+00:00"
 }

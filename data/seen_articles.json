@@ -1,143 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kaDhySnozQ1BySV9COFFRTUQ4ZUJtRXJGWHpmbzJOdGF1MGdhazJYUnNDbEFwaTZxekFVTm51RXVURHN4T3VGdHhFTy1hc0FNYzdHN3FPN0tZVFczbF9BUTkwaEF1VGhnbVJ6cw?oc=5": {
-      "title": "希少性、プロとして管理 三井物産社長 堀健一氏 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvNE1CV0t3eEpmd0hMSS10ZUh1Wk5kQlRkdGJ3SndpeVFCQW9SVk1jTDRoUjFYTFVBamlPLVVGMEQ0MGRWLWI2SHVfWlg3aWZFaXlRdmNpd1pmMFJuS0cyb2ozdnRYWnVKXzVKT01HVmNUSFdKTzM0?oc=5": {
-      "title": "三菱商事、高品質クレジットを共同調達 国際組織が発足 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE04VzNMc003ek8zaTFnazVfWmhmU3htemVIUHJCbWZzdWRJcUxTY2NONmZTRHp0a1hxX2NqZzE1eHpmYUVSOHZxMm4xNWg2STFnQUUtYktQX1o4bi1uYUNfQmlwWXJvdlVJLTVrWA?oc=5": {
-      "title": "収益源分散、変化に対応 伊藤忠商事社長COO 石井敬太氏 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83cVN6SUhqRmdIWWRETGF2SnB2TnM3MHdxWjV6aWhSTTRMQW5ZZ3g5NWVqaGNPdEkzN3NtaEd3bkNFQThWcEZwRXRnT0ZsM1hVaWxhTHpmX3pXR1g2VWdKTW1IQ0VaVi1vcmtsOQ?oc=5": {
-      "title": "空港インフラの異常をAIで検知 成田や関空など、住商と老朽化対策 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TGZhOG1vdG1vTVp6T09ZY24zbDBhSm9rYXZCT1BvUXJqNDc2cERZVDVTWks2UjROZDBXY2laUVNYM21OSWNZQTRRejVCSG42OHFmcVkzX1FhVElFTjFIQTNXTEtzdVdVa2tPQg?oc=5": {
-      "title": "イントラマートの中山社長「AI投資を加速」 NTTデータGから独立 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XU19ZbmNiNkZOTk9yR3oxZVRoTnpaY1JxR09tWWFkQnBEQ2MtcVE0Uy1pOVgzU3FWOHJxN2ZYWWhmTW15QkxfRnN0b3hGOXZ3VVZta1R1cHdUbEtDaUlkM25YalFGQ0ZZWTA5MQ?oc=5": {
-      "title": "値上げで好調のKDDIとソフトバンク、NTTドコモも踏み切るか - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BM3gtb0VWYzhmRTd2QzYyMU1odVlyZHZJZ2V4SEw5Rk9jLWNNdzI0S0otd2lYbUVLRWF6eC1tZE5mYnBURzU4X1BJa3lQU2FuTmljRVhheGNzaW1w?oc=5": {
-      "title": "東芝など、ITER向け超電導トロイダル磁場コイル 4Kで通電試験に成功 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40aENRVVVnM1ZQRHBVb1Y0aWFsQXFwTUp6aGstYjNnRlg1RmN6Z3RwblpTbXQ3aVVBb3VYT1FFVl84bkRfZ0p4cm41TjVzM2lZbEdOM1h5by14aHZhZDBFVHphYzJFZnZmX3l1LQ?oc=5": {
-      "title": "トヨタ、米初生産EVの発売延期 「ハイランダー」 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWlZBUmFGRG9sWkpHczQ5bE82VEJOenZpcm5YLWs4LU9ieXhoNTBsM2JHNVFUY2xXelBEV3k2NzhMY2pjbEpBLWlqOUpJV2ZYUURfRjFldXRzamdkN1NPSTE2SEtVdl9uNXV1Yw?oc=5": {
-      "title": "トヨタ系のAIサムライ、AIが特許網を生成 中小も技術保護しやすく - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZEpLaGpMVGl6dnptQkNSZE1EbC00RWtuYVpXWVV1T3pKRTZYVE1NaUhKTHVuVExWZ1AyLUJsc1ppMWdVbTltZmhMckZCeGg5OVY0WF80dmJlbEQzYUc1MzItTUthQXZDUlVLWA?oc=5": {
-      "title": "消臭除菌水「iPOSH」、ペット市場に参入 ローカルパワーとイオン系 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkTWJDWlVUVWtpUmhZZHZkaFB2amJJa2lsamxuNDE2NUIzYzNFYnk2R0xUSWF0MWR3VFI0c3R6dmtHcEwtYVBSQVNGNkVlRUo3UE9mSGNPUWo0MWw4dEgwd3JHX05DdmQzRXNnbQ?oc=5": {
-      "title": "決算:商船三井CFO「供給網の再構築で新たな需要」 上方修正余地なお - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVGFydTVLcEpRdEM0dmdwNEZjNlY0SV9aMkxNcE9xMWR2RndfbHJJM29ySy1FYnlDLUhEdmFYYmQ5d2lqT0VaMUNnNWVHWkJEMHI1VEtibU1DcGx3YVFNeU45QXdURjdkUnZwZ2luV1FqeDEyeHFn?oc=5": {
-      "title": "中部電力ミライズと愛三工業、バーチャルPPAでCO2削減 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81eVBRaTZmaFJNdFdjZFE1Vm1Ib19maDZSSHlIOVU0ZWNGRzQwRFZSaWtfUFBrVkIxbk9yRlBxWmVjZUhaUmtObkNtd3NFNnVZb2kwZTZFTFctb0kyV1Q0LTBQZmd1MG9TU0gySw?oc=5": {
-      "title": "野村証券、社債引き受け専門部署を新設 発行需要増受け - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-02T22:57:46.594405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIc1R5c3pIUUhjRlVja19QMV9lZ3NEcVg5R0dhcFNiV0dUWEc3ZjVhS3BQTjZGbk1tLVItWmhBZjIxaElNM21PNUloRllTQ0xyWVFZSXVXZjhtbnF0eWg4b09vZktNV21TM2JrQw?oc=5": {
-      "title": "三菱商事など商社株が高い 米バークシャーCEO「何十年も投資」 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE81MDktbE4zZTQycXNsMjV4Q3V0bHo3OU11NW16NC1XeE81UGxLajhicnlUWmhyV0xOMkdfTnpReFlzelhPd0FJUXBXQm1RTUFZSGpRamhaNy1HNGZqVWNpVDBRczJKeEdpOEozUQ?oc=5": {
-      "title": "商社と日本 インタビュー編(上) さらなる成長へ、各社の針路は 資源系は長い時間軸で 三菱商事社長 中西勝也氏 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HVUtFdmMwczZzeGVhUjVEWXRnVTRTZHpENVJieFZyeGNxbTlkbW1CQWsyNndOX2JhUGJUa0RVUXV1RXVXbGxtajhTRlVvcHE5bXhGc0NwNlJvVlp4Ry1fdTBKU3lZVE1kY29keA?oc=5": {
-      "title": "NTT、半導体成膜の研究をAIで効率化 実験を3倍高速に - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE51cFJzSWwtRWFUekNZU1lsTUtzRnc4R3JsbEphQmNwYkE1QTEzSEVNY3BLSHAzY1Y0ZVZkaS1GQll2aFVwbHdtN3RSX3VFYVM2Z3VKajRXNS11Q2Q5WmU1YWpWdkFTQ25FaHB3?oc=5": {
-      "title": "NTTドコモ・スタジオ＆ライブとeggmanによる新レーベルScrum Wave Musicより「サカキナオ」第9弾デジタルシングル「夏夜、面影をたどって」配信決定！ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kTHlwSTJOUjFIN1FQQ2s3NldraE5Xb1JPeHJxMmdyVUZwVXpGWWNBdmdlbHJKUnBwVGF0MmhxYThmWVdPenRieEJpQjI5Q0VzZkVJRTlOUHNIeGhUTzM4N2tnbzZUY1dtZmU0?oc=5": {
-      "title": "【導入事例】東芝デジタルマーケティングイニシアティブBacklogでウェビナー運営の工程を効率化し、企画準備期間を2カ月から1カ月に短縮 - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE90d2k4SUdpVHpfbnBoaTUxUHprMGt5Z1JOSGlJYVVXUnZ1Mlg5WXlOal9MdGVBemZLaGNhV1JBTWhORFZieUF5aVhmblctWEJzazNqRWxqamF6TVdDS3BFSnFVbHpjYkgzaVFv?oc=5": {
-      "title": "「美容のために、眠りを我慢しない！」睡眠中もスキンケア発想の「YOKONEGU beauty Luna」が楽天スーパーSALE期間中、9月5日限定で20％OFF - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fTGZiQWxwUlE3MF9fcnV1bVMxaWgwMkl2clAxcjREcEVfU1UwZnJmbEVzc2xkdlE5ZGZGTVE5RjNBd1VtRlhnX3hQcUd6VVJPaGMzMlcwbVJVZlphUDk0cHRvOGZpbGZMRXdF?oc=5": {
-      "title": "飯田商店の「無塩 訳あり骨取りさば」が楽天上半期ランキング2026で総合1位を獲得 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5WG90MVZ5NGo3V09ZanhPNF9jb2Q5NFRIc01iNktQX2dEQXVWNE1RcUpOSmVGY1JrRzRGUFdSVWl6ZXRqUzBVRTVrVVhtSTZDUjd6c1Z6cUR4Tm5acm9udUJWR3B6T09ZRzdF?oc=5": {
-      "title": "【氷の争奪戦が終わる】楽天 製氷機ランキング3冠・シリーズ累計15,000台の最新作「ALTENA クイック&クリア高速製氷機」が楽天スーパーSALEで8,999円！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnT0xYWUVJUXVFd3J0WXE0U3RTbkhtLW03NjVxdDd4Ri1YTTRQUXhsOU5fUTJRaGdkSldYcy1mYnVFdkZYTHZydXRkMVB3OUlsTGY1dzVxNFM4TEhUNEh2eWpJd00tWU9lMlk4?oc=5": {
-      "title": "【楽天スーパーSALE】カー用品・バイク用品ブランドMAXWINの人気アイテムが半額で販売中！ポイント最大47倍 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yN24yTjVESG1zWEJWTDBVSElCeG1UNGhRV2plWk9YRG82Z0RORE9MWFZfdUJDOUx5M0tvU3ZrVFVJSDlsZlU5b3FPbnRRMjhvcjk3Qm5xdUdEUUk1Rjc4VUQ2OHBwYzQxM0E?oc=5": {
-      "title": "イオンファンタジー[4343]：『THE RIBBON HERO リボンヒーロー』の限定プライズが登場！９月４日（金）よりモーリーファンタジー・PALO にて展開開始 2026年9月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T02:56:10.881956+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bkh6Q1BOQ3A1eVhlcHRXSlpmYXp5MTBVbGc1WnZIX3FPcXJ3bDBWODBsUXB6T0VWanlEckpiR0dObDFtQ0E4VjltcHdwLXd1VWVEVlFxT2dMdzV6aDJuaklEUU03eXdHWUNCeQ?oc=5": {
       "title": "三菱商事など商社株が高い 米バークシャーCEO「何十年も投資」（3日の株式市場） - 日本経済新聞",
       "company": "三菱商事",
@@ -2333,7 +2195,91 @@
       "company": "みずほ銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-09-09T22:52:58.150153+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWlNfSkNXb2ppVnVBaUc4Z2dvNnNoRlZTeXNGSVFWeDVLYzMtVHhjU19xT3R6M2FCMks2S0xrVHJMM0wydEhHUDlJVTROT1F4ZGkwY3Q0M2otS2k3WFRLaHl1VUdIa21aM1BMQQ?oc=5": {
+      "title": "サカナAI・SCSK・住友商事、AI活用を通じた日本の産業変革と社会課題解決に向け包括業務提携を行うことで合意 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS25QWHlVbFI4ZU9UVk85b2Y4Z1BfejJjeDlNa1FHMlNtRHZKdjNlbU5nZGYtWjA2UnBmQ0dzZUpBd2JZeEFOcVNZQ0Y5MWhFa3RSSTlNOWxlU0luRy1lcldEeUhUZFEzWWpz?oc=5": {
+      "title": "NTTドコモ・スタジオ＆ライブとeggmanによる新レーベルScrum Wave Musicより「サカキナオ」第9弾デジタルシングル「夏夜、面影をたどって」配信開始！Music Videoも公開！ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vTTN2RTFDUHoxLWNtVm11anJBUENIalhEWnBESWpSNXJlUDZHUU9ENnZSN044eFlUcGd1MEZ1Rms4OGU2VVh2OE5HcXNnd3BBTmtGMVR2a1JRZlZyeDRsaEN0QVVCRWdjdkxXUjlaeWRQMHZiUVQwa3pDSi1jUQ?oc=5": {
+      "title": "トップに聞く 東京計器 安藤 毅社長 - 日本経済新聞",
+      "company": "東京計器",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZHNEeFZ3WHUwUm55S3N6ZTE4Z2kxQXZjV3ZyUko0c1RhNTI1MHB1MWx1aXVhZEptYWFxQVhfVEtzaEp3Tmp0NklmTFJBR0xBTzhMNXdiS0ZVQllCeEVHYUh0czZoTjkwaHoxUg?oc=5": {
+      "title": "楽天グループ、自動配送ロボットによる商品配送サービス「楽天無人配送」を東京都豊洲でも提供開始 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ud1hjQlZ1WmcwLWoxSzVDVUxBM003SWxGV09ZX2RFaUtkQlUwbUdub1JHb1h5anN6RWI1bnJYaWZkQmNYdy1Jcmp0NVhBdkdnSXR4cU1ISDctUG8yRUV5MkVmX1I1ektndFlj?oc=5": {
+      "title": "【明日9/10限定】話題のAIカメラグラスが5,000円OFF！楽天市場「Show It」が「5と0のつく日」へ向け24時間限定セールを開催 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CRXJ4VTVUR0F6VEE0UkRfa250WVgxczJTQWYyNE5jQmhqWXM0VGRUdkhlNkVnd2lESXozNlJJangyWTNwYUQ5WnkxcDQ3TFhaM2dIcndHQWJvTWU4WlZnN3FGMWpjMXVRd0Yw?oc=5": {
+      "title": "楽天メディカル、クリストフ・ウェバー氏および竹下 健一氏を取締役会に迎え、米国での事業基盤とオンコロジー研究開発体制を強化 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwdVVVbmtMMVpOYWtlNzlXSzBKZTdwakJBN0JXaklOME9LX3FJZnNhRFIyTmFtNVA1cWNTdXZIYjJEOEJEN0E0dDY4VQ?oc=5": {
+      "title": "楽天メディカル、副会長に前武田薬品ＣＥＯのウェバー氏＝９月１日付 - 時事メディカル",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TMlE1NC1HRFBwUWMzOVc4XzUzYXIwUndUMTMza1lCMFk3bXEyX0Q2cVhtR3R0ckV2WnZTdkRCZ01CQ3RRT1A3V3lEZ0xXRHZQWTBadXhYVzhUdzE5Q0F6WXpvblVhbjlVdHdn?oc=5": {
+      "title": "イオンモールとすみっコぐらしがコラボレーション♪ すみっコぐらしと一緒に楽しむ「わくわく！すみっコカラフルフェア」を開催！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cam5EckN0Zld5bm5zOGRic3VhaURQRnk1MHp6cmR0UXF0SVY0aXRPVFJ5VGgzbUpQRHN0N3IzX19PcUtocWp3QnQzNWRnOGNzczRTS2N1Uk5wLTUyOXNTSlVPeDd5RmhMR2w4?oc=5": {
+      "title": "約1万個のブロックで楽しく遊べる！『ニューブロックパーク』を「イオンモール都城駅前」で開催決定【10月10日(土)～11日(日)】 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUk9wY3VKWjhCVENlbGkyV19wVkFuX2RVN3VoSzQyLUhVYTNWM3JMbHZ3UndxNjVaeVlWTTFqV05KVVd6cm1saDBPR1pXZ1YtdjAxQ2R1bHgzdG9ob3FhS0lQYTRqVlh5OUdF?oc=5": {
+      "title": "業界NO.1の店舗数*ヘアカラー専門店fufu、2026年9月10日(木)イオンモール則武新町店（愛知県名古屋市）をオープン！初回限定価格は2,000円（税込2,200円）から。 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUGg5czlFUnhxNTFYYmJoZUJUcDNJQVg4UVBtQ0pqZEdXRk5rQnlMUGhEVnNDaUxZM0hPQkRCOGRlZUNSenBFbWh0QTFKS3o2ZmUyMnN0aFZNX3l1bzAwX3hjQlNxbUdfcGsyakFHcUdkWDM2Q1M4cXpJb3Y?oc=5": {
+      "title": "【AD】みずほ銀行×日本IBM、AI駆動開発の最前線 - 日経ビジネス電子版",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1CTlBJT3NNRU5MS1BOTmZUeFlGUWNHUkxiR0pyTGFHWHZ2QkY2blR1UGZyemlpOHFUUjVaOVZUQjRhX0gtbW5XWlNRaHFMd0tUSE1vVTA4YTRYWng1RUw5MkRhX1RDcFpvb1JodFRUYkJiODl4MUtSOTNHYmV4Mkk1UXE0SkxaTWtKNQ?oc=5": {
+      "title": "【AD】みずほ銀行×日本IBM、AI駆動開発の最前線 - 日経ビジネス電子版",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BS2lGUU5rc1JzNjFKMjVrQnZZSHdqOGpSNU1QcmNJZTVTVWRtVlF0cEhUWV9NY1Y4anZUVll2M09aaVd1dkhVWlFveHVmc0ZRek1UOTlqOTJkVGVHSllySXIteEZBbUFqMkdjNw?oc=5": {
+      "title": "クレディセゾンとスルガ銀行、デジタルバンキングサービス「セゾンバンク（仮称）」を2027年初頭に開始 - 日本経済新聞",
+      "company": "クレディセゾン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWnNkVjkxa293aEVaNTdNNEROenpyMHVsVWJMRDdiU0U0dnhXUUhDcGp0dHR6Ni1QdTYtb3dXWWhLWnZCRHBVWEU5MThwQ1FreVFIWndVVWhhR2RaemJKTGl3NjBZT1A0OWVBeg?oc=5": {
+      "title": "JA三井リースグループ、50億円規模のCVCファンドを設立し運用を開始 - 日本経済新聞",
+      "company": "JA三井リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-10T03:05:27.237273+00:00"
     }
   },
-  "last_updated": "2026-09-09T22:52:58.150417+00:00"
+  "last_updated": "2026-09-10T03:05:27.237751+00:00"
 }

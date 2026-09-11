@@ -1,239 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LdkVzWjFZOXEyN1VTaHlBdnhYajJyaTR4VzkxQnRaUjdXdVNESTRtSFpPQy0yQS1fRlFRLXh4T3NVUlJhakhXdlBxVzhGM1pRN1dkNUtoN3NESDk1dmRzckFJT1JpVWVLWkdVVlI2eVhmT1lJc2dR?oc=5": {
-      "title": "三井物産発のe-dash、33億円調達 CO2開示義務化で助言 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0lHdVhHTnpMUEdKcnM1MHdkbXQ4ZXJJejNtRVFfNWhPR1VWRU5Qa3RrNnFKeWtSMHhGamJlaGxUeUNKbEV0MXBiSFBMWGMtS1o3OFFGRGlBMFh6Vmo5Vzk0NjFmd1Q2T1N5RUZ6bFM0SENNZDNaemdZcEgyZDJxb2hZOWZpSUE?oc=5": {
-      "title": "編集者の視点「三井物産が合成メタノール、意外と車」 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tQWtBb0YyRGFxVUY4QnNmcGFzeDdfb0N6akpkRTdNamdReVBmT0dSMlFaTkNxeTFpX1dONjNKekhZaG03djlMVEQ0VjFDV0N0bHV5WVZ1UVJFcXF0cnJyUXNCVWxGZ085Rk0wdg?oc=5": {
-      "title": "三菱商事、AIで磨く「攻めの法務」 契約・投資の盲点を洗い出す - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLanNYLUwzbVkzSWZKWVlpakd0YnRNRXFKQXpqWDFCSzl1Yk1pYUota1pGYWphWTgyNmZkSnVxOHFkOXRzR3hVTXRFYnZENjdSQXdPZDBvbHlrZ2t1Wk9UdFVHbkZpVEZ6U2Y2eQ?oc=5": {
-      "title": "NTTモビリティ、武蔵野市で自動運転を実証 狭い道路で性能確認 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ESlp1SDBCQldBTjV0ZnJ6RlEzWHZ2WUpNUnJ2NWVPWUlxby1xVVNQNVQ3Y1FkNm10NUFzY3hlNXFyYjdFSmRlMVJXb0JWME0wQVhZOElSeDZiN0NiX1FlQmhlUkI?oc=5": {
-      "title": "アサヒ飲料近藤社長の修羅場経験 サイバー攻撃対応で磨いた胆力と決断力 - 日経ビジネス電子版",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyWjdadXVHbDMxZlpIV1drQkFFNWYxWi1ORlQta2VUNkZTX18ycmJyYmRtYWhqTEVfN0VCenBHUzRRM01iZlA3Unp1ejhOU2NuczltaTAtd0taQW5XakpoQWw3cGFwRTFucVhwbA?oc=5": {
-      "title": "日本製紙の工場、煙突解体で出火 熊本・八代で被災 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfV2cybzE0MzIxaDFkQTlpcWhYS2dZbXJ3RW1TUC1pNkNrQm55OEY5QXRPVmFtQUo0Ty1wRGRpTXRuMG9ZbWs0cnljcGxxa2lpdmNwUGdGall2bVJlOV8za3hSRQ?oc=5": {
-      "title": "八代工場、遠い操業再開 新聞用紙、他社が代替生産―日本製紙 - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OZkxMOHNJQzBsd3p3N3dNcEpNZ3ZhdEgzVVVxQWd5TXVTckxYcFlqbFk3M1VyWkZ0THlYU096Y0NyZzJrMTJxSkdpQWtOSDhRc1hqeg?oc=5": {
-      "title": "○日本製紙八代工場で火災 - sp.m.jiji.com",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZV3ZfSVNzTVFubmVBcFJTbXAxa3BkbTVKZXRaZUdZcU5XMjRzQXZYNmthMUQzdEpob3QtMVFadmdkRHNXcmpFdDhiZkJweW1nemg2eUZISGdTQVNkT25DVmxYUDU?oc=5": {
-      "title": "画像・写真：日本製紙八代工場で火災：時事ドットコム - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDEwLWJOc3FtRVRkcTdBSHBrNVMwSDhtRGlYNHd6d2h2TjNXeFFILUk5VS1YQm1YMS1obWFjMXVkcC1kWnpPZnZVS1ctX3RjcU9pNVN3bVp2NmxMUmNleWtnYjlhWTh1OVVVUW5NNWszU1Bma0lJUUU3YTJUc1lKY1B3?oc=5": {
-      "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本 - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbDRESG4tTXBDZzJHRVVVazlkR0ZmVzNMaldIZTVzVmdZaGpuWDc1Qk9wb1FWZ0hUUmgzUENTTzN0NEprZUpiNExKUmdvVUdJVzVYNlR2MzlMZk9KQldyeGdnLUQ?oc=5": {
-      "title": "三井化学・レゾナックの覚悟 育成制度に入魂を 脱・人材の囲い込み - 日経ビジネス電子版",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyM1dvaVUxWmtqcWFGNEtXamdIWFd5ZHk4akVfb21VTkVEWGV4dEpWNDFra2VBRDMtbnJwWHhrSFdWbmdtOTcyUjB1VWtCNjhJcVFFNVFCMlNLZTk0SzVXVWxUY3htY0dhak95Sw?oc=5": {
-      "title": "決算:IHI大嶋常務執行役員｢防衛で海外比率高まる｣ 次期戦闘機の需要で - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jR2JsTExXcWVMYmZhR0hnekhzaFRYZjM4aFc4YjF1TTZ2ZDAzR2NjUmxwSWllVlExRkw3ZndHWnBBdXJFTE84OVFRZHVKeDZYSjJJamRJWk5ITVFMR2pES1gyeUV1RHhESFRLMA?oc=5": {
-      "title": "トヨタやGMなど、中国車販売禁止の法制化求める 米議会に書簡 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ySlFUbl9rclh6V0FOaHhmNXRCR2NLTjFqVm9kdjVZUFZsRExHYW9BMGJ4V05KWERVWmp4QnlNVmw0TE9mRnBDRXZGUzM5UW1UZG8zOHR4QTlSSUI4Nm9wRXkzS2ZaNVUyeWs0?oc=5": {
-      "title": "【楽天スーパーSALE いよいよスタート！】最大55%OFF！：時事ドットコム - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE45MzlDNEZyZFI3WERkcFpXZjJpU2RNSFBVRmk2S3N1UlRaODE1TS14c0NzQk1nUUZRTGQ2bkRha3hvMm5XdFF0OXgzNWZ6WWJNaWlpcmJ6UDJvRjczZjVJS2txVF9VZlFWbzhXNA?oc=5": {
-      "title": "「防災拠点」イオンモール熊本の爆発事故、問われる被災後の安全確保策 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtUHFPTUhmWlBUdFFZd0M3aklFcmJUUmhtaGcxTmlvVFlWSGNjSlFJVGhUb2ZtRW5ybDBXcGN3akdvOFg2UVdVc0ZtRENVXzk1ZFpwT1Y2TjVDRkE0UDVqUGgtb25MQzN3RzdxQw?oc=5": {
-      "title": "SBI、個人向け国債販売額が証券トップに 1〜6月 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVXNuZkY5MkhDZUt6NjlxU1RtSVk4UXVfb2k0SlQ5OXU5cVdHX1NuQWdPdUZVUVFieFQyYWgtSVN4RjB0cGVFcFBhVk1aRTdKTUI1VXVraUVEUjQyc3BGQUVCdDFsbVNWNHEw?oc=5": {
-      "title": "JCBのタッチ決済がイタリア・ナポリの地下鉄やバスで利用可能に - 時事ドットコム",
-      "company": "ジェーシービー",
-      "source": "時事通信",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQXlUVzJCQ0plSHdscmd2TWNFRE05UkxRQ216TmpORUE2Y200dklFZmVvN254YUh5UDNPSzlsN003S3hiamNVUG4zM19QMUZCTVBJV0hyaGUzSWsySVlfaHdHX3loeGpjN056Tw?oc=5": {
-      "title": "ドコモ、三井不動産系の通信設備会社に出資 都市部でインフラ整備 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-03T22:57:09.125068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RlRURFloZE9pQ3VSSjhZbmlUcnJjQVNSNDVTZENhcTFMd0RpeXBKT2dnNERXS3lxX1M3UDVvdUhkRmY3cm8yVDhXcVlsMG1MYkc0V0NoTk4wX1RJQW1SLTFnWFJ0bUo3WGlj?oc=5": {
-      "title": "M&A BASE株式会社、三菱商事出身 海外MBA卒業の岡部朋也氏組成のサーチファンドへの出資を実行 - 時事ドットコム",
-      "company": "三菱商事",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWVsV2pBOW9jb0M5UVE1NkswRXA4aXdnUUJEd1l5OXRjOW50TV9LQXhPSmxERDhicXREMm5HQTE1cEpVYlh5cHhUbElzcGotd0ZrWEJLY0U5clV0UGNUQjV3NmxFY2JHMlktNlRvdkxWT1kxVFYwNG9lNTFaZ21DOEVnUTVSRFVUcWdxT2lrX1M2b0N5M0VCUWhKMHVRRDhRVHl3NzI4a3FaOUplcXFNdDBCNkJQSmlzMVhvYWkyYWJfcEJwVGFzcXRaX0M?oc=5": {
-      "title": "住友商事[8053]：自己株式の取得状況及び取得終了並びに消却株式数に関するお知らせ 2026年9月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GblhjU3BNNDE2NkZ0UHo2ZTZTTFFuNWNseWNJelhNemdqMkVCZzFDOHZ5ZGNXSml0MW1UTUtXTGhXWFpFdzdtS2lBXzNQX1lYazA1NUh3TjlkMjBEbGJ0T01CSTl0aUNOYVVxUA?oc=5": {
-      "title": "住友商(8053)自己株式消却 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEszNnZpQnQxbnp6RklTLVItSDZhNHZJM2d1YUF0ZTBKVEFwalZCcnJBQjFpV2VNWVVXSEFWcTZRc1R4NTZvSE1ja1F4Zko5Qk9oWWhQd05yMHozeXF6OG5VMzk2Nno5cUJTLTkyeXdKd01hQVBGaWxjRGhUYkhTOE1B?oc=5": {
-      "title": "八代工場、遠い操業再開 新聞用紙、他社が代替生産―日本製紙 - 時事ドットコム",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82TlQtdEw3SWdRRHNxZlAyRlpkRFlvc21OOG90OE9kUndNMnloMEc2YkVaMjBhQlU1cVVqWVJPLW54S09ScllQbWFJR3I1aUxINklEajlwVHZyZ2djR3h2Q0tVRnl1NEZLdzlYZg?oc=5": {
-      "title": "トヨタ自動車、株価が小幅続落 円高進行で輸出採算悪化懸念 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GZjVKOW83U1d5TUcxUlJ1OVhKZDg5dENmTG13Uy1hc0wyYklnZ0o2Ri1OUmJEcGdhYXR1NFhnQTJ5cVdaZG9WSWNzcVUyUUQyR0JHcUFRWm84VXpMM2stRjdyM2FtNmM0TlhB?oc=5": {
-      "title": "エコバックス、楽天スーパーSALEで最大65％オフを実施DEEBOTシリーズを期間限定の特別価格で販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFSm9NbDdNd2lkb244WHlCbmdZbmw0TzViQ2Z0N0NZMlI4Z3RFUFN0ZHpJeHNaZkRaS190ZEVfbVlYd01kcUhSeWVFRzBwRXpXc0lyOFVGZWZldTFVQ3lrRndnQ3lzS2l1dDJZ?oc=5": {
-      "title": "「洗い替えに追加で買いました」の声も。洗って繰り返し使える抗菌防臭ペットシーツ、楽天スーパーSALEで先着100名15％OFF - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBodElxNV9MODFPQWJQajJ2WTVPNFBCb28yT01JSlZPUDUta2kyOGg2b0VnUWVEVDJNMWFzYU9sTEZvbHdvR0JmNEhzVzR0aTNHelVLa3V4WUhueXFZcWNtdUFabDZZUk1XOEtj?oc=5": {
-      "title": "人気のOTTOCAST製品が驚きの価格！9月4日より商人屋で楽天スーパーセールがスタート - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yQkNVQV9DdVRXWWh3U1EzclI0U1U3Rmx0dXlXcEE3RWF2MHFLOUE3eFI0TVN1SDk4Q0h3cm5hS3hjeFhJdGlQRldqYVJ1NGhjeXVBdHBkVjUybVBaR1ZrQ0xmS3Z2Vzgxa2Q0?oc=5": {
-      "title": "【楽天スーパーSALEで51％OFF】水泳対応IP68「AROLYM BoneBeat Swim Lite」が7,900円！32GB MP3内蔵×Bluetooth 5.4の骨伝導イヤホンを在庫限りで - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE55VnN5b1VtbnhfUEZZSWtmQ0IzS05sNEpKUnVyNDBDUmlEem9uY2NRM2taNWxQUXBISW92TUhQTHRxeUh1Q2VEQmdBckQyWm5wTVBrN2g1SHpGNFV4Z2s0UDlMQVVkN1RJaURr?oc=5": {
-      "title": "【楽天スーパーSALE9/4～】非接触TMRセンサーでドリフト対策｜GuliKit TMR電磁式ジョイスティック DualSense/DualSense Edge対応 交換用モジュールが特別価格 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tZTM0TGlPRmZ5bVkyVjZlT1RHdm5jektmWGFsNHRpc0dBTXlQbzNnRXBvQ05SejRNUFROdDJnbDdSWU5RTTdGVThQZjJvM2RjRTVGMEtvbHpwekJLdTV5VGo3ZXFJNV9TTXBB?oc=5": {
-      "title": "【楽天スーパーSALE｜9/4 20:00開始】秋の行楽もすき間時間もポケ活タイムに｜iOS限定・単三電池で\"挿すだけ\"ポケモンGO(R)オートキャッチ「Rocket Balloon」が期間限定・特別価格 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcDd1ZGdkcE0xNWRxWDVaV2FfTmd1ZjM0LXFveHdHejZobTA4QUJZTS1ZdUFlRTVfWUdYdmN6OTNzc0tibm1VSEdDcmxrSWthVmg1ZzZsdVNLQWtJbWZ1d1dicUdJbHFXZldn?oc=5": {
-      "title": "【楽天スーパーSALE｜9/4 20:00スタート】\"いつものアケコン\"がPS5でそのまま使える｜EVO 2025受賞の超低遅延コンバーター「Brook Wingman FGC2」が期間限定・特別価格 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xSUR6T0I1WHdJZW5SWWxhQ3ppeDhkMzZmZldta2EzdTl4TTk1NDl2NWd2RWJFZ3BaV2c3OV9LNjQ1aTY2S25fZWhLY2VlNnJVV1FtOFRKY0RYbnJXcUliMzJSNU9ETGN4SnA5aA?oc=5": {
-      "title": "楽天モバイル、12月から楽天IDの連携必須に 未連携なら自動解約 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kSWlXNmctVm16cnZJbmY2WGxRSUZZMlNWeldDMDAtZE1vNFJ3eVFGek1yelBsSXdMLWVwS2JtOHFSNHNkX3FUT1NhUTYzb19aV09DenhNWDZKNC13ZDFjdXIzY1ZKQTQ1ZlE?oc=5": {
-      "title": "みのや[386A]：イオンモール和歌山店 ９月４日オープン 2026年9月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxSkxjZG15MjlycWxQWTN2cXBzcUtFV3NER0s5TkJvUXZzRTB1MVh2bWRPTC1aakZIRXNKWjVrYl9Hb3NkMXNYNzFCUWhXSkczV0J5V3A1Y1FFc0J4Z1VDX2RrY2tfMEFpSG1r?oc=5": {
-      "title": "ABC-MARTイオンタウン湖南店2026年9月4日（金）よりオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoYTBGMkxEcFZLV3pyOTczRGR3WFVVWG1YV3pjME9qWkpWX2RTNnphT1BOWnlWU1Ztd0VLTnktY0lqX0xqTFJCVWdfQTVEWU5VVmNoczBkaWp3R05OV1FJbGhBV1JwVE9aSkgw?oc=5": {
-      "title": "「硬くて脆い」プラスチックを「強くしなやか」に ～相分離を抑えたイオン架橋という新しい設計指針～ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YelpwWi1nSmd3NnJIWUI4a0pvMjRXZ3hGN3B3OU05RmJJeVo5alRkM0FaV2VEM1hxRmFvMU1Ja2xiR2NMZWFpdG1fTV9KSmFKcTZQNndDaFJ1cEN2cWVNUmNfVXp5WjZWSTVn?oc=5": {
-      "title": "【新店舗】高価買取 おたからやが北海道室蘭市の「イオン室蘭店」に進出！｜「高価買取おたからや イオン室蘭店」2026年9月4日（金）オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xYTN4U0F4bDR6UEJ2bTh2OWZ1X0hkaWcwR2k4MFRlc0p1NzYwNTRMRlhoemYwZGhucHdwd3FHVHVjX0JNdlVxQldoYWZGOHVrVEJoR1k1RXp0eER0REdBLTI3bW1rLXVQQ1lsYQ?oc=5": {
-      "title": "東北電(9506)第586回社債発行 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSHhRcVRaQ0Z0WjJqZ3owRERxNzkzTTZhR0UwcWtxeHNQVTFBS0ZNN00yVWw1UXdWaVBoX0hXN1Z3NlVWR0ZYUE1aZVg2ZUpCbHRfYUdmbGZfeDF3bVlXUU80QnVVTEJRcGc?oc=5": {
-      "title": "いい生活[3796]：いい生活の不動産業務基幹システムが銀行APIを通じて三井住友銀行の口座情報と直結 2026年9月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wOFpGRlJ5d0kyNTFYLUJpYTNlTURwZU8tQkJqUXBiWk52dFpSLW9FcmtIdmFJR0lCRU50RU04bjB5SEp4ano5Ni1fX0hFdWNWeTFTY05oanpmUUF3aVdhSXVQNThpdm5kVWFubA?oc=5": {
-      "title": "野村HD、株価続伸し一時18年ぶり高値 株主還元の強化期待で - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RUU4tbzBlLVNXTXI1RnlGc3YxNjFiX2RaWXVJMFdkckNMOV81TGRLa0s1NmhPVXZ4b0xuNlZINXZnSEg3SDBGTlVFZXVPNU9xWjFaNmNPcE43aHpmMzhfMnU4akFDN2NBdEFMbA?oc=5": {
-      "title": "ブランジスタ株価がストップ高気配 SBI子会社が買い増しで思惑 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T02:56:10.966774+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LeXpzb2IyMGZ2M1hmX0k2ZURDSzh1R1hqaC0yN211ZGlHcTU1SnBsSkxJN0FrVUMwbnEzQ2VqbktpTXlJUm9OZVZrSHYyTzVCTnFEUjBqQ3VxaXBZZlhJUkMzbktMdDcxMjNEYQ?oc=5": {
       "title": "伊藤忠商事、米中古スマホ会社を完全子会社に 20億円追加出資 - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2369,7 +2135,67 @@
       "company": "中国電力",
       "source": "日本経済新聞",
       "seen_at": "2026-09-10T22:54:18.209531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUFA1SjNDenBZV3VvMlFhb1liQnJReVRaOG9yNlhvUW1xOGtzV3JWblE3c3V1UXpMUDllazBtNzFTMUNKMGRXQmEyOWxZYkg0NEpSUDltVVNranVxNDl6czBFX1VKNHYycXJiZA?oc=5": {
+      "title": "伊藤忠商事[8001]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOSWFFd2QyQ3phNmU5cG5UOUVIcVE0QmRoRkUteXBBVXFiZlk1amZMSmNnSEZKME9HRWxtSnI4ckZtTUx0MFI1SGV2NWtDZXJnRlFzNUVKUnVVT2xyQ0hjT21sc202elFqWWZZbQ?oc=5": {
+      "title": "住友商事[8053]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE05M0JOTUt4b2FSMXNEdXE0Ri1RbkZfcDFoN1ptX0ZfX0ZycHU1V0hOTTBmUGdMbFZJaEFMVkJMVUpzeE9YQ3ZZWGZYNnZEbGhKMHRWY1NWazJDbGpaM01Sc3d3b0Jma0F1UEN6R0gwS295QVdoTVVR?oc=5": {
+      "title": "アイシン、溶解炉CO2まるごと回収 高さ3mのこだわり - nikkei.com",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzeGRFWDRyVGpmcTlFbHZSdllCWXhLSm9qYmJDdEFrc3BMTmRHbzZ4OUpHZlRwOUQ5WXZSMlJYTnNUQlIxOFI4Szhtc1AyUVR3bVpPOUtjem9LWGdNWXBJQlQzSGJMTmkyT3Zz?oc=5": {
+      "title": "高還元率カードはメイン利用で楽天が約半数の一強、還元率以外の重視点は「ポイントの使い道の豊富さ」が最多【200人実態調査】 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZk5CY3o1RWZWT1JYRDBUQjVDMUdzeGxDcmJpT1hFMGRnaEQ2MzFET2VsLWlTemR5X0lHaFFwaW9FcXlRM1RTUndnbEdZR0p5SlVOdXRKYVdNbWhqcm4xUDRlbzNacXBmd0lj?oc=5": {
+      "title": "“世界のドーナツ専門店”『JACK IN THE DONUTS』が岡山初上陸！中国地方初の新デザイン店舗として、イオンモール岡山店を9月18日(金)オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOG1taE9NTHd1ZjhzRXB0X1NWUzFSdjNUY3lJeWNzYWtqbXp0OE43NS0zbm16dUJzeWdBaDVlcXcydXV2dldFNHJQWG1zVGR4Nzh1ZEw5N0hLZXZZRmk3VThMc0lGNk10eWxRbA?oc=5": {
+      "title": "浜岡原発の地震動データ不正 中部電力、外部調査委の報告書受領 - nikkei.com",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ockQxX09fZmU1ODFFWUltSFA5RFN5OFktLWttSXZXRDhsY2hhQzRXdU1WMml3WVMtVEdPQTdFMGxkQ3c0dHNzWEY3WW9yT2g2OXh0aHhCQXQ3QVBrSlZXRVFMMVJqdnRrVkE?oc=5": {
+      "title": "中部電力[9502]：浜岡原子力発電所の新規制基準適合性審査における基準地震動策定に係る不適切事案に関する調査報告書の受領 2026年9月11日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzRjFBV3BOcHJEangxMjBydTdySkRiMVZka3Vmd3NWd1liaTI3SFpHS3FObWZCWFBpXzhXOHNyWVFiejk0bHJtMTFLSGkwMkdKaUsyam45aTB4d0xENmpXTUI4OTR4ZXJJYmc0?oc=5": {
+      "title": "JCBのタッチ決済が中国の深圳市地下鉄で利用可能に - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVTNCMEh6aG5wWWtjMjNnWHJFQkV0ZDRHWVlndEhTbkZwdXRKYmQyclNEaVp0ZkJ4SjBnYnhEYUxBSEN4b2QwSVh3N210OU90djk1MC1OZjdnQ1ZCVkNaYW9mY3pJNmtQZjI2eQ?oc=5": {
+      "title": "JCBインターナショナル、JCBのタッチ決済が中国の深セン市地下鉄で利用可能に - nikkei.com",
+      "company": "ジェーシービー",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QbWRhYVFCSEVSdHpGOWdQM0JBMHF3QnlFckFfNmJuWHhkdHpXLVMzSHU5Q2cxMzVZWUw3d2lIU0g0dTgtR2VUSXRzdnduUTNtRDJreE02RWY4ejI3SkVuMlZWSXdRRDF1clhj?oc=5": {
+      "title": "この秋、東海地方が新たな熱気に包まれる！！三井不動産グループの商業施設・東海エリア施設合同東海地方の楽しい！おいしい！「TOKAI ENJOY FES」開催 - 時事ドットコム",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T03:00:31.629955+00:00"
     }
   },
-  "last_updated": "2026-09-10T22:54:18.209769+00:00"
+  "last_updated": "2026-09-11T03:00:31.630541+00:00"
 }

@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tR0FjMTJTS0haQ0hIU2lPTUZySm5aS3dGbGgtUGhLeWdYZl8wUVptTU9xNXFzWWRIRk5fMHA1YmF2MnZsaTd2SGhaMkRIVE5aSFFmN3J6dVJuZTZYbzNGeFp0d1BGNGtFdWhabg?oc=5": {
-      "title": "熊本の日本製紙工場火災、煙突撤去中の柱切断で出火か - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T22:44:36.883509+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNmZYOGF1c0V5Wm9EbUZldXBjenNtYVlKQkVlSy02ekJiNVlZd1pxVkVScVBabVFuZk40ZUg2VmQ5R0IxU0tUd3FQTW9pYzFCQlQ5TVFSTTBfU1ZzMno4ZDlpa25oaEppN29PbA?oc=5": {
-      "title": "CFO戦略を聞く（3）防衛、海外比率高まる IHI常務執行役員 大嶋裕美氏 次期戦闘機の需要取り込む - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T22:44:36.883509+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSTh1T0J3M1ZBclFjR1ZPVEdKZmVrSkJZVkFGSE1UcGpZNm9iQnBTeUpMQ1JHZ2UwQWI0dWNTeUJ5RzNXaDN0X0J1MnNRb3B0WDVrQjhHQWdtODRqWjRiQUNMTHBhQi0wS1VlMA?oc=5": {
-      "title": "取締役会トップ、139社が社外取 ホンダやIHIなど過去最多 海外企業先行、米は42% - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-04T22:44:36.883509+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdGt3ZE5pQWxSRjJ2UmJTd2VCNWFLZUZqemNGOHdsT0RTRjEzQldHU2dXRmkyWU5YUVdUZkFFMHJHYkxWYXFkcjkyWDlCREU5Q2t4RnJ6MEhyampBaHRVQjBGUF9KWUJ0aHMw?oc=5": {
       "title": "【楽天スーパーSALE】シリーズ累計21.5万台突破の美容家電ブランド「Sarlisi（サーリシ）」、人気脱毛器最大50％OFF!理想の肌へ、この秋がはじまる。 - jiji.com",
       "company": "楽天",
@@ -2105,7 +2087,19 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-09-11T13:14:41.308935+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vOXJLeVRFRjFKYVpFNDAtOVF2T0VlQUtvUHhMS2pwNmJuSXFIRndIQ2RRNWxXYU5CTGhLZzlYUTJqdTc3eDBTSTBQQnJmazFvMnJ6eTl3TFFIcWRhXzEydFJVTlBuMVVkVjQ4?oc=5": {
+      "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月20日(日)イオンモール徳島にて2公演開催 - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T22:56:24.476637+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81S0p5MWZ3RVJnN0tYVVdCVElLRnI1bW5pVGVNNEd5NW16MWhhdlhzMnVvMEpmeFFjTmE3dlNkX0F2TlRSZlZYalNTZTlrUlRGNVdzNUdmZ0ZqR0ZyTHNkRUtyRWcyUQ?oc=5": {
+      "title": "【速報】中部電力のデータ不正問題を巡り、勝野（かつの）会長が進退について辞任も視野に検討していることが分かった - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-11T22:56:24.476637+00:00"
     }
   },
-  "last_updated": "2026-09-11T13:14:41.309438+00:00"
+  "last_updated": "2026-09-11T22:56:24.477132+00:00"
 }

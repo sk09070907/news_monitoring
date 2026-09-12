@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkWHhZTHhidDFhQzVsWXYxNmcyTWV1bUhuNGgzdFRHU0h4Zklxd0E3Q2VSd3I5QzlabnZwbDctY2lJQ204ckYxcldHODdCX2JYTkNOejFRX21FeTN4Tk55Rk1lb0k3YVpxVWQxcA?oc=5": {
-      "title": "リチウムイオン電池の回収実証 JFEエンジ、神奈川県などと連携 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-05T07:27:54.749459+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DZG5ndVU0T2ZIMlk5QXVSZFhjZUVQcXpfOFJMSW9xSXVHUTdFdkdWd2NXUW9sdW5HZ19qS2c4VFpjX3BpOWtCT3c5TTNkVFNrV05ITVBsV0pxUG1aTXpXR1h2SnBTa3JfRVF3?oc=5": {
-      "title": "「イオン福岡東ショッピングセンター」第2弾リニューアル、博多三氣とうどん大文字が9月11日オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-05T07:27:54.749459+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aVDZhQkQyZXJSREN0WXFSNGJwOXhFd2xzN3U2MUhaMmRWY0tzRllxa0lMM3NUUS05d0owaEg2MnM5dUZwNVFfeXBhYW9oOGJHTXBHSWhrSWt4cFMzcllEOE4tT0twOUZJX3E4dg?oc=5": {
       "title": "住友商事、送電ロス3割減らす電線 出資先仏社の炭素繊維技術を活用 - nikkei.com",
       "company": "住友商事",
@@ -2069,7 +2057,13 @@
       "company": "中部電力",
       "source": "時事通信",
       "seen_at": "2026-09-11T22:56:24.476637+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VdW11b0NaQ20wdVVqMHlKRWotejg2YWxibUJSQWRjRTZMQktDWGZRbWlfSE15UXJDTTVJRV8yVDlqTnpjNkNORjNQU0kyMk1sRE1aUF81b09uSVNYbDV6ZVhGaFhoTm5adk00?oc=5": {
+      "title": "【オイシックス新潟】9/21-23楽天戦にて「長岡市民DAY」開催のお知らせ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-12T10:05:50.871480+00:00"
     }
   },
-  "last_updated": "2026-09-12T03:07:13.401469+00:00"
+  "last_updated": "2026-09-12T10:05:50.871962+00:00"
 }

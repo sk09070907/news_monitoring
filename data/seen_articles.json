@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WZWVCQjh0SldyUno2X0ZnSnpvVFZGNWVxUk4tbXBtV1BEdDlzSllLdzdPMThuLUxBLWt2eVRiS1RTcFdfUVRGTC11VHE2dEtuZWx2SzB1bU5oVU5sQjNoXzRLV3ltRG1vUzdV?oc=5": {
-      "title": "福岡宗像発『UMEYA BRAINERY』（ウメヤブレイナリー）がイオンモール福津1階に初のカフェ併設店をオープン！「明太子屋」が挑む、カカオ豆と砂糖だけの本格クラフトチョコレート！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-06T07:38:56.939915+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uLU92SzNDV2xsY3ZDdUpEQWRLQTM0bmtxdWtLNXRROFRUNFZPdjVmLWozOHowYzhuaVJCMTJfQmN2ZnlYNWdVeWNCU3BDN0NZWEcyNl9UU3NXOU4wMUt3cUVMSkhYSFc5Sk5MUg?oc=5": {
       "title": "税率55%→20%、三井物産発デジタルゴールドに転機 金ETF超えの勝算 - 日本経済新聞",
       "company": "三井物産",
@@ -2063,7 +2057,19 @@
       "company": "日本原燃",
       "source": "時事通信",
       "seen_at": "2026-09-13T03:09:08.247849+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WR2Mxc3FEdm4zamcxbGpCdTFBVzNPUjlwdG9hU0poYkU0SUZpUXlqTmUtVXNuSV95cFNIWFpaNlMtWm5MVGVTMi1Ka3NVUGNZTWpRZFZuXzFoODhEeVBURXN1OFd5M0JJREdwUw?oc=5": {
+      "title": "中部電力、社長に安井取締役 林氏と勝野会長は原発不正の責任で辞任 - nikkei.com",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T11:05:48.205887+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX0pxN3llQTBrQ0dhX3ZJeXBZQ0FSTG9xajVEa2xxNzJkTUdVX3Vjd2l2Q0kzci1BZnZwWkd2c1BqcGRYWXh4Mm5EYVN1cTN2bEtQM2IxbEVQdkREZ3Rucm85RXRLUQ?oc=5": {
+      "title": "【速報】中部電力の林（はやし）社長が辞任する方向で調整していることが分かった - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-13T11:05:48.205887+00:00"
     }
   },
-  "last_updated": "2026-09-13T03:09:08.248030+00:00"
+  "last_updated": "2026-09-13T11:05:48.206388+00:00"
 }

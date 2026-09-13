@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uLU92SzNDV2xsY3ZDdUpEQWRLQTM0bmtxdWtLNXRROFRUNFZPdjVmLWozOHowYzhuaVJCMTJfQmN2ZnlYNWdVeWNCU3BDN0NZWEcyNl9UU3NXOU4wMUt3cUVMSkhYSFc5Sk5MUg?oc=5": {
-      "title": "税率55%→20%、三井物産発デジタルゴールドに転機 金ETF超えの勝算 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FRVVZYW54Z296b3FyRlpSOVlyaEV0OFR4eUE3Ui1wenlXVkN5cEVvU3lyVnlBMER1dURMTEdGaEpscGViUHZCWXhEOXQwTGczZkJJUWRRemxhdk9YWnFvc2JSTGFPaGc?oc=5": {
-      "title": "［新連載］タンパク質争奪戦 三菱商事、食料事業利益1000億円の野望 - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xalcxS2NiN3c4azkwdnl5dnBWVi1YYUR0WUQxZE9jaVVrdGdQNjl1OGYwTE9JajNEUHV5end4WVg4ZWdac2VvNi1BUmh1bC05bzk1STJHVjJvRm1SM0h2Rm0taVFnbTB6bWNEeQ?oc=5": {
-      "title": "「送電ロス」3割減 住商が電線実用化へ 出資先仏社の技術活用 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZkozVU5oVlhFZk9vWFQ0Z3ZBLWR5XzUwakF3dHNmUS02MWJTcVZzX0tXWjRvTnc2YmZ0blVUaFhnS1hYSVU3NjZTb0hCeHdjNk5zM1hYbHNDMjBYSUFialpDVjlyNkN0aXNyLQ?oc=5": {
-      "title": "赤字転落のアルプスアルパイン AI特需届かぬ「Apple銘柄」の悲哀 - 日本経済新聞",
-      "company": "アルプスアルパイン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54NVRyZDFxdWNGZEFCR0t1bFdIVUlsSDFtRDNHVGVSS1N2djJQZFItSmlpWDk4SVpNWEUzX0dfVTlWWGxPOTFWZnp6elJPRFBiV2tRNmdlVjQ3bHU4NDR4N1RYMWhqVjhLZEotNA?oc=5": {
-      "title": "トヨタも物流効率化、先進企業に学ぶ「デリバリーの品質」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dkdMNkJFcHVIOGhCOUY2SC02ZmFVZmtkWkF5ZjQ3UTFPTEtBM3BQeWFjVi1WNk1qYjU1Nmh1NDFLb2VWNnJsQWRmbWY5UjUyemNoUENyS1Mwb2x0dGxTeG5UVE1MbmdTWndKVQ?oc=5": {
-      "title": "トヨタ、「新車以外」で30年度に営業利益3兆円 車売り切りから脱却 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FdzJ3a3lUeGsxNzJ2SlR1YlV4RGd5OTc5S3VIRk5rWlo2NUIydnJ0M0tJTk1Wd3JXM0U3UDV2UzRWLVZiaUJ2c2N5em5RZnV5LVJybU5FSjdFZHJyZ21od3hNMnJnUDJlM1Vybw?oc=5": {
-      "title": "クレディセゾンは「総合職のAI変革」に手応えあり、計画しすぎないが肝要 - 日経クロステック",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpVENGSzBOU3l0TFZIUnQxUUdld2t0eHp0WGU2LVgzYkNZTUxRSzJNTHlGcF9vV1pSWlV3bjQ5RHpXQ3pQYV9RQmxad3B3STlRVUU3RXpfZUo0N3dGQk9rek5ZaDdaMlRaMVUwSg?oc=5": {
-      "title": "三井不動産、台湾の商業施設売上高2500億円に 住宅広げ物流参入 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-06T22:38:58.119943+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VUJLWTN4WGxGQVV3RFdySXJJN1FwNzJ0WHp4M25DeFNWNFNrdm5WOUhjMDdMMzRTcHBmQThxTmNsT3c0WldoS1FkbG1PdHpoNm01Uk5RdFpVZkJNNHN2LU9yLXJDdldDZVZ3?oc=5": {
       "title": "フロンティアAI時代のLLMセキュリティ学習プログラム「《実践》LLMセキュリティハンズオン eラーニング講座」、三井物産セキュアディレクション株式会社と株式会社ChillStackが提供開始 - 時事ドットコム",
       "company": "三井物産",
@@ -2075,7 +2027,61 @@
       "company": "楽天",
       "source": "日本経済新聞",
       "seen_at": "2026-09-13T15:36:45.979587+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fTWFkZ1lCN0dBWV9XQURDSE1iSHJNM1ZKNVZjMkMwYVVfc2ZwZUFCdTVMeUZLZmgzVUMydXRBVHAybFA5Mzc4NmNIdTVtLWlQdzZBdlNxdzY1dWVEQXF2NFZTN05TMC1mOGpiVA?oc=5": {
+      "title": "航空機リース活況、住商や伊藤忠が積極投資 最新事情がわかる8選 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYTBqa0dnbU5YNDU2eEFmOWZKVHZ4RlotNi1leXdCVS1wU2dGaFEwUERtYldnYVNMLXpkRHdvQmw4dXdySFlBOG9CeG1vS3Y3OXJwcElBemFRc2RsXzVVUGhVLXRhQkt1RGxLeg?oc=5": {
+      "title": "日本製紙の米工場11人死亡事故、3度の警告届かず 日米で主力工場が生産停止 - 日経ビジネス電子版",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUG9tVHprSjdSdUV4QklSdjNYQ1lHQ0pxZm1fd29wTDMyQllNMnBjenRsdWNTRmR6cklkbzlMcTE3Q1JvdE15UHp4YTBESTNEbE1RdG0xM2tLVEpuS01YNTZrbk9pSm9RVk5EM3A5LUNYdlp1LVZUdGFOX3ZINWtMa2haZWJ0THYyS0lDNzZDbUpMT2s?oc=5": {
+      "title": "日本製紙の米工場11人死亡事故、3度の警告届かず 日米で主力工場が生産停止 - 日経ビジネス電子版",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NWlFvMGI0TFZjVk9Va3FuX2YwYXlOWHl3MXRCcGZPN0JBTkQxMXVUOW1sSUlmZWJrYmxqeElucWJXZXZYdlZlXzUydVo3eWd0ZmRHN0VqWGhZWUJJbXhsZkdlWV9OcjEyTUE?oc=5": {
+      "title": "日本製紙の米工場死亡事故／川崎重工、執念の2000億円調達／豚の発情を見抜くAI（2026年9月14日版） - 日経ビジネス電子版",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMHlXczBieHUzYVh6S2JqQ19nTHhGU2d6dGlIMDh1RFp5VlBGWV94TjRIejVLSFpCcXdCaUl0ZUxIV3l3U3FWRWtnS2Z1Skt2NjVKaHh0TGJPa1hUX3VwUlVPLUE4N3Z2UmJ4dA?oc=5": {
+      "title": "アイシン、ギガキャスト対抗に分割構造 投資抑え高剛性と修理・交換性を両立 - 日経クロステック",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4teThHTDlHMThpdEc1Umo1X2pfNkhoT2dteDZsZEk5a0tsdUZrSHlOb1ZIblJ3Xzd6NWRMM3h5M04zeVdIYnlUQXhwdFowZUVPU0F2VkNKMWl4YVdKSFp1SUlHT0JLUQ?oc=5": {
+      "title": "楽天／PayPay／dカードだけでは不十分 クレカ「3枚持ち」の新戦略 - 日経クロストレンド",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mVmhfaDhoZjY5SndLSWg1NjhITk5NVjRiQmVCa0JJX2hsa1FXOE9HTDluUkYzSFRsaXBHbUw1bi1DNHNMb3FldWR6WFBpWFNBcUdlYg?oc=5": {
+      "title": "ニュースワード「中部電力浜岡原発」 - 時事通信ニュース",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TTTBfX3FIN1oxR3ItdlNCekY1dGtOMFZ0UHN5MWdiX3MtV3pUYTdzT1ROU2dhMDdRQ2FaT0h2bTJORlA5Vk1odWNlUWF1MThTMTJFZTA3SXNxQXpVTEw2dzZiQQ?oc=5": {
+      "title": "「中部電力浜岡原発」とは 用語解説・ニュース：時事ドットコム - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TYVkxZnRqRlRHVkZqSlJRSjNOS2Ywalcwekw1cF9uLXZyTnhlV01nelVwUkFvM1NQcS0wT3BQX0MzMkdTVThMWTlrT09aYkJtSHVGY2xmNFRyMHZkaUE?oc=5": {
+      "title": "ニュースワード「中部電力浜岡原発」 - 時事通信ニュース",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-13T22:48:02.485546+00:00"
     }
   },
-  "last_updated": "2026-09-13T15:36:45.979798+00:00"
+  "last_updated": "2026-09-13T22:48:02.485981+00:00"
 }

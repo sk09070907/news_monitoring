@@ -1,137 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VUJLWTN4WGxGQVV3RFdySXJJN1FwNzJ0WHp4M25DeFNWNFNrdm5WOUhjMDdMMzRTcHBmQThxTmNsT3c0WldoS1FkbG1PdHpoNm01Uk5RdFpVZkJNNHN2LU9yLXJDdldDZVZ3?oc=5": {
-      "title": "フロンティアAI時代のLLMセキュリティ学習プログラム「《実践》LLMセキュリティハンズオン eラーニング講座」、三井物産セキュアディレクション株式会社と株式会社ChillStackが提供開始 - 時事ドットコム",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aNkZ0Vm1EQUVTcnVoWnE1YTRHemUyT0ZqMk1iZ21ZUDZBTVJ3NFB1LVBXbTdlMnZ3VGh6Zm91b3FzSFRyMEVtQUNJTDRYT2ZnTUZscHc5N0xRc09MNmdpLUxHSnprNXJmLXppaA?oc=5": {
-      "title": "NTTドコモビジネス、太陽光設備向けのサイバー防御 不正通信検知 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DT1B2Yk5hNHNDeDg3b20yZWhhbWNPVk1GT2J2UmQzSzAtVHlscWttQW90NUVLa0lfM3RrVXA2dGVEYUt1RGdwd3BVR2U0d0xVSUNvNlptYzRSaUdPR3hhNkRiaEdEM05GNmc?oc=5": {
-      "title": "テスホールディングス[5074]：テス・エンジニアリングとNTTドコモビジネス、太陽光発電設備向け遠隔監視ソリューションのセキュリティを強化 2026年9月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KQllZaXVGNWg4bVpwMDRTUHhYenVLcDlJODNPN3JoR3didmM1NkdEOGNNMnBKVWhoM1VnbXRST0RhRkFkT0hLWTBCYlZMYW9UUmt0dkhaZ0NNa3lzR3BEaFpJOGZZNFNWN3VF?oc=5": {
-      "title": "テス・エンジニアリングとNTTドコモビジネス、太陽光発電設備向け遠隔監視ソリューションのセキュリティを強化 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kREItb2k0NlRMcjZsNHRJNDRpeFRESTFJWDE1NVR2ejJoUUd5cExoNnVVM1dTQnJrR2lET0h2VWc0OUs5Tm1TeWxwb0Q3OW1RVkNLVVpoYVE3ZnltRldpVmdkRjYyRXZuTnJz?oc=5": {
-      "title": "不動産DXを推進するアットホーム、株式会社NTTドコモが提供する「ドコモのあんしん賃貸保証」と連携 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwajRyLWlEY0RaaW1zMDA3QkJJeGZWNWtGYWZzMzdRcWVsRE1pdE1DYnhIYUFLSUVJY3NzZldtaUkwN2lUZUpJYi1uanBHZlpGMW51SmZLNmNFZUxVU1dnODB1SEJ5TXFFelBj?oc=5": {
-      "title": "GATES、NTTドコモと業務提携 対象賃貸物件で「ドコモのあんしん賃貸保証」が利用可能に - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rTy0wZVl6RWZnNW9VNEhQY0lNMTJiNW1ROHRXWjY3M1BhaWRGd0Z3ZnRCMFpETDRWbFpnTmJiZWlhMUl5MFgxcGJGeTNxSDE1Y2VMRjFHa2c3T1NubXZycFJnTlg4MS1LcDd3MDlvMDFhUkxq?oc=5": {
-      "title": "ENEOSホールディングス、Versant受験機会を拡大 グローバル人材育成に本腰 - 日経人財グロース&コンサルティング",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVFhWSElZRy1UWjk2RVBtV1MwRHczWjZwNU1lNVBUSnFVQW5wMU1OUlRsX1pEdDYxV2hHdklnbDQ1SEcxWkVKYTFIZEx4Y3NwS0Z3UHZOaWFpdDR0T1pLbUZ0UU9NaGFtRE9sVQ?oc=5": {
-      "title": "フジクラ株価続伸 米コーニング株高波及 SBIは目標株価引き上げ - 日本経済新聞",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNkxiSWp6Q1FLNXNQUE1DelNNV1pPcUM0UkxsT3NjVm5NcF9JMXZ1VkFuMHJkZUNIakQ1WnpVaXFDYmxMRV9yQnRsWTgwWnBUTUZ5dThVYllERzlDSjFzVkU2QXZubS1XSWVuRg?oc=5": {
-      "title": "トヨタ自動車、株価反発 ｢新車以外で30年度に営業利益3兆円｣報道 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTWxid2VldU83V2prMVlPaTZpM25UanF0akdmR01KdDlYdkVvbGkwLXRoVjdqUDZ4cm9fVnVmRFJzXzFBTTl2bGVtX0RueTZQVlFrV2x3dUs2eUdkQzhRR2lEUmRyNW5kZ2pZ?oc=5": {
-      "title": "【楽天スーパーSALE開催中】写真・動画撮影をもっと快適に。Lexarの高速CFexpress・SDカードが期間限定10％OFF - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SHNPVDl6V2lBQUZOa1pLaERXQ0JHcThzY0p4MW1GYkVKWnNfa0swUGd6M0tLWTdES00yMUxjZkJpWXN5Ylowd1dOajBPUkhTMV9CcjVnUHBiaEpPenNtem9fQl9TRUF5b0dR?oc=5": {
-      "title": "【フィリップス・タブレット】楽天スーパーSALE第2弾がスタート、PHILIPSのAndroidタブレット全4モデルが最大3,500円OFF - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tYlZ0cUFVNWFxRFVuRkxPcEdxUHhDTFUwT1RQZl9ZN1JZemNZdm56Rk5ISFBJeWFYeGlERXE0Rm8tZlltOE5YeXFhSVlkcVRFS2RJdnlyaDNMZkVyX1pab2xYX21LUEwteHNZ?oc=5": {
-      "title": "プレミアムヨガブランド「Manduka（マンドゥカ）」2026秋冬コレクション発売。 楽天市場 公式店も9月2日オープン - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w3THZvcHJXWVRleVpFRGNwTmtrNW5WaUVuYk41SEZCbEUwZ0lmeGJuRHpxeTA3czByc0w5VmlhT2ZJRDdMTk0xRlE4cTlLZVFaWGtxUlQ4cC12ajdmaERCTTY0UUxPUkE?oc=5": {
-      "title": "イオンファンタジー[4343]：北東北地方初出店！地球をテーマにした屋内型こどもの遊び場 「ちきゅうのにわ 盛岡店」10月7日（水）イオンモール盛岡にオープン 2026年9月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qUFM1ZFN5QWFIWThzcDhDSldiRjdQa2VQT1RWazRDcGw2aGdKcEFSal9FNjg1LXBMSWtrdTZBbUhTZlJNOEZFYk8wb2ZvMW1pdVdERzAxQnBxTld3emlMWjY1Mko1djNhdFE?oc=5": {
-      "title": "イオンファンタジー[4343]：秋の交通安全教育イベント「交通安全パズルであそぼう！」当社プレイグラウンドで開催 2026年9月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FRHZYdmw5TFpHZktpZzhNUHdwNnJDNWZsdG5HM011aWoyR00wVzVhZ05peXNWU21xamtMT0xReHZ5QXlSYzlQZWxaOVVnckdYRVRnSnpDQzl2dTVVWnJpc2ZuUzhGSHhGc040?oc=5": {
-      "title": "イオンイーハート『おひつごはん四六時中』中秋の名月に合わせた「月見フェア」を9月9日(水)より開催 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oenpjSFdZS0paMW5mbGpCdW1RSEhBVmZHMnJFeVZPaFVkQ0Z3S1dHQTRRSEo0TFRwMmZLS2xwVWNHazVzV0pndzk2Ull3MlhwcmQxc2c2MVRWazM1eVlzaGVOSXdlVTdyVWM0?oc=5": {
-      "title": "【新店舗】高価買取おたからやが香川県高松市の「イオン高松東店」に進出！｜「高価買取おたからや イオン高松東店」2026年9月7日（月）オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE11Q0I2ZXVPWVdvdExoWlR2dmhnWTg5TGVCaHRsQzFNb1FUalM4OHdoWjVDaHdVUnFSWnRfQ3dST2xhbUhHb1lVallxdUk3VllOTUZ2UHFYUURuSlBBRW4weU1RSTBpVkFzMEpv?oc=5": {
-      "title": "アトリエ・エトワール、9月23日（水）から三井住友銀行東館1階 アース・ガーデンにて展覧会「ひらく｜Eclosion -石田延命所と子どもたち」を開催 - 時事ドットコム",
-      "company": "三井住友銀行",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMkgzR2FpamxKNTVPQXhVNFhtSUVQUUQ2dXo3VjhmM0w3WnRvX01MRzh6U0tiS3k4U1RNN0RfaDE2b2dxYkdkV1IyWEtJdWlOdFprRVlHZE9TdmR0TFViOExZdXZZRXY1eEJhXw?oc=5": {
-      "title": "みずほ銀行：変更報告書 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YUnpkcS1EV0g5OWFXYjdFakptNzFOY3dSaGJoaWVzRDVrdWVZRC1PbmJ6Qk93R2txejZ5N2ExcUpwc2pqSlNXSDQyQUZOM0lOR0xaUjhiRDVET0hxSDc2S0VCUUw2dXRLWE90RQ?oc=5": {
-      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Qk5BZGJfLU9NeU8zaWRFQVliaUlZRXMzLV9rNlBoNXFYUWR1S2x5aEZ1UkhSMW4yd2MweV9PVUM4bXBMUHNBV1hRaHpoMloyMy1ndDFRRXZ6UDI3WWNmTHRRMzg2YjdnYTFLRQ?oc=5": {
-      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE01VkxqM0NqWjhPdHNhQkNHRUtpc0RBekgyT3EteTNjTGFZaFBwdFN2R0tFUURaYk5yMzJjUHVabkIxVk1CWURsZ0FpTGhfdkR0MWlmaHNTQWNxbzNwaTZnLWVoQlNhbGJ3TTJjbQ?oc=5": {
-      "title": "みずほ銀行：大量保有報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFQmhDczJCT0ZCdEhrTVY2SnNRSE1EenlwQWRFODRoMFV1LTNBZC1QQUdLLW5PXzF3X2k0WllvRkFmVWwydi1yUDlIaWpBU3l1N0J4YzlpZFo0YTNFS1NfaFVVMUZ5N1FVVVBr?oc=5": {
-      "title": "【その瞬間を逃したくないあなたへ】クレディセゾン×Oshicocoがタッグを組み、若年層向けマネーカードの新LPを公開 - 時事ドットコム",
-      "company": "クレディセゾン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T02:54:09.834668+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybll4UW4xZkdpZmIwZno3TjFOR3lKWkU0TE1UTDVIZnhfNnFJbC1CSjJaUWpXeHNSdlB1dGl4YkpTd1dZaGdqMGFkMk1SMWpPZnhxZGRIZF85c2Vidk1NeXVrZWtxMktLUXEw?oc=5": {
       "title": "三井物産グループのGORIL、損保ジャパンに発話強化の英語研修プログラムを拡充 - 時事ドットコム",
       "company": "三井物産",
@@ -2081,7 +1949,73 @@
       "company": "中部電力",
       "source": "時事通信",
       "seen_at": "2026-09-13T22:48:02.485546+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZUmVKbzI5ZWNyQng0ZXRGTm9IT1dWOGNHMm83WGE4VUJoclRiSHY2dERtTmg2LTVHZzBCWFFUQm5nZHFybVRHdzY5WDVqSFhmeXM2azFMZWtKcHVvc0FzVVMwM0xIaUhvWVJR?oc=5": {
+      "title": "新潟県×NTT DXパートナー 業種別の産学官マッチングイベントを開催 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13cUhEbHdEVTJ5LXdBSVVvb3dUTG1LMGV5VHBUS20yT01vVTF2ZnF4Y3I1ZHhGOEw1T3U0Y1c3cVpIVlBfRWRGNFAxb0pfT0wyRnR6aTFVYWRtdXJ2Q0R3ODk5R0o2cEY5bkhUdw?oc=5": {
+      "title": "Criteo、「楽天市場」で提供する運用型ディスプレイ広告「TDA Expansion」との連携を開始 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KRjVrS3dMa2lHY2E1bmQ5MUFYeERIQmlMYUNEZkpfdHJPbGpROG16MlNPeWlKTTRSQ2RuRmFkQTdLajQtV0tGeU5EamR5QjNsbldsMWxhWDRsRl84NTdBQ3ZHclNuR3hES2Rz?oc=5": {
+      "title": "Criteo、楽天の運用型ディスプレイ広告「TDA Expansion」と連携 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vMzc5dzgzUWVmSDNJc2pjLXVHemtWQkNXS0t2dGxiS2p0bnVhdGJGeDNUOGkwQUZmbFlaalFyb0Z4d1FMSFgxR1RpMzFvZ005eEFnOV9NaWdod21vYjRuUnNKcU1KNkNQSlE?oc=5": {
+      "title": "イオンファンタジー[4343]：大好評につき再登場！『サンリオキャラクターズ』の「日焼けすやすやカプセルキーチェーン」を 9/16（水）より、かぷえぼ限定で展開開始 2026年9月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XN0ZYZ3d0QjVxMzFHTEp4LXNsV21vZGpVdFk2bzZRYnhVT2x1Y0NMQ1ViZ2Q4cWVITzRNSVF6MkFPU3ZxUFZLYXJaMHdqbEwzTS1BeWppRGdQTlY1Z0ZUQjRrQ2FtbEVzaUE?oc=5": {
+      "title": "イオンファンタジー[4343]：『犬記録』の限定プライズ&カプセルトイ第二弾が登場！9/18（金）よりモーリーファンタジー・PALOにて展開開始 2026年9月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rRnpwbVYtQ3lLSXhJNjI5X011NWc3bWp1UDhtSWdWMmx4ZnBndnpLbU5rbVFOM1l1ekNEbHZZM2Q0a3JrM1lwQUludU56M3YxbG5LeGxpczd1OWNQZ01SeHJ4UFJ0V2pDY2Jj?oc=5": {
+      "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月21日(月)イオンモール沖縄ライカムにて2公演開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3Yy1hUHl3QWtUcHR2Zy0tXzJtNnNkRHdFd3lyalVFNkdGTnpIOVhLNUM0OUJES09pbG5PRTl6el9pV2Y3djMtVGtoOFFBUU1TUF90STREZkNIajhjWUx6M3YwU055TWZTRi1j?oc=5": {
+      "title": "【和歌山初出店】昭和25年創業・老舗の極上餡で作り1日3,000個販売する浅草今川焼き「月のうさぎ」がイオンモール和歌山に2026年9月18日（金）オープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdE1ONmhVTkg3T2VKREVNRVVnQUF3SVA0U0RCc1ZpcnNQNV9OZVRuNWRDYU42T05VSERiRmUtMF9iOHBSMkZlVzZYSFBuaEhtTVR6a053WTdkam5aMzJQUVBWVlJNRjhDM01lOA?oc=5": {
+      "title": "「経営陣の叱責が圧力」 浜岡原発データ不正、中部電力が報告書 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xWFNfZnJ3NlRXUHZLR1YzRUlnTmprQ1NKaHVaS2pjRDZkUlNEelFsWXRudF9kazNlTUk5NUZkU3ZSc29pU3YzMk1zX3IzZURLWHNNb1MzQjdzRHRDcHdKNmhGemx1R0lpOWc?oc=5": {
+      "title": "中部電力[9502]：浜岡原子力発電所の新規制基準適合性審査における基準地震動策定に係る不適切事案に関する調査報告書の公表（２／３） 2026年9月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMGxEdGJ2dTRfeWRUMGNONDZLWVY4QVBkRDB1YndpTkhoQTc3MU5QTEZXQXZhNF9tOWxLSE1peHNsWm52YUZDV2xWdU9WUlFxUHZJRGR2ZmdxMnlaRndWZmJaOXdTQWVJSUpCVg?oc=5": {
+      "title": "中部電力、株価一時4.9%安 浜岡原発データ不正の調査報告書公表 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCcWdualVtT3lVdGRNM0ZKOGdSeGJBTHNtYWduQkVKYWcyRU5zV1lBU0Vjb2l2TFF3SHlhR2hqemFTbU9JaEpxMlJUeWhMSHhWSHUzNEdDbHdFODJ3VkVCT1F3RFNOZw?oc=5": {
+      "title": "【速報】中部電力浜岡原発のデータ不正問題で、調査委員会の報告書が公表された - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T03:22:40.444854+00:00"
     }
   },
-  "last_updated": "2026-09-13T22:48:02.485981+00:00"
+  "last_updated": "2026-09-14T03:22:40.445344+00:00"
 }

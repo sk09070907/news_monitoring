@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dTYyejVibjBnMlR5cF9memdETnRzb0hTb0t6WTJ6dEs2TWMta3oyckl0a1laRWhDckdRY080UndMVFB0WUtfZVNVSmRCbkZTMzNYRk94MlJoUzV4dUh0eHE3ZVJ1ZEJfS3JaUg?oc=5": {
-      "title": "日本製紙、欧州子会社が電池材料の事業停止 特別損失50億円計上 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5": {
-      "title": "日本製紙八代工場の煙突火災で実況見分 熊本 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xWFAwMUNoeXpKUkExbG1KQ1JtbzNvZGZia25UbDFzczBQemRxTVptb1lIQ2VMWmFjckd4dzVITi1BaDdWelBQUHctaHlwUnJyQS1IMnZLd2JDeHhEdGc?oc=5": {
-      "title": "◎日本製紙、年内でハンガリー子会社停止 - 時事通信ニュース",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZm5fNURlVEw1b29kSGlaZndzMUZNcTBSWU5iY3dBQU43SW50eTFzRm5leXNrbjlFSGR2WWRBMWlXUmE3aDRnM205ZURDMVpmVGJ3bGRacEV2NmdzZmRaRnhJa3J5QVFJTVRObkh0TVRoX2dHUFdobGo2MzFnUU14N3lMd3NPdjZ0OW4wWg?oc=5": {
-      "title": "三井化学・レゾナック、経営者育成は30代から 「人材囲い込む上司はいらない」 - business.nikkei.com",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTkRGTnYzMWVtS0J1a1NseWVhZTNwLTBFaFhmV2hiclF1aEkwQ2tBdnh5OHhFLTNacFZPQ0VjbEM3QzlPX2psSk9OVklkanhZM1FqblBVb1JuYmNxNFVEVEJFSGo4b01iT2NXLQ?oc=5": {
-      "title": "ＥＮＥＯＳホールディングス[5020]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aVnZONzhINGlLMkxUS2psVFdvbDlCUnM1NVhhZDdQRVBJVDJOTmc1SWhfNzktME5rNTQxZGVWRFVHMGEwVFpCYUN3RUFncjRzU2hkS1ZTSndIM2xNZmRVY3BoQi1SY2xrY1Q3Mw?oc=5": {
-      "title": "トヨタ、レース審判員の仕事を公開 3畳の詰め所や成り手不足が課題 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUk85ME9EZC1lUkEzbzNvSkpHWkNuSEpEdjlIbHZPbGtzTWo0SzNHbTQtMFVpVk1wcTlIMVcxOVViNWhHb1h0Q1QxV0pMaDBvVnNvSm9HQl9aWm55ZFQyellxRjQ0TFdTUHc?oc=5": {
-      "title": "ＴＯＲＩＣＯ[7138]：楽天ウォレット シニアアナリスト 松田康生氏との第２回 座談会開催のお知らせ 2026年9月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwQXZHbWdoVlpvMy1wYzd5MHdpbFNWZGx3SlhCd0stLXNvMHBfNnkwWXNxOWtuVFhCWnNkQTJacG0yQ0FoeEJ5Zm85VDZrWl9hTlE0aA?oc=5": {
-      "title": "◎イオン、１０００円のジーンズ発売 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkxtVWo1SGpkdktJOG1ObzhyY0huNDVncTBvcjJDQ2tITjRpRVB4akJvR2pZVXpuSmY0MWJUMnljSEx1dlFWTG9haGhIRjF4SXVwXy1YcnBsZ3VnUGl6NW9Za2VVYy1NdmQ1OWVicXFYUjJKelgybnE4emZBWUh5dENn?oc=5": {
-      "title": "画像・写真：１０００円のジーンズ発売 節約志向受け―イオン：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdC04WTJCa0FuZER5QUhiV1pUU010RXlXOXZURXJjSDRYQldDTmN3MzNSRTJnX0JyaTFxaFBKc3g0V0puUExCM256QnNCZzQ1dUVtdHFxczRBZjJyWHBlOTJRV3VtMlJCZHJVc1E4ZGlpQWZkd2E4bVpxUVhfLVlOVXNn?oc=5": {
-      "title": "画像・写真：１０００円のジーンズ発売 節約志向受け―イオン：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGNEw5UUs4ZjNmLVVWWVkydFVHUkdGTjZlYjVMdnpzN0g0cDZLVFRBNlFkaXdTbDc5SldJRjBpM3kyN2dWSTVZRzNlVVZvc2h0UUxyODA4UmpTcWFKOVE2MEd2Y1Zqd2ViZUV1Tg?oc=5": {
-      "title": "三井不動産、築50年超の賃貸住宅再生 再利用率高めて建築費30%削減 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJVzJzQUNXMHdfbGFKYi1IYVlkV3lSMWRoMWZoYWtDbWFjblZOTlBGdW8tY3JyWng0R0wwREwxVkdRc3JvWmNoVGk3eHhQMlk3SWNUaGZQckVmTUo1c1QzcjM2SDRkV3hqZkE?oc=5": {
-      "title": "日本ビルファンド投資法人[8951]：資金の借入に関するお知らせ 2026年9月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "日本ビルファンド",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-07T14:47:08.272612+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CZ1ZpcW12UWhOQ3BjbkgyWllQV25LWHVUcmdMbTd0X2xwSkEwRXMxNHd1b08tLS1xZlptSkJiLVh4RDdHbGZVQlByQVVEazR2a0NacnV5Q2lWRkF4TDh1a090N0N0NkE?oc=5": {
       "title": "三井物産が育てる「最強のタンパク質」 1000億円投資の勝算 - 日経ビジネス電子版",
       "company": "三井物産",
@@ -2051,7 +1979,61 @@
       "company": "三井不動産",
       "source": "時事通信",
       "seen_at": "2026-09-14T11:49:38.764980+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE84amJTdjFmcDJPVmtIUDNVcHdVMmdoM3RnUWZCQldRanNwQUhaVWtuRDNrOWZQUS03LTlKRUdqcUVrVXBBazBkUUdNVk9qeHo1dDIzQXVLX1puOTNRMmltTEVubE9kMDNSVEtqRA?oc=5": {
+      "title": "中央ア、データ拠点競争 NECや豊田通商が参画 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTERQZzl4NTlaa0lKWTU1bzd4MTRMQTN6bHExazdya3JTSVpzNzBjcTRaOU1MMG1reVo3eDdYckFETDRCQWhnMzYtVS1GLW9hbkowdWVKYm9WcF82Slh4R3JMZUxSVjBpMXNDWA?oc=5": {
+      "title": "NTTドコモ、街全体で「5G」増強 不動産各社と通信網整備 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFdEdHYVFTY1Jvb2RFcl9vVHFVdWVZb0ZWREVoR2txZnBFN0dzNW1wSVVYbFVzRTJfdzJOWnY5X2dpSkFMcE04b0NjOEkwak9vN183TA?oc=5": {
+      "title": "◎楽天モバイル、ＩＤ連携必須を撤回 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5czI2QmNLUVRYVlZBOEJIcF8xUTVxaVpheGtHOFB2cEI2cl92cnhVNHlYby1TdU01aHZHTTJMZUZwa0FKbkNPS3ZaY29qNk0yUkp4YQ?oc=5": {
+      "title": "◎楽天モバイル、ＩＤ連携必須を撤回＝自動解約方針に「深くおわび」 - 時事通信ニュース",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtdzNoa0hKU0pkWC1pVEx3T3BGbU53bEZhZ1dKdjF5Z0dFb0hDcXladHYwMjlCM1lGZHBpUFY4WElSbEJYc3ZicDhTTFlxNjY4ZFhiX2VoUEk5aWp5bmVsdWFtaEhTWVk0Rmc?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE93czFsenVqTXdfd1A3WGNzNkV6NXVWWURJNXNLZ0tIOFlBZjJmd1B2SmFBLW41VDZHSVpoaFVfcU5aWGE2dlhldmw3ZmFXTkQwV1RZVnpRN2k1Ym9paWYtdnVXOFFZVjhlaUlkaQ?oc=5": {
+      "title": "中部電力の原発不正、社内の自浄機能働かず 再稼働へ経営の圧力 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIeGR2UTFmSnUzYmJjUkdNLUh6RXMwdHcwUG0tNGQza2I0T1ZBZ2ZOQ01mWFFwd3NwcF84U0FhTzNTZkRuTGxkYnp6R3JoYm02dEgyVQ?oc=5": {
+      "title": "中部電力、社長・会長が引責辞任 - 時事通信ニュース",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMDVxNjdLWXBBcmcyMXVGRFZJWWFyRi1RcWR2QWdsS0V6TWRLZ0lrTDNsN1JiU2xVMEVFMWk3ZVpJRmwyM243YU9HSGVpX2FycnFMODlhdlB4VXczN2ZSeVhLYkpPazdxLVIwRA?oc=5": {
+      "title": "野村ホールディングス[8604]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQTQ0YnY0YlZMbmhHU3ZZay1WZU5DZjVFX01LUFBSM19EbTBGZ1ZPLVJMWHNwWnFYSkRZVjU1d1piMzdXRVdfYjBGNkZvelYwNWRFbG02RnpsYWNnUEJIUnZaeW5Xb043S09XZA?oc=5": {
+      "title": "女性の健康課題、管理職にどう伝える？野村HDが卵子凍結補助に至った背景 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-14T17:41:58.721364+00:00"
     }
   },
-  "last_updated": "2026-09-14T11:49:38.765526+00:00"
+  "last_updated": "2026-09-14T17:41:58.721930+00:00"
 }

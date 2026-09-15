@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XWS1aVlFwWTFZcjZpbjFsX29jWFU3MG1vdG42QVBJb2I3S3g1WEc5VVAyT2IzWEFZanBDcVE3ODdPYzlKRjdRUU1YRXRUdUpjWGpoWXZIY1lBVnM2NVh1c1JNNFl3RXlJenFzQg?oc=5": {
-      "title": "NTT「IOWN」ファンド、スペインの光技術新興に出資 第1号案件 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5bnJUNXBwNWJNeHJKVW9CTHE2VV9DR2N0Sk5IdmZFdGd6YVFwajE4RkJwUUczc040WlpnMllleGsyNndLMTZBak5MbWNxV3dEa1Z2SklQbWNtV1NCNFRxa2FMSVVEN1RRUV9IQw?oc=5": {
-      "title": "三井化学CFO、半導体材料などICT事業「営業利益率20%超え狙う」 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQUtFX0JFc05kXzlzd25Hd0xhSlR5N1gxd2YzZkVqdl9jS0s2YlNCLXVKeHpIaUU5UGRFMHZYOU44U21xRkxEMzYwaWI5T1RidUZ5WDhHekhIVkpEYU5mX3FYeXVWU19jOHFSNA?oc=5": {
-      "title": "自動車株1カ月ぶり安値 トヨタ4%安 円高、各社想定超え - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zeDM1YUxNRHBhVUctUHl2MWRDS0NXTHZIQ2R1NEZzNzcxR0NuWEgyNGl3Z1RfNnBlMUxOOGJJRkVGa002NWJfOGxic1BtbXA1TUM3T2Uzd2dEWEdUZU9WVlp1dktKa1gwYnJVUQ?oc=5": {
-      "title": "安さで徹底的に攻めるH.I.S.Mobile、楽天モバイルの副回線契約にも触手 - 日経クロステック",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDRUbVRzbHUyQVV1aE1wVEp6aXJyNWFxeXNlZE1VNmF6c0E4N0o4ajEtOGNLYlpYT3lzVkFCbHQyMDZLOUVDamg2YlpVekpGdlNFOVpKN3lnZDV6VmNaR1RaV0x2WkpWeFpTNmd1QUQ4dUNHM0lRbWF0dFBGMzBUVXlyMUppOTI3QzBxMmx4ejZaQUU2Z0E?oc=5": {
-      "title": "イオン離れ、Temu台頭で“本物”は絶滅？ マイルドヤンキー新消費 - 日経クロストレンド",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwQlpoZ3lrb2pMc0x0NTZkNWZtZFJjREtfOHh0ek1rWVh4d3NSZVFTeHE2Yk9aMjJSZ3FCUVFBRWVXNDk4S0FOMGZVQzlZZncxTF9uV2JOX0hRcGh3Mi1MZE0yLWYtLWs0ZDBv?oc=5": {
-      "title": "九州電力送配電とアストラゼネカ、EV充電サービスの実証を開始 - 時事ドットコム",
-      "company": "九州電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZFhMYU5NMnQxVDZMS1JuYUVqOTFSWXNlN0hhNVFlTVhZZXJxU05PSHZVYXFQXy0yVy1fTGY5SF9MWm5TOG8yOGYwRW9CZV9oMEJNUVFFbzNJOHZFRmxKWDlFSVphOEI0Slhrbw?oc=5": {
-      "title": "オリックス銀行、小松ウオールが脱・富士通UNIX 課題は非互換や性能 - 日経クロステック",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6aFpSMEl4bFNCZGc1cGRDTWJhMkZqbnE5RFdpMWVUWktob3ZJQmRHbGFOUjVqQUdDbkhZYU5adGVSLTZYVzNINnctcGt3TVRJSmZHcA?oc=5": {
-      "title": "◎マウンドに集まるオリックスナイン - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T23:07:31.457283+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jR3pfVUFkbWNraGpTM3BySWlGQUVlTFE5TWlsX3RpUnA4cVRwWktpTmZWOXpaRE96Zi1VdDk2TjRQaXlEOGpveHp1LWdIakh3NXVfVmdFTVktZ2ZQTmJKZHdiTlY3cF90V3R3?oc=5": {
       "title": "NTT、IOWN AI FundによるiPronicsへの初号出資を起点に次世代AIインフラの実現などを推進 - 日本経済新聞",
       "company": "NTT",
@@ -2045,7 +1997,61 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-09-15T16:14:59.257085+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DYjFWa2pJMjR4OVJTM09JR2hNUHMtT0pIcm9KeFBFV2RxNmhYaE1STm1vUGdjQTFnTGl1MWc0akNFSFRWSHRUb0hXaXVPcjVKNkdVY3hfSS1jWmRVUkZ3ZVU1UWlMQVVTUEt3Yg?oc=5": {
+      "title": "キャディ、ユニコーンに 製造業AI トヨタ系などから調達 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRVlLV1lPT2tBcXpobmt1MGdmb1RkUEZZNnBLUWd0RTdMR1NNWnF1RDJSTkdEemtPTWxNWVlVdFR0NW4yTGxTM3NJSklZMURLR0xpSWNoUGRCcFlhd0hyWW1menotZE0wYjRhNQ?oc=5": {
+      "title": "製造業AIのキャディがユニコーンに トヨタ系などから102億円調達 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yazQ3WjJaUmI4a2hELWtQYy1rYmVNTmR2WFhXeERpdjRUMEhFa2Vla2hySXVaVjZtZmNBVFhFdGFKMHZxZllnZm9UeGpfbk9XWkI1SFRtem5JbkttM3pyQWh5UUYyRENiTXZJdg?oc=5": {
+      "title": "中国EVシフトの大波、国有大手に提携促す トヨタ合弁関与が焦点 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUaFFEN0RmLVdHUDNlWlRGOGJRX2F4clQyeDg5N01sTkwyeHY3VXd2YkY4ZzVCaTVSU3lQMzk4bFViTmxrM21wazRfcjQzYW0xSkZzYVAwYllzQ3JQTEtzajVmVTkyaDAxdHdrbFJONmZIb3NqMTZ5UjN1LVZzMFE?oc=5": {
+      "title": "アイシン､ギガキャスト対抗の分割構造 修理･交換が容易 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jbFlGQTFHTFVCd0RSVzJkNDByZlI1cjV2SWFrSUNIWDg0VXlYLXAtYmRuVFpESGRoczc4YVNDTk9zYWphbkJLZEFkVjlzbWNwdkVMcjZIa1lPU1pEX0hfUmhWVmw2OHl2Zm1hVA?oc=5": {
+      "title": "みずほ証券と楽天証券、資産残高7割増200兆円に 30年度メド - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXdhaW5zVy1fX19pTXJKYWx4VmxZN3dLeVRINFY1dkUyNE10WFp0UTItMkFCQ2R0MFo5RDVOeVY0TWpEVFpaOFcxLWctVm80Q2Q1bVRYLXRfaEl0SnBnQWtpVUNPaWZRWS1idFY0N3hjNzFEYWxmZHNxbXl1YVFmZ00wNU45Tmc?oc=5": {
+      "title": "【特許】中国・当升科技、Naイオン電池正極材の劣化抑制 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpTMUlvQjZCLTJPcUF6Vk1PeG5rN0M2SE9ldWFjQXg3Vmw0TVc2aUtkaDEyYngyZjIwdmNVa0RocHNLT0hmdGhDUlFHVEU4QmZSeVk1THA0aXhVa0VLYWFCSzI1U0ZqTi01Vg?oc=5": {
+      "title": "東電、ロボアームでデブリ調査へ 福島第1原発で 廃炉工法の確立占う - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aN0VEU05fSEUybXRETkYyenQ2Ulp1MkZ3NmRhT3FQTDRTZEg3YlpXMEtrNWRaa2ZzaTNYOTlrejdJcUhmTGJCZ19FX3VTSUowTUVyWlF5Q2lIMFQ3WDlJaFN2UkZfMzBtNjhJVg?oc=5": {
+      "title": "中部電力の浜岡原発不正、御前崎市長「地域の理解不可欠と認識を」 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZTdDektUeWM2eHpWNTVCNWpfQTMzdDk1MjBfdFVwWnJ3c0ZBSmNIYWduV0lWVWdIdlhDNWhTbkUzWDFXb05SR21jUW8ybF9kRWZJWnZSSTdIWktwR1pKSzdnU3ZYV1JKNEFueA?oc=5": {
+      "title": "金融ニッポン トップに聞く（2）銀行買収、総合金融へ 大和証券G社長・荻野明彦氏 証券担保ローンで成長 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T23:22:46.673271+00:00"
     }
   },
-  "last_updated": "2026-09-15T16:14:59.257605+00:00"
+  "last_updated": "2026-09-15T23:22:46.673779+00:00"
 }

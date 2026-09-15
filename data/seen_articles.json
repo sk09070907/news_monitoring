@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQURocGZkcmJBWnowSnV5Zll1Q0VLckJIbmhBVDNlamo3ajZJd0cwY2NCd0YxUzNTRHNEb3JYXzhlRWQ5UTRhREx4U2ZaUTVDSURHeHpPc2VNQWZEaEljOTdWZHZpRDRNazhXQQ?oc=5": {
-      "title": "英豪リオティント、グレンコアと三菱商事からボーキサイト権益取得 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNFY3MnppWDFuX0otMGVWT3Q1dk9hb1lISHF5SzQxTGR5aDJfeVpnR1FSd0ZVTW5mdUdWSUp5eUtQVHlNeVUzVjBFN1pOSXdhQzVhbS0xb2RlZEFLbno5eUJOblgyclZYdDRqWA?oc=5": {
-      "title": "ENEOS、パプアニューギニアのLNG権益を追加取得 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94enNDb1U3cnhVZWlaS09PM0hGWHdXLUlpX3BpVklmd0FGMWxOTjMwWUY2ZHozY0lnb3RrSDVsemhadkowY3pTMjNfcXVTSlItNHljRkpKVFUyX1pOSFBJSzU4VHk0dw?oc=5": {
-      "title": "楽天トラベル、口コミ戦略 - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LakJtMW9oR0ZRaVMtbmZobFl2aUo4eHRYam5JRGh3UFZ2SzZFOUtDSVh0bFpuWWtreVRsekZXN0ZibTB6eFg5YnI2NlJWaVlWZnNGOUkzc3FjbEJ5SDBTQ2Y3cnNnU196RmVj?oc=5": {
-      "title": "【3か月連続で楽天市場デイリーランキング4冠】完売・予約販売が続く「VALX ハイブリッドプロテイン」が8月も4部門で第1位を獲得 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVYnk4VVBHZTFkaEZ6ZVpSRTREbVFKd2VpamlxUDZXbklJMGt6Sm9kelVYdGo1aDFEOGVhX1k0YW9kTWZPcWZKdXV1TmxzSnVfbVFfR3M3NVR1Tzhra2hYV1hjS01KZw?oc=5": {
-      "title": "イオン離れ、Temu台頭で“本物”は絶滅？ マイルドヤンキー新消費 - 日経クロストレンド",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CMHBla2t1Mk9NQlJkeW4tR3JiVHc2eXBZYWlCc1diR1dOTHU1NVJjUXZfMmZDSUhWMkZDR2gyc0FpQkt4S1lFY0tRczNnS2dBLUVMeV80djNEM213?oc=5": {
-      "title": "Quantinuum、米国内でのイオントラップ型量子コンピュータの製造推進に向け、U.S. Department of Commerceから1億ドルのCHIPS研究開発助成金を獲得 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTUHJSTk13amxtM29acDE4NS1rb1J3S2lUQjhnYUk1RnAxc1oyOGl4d2d0VEgtMlhnNTdMMTB4dUNmeVlrS0dEd2tlbi1fenIxQkI0TnNiTWhkRDVfbVE?oc=5": {
-      "title": "◎マウンドに集まるオリックスナイン - 時事通信ニュース",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTURNckJvQ2lqZ29tcUxwTHZxdXllNldtSjYzelpKMFE3VEhLUWVXYzlseVBWT01JMUpkbVFyVjlNT001QkRJNC1BSWw4UXBBcmZSYnVEZGF6eWtVTnBLV0YyNUg?oc=5": {
-      "title": "画像・写真：マウンドに集まるオリックスナイン：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T15:59:20.531486+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XWS1aVlFwWTFZcjZpbjFsX29jWFU3MG1vdG42QVBJb2I3S3g1WEc5VVAyT2IzWEFZanBDcVE3ODdPYzlKRjdRUU1YRXRUdUpjWGpoWXZIY1lBVnM2NVh1c1JNNFl3RXlJenFzQg?oc=5": {
       "title": "NTT「IOWN」ファンド、スペインの光技術新興に出資 第1号案件 - 日本経済新聞",
       "company": "NTT",
@@ -2075,7 +2027,25 @@
       "company": "ジェーシービー",
       "source": "時事通信",
       "seen_at": "2026-09-15T11:05:37.101710+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQVFCS21HeWtUTXpuU2d2M2pzTnZCbGkwMTdFN0lDWWxjVVdwQXZPaEtRZWRJVHBaUGZETXhBRVduM3RDOFJQWS1QUjI1RUktQTRzLVJ4VlVPVF8zalI0SXZxN3U5NWFoTk1rbA?oc=5": {
+      "title": "トヨタ、ダイムラーやボッシュと水素ステーション整備で連携 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T16:14:59.257085+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93dmVKTzdjbVFBczh3M3lXbmRETzFpX3pPT1dwTGZvbXhFMjVvQ3BubWpoWFV1RkxLYWxJUEd6SmlHalJpVHNlV3NpR3BiSzFscDhyTjZocTlScjEwRVd3bkkxUVlmeG5LMUdJ?oc=5": {
+      "title": "沖縄トヨタ自動車、国土交通大臣認定「交通空白地有償運送運転者講習機関」として講習を開始 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T16:14:59.257085+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE11RFAwSmJQMWtnZUdsSGRvUzRJOE54N3BwbU5iUFhSQXZQaWdZQThxdWQ2VmRaLWFuMDB1OWN0UjhOeVFPQlNpbHJCM1VtdGxhWUt3RVE3YmZocngxdFBIUGxGZlhfaXJsM3Bn?oc=5": {
+      "title": "イオングループ初！「イオンモール上尾」にて障害者等用駐車スペース適正利用システムの運用を開始 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T16:14:59.257085+00:00"
     }
   },
-  "last_updated": "2026-09-15T11:05:37.102250+00:00"
+  "last_updated": "2026-09-15T16:14:59.257605+00:00"
 }

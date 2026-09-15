@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YWEdCUmw2dzVCOXl5a3QtREVEYmVBSjNZRm00QXE0TllyeGlYeVFERkhXUUxRTHU0azlIaHVzU2xVV3dDRGRIUTZiQnJFa0hMdldSYlhzcG44dmhYRXZ6c3NQaklONlRodnJZ?oc=5": {
-      "title": "NTTデータNCBとNTTデータ コーテック、福岡を拠点とするAI活用型開発センター「F2-LAB」を開設 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE51RXpwT3RtSEdkTkxyTzZ5T1ZGMEJ2VmF4bm43VzBMdElpVXJScERkaGJLNk5wN1VCdzlIZEtCbFIwWC0xLWRnaUNCTDhRM3RIU041TGhjUUlIT2dwS0JPQUxVLTRYUWE4OEI4?oc=5": {
-      "title": "山陰合同銀行、NTTデータ、Securitize Japan、新たな資金調達の実現に向け地域におけるデジタル証券活用の本格検討を開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWEFSc194WGloQVN3U2E0MWtQYXc5ZlVrcVRMTmJhVnhSa1RPbG9nWm1hT1o0aWEyZEIyMzhXa0t4T0lUNGZHZmFvTEFKOC1ySzNiVG1QY0JpMnc2eW5xdlB2SURxb2poM3l3?oc=5": {
-      "title": "AIアバターと対話しながら保健指導を学ぶ新教材を宮城大学×NTT ExCパートナーで共同開発 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yS1R0UG9QMzV1ekxWOEJiREpUb3A3SFByNFlsTE5TcDVUQU5FZWI4REtldWFzc0VqWTdObVRHcTh4SFNHWlVHcEtheTBBaFZGeUhOQlhVWlRkWnVSa1F2M2FaN2RSZENST3U3dA?oc=5": {
-      "title": "信越化学工業、株価反落 「東芝と次世代太陽電池開発」報道に反応薄 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEODVUSmJKNHZEcDVZcEpSX3dkLWdQeU5WZ2VkSm5kWlZLY043dENiYWhjNGFwZDNQTzZ1cDl5NmNUVHRZZGtHLUIwcDRIREw2UHFIYkdDd2lOTmx4enFaZ0Q3YkRXWC11Mlow?oc=5": {
-      "title": "楽天RPP広告自動最適化ツール「ECPRO RPP」、楽天の仕様変更に伴う「1商品あたり最大20個のキーワード自動運用」に対応完了！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFVIMVBqZ1lGM1RKM05HWjYxQ2c2b2cxMldxT29PRmFnZndwSkIwcXZzWFBIVUVMckE1NXVZYXpJREV4enh5VU1ac0tSYm51eHhPVTBhRXQtZkNwYzlLOV9jaFlXVk5wbE1QZko0cTVGX1NiNndjbURpNzktVmZEZ09PSHVIWEZhYmVCTEZJcUVtSXdZYllqU283X0lDT0c3TURKd0VBNko1emN4UlVtcktPWGc2Y2FVa0M0VGlIaThNMUVHcjR4dHUyTWU?oc=5": {
-      "title": "イオンファンタジー[4343]：タイ発の大人気キャラクター『バターベア』の限定プライズが登場！9/11（金）よりモーリーファンタジー・PALOにて展開開始 2026年9月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbks3SUZoa3FrSTNmcW5UTEM4ZHVJVFVLbHdIMXg5M1dFX2N1NmZOMG5saDBkdmUzUFpIM0xLWHdCTjVtZjJrWW5ya19hcjhTUHYwQXhmdXRpcU9ndlcxcGVvaEpHX285ME9V?oc=5": {
-      "title": "【イベントレポート】来場者数約400名！いつもジェネラルクリニック×相模原消防署×イオン相模原による「こども向け職業体験」が開催（相模原市後援） - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-08T03:03:27.974938+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZVYtUWd4NngwY1BCRWdJdVNNV0xoRUtpdXNHVHN2RjJsMUFNdkN5LVZqWmxmbDBBdTAyV29WY2d5S1lzc0FrbFJia0g4VzlSSS0xZzBQZlh1Y2RoN1VnaG5UbEh5RmktSG1V?oc=5": {
       "title": "三井住友FG・みずほ銀行・三井物産・他 オンチェーン金融の最前線が大手町に集結。「Blockchain Summit 2026 Autumn」登壇者第1弾を公開 - 時事ドットコム",
       "company": "三井物産",
@@ -2003,7 +1961,97 @@
       "company": "大和証券グループ本社",
       "source": "日本経済新聞",
       "seen_at": "2026-09-14T23:40:42.835451+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCbnVaY05lblRCMTZwRHlXdFJYYkRnYThYZWJ1VFJJMmxlLV9VYTV1TzZ2NGM4RWJuazNSc3VxU1VGcmJjM0I3dnNFSWpBVWhkeUVqMzN4QnBsSUVEcWVNUEw0a3ltSm54T0dN?oc=5": {
+      "title": "NTTマーケティングアクトProCX、2つのコンタクトセンター導入事例を新たに公開 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TUVFuS0N6VklTV2ladl9tUkNxNWZKempZZ29fcWRJdEF4VEFiYkxlSzM3aVhKYnZ4dzRoeVl4VG5wUDUyMHY2RTdDUk5XUzVNVlNRejhhd3lLOTN5U3llYTJnbzFpa19tRXUxRg?oc=5": {
+      "title": "東光高岳、e-Mobility Powerと共同開発した次世代超急速充電器「SERA-400」を運用開始 - 日本経済新聞",
+      "company": "東光高岳",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE96VmdVWks3SjNDMHd3emo3TWFPOUMtZFlfc0M2OXlmdlp6TnQxYktZbnlpUDRpNWVYc1JXaHNvMkw5QmM5TkdPa3hlQlIxeEVrelBUT1A5Wm92ZEVVUVdQd0FzRFptZXJjUmJv?oc=5": {
+      "title": "【羽生結弦とくまのプーさん】楽天ブックス１位(*)獲得！ 好評につきインタビュー動画を公開 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUG9RdWFpTEJrSTBFbFJ2MDJ1b3JoZVA0WGpDalcxSkhDdC1SOEpoWGd5X0RnXy11RGRqcHlQT1dseUY4R2p5aXE0UkpCU3k2ZTY1dE5UVkV0aFZleHVSRmZYTzFjNld5alNKdk9xNjRmaVBnd2lRVnRkMjhwVkFEZy1sNHhUZTJqNTRpX1FXSnl3VkV5Y1ctdWhLZlNjd2JQZlZUN0VtMDZyS0tWTGVPbG5YUUNnc1hQZFhwT3RCeEtYajg2elMwekJsWlg?oc=5": {
+      "title": "イオンファンタジー[4343]：『逆転バリバリバース』のプライズが初登場！ 10月30日（金）よりモーリーファンタジー・PALO にて展開開始 2026年9月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX29PUjdFeXcxOTRHeTJ3VHBXa2tpX3J6TS1KSjhZd1N3MlpDbk1ZRXVxbUthblhweENQZkwzdmh0OTJDZEVwWFp1a2h0U1pYb0FPNXlfZ2NBLWROMDZhYkFOdnZGbzZKT2xSbS13Q0VldVo5TWxzREZxNWhzSkEycVRQdndaaUNSektHYlRBVXpBT1RtR2RYT2VmTUh4RGdDZTBGRHJHaFdJMzFXckItX2ZHVkloSE1zUURfRXRfdkxPNkNRM21oT0V0M0s?oc=5": {
+      "title": "イオンファンタジー[4343]：『サンリオキャラクターズ』のスタイリッシュな“シルバーシリーズ”が登場！9月18日（金）よりモーリーファンタジー・PALOにて展開 2026年9月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJTlFLLWdQaXk4ZWQ3MjMxRDcxRElHNVFrSm8xS2Y1WGlsZHljS05RMllFZHdVN2dIbWx2QzNXYXl3WFhQaHNuejVPUkw5THM1eUMxUThfYWJlLVNXUGdfYXVLdV9uOTBoYV9r?oc=5": {
+      "title": "【イオンリテール】第４回ケアラー川柳コンテストをシニアケア・介護のための情報サイト「MySCUE（マイスキュー）」で開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LQlNSVWtwSlBneHZROWYxMG5BbmJKMndwelMzcE5xUVBFNlVuSVFYNkp5Yy1GdGFJLUNkbUFtcnZFaV8tcGtQei1STG02UFU4MkIxY0c2eVdfVTFlMmhRWE56VlJlVmNNcmZz?oc=5": {
+      "title": "【直方市】のおがたSDGsフェスタ2026 inイオンモール直方を開催します！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSU82NzNJRVZrWXRTT0FValh2dzNXNzZ0LURRTDN6WHNvYldQTEF6LS1WOHY2dXE3RTRna01DeTNob1BEbHZkcEFwNkFxSXRTNzVXN3pTQUhJcjNRMmo3N1JfZWFhaWxNVE4w?oc=5": {
+      "title": "【八献 イオンモール幕張新都心】香ばしい焼き鯖ご飯や和風グラタンなど秋の深まりを感じる彩り豊かな新献立が新登場！タイムサービスには栗の旨み広がる「焼き立てフレンチトースト 渋皮栗アイス添え」をお届け♪ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uZmJmczJpZ1NJUnFJOUxHQ3czenZsODgxejUxVDdYQlZ2dXY5eHR2aUVSMDdIYTBLNUhCeXUzTWZoSlVQM1ZKNWJ3c29WaWlHa1lLNmk2ZUZJSXNzU0RuZ1VUSVBHaExSSDBZ?oc=5": {
+      "title": "【ワンランク上の肉料理を食べ放題で!!】『ザ ブッフェ ニューマーケット イオンモールむさし村山・イオンレイクタウン越谷』にて『熱々鉄板牛カットステーキ』などのシズル感溢れるメニューが新登場！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZGx1LXVaWkxsbEhnamxUNGp3amZRU3ZfbV9EY25PdlZnM0U0M0gtakJUZUdkQWl6VkpIdW5VY05Uendqem9BUmRHYUpOd3ZtZzBjbVFabGRuYzBmbHVpMWRpVVRQczBnRmI0?oc=5": {
+      "title": "【ダスキン・エナジーゲートウェイ・東京電力パワーグリッド】高齢者の暮らしの変化を電気使用データで見守る新サービス『電気で見守りサービス』を共同で企画・開発 - 時事ドットコム",
+      "company": "東京電力パワーグリッド",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzlJV1RCdThaMnVaeWFIYzk2c3V3WC11azZ5ZDlZYXZDczZVUjd5X1l4M3duWm5QSzJBRm1IZHhyRDFKUURTSmZRS3dVWVdxOEpYR2liLXhjTVlBbFRDR3duTklvbTlJMlpNX1EyUzlZVHJPTzMxVS1hM2JIbkVmYlN0ZEJyTlN1bFE?oc=5": {
+      "title": "中部電力、社長叱責で増幅した「不正の正当化」 原発再稼働白紙の末路 - 日経ビジネス電子版",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByMWRPejRYSnlHVnVOZC1WVkJoMmhZeXpjT3VUdElKaXR4XzU0a2sta2xtNEZLSkJUY3ZhQkxLUm80TnlBTEpMS0pNMkwwS2FrUU1fSURTa3RnaTBEdjFZVnlQSQ?oc=5": {
+      "title": "中部電力の不適切操作、次第に拡大 地震データ、恣意的選択―調査委報告書 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckhzdU8zWGRNSjhybjNxU2praGJPcjNwd2JNaXdxa1lKeFFXcFdKR2Z2cEFqVTNNWWhyVlpveE5vQUpKVV9LSTRIRFZ4V3drWVRhMWNWM3R1c3V4bmRxVUdtT1FhMzFoN0NqaDc5WWg0ckhaV3ZIdk9zbTJFTGx5NQ?oc=5": {
+      "title": "中部電力の不適切操作、次第に拡大 地震データ、恣意的選択―調査委報告書 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnNkbEpOSXFvaXNYakh2X0lNZFkxTWF6T0M2SzNSSk5GUktiVmMyNlJtaFBzVEY3azlxLVNqTWJMRDMxZ0NxTXg0eU9nYmxlRkxtQUYwb0hwdjlkV2EtU25xMy1QeWlUVVhpWGNtTmxEMjdDdlRqYlhtZ3lhVUpCRC00bUZyWXhmU1hjNlBDQzdiYnNsaEQ0YjR1T0lScTZLMkVFU19mbW5OeFltaUdRQXlKYndzakROMG1tZWN6bmhJR1o3OTMzdzJfYlU?oc=5": {
+      "title": "大和証券グループ本社[8601]：早稲田大学競走部駅伝部門のユニフォームスポンサーに決定 2026年9月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jWGVzZ0xjbFU0MWZiRVdndktsdW5FOEdfbWpOQlF5aEdyWUxnM3BvUE9YTTBhMFpaY2RCWmhVUUhBY0J1RVFTS0xsenBncjA3T1NFMkpwWi1qSEFaajZEV0Z1bWhWZDN0cmRN?oc=5": {
+      "title": "東映アニメーションオリジナル短編プロジェクト[Pro,Pro,Pro!!]始動！第１弾『ムゲン∞アニメ』に続き、第２弾『探検家たち』が本日Youtubeにて公開！ - 時事ドットコム",
+      "company": "東映",
+      "source": "時事通信",
+      "seen_at": "2026-09-15T03:24:39.581064+00:00"
     }
   },
-  "last_updated": "2026-09-14T23:40:42.835889+00:00"
+  "last_updated": "2026-09-15T03:24:39.581510+00:00"
 }

@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JX3ZDdUxwTDZsZHFXN3VKU2pyLTJKc0FtbUtDYWJtek5mZU9NUERRazNwXzBzUGhZcF9aMWtrT3pTc1RTakl5UnRtT0ZMa2g2WlJpSEZFS3NlMjFnYVMtS09NMjhiTlhhUm5NUg?oc=5": {
-      "title": "楽天メディカル、取締役副会長に武田薬品前CEOのウェバー氏 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-09T15:55:24.465322+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5keUZva2ZJQzhhYzRwT1NPLWtEME96WkM4WlZzYUxOX19KR0x5eVhCcEtoY3Y3bFpSWVFuUzYtZ1J0N1pzOWM5TWZrNG9QTjBwUkxYWg?oc=5": {
-      "title": "○関電、概略調査を１年延長 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-09T15:55:24.465322+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzOFNlb2hFM1dyMjRqTTVHQTM2R3NMTVhhaGNlX0c3d1psR0NUbkFuMmhFMnNXZDNCSG9ZWnIzeklqTXJLTlBkU0dYaWtmNWIxb0hvT3Zndm5mYWtnR0UtVmppMllhZzA4aG9aTA?oc=5": {
       "title": "三井物産、アジア向けのがん創薬支援 患者100万人データで治験迅速に - 日本経済新聞",
       "company": "三井物産",
@@ -2033,7 +2021,67 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-09-16T10:52:28.459635+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1MVg4Z3ZybHFSc1J3U1NpREZTTHg3TG8taGVQYl9Wd3hQaFMwbHdoUTVJRFBSbEd1emFld2d4cmE5Rkx5Yk9UZV83RWdwMF9waWR0SV9lYnlxZHBKU1l6dWF0YjcxQ2tRSTB4dg?oc=5": {
+      "title": "パナエナジー、リチウムイオン電池の開発拠点稼働 開発効率2倍へ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZTNkYkI5Zkg5TDNURVR0MkVBUGNYMHdQS0RyZjlTR2xSdnZFbnBuVVRGYkhZR1luUGRSZ0tRWFV4aHZGaG5YOWJpYTE5d3FDbERRRVJFUF9La3o4Vi1PcDVoZllGWk9kN1Qw?oc=5": {
+      "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月23日(水)イオンモール大和郡山にて2公演開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oLVl5akI0TVdBdFlTc0NVOVdZWG1JbFdwa3NMRjVUb3hoS0gzNkppdDdtaVRzY0hYTk9MMmUwbDN0TnZTdXN5M0YzeE90d1FMV0N5QzNlSFdLZGxnb0JDY0JmZw?oc=5": {
+      "title": "商船三井、クルーズ船「オーシャンサクラ」１９日就航 全室スイート - 時事ドットコム",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52T2tWTV9PeDlyb0lYcWduWjJlY09NdVUzTG5sVTJ4QzcwQ2dDT1E2dkNndG1YY3pJd2ZJcjBDa0h5dk82MmJac25XQ2x1U1FkUkl2YQ?oc=5": {
+      "title": "商船三井「オーシャンサクラ」１９日就航＝全室スイート - 時事通信ニュース",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmtTQTlEMmJpRnppdzB2Q09CQk5LeDNHbHRkb2pOUTN1MnJkSTdTRnItSjRUd09hYVhya0R1SlBPdVVSVUdtZUg4N3k3eDFvVkp0S2lVdTJmUkhFX0RVTmR2Z281Smw3NHMzdldvOUU0dzNjWXg3UHJQNkRXcGhUUlNR?oc=5": {
+      "title": "商船三井、クルーズ船「オーシャンサクラ」１９日就航 全室スイート - 時事ドットコム",
+      "company": "商船三井",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XVVdnX2k1ejFxd0UyRkpIaXRQWDV4OXFIdTZjeG5rMzEwamVRTENZMUhfRlhsWlRTYkFEYXlDY21QMUlZaUtLUmdHQ1RHNDFHMjNac200Vm1YOGZDbnBqRWstUjRKUDFkWDRNYw?oc=5": {
+      "title": "女性の健康支援、社内にどう浸透？大和証券Gは「フェムテックを期間限定で」 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OY29RU0NyLVdqYVVqQ3dvU0U4bjJEVkxzOXF6SGNtZ0dqZGJmZmJCNlFDRWNYSGdLTWZPRG1oVldVX2IxdkMzeVJUbk5KNlBfNjJJNw?oc=5": {
+      "title": "◎マウンドに集まるオリックスナイン - 時事通信ニュース",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1USW9yYTNUVEduUVZ4RVlDQ0Ewd1lLMlRRQ09wTHM4bWhpR1FZanBSODB6WlhjZE5jalJNdnBFdHZ2S3htXzdid3p3cW9aaWI3RUpOVw?oc=5": {
+      "title": "オリックス０―４ソフトバンク - 時事通信ニュース",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzS0pxR0tXZHRuZV93cG1CWGgtMVpjeWZsZC1HaTQyd0NvTFpVWlZ0QndpWWJmR0xsN0VKODFSWm02TWxoR1dKemtXdDZGMGgxcHNlemxSMlMtamtCRGI5ZW9jM0o?oc=5": {
+      "title": "画像・写真：マウンドに集まるオリックスナイン：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYUY1Y2Itam5LVTdQWlNhTXhrNzN6elJmdlhEak1Dd0M5ektGczFXckV3enR2VmQ4UklhYldaUGFmbkVMa1ZuTy14T1Jqc2V6cm9vN0NWY0IzRW5YY0k0dkRkcjM?oc=5": {
+      "title": "画像・写真：オリックス０―４ソフトバンク：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T16:08:25.796167+00:00"
     }
   },
-  "last_updated": "2026-09-16T10:52:28.460125+00:00"
+  "last_updated": "2026-09-16T16:08:25.796603+00:00"
 }

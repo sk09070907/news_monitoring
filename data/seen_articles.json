@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jR3pfVUFkbWNraGpTM3BySWlGQUVlTFE5TWlsX3RpUnA4cVRwWktpTmZWOXpaRE96Zi1VdDk2TjRQaXlEOGpveHp1LWdIakh3NXVfVmdFTVktZ2ZQTmJKZHdiTlY3cF90V3R3?oc=5": {
-      "title": "NTT、IOWN AI FundによるiPronicsへの初号出資を起点に次世代AIインフラの実現などを推進 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-09T03:04:48.304418+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yYkVtZ1otM3NNV3hYUDh4OUxFRDJULTlGX2ZYd0N4VHRSdXlBVzFpN29JZXJfVXpWSnN6anBYcGhLZTlEcmxPaWk1NVp1UHNtOF84TEc1UlhMNzR6dEZFMUFFbnh1MkI0NVNUTg?oc=5": {
-      "title": "NTTドコモ、フィリピンで「天気予報連動型リチウムイオン電池制御」技術を活用した実証実験を実施 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-09T03:04:48.304418+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1faEFlUG1hSVV0SmVpM0J0eUlVbU5yUHE3a0F2Tkp6Wm9WeUFEVHZkclB5UlAyczFZYzhsbWxWdXNVc1pSbVFTSXZmOUktY0JvaW84YWNyLXdBd0ZHc0FJanZEb0tkRVhmVllQYg?oc=5": {
-      "title": "JFE(5411)第45回社債発行 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-09T03:04:48.304418+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEamh0SDg3alRMRVQ3bUw2WTRHN3NDX25GV3NVMkxib1Ywcm9GTWk3dXpHRS1MLWVZSkU2TVV1ZVhrbXVIbGdlMFNFZG9DX0NfV3dLY096NXRJS0N0ekdIV3VEY2h0T0gzZWdpTA?oc=5": {
-      "title": "トヨタの株価が小反発 円高一服で買い戻し - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-09T03:04:48.304418+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdlpWTVU5Z29pekdHR29ZU0M4VjNFVmVYQkVpMkRVTXhJTk44aGxXVUpiQVAyUmNfdXVPbjhTY0Q0MkNWWDQycXdXdUNrdFllVGtRYlJvTDdnQ3lQMHI0OGZzeFlLalFQS01B?oc=5": {
       "title": "e-dash、みずほ銀行、ＪＡ三井リース、ウエストHD、三井物産の連携協定について - 時事ドットコム",
       "company": "三井物産",
@@ -2051,7 +2027,25 @@
       "company": "大和証券グループ本社",
       "source": "日本経済新聞",
       "seen_at": "2026-09-15T23:22:46.673271+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xc09oeFlFNzZ3WDZITGl4YjQ3MGJEZTc0Q19VMVpjaDVRZTZpX0k0TGQxRFpwV01HelRfVnlua3AxeEJaMWZtbUlNd182MjdDbjI2MW8zS0V4TmdQYXk3bWI2TGlaMi1nWEh4dA?oc=5": {
+      "title": "NTTドコモ、延べ34万人分の顧客情報をAmazon日本法人に無断提供 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-16T03:20:08.393013+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1oyOXVfQkZFek9uQkVMbWNOUjhiTEFQZ1RQT3FES3pzbmJBUlZwSXpxcnBENlBwcTBEQjBwNXVVLUxJQlZmYjlkaEdINnJwWVZBTUQ1YVhUYmdXZ080LWNrZE1Ib0ZmQnlF?oc=5": {
+      "title": "あらゆる境界をこえる“ファッションショー×音楽ライブ”「X VORDER RUNWAY」楽天カードスペシャルブースが登場！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T03:20:08.393013+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVcTBlMEI2a1h3Y01EMTdSVnR1UkViUE1OS3FKZVNmLUdrdWhvcEhnYnFqdXd6bEVERnhzcGlSbWsxbnlZaEE5MDlZby1BUDNySlZUeUlhbGEwMHMtVlJrXzRIZnJfMWVfWVdF?oc=5": {
+      "title": "イオンイーハート『紫あん』の「自家製つぶあん」が第103回ジャパン・フード・セレクション グランプリ受賞！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-16T03:20:08.393013+00:00"
     }
   },
-  "last_updated": "2026-09-15T23:22:46.673779+00:00"
+  "last_updated": "2026-09-16T03:20:08.393483+00:00"
 }

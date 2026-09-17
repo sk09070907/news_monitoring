@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWlNfSkNXb2ppVnVBaUc4Z2dvNnNoRlZTeXNGSVFWeDVLYzMtVHhjU19xT3R6M2FCMks2S0xrVHJMM0wydEhHUDlJVTROT1F4ZGkwY3Q0M2otS2k3WFRLaHl1VUdIa21aM1BMQQ?oc=5": {
-      "title": "サカナAI・SCSK・住友商事、AI活用を通じた日本の産業変革と社会課題解決に向け包括業務提携を行うことで合意 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS25QWHlVbFI4ZU9UVk85b2Y4Z1BfejJjeDlNa1FHMlNtRHZKdjNlbU5nZGYtWjA2UnBmQ0dzZUpBd2JZeEFOcVNZQ0Y5MWhFa3RSSTlNOWxlU0luRy1lcldEeUhUZFEzWWpz?oc=5": {
-      "title": "NTTドコモ・スタジオ＆ライブとeggmanによる新レーベルScrum Wave Musicより「サカキナオ」第9弾デジタルシングル「夏夜、面影をたどって」配信開始！Music Videoも公開！ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vTTN2RTFDUHoxLWNtVm11anJBUENIalhEWnBESWpSNXJlUDZHUU9ENnZSN044eFlUcGd1MEZ1Rms4OGU2VVh2OE5HcXNnd3BBTmtGMVR2a1JRZlZyeDRsaEN0QVVCRWdjdkxXUjlaeWRQMHZiUVQwa3pDSi1jUQ?oc=5": {
-      "title": "トップに聞く 東京計器 安藤 毅社長 - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZHNEeFZ3WHUwUm55S3N6ZTE4Z2kxQXZjV3ZyUko0c1RhNTI1MHB1MWx1aXVhZEptYWFxQVhfVEtzaEp3Tmp0NklmTFJBR0xBTzhMNXdiS0ZVQllCeEVHYUh0czZoTjkwaHoxUg?oc=5": {
-      "title": "楽天グループ、自動配送ロボットによる商品配送サービス「楽天無人配送」を東京都豊洲でも提供開始 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ud1hjQlZ1WmcwLWoxSzVDVUxBM003SWxGV09ZX2RFaUtkQlUwbUdub1JHb1h5anN6RWI1bnJYaWZkQmNYdy1Jcmp0NVhBdkdnSXR4cU1ISDctUG8yRUV5MkVmX1I1ektndFlj?oc=5": {
-      "title": "【明日9/10限定】話題のAIカメラグラスが5,000円OFF！楽天市場「Show It」が「5と0のつく日」へ向け24時間限定セールを開催 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CRXJ4VTVUR0F6VEE0UkRfa250WVgxczJTQWYyNE5jQmhqWXM0VGRUdkhlNkVnd2lESXozNlJJangyWTNwYUQ5WnkxcDQ3TFhaM2dIcndHQWJvTWU4WlZnN3FGMWpjMXVRd0Yw?oc=5": {
-      "title": "楽天メディカル、クリストフ・ウェバー氏および竹下 健一氏を取締役会に迎え、米国での事業基盤とオンコロジー研究開発体制を強化 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwdVVVbmtMMVpOYWtlNzlXSzBKZTdwakJBN0JXaklOME9LX3FJZnNhRFIyTmFtNVA1cWNTdXZIYjJEOEJEN0E0dDY4VQ?oc=5": {
-      "title": "楽天メディカル、副会長に前武田薬品ＣＥＯのウェバー氏＝９月１日付 - 時事メディカル",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TMlE1NC1HRFBwUWMzOVc4XzUzYXIwUndUMTMza1lCMFk3bXEyX0Q2cVhtR3R0ckV2WnZTdkRCZ01CQ3RRT1A3V3lEZ0xXRHZQWTBadXhYVzhUdzE5Q0F6WXpvblVhbjlVdHdn?oc=5": {
-      "title": "イオンモールとすみっコぐらしがコラボレーション♪ すみっコぐらしと一緒に楽しむ「わくわく！すみっコカラフルフェア」を開催！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cam5EckN0Zld5bm5zOGRic3VhaURQRnk1MHp6cmR0UXF0SVY0aXRPVFJ5VGgzbUpQRHN0N3IzX19PcUtocWp3QnQzNWRnOGNzczRTS2N1Uk5wLTUyOXNTSlVPeDd5RmhMR2w4?oc=5": {
-      "title": "約1万個のブロックで楽しく遊べる！『ニューブロックパーク』を「イオンモール都城駅前」で開催決定【10月10日(土)～11日(日)】 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUk9wY3VKWjhCVENlbGkyV19wVkFuX2RVN3VoSzQyLUhVYTNWM3JMbHZ3UndxNjVaeVlWTTFqV05KVVd6cm1saDBPR1pXZ1YtdjAxQ2R1bHgzdG9ob3FhS0lQYTRqVlh5OUdF?oc=5": {
-      "title": "業界NO.1の店舗数*ヘアカラー専門店fufu、2026年9月10日(木)イオンモール則武新町店（愛知県名古屋市）をオープン！初回限定価格は2,000円（税込2,200円）から。 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DUGg5czlFUnhxNTFYYmJoZUJUcDNJQVg4UVBtQ0pqZEdXRk5rQnlMUGhEVnNDaUxZM0hPQkRCOGRlZUNSenBFbWh0QTFKS3o2ZmUyMnN0aFZNX3l1bzAwX3hjQlNxbUdfcGsyakFHcUdkWDM2Q1M4cXpJb3Y?oc=5": {
-      "title": "【AD】みずほ銀行×日本IBM、AI駆動開発の最前線 - 日経ビジネス電子版",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVm1CTlBJT3NNRU5MS1BOTmZUeFlGUWNHUkxiR0pyTGFHWHZ2QkY2blR1UGZyemlpOHFUUjVaOVZUQjRhX0gtbW5XWlNRaHFMd0tUSE1vVTA4YTRYWng1RUw5MkRhX1RDcFpvb1JodFRUYkJiODl4MUtSOTNHYmV4Mkk1UXE0SkxaTWtKNQ?oc=5": {
-      "title": "【AD】みずほ銀行×日本IBM、AI駆動開発の最前線 - 日経ビジネス電子版",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BS2lGUU5rc1JzNjFKMjVrQnZZSHdqOGpSNU1QcmNJZTVTVWRtVlF0cEhUWV9NY1Y4anZUVll2M09aaVd1dkhVWlFveHVmc0ZRek1UOTlqOTJkVGVHSllySXIteEZBbUFqMkdjNw?oc=5": {
-      "title": "クレディセゾンとスルガ銀行、デジタルバンキングサービス「セゾンバンク（仮称）」を2027年初頭に開始 - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWnNkVjkxa293aEVaNTdNNEROenpyMHVsVWJMRDdiU0U0dnhXUUhDcGp0dHR6Ni1QdTYtb3dXWWhLWnZCRHBVWEU5MThwQ1FreVFIWndVVWhhR2RaemJKTGl3NjBZT1A0OWVBeg?oc=5": {
-      "title": "JA三井リースグループ、50億円規模のCVCファンドを設立し運用を開始 - 日本経済新聞",
-      "company": "JA三井リース",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-10T03:05:27.237273+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tSUlBeURnN3BQTDlSQ2VxZHoyRlhwZ0pvaENQd1k3eHY3SWo4N290cFdJVENhMHJEemFIbU9FMW1Ldll2QXE5OVZ2SjZIWV9WdjB5cVZGdnJEbGlXUGRlV1ZaaWt6cE5xNjZJ?oc=5": {
       "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 - 時事ドットコム",
       "company": "住友商事",
@@ -2069,7 +1985,19 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-09-16T23:29:37.794133+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZU05mTzE2dExjNTRnN0pNc3dIUmJ6UzhtYVU2MnVTNkl2cENEXzdIMjBsWmNSV3ZsVWhtZjBNMHFwMkhoMDJoMlNVYWl5Z3Q0TktINVF1U1dLSXg2a19QS2lsNkpBQXc5a1hJ?oc=5": {
+      "title": "名車「NISSAN Fairlady Z (Z32)」を大胆にデザインしたTシャツが登場！楽天市場で予約販売を開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-17T03:25:36.766405+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WYzhpeHRIaTZYMjlVZTFSYkJaanZaU2diZllLN242SnpoMkZKQ0FvU09yUHc2REFjTURLZnhpWjVmdzdNR1YwRnBKXzVLeGlYVHlxUWlFR19FUjZ6dEQzT0RfWEp0NzZTNjlF?oc=5": {
+      "title": "洋服・バッグのお直し マジックミシンイオン三ツ境店 神奈川県横浜市に9月18日（金）オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-17T03:25:36.766405+00:00"
     }
   },
-  "last_updated": "2026-09-16T23:29:37.794625+00:00"
+  "last_updated": "2026-09-17T03:25:36.766844+00:00"
 }

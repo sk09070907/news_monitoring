@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vOXJLeVRFRjFKYVpFNDAtOVF2T0VlQUtvUHhMS2pwNmJuSXFIRndIQ2RRNWxXYU5CTGhLZzlYUTJqdTc3eDBTSTBQQnJmazFvMnJ6eTl3TFFIcWRhXzEydFJVTlBuMVVkVjQ4?oc=5": {
-      "title": "【M&Aベストパートナーズ×100万人のクラシックライブ】47都道府県ツアー！9月20日(日)イオンモール徳島にて2公演開催 - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-09-11T22:56:24.476637+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81S0p5MWZ3RVJnN0tYVVdCVElLRnI1bW5pVGVNNEd5NW16MWhhdlhzMnVvMEpmeFFjTmE3dlNkX0F2TlRSZlZYalNTZTlrUlRGNVdzNUdmZ0ZqR0ZyTHNkRUtyRWcyUQ?oc=5": {
-      "title": "【速報】中部電力のデータ不正問題を巡り、勝野（かつの）会長が進退について辞任も視野に検討していることが分かった - 時事ドットコム",
-      "company": "中部電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-11T22:56:24.476637+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VdW11b0NaQ20wdVVqMHlKRWotejg2YWxibUJSQWRjRTZMQktDWGZRbWlfSE15UXJDTTVJRV8yVDlqTnpjNkNORjNQU0kyMk1sRE1aUF81b09uSVNYbDV6ZVhGaFhoTm5adk00?oc=5": {
       "title": "【オイシックス新潟】9/21-23楽天戦にて「長岡市民DAY」開催のお知らせ - 時事ドットコム",
       "company": "楽天",
@@ -2069,7 +2057,49 @@
       "company": "ジェーシービー",
       "source": "時事通信",
       "seen_at": "2026-09-18T15:50:08.857519+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FN0twOFRvbTE1MVM5QTl0NXF6empISkQ4ZFBYUV8wci1iZS1NdmN5cVoyakdhSldhMGtDNFd5TXFzMTlrVk1iVS1na3lZVkhuSm9aUzNNX1pGRXVWNXNCZ2RBdFVaR2FIUHdMdQ?oc=5": {
+      "title": "広がる出社回帰、帰宅困難者にどう対策 アサヒは自社滞在へ備蓄 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeDI1WlNfQTVRTG9KRU12WnlOQzVYaDlOWTA1TzhoUUVkSjBqeWFHZTdSUDNQeDRGb1FtSE9KSmtOaVY5VDJwaHMxU0ZjMWg2NzlhQVZwY0JVa2l6VzhzRTVJcktFVFJPQlBCbEpEUTBUU3RnRDR6Q1dLem9KNl9NMnEyUXhYYWNESS1RbG5TN0hJTkg0LTB3MmJwM1lZSDNpekNrV09tbHhHMUsyWnVxeDJZSHR3TUwzcUM4Rl80c1JWWUZVSVFNbUxCSjg?oc=5": {
+      "title": "王子ホールディングス[3861]：王子グループ統合報告書2026 2026年9月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "王子ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDTjhfOVNGNkduVU12cE1PYUdvSnN1YTh4anZvb0xpb2h2emJNMi1CYW0xR0Y2X21lOGJudmZTaFBUZnM4MzJnc3J4Q1JPWkhCWEZkR3ZqRkh5bTR5YkFUME9VbWlRS2ZJekppZg?oc=5": {
+      "title": "トヨタの豊田章男氏 米国自動車殿堂に 「レジェンド」11人の仲間入り - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFByOTF4R1Q1NXdOYkhLQTlQOU5FcGRsTFNYeUNQVHdMVXg2cm16Y2hrNl9UQ0pUVFpFQ1V0dHdYcWdTaFpCQ2hVQWg5VXd4azZ6SFNLa0xOS01GYk56Y1YtcXNnM08wb1JPX3drRA?oc=5": {
+      "title": "トヨタ「第5の電動車」初投入 発電エンジンで航続長く、中国で40万台 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mN3JkQzg2ZmZZR0hFTkNKRjVvdDFZSG9MV2FNek5uQzFiNGxkZmNWTU0yei01ajV2NXdBR3E0VmJyaWxpMG1tMldyLWd5b0d0WEczUERvOVNwdDROQ0pTQ2s2Q2pWUF9oQWgwdw?oc=5": {
+      "title": "イオン爆発事故、「避難後」対応に死角 小売り各社がマニュアル見直し - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkRuOEhiV2hWUVZTcm1oemhQczdNZWxXRlZzV1duTzFWcXRFdDdlZDAtN2tvQlZ2RUtuN2ZsVjQ1QzhhOWlPT3FLRzJCUE1ZNXg2enlnNEZBNExKTkFoYWNQT04xZHJUZ3lCSnZ1SjBpU3JIVWVPcWx4ZE11WEN0RHR3?oc=5": {
+      "title": "中間貯蔵、関電・東北電が参画意向 青森・むつ市長に伝達―東電ＨＤなど - 時事ドットコム",
+      "company": "東京電力ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRWtmNDV4RjR6V2RFM24tN3psTDBUbkNUUWRzQWtNRUdkN25acW5oX0o0TUxOOVB6M2lGbVpLRDR2WWgxellQV3Z2aXdlRUdRQ0xaTXE0TW16cDd2YldWYmpfci0wSEFtR0o4Sg?oc=5": {
+      "title": "中部電力、原発迷走招いた「二重の対話不全」 信頼回復へ出直し - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-18T22:58:25.197694+00:00"
     }
   },
-  "last_updated": "2026-09-18T15:50:08.857975+00:00"
+  "last_updated": "2026-09-18T22:58:25.198097+00:00"
 }

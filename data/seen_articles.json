@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VdW11b0NaQ20wdVVqMHlKRWotejg2YWxibUJSQWRjRTZMQktDWGZRbWlfSE15UXJDTTVJRV8yVDlqTnpjNkNORjNQU0kyMk1sRE1aUF81b09uSVNYbDV6ZVhGaFhoTm5adk00?oc=5": {
-      "title": "【オイシックス新潟】9/21-23楽天戦にて「長岡市民DAY」開催のお知らせ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-12T10:05:50.871480+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6akZNU042VXZGNXJzaFkxZmx2RHlHeDhidDZSYUV0WjJpLS1WNkNhTi1fVW9FemRVRUNwTnUzR3dQMEJ6dkxaYlFrSC11SWxBZHBFYXM2TDh5MlBjbmNGVFk1MmRKVzZyN0dnYQ?oc=5": {
       "title": "オリックス田嶋大樹がプロ初ホールド 「中継ぎできれば道広がる」 - 日本経済新聞",
       "company": "オリックス",
@@ -2099,7 +2093,31 @@
       "company": "中部電力",
       "source": "日本経済新聞",
       "seen_at": "2026-09-18T22:58:25.197694+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aa2lsLTdmWnd6TTU0YW5nSXlGYWQ1OVozRGMtT1FVRTZKeGFpbE94TUM0cURxNXpJalpBMkN1V3ZxVU9XMTQ3RXQwUE9mSkY1R1EtLUZJdF95T0RnekxUNUFmM2hHMEh0dDBGTQ?oc=5": {
+      "title": "住商、サカナAIを支援 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-19T10:18:32.193801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV09VcnQxOHlOU1J0QXA2MmVOYmhpSklOUUstMkRiMEprNld6Q0FKMnlJTnk0aGhsNktvM1hWTUc1bWxSOEhKdEJySVVXc0lubTNnRURqdkZvUmpucVI1cm5GcjZXUW1SRmthd1FTUFVRRjJoTm5aOVFqX2s0OU95VEItM1JzRWpRUXNr?oc=5": {
+      "title": "鹿島建設開発の立体音響スピーカーで、音に包まれるゲーム体験【TGS2026】 - 日経クロストレンド",
+      "company": "鹿島建設",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-19T10:18:32.193801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE12S3hNbkFkZWEtYlRDWTZKM0RtR0lqdmNBNEJlbnRKVHpLREpNbE5qWXBjMUJZRFZtbUNjUVdfWW9JLU5Ua2RiNEFJeVRSWmd4eWZ5WjdSYlRiR2lJRG1aZnRtT1lNc2ZiaUVJ?oc=5": {
+      "title": "トヨタ自動車と新CMを共同制作：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-09-19T10:18:32.193801+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVVJwTjBEV1Utd0NXM2diM21SS1d5dV9paWxRanVmWnpSQ2NzYnFpcWl2SkpZNVNvNlQwNEFVZlNhTEI3UzJlLXdnMGZaSk9yR19mSnNOT21PejluUEpoTHcySjVVNlZSX09V?oc=5": {
+      "title": "「ここは推しのロケ現場。」推しの専属カメラマンを体験！「Enjoy推し活!!」イオンモール堺北花田で10月11日～13日開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-19T10:18:32.193801+00:00"
     }
   },
-  "last_updated": "2026-09-19T03:07:58.245386+00:00"
+  "last_updated": "2026-09-19T10:18:32.194277+00:00"
 }

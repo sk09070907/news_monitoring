@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6akZNU042VXZGNXJzaFkxZmx2RHlHeDhidDZSYUV0WjJpLS1WNkNhTi1fVW9FemRVRUNwTnUzR3dQMEJ6dkxaYlFrSC11SWxBZHBFYXM2TDh5MlBjbmNGVFk1MmRKVzZyN0dnYQ?oc=5": {
-      "title": "オリックス田嶋大樹がプロ初ホールド 「中継ぎできれば道広がる」 - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-12T14:59:24.666103+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjV0ZG51NEo1WUJiYUZlaWJ4SDlXRm1fczNOOGNvcmw2cEpLS3hvVFdjVS1EclRUT3BQTXdIUmF2M1BCbDRMSzlpeVB1a1phY3c1RmY2TVhiYmtYNGxpbHh2UFlleTM1cU1RVGIzaWJuUUJxeDVfVk02Y1pDM0ttZnhn?oc=5": {
       "title": "電力会社ごとの保管量公開 東電が最多、関西・九州続く―核燃料再処理工場・日本原燃 - 時事ドットコム",
       "company": "日本原燃",
@@ -2119,5 +2113,5 @@
       "seen_at": "2026-09-19T10:18:32.193801+00:00"
     }
   },
-  "last_updated": "2026-09-19T10:18:32.194277+00:00"
+  "last_updated": "2026-09-19T15:22:05.114527+00:00"
 }

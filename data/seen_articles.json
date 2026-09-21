@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE84amJTdjFmcDJPVmtIUDNVcHdVMmdoM3RnUWZCQldRanNwQUhaVWtuRDNrOWZQUS03LTlKRUdqcUVrVXBBazBkUUdNVk9qeHo1dDIzQXVLX1puOTNRMmltTEVubE9kMDNSVEtqRA?oc=5": {
-      "title": "中央ア、データ拠点競争 NECや豊田通商が参画 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTERQZzl4NTlaa0lKWTU1bzd4MTRMQTN6bHExazdya3JTSVpzNzBjcTRaOU1MMG1reVo3eDdYckFETDRCQWhnMzYtVS1GLW9hbkowdWVKYm9WcF82Slh4R3JMZUxSVjBpMXNDWA?oc=5": {
-      "title": "NTTドコモ、街全体で「5G」増強 不動産各社と通信網整備 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFdEdHYVFTY1Jvb2RFcl9vVHFVdWVZb0ZWREVoR2txZnBFN0dzNW1wSVVYbFVzRTJfdzJOWnY5X2dpSkFMcE04b0NjOEkwak9vN183TA?oc=5": {
-      "title": "◎楽天モバイル、ＩＤ連携必須を撤回 - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5czI2QmNLUVRYVlZBOEJIcF8xUTVxaVpheGtHOFB2cEI2cl92cnhVNHlYby1TdU01aHZHTTJMZUZwa0FKbkNPS3ZaY29qNk0yUkp4YQ?oc=5": {
-      "title": "◎楽天モバイル、ＩＤ連携必須を撤回＝自動解約方針に「深くおわび」 - 時事通信ニュース",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtdzNoa0hKU0pkWC1pVEx3T3BGbU53bEZhZ1dKdjF5Z0dFb0hDcXladHYwMjlCM1lGZHBpUFY4WElSbEJYc3ZicDhTTFlxNjY4ZFhiX2VoUEk5aWp5bmVsdWFtaEhTWVk0Rmc?oc=5": {
-      "title": "イオンファン - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE93czFsenVqTXdfd1A3WGNzNkV6NXVWWURJNXNLZ0tIOFlBZjJmd1B2SmFBLW41VDZHSVpoaFVfcU5aWGE2dlhldmw3ZmFXTkQwV1RZVnpRN2k1Ym9paWYtdnVXOFFZVjhlaUlkaQ?oc=5": {
-      "title": "中部電力の原発不正、社内の自浄機能働かず 再稼働へ経営の圧力 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIeGR2UTFmSnUzYmJjUkdNLUh6RXMwdHcwUG0tNGQza2I0T1ZBZ2ZOQ01mWFFwd3NwcF84U0FhTzNTZkRuTGxkYnp6R3JoYm02dEgyVQ?oc=5": {
-      "title": "中部電力、社長・会長が引責辞任 - 時事通信ニュース",
-      "company": "中部電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMDVxNjdLWXBBcmcyMXVGRFZJWWFyRi1RcWR2QWdsS0V6TWRLZ0lrTDNsN1JiU2xVMEVFMWk3ZVpJRmwyM243YU9HSGVpX2FycnFMODlhdlB4VXczN2ZSeVhLYkpPazdxLVIwRA?oc=5": {
-      "title": "野村ホールディングス[8604]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQTQ0YnY0YlZMbmhHU3ZZay1WZU5DZjVFX01LUFBSM19EbTBGZ1ZPLVJMWHNwWnFYSkRZVjU1d1piMzdXRVdfYjBGNkZvelYwNWRFbG02RnpsYWNnUEJIUnZaeW5Xb043S09XZA?oc=5": {
-      "title": "女性の健康課題、管理職にどう伝える？野村HDが卵子凍結補助に至った背景 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T17:41:58.721364+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE90X3cxUWQzNkFNLWRTcTEyVmhnVDR0ckhqMVFSQXBjbkR3Z0g4b2plWEpLRHNYVkhQd1RSOGs4SFVaVERUemtmakhEdkFxVHQzbk1CbnVJVk01MXIyMHg2SlhmV2l4bVVJQzZUNQ?oc=5": {
       "title": "商社情報網、隠れた化学大国を発掘 三井物産はエジプトから洗剤原料 - 日本経済新聞",
       "company": "三井物産",
@@ -1775,7 +1721,19 @@
       "company": "東日本旅客鉄道",
       "source": "時事通信",
       "seen_at": "2026-09-21T12:00:15.865531+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSGhNcmRTbUc1U0NCaVgzSkNrU1dKZjU3Nmt2QlZEX05yOXlERmFhdUJxLXNDemFnbjhEdER3dzQ4VG5JWlhmNHltelF1OUJTYnA5T3RreDJQWmg5RTZ2d0pn?oc=5": {
+      "title": "【東京】フジクラの成長を支える管理会計担当者/60411 - 日経転職版",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T18:10:43.905236+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNS02Y0dhSGtmY1FJNmJJSmlZRW5wMDVSU0REcTdONmx3dlIzWmRTTVNIcDFwY0RMZVZ2VkhPeXFWRDJjajZBa3VUOU5ncnlJbExKQ0NvZmNpc0lqcDdMSnpZTGxwcXhSQTVtajVzWGpFQno5V0JESUhHVUdhRUpSRDBaSklWOGwzZ0FOLQ?oc=5": {
+      "title": "イオンモール熊本、内部映像が物語る爆発の衝撃 爆発や避難の専門家の視点 - 日経ビジネス電子版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T18:10:43.905236+00:00"
     }
   },
-  "last_updated": "2026-09-21T12:00:15.865955+00:00"
+  "last_updated": "2026-09-21T18:10:43.905745+00:00"
 }

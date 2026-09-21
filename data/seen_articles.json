@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90X3cxUWQzNkFNLWRTcTEyVmhnVDR0ckhqMVFSQXBjbkR3Z0g4b2plWEpLRHNYVkhQd1RSOGs4SFVaVERUemtmakhEdkFxVHQzbk1CbnVJVk01MXIyMHg2SlhmV2l4bVVJQzZUNQ?oc=5": {
-      "title": "商社情報網、隠れた化学大国を発掘 三井物産はエジプトから洗剤原料 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkYlhjajNzcHJjWEp3d2FFampDbWd5dExncFNuZU5kcXY4ZTdvUURRc0Y0ZW5HUmdyUVpnTTZCMnRMeW54eEZVcEVGOFB1R3loTkJUa2hZUlR4aGxOdWdzYUhpbG1ZYlZ3Yk9XUg?oc=5": {
-      "title": "伊藤忠商事の野田専務執行役員「AI現場実装まで泥臭く」 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQkl1Tm9yaTBoS0RrTmVkX1dIMDU0eVZtU28tQ1FTc0lDU3RzOGtwbFdFMFJ3aWZISk5MRXdLSWJBTVVBLVZYQnZOaV8xekRYbV8zZnZtZDBHWmN5enF1Z3Zybm5LY0NNRGVNRA?oc=5": {
-      "title": "女性技術者の力を引き出す組織のあり方、三井化学常務とSUBARUのCIOが語る - xtech.nikkei.com",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cmxxWHhLbWtmRnNuQXlZMmx4MW0wVW9tY1BDcHVZQkExU1hieFZtZHdiVVZPX25uaHV0R0p4OS1UenZjYkZmU2VJUzZFa3MxajEwYmVxOE1vWWo4UkhrVUdkYkZpNDZOaGZKc1lWWFF1MnhhZDVTQW52MlEtSjA?oc=5": {
-      "title": "トヨタ｢車に厳しい｣下山コース レクサス･GR開発の現場 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRm9ESlMxX3A3V3dpVEZrN2dhZmtINDBybUc5eGNYWkhzbkp0Y1Z4UmYwd2NJTHF6eHFteEMxME5Qd1RPaTVzZXNnVjF5YkpTQXRRWTdhN2FVRkN6aWsyQ1lnblVjYUZkVHdGZA?oc=5": {
-      "title": "トヨタ、水素トラックで欧州「連合体」 大手との協業を発表 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZmpYSi1BQzZqTmQ0eUpEZXdYYnhxQlNpaFV1Zi1vRU1nb2RJQmpnbWNUX0VjUi1mZzlrX1lIQ1FldzZmQXlRNzRuTGVZbkxCTnlhUlIxZXMxOFR5Q2NiY1ZCNlBBVklyeGpEMA?oc=5": {
-      "title": "企業ブランド力、トヨタ首位 日経リサーチ、新指標で調査 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMjRVbzB5UDBUWmt3SUJxbm1IQlQzSkRrRlZlQVBFRW9MdmZhclN5cWdYU1p3UWVITHIxbUJEbi1kOWhDaUprUFJXdjZVZWw2OGxXQndiSUZtZVdZdFl4STNWeTZBZ29oLUlsYQ?oc=5": {
-      "title": "楽天モバイル、自動解約撤回 ID未連携でも - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrOFU4alpLRjFDQVkwcmxUZVU3M09DTjNrU3BiVkJ5R0s4aVp4VXZVOWlRQ3JhY2ljamV0WVlaUkJoU1VZUFNBTjZYX3NRRUNEcHlhZG5GdEhRT21FcmlRR3BtaWh0V1ZaZWNoSw?oc=5": {
-      "title": "楽天の携帯事業投資、ドコモの4割 KDDI頼み、脱却急務 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RcWdxN18yckxlYjFNd1lpYjJNeHBFZVkzclhLMmpId3lkc2ltTm8tdHZjZ0Zfd1p1bFlrOW1SaWVQRVkzd0xWNGt1SjVGM3RKbEl4V1lSbDJELVh3azFyckloMktySUk?oc=5": {
-      "title": "中部電力、社長叱責で増幅した「不正の正当化」 原発再稼働白紙の末路 - 日経ビジネス電子版",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xT2NtNkh0V3M0MWp2Z05xQjJmdXNoU2N6Q0NaOXNfaEVDSW1STzZHRElma2ktQmlPbUV6bUVqVHM5d256M1NVOHNhSDh3SUFfZGlkTkFVY29rT0RhSGtTdkVkTXR6XzN4YkE?oc=5": {
-      "title": "中部電力で相次ぐ不祥事／「ガンダム」支えた自己資本／トヨタ、ロボ開発秘話（2026年9月15日版） - 日経ビジネス電子版",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMYjcwbTJwN1BBVDZsRGlWLWpnTVFHVnhISi1IR3NScW9zQzlpVTFpbDItZTkwQkNaVE90eUZYYXdONFNFenpNNzNVNHVScXVqVkhtcThmYWZCMDZQa0M1djhQbkNLcEtIajlqVnpqbHRHVklTamMwcQ?oc=5": {
-      "title": "静岡県の浜岡原子力発電所 中部電力の社長と会長がやめる | NHKやさしいことばニュース - nhk.or.jp",
-      "company": "中部電力",
-      "source": "NHK",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oMmJzejNPMnFRVkRHVkZrZ3FCdnFuaU9qMy1iUmtIU3FWX29CXy1pWExHeXlrdWdVSWV1YkdVQ2owNEN2djMwcWpvZVVYR25RVkhERXNuVll5VEk1OVZsczNHc0pRVm9wUHhKYg?oc=5": {
-      "title": "日本株ADR14日、売り優勢 野村やみずほFG安い - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wWG9feG9YT252My1xR0RNOEloWVowQ19WRFNKYWJiU1RjUXYwX2NOWGJxWXZ2d1RfSHNFM21MbGN0RVlON0pFMGxBSXNTYkdUaS1fSHhZN2U2d0JnYWliSFNkRDdSaGxPTHJobg?oc=5": {
-      "title": "大和証券元副会長の松井氏、アドバンテッジ会長に 投資先の選定など担当 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-14T23:40:42.835451+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCbnVaY05lblRCMTZwRHlXdFJYYkRnYThYZWJ1VFJJMmxlLV9VYTV1TzZ2NGM4RWJuazNSc3VxU1VGcmJjM0I3dnNFSWpBVWhkeUVqMzN4QnBsSUVEcWVNUEw0a3ltSm54T0dN?oc=5": {
       "title": "NTTマーケティングアクトProCX、2つのコンタクトセンター導入事例を新たに公開 - 時事ドットコム",
       "company": "NTT",
@@ -1733,7 +1655,43 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-09-21T18:10:43.905236+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTLUpDUFBNVEY0OUFEbzlxVzNxWHFxal9ZOGR1NkUya1g5eDE3TS1QclJzV3FnWGJGWWxHZzVZZER2SVpMd1dIOTBET040NVZjSnRhOUVmYzY3ckRaRWM1QzZiZEZaSEtYQl9ZSQ?oc=5": {
+      "title": "三菱商事、比財閥に1200億円 追加出資 持ち分法適用会社へ - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YLWl4Yk5Oa3NBTlhfbjNWa2xuSUh4NW52d21vUUdSTlhaRGVNRlpBb1JaOUhFNjdmc29NYlhvSVBDUEZWdjdoSmxQTTBkU09jS09qTktUUFJOMk9WTEsyc3A5NWFUSGRSelkxaQ?oc=5": {
+      "title": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWFR4Q1RydTRQYll4U2VnUmNfWkN3Yzdmc0RSRWExRzBhYllSNE5LQTBpWVE3UnA4Q25IcmZxc053c1p0djBtazB0X1U5bkJqaEt4NzRDYTBIS0x4T1I4YTVHSGlNTDBDOXRQbw?oc=5": {
+      "title": "時価総額トップ4社混戦 AI・銀行がトヨタ猛追 次の主導役、見定め活発 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2stUUx1N1NFZWlrYVJ3ejZ1VmJwalgxWG94QU00OHpCbzhLVmpXVF9DM1JOeHZGSDVZNVZ3Y3RRQ1JUMWFTYmE2Qkw2QXpSd1U1dlBhYXhtRUdlMDZKT1JXRUNWZUVwamIyOW1iVTZSYUd4M2Nta1QzdEtWb0IycF8yUl9Sa0NY?oc=5": {
+      "title": "イオンモール熊本、内部映像が物語る爆発の衝撃 爆発や避難の専門家の視点 - 日経ビジネス電子版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aNF9uZlNOaXpselRvNGROX0RObFFia1E0dlh4dW96Q0JvNUd6UEg5eDQwX09CR2wzTmpzdmIwZkIxaVZJWGduVDNzVGtneXoySjkzRw?oc=5": {
+      "title": "三井不動産、大英図書館を再開発＝投資額、欧州で最大 - 時事通信ニュース",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxa2NxRE1oMHZxcnRtYnR4WTR3TFVQWWRvd1U2dUprODNqVm1KdXZuRFFTZ1oxOV9CSkpFeEk2V2czRUR1MU55MlhOOFo3WjlDVmNWc3J6bFlBbTJueXNOY2JiVQ?oc=5": {
+      "title": "三井不動産、大英図書館を再開発 投資額、欧州で最大 - 時事ドットコム",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-09-21T23:46:51.235257+00:00"
     }
   },
-  "last_updated": "2026-09-21T18:10:43.905745+00:00"
+  "last_updated": "2026-09-21T23:46:51.235843+00:00"
 }

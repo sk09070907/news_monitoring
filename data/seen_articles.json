@@ -1,59 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DYjFWa2pJMjR4OVJTM09JR2hNUHMtT0pIcm9KeFBFV2RxNmhYaE1STm1vUGdjQTFnTGl1MWc0akNFSFRWSHRUb0hXaXVPcjVKNkdVY3hfSS1jWmRVUkZ3ZVU1UWlMQVVTUEt3Yg?oc=5": {
-      "title": "キャディ、ユニコーンに 製造業AI トヨタ系などから調達 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRVlLV1lPT2tBcXpobmt1MGdmb1RkUEZZNnBLUWd0RTdMR1NNWnF1RDJSTkdEemtPTWxNWVlVdFR0NW4yTGxTM3NJSklZMURLR0xpSWNoUGRCcFlhd0hyWW1menotZE0wYjRhNQ?oc=5": {
-      "title": "製造業AIのキャディがユニコーンに トヨタ系などから102億円調達 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yazQ3WjJaUmI4a2hELWtQYy1rYmVNTmR2WFhXeERpdjRUMEhFa2Vla2hySXVaVjZtZmNBVFhFdGFKMHZxZllnZm9UeGpfbk9XWkI1SFRtem5JbkttM3pyQWh5UUYyRENiTXZJdg?oc=5": {
-      "title": "中国EVシフトの大波、国有大手に提携促す トヨタ合弁関与が焦点 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUaFFEN0RmLVdHUDNlWlRGOGJRX2F4clQyeDg5N01sTkwyeHY3VXd2YkY4ZzVCaTVSU3lQMzk4bFViTmxrM21wazRfcjQzYW0xSkZzYVAwYllzQ3JQTEtzajVmVTkyaDAxdHdrbFJONmZIb3NqMTZ5UjN1LVZzMFE?oc=5": {
-      "title": "アイシン､ギガキャスト対抗の分割構造 修理･交換が容易 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jbFlGQTFHTFVCd0RSVzJkNDByZlI1cjV2SWFrSUNIWDg0VXlYLXAtYmRuVFpESGRoczc4YVNDTk9zYWphbkJLZEFkVjlzbWNwdkVMcjZIa1lPU1pEX0hfUmhWVmw2OHl2Zm1hVA?oc=5": {
-      "title": "みずほ証券と楽天証券、資産残高7割増200兆円に 30年度メド - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXdhaW5zVy1fX19pTXJKYWx4VmxZN3dLeVRINFY1dkUyNE10WFp0UTItMkFCQ2R0MFo5RDVOeVY0TWpEVFpaOFcxLWctVm80Q2Q1bVRYLXRfaEl0SnBnQWtpVUNPaWZRWS1idFY0N3hjNzFEYWxmZHNxbXl1YVFmZ00wNU45Tmc?oc=5": {
-      "title": "【特許】中国・当升科技、Naイオン電池正極材の劣化抑制 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpTMUlvQjZCLTJPcUF6Vk1PeG5rN0M2SE9ldWFjQXg3Vmw0TVc2aUtkaDEyYngyZjIwdmNVa0RocHNLT0hmdGhDUlFHVEU4QmZSeVk1THA0aXhVa0VLYWFCSzI1U0ZqTi01Vg?oc=5": {
-      "title": "東電、ロボアームでデブリ調査へ 福島第1原発で 廃炉工法の確立占う - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aN0VEU05fSEUybXRETkYyenQ2Ulp1MkZ3NmRhT3FQTDRTZEg3YlpXMEtrNWRaa2ZzaTNYOTlrejdJcUhmTGJCZ19FX3VTSUowTUVyWlF5Q2lIMFQ3WDlJaFN2UkZfMzBtNjhJVg?oc=5": {
-      "title": "中部電力の浜岡原発不正、御前崎市長「地域の理解不可欠と認識を」 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZTdDektUeWM2eHpWNTVCNWpfQTMzdDk1MjBfdFVwWnJ3c0ZBSmNIYWduV0lWVWdIdlhDNWhTbkUzWDFXb05SR21jUW8ybF9kRWZJWnZSSTdIWktwR1pKSzdnU3ZYV1JKNEFueA?oc=5": {
-      "title": "金融ニッポン トップに聞く（2）銀行買収、総合金融へ 大和証券G社長・荻野明彦氏 証券担保ローンで成長 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-15T23:22:46.673271+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xc09oeFlFNzZ3WDZITGl4YjQ3MGJEZTc0Q19VMVpjaDVRZTZpX0k0TGQxRFpwV01HelRfVnlua3AxeEJaMWZtbUlNd182MjdDbjI2MW8zS0V4TmdQYXk3bWI2TGlaMi1nWEh4dA?oc=5": {
       "title": "NTTドコモ、延べ34万人分の顧客情報をAmazon日本法人に無断提供 - 日本経済新聞",
       "company": "NTT",
@@ -1463,7 +1409,13 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-09-22T16:16:43.690455+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fREtXYlB3TGRBYXZ1UzR1ZmludUNNZldTZjdZeGhOOURXMG1DX08xNElCbl8wZmpyMDJjRG5aaUdNZTVWWkxkb28zTjZ1aTVaMGl3XzhLY1hMaEowY3pzRzdCYkE4VUFMQzVEUg?oc=5": {
+      "title": "名より実取ったホンダ、トヨタカレンダー刷新 車産業の今を読む5選 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-22T23:26:10.817147+00:00"
     }
   },
-  "last_updated": "2026-09-22T16:16:43.690677+00:00"
+  "last_updated": "2026-09-22T23:26:10.817546+00:00"
 }

@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xc09oeFlFNzZ3WDZITGl4YjQ3MGJEZTc0Q19VMVpjaDVRZTZpX0k0TGQxRFpwV01HelRfVnlua3AxeEJaMWZtbUlNd182MjdDbjI2MW8zS0V4TmdQYXk3bWI2TGlaMi1nWEh4dA?oc=5": {
-      "title": "NTTドコモ、延べ34万人分の顧客情報をAmazon日本法人に無断提供 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T03:20:08.393013+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1oyOXVfQkZFek9uQkVMbWNOUjhiTEFQZ1RQT3FES3pzbmJBUlZwSXpxcnBENlBwcTBEQjBwNXVVLUxJQlZmYjlkaEdINnJwWVZBTUQ1YVhUYmdXZ080LWNrZE1Ib0ZmQnlF?oc=5": {
-      "title": "あらゆる境界をこえる“ファッションショー×音楽ライブ”「X VORDER RUNWAY」楽天カードスペシャルブースが登場！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-16T03:20:08.393013+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVcTBlMEI2a1h3Y01EMTdSVnR1UkViUE1OS3FKZVNmLUdrdWhvcEhnYnFqdXd6bEVERnhzcGlSbWsxbnlZaEE5MDlZby1BUDNySlZUeUlhbGEwMHMtVlJrXzRIZnJfMWVfWVdF?oc=5": {
-      "title": "イオンイーハート『紫あん』の「自家製つぶあん」が第103回ジャパン・フード・セレクション グランプリ受賞！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-16T03:20:08.393013+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Y1hBd0FXSlY3emRNSTgyaEZ1Nml2ZFpoMFBGd3JZQ2UxSDZPdjlfMDdaUkxWOHhvaERwaFM2bXhZRlltVXlwc09BYlB6WW9ib21EY20tU3J0ekZtN1JwN0VMZFp5OV9XVExGMQ?oc=5": {
       "title": "ウエストHDが三井物産系に太陽光 不動産運用の対象物件で導入拡大 - 日本経済新聞",
       "company": "三井物産",
@@ -1423,5 +1405,5 @@
       "seen_at": "2026-09-23T03:19:28.669025+00:00"
     }
   },
-  "last_updated": "2026-09-23T03:19:28.669183+00:00"
+  "last_updated": "2026-09-23T10:46:21.355845+00:00"
 }

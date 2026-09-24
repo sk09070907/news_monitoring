@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1N5ZHNUVm5Fd09OTHdXb045NG5DV0NZQmwxVHltWFA5ckQ0cWdJYS1sRVRKUXpBVlYycnU2OE5rNHlNUnZicEdBMkJOSkJ4Y1RJZDc4ZjJvNjdNeFZmRUlVZENRWFNiYmhQaDY1RS12WjFWMklIWWpINkV5Y09lNmEyU3BIOGd6dEpMejVIQWEwclJT?oc=5": {
-      "title": "52歳でMBAを取得した住友商事社員 学びを通じて得た人生の羅針盤 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZzUycGZLS0l3aUFjN0lEYkRPeTBpdjcxZnRSUlhxTDJqUTVRRlJHa2NkVXBPUWd1aHE5ZjdQMUtyZHkxUmRWVTM4MjBvUW5aZm5KWkRUYkFjSDhtNGZoekZzcmN5Z1gzd2lvVQ?oc=5": {
-      "title": "楽天市場が出店料4割上げ、27年2月から 物価や原油価格の上昇受け - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncUl2RWpfMTRNblJQaFpnT3ZjR2ZQb0pxNFcwdF90SWtCOG80NXRQNmxBY1F6dTNrSHZGbE1pMHpnWUg3VFBvc0FHTlJ1LUFnMk9TMVlqc0hMcVZxWVJJaTA5VzFjN3FzRHBj?oc=5": {
-      "title": "アクル、イオンフィナンシャルサービスと連携しイオンレジを利用中のEC事業者向けに、不正検知・認証システム「ASUKA 」の提供を開始 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTEVRS193LXpmamtYZHhkRWNnTkNFamwwelhwM2c0VlR2ajRTWi0zV0ZVN1EtbFVYaHRpcEQxVjRKdWRXUFpGdDNzWFZNdE1Ec1NZNWllcFU4ZGdabV9jOVU0VG1FdURpMUxVMw?oc=5": {
-      "title": "関西電力、試運転中の美浜原発3号機を手動停止 配管に水滴 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4eUo0ZEFzSlExVDA5TWpTeC12QWkydzBnWEh5Z2hZamdQVE9MSlBFRmhJcVZSRTdmdGR4ckZ4Z0M5Unc3a1Y2U0N4X1pkQ3RPVnU1ZFp6a0l1aDZxWWc?oc=5": {
-      "title": "関電も電気料金を過大徴収＝影響額１４００万円 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YSEo3QmdPTnJ1Z2dRbHBLTmxQNFVidVpGMWZzV1Fjd1BZZTNiN3BLcnE5OHJKa296UjlZdTk2ZjJuc1VpUnBNbnR4QVVVSmhlNWZJYg?oc=5": {
-      "title": "◎関電も電気料金を過大徴収 - 時事通信ニュース",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazBNZ0FhMlRJQkJTNVFCU2hpOHczS2NMYnN0UVN4MWllQTFOdTJlVWhwR1VoN19QMlktZU5IYmdFRlo5RGVraHhwOHRhTVZueVUzSWdUU0s3dnNBNkNYcWNXYm8wWmZOSTV2T3hfVVR6clpjbmRETkdzc2ZPekstalF1UkhhQ2ZfOGJBY0E1ZVZHZW1CUFlhb1BDdmw?oc=5": {
-      "title": "SBI ホールディングス、NTT データ、ミンカブ・ジ・インフォノイドによる 金融領域における新 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTDFZeEFLN19idXptUlU0YW9CNXFORTFSQ1E1MmhLTlltVDNjVGM0aGtidDRyY25hVjcteHJpbXpnTGVpMHdlZ0EzVTdKb3hFeGxWMEFkWkVKdFJPUVpDZWJQVjBrb3doZ2VMWg?oc=5": {
-      "title": "ミンカブ株価がストップ高気配 「ライブドアをSBIが買収」報道 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9paEJycldaaldyTS1jYndmMWVOSlE0T1oyWEJDM0tsREgxTFlFYlBuUjZ6amw0VFRsb081MDh1TkNkY1Y5UEZoOHlYbWNwdkw3RkFyaUNmWjVZb3ZKelJYaXRDQWM?oc=5": {
-      "title": "画像・写真：オリックス１―７ソフトバンク：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1lXV3dtMktYT003S014VXF0Q1AyS2QzZXNfUFJ2cnVPYm5nZldpZnN6NHNLdFRSLV95bW5VU0FENnJxbndqakdITy02dUNVdWc1a1dScUszNjN3VlMwaHNOeEJJTFNNSldlSzQzWXdJV29ZM3BhbWRmbUtESkl2Z2g2aHVlWVRUR2E4?oc=5": {
-      "title": "虎ノ門を日本の“カンヌ”に 森ビルになぜ「広告祭」が必要なのか - 日経クロストレンド",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhVnJQRjZpMm5UVlN3U3poVG1kdUk1YUs3UU1Ub04wNmthQXRwenozbGNPMHNUb1F6ekI2SWpIb0JXc2VlaXVDaXpJc0pDaEh1M1NXaw?oc=5": {
-      "title": "東京ゲームショウ開幕 サンリオや東映など異業種が初出展 : 映像 - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T16:14:55.262210+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWd1UERhb0g4WEhmblpDek9RZUx2R2FtRmdfdnRnamppTGhtWF9ob2o1UkRhbGs0aHRwbm0wRmFWcVA1NTZKMGJsQ3U1eENPR3dESTFiN3htSGEwYXhhM25SQ0IxSmpxZVJCX1kzYUNlTWkwcTBVSk5hd0ppUWJ5M0dhdkVfVFVCZnZ2Mg?oc=5": {
       "title": "52歳でMBAを取得した住友商事社員 学びを通じて得た人生の羅針盤 - 日本経済新聞",
       "company": "住友商事",
@@ -1103,7 +1037,37 @@
       "company": "日本ビルファンド",
       "source": "日本経済新聞",
       "seen_at": "2026-09-24T11:07:59.841403+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbXlGS2VZdWZjZTBHVEtFVVJyTlh2OF9nRVBmcllrZ1o5MHh4Q01COGVDSnVCc1F3bnNIWlQ1SW5UWW1NdENzM196VDBDaFZZa3lZbVkwZWlOa0c1ekZUekhRSmFuemRwMF9MSA?oc=5": {
+      "title": "イオン、送風機を自主回収 発火のおそれで約1万4000台 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T16:30:18.995726+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hVW9MX3g0eUM0UUM5SlZDUVZ1N25UYkRBeXFiWEpwLTZFYVhTNGhDVmc5d2hzNkNOcWZjM3BZX0pKdTI5NDhjTHZSTW5Bb2ZR?oc=5": {
+      "title": "「解剖」商船三井グループ vol.02 エネルギーバリューチェーン構築への道 ｜ 商船三井 ｜ 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T16:30:18.995726+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6OEl3c0JWOTNXY0pMaU5mS3NLelNlUV9fQWVycHU0bEFLOFNZZXMyNjVzUTFpcjJXbmdPaU1zRFpaUnYxUnpNR1hrRTdaXzlHNTJ3aDJUdVE5N0FIUlEtaE1jckFHbHVsRTNIOA?oc=5": {
+      "title": "北陸電力[9505]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T16:30:18.995726+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KN3FfS3UtdG90S3lVZjFhV2ZjbFVmZGxXVllHSE5hT2hKQm9TeHlaZmJuUzFSQ05hQnZkc0I0UE9Jay1vaVRzUG16U0lXMHJqdEE?oc=5": {
+      "title": "MUFG's Digital Bank to Open as Emut Bank in 2027 - 時事通信ニュース",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "時事通信",
+      "seen_at": "2026-09-24T16:30:18.995726+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fVmg3djc5TDJ3X3gxN2xZeDZhUnQyUEllX2E0SjFCR2NLZG1yNlhIUVE4dmEwM21yLWJYcjg0Q3NBR19nMmp0aGRBTDB3TTllTEJpU3VKVHVjQzlpRDAwZkNYMkFya09rUTVDdA?oc=5": {
+      "title": "三井不動産、京都五条に三井ガーデンホテル シークエンスを改装 - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T16:30:18.995726+00:00"
     }
   },
-  "last_updated": "2026-09-24T11:07:59.841822+00:00"
+  "last_updated": "2026-09-24T16:30:18.996092+00:00"
 }

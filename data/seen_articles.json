@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE04SkdGeFJEbW1Vc1RPRTUzTUk2a0FYOGFLcTFWV0h3SFlJbVdpam1hUWVZWTViVFpuTEpmM0l4YnNTLVZ5Y095M095bWlqQTNCUFg3SUlIa2NPcGRUMF95ZkhjSjlRWGNoYWRNUXI0VnVCdw?oc=5": {
-      "title": "伊藤忠商事、IT市場の変化に布石 電通総研に最大2152億円でTOB - 日経クロステック",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE83YWVKRFRCSFZBWGJFNTI1QWJFRG5lR3VrbmJwMHNpYU9KS2FwZG5QSzdGQzJXM2hWSXdyTFZpYUM1LWt5QXR3WDF4YlpSdzFINzB5SGlSZW5yN0Z3cThIcjE5YVZiOTgyc3BJT2htZmYwdw?oc=5": {
-      "title": "NTTデータ、統合AI基盤に新機能 AI秘書が会議前に資料作成 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90WlZMZzU2S2pJa3NqOUo1QWVmbEoxZkdwUDJkNHFOZHlBS0ZkMnphNUhwaEl1R05FS0xQQVVic1YyMUJNUlZNYUJoV1BtZlFSZXk0d3BtaXF4aFk3NWFhOFFUakZVc2dsZ1lUcg?oc=5": {
-      "title": "三井化学･橋本修会長､石油化学再編「議論を尽くし次の成長へ決断」 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6a1FiSEltVl8yWkxrVmw3cVRoZzJBa09VdVBYdWM1dGJUXzEtNUZGbEZHUW9hd0l5OXNNcHdnNDhZNEdGMXQxc1hPRjZ2ZFNIS2NDQVNUUVlrc0loUVNzVHBLNUpsNW8?oc=5": {
-      "title": "トヨタ生産方式に学んだイーロン・マスク氏が向かった第一原理主義 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE02eEhXQ1BNaFh4UGw5akZ1bTBxQVl1amNLckJFUHVoYmk0ZlBwbl9XLUFkLTF4Wi10cTNLZDA0N3JrWkxXRUV4X0V6aGRRWDU3YUl3cVdTQXhMeGl0by16WnhBZTJidGtfSEE?oc=5": {
-      "title": "トヨタ、ソフトを「爆速開発」 マルチAIで手戻り少なく - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE42NTFhbEVtME1Fb3R3M3FaaUR2dFVaX3QzekxfdnFwRVFOV28wUmhuRmFUeE50TUFxbXh4MElJWGZ1SlEtYTctekFXM2gxcXFzdC1RS2NwN3BOeHBMVjlBTDVVWXBVX3hVQ3c?oc=5": {
-      "title": "岐路に立つデンソー、新たな競合はテックジャイアント トヨタの将来左右／BYDの軽EVラッコ「日本のためにゼロから」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zUFFwcldGcWY0aHRXWG5tMFFFeXkzdWVTOTlaYlRZMU9nZmdvel9TaFFNMWlCVnVtVmdXSGozal9GeldvamlwZXcxNGM4cGkxWmc1Q1NOT0tkM3VKSnBYTmM2ek0tZi1OcUs4?oc=5": {
-      "title": "楽天証券のスマホ向け資産づくりアプリ「iGrow(R)」、300万ダウンロードを突破！ - jiji.com",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UZ29kc2pxNGRtSkNiVmQ4WDJDaEpteDRwOWxiYzFhX0dCTVUwUGsxRUlFNVlhTWFldHkwTFlwM2VmVWFQZEJOX1ZFdjczZ1pFWlJEajlzWk1uTE5LcXZBdmo2Snh0QWc?oc=5": {
-      "title": "東京ゲームショウ開幕 サンリオや東映が参入、メディアミックスで世界に挑む - 日経ビジネス電子版",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-16T23:29:37.794133+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZU05mTzE2dExjNTRnN0pNc3dIUmJ6UzhtYVU2MnVTNkl2cENEXzdIMjBsWmNSV3ZsVWhtZjBNMHFwMkhoMDJoMlNVYWl5Z3Q0TktINVF1U1dLSXg2a19QS2lsNkpBQXc5a1hJ?oc=5": {
       "title": "名車「NISSAN Fairlady Z (Z32)」を大胆にデザインしたTシャツが登場！楽天市場で予約販売を開始 - 時事ドットコム",
       "company": "楽天",
@@ -1181,7 +1133,61 @@
       "company": "ジェーシービー",
       "source": "日本経済新聞",
       "seen_at": "2026-09-23T23:24:31.855988+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lZVBGcEdyY1BZX0RpTFJkQ3RuV1VLV1FrUTEtRGZFYTNBbnlPSnN4cW5yZ2s1LWJZcGVoRUk4T2RKdWZuSUFodXBvYlViRERqME8yUXF3Yl84a1p6QUtKeWZzWXhYWWluOU44?oc=5": {
+      "title": "NTTドコモ・スタジオ＆ライブとeggmanの新レーベルScrum Wave Musicよりシンガーソングライター「くがあくた」第4弾デジタルシングル『燃えないごみ』配信決定！ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS1Jpcy1lWmIxS2xyVG5ObXlYWUlTc0tlUkdEUElVREFhdkFPQkZDeEI2QXptZDFZS0FqYldrdHpSSkdHOEtNXzF5VWRvZ1dQT3lpeHNoOGdPV3A3blpzbGJZbkl4MnAwQzdUZmRSUU0tNTl2?oc=5": {
+      "title": "三井化学会長・橋本修氏 変革の決断、議論尽くして - 日経人財グロース&コンサルティング",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lOW1PVFZPX1A4OUlxMHdRQWY4cC1DVm9DLVZqZTM2VkVCSnMtZDhOeUExSmo4NGxSd3BqU20wSUIxZFNhc09lRVNWX1pDTFhIYWhYMWZWQ3ZneWVXRnNPbHY5WQ?oc=5": {
+      "title": "東芝：高いサージ電流耐量で産業用機器の高信頼性化に貢献する3300V耐圧SiC MOSFETモジュールの発売について - 時事ドットコム",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZTUtSQ2l6X2RaYS1kODFub2VubUg4bmNsWnJxWl9lbnEydXVVd3l4aGJXY0RLeFV3dHR0RWVXcGpmZW5GRGh1a2hidVFLcDg1aHJJODVRejJWM1g5dFltVW1ualo3WnRyZXV3OA?oc=5": {
+      "title": "トヨタ豊田章男氏「自動車業界は協力を増やそう」 米殿堂入りで式典 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE44X3ZqdnNFMk00eTFlTmFHbmtEdlN3a1ZzUlNCcVFTaVc5eVFUV29PQUphQ29sZ3ZIdGgydVFIUzZfc2ktMmRmdEIweHlnWmkxaDBhSTRON2dmMk5oTERPemJiTVZhNmRuVVc4?oc=5": {
+      "title": "LOGILESS、楽天市場の「置き配」に対応：時事ドットコム - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15U0pUYlB1dDdSMmQ0OFQtanhTTXRkTGlfcl9qOWVxRFNvRHhWS0h3bjVjSk85cXhTbzBYcW5RdEIyU3VyS0p6elV6Vl9vRjRqOW8zTHVJaFVhTEJrTVlnRkJTWjZRUlk?oc=5": {
+      "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVlQV1pIRVQ5eGFteVk2WHZqY0h4ZHM5NFRuVjJRTHpDWXRHVl9lNEoyalF4UXl1OE5xWmIxMVNDR2lDQkJFdk05QmxZelZNV01RS3hTc3F3YWtwY1NKTWdnLWlVYkRRSkw5UmYwR0hBdURhNXl5UVdWU19XRVB1cmZKWVF4bXRIT3dvSzV3?oc=5": {
+      "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WjFhM1Vza2NXTTFuZlF0dGlqRGFvT3Ewem5SSXpvVGlUbHVKdXBGVXRIVmw2NHJsTy05dUpRQktvV3BKZzNlWlF3ejVvd3UxOGJNZkxLRjgtYURGUWhSV3RWOVpJMWF2alplVA?oc=5": {
+      "title": "三井住友信託銀行：変更報告書（特例対象株券等） 提出者：三井住友信託銀行株式会社：日経会社情報DIGITAL - nikkei.com",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZeHFzZGZ2YVVjWm1Pa3MzWC0ya3N2MDloa19jYnZnVW5pR25JeTkzaTFZMDVmOVdLeUROeEJFZkx3R1U3VWZuakpISE91N0liRFBVZ1poUkd5X28wTWpOVnhNRjNBbmczTjhj?oc=5": {
+      "title": "JCB、「ツーリズムEXPOジャパン2026」にオフィシャルスポンサーとして協賛：時事ドットコム - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-09-24T03:09:25.711024+00:00"
     }
   },
-  "last_updated": "2026-09-23T23:24:31.856397+00:00"
+  "last_updated": "2026-09-24T03:09:25.711437+00:00"
 }

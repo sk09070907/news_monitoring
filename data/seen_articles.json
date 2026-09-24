@@ -1,101 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWd1UERhb0g4WEhmblpDek9RZUx2R2FtRmdfdnRnamppTGhtWF9ob2o1UkRhbGs0aHRwbm0wRmFWcVA1NTZKMGJsQ3U1eENPR3dESTFiN3htSGEwYXhhM25SQ0IxSmpxZVJCX1kzYUNlTWkwcTBVSk5hd0ppUWJ5M0dhdkVfVFVCZnZ2Mg?oc=5": {
-      "title": "52歳でMBAを取得した住友商事社員 学びを通じて得た人生の羅針盤 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWWhYejFnTXR4SThqVkZ1d0FoaWkxaE1uanJuWVJRLU9ZU0NyRjdfYUwyUFJmRXNnUkQ0YmFZTkFXV09rRnJta1NrZjhRdmNCUG1UUHV1aGhyQlVUcG9pMUFCRkdNeVU?oc=5": {
-      "title": "NTT、IOWN用通信チップを宇宙へ 光電融合で「スペースX超え」速度 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaXhPUTF6Nk5PaG42MlpTbXkzcHdCQVduQ3RENFgxN0Nvd0g4czlQU09BSFowYk96SmxXbFpLTXlzR3NKcTJqTUpGbUw3TVhWZU1lempZY3NMeGhzUFJGVHJkX0RXNFU?oc=5": {
-      "title": "宇宙で量子暗号通信、東芝が先行 NTTは光技術で量子インターネット - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wcWFqUGtHSHZjX2JnQnVXVDl2VXlHSThUTGMwMmtIWmIyaUttLU5oZDZmd0tOendOYXVFd0dYeEVDSURnd2ZTMTdKOGgxMFF1R1huWDlwNVhJMXlGdEpfRlpvVXNTRkpBbjZCRFd0MUFTQ0dhS1NZTVBNY3hEQQ?oc=5": {
-      "title": "JFE株が軟調 原材料高で見かけの利益増、実態は価格転嫁に不透明感 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUUJtUm9tVFJBdDR6NWF2TEk1cVpTVWM0T0ZTVzRzdGFXUFBHUk5lTzRaUWxTWWpyMUw4VFI3eEFOdzNjdkJJTTREN0RQTWRpZ05IV1pHWVJMMTFTTkt3SGNwby1QZFBFZVlQUQ?oc=5": {
-      "title": "トヨタ、内製ヒト型ロボ「エリー」40万台を工場に 従業員と協働 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rM2t6ZmRoWnB2QmxPcUJDTlZ0SmF4ZDcxNjVNSTllekRsM2RLa1VSWTlhZGk1WGpBS2M2c1p6NUxGTkpIQmV5TkxsX0ZWUXVrUUt2SGZKdFBhWnE0ZDdDMEhoV3FNdk5LLWpKWA?oc=5": {
-      "title": "トヨタ、ヒト型ロボ40万台 自社開発、世界の工場に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbDgyaGhYa29wbnJqWTB2QUxVa002NXNYUDJIZTF2ZEM2Q3ZoSHE4OTJCVEsxSGdFVkxydU5kZm1udlZOd2MyMm5qZzBYdnIxcEpOSV9tMVV1VjhEaU1OeG5rS1pXXy1SMUxlcA?oc=5": {
-      "title": "経産省がガス漏れ警報器設置を要請、学校や病院など対象 熊本イオン爆発 - 日経クロステック",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uTHFVOWRfV0l6LWdJbDdtaEtsdGRmWkJkR3BPX25MNjk5aUdRZWpiQk1IUXRMTVVPYXpxV3o5TXhVSlVUWWR4dW5RMHE4UUEzeXdoQU9FV1hwaF9yOW5sS3MzbDVuYjdVVGhlag?oc=5": {
-      "title": "「空飛ぶ船」商用化へ 商船三井やJAL、海面すれすれを時速300キロ - 日経クロステック",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYXY2ZVhpY3J3QU5IT1FaWk9DN19qQU9YRzZwaFNXeVZmMERQYmlxZVd6bExWd0lyZU9TTE9OX1VVcjY3U0wyd0JtTlE1dHlJVENLcHlLc3ZfVWkta29VaVN1amJ5cHpSN0E?oc=5": {
-      "title": "関西電力[9503]：美浜発電所３号機の原子炉手動停止について 2026年9月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1obVJRdDgxaS1xajJ3S09aSUFNNk84UEhIMWpKTzFPRjJIYk5fQUt2Nm5mbV9sZ3NGaWJrM1pvWjEzRUM4WWVUMWtFTER3YzRXQ2JacEwzWVY5R193Vy1Sb2lJbjdKbWs1WEc5Ng?oc=5": {
-      "title": "金融ニッポン トップに聞く（3）中小の技術継承を支援 みずほFG社長・木原正裕氏 AI活用、ベテランが鍵に - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwS1N1Z0QwczJreS1KRVBCWU5TSjlfeDVabGYyR0g4cVFJNFNrTC1pbmdfWjVucWs4N2RXNGFVVkxHVzJrcHZPbXczMFktN255X19CWmFBOG1PTkVrRVRkeTd2d2dscFp2OXpoSw?oc=5": {
-      "title": "先生も天国で喜んでるよ あおぞら銀行社長・大見秀人 - 日本経済新聞",
-      "company": "あおぞら銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJSWFseVVuMEpGN0FkTDQ1YlVOanl5OUUySEplVjJuclhQbEpPZWdYQjdlbG8tWEtsRndIbTg2MHBIX3EzN0pCMDk5bEpuSERBV3lkejdHYjJ3ZTBQX0VCVmFncFhzZ2pmclJwQw?oc=5": {
-      "title": "野村HDが米国進出100年 NY証取で「クロージング・ベル」 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjVG1EWnl2ZzdvMUMtOWoyY2FxeUhBUFNQbnJzY1lybTktSzhFODJXMGxrcEI4d2o2d1pENEFYOWdCYndzNTQzbzhmbmxWQUtYd0NQTWxkT0Nlc2RzeEVNMEZKWnJXdEk?oc=5": {
-      "title": "鈴木敏文氏は「流通業界のチンギス・ハーン」 SBI北尾会長が語る功績 - 日経ビジネス電子版",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zemd2MlR0ZS0xLXp4RC10em83SkZPbk5Wd2s1bXZfc2lFRlBubDc2Ty1Pa3RONFA4NDdHWWRGZUY4N1N2Y0FSSGRpMEZMd2g2bVVKb2MzMHJKeWdyTUxQeGkwU1NqeVZPeTdiWQ?oc=5": {
-      "title": "SBIHD、ライブドアを買収 ミンカブから75億円で - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBNkFZcFg2YWNxYjBKcU9mbm9XbFduWVExVUJGUlJLOFY1bzVkaDVvRU9vZml6SDFJblBjaW96ZXFrV3kwZVBRbVdjWU9RTVRkOWRNQ0hJVXZkN0gtWnFBMTZ3YzJtUUlfWTdz?oc=5": {
-      "title": "タイムアウト東京、森ビル・ダブリューズカンパニーと共同で、アークヒルズに「角を曲がった先」へ送り出す空間『Another Corner』を開設。第一弾は9月18日「NORDIC NIGHT」 - jiji.com",
-      "company": "森ビル",
-      "source": "時事通信",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iYXpNdGp1MFZheDNBdkM5U2oza1FZMTVDUzF6YTZlc1FPWTc5RGJRZXBJMjMzWUlGbEdWTXNJTHNPQmUyUE9aWFdOQUwwX3hUd0p0SVpR?oc=5": {
-      "title": "東京ゲームショウ開幕 サンリオや東映など異業種が初出展 : 映像 - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-17T23:20:49.669728+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tN3VxQ1pYd19hV09OS0VlZXdvM1Qxb0ZqTlNSVzEwT0RJREhWcGd2MW04bDNFRFF1NDVOUEZ1dHE0bjg4emQwZG5mZ0NOSlU2Y3pDWUtmNXY5cjNMV1pCVnFxRkN6NXFaVjk0?oc=5": {
       "title": "「重要鉱物の供給リスクから捉える資源戦略としての循環経済」と題して、住友商事グローバルリサーチ株式会社 経済部 戦略調査チーム 宮之原 正道氏によるセミナーを2026年10月29日(木)に開催!! - 時事ドットコム",
       "company": "住友商事",
@@ -1067,7 +971,67 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-09-24T16:30:18.995726+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbUhMdkxfc1JfZnpwMXNweUhVYnBfc1gtbkllbEtuVGVFY3l5c0pjQkZMdU8yYV9FdldzQUs2QjVVQmpBcWZLZC1HQUdCeHVjNFNtQ2xDejFZRkEwUW1LV29lV1k1OENTOWNuOA?oc=5": {
+      "title": "三井物産の堀社長「投資コスト上昇、新発想が必要」 優良案件を厳選 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaE5wQ3JXR2FHVmcxVWREYW85Mk9oaW04Y0dFcjVGMEFkWnpJNEhrdXZJbWdWYjN4ZS1uWk5xOU1xcExBNFBtMkM1WXdnQ20zUnh0TUp6ZTRST0tIbkhmWkVTRi1YLVVMc3lnaQ?oc=5": {
+      "title": "高所作業車でアンテナを25mの高さに、NTTドコモがアジア大会で通信対策 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSW1GVktsLWRSQkp1RjJwTHE4YVU3d3VJVGdmSWlycUJEV3FWRGVtQTJpUDItd3Axa3djT1hZSThaZno4cXM2eW5zS2R5Z2g4NnNKSGNkNUVZeWVDS3hmdE1yMHlRbk83eE5ISnBfRmdjVVR1YU5VTUtPTUltM2U3RHRnVnNaUHc?oc=5": {
+      "title": "編集者の視点「東芝が核融合向けコイル、重さ310トン」 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OUi1vVEl2SkpwcEk0UGMwVmF6dHZIX3JhNHRoWXFiUndTMElnb1k1by1jaTcxdmZvbUwxblRrejRtSTRLb0xrcjVFbVpSUkZTYzAzRTFyVklNbFFjLUlXRTlvOTZxTTZER2lENA?oc=5": {
+      "title": "トヨタ会長、米殿堂入り 「車業界、競争より協力を」 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVlZ3TzdSeGVYVW5SLVZBSmZoZVJPanFNSHI5UlBrNjdiUjRYcnpXTEcxVEFDVG90ay1qN0pGUm96ZU5TZVhSTGFPVVRBM28zYVhnMlAzenJoN0I0aEthMXlibTRyS1l2ZldnMQ?oc=5": {
+      "title": "トヨタの次世代EV、主要部品は中国メーカー 現地日本勢の失注相次ぐ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX25UMmdkeUVqbkNVQ0xybUFPZzZSWkdONDRGdWtRYXBwWU4wQ1ZES01fNkNHOWxUYTlpdnhFRzVLT0l1SXpLYzNLVU1GR18wR01ST1NXMFNva2o1Z1prckNGekJ5bWFNX0JwbkZWbjNpTld1QkNDbjZLV3pzM1QzcXhSVm1MUjNpSGx1bW52b3lyalUxQ002TXEtWVU?oc=5": {
+      "title": "ペロブスカイトで発電所 中部電力系、24世帯分で実証 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ka0MyVFB2Y1ZidUV2ejJBV1dhcTAtMDdRQ01Wa3hpU3JzWlVKNzUyTEpBaWlheExnV2kzWmNLa190ZTZLbHBkRkZIbzFIWU5xYjhacVhYazVTS3dwV2ZVYTF2bGt2Z25teEdaaFBWVlg2OXJhQ2pB?oc=5": {
+      "title": "北海道電力とセコマがZEBコンビニ 太陽光発電で調理 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdHdQT2x4ZlRTT3J0LXFtUDZfZXpJNzNrdW1pVkFrWklNT3YwTWJSbWVuU0d4MXM1ekpCSU8taFVUOS1yeTFkck9jVld5NndxWVJvVG03Q213RVZkVVRIMkhqRGdmdzJiUkFEWQ?oc=5": {
+      "title": "三菱UFJ銀行、JAXAと宇宙飛行の技術調査 無重力創薬など投資にらむ - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NTBQdERwODI1TURXNDBpNmJnMTVpd09pTlh5WHloZzhLcGxCay1GUHJ2czh1VUNWMmNmVzBZN0NjS2EycS01RkxVTFUwMGQ4SjQzTlRZRHo4dXZ2ZEZwOUs1d2pwSlg1WE9Fag?oc=5": {
+      "title": "金融ニッポン トップに聞く（4）社債市場、もっと大きく 野村HD社長・奥田健太郎氏 AIで「24時間金融」目指す - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iMUk0VlNINUZoWkFRbmpadjRoSDNaX1RNaVpLV2lxTkVEOHViWHVHcS1UTHNkQ2gzZ2I5eUZYcnJEMVBsVVZBT2o0Z3lxU2hSakpCZG5yMTFFZTg5MHBXQzVPcjk3ay0zWk9lSHBtQVA1N01Ock5FdDlaeU8?oc=5": {
+      "title": "「朝令暮改で何が悪い」 森ビル・森稔氏から学んだ“考え抜く経営” - 日経ビジネス電子版",
+      "company": "森ビル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-24T23:44:08.361691+00:00"
     }
   },
-  "last_updated": "2026-09-24T16:30:18.996092+00:00"
+  "last_updated": "2026-09-24T23:44:08.362185+00:00"
 }

@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aa2lsLTdmWnd6TTU0YW5nSXlGYWQ1OVozRGMtT1FVRTZKeGFpbE94TUM0cURxNXpJalpBMkN1V3ZxVU9XMTQ3RXQwUE9mSkY1R1EtLUZJdF95T0RnekxUNUFmM2hHMEh0dDBGTQ?oc=5": {
-      "title": "住商、サカナAIを支援 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-19T10:18:32.193801+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV09VcnQxOHlOU1J0QXA2MmVOYmhpSklOUUstMkRiMEprNld6Q0FKMnlJTnk0aGhsNktvM1hWTUc1bWxSOEhKdEJySVVXc0lubTNnRURqdkZvUmpucVI1cm5GcjZXUW1SRmthd1FTUFVRRjJoTm5aOVFqX2s0OU95VEItM1JzRWpRUXNr?oc=5": {
-      "title": "鹿島建設開発の立体音響スピーカーで、音に包まれるゲーム体験【TGS2026】 - 日経クロストレンド",
-      "company": "鹿島建設",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-19T10:18:32.193801+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE12S3hNbkFkZWEtYlRDWTZKM0RtR0lqdmNBNEJlbnRKVHpLREpNbE5qWXBjMUJZRFZtbUNjUVdfWW9JLU5Ua2RiNEFJeVRSWmd4eWZ5WjdSYlRiR2lJRG1aZnRtT1lNc2ZiaUVJ?oc=5": {
-      "title": "トヨタ自動車と新CMを共同制作：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-09-19T10:18:32.193801+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVVJwTjBEV1Utd0NXM2diM21SS1d5dV9paWxRanVmWnpSQ2NzYnFpcWl2SkpZNVNvNlQwNEFVZlNhTEI3UzJlLXdnMGZaSk9yR19mSnNOT21PejluUEpoTHcySjVVNlZSX09V?oc=5": {
-      "title": "「ここは推しのロケ現場。」推しの専属カメラマンを体験！「Enjoy推し活!!」イオンモール堺北花田で10月11日～13日開催 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-19T10:18:32.193801+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU3dWWXJpMFp1Z0NqZzduR1Q5NW1Ha2V2T0VZYXNFNUN2MUdReTQ0XzZjeGtEM044MTluYlRqM1gwTHJCcjA5eVFCQ0RNdUNteWlsTk9uS2w5OE1FQkFjQnlGMVN6NFJyaUxtNA?oc=5": {
       "title": "トヨタが「第5の電動車」 発電エンジン搭載 中国生産、航続長く - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -929,7 +905,37 @@
       "company": "アイシン",
       "source": "日本経済新聞",
       "seen_at": "2026-09-26T03:31:40.392136+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1US3NpZDg3WklMRzU0aHVaeVlSd1A4VFlYWVBPWnoyM1o5WXg0ekUydHZqMmMwWm9laldOcGlTMHZNU3BpSDVmSktjdkg3N2RmSUpSaG51a01qLVVhTmlscHF0TkI5UDJ4SUY4YQ?oc=5": {
+      "title": "トヨタ、世界耐久レース車に水素エンジン供給 2028年にも試作車 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-26T10:49:06.763746+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eThFZHY3WVhyOFdza08wQnhVZF9oT0RZTHc4TEhwTVZ5VndiVUZkVzRTSnpNVnkzaVNiTkZ0Q2F4YjlTaFd3UTRwejI2Q0NYc09Wbjd4X3l0SjByX21seUIyMjlOTk5NLTBPYw?oc=5": {
+      "title": "トヨタ、水素トラックで連合体 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-26T10:49:06.763746+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02STNfX3g3Ymc4RzdHNWFxS25LVHhBajNWTlZxTGlscVZrMUV0bDgtZFFDMG5XeHlDa2hFN0RycE1TejhxNFdueWhDV2dsTFdMUFdIMDZMZ21WVVJDTnJqNWp5eTR2MVlyaHBV?oc=5": {
+      "title": "「60歳、新人俳優。」元楽天執行役員・早宮陽一、劇団三ツ星キッチン代表作『LOVE』劇場公演ファイナルに出演 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-26T10:49:06.763746+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYkFJUUk1U3NFRVVPdHNxbDFiMVBORzI3Qmd4TmxfblNQY1FqZkdNUFM2d1daakhUd2cwZUdwMDlkMmtCQVR4NndXLXlRWUpwcUdWWFhmNmU3OHd1WDZwWUJWZDdtYnFPZEZj?oc=5": {
+      "title": "「イオンタウン堺水賀池」の出店について：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-26T10:49:06.763746+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RbTFPelNENlRKNkZnVnZ2QnZNRzdDTFNUMFdPNDhhQU9BWEVQUXBXWjRaLXpkeTE1OGRlY0lrdm9CSFBmSUxGeXRteFRkb1N0VmNBOHNZV2hqR3c4Vm92Y1NJN0JLaEJHdFlz?oc=5": {
+      "title": "「広報コミュニケーション研究科」名称変更を記念して特別連続セミナーを開催」第一ライフグループ、MUFG、Soup Stock Tokyo、LINEヤフーなど、経営・広報の第一線で活躍する実務家が登壇 - 時事ドットコム",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "時事通信",
+      "seen_at": "2026-09-26T10:49:06.763746+00:00"
     }
   },
-  "last_updated": "2026-09-26T03:31:40.392258+00:00"
+  "last_updated": "2026-09-26T10:49:06.764163+00:00"
 }

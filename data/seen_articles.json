@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU3dWWXJpMFp1Z0NqZzduR1Q5NW1Ha2V2T0VZYXNFNUN2MUdReTQ0XzZjeGtEM044MTluYlRqM1gwTHJCcjA5eVFCQ0RNdUNteWlsTk9uS2w5OE1FQkFjQnlGMVN6NFJyaUxtNA?oc=5": {
-      "title": "トヨタが「第5の電動車」 発電エンジン搭載 中国生産、航続長く - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-19T22:37:35.235185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Y2djS2cydDhiNzkyeHRvV25lMzFRc2h4WXl0VzIzWW1jbGFUZy1PMjNUTk9TNHpfY2lrczlPbTBMTkdlNC1fVC1BZWRxNUVPaWRNWGo0N2ZFZDh0aDdyVWxFYUJ1aWNJYTBydw?oc=5": {
-      "title": "熊本地震 その時企業は(1) 小売り、避難後の対策精査 イオン爆発でマニュアル改訂 再入館禁止、基準づくり - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-19T22:37:35.235185+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Zm12OVBfVzVyN1Z2S3c3VnBkZGVEN215WjdYWFNNMXhPbXBHTTdWTWJuSUhZbXloU2EyNXhaUTlXTmxmeFZDNDM3bWRkejBydzg5TGVvOHZBaTBKS3hLM2dDM1RVVjBPUmg5Mg?oc=5": {
-      "title": "異業種がゲームでIP育成、サンリオは音ゲー新作 東映はゼロから創出 - 日本経済新聞",
-      "company": "東映",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-19T22:37:35.235185+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBod1F0WHZZWC12eEY4NGFud2FkSDlpeTlEYXVsSXM3LTJ0UnpKLXRSSjBRX2JOSWZVcUhVVW1wSUhteVpuNnRlcVB3QTcxWHk2b3Y4R1V4eWZ0UmIybVVXdHpQRXI4VUxSMjJz?oc=5": {
       "title": "『あの紙ヒコーキ くもり空われるのか!?』19の岡平健治さんも驚愕の結末に！トヨタの技術者が巨大紙ヒコーキをつくると、なんと…！ - 時事ドットコム",
       "company": "トヨタ自動車",
@@ -935,7 +917,19 @@
       "company": "三菱UFJフィナンシャル・グループ",
       "source": "時事通信",
       "seen_at": "2026-09-26T10:49:06.763746+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbWp1cFFLZ3Q5NjZHd3Ntc1ZNaGE3Sm5mNWt4RlNsbkNsRmxPbHk2WGo3YzhtUTFwTm0xb19QRW1YY2lGSHA2RXJHaGxDU2tRZHdZUXdNTnhnTFRVdk5OOTFmaGt3YVdfNVVQTg?oc=5": {
+      "title": "あいおいと伊藤忠がロボタクシー向け保険開発 27年度に米国で販売へ - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-26T23:21:53.417669+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSTVLVkg4Uk1JOUMxNkduYlowZXUtbFdFU256aXJYZnZ6RkhHdzVXak9GMlZnZ3Bpc3dpaUgtcjlSdWQzY3FuZVJKcWVFVmxTRkx1ODIzTHZwdXpSdUtIdDhNSjQ3YmJtdEQzOQ?oc=5": {
+      "title": "エブリウィル、無人の荷物受け取り拠点 都内のイオンモールに - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-26T23:21:53.417669+00:00"
     }
   },
-  "last_updated": "2026-09-26T15:46:31.020735+00:00"
+  "last_updated": "2026-09-26T23:21:53.417987+00:00"
 }

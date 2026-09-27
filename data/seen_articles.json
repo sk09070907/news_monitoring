@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZWRwM1U4aTRhS2NhRkhjY3FKVk5QXzAyc29HQnBtYVQxdWpMZjIwWGliN3NXY21qNHBoMTlmanloaFlTVXpxcU1nLWx3Tjd4T0kwcFp4T3BOVW5BcVN1aEdvZlBmTktDMHdORQ?oc=5": {
-      "title": "IHI宇野執行役員、日英伊の次期戦闘機エンジン開発「経験を民間機に」 - 日本経済新聞",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-20T22:54:03.925491+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSllYUjdCb0tIYks1UzhCRDJFSzRZREVOeWM0Z2tTV21pb3JveGJCbS1aTnlFZEVadDJmdGxoQmF5TkF4NlFuVXM1M0NoZG05Ym9Wd282TzBEd1JMSXRlb3dvRE5YUnlrRXpnVTJzNmtGNkdyY2otR1pBVk55Q3NrVDNYbzZ0emhsLTFKUQ?oc=5": {
-      "title": "イオンモール熊本、内部映像が物語る爆発の衝撃 爆発や避難の専門家の視点 - 日経ビジネス電子版",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-20T22:54:03.925491+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIazdIYlFveFlvaWZsNmlJdmZ1eVBEZk9oNXZVM3R0eWI0SmlWOGpFVDdEVzZqS09OS1cyZVpVM3V6dlEwMHBkVUJHdkFzSXpLZnR0VnlHRW55THp3U05ZcXBQUmtOc09pOXM5cA?oc=5": {
-      "title": "岡田彰布（20） オリックス移籍 ここぞの勝負強さ伝授 「がんばろう神戸」の優勝 潮時 - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-20T22:54:03.925491+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbXVVbFBuLUVMUXFsTk0wSGNFYTl6bjJqNUt6a2Exa1lHaTZjMDJOSC1tc2N1cjh4bmdJTzRjMHAySi1QeGxGOEpFc2p6YUZFUDVBeHZzTThGTi03NFBZM0xvaGJQYUFGd25nUw?oc=5": {
       "title": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ - nikkei.com",
       "company": "三菱商事",
@@ -923,7 +905,67 @@
       "company": "近畿日本鉄道",
       "source": "日本経済新聞",
       "seen_at": "2026-09-27T16:24:15.573548+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wLUlRb3NPMnJLdnNPWGZRcFBHT2hETnFnTDljYkp3TVB0cE5YTDl2a3RnUFF0YlF4NkU5YUFXX3BPMkJhd0szU1hLaUs5VlYxNFROQ25FcnNEd2w0NV9LeFNJQmJCV2tPR0VSeg?oc=5": {
+      "title": "ロボタクシー専用保険 伊藤忠とあいおい系、米で販売へ - nikkei.com",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSGNmV0NKbHBUQ3dZNEt0a1p6dlpKcXkzSlJvYnA5NEl2R056SW1vN0dYT3drWWVYQ1lxdnZ3R0tFeHo5Z1MtVlBlam1lSVVtZmxqM21rdXFBYWNBWll6eWhjNVBuaW9HT0k3Vg?oc=5": {
+      "title": "住友商事の日下専務執行役員「航空機メーカーに日本の供給網提案」 - nikkei.com",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WYVZBcTBrREIzUnpLWldTRV9rZnMyWTZiNnJBVXMxYi1LWU8xdmNRZjVyX2ZGR0JMVmlxZTZHcE1yWUJvZi0xNTRFQVU1ejBMWlAtN2ZLNmwyekZ6NGx2VXU0MGtiSmdkemlVbw?oc=5": {
+      "title": "経産省肝煎りの経営指標「EP」 首位はNTT、高ROEとは異なる顔ぶれ - nikkei.com",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE16LTU1OHRqekJLZjBBbkhzWlNMV2RXN3pfd0J4dGt3amo3Zy1UQVphRHc1U2xfcjN3QnU4RGRVZGdYR0FYR3h1ZVhpcTR0clhTMlc2am9uWmdHcnBFaHlmUnhjQVNEQ0NvSnlwSA?oc=5": {
+      "title": "NTTやソフトバンク、サイバー防御を自国完結 機密データの流出防ぐ - nikkei.com",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5a21hSUlpYUVxWmtlZVdQSkJUYjlVempLQ3JBaGdTRzFZeHp5Y1cwejBhYUVZMUZuTTJfMWhPeEVKem9aOWo5Qi1KNmhTVHBmcnY4bS1XMElackdSaWpxMy15SUZxY1JtMmUwTg?oc=5": {
+      "title": "トヨタなど日本車、欧州でEV締め出しの危機 EU域外の生産不利に - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5RW1tbERON1prZGtLUFhQZDhmeUNXcldzbTI0Q0lUb2JUSWNUV25uM1JqTTJJSTRCdktqd3R5SEJJM1UwdFRzN0ZoZGE1Z25DSkkzUno5OEhraWdiRHBldVQyZEd3NkoxTmtQeHo0MWtUWW9Oc1hYYTZ6cllFQQ?oc=5": {
+      "title": "現場力を生かせるか 「トヨタの次世代EV、主要部品は中国製」など3本をお届けします - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE44UEEtdjZ5R1YweDNndzFIbHJQOHJsMnZyV1dHRWNuY1J0Wm55UHFsS0NaWlFrNzJzTURtR0RtRVhla1U2N3YwbElEUW9DVklDcUhOYXJKT21NaExITzJDTGxBYUhZVEdHbUlEbThkN1Fvdw?oc=5": {
+      "title": "近鉄京都線の脱線、3両目第1軸がポイントで乗り上げ 再発阻止へ4つの手（2ページ目） - 日経クロステック",
+      "company": "近畿日本鉄道",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlSDFCQWZGSmlHUDh4Y1JyOXptQllYR3BKakZ1ZGszdEJ2TGNlSktBc3dKaXpFUVVBWVctZXNma2hyVkltbDNka3RVRzQtaGZST2t3blRHRXVhYTk2cVZ6MEk4TFZhV3RlZ0NEQ0ZYVXpzUVBJYzlDWkZ0YkJ4QQ?oc=5": {
+      "title": "商船三井株が高値圏 エネルギー事業の比率高く先高観 - nikkei.com",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCOXVybFkxRDhBdWxFR3JFSEpQYjM4NGR4VGJlQVcwbl9FUnZSdzJyVVhJUVhaM28zSWRsOGlyUXlsSnBCWFBNTEJxU0RHYVdPaFp4NmtoQW9CQWxzaUpROGs3cDE5UlItRVlmSA?oc=5": {
+      "title": "身近なリーダー 北陸電力社長・松田光司 - nikkei.com",
+      "company": "北陸電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVlvVUFILUg4SzRKRXFOcHUyV1U5QmNmNnJ5MkJfX1VxR3BqWlJyLUxMWXpWT3VOLWhjVXFTQzIwMGtyZXJlUDhYZGZ4amFiNlJYYm5VanhhN29lc2wtRFlhTXZvNU9UczVOQm1XLUExekdfaWpGbEtLZnlPVEs4WnByQW5DTXBrMG5iXzl4UTU?oc=5": {
+      "title": "「AIは代理人ではなく共生・協働する存在」MUFG亀澤会長らが討論 - 日経クロステック",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-27T23:33:30.110388+00:00"
     }
   },
-  "last_updated": "2026-09-27T16:24:15.573675+00:00"
+  "last_updated": "2026-09-27T23:33:30.110780+00:00"
 }

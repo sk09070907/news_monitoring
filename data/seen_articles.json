@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSGhNcmRTbUc1U0NCaVgzSkNrU1dKZjU3Nmt2QlZEX05yOXlERmFhdUJxLXNDemFnbjhEdER3dzQ4VG5JWlhmNHltelF1OUJTYnA5T3RreDJQWmg5RTZ2d0pn?oc=5": {
-      "title": "【東京】フジクラの成長を支える管理会計担当者/60411 - 日経転職版",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T18:10:43.905236+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNS02Y0dhSGtmY1FJNmJJSmlZRW5wMDVSU0REcTdONmx3dlIzWmRTTVNIcDFwY0RMZVZ2VkhPeXFWRDJjajZBa3VUOU5ncnlJbExKQ0NvZmNpc0lqcDdMSnpZTGxwcXhSQTVtajVzWGpFQno5V0JESUhHVUdhRUpSRDBaSklWOGwzZ0FOLQ?oc=5": {
-      "title": "イオンモール熊本、内部映像が物語る爆発の衝撃 爆発や避難の専門家の視点 - 日経ビジネス電子版",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T18:10:43.905236+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTLUpDUFBNVEY0OUFEbzlxVzNxWHFxal9ZOGR1NkUya1g5eDE3TS1QclJzV3FnWGJGWWxHZzVZZER2SVpMd1dIOTBET040NVZjSnRhOUVmYzY3ckRaRWM1QzZiZEZaSEtYQl9ZSQ?oc=5": {
-      "title": "三菱商事、比財閥に1200億円 追加出資 持ち分法適用会社へ - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YLWl4Yk5Oa3NBTlhfbjNWa2xuSUh4NW52d21vUUdSTlhaRGVNRlpBb1JaOUhFNjdmc29NYlhvSVBDUEZWdjdoSmxQTTBkU09jS09qTktUUFJOMk9WTEsyc3A5NWFUSGRSelkxaQ?oc=5": {
-      "title": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWFR4Q1RydTRQYll4U2VnUmNfWkN3Yzdmc0RSRWExRzBhYllSNE5LQTBpWVE3UnA4Q25IcmZxc053c1p0djBtazB0X1U5bkJqaEt4NzRDYTBIS0x4T1I4YTVHSGlNTDBDOXRQbw?oc=5": {
-      "title": "時価総額トップ4社混戦 AI・銀行がトヨタ猛追 次の主導役、見定め活発 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2stUUx1N1NFZWlrYVJ3ejZ1VmJwalgxWG94QU00OHpCbzhLVmpXVF9DM1JOeHZGSDVZNVZ3Y3RRQ1JUMWFTYmE2Qkw2QXpSd1U1dlBhYXhtRUdlMDZKT1JXRUNWZUVwamIyOW1iVTZSYUd4M2Nta1QzdEtWb0IycF8yUl9Sa0NY?oc=5": {
-      "title": "イオンモール熊本、内部映像が物語る爆発の衝撃 爆発や避難の専門家の視点 - 日経ビジネス電子版",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aNF9uZlNOaXpselRvNGROX0RObFFia1E0dlh4dW96Q0JvNUd6UEg5eDQwX09CR2wzTmpzdmIwZkIxaVZJWGduVDNzVGtneXoySjkzRw?oc=5": {
-      "title": "三井不動産、大英図書館を再開発＝投資額、欧州で最大 - 時事通信ニュース",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxa2NxRE1oMHZxcnRtYnR4WTR3TFVQWWRvd1U2dUprODNqVm1KdXZuRFFTZ1oxOV9CSkpFeEk2V2czRUR1MU55MlhOOFo3WjlDVmNWc3J6bFlBbTJueXNOY2JiVQ?oc=5": {
-      "title": "三井不動産、大英図書館を再開発 投資額、欧州で最大 - 時事ドットコム",
-      "company": "三井不動産",
-      "source": "時事通信",
-      "seen_at": "2026-09-21T23:46:51.235257+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5udHJ1VTlVLW9QMjhSLUFpX0FOWURqSTlWRXl2MXZsaTJ5aFUxWVBhcGlQZmdpZXNPWmVoQkR0RFQ4SllSVzFVQWp1QU1PZzlwaVJBOQ?oc=5": {
       "title": "◎三井不動産、大英図書館を再開発 - 時事通信ニュース",
       "company": "三井不動産",
@@ -1265,7 +1217,67 @@
       "company": "森ビル",
       "source": "時事通信",
       "seen_at": "2026-09-28T12:56:39.859382+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BLUdOa2ZkT1RhVVFIT3NZQnl6SGxyclRVMUllUlhCcWpfMlJoSkJlYTBiM2J0NEpJMzJUMXlpR1Y3NVJFV2JvYmhBcmdid1I1ZjdmaDRzZWNDRmxyakR4dGlyLThZTm04bHdv?oc=5": {
+      "title": "NTTデータ ウェーブ、「intra-mart LIVE 2026 Realize」に出展。初の会場講演とオンライン講演の2本立てでAI時代の業務改革を紹介 - jiji.com",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDFtM29PdXFnSGUwb1NGekgyRHk1TkU4RWNmeUVvRWFrTUl1dmM2YVh6bGRXcnIwSEVOR2o5amdQc3VXbmxEYUJVLVYzdzJKUll0SFVvMmpDTmMydEFoVVZ6d0pFUlZsTkNhUndaYmpYSEJYOS12NTBKRzJCN3lZX3g2cXNJTXplVmkzbU1MdThCUDcxTU5kWlZxalljLW5fcW5fXy05MzNkME94R0VTR1J3d2RaYUhiMXVlckRsRF9xU0RKQ2VvaWFDWmM?oc=5": {
+      "title": "ＩＨＩ[7013]：ドイツ子会社Steinmueller Engineering GmbHの持分の譲渡に関するお知らせ 2026年9月29日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLU2xyRnFWN25JZjNwZkcxQXpDUW9sOFJDUk9jMnMxMlVBUm5STWU3Q0V6Mm4tZVUycEhUcENWeFJoUGM1SXdOdjBkSlp0MUNhcFAtV3ZUM0o5TEFsNU5ncUt2RVpncTN5RDZSZg?oc=5": {
+      "title": "中国で自動車再編 国有大手の広州汽車、一汽トヨタ株の50%取得 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXBsVzhzaWowS2l2OHIwTmszUEZkeHB5aWs3N3E3a2lhck5rZ1dvanJiTjFNNUdfUUNtSXhJYmI2ZGo5R3NCWWZaNWxMUmJkZ2w0cDhIRFlLV2FLMTZFYU90WFVZeGVLdXM0ZHRhQzVHejNSejJtWU54dzkzWHJLaFFyNXJFQ1FUNGNn?oc=5": {
+      "title": "「FJ」はこうして生まれた トヨタ・ランドクルーザーが走ってきた道 - 日経クロストレンド",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySFVHNGVobmpSczVwZjBJTzVnTzY1NlJDRkcwS2FYelA4MkxIUlZkMmRwT3YyMXRrcm5HbXZnNDc1bnJmdFZiQ084dGxDQzdUb2gtckhWY0Z2WWlkbzlGeTNfM1lMNlpHYk56Nw?oc=5": {
+      "title": "日本株ADR28日、ほぼ全面安 ホンダやトヨタ下落 - nikkei.com",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYkJOLTlOZDFha1ctUXlEaFZGdzg5dWROcmNIUUhRNm5IeUtrTV8zdUpPbG5rSkg4cnNDVUlwQWpRZnZFbXZRUy1XUzRJWWtQLVZkMlI0Q1htY3NGQllYcFNZSQ?oc=5": {
+      "title": "楽天モバイル、携帯「独り立ち」へ正念場 ＫＤＤＩの回線貸し出し縮小―基地局整備、ライバルに遅れ - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzZDUXZXSmZnWkJDZDg1bDR2aHJXY2NucFNzMlFHYnA2VnphSm94QXplaGF4eVF4eVVWVjJnaGIyR2tOaW9ncGVRWkRyd2dXeVlwOTVoRFBDN1ZENzgtb0lxNTJUWVVyZ2pTdHQ5VFFBQzdLcUNGbHB5eUE0RzdoZUZn?oc=5": {
+      "title": "楽天モバイル、携帯「独り立ち」へ正念場 ＫＤＤＩの回線貸し出し縮小―基地局整備、ライバルに遅れ - jiji.com",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2lBZXZiVVFiUDg4T3Y4NGJtWlRHNURuVFNBUlFoUjdJa29udVRReXlKdzJzdnBHdkM4am1vak5xcUFhR25aNmdGUGRBYTR6eDQxU0pwNEpzQVNmY19tRXdzcTM3S3A4MUVXU1BQbUZCbThQcUs2c2twV0tUcWtCQXI5clNwMTUtTkpNOFZjZFRnUkJhcldrQXVfbGVuRU1SdkRCQVNEeEVUUGRnaFo1SVpYTWtJYmcyMFl5bWFjd3FoOWU0TFJycERkVWU?oc=5": {
+      "title": "ジェイフロンティア[2934]：「SOKUYAKU」が楽天IDでのログイン・会員登録に対応。「楽天ポイント」の進呈も開始。楽天との連携でSOKUYAKUの新規会員獲得を加速 2026年9月29日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE43dHpLRm8tVnAtN3hyeE40aC1IZWE3WUhaWDg4T1ZJTndWNXpMRjRSZzhRMjlUYmpFUVB5dmZJUjNqQzhYMWVCR0VMQ29XbzUwNEhYREo5QVpxbFlLbzBDdFhySWN0MnF5T0p0MQ?oc=5": {
+      "title": "パナソニック、除菌脱臭イオン発生装置 カビ抑制までの時間を半分に - nikkei.com",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9laVZEUXBZQWZfdkZoTDl0TkVCZ3JZT0ZfNW1DcGRNU05hSUQ4ei0zQjNhZkxaamgzYUpCbWtJRE1SRE9kQnV6cjZZaEpjc2tkUmRsR0Z0WEtWd2pfZnAxTnRxSjJOY1Q1YlE?oc=5": {
+      "title": "東北電力[9506]：「東北電力グループ統合報告書２０２６」等の発行について 2026年9月29日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-29T00:47:45.627880+00:00"
     }
   },
-  "last_updated": "2026-09-28T12:56:39.859829+00:00"
+  "last_updated": "2026-09-29T00:47:45.628340+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RcFJ1NGh0d0w1bHRYS0E0SGkwaW1DN2Y0eTVHejJVcU1UTHp0RGpqQ3libWk3Umx3YzJDV2pyN01jaENsVXl1TnYxeFBiSHlXZ1hrTGFteFNQeDktTFJ5TFhSZ0oxVk83NTQ4eQ?oc=5": {
-      "title": "オリックス池田、初アーチで勝利導く - nikkei.com",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-23T16:06:38.735883+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TR3QtdEt6V1FXUk9jVWFucDR0WUY2QS0tSU9CVEdRSlZxLTFaY05zUE1jaWpnVnk1U2I1bU0tbW5OeTczNU1aZDBYdlJWQXA4SHZQd0IzSXh5THM5Szh2dWhEZ0lBRFk?oc=5": {
       "title": "NTTデータ、社内ベンチャー2号に出資 「辞めずに挑戦」支援で人材定着へ - 日経クロステック",
       "company": "NTT",
@@ -2183,7 +2177,55 @@
       "company": "日本ビルファンド",
       "source": "日本経済新聞",
       "seen_at": "2026-09-30T11:58:23.654723+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FTjhfVEgtX1hNUXZvSmpCUzhJcnVYeE5DdWJkZ1F1Y05STHhEYUlHbHNkLUladWllOGFkMWtEck9wOWVXY2lBV0lrNXQwZkNUNDBQS0hzSkJkbTVtMklteExQbVM1MW9CNWhZ?oc=5": {
+      "title": "「楽天ペイ」、Stripeの決済手段として利用可能に：時事ドットコム - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jdC05UFA2T2RoSUU1bHpNcl9ETnhKOXdPYllXTGZBLWNoVEZjN2pzZTd4UkIyNTVZY0dzVGYwaE5KSVJpZTB5Zld5SjBieEJ2WTFvVEpnVkJJMGFxTzZTeGFfVy1vSFFo?oc=5": {
+      "title": "小分けの冷凍納豆 イオン：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBySlVkcFVERk90aDgtWjRjODNzd2I1T1p5RUFBNDgxN2M0a2dKaFlTSzRuVm9vc0R3Nm9CNmRGc2dlZ0F2dGVLNXlwckNsN1Y1OEVJcmVwdzY1ZUlZeU1Tb3RFR3Jid1VLVGc?oc=5": {
+      "title": "三井不動産商業ファンド投資法人[8964]：国内不動産信託受益権の譲渡に関するお知らせ＜イオンタウン田無芝久保＞ 2026年9月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDcW00U1F4REpvcmJOOTljeElPaXE4cW9xRmozaTZxRmU1ZmRMV0dCdHd3dTl5am5RaVllWllReGJYU19GMFlkUGlIVWhEWFc2ZjNyN0h6cTkzc3Bodjl5Tm9XTndKVGd3RkE?oc=5": {
+      "title": "東京電力ホールディングス[9501]：「TEPCO統合報告書2026」の発行について 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CMkYzU0QzNUVDUG1oWHRrNHFXekJibmFRdi1sOWQxc18zZ3NHRHBHMXRydl9zNTYzRWtESGFPNXVuUmhjNjVXUGVRTGxRUWR0MlV6S0JKb2pIYzJaaXBMRDhMYXc?oc=5": {
+      "title": "画像・写真：頭を下げる中部電力社長：時事ドットコム - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVENCUy1nbWVtbEdfRXVkSmxjRUpCVGFzODJyOHJMT2xGZDloX2FoZzdPQVlJaGIwU3FpaDA2STVUV3pYM2pDNlZVZXRSUDdOU2lPMEtFdVBIQ256R3dhWlZUREgyRlQtbGNXZkdXTmY1QkxaUGh6UmNoNTRJNVd0ZmtBSjhlNmFVWWQyNmpNNTNZdDY4X0w4b2pIbnM?oc=5": {
+      "title": "「中国電力グループ統合報告書2026」および「中国電力グループ環境関連データ集2026」 公表の - 日本経済新聞",
+      "company": "中国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zU3BteWQ2SExTRU1IVTVuTEdhYzlacnppU2VzRHpfYlVsUE5mWmo5V09tQ01BcW4xSnNfbHd5RldKeFBzMWZCYWJBeHBSNVRXZUFWdw?oc=5": {
+      "title": "◎北海道電力が銀行サービス - 時事通信ニュース",
+      "company": "北海道電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTUlVTDNEX3pQLVprVnVUSWtXeExVQk9ZNXFQMXozZ2hTbC1TNW1TcTRSWmRqbVl5Mld6ejZ5cHRsc1l6S3ZzcV9BMzRnNk1TWkp2M0dsZWRsSXF3ZUhRVWtNX0F2YmJwRzBiNHpfdy1CTjhteGx0MVZTOXJJbG9fUkln?oc=5": {
+      "title": "北海道電力が銀行サービス きらぼしＦＧ傘下と連携 - 時事ドットコム",
+      "company": "北海道電力",
+      "source": "時事通信",
+      "seen_at": "2026-09-30T17:37:28.197254+00:00"
     }
   },
-  "last_updated": "2026-09-30T11:58:23.655207+00:00"
+  "last_updated": "2026-09-30T17:37:28.197770+00:00"
 }

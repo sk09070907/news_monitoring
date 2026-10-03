@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1US3NpZDg3WklMRzU0aHVaeVlSd1A4VFlYWVBPWnoyM1o5WXg0ekUydHZqMmMwWm9laldOcGlTMHZNU3BpSDVmSktjdkg3N2RmSUpSaG51a01qLVVhTmlscHF0TkI5UDJ4SUY4YQ?oc=5": {
-      "title": "トヨタ、世界耐久レース車に水素エンジン供給 2028年にも試作車 - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-26T10:49:06.763746+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eThFZHY3WVhyOFdza08wQnhVZF9oT0RZTHc4TEhwTVZ5VndiVUZkVzRTSnpNVnkzaVNiTkZ0Q2F4YjlTaFd3UTRwejI2Q0NYc09Wbjd4X3l0SjByX21seUIyMjlOTk5NLTBPYw?oc=5": {
-      "title": "トヨタ、水素トラックで連合体 - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-26T10:49:06.763746+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02STNfX3g3Ymc4RzdHNWFxS25LVHhBajNWTlZxTGlscVZrMUV0bDgtZFFDMG5XeHlDa2hFN0RycE1TejhxNFdueWhDV2dsTFdMUFdIMDZMZ21WVVJDTnJqNWp5eTR2MVlyaHBV?oc=5": {
-      "title": "「60歳、新人俳優。」元楽天執行役員・早宮陽一、劇団三ツ星キッチン代表作『LOVE』劇場公演ファイナルに出演 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-26T10:49:06.763746+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYkFJUUk1U3NFRVVPdHNxbDFiMVBORzI3Qmd4TmxfblNQY1FqZkdNUFM2d1daakhUd2cwZUdwMDlkMmtCQVR4NndXLXlRWUpwcUdWWFhmNmU3OHd1WDZwWUJWZDdtYnFPZEZj?oc=5": {
-      "title": "「イオンタウン堺水賀池」の出店について：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-26T10:49:06.763746+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RbTFPelNENlRKNkZnVnZ2QnZNRzdDTFNUMFdPNDhhQU9BWEVQUXBXWjRaLXpkeTE1OGRlY0lrdm9CSFBmSUxGeXRteFRkb1N0VmNBOHNZV2hqR3c4Vm92Y1NJN0JLaEJHdFlz?oc=5": {
-      "title": "「広報コミュニケーション研究科」名称変更を記念して特別連続セミナーを開催」第一ライフグループ、MUFG、Soup Stock Tokyo、LINEヤフーなど、経営・広報の第一線で活躍する実務家が登壇 - 時事ドットコム",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "時事通信",
-      "seen_at": "2026-09-26T10:49:06.763746+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbWp1cFFLZ3Q5NjZHd3Ntc1ZNaGE3Sm5mNWt4RlNsbkNsRmxPbHk2WGo3YzhtUTFwTm0xb19QRW1YY2lGSHA2RXJHaGxDU2tRZHdZUXdNTnhnTFRVdk5OOTFmaGt3YVdfNVVQTg?oc=5": {
       "title": "あいおいと伊藤忠がロボタクシー向け保険開発 27年度に米国で販売へ - 日本経済新聞",
       "company": "伊藤忠商事",
@@ -2531,7 +2501,31 @@
       "company": "トヨタ自動車",
       "source": "時事通信",
       "seen_at": "2026-10-03T03:48:08.470589+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EN1VNSG50LWtoM2hJQkFjYlBGSzE3Wmg1VVBZSEw1U2xKOGpZRjc2SEhGN3JtVGMweTNETFJWeWpLUUJRaG1hbV9JakRUdEx6eElxRFZidnpXZTZkSE5sU0N3bzZGN1IzY0Rsdw?oc=5": {
+      "title": "小川大介氏が死去 元ダイセル化学工業（現ダイセル）社長 - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-03T11:06:13.718402+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOLUhiVjV6OUN1YjBfc0ZqZjZTN1BkZTNWU19ZSjV4VDVHYkpfM0tpNmpHNldTZTVFb0I0Zkhyc3R2SDlwRy10MnVSbF9HR3pJYzlHeXdoejB4SUZIcUFSOG52dHRDcEpocTE4?oc=5": {
+      "title": "【楽天お買い物マラソン】焦点工房 楽天市場店、10月4日から「お買い物マラソン」に合わせたポイントアップを実施！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-03T11:06:13.718402+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuSkRuOTdYeGlHVzRhUGpRMnhMMm1qYWF0VTR6em9SR1QydVJVMkJsOEszOThPZk9RMTFvUW16QVBEYS1yUjF6M2J5ZGY3Q3htTmRCcTNLSTlsUmdnOHZOWjRVa2NMYWU5b0d5Tg?oc=5": {
+      "title": "関西電力の高浜原発1号機、装置の一部で温度上昇 運転は継続 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-03T11:06:13.718402+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42R1RzN3Vab0dGaDNpaExmM1N1bWpGQlFZWWVVZ3plSzE2ZHBFdldyQzJ1ZGcyVnRIa2cwb1VSR0ZDdzJJUGZSeE5tRmZPZjVEOFo4Um9RUi1INklYTlRjeTBsdXNVWEFqVjZ2VQ?oc=5": {
+      "title": "あおぞら銀行、戦略コンサルと投資会社 出資＋経営助言で中小企業育成 - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-03T11:06:13.718402+00:00"
     }
   },
-  "last_updated": "2026-10-03T03:48:08.470908+00:00"
+  "last_updated": "2026-10-03T11:06:13.718928+00:00"
 }

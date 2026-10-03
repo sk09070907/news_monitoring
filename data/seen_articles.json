@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbWp1cFFLZ3Q5NjZHd3Ntc1ZNaGE3Sm5mNWt4RlNsbkNsRmxPbHk2WGo3YzhtUTFwTm0xb19QRW1YY2lGSHA2RXJHaGxDU2tRZHdZUXdNTnhnTFRVdk5OOTFmaGt3YVdfNVVQTg?oc=5": {
-      "title": "あいおいと伊藤忠がロボタクシー向け保険開発 27年度に米国で販売へ - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-26T23:21:53.417669+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSTVLVkg4Uk1JOUMxNkduYlowZXUtbFdFU256aXJYZnZ6RkhHdzVXak9GMlZnZ3Bpc3dpaUgtcjlSdWQzY3FuZVJKcWVFVmxTRkx1ODIzTHZwdXpSdUtIdDhNSjQ3YmJtdEQzOQ?oc=5": {
-      "title": "エブリウィル、無人の荷物受け取り拠点 都内のイオンモールに - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-26T23:21:53.417669+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sc3dqcEdIRWUxUDFZN3U3bWZZcnhhcXpIcUxHOWdSTGFCVkZTQ0swU2J0UTBPX0gtOXZ6ZW5VSzFGdXBWUVYzLVVOeThCVWp5Mi1xSW9qSVFzMEpZU2ZwZUF2MVg?oc=5": {
       "title": "画像・写真：ソフトバンク１２―５オリックス：時事ドットコム - 時事ドットコム",
       "company": "オリックス",
@@ -2525,7 +2513,19 @@
       "company": "あおぞら銀行",
       "source": "日本経済新聞",
       "seen_at": "2026-10-03T11:06:13.718402+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQXV1Sy1INFV6TFEyRlVzblVuc05HNmszRTRkSGRGZEU4TndwakR2UGticUZrbUNHOGVrdndLa0V5NUxfMnhMZ08xMHpVbXR4ZUM3LWZNcE1QMjNNOVFDNk9rMmd2NlBjak5yZA?oc=5": {
+      "title": "ペットも食で長生き、動物病院専用食が2年で3割増 三菱商事系 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-03T23:28:33.161068+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzSjJQTml4WTViX3hhQk1IWnJLNXpVZGNzcURoeUtKbnRzZFRUWmhQZnRyTmlfTEVzWHdNa1pzTUdjdmtiQVZMNjR2OUtMT0h0UTRFRkpzNDk5RUIwSVRxVThUTXd0MnN4Vl9MSQ?oc=5": {
+      "title": "（おくやみ）小川大介氏（元ダイセル化学工業〈現ダイセル〉社長） - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-03T23:28:33.161068+00:00"
     }
   },
-  "last_updated": "2026-10-03T15:43:07.860586+00:00"
+  "last_updated": "2026-10-03T23:28:33.161495+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sc3dqcEdIRWUxUDFZN3U3bWZZcnhhcXpIcUxHOWdSTGFCVkZTQ0swU2J0UTBPX0gtOXZ6ZW5VSzFGdXBWUVYzLVVOeThCVWp5Mi1xSW9qSVFzMEpZU2ZwZUF2MVg?oc=5": {
-      "title": "画像・写真：ソフトバンク１２―５オリックス：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-09-27T11:24:15.459164+00:00"
-    },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUswWDM3RXc4TXkydU1ndXc0d29tcFVLcV9tLXBzR0trd28waDdRSjJrQTVZaDc1bU5yYXV6ZWJwN2lxZGlMT3hXNlpadmQ1WThZUDZPUVgzV0hXU0tPUmdDUHlvcEtfNmxaaXJTUUJFUTdCZFZBTmV0eHplVmgxNXMxdFQxVHduajZRdQ?oc=5": {
       "title": "近鉄京都線の脱線、3両目第1軸がポイントで乗り上げ 再発阻止へ4つの手 - 日経クロステック",
       "company": "近畿日本鉄道",
@@ -2527,5 +2521,5 @@
       "seen_at": "2026-10-03T23:28:33.161068+00:00"
     }
   },
-  "last_updated": "2026-10-04T04:18:37.543707+00:00"
+  "last_updated": "2026-10-04T11:47:20.993863+00:00"
 }

@@ -1,65 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wLUlRb3NPMnJLdnNPWGZRcFBHT2hETnFnTDljYkp3TVB0cE5YTDl2a3RnUFF0YlF4NkU5YUFXX3BPMkJhd0szU1hLaUs5VlYxNFROQ25FcnNEd2w0NV9LeFNJQmJCV2tPR0VSeg?oc=5": {
-      "title": "ロボタクシー専用保険 伊藤忠とあいおい系、米で販売へ - nikkei.com",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSGNmV0NKbHBUQ3dZNEt0a1p6dlpKcXkzSlJvYnA5NEl2R056SW1vN0dYT3drWWVYQ1lxdnZ3R0tFeHo5Z1MtVlBlam1lSVVtZmxqM21rdXFBYWNBWll6eWhjNVBuaW9HT0k3Vg?oc=5": {
-      "title": "住友商事の日下専務執行役員「航空機メーカーに日本の供給網提案」 - nikkei.com",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WYVZBcTBrREIzUnpLWldTRV9rZnMyWTZiNnJBVXMxYi1LWU8xdmNRZjVyX2ZGR0JMVmlxZTZHcE1yWUJvZi0xNTRFQVU1ejBMWlAtN2ZLNmwyekZ6NGx2VXU0MGtiSmdkemlVbw?oc=5": {
-      "title": "経産省肝煎りの経営指標「EP」 首位はNTT、高ROEとは異なる顔ぶれ - nikkei.com",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE16LTU1OHRqekJLZjBBbkhzWlNMV2RXN3pfd0J4dGt3amo3Zy1UQVphRHc1U2xfcjN3QnU4RGRVZGdYR0FYR3h1ZVhpcTR0clhTMlc2am9uWmdHcnBFaHlmUnhjQVNEQ0NvSnlwSA?oc=5": {
-      "title": "NTTやソフトバンク、サイバー防御を自国完結 機密データの流出防ぐ - nikkei.com",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5a21hSUlpYUVxWmtlZVdQSkJUYjlVempLQ3JBaGdTRzFZeHp5Y1cwejBhYUVZMUZuTTJfMWhPeEVKem9aOWo5Qi1KNmhTVHBmcnY4bS1XMElackdSaWpxMy15SUZxY1JtMmUwTg?oc=5": {
-      "title": "トヨタなど日本車、欧州でEV締め出しの危機 EU域外の生産不利に - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5RW1tbERON1prZGtLUFhQZDhmeUNXcldzbTI0Q0lUb2JUSWNUV25uM1JqTTJJSTRCdktqd3R5SEJJM1UwdFRzN0ZoZGE1Z25DSkkzUno5OEhraWdiRHBldVQyZEd3NkoxTmtQeHo0MWtUWW9Oc1hYYTZ6cllFQQ?oc=5": {
-      "title": "現場力を生かせるか 「トヨタの次世代EV、主要部品は中国製」など3本をお届けします - nikkei.com",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE44UEEtdjZ5R1YweDNndzFIbHJQOHJsMnZyV1dHRWNuY1J0Wm55UHFsS0NaWlFrNzJzTURtR0RtRVhla1U2N3YwbElEUW9DVklDcUhOYXJKT21NaExITzJDTGxBYUhZVEdHbUlEbThkN1Fvdw?oc=5": {
-      "title": "近鉄京都線の脱線、3両目第1軸がポイントで乗り上げ 再発阻止へ4つの手（2ページ目） - 日経クロステック",
-      "company": "近畿日本鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlSDFCQWZGSmlHUDh4Y1JyOXptQllYR3BKakZ1ZGszdEJ2TGNlSktBc3dKaXpFUVVBWVctZXNma2hyVkltbDNka3RVRzQtaGZST2t3blRHRXVhYTk2cVZ6MEk4TFZhV3RlZ0NEQ0ZYVXpzUVBJYzlDWkZ0YkJ4QQ?oc=5": {
-      "title": "商船三井株が高値圏 エネルギー事業の比率高く先高観 - nikkei.com",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCOXVybFkxRDhBdWxFR3JFSEpQYjM4NGR4VGJlQVcwbl9FUnZSdzJyVVhJUVhaM28zSWRsOGlyUXlsSnBCWFBNTEJxU0RHYVdPaFp4NmtoQW9CQWxzaUpROGs3cDE5UlItRVlmSA?oc=5": {
-      "title": "身近なリーダー 北陸電力社長・松田光司 - nikkei.com",
-      "company": "北陸電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVlvVUFILUg4SzRKRXFOcHUyV1U5QmNmNnJ5MkJfX1VxR3BqWlJyLUxMWXpWT3VOLWhjVXFTQzIwMGtyZXJlUDhYZGZ4amFiNlJYYm5VanhhN29lc2wtRFlhTXZvNU9UczVOQm1XLUExekdfaWpGbEtLZnlPVEs4WnByQW5DTXBrMG5iXzl4UTU?oc=5": {
-      "title": "「AIは代理人ではなく共生・協働する存在」MUFG亀澤会長らが討論 - 日経クロステック",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-27T23:33:30.110388+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sODVvSGFGZVRGNnZhcDZ6enhqbFlQc0d3VzQzVFI1eTF5ZkZYeVpLLWpIT3RpbkRtM3V0eHprSXRKSlJXTmkwV0JwVHBnNFdiWndTQ3E5Q2UtTnA5RnhFSm1jNFQyb1VFVmJXSA?oc=5": {
       "title": "住友商事[8053]：大量保有報告書 提出者：住友商事株式会社：日経会社情報DIGITAL - 日本経済新聞",
       "company": "住友商事",
@@ -2513,7 +2453,37 @@
       "company": "ダイセル",
       "source": "日本経済新聞",
       "seen_at": "2026-10-03T23:28:33.161068+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOSHJOWTBjZW1KTll1QVpLdFBtcDZROEFYTlZwWVJINW5kQlYyRG9WNGRqb3ZROEExQlhJZmRrM21JbWRVUF9YOThVOWE5OTh3OVRJWVZ5NWl1eXVIOS1LMmlIamJlQXU3T0hORXMwVVc5ci1jSHEzNWlrWks?oc=5": {
+      "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-04T23:47:04.301405+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hcEp5WTBwaWdibVV5cXpHTHR4S3VEYWNJYy15ckpCeFk5OFQ3YVlkZlIxaUdHN3VXWV84UDVZVDBCQ0hUTUlQMURfWnp2WGk3R196WVpPSWJmajRCbTVvUE5SdVlzM1M2SENCMk1PUlNnWURGbnBMVkkzREx1UQ?oc=5": {
+      "title": "NTT株が2年半ぶり高値圏 ドコモの値上げ好感、データセンター焦点に - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-04T23:47:04.301405+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdDlBUzlSN012Ml82eWRkMmc3d0hPMTRaejFOaXlVaGFqSVBrNHFoSFoxd3FqcG5sSmZjOVBDR21rRlpudTROWHRnYXBPLWpkT0Y0SW5BcWV0b0pYSmFPUXZrMmNuQnc?oc=5": {
+      "title": "映像配信「Lemino」の主導権をWOWOWに託すNTTドコモ、その真意と勝算 - 日経クロステック（xTECH）",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-04T23:47:04.301405+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dTY3SF9XRTI4N25JdmZQNGVFQ0R5d3NZVzh0YmZIaldnQnU2X3FIUmlHZ0Nzcmk0ZGYwdUg4QmpMNC01Wm5udUczZUJ3anRjZDJSR0tONXhDdzNhdldVMjRManlpVzJtbG5WQw?oc=5": {
+      "title": "ラピダス、東芝など17社と先端半導体の設計支援 潜在顧客を開拓 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-04T23:47:04.301405+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGd2Y2o4VjNIa1J1QjV5a3FxV2xUMjhmSGVENi1Eak13aWlqaGFENzdpNlF4WFhDZ01BdXZfTFF5M0w4LXk1RWxEcnBsOG1ZVnNSZDdUSU5MS2MzWFdyd0Y5TlRVbnlxZ1JlUTg3NHhXc1RSdHI5cjNyb0tzd0o0TkNZaGVvWHp4LXBPTg?oc=5": {
+      "title": "財務・経理の知識をAIに移植、SMBCグループが目指すビジネスモデル変革 - 日経クロステック（xTECH）",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-04T23:47:04.301405+00:00"
     }
   },
-  "last_updated": "2026-10-04T16:26:05.729329+00:00"
+  "last_updated": "2026-10-04T23:47:04.301878+00:00"
 }

@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hbzZOT3l5dnc4bkJMRGoyVmhFZnZPNHNfUWg2Rmltb3diLUZ3RU03QmVhc1RrSWxTWnJ6QnI3bkJvTDJ4cHh0U25FXzI3TXc3bklxcFJXd1l5UVBZLVUtOHlRa1lZS2M?oc=5": {
-      "title": "NTTデータ、AI駆動で支援物資管理システム 佐川急便と連携して被災地支援 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82OGVBLW8xc2lDcmlCTFZCbDRFYTZfOEpISjhxNjNZQkd4MV9MbU5qaG44alMxdk1RZFZGdHR5bXhUa1ZEdEphaWVqVjl3Vy16c2RKV0xrTlpDTlMtSk5BeXZScTQ3elBm?oc=5": {
-      "title": "日本製紙の折れた煙突が象徴、G7で最も老朽化した日本の製造基盤 - 日経クロステック",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oV0NHNlctUThZcTNZcWdfTUhXay1wWXNkUXBxVVFzQl90WFYweWp5QVg5Z2VWUXZMcWdRM2IxbFozelRPNEdESnBLSlBneHdaWUpiUS1lMzlTUVNyN3duZlhTRFBDbE55LXZ4cA?oc=5": {
-      "title": "金型の無償保管問題に現実解 トヨタとイノアックのタッグ 2万点を廃棄 - 日経クロステック（xTECH）",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4QnhObkgxNzV2Qk1lc01uLVJtaHRvTmQtVGxjNDZPWVg4aUpWaXhYR3VRNDNEYUNKTHAySUIwZEoyQkcxTFZFTndhRVcxN2xUTWpDREFkdHFhTnAxNEpYWFdFUXpxcjlpalJUaw?oc=5": {
-      "title": "トヨタ生産方式に学んだイーロン・マスク氏が向かった第一原理主義 - 日経BOOKプラス",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVaDRpUVE2b0hRWHZqSWRfcDRBREQ3TDJjczc2d05sTFB3SEstNGdselJEQVpKUDBaZEJJRnE5VGxNNXJNb1ExUWE3TktpdmRHRGhjMlY2bmNCUEVaZk00X3JvMHpBWnhVVzNyVQ?oc=5": {
-      "title": "トヨタ北海道「モノづくり道場」に10社70人 地域連携を拡大 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RHQ1U19DdGwyd3lvWFdiVGVrV1luZVFER0ZDUHh5OGZoYlFJdmZSd3RON1VjeFN0Wm0tZkQteGNDcERVTzhtbzR6clFWOWF3SGxMNDZLaEVPMVFHYkRzM2w5RjJWR1I5c29DUw?oc=5": {
-      "title": "中国車、生き残りへ合従連衡 広州汽車、一汽トヨタ株50%取得 吉利はEV充電網で提携拡大 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIQ1Y2MmlPZWp2elA5dzZ6MjZaNVVOTXp2VUZKbmx3OHlqbExyS2VhV05VVVMyaWNRYUlKMzNjQWRVM3pXTGJ6a1l5cDRYZUd1clYyVUdiUGJtTW9IUFdjTURCUUhqZw?oc=5": {
-      "title": "楽天ペイの楽天カード決済は損 SPU攻略の鍵は楽天モバイルとファミマ - 日経クロストレンド",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ia25sU3dyOUROTjhPOUY2Q3JWZHloVklFTC15eFh3VHp6VDQzRDQ2ZW0zLVlzRHRzLUtTT2VnTDhnc1VwbkFzYU9ibTR4MnJna1Vud2V5SzRfeGc3YnRxSXkwM2JLTTBuT3owUQ?oc=5": {
-      "title": "リチウムイオン電池の火災、最多3.9万件 昨年度 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JN3JpN1ozTlVDak1CanNJV2FWejk1UmNQbV9OVFlBMlZ0NUNsdlVqM1AtU3FabU9yaFo2UWxxaXFfc0NSTHczZzRyTXNWT1FlMmt0YmstLW9Ta2tBMGd3V0lwNXNWZ0FFR2I0dw?oc=5": {
-      "title": "フィギュアスケート:フィギュア中田璃士、西武グループ所属に 世界ジュニア王者 - 日本経済新聞",
-      "company": "西武ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHMzFXSTU0Q0k3bmliejBrS2pQNGdPQ19CV3RZS1MxX1IxS3BmM3NkV0w1QVNWOUtSTVpDdkFjMzhLd2xzVFotSWpHdlBuN1FnQ09ZeVZIWmdWTHNRN2k1VUVHaWdPUFpOUExYYQ?oc=5": {
-      "title": "経産省、関電と中部電ミライズに再発防止指導 料金を過大請求 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92eFIybE9VQ3ozbVFXM3Z5WThnTk9uT0tidEl3c2JSRDdOd3Vzbmg5YkFyZ3pBekhDOFlERmNJTzNRWWNWd0xLM1AxYVF3Nmw0Vy1ocXh3XzB5VU9rNlZ1ZHUzY3lWODgyLS1sVQ?oc=5": {
-      "title": "円相場、27年3月末に1ドル=154円 三菱UFJ銀行の小池氏 - 日本経済新聞",
-      "company": "三菱UFJ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pQldaVG51d2FrbkhPV3J5NlRqTVBldld4NG0wSldNMF9NWkNlNnBveE9LVHdVWV9vUnpVNzBjcngxaExMbm5IRGtieHhVeWZQWUpnQVlYeU9iWnJmS3NtbTBEcWxZYTdTb1VzVQ?oc=5": {
-      "title": "SBI、傘下の運用・保険を統合へ 運用力生かし保険拡大 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTlZ4bWUxRExja09LX2E0RXVZTjdWd0oyeWUtcVEwTlQzZms1M3ZycGVTd3M2S0tsX3JUbFdQeW1wQmdIYUhjSVpRQ1hualVvN2tPSVRzNGJ6c2xGVWRQTG0yaWRhQ0hxcFY0bw?oc=5": {
-      "title": "SBI、年内にも運用・保険統合 バークシャーがモデル、調達コスト減 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nVUhtRi1tdElCRXVHSFpwdXNrcjI1ekVKYVd5VjAwSTgwdFIwX3doS3czNkk5bndUYURUT2YtME1OWmxhYnlCaW14MHJWM3B1bXdqRzBiWXpYaUtnU0tPWW1ZNzkwX2lNWUE?oc=5": {
-      "title": "ジャックス[8584]：統合報告書 2026 2026年9月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ジャックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T00:02:44.725288+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXa0VPQ0thSmZOOFJMRy12NjdONlRGZWJ6akJJX3lDRDhwT1RmNks3VjJIUkltYmNidkZJalMtZnVGSnNkQk9Ec0p5U0xreHZSN24wSWh4TmdPRjFQLTg3RTkxQUx4LWg3c0F3?oc=5": {
       "title": "住友商事のCVCが、ロボット遠隔制御・統合管理プラットフォームを展開する株式会社キビテクへ共同リード出資 - 時事ドットコム",
       "company": "住友商事",
@@ -2513,7 +2429,43 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-10-06T12:46:45.213321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pT3VnWFFvVXFkV2FHeENvTHZ2MEZiZFlCa01EOURudHhncUxUSGhCVXdxdkVZVDJaeEQ5RlRqTTltSWhpSTJjcjJSbXdPMWJ3bk9Dc1Z6Wng4allVN1lEcmZKM3c4Zk9rOWxLaA?oc=5": {
+      "title": "三菱商事系が大阪にデータセンター、国内10棟目 AI向け液冷に対応 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZQXJ6ZXh2MVowN1Z2THBJcjU5bDBUTnZxRVBUV0tOVnVUZU1HR284dUU2Mjl6MmhJRDhIY2lNemxBUC1Tc3B5dDZVNjU3TE44Rk12NUxjdVJXSVJDUFUxMXJGOXdHUWxaRUlXYw?oc=5": {
+      "title": "NTTドコモ・スタジオ&ライブ小林社長「WOWOWと共同戦線」 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcDVxX2pPWUxiVkh6eE9Wb0psY2J1T3kzSzVzMkdBXzRVNFBXemIxM3FhRzhIQUZDSXozbTdVUUlIM0dmeWpvOGg1eXQ3X29tT2dPNHpLYkdOTjd3YnhCUmRsU0pKR3k3Q2p1dGdacVNVbng0ejZB?oc=5": {
+      "title": "ENEOS､水素常温輸送の実証プラント 豪で27年1月稼働 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXZib2VDM3R4Uno0SExuSzJGY2hyZm5odUdiTmVJTmYxM1JMT0prN3dfRUZTeVZEWXpKU1d4ZHZNNF8tamRORXNGbEZ3UEpYZHo0eFRPR3BHRE15dTBUdWg4RnFsUkhITzlsZDJBWXdMUER0LWgxdDFqcUo2YlNSVEVCdTlnVVdDMkd3?oc=5": {
+      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客 - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3RldU43bmZvYkx5bkpkX1V4ZDRIRkxvWjBpTUJ3eTdHbk9Vc1YyQWVQbGhHS2JkYy1CNzQ3YjJfaHRsT2hEcngxaTlJZVpSSFVOTUlTSGxZMnJwYWFuVDNmXzdUSDVYc0FkMlV0T1dPREhxS05ZeEh3bDJwNEc0b2E4NHdZd0RjRzhBdGZNVkRWdXA0Q2c?oc=5": {
+      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客 （2ページ目） - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lUS10cjlQcDZMOE1BSHdOY1FjdG00OWFWbVEtbnR5bXhCX1RheW5aeDdoTWxJeVN5eTh4TlJLZWczXy1JcE5uUzV2dnZQekhfaUlLZ044LXRYX2RwRmxWZ1hBa1plWUE?oc=5": {
+      "title": "遺書の「死んどけ」が問う安全管理体制 四国電力送配電、19歳の転落死 - 日経ビジネス電子版",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T00:19:39.352612+00:00"
     }
   },
-  "last_updated": "2026-10-06T12:46:45.213860+00:00"
+  "last_updated": "2026-10-07T00:19:39.353069+00:00"
 }

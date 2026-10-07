@@ -1,89 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXa0VPQ0thSmZOOFJMRy12NjdONlRGZWJ6akJJX3lDRDhwT1RmNks3VjJIUkltYmNidkZJalMtZnVGSnNkQk9Ec0p5U0xreHZSN24wSWh4TmdPRjFQLTg3RTkxQUx4LWg3c0F3?oc=5": {
-      "title": "住友商事のCVCが、ロボット遠隔制御・統合管理プラットフォームを展開する株式会社キビテクへ共同リード出資 - 時事ドットコム",
-      "company": "住友商事",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qd3V6akRFM1FFYWxCRkVBZERzZkhtN294eHdsNkxPYjR6Zi05QWxtY21ZNjB4dVJvY1FZUldqZFktLWJhVkpXZlFLcWRaSTBlMThySnhrdDlKNkk0V3U0WUFlR1JVUGp0ZVpF?oc=5": {
-      "title": "小郡市の行政事務センター運営を開始 ～NTT西日本と連携し、職員の業務効率化・コア業務への注力を支援～ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zRUpUZXhvT09aNkZqa1VURjdSdTMtYURRYnNPOWlRUWJZV2ZGYVJfZHl2UFgzdTU2Qnp4NHNSajNSczJrd01MdkJvV0ZlWGVvaElzd1lCWHFlcGFpbGJxWl9LS0tyRnVVbGRB?oc=5": {
-      "title": "AIへの向き合い方は、二極化する - NTTドコモが新卒エンジニア採用で「AI協働力」を見極める導入事例を公開 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE84cFZPZUNQR013eHBjejdwaXpqbExuU05yZGFEeTY2TmNoQ3hzQnh3UF9RMVNtN1NxU2llaEhKTlZMYU1OY0Y0WEVFZkVoa2dZeDJQM1F1N2NIZTAtSmswN3ZnUWxybGluMUpwWG5KUGM4SUlo?oc=5": {
-      "title": "三井化学会長・橋本修氏 「ラジオ番組」で社員の身近に - 日経人財グロース&コンサルティング",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laEhlSzlyZV9ONE5OUWRPY25ldVVIWFRSZXhPLVY3OG5CT1VkVjFZdmtJenBPY0ZtUWRkWXZiSmRKSUEtbXg4YnV6dG5qRFFDYWlyZVFZb0hyMzJKMXhUWUdXbnpKVTg3WDlSVg?oc=5": {
-      "title": "女性技術者の挑戦を促す対話を、三井化学とSUBARUの幹部が組織づくりで議論 - 日経クロステック（xTECH）",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CRDNDSG42TEJyeFBoaW50dWFGeDl4eUJiaFZocUhQd0NSNTZnTUJ3VkVtVENVSlR0Z25OTFVmVUpPOWptTEl4Umg2ZVVEUXQzUm8xNV9WaFZMdGNxakhhRGl1OGRNV2dmZzRzYw?oc=5": {
-      "title": "KDDI、10月から楽天へ回線貸し縮小 横浜・神戸など18政令市の市街地 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WUEU2aTdmVUdwejh2bjhBYTVQTEpsZkdCRVB1WVlyb3pyNXVpd2hIVVNzUTNJSHE3MDdzZktjY19NUTNEYmV0NThySzJ1N3pIZE9hOGxOUlc4eGp6bHFEZGlNM29VR3NXSU53TA?oc=5": {
-      "title": "楽天カード、みずほ銀行との法人分野で提携した「楽天ビジネスカードプラチナ」の申込受付・発行を開始 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkcW84a2ZWQndZX3JnalFIVUFIQVhlTC1lNkJyMnB4U2VQX2JlNWpTVG0wUHQ4U01RUDNJTVNjalNkYVh5dW0tcEdOaVQxLXFSS3B2cndueDRzZzNRa1FwUHVpVDBUWjZUNGZZ?oc=5": {
-      "title": "山形県公式オンラインストア「山形直送計画」が「楽天食いしんぼう祭」に出店！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdXk4WktmZTBBZnZWVHI1N1FTWXh1eENTbDBXYWU1WmRZTnhnYUVxZDN3TjBZSHRrN2s4MnRuc0E2dTFmdDBMOFREMzRIV3pac1NGUVZycW5QNWdiR1Q3TmpyV2hkZlc5dXlF?oc=5": {
-      "title": "根元 八幡屋礒五郎 イオンモール須坂店1周年記念！「チーズ入りカレーパン」「須坂缶プチ缶ストラップ」を発売 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE85NjBET21Ea25oYnhKWlVUTXpQS1Y5al9LNEM1RmRtYkU3dUU3ZWp3bkh4TS1na1FFX0ZZNkZCVkRVNTZTVFpCQmdWUlpMNV8zeFc5MV9RMU8tcFNLTDQ1R00zYV9xTzBoWGtB?oc=5": {
-      "title": "果汁工房果琳 イオンモールのハロウィン限定ドリンク発売！魔法をかけると色が変わる！？『しなこ限定スリーブ(ハート)マジカルブルベリミルク』 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTnpxSGxqQlJ3emVnUHd2eHFZWHVpZ0JvVXhoWXZFQ0Yybnc3dFV0SmJCQ3Bmcm5oVDJUcVhYVWZWX3pXQ05ON3ozdm5Wd0NTN0Jkb0FDZTNGYmVwd3NPNFI1T1VQZ1BWMmdB?oc=5": {
-      "title": "宮城・仙台「イオンモール仙台上杉 1周年祭」に高さ2mの巨大ガチャ「モンスターカプセル」を提供 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nNDRYN2I2bnlSMGtjS3ZZN0hIR1NGUUNReVd0bExYbk96NjRYMEJZU1dTZC1CT2stU05fMEF3eHZDcjBDUGxvd3VjMnZ2ejRjN21QLVBhb0hCU252U2REekRnZm1YMDNITDYw?oc=5": {
-      "title": "店内製麺・もちもち食感が自慢の『生パスタ専門店スパラ』と新業態『ONE SLICE PIZZA』の2店舗がイオンレイクタウンkazeに9月29日オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tdlR6WXVGb1pRaVEzaEsxeWlQaXVGYUk1dzFmeEVNUWVZX1RMZ2ZwOGNLa01kYWxubFh1ZUZtU0ZKNEswOGxIc19wQWdGSG1VeGlXdkhFUTlSeGxiVF9renhLYWpYNGw2OVE?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：当社子会社のＳＢＩグローバルアセットマネジメント株式会社とＳＢＩインシュアランスグループ株式会社の吸収合併による経営統合に関する基本合意書締結 2026年9月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWDBZU1dIZTNHWTBBbVNpM1hWaHhVdDEzUEJsTEtxZDNpbndrWE92dTJXM0ptcF9vQnlsRjkxMGdxclZucmtrbC1yaEg1TzQ1SFNkUGI1emNfZXY3aTMxNTBiM0VnN0Y5M0E?oc=5": {
-      "title": "オリエントコーポレーション[8585]：統合報告書2026発行について 2026年9月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-09-30T03:59:24.646927+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbWZ1VVBYdmF4VnpJTTViSmtOUDNmVWJzMDJ2Z1BRdFB5bklDb2JMNjJKRGRKdDNMckpLejBFeFdDWGozcTNuZTJGa3BtNDNRVEhwb3dYZXNoQkxzR0NjUENJOA?oc=5": {
       "title": "【マレーシア】ＬＮＧカナダ、生産能力倍増へ 第２期投資決定―ペトロナスや三菱商事が参画 - 時事ドットコム",
       "company": "三菱商事",
@@ -2465,7 +2381,25 @@
       "company": "四国電力",
       "source": "日本経済新聞",
       "seen_at": "2026-10-07T00:19:39.352612+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BYm1UajF5YWZzdTIzRnNPVHlFdkxIVGw4aF84cUpyVG96RWFnMmM2cUV6VFRsUG9WeUpQa0lNVmhKdkY3NXRfUkxBVWloelN5aXBJc2VIZTVuOVBQVFZhNnR5am9XX0lSWE1tMg?oc=5": {
+      "title": "三菱商事、株価が一進一退 「データセンター国内10棟目」報道反応薄 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T04:18:36.745641+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54WE5uZEVvdDIwZVhwY1k4TnNyQXNISl9FSzkzUlRTYU45WUl2S2tYS1dwRFpTd3lPcERZLTlLRXZSSTZmRzctRnJNeEtTSmJZZE44S1FYcEl5UDhKZHcyVTluZ3Zpc2w1XzY5Zw?oc=5": {
+      "title": "デンカとトクヤマ、カーボンネガティブコンクリートの特殊混和材製造の脱炭素化に向けCO2フリー燃料供給・燃焼設備を導入 - 日本経済新聞",
+      "company": "デンカ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T04:18:36.745641+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9maFRVb3dRRldSZmJpbV9KMW5jazFHdWdhNm1qWldJWGVRU3V2bGVBaDZtXzk3ZVVSUDFibUY1TlFnNWFTeUVHTFVuVHRrQVdkb01ubkg5SmhHNy1OaEkzTWNqaTlBcVp3TFc0Nw?oc=5": {
+      "title": "オリックス[8591]：変更報告書 提出者：オリックス株式会社：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-07T04:18:36.745641+00:00"
     }
   },
-  "last_updated": "2026-10-07T00:19:39.353069+00:00"
+  "last_updated": "2026-10-07T04:18:36.746194+00:00"
 }

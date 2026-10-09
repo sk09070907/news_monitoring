@@ -1,95 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BalRFQ0hRRXZLOUN1QkJ3VXhHVFpYZk9TNmpzT2VRUDVBQ3lZZjBTRjRhbUZhS0tJMW9za054YVp1ZTY5NG1GbW85aTJZOEFtOU1wcVltQlpvU0ROa0w4d290Q3UxZnVwd2JRMg?oc=5": {
-      "title": "NTTデータグループ・日立がFDEで攻勢、AI需要巡る覇権争い 脱・人月へ - 日経クロステック（xTECH）",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE83WWQxMHNaR1FNdVU4RWRCTFlBbWxpTlg4RDl0X1R1NzEyR2NZZTh3SUFOeGJqbHA4MDdDd2JHeDNQTERYY2ZuaFYxcnYxVHhsVHUzRF9qMXdlVFFHNXprZ1NTd2p6OXRfaXNj?oc=5": {
-      "title": "NTT東日本 新CM「光TRANSFORM」篇を10月1日から放送開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MdG9HT0R5M3FMZ3dqaWJUcUdmakVpREhFR08tTHZEeFAydnctMDBLVlBkd1JXSGIyanRib2l6WTU0ZkxTYU5JX3g4UU1YbTVMOGxtWmtsbUs3MnNzRFB2Mk9xYnNIRHVBcVRN?oc=5": {
-      "title": "NTTとTBSの共同出資会社「e6合同会社」が本格始動 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE05alBBYkdCN1pfZGZkeFVZMkFFS0ZlaGRBX0s2T01mZkJQbVAzbGw3Y2pWZmF1X0M4cE1ESVlzNlpjSlRNenF1Tk4wY01NcnlGaGtVQy1LQVNUUUh4SGRWS3Nja1REYmlaSTVGOQ?oc=5": {
-      "title": "ニデックは「東芝」になるのか 酷似する転落の軌跡 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNRFEyQ2lFdFB5bXBVUFhxQmp1cm0zdEhZTTcyd2l0ZzlhLW90S1JJN0lsdEgyTnkya0ZlODZBNDFGOGNMRllsdVVHTkRNQXpJYlNiY3BGb0JuTXBYaEJQbEVIeUltekhMT19YVg?oc=5": {
-      "title": "東芝、HDD供給倍増へ600億円投資 半導体メモリー調達難で需要拡大 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2dHB6anJicHhLMVQya1BlMzVDajM1TVI2YnA2LWxSUW01VFpmMThIRUpQUmtFdFVWa25vUXktZkFmRkx5MkZ4U2hnZ292d3dLUU1SbEtkdHhDTHh6WEtVd1loUUY5WGdwODVwNg?oc=5": {
-      "title": "東芝の「転落」繰り返すか - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N2Fpc3RwX094NkU4U25FUUdwMy14cnRGVThBaFNTcXA4dUFhY2ZZcGtqeThVc1pSWE5IUUUzWld5aE9DYkdhQ2dSWUh4QmdUeFJNYWUwWC1aQ2JwU2NUUmR1WUxlUXdDVUN4ag?oc=5": {
-      "title": "豊田博子さん死去 豊田章男トヨタ自動車会長の母 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOYUUtX2x0NEV5Qk1MUkdVRWs2VkZBeHgtR3lWd2R4LUlaMTdtNEFrekk1WXllTl9ScmdWcmVWSVpwS1pTaEJsaThhcnk0dEVfUWl4VkE4cEVIM2VGeE0za3hObDg2bS0xYUptYWxJLWpyTlpjT3FvOGpfTklhM2c?oc=5": {
-      "title": "編集者の視点 ｢トヨタ、アルゼンチンを南米輸出拠点に｣ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uQUF2TnNUYWV4dXhfaUNwbFgwV3ZZeWIzYnhJN1hnN1BOel9ZS2dZV0s3T055UHBnQTh4eldxZGJ4b2c3aWVueFNPSmVOYlQxenAzaWszX0lJQzRvSFpfUlJkWlhMOUFNa3BJUzZzVzdsWjd5czhSVE45UDRqMW8?oc=5": {
-      "title": "4〜9月の新車販売5%増､2年連続でプラス トヨタは1割増 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWlBqZEZzT3E4MlJMSWFtX3h4dk9Ncm5SX0hfVXNEUlpITnYxQk5oWklSb2pQMFdjTk52S0cyTmZRNGNlS0UxVVJjdEtjNE5YVEcwQ3o0ZzRYdmhMUEtTd0ZkdUFQS2w5Nmlr?oc=5": {
-      "title": "SM2 keittio イオンモール須坂店が10月10日(土)に周年イベント開催！限定アイテムや人気スタッフの来店イベントなど特別企画を実施 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tYUEwZGQ1bWZVZkpZazVneUlBZWNOQzNOaVJNZ0ZnekY2d1RWVWQ5Rm1LR2gwTmhBZ3hDRWpsb1d1d3h0NlY0YllETGxYUUF1aW1WaWh5WUNEd2dTMXRoREE2MXJmdmhuRUZj?oc=5": {
-      "title": "JR東日本旧秋田住吉町社宅4号棟を活用した「音漏れapartmentマーケット2026」を実施します - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lUTdFeDVYMUxwWXZRYy1uQnhycmgwU0lyWHFFTTF1cXVYdWFFclY5U1hGUVVTX2dmdHpSaWkweWo5aHlvc1Jab2ZkbTNVTnZBR3FJQ1NGYWszLVBJV2xkYlpmdERNbDR4WmhLOQ?oc=5": {
-      "title": "東電など、送電網「空押さえ」に対策 データセンター向けルール厳しく - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UNy1pd1JfcTR6YkxzMDFaaGNuY29SN3c2djJaWEV4Ym5nZ21jYVhhRkFWcDFfM3E5cmdELXFPdXN0VFhVVXdOdHp3LWRVRlhXaWR6RkJsdmVqSVFYcjJQaGhhTWxzcDEzRFE?oc=5": {
-      "title": "九州電力の最新ニュース。 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kellqSXdNeTdQRlA2Yl9jaGNkMWIxLXVCYjlhdTFVbjdRdU1Nc2p6T2lwWDd2LUEwNXdwdFJaTjhkT2FnSEVxd0lGVGtpWmVyZHFpNWZkLWNLY09SUUV5R2JfbUNLdDE4Y1FEWQ?oc=5": {
-      "title": "山形銀、「貯蓄から投資」対応加速 大和証券と提携合意 商品販売ノウハウ共有 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcWl0ZlpkR3hpWjJKcmZJSzh4VjltNXlCY1VHNlZ2ZE8tdm54LW1jQXE2b0dmRnlJZTdPTWE0d3Bmcm5id3czLXE4QS1rcHZuUDhBX0doWmpFYW40bFlkM2dfT01KNGtBbThv?oc=5": {
-      "title": "「株式会社ザイマックスワークス」の設立およびグループの工事事業の再編について - 時事ドットコム",
-      "company": "ザイマックスグループ",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T00:27:42.555717+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xdUk1NG9VVVBPUElMbTN1a3A3dGFSRWRBVm1nNG54N25fVkR5a3Y1dmZSM0t3bjNFV0NmS3dvZU1jQmg4TTRtVXFFdjVlMXdjUjd2anhYVkE2ZzlvX2ZOaFJXR0RTRjNGMlpv?oc=5": {
       "title": "三井物産デジタル・アセットマネジメント、「NIKKEI・NADAデジタルアセットカンファレンス」に協賛 - 時事ドットコム",
       "company": "三井物産",
@@ -1841,7 +1751,97 @@
       "company": "ジャックス",
       "source": "日本経済新聞",
       "seen_at": "2026-10-08T12:50:19.665990+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bVFReVFmRUttLUYzU3RnOThwTzhtRE9rNGVEbHZxcTVLVjhzclJtWG9YdFhxbl9BZTloXzl3elpfYlRaaURSQjRYOW1rZG9xVVpJclIzMDE0OG9zQ2lNVHBLYWVEekZmU28zNA?oc=5": {
+      "title": "ミャンマー都市開発に転機 三菱商事など撤退、商機とリスクに隔たり - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0RCSUxLUEhUUnYtRU02cTBJNGtpOU1fT3hYeUl1Uy1uYkk1b05LZC1MX0ZaUy1kaFNocjBvVVBqUDYybzduSlFPQ3ZRTk1femkzMWZjVkpsUnVEUzYyMzBYdVNaNW1nM2VTeWNPWXl2SG1CamVQLWhBSnlKRG1UNUdpSzBjUkJWYXY4MG1GVTl1NmtRRy02bFllWGI?oc=5": {
+      "title": "住商出資のノルウェー企業、洋上風力の支援船を4隻追加 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGpoTzRCRHVQWlRNMEtQU21uTlUzTWg1WEhKcmd0VzJrYy1jbVFRN0tuSUhLVkI4ZmJkSTg3Y3NYN0tJSmVRbTQ0NWMxQ255UVdkbUFlcXdKTHVxRUt5ZV9uSzczTmtxRlliTGlZamxMWkQtMGF0Z1YwQVFGSVU5OXRIeGF4Wmc?oc=5": {
+      "title": "光電融合が27年普及期へ NTT正念場、NVIDIAはGPU間に光 - 日経テックフォーサイト - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRC1UTmV0Y3JZVWg0TFlUUUZrR1ZYSkhWX3FGRi1ZNktKakJhMWdxcGV1MU54WVFsWW9CS2JDbE5Bc282QngxczVKa2N4aWhpMkpWQ3REbkJUNlN6bnRjMHFQSFNzRVk?oc=5": {
+      "title": "「光ファイバーセンシング」 インフラ老朽化の日本で進む、NTTなど - 日経クロステック（xTECH）",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Jeks1QnozR2RvamF6TExOY29GQldWSlNtOFlvaTdZWlFydUNoWVdHOG82bjAyZExSaWZZc3NSbVVlcG82U0I5YmVLQWRmaVZQWmNBcjdhVXJZSUI3NUp2eUFCam13S2YzRGZrbA?oc=5": {
+      "title": "JFEスチール、鋼管5%値上げ 昨年末から4回目 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEVYWS1zX1ZLLXdabl9xV1dEd0ZpRWJweW1QTjVMN0Q0ZzQ4QkFkVEhPek1wUEtLdlhlZ0FwRHZnLWxEUXhNR21MdFBLZ3d2MmFIZVhyN292b1V5LXNLbHQ5eEtFbkR5cHNZUUJncnFucll0UHFsRW9DcjBoWHEzTXV5MEpPbW1jeGFqTWFNTWtlOWNLS0dOT2ZVNE1yb2NvNG5ZTw?oc=5": {
+      "title": "日産サクラV5逃す トヨタbZ4Xとテスラ･モデルYが抜く 4〜9月EV販売 - 日経モビリティ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fZ0pYR1BQUXE5RjlEMFlzckMtTzRacEF0TmdrRVhRd2ZSNlJ2WjJ6YU9abW5KT0R3LTd3aXhmMzJKZlZCX2YzM3NvN0VISUNSYnRuQXUwODgxMXlxRW5sVmwtbXNjMGM?oc=5": {
+      "title": "トヨタ、E2E自動運転を28年量産 レベル2と4に共通モデル - 日経クロステック（xTECH）",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NU2Z0WUZwbFNYYmJaeTJpdllTNjQxQmd6WmUyNjJrekw5SUo2OVkxNnpUZ1lsZ1FvbktqQUN6ZHg1Xy1PazVqMnAwajBYaVZiSEdMWDNPTGVwTFZFeVV1N05DWmxRS3NiU05v?oc=5": {
+      "title": "音楽ユニット「ピコポッコ」1st EP「ピコポッコ・アニマル」カセットテープ、楽天市場で販売開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9hSVZLM0dXRzdtUDNLWDlMUWVUV3lOZ1hmV0ptMGlYd0k1NWMza0FjN3BmQ2l4U0Voc1BXVEhNQkRjVF9iS1VZU2RlekZXd3I4ZXFHR1J0WUQtdmRIVHlsbWJRSzhZWmhNeHRtek93dWJ1UQ?oc=5": {
+      "title": "【一般初公開！】優勝ペナント他 Remember KINTETSU 特別展示＝大阪府藤井寺市 - iJAMPポータル",
+      "company": "近畿日本鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRW9zRWhncklvUzlyN3NPdUlyR25FajVXejQzLUQ5UVNUelhmOFhSeGtjMW52REduOEJIWXBDOXAxWk9oV3h5YnprR3RtTmhzVUdZNlczNjFaTk9fOEg2Q3AyU1QzTWlNeHR0RW91SzdqeHlkYmJ0M2RUSHRBU0RSQldQRU4xTV9M?oc=5": {
+      "title": "関電、原発PPA始動 AI普及によるデータセンター急増で電源接続10年待ちも - 日経ビジネス電子版",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VkRzVmt3VUZVcE1mNVU1b05hVGV2eVpnV1FiWVhYTF9zU2xHWTBiREQ3MElvTmZlVk50S1VuZ1k0VnZ4YXU3SEJsbzV6LVlIcFY1NF9WXzJDMmhFYWVrOVRNT0lHaHhMOXFndg?oc=5": {
+      "title": "バズる金融機関、ハマるZ世代 みずほFGの動画仕掛け人は入社3年目 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbW5TQnR0SzVRQzVIQ2FMQWpVVlRTbXFva05ZbGdXSUhJTXlWOTRPMjdMRmgwOFFnT29WQklRaUxhQk11aFFmb21yeXlVS0taR0dkNGhQQy14X29mWEVVR3RXOXR6VU5WUDZQbA?oc=5": {
+      "title": "日本株ADR8日、高安まちまち ホンダ上昇、みずほFGは下落 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Rmx4OW5XcHY4Mnl3Z2hpVG11TkFhMFVqek1mOWU4UmhHZ194aDJDM1RKU0FmbEtsc2tTakdTSXBMZ0VtSTRyaHd3UG53UUE2QjlWZ0g2ZEQyOUQ3VU05WkNmRVdwaktVYlR4aQ?oc=5": {
+      "title": "ジャックス[8584]：発行登録追補書類（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "ジャックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzZlJfWVJyMW5ZTFJpYkQ2UjhTRFN0cndaZkFFWXdBVkxDQXNGUFV6RXpqOWp2VkpMYmdxSVQ5YWlDd3gwb3NsSERlQW9pdWxUMnJJUTNYSUxTVUtjT2ltS2VqZU50YW1Na05Sc2dpTDVhVDNPUXROckpZd0V5QQ?oc=5": {
+      "title": "東映ゲームズはゲーム発IPで世界へ 映像などマルチ展開も視野 - 日経クロストレンド",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHNjZEhhYkdHVFpET1BuV0tzemtJZmlYOGU2Q1lJWmo5cmIyck9aRkluay00NHk5UzgxWXhjeGJ4WnRqSks4cVRNNi15dE1OQUZGUUp5UlU4V0t0T0otVnBaMWVPUHhZeE5yY1dXal9tQU5yLWNGaFE0eG5uem1FQWhUdVZGS1NDZ2JHcUpHR3Jlb1lqVFE?oc=5": {
+      "title": "東映ゲームズはゲーム発IPで世界へ 映像などマルチ展開も視野 - 日経クロストレンド",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-09T00:56:52.357310+00:00"
     }
   },
-  "last_updated": "2026-10-08T12:50:19.666540+00:00"
+  "last_updated": "2026-10-09T00:56:52.358118+00:00"
 }

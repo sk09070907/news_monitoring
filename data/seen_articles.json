@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoNUtDUzdMSG1kZkJtN0N0QVVBZy1Da1pYcE1YYnpmUUU4NjdRY0tSRkxkM0tnMTlKYVE1T3FBd0pRcGdZaXAwZDg0dl9keXlvVmNWaw?oc=5": {
-      "title": "小川大介さん死去（ダイセル化学工業〈現ダイセル〉元社長） - sp.m.jiji.com",
-      "company": "ダイセル",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YR1hvOUZONUhRN1pnS2NZRXkzbm9yV2RXYmEzOVYwcnFoeThOQk5kNmVvSmFZemIyUmxMMFpZdGdGMTJXX0NJY0VPaHE1eWxUaDloTENlNVY2cFVheVhiRjVPOXBhbzF1WGdVMQ?oc=5": {
-      "title": "〈ビジネスTODAY〉東芝、HDD供給倍増へ 大容量品で反攻、600億円投資 世界シェア引き上げ - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE03YzNlNm5hQzUwVnhqYVU2YmhmaHg1WEFqN2JDNWtWNlZWUVNOWml6QWlpbzMzeHI1NDBnQ0VUaEotNm94TGJkOGFJUTM3MTczV0N5TGFpVmZnRXVOakNRUHJiYmRjQWc1ZXNj?oc=5": {
-      "title": "JR東海とJR西日本、「エクスプレス予約」・「スマートEX」で年末年始に「EX早特☆期間限定セール！」を発売 - 日本経済新聞",
-      "company": "東海旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3RZWjZGVTFiYkpyeWRPZ1NmVC03b3dnOWY4N0hGV0RRNDVaSEQtTmJKTlF4WWJXV2llMUJ6RDdmXzdaMEd5cVFDNW9BaG5TRGQ5cFNncEJEamVQZjhkYVliRDhvUkNBZHRhOVdvUElOMllLQUtTWnBLMW5McGY5NXNId1JtVWVWMm9JLWRBdUt5ZDBiQ1EtT0hES0hDRHREMjZ2aEU1UjVmZExqb1Vfclh2UlZfQy1mSXhFQ1hDbXJmTHVCcGhxdS1Nd0k?oc=5": {
-      "title": "三井倉庫ホールディングス[9302]：サステナビリティデータブック2026 2026年10月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井倉庫ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE82TGliU2VfRTVKQnpfbXk1YVZmb0sxUHVEQTBCSHFXZUM3VVZWdThSVm80UmxrQWw3QmpGNDluZjJuNFNfMENBOVp1Wm9DSzZyaUJHOTBiQ3B5eXA5ckJQOENJT29ldldUUXc?oc=5": {
-      "title": "三井倉庫ホールディングス[9302]：バリューレポート2026統合報告書 2026年10月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井倉庫ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hY2thRDh0cWQwVEM5bENOMjFicWJnS1lIY0I3THcwMGRNVVVld0k5eGVaeUNMM29aRTk5bnZJMVBaMUFUcTJFU0dRT3g5N0o4XzY0OA?oc=5": {
-      "title": "◎関電、大飯原発３号機を定期検査へ - sp.m.jiji.com",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-10-02T17:27:45.756678+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRjZBcW9HN0lvR1JwRlBiY29hV3NMUm1pXzNEc293bDBXYzl5X0JFb2ljNEtmbDdVMkNtSFdXbm5fSE1WdU9RYlBVaGpfVHRwWlR3Yy0yUjBYRjk0MjRjNjctMTFqSkFhVjB2Yg?oc=5": {
-      "title": "商船三井株が高値圏 エネルギー事業の比率高く先高観 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-03T00:06:39.254030+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTTFkd0pOSlhGcmJKdkVhVGlkbnhiVUVyc3lNcmVnY3V3eHl4VTF2QmpXVkhiYlk1QVdQSTl4YmZWeDZ1SGM2X2NkSXd3OGZRWTV2SlFPYkVVNU9PMTRYNHl3WFZXSVNoZVJJ?oc=5": {
       "title": "『頭文字D』の伝説のシーンを、トヨタの凄腕ドライバーは再現できるのか!?10月2日「豆腐の日」特別企画 “コップの水をこぼさない高速走行”に挑戦 - 時事ドットコム",
       "company": "トヨタ自動車",
@@ -1859,7 +1817,43 @@
       "company": "東映",
       "source": "時事通信",
       "seen_at": "2026-10-09T12:35:20.515283+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oY1VCUklyQXlfcmRzbUlGbFY2MnF4LVlYdWUwYWpaN1lIdlFGSzRKSnIyanQtRWI4QUdnekVoemNwSnlfZU9maHZ0ZDJFcS1GaE5fWjZRc3ltWGI2QTliS250ajhpSGZEODNzXw?oc=5": {
+      "title": "NTT株が2年半ぶり高値圏 ドコモの値上げ好感、データセンター焦点に - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbzBFU0NDaTZHNXpLVHh5MkJlYUxTSGV6WGc1WTllVElBaTZNUDdOM3BpdWpiNHdKb0UwQnVNekRRQ1hEYzZzMHRMNmJGX01UY05Od25vWDNhemsycjQxZzgxMkJnR1V6cWMybA?oc=5": {
+      "title": "NTT東日本CHROが語る働き方「仕事も私生活も両方諦めない」 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubWJCWExaUm03ZkZQTjhCWTg2X0w0Wkt2NXV0MnVnR2YycDVvYlZ2c0U0aG5uLWM3aFZYQlQ4V0gwSnB2eDNrQmFiYU9jQzlaUVhONlp1ZS1EZ2xzTlF1X1ktNnUtdXNrTklfQw?oc=5": {
+      "title": "アサヒGHD社長、カルテル疑惑も「値上げ自体は妥当」 販促継続の意向 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50V0pqMHNBbjJFU0ZmSDF1a1phSXA3dWd4Q2JlRWhlWGJ2V2tZSVVWRXktcjBYTFF0T093VzZzUGktdUF0NzVRM2tRMDJTaDRMeXowTzZ2LS0yOWdOb3J3MVBLdER2cFlDRnNfOQ?oc=5": {
+      "title": "米新興が「高純度鉄」生産で200億円調達 国防総省とトヨタ系出資 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vNm5MTDNUY3ZpQ3p1NDZwdW5KaGs5SmIwTTZpUVl3bVl3RXZYZGJ2YTl4OHUyT1BPWDFzTVFyQ0V5STNKZllfTHo1S2I5Zmo0aE1SMVZYeHdJbEtBVmhaNEwyaDhEMUNrcHc?oc=5": {
+      "title": "イオンモール熊本爆発事故…：日本の重大事件・事故（２０００年以降） 写真特集：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01MWJJWmtVXzNBT3o4ZUQwRWNtNmJESHYxbU9YTG11aUdJeUxCcXZncGswUzl3YjhqM1JPcGhfVFRHOXBZSXNQNVFzd0staEt1NEQ5ZFRDWkhRNFRUYWVHU3dsdUZ4dWZ6TThn?oc=5": {
+      "title": "東京センチュリー、「社内報アワード2026」において2企画がブロンズ賞を受賞 - 時事ドットコム",
+      "company": "東京センチュリー",
+      "source": "時事通信",
+      "seen_at": "2026-10-10T00:27:31.029893+00:00"
     }
   },
-  "last_updated": "2026-10-09T12:35:20.515661+00:00"
+  "last_updated": "2026-10-10T00:27:31.030300+00:00"
 }

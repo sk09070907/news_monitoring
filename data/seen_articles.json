@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQXV1Sy1INFV6TFEyRlVzblVuc05HNmszRTRkSGRGZEU4TndwakR2UGticUZrbUNHOGVrdndLa0V5NUxfMnhMZ08xMHpVbXR4ZUM3LWZNcE1QMjNNOVFDNk9rMmd2NlBjak5yZA?oc=5": {
-      "title": "ペットも食で長生き、動物病院専用食が2年で3割増 三菱商事系 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-03T23:28:33.161068+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzSjJQTml4WTViX3hhQk1IWnJLNXpVZGNzcURoeUtKbnRzZFRUWmhQZnRyTmlfTEVzWHdNa1pzTUdjdmtiQVZMNjR2OUtMT0h0UTRFRkpzNDk5RUIwSVRxVThUTXd0MnN4Vl9MSQ?oc=5": {
-      "title": "（おくやみ）小川大介氏（元ダイセル化学工業〈現ダイセル〉社長） - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-03T23:28:33.161068+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOSHJOWTBjZW1KTll1QVpLdFBtcDZROEFYTlZwWVJINW5kQlYyRG9WNGRqb3ZROEExQlhJZmRrM21JbWRVUF9YOThVOWE5OTh3OVRJWVZ5NWl1eXVIOS1LMmlIamJlQXU3T0hORXMwVVc5ci1jSHEzNWlrWks?oc=5": {
       "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
       "company": "NTT",
@@ -1835,7 +1823,13 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-10-10T11:55:11.300735+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5": {
+      "title": "トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-11T00:03:53.524641+00:00"
     }
   },
-  "last_updated": "2026-10-10T17:10:46.803770+00:00"
+  "last_updated": "2026-10-11T00:03:53.525036+00:00"
 }

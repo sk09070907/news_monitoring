@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOSHJOWTBjZW1KTll1QVpLdFBtcDZROEFYTlZwWVJINW5kQlYyRG9WNGRqb3ZROEExQlhJZmRrM21JbWRVUF9YOThVOWE5OTh3OVRJWVZ5NWl1eXVIOS1LMmlIamJlQXU3T0hORXMwVVc5ci1jSHEzNWlrWks?oc=5": {
-      "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-04T23:47:04.301405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hcEp5WTBwaWdibVV5cXpHTHR4S3VEYWNJYy15ckpCeFk5OFQ3YVlkZlIxaUdHN3VXWV84UDVZVDBCQ0hUTUlQMURfWnp2WGk3R196WVpPSWJmajRCbTVvUE5SdVlzM1M2SENCMk1PUlNnWURGbnBMVkkzREx1UQ?oc=5": {
-      "title": "NTT株が2年半ぶり高値圏 ドコモの値上げ好感、データセンター焦点に - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-04T23:47:04.301405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdDlBUzlSN012Ml82eWRkMmc3d0hPMTRaejFOaXlVaGFqSVBrNHFoSFoxd3FqcG5sSmZjOVBDR21rRlpudTROWHRnYXBPLWpkT0Y0SW5BcWV0b0pYSmFPUXZrMmNuQnc?oc=5": {
-      "title": "映像配信「Lemino」の主導権をWOWOWに託すNTTドコモ、その真意と勝算 - 日経クロステック（xTECH）",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-04T23:47:04.301405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dTY3SF9XRTI4N25JdmZQNGVFQ0R5d3NZVzh0YmZIaldnQnU2X3FIUmlHZ0Nzcmk0ZGYwdUg4QmpMNC01Wm5udUczZUJ3anRjZDJSR0tONXhDdzNhdldVMjRManlpVzJtbG5WQw?oc=5": {
-      "title": "ラピダス、東芝など17社と先端半導体の設計支援 潜在顧客を開拓 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-04T23:47:04.301405+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGd2Y2o4VjNIa1J1QjV5a3FxV2xUMjhmSGVENi1Eak13aWlqaGFENzdpNlF4WFhDZ01BdXZfTFF5M0w4LXk1RWxEcnBsOG1ZVnNSZDdUSU5MS2MzWFdyd0Y5TlRVbnlxZ1JlUTg3NHhXc1RSdHI5cjNyb0tzd0o0TkNZaGVvWHp4LXBPTg?oc=5": {
-      "title": "財務・経理の知識をAIに移植、SMBCグループが目指すビジネスモデル変革 - 日経クロステック（xTECH）",
-      "company": "三井住友銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-04T23:47:04.301405+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lVkhIVG5fSHZYQmdFa25lcWU0eGtncFlmeHQ0LWIxRWM0ZlR3ZXFkdC1Hd0ozOVpRLWI5aFVZSkM1UkpldmNuMGxWMDViRG1CVDBYb1NBX3lFbHhoMnZBeUstX0d3dF8zdTBGcGVn?oc=5": {
       "title": "現場事務管理（倉庫）/転勤無し/三菱商事グループ【倉敷市】 - 日経転職版",
       "company": "三菱商事",
@@ -1829,7 +1799,13 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-10-11T00:03:53.524641+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sTGVQUUpHRldEUTgxYXk2V3hsbElTbmNiYkpVbks5N3VvRDFYMGs1eU9IREI2WlNwcXFiUnZOUEJUTEd4QmZQeDVqaUVWVlpDRF8zd09WTmV1Ukt3d19oTGMtbE1oYXZQVHU3bQ?oc=5": {
+      "title": "みずほ楽天カードが還元拡充 「ダブルポイント」で常時最大2%還元 - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-12T00:09:08.796792+00:00"
     }
   },
-  "last_updated": "2026-10-11T12:06:30.439044+00:00"
+  "last_updated": "2026-10-12T00:09:08.797251+00:00"
 }

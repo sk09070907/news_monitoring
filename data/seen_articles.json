@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yT1hISG9RRk9DbkRvZ0lsSmVLd18xZTFJa2J5a0hyY1BhUE9tMjdSWkxtVFhRU00zVjZ5TGV0VGp3bDA1aTVnbUtzeU9tTy0wRF8zSzExZTBGQW9aY2RmTmlBcExWSGVzanZzYUtBSy1DblZXdzFSRm9VLXpxUHM?oc=5": {
-      "title": "三井物産、インドで快走｢公共EVバス｣ 工場建設急ピッチ - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LNHhYdzlHWVljQmxTTXUzUHZ4TWRhVmxTejZrdWtCaFg0OUlYN0otYUJHRmVlT0Facl9Jb1I2NEpxMXdPZEVnX3dRYkd4TmlqZGhJU19CMk93dVdpM0JkbUJYUXdadzhjdngzZ2VQVy05OW9oTjBv?oc=5": {
-      "title": "住友商事、インドの再エネ開発に参画 総事業費500億円 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KOVlNX3M4eXF4TFdaUXh2OG91aV93U2pWbE5jdFhpTEx0bUZjSmZkRmxXLURlb0ZnOVZhWVR2Q1M5dVdHWkJSUE5zZEFjaWluanBLNzd2OS04djZKM0Q3dFIxZDRIWUpsRjI0TkZQWEZTNVQ3VlFoN2I5UW04UQ?oc=5": {
-      "title": "ENEOS株が高値圏 原油相場に翻弄される「市況株」に悩む市場 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jcVRuZllUaWVHUWhDLVRmQTNyQ09WaENhZWtmb0pQYjhTSXY3enJaVWhjRFplU3o1Wm9CSG1oOTZ6UkRBMC1HTlhrRV9lZEpTQnpUVUFLZDJOb2c2WGdyRjltX0huMHJKV2JFbw?oc=5": {
-      "title": "東芝と国際廃炉研究開発機構（ＩＲ…：福島第１原発 廃炉プロジェクト 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZkJVa1ppbFMtUW5EOGJSeFp5M3lUVVQxdUtZUzNhdFJTNXVmcExVU2VVTkRzMi1Ia0ktQVFJS2d0RzRuNWJkbnhJUl9HSnE0WkxmbWdJUVNVbzBJTUNmSG9jVTdBU2U2cl9uTQ?oc=5": {
-      "title": "東芝と国際廃炉研究開発機構（ＩＲ…：福島第１原発 廃炉プロジェクト 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE1xNmVneVhhREtmSTlNdWtUR1dvVlJ5MVI4U1hXMEJ1d1hjeDJYamE1VUFuZFptR3ZfTTB0VXFPcGtqREJMNWF4RGtLcGJKQ3Q2NU9XVFRFYXpNM3hVVTVCbWRZNmEwQi1Iaw?oc=5": {
-      "title": "トヨタ、相談員を全国販売店に配置 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PVFAxbFJYNkJNYVJWTVhoMUlaOWhnUmFCeW9SbXl4VGlQX2stak9Na2x1dGRWbU9PNlM1UEhmZ2dMOXg5TTUwN255Wmhka2tHUzhOR1Q0LUhoekJ6MTM3RGhybzhXdExzbUtIZQ?oc=5": {
-      "title": "長野・イオンモール須坂開業1年、800万人超を集客 子育て世代も移住 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PTVRvYjlVcmtuWGUzTFhyV0Jrd0p3ZjNwcFFKM09qbW1USjVNc3N6N19UTmR6YVlWZDE3cnRuWGxJR25rUXplNmx4MWZnUGdNNEQtTDg5bG9VSENhM25HajA2Q044RGR4bnBqeQ?oc=5": {
-      "title": "商船三井、エリオットもにらむ「資産磨き」の本気度 株価一段高占う - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEgzU01KeUdOOVA2X21pTzFaUnBjRURoeU9mR2pnVUZiS1N1bEZ0UWZKNU5CcS1zX2owcGZ4cmJGZThtT3NTb3Y3dUdRa3hPb2thNFkzMlF1b2hkQkZ1dldFU1J6QW5EYW1yNVlub29iYnZ6cWZoRnoySEZKanhfMWdTLVZNVXREQl9ZR2loZXRxNWJxaG5qSw?oc=5": {
-      "title": "次世代地熱、遅れた日本 中部電力はドイツから技術輸入 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qd2wyX3dWM194QjlKTldqeDItRHZleDh4SDMta1dzOGNXUS00UUpZZ0dFc1JNSTR1VmI5WnMybmxVWWhf?oc=5": {
-      "title": "成長するASEAN富裕層を、日本の力に JCB・MUFG両トップが語る協業の狙い - ps.nikkei.com",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BQjVRNnc2X29VQnVDdjN3MnpsbEduUC0xNGhPYkJYQjVyN3Axa09aRnRBN203eTFMSXhKMmlEaXRKQ0xqX2lBY3JkRXRxc2poeVotWnpBMzAxbEFndHRnUlNlcXI2bXdjamVCZw?oc=5": {
-      "title": "三井不動産が地下データセンター トンネルや山林、低温で耐震性高く - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-06T01:38:48.429570+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YaWxLcXY0YjBxZkF5bnNvT2tacHpWTUdOUTR5TUlldUFxREc4dVV3QjYtUEp4WHVFVVI5NWlmTHZHRHpKbk1ucEdPMk1hSURrSXY3a05hbVMzY1BfTkN5dDhQWHFGMjV3cXBadw?oc=5": {
       "title": "【仙台】フィールドエンジニア/骨密度測定装置のメンテナンス/土日祝休み/伊藤忠商事100%子会社 - 日経転職版",
       "company": "伊藤忠商事",
@@ -1403,7 +1337,121 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-10-12T14:25:27.579983+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPLUJDOUpVSTlUZmJxVjM0ZkYtdFdXOW5XQ1Q0RW5ZSWV1UGFKNWt5Q29ET0lQZ2xxRWJzMXV4UlJoVnJIQ21PZk12UVc5bHVPUF9TY05tYUdOWWVPdTJkZ0dnSkNYcGROby1z?oc=5": {
+      "title": "三井物産インシュアランスとhokan、AI電話一次受付システム構築に向けた共同実証実験を開始 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBST2hmUVpwZWphUnNSbGlmam5fRHlQRy1ycEViQkdPeFBUMHYzdURfazFtZ0NKNFJ5Wk13UTU4U1Q5azBfYm9pNnB1cEF0YW93Ry1pb1ppX0psRms0TDRzZDN4RDVfTkhnbG5N?oc=5": {
+      "title": "hokanと三井物産インシュアランス、AI電話一次受付システム構築に向けた共同実証実験を開始 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QMVJMS3RudGdBRHZvQlZ0VTdaVmp1TEprNlJuUTRNY1k0X0dDQ0lCb0dld0tfYmNJSnpzV0FjS1dhVnlCMUxXdklXTkVVbUplN2luQmJ6am9EczZ6cmxiNThOWUxpRXVYWTNTaVlIa0x6MGxnU3JR?oc=5": {
+      "title": "伊藤忠、モロッコでごみ発電30年間運営 移行期の電源に - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PS3hBVUZyVmlIbnpTMlI0MGlLUHJaS2Q5eEo2NDdwX2hZQVlYWVM2Vm9WTXFDYjgxX1E1TU1hUmxuMVhuUS1LMEVjVnMzc2lhbXlWR29pQ0VHeF9uT2tLcTVSYXZIeWNKLXJTQw?oc=5": {
+      "title": "NTTがアンソロピック向けデータセンター 日本初、大阪で開設へ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzFodEZabWwxa1FLMVVvRVpfR2x6SnVVYmlEZFZSMmw1YXVQUHlCaVVJSGZjRkxqWkZxVGlCeWVnUnJnMTJHVndGdUhyY2V1SFRqM0ptYUdianZpcVNqMk5FODdSc200eXZubDJiZVVZNTRXSm9sT2ZUUVVmRHBGMVBrbTF6SWc?oc=5": {
+      "title": "編集者の視点「核融合、商用化に向けフジクラ大型契約」 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yc1Fzdkg5bVZFQWRCS2VkZGFaOUZDcG9FMXdyNVJyMmFzS09UZWJqd0lGV1k3UlhESmNydWxNVTVmeU84ak54NUhxNjdoWFF2anZCR2NlZ3NuZFZVRDY3c0JiR2hzb2tQNlhoLWZMZDhlb004cnVR?oc=5": {
+      "title": "IHI､極低温で稼働する水素ガス圧縮機 常温型より省エネ - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WME1ObjB2U04wRHRuVWVaWnRkZTJGMUFvQ3FtOFlTbHBmS3h5VU9mVlUzRkgxdzFWUE93T0Q5U3ZXbUNjTzBzdnNTTF8yalFkZVhST3VEN0NUbGlQSnNiUnpMb2RXUDFESmRsdUdiUENjNmxsSnNSLVpFbFpGSTg?oc=5": {
+      "title": "トヨタFCVで水素タクシー普及 愛知県が専用乗り場 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1MW9jOGRvaFgyZDcxZklLYUhGcl9NWjJEZFg2UTFNNWc3TDRvMUJ2cV9BY0wtUFkxUXVLS3A3QjR6MTdwSE5LNDBwX1JPcFpmLUNvcjdLR1NpZTdnLTliUy02eWRfel9SQjlYdw?oc=5": {
+      "title": "日本株ADR12日、ほぼ全面安 三井住友FGやトヨタが下落 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01SXhqbDZ3VVlZaVJ3UFB3VEwxRzlUcDUwUV9zWTFuZDVwVGdRMzNkZkdhbl8weGt2TlJoSGpmUk5QeDVLWjBwbmtBVVJIdFEweEZIVG9fY3hacm5XZkl2OXA1azQ0MjJiRVh3?oc=5": {
+      "title": "秋の夜長も、おでかけも。BELLEMONDが楽天「お買い物マラソン」開始2時間限定の全品半額セールを開催 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPaGVkNzV1QzJEQzZhWVRuQVl3cmRvLXM5WWJkTDlBaF9EekhMV1JKb2paX2UxSnVvdGFTZUkzT1ltNURmWUtYLW9BbVVWVlJWM2J1R290THRJa2F3TUtFLVRYWTREOW83SDYxeg?oc=5": {
+      "title": "イオン、「トップバリュ」カット野菜を自社製造へ 埼玉に工場新設 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjE4VGpqYU55dnJCZ3UweVZDLUZnUXFfUDllUG9CRldiMktRRGZORmlsQlp6TExnOEN1T3pwVGNiLVc0T0ZYa2k1NkRMajdVb1ZDVFIxZXhfa0lTNk1GLTgzckxjVDh2OTRpalhua0k1d0hsYXhKNno4bHBtYUdZU1UtdTY2YkQ4cUdwX2txT25kMzkxaEhCNWhPYkhuZTM3NWRUTlM4djRhcTVrVnFRa2NYdmF0MW9ubHY5OEd0bjZraWJiTjF2cFJwRlQ?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDMDEyWEZXR2dWUHlYVjctUDBIMk5hVXlPTmROX1Nja205RzRocG94bDlEdnFyWV96aXI4MGt4RWdLZVpEM2M2SkFVaVhyR3dKRTVIckF4Qlhvd1QxcHlGSU9PMkt6UU9WczBrSkY1ejhMT2VEdVZicXQ5akNjUQ?oc=5": {
+      "title": "米国個別株騰落（12日） メタ3.3%高 イーベイ2.1%高 イオンキュー9%安 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IT3ZMTE0tcUF5SkppSlA1REFTUG9UVUJxUG5OQW9VSXJnd0RDdklkTU4wTzlTeEVNbWo2cWlSLWtmQXhNMHpCOFZlU0pSNVM5TGkxcHRYbXJGTktEQkY2MXhrRGFsa1hiU3Jz?oc=5": {
+      "title": "イオンイーハート『紫あん』ジャパン・フード・セレクション グランプリ受賞の自家製つぶあん×「笠間の栗」秋限定「自家製つぶあんと笠間の栗」の大判焼登場！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE56Tktldm50TlpacFhrY1FOcThnQTdaeldmUkRKZ0s0cTVRQV9fTkFiVVRlY0R4TEpVek5WTkFnQnlxUndoU2duVnBELVAzcThkMVRSQ3RrMi0ycXJnWHJId1hUUjZZRUdybUE?oc=5": {
+      "title": "四国電力[9507]：よんでんグループ統合報告書２０２６ 2026年10月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xd2hpRjBCMHBGakk3eFlaV1dteDFITEFvNzdoZkdQOHhsNHFKNWJOY2p1RnlnbjZ1MTRhLXFtREFONzBMWE1ZSm84UUZ6bEJrc2JOVVBpTTVHMjR1WjhoQkZBZFRhcV90cVE?oc=5": {
+      "title": "四国電力[9507]：よんでんグループ環境関連データ集２０２６ 2026年10月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTU3REw5dFJMampJR3J1YzI0Ml9lZ2lDanBQakktMHdpSm54WlRjaU10czRmaDl3c1BNZjZhZHc5aDBMejlmV1hQcU1CS0FkVWVmVkVZeTJjVjRXMXhNNi1oOGl1SWhXR1N0S1RTZEtRei1QUTROSTVDTWl2dkVUWElyU2t5ZFlKVDZZMjlyd1BQcFlDZ0JabjNSNEk?oc=5": {
+      "title": "四国電力株式会社 「よんでんグループ環境関連データ集 2026」を弊社ホームページにて公表し - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGd4Y3B2QnNsNG5LMWh6UWpvc0FQUWROZ1NkN3cwdGxvZHNTTmMxTjhibjJSMHBOZ1VCUkdoemxYTGVFS2ZpN29Vc291LTUxR1NoQlgwWWhxLW1NUGtYRFVWT0VoV0xRN0NuWVVfSkNtcUMxdUIxUmpIV0UyOC1JVlFLakZCdXEzTXRoWVhhQ29STFFCWHVlNFRRWUw?oc=5": {
+      "title": "四国電力株式会社 「よんでんグループ統合報告書 2026」を弊社ホームページにて公表しました - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qb2ZHbjBmZmtXaXRXRUpyem93OFJzUllMQ09XNkRYdTB5M3ZGZnFkWG0tYWlhaGxNZ3Y2QTJISklzX1hMLWtGblJvaDVFMVBVMGhtQlBFUUVTMG01YzlXUTNJMld6ak03X19DTA?oc=5": {
+      "title": "三井住友信託銀行とレディーフォー、大学の寄付集め・運用支援で連携 - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NRHRvcGJVVzhvV2JRQkp6QjZfRjh3TUxWU1VrZmxuU1VodTYtcngyTG96VzFiNlZ5b3JBUzdtZ0RMNEJvQ180dlV3MXFCbkpZRk1veGhXUEotRjF4WDJiSERqNEJiMEJncjdF?oc=5": {
+      "title": "京都信用金庫、ヤマト運輸と企業の海外進出を支援するパートナーシップを締結 - 日本経済新聞",
+      "company": "京都信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-13T02:23:22.564523+00:00"
     }
   },
-  "last_updated": "2026-10-12T14:25:27.580388+00:00"
+  "last_updated": "2026-10-13T02:23:22.564978+00:00"
 }

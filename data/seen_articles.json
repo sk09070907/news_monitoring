@@ -1,185 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X0ZqcTRUTHZGN3NDbkc1MDIyNlR1SFZ5YnhHcU9YcWFmR1QwWmxRbHR0b3o5aHdjZXBwTS1RSHFwaUZZZjZxSkh1V2lOeTNMMGlwcGpQcmdscFB3ZkFuVVdmdlprWG5lU21rNg?oc=5": {
-      "title": "伊藤忠、国内のバイオ企業に出資 製薬会社の研究開発を支援 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TSi1iT2Nod3dzVkxhTlVVOFZrUWZhMi1iZFUwakxNRlVRNl8tR1BfcWZXeFlldDBfTHFrYXNoU3I4ZGZZcXhjYjdyU2ZyT2h0SUpGeDJINGJ1d09wOEhQd3FDZnlUeDdIb1ljWA?oc=5": {
-      "title": "住友商事系のノルウェー企業、洋上風力発電支援船を4隻追加発注 - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sWEVyZXNoUHktc0h4Z0xLdUFhUXZlRFNxOUNSUC1IQVYtLTBYVG9CWlVGT2Rla3VWeGphZWZ2cEpiRzRmMkF1NTdSd3VkOHdrbFVCaVY3c2RIRTZpTnFCMkZpMA?oc=5": {
-      "title": "【インド】住友商事、再エネ事業に参画 ヒーロー・グループと協業 - 時事ドットコム",
-      "company": "住友商事",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZURGbThzSmlDYlhGT2Q5M200WWZONmpMZGlTa0U0VVlnaEpaN0ZadWVYcjZKV1VFdEp1ODhLNnJBNW1GTFFPNzFwbXF3VjZ6anBmWHhFSFcyYVVzakotaWk3VlZySXdJSGc?oc=5": {
-      "title": "アルー[7043]：豊田通商、「学びを広げる」人財育成を推進 若手社員・管理職のラーニングアジリティ向上をアルーが支援 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0c0UVhLWDZyclJRaVVxVlRKbm5TcXl5X01nWjhHVG5aOVZYQW9oeUx4WWNUYUZvU3U4WjF2S3NhQ1NTQ1NXYTBWeHFzTkhxTlM2WkpKRmY2d1N3dWtqbWtBT184S1ZmQ0lmU2N1RXk5ZDRRc3ZCRjJ4NTFGdlhJcGtsV3lOVFZnZC10T2pTXzlYY3FYenlzOW80VzdlQUJPTlEzQjBEeEppaXl2SUVjWFRlOVU3RFRwUUZlYy1DYU5FczYwRFQ5cDFDcWs?oc=5": {
-      "title": "トビラシステムズ[4441]：宮城県警察本部、NTTタウンページ、トビラシステムズが「特殊詐欺の被害防止に関する協定」を締結 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ybnU1OUpnY0pPNjBjNk1ET3h2dnZwZEpwQUozWmF6djFCbDVqSkdxTWM0R29QR1B2ckkxaTJVWWFUbVRiVlZteEQyME03aXhxdm1obVBqUWkwN3JGUDE2VTJIMEc4MW1FQ0w4?oc=5": {
-      "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SUY0R0FyUkVJRm1iWnNFb0ozdXJkRGRtR1ZEdmMwaUQyWlVNWkxQcFVOc2tjb1FMM2NqUVpyc2R4VEcwalVMd2FrWnZsa19sOW1WbFRjcTBfUm9DZ1VkeDFpOXVkQzQ5NTdWQQ?oc=5": {
-      "title": "NTTインテグレーション、鹿児島市における行政DX推進を支援 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ284eFhKR0dsX3RUSDNkUHFWYVlKQlctX1NJZDhZeDFzTTBGY09feHo4c1RqbWtfX20zT242ZnZ4YjNWZ0gwRG5UQXRxbUJkdjRreUhOanBGZ2wyMlF5VkIzdGhOaGJwamw0bA?oc=5": {
-      "title": "NTT西日本、自治体の地方公共団体実行計画（区域施策編）の策定を支援する生成AIを活用したコンサルティング手法を確立 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SDcyOC04Ni1OeWtNVmpkblBySVFyaUcwSmFQOWtZZEFlNTZfazY0NXVpQ2pxbl9pYU9wejB5UlMyRTluUlFjc3d4N3ZXdmpmdEtlRGREVGc5VVhFdERLMDFGYWI1WVltVlNCQw?oc=5": {
-      "title": "NTTデータ経営研究所など、「外国人介護スタッフによる訪問系介護サービスに対する生活者の意識調査」の結果を発表 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lYUd2ZjdaMTdpcGJWdlg3VDE2cmVadUE0Q1k0MVdYemlrYVEzdkVsYV9EdlhtMlRhR3hlVHpjTmFlaUVJRXZyYmNGMXdQQ0VULXpwMVpSZDFZRHhWNVdwRF9ib01RV2ZENFNJ?oc=5": {
-      "title": "松たか子さんと阿部サダヲさん共演、NTTドコモビジネスの新CM第三弾「人を想うAX篇」が放送開始！ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wQ0xLNmwycnVxQkZ0X3JsRnB1STFQdVBIMXNVS0tidGFOWE9UT0xXWGkzeXVJWWN4amV4WmF5ZzVKMlBCNFp0c0g3dkFIVGFGQnAxeEdQSkk5eGZVbTNFN1pjeVNPQ09MXzk0?oc=5": {
-      "title": "宮城県警察本部、NTTタウンページ、トビラシステムズが「特殊詐欺の被害防止に関する協定」を締結 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UVmcyTUJZd19sY0h3TGp2cDlmLVloQVUzMnNDYnkwUXlZYnZYOVVhMGZOZjBkYVlRSHYtM3ZkN2M3V1AtdHJaMTNpMjBfbnVqSi1nODZTNmI5TGtRWDVLZndrUU1ueVFMWkE?oc=5": {
-      "title": "アサヒグループホールディングス[2502]：公正取引委員会による強制調査について 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BT0JaZzIwMFVoalpBTloyVWtHTTVEVUlKSFR0eHdPMmN2WWRUQnZ4UlNMN1g0dlFLeHZFRldJVUNOSlo0aWo5M0h2MkZaSl9aVmZ4N19maGN6alQ4YU5NSVI1Z3Q5dldVVkd3Q01sTTdNVG9QZHB3RUZXem1lZw?oc=5": {
-      "title": "ホンダや三井化学 4〜9月期決算控え「高進捗」に注目 ヴェリタスEYE（10月7日） - 日経ヴェリタス - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IbmlrZ2NEVGFObHlpaXg1Q1NxZUlFYlhfdUpfNk5sMUpTVFlrNDNiLV83amxuTDdPbTYzV05rZjVVRHd0MHFrSXUtcFQwVjQ4cVl0SU11MUV6U2RZdFZPaGJ4Wjg0WFdBeF96Uw?oc=5": {
-      "title": "熊本大とダイセル、ジェットインジェクション技術を用いた腫瘍内薬物送達に関する研究成果を発表 - 日本経済新聞",
-      "company": "ダイセル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56SWRTaDFUd0xrd0RSZWRFR0JDMERZMF9BMlNxajB1cmFVQlE1QzJkN3B5aFBVdGkycjYxc1RQTlFMSERqOUtnRWFITG1MV0piOXE2eA?oc=5": {
-      "title": "◎ＴＯＰＩＸコア３０にフジクラ、村田製など４銘柄採用 - 時事通信ニュース",
-      "company": "フジクラ",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHZ6Q05Fd1k4Z1NlT1dETmpuVDVTNUtGbGd6T3M0WDhtaGczM1kySUFSb2ViMElXOWJ1ZU9MM3E0OHpLY25LUkRMdEVRdnNsemVDQ3huWHVpaVB1SW5rdVc5MVd2OWRHVDd6SUVqVGZjRE8zZFRpTU12YTFxNFM2amE4NkVrSnI3anVLS2tfMEZVYWRhZ1N2UVJHQ2k?oc=5": {
-      "title": "PRESS RELEASE 東京計器グループ・Tokyo Artisan Intelligence 資本業務提携 - 日本経済新聞",
-      "company": "東京計器",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWmx3MDJBUHRicWR6cWlJSkxGZF9hX2p0Mkc3aTVzY3BlaWVBUVV2LTF5alRGZXNHLXVhUVRTOWc5SVFuN1lrUzlyelRvWGlhUXFnTG5ZT3g0NHMtNHczaGxHR2d5cjRrbVZpRg?oc=5": {
-      "title": "災害激甚化、タイ製造業の「新常態」に トヨタなど自動車生産停止 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE54ZVp2OXBkbDA4ZTJzS1RLb2Y2T1FhUW5EVy1mRVNMMk1IUUJTbF9qX2poLWVWWV9VUmF4Mk50NUVVcFRlUU1hUE5YYnQ0bl82MzQwV296OTJZMGdUOU9hdG0wb2xsMTZzSG93?oc=5": {
-      "title": "アイシン、12年ぶりにCEATECへ出展 目に見えない水分テクノロジーHydraid（ハイドレイド）の可能性を体感 発酵・食品・農業分野で進む研究・実証事例を初めて一堂に公開 - 時事ドットコム",
-      "company": "アイシン",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdnNqVDROTVVPaTZXN0FUOUkzVExlU1VOaFo1VUE4X2owNTNCc1lONENZSm93elVkLTlhbVl1dnVGOHo1VVU4d2VadHJRNFo0RTg5QkZSLWEyVTdjZEV5bGdDdHI3bzZjQ0JDcA?oc=5": {
-      "title": "アイシン[7259]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRVNlSXN5ZEtyUXJEZi0yMnY0SzYwd1dFMW9acWZoXy1qQlVSYTV0UzR4akRUbGprYWY1dXFQa21xdmZJdlhidFA0OXZidG5nVk9ubjV0eVJfQXlUb2VSd2tDYTlWdGVxOXJMcw?oc=5": {
-      "title": "楽天証券、「かぶミニ」「かぶピタッ」の取扱銘柄を大幅拡充 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKOFVuSEthbExSN0s4VW5aS3p1WENmWGJKRVhucG15d1ZQWWxUQ1FtQjFzaTFSRXVQTUhEbGNEc3BKbzQ2bG9kMFpoUXlvWUs2d2F3ZWdhTHJmem02dmdLQkVqUzVmRTVyR2pqcw?oc=5": {
-      "title": "newmo、堺市でKDDIや関電と協業促進 ロボタクシー商用化見据え - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPYUR2QWF4dHFaOHljTDZBRGhQREY0WmRuaWpoYzFkVUQ4c2V1X2ZaUlQwa01kTHl0SXhBWVFRMzlyZ2kxQWVYcDIzbGd2VE8wMEtwbG5Zb2ZxOXBFUkhuS1hYMUN4RTRhczR6aw?oc=5": {
-      "title": "東北電力ネットワーク、電線の電圧を集中制御 再エネ発電に対応 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbEN5YVhNMVZEckUxT2tPRFRjZng0SWlvU1pmcXJBTTZ6aUYtWGtITUpfcFhZY2czX2ZZY0Q2M05NNkItRnUxNnBEdjEtcjV0WnRoQkEtQUhySnZMc1N0WGxBd1RPbTg5emdZSQ?oc=5": {
-      "title": "三井住友トラスト、国内インフラ投資で新ファンド 3500億円運用 - 日本経済新聞",
-      "company": "三井住友トラストグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNjQ2U2FZOHdhYmhaX29Xc19ERTg5OGRVNHVBenBZSVB2Z0Z2dXpnWGlHbUEwdXRoRzIyV3BpUDkxdkFndTNua2RfaWk5eGZtV2JTRFBrZVpmRXFUWUw5RjFpOEN3TlhuZmdUUw?oc=5": {
-      "title": "野村 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yRVk5eGdPemRlMl9adzhQRWtaZl9QREUxUVFaQVVZQmIxQXV1dVNVd2RMeW5OZGpIRExyOXp2WGFQQ0NScE05WUhLNi1CbVktWlMtY0tGdU9NWWtrUWNWQ2RRUkoweVc0blZkSQ?oc=5": {
-      "title": "野村アセット大越新社長、運用者の評価体系刷新「10年長期で評価」 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMllkdGlGOEJ3WU9PX0Z5ekFMdzNjVTFVVmlMOE9FR3d4UWxKVl9CbE13NXJ3MTBqRzNhb3c3RU15V0FSQU9jWFZGSDNrTGVUSHdDeFRTRW5jak16OTA4Q1lRSDBrMkdtUUYybw?oc=5": {
-      "title": "日本生命、ニッセイ・キャピタルが設立したファンドを通じてグランストーリーへの出資を実施 - 日本経済新聞",
-      "company": "日本生命保険相互会社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZTZlc2VRdXJlZjV6V2tYekttdjJNZHBLUU5kaEFuUjlJdkluTDhUMF8yYXlVQWxoUzRmbVpzWHNfeXpIOUFwTzJta2ZzRmVmVS1QRWVhbFJsQ2R6T25HbU5HSllPUkQ5SlRjUHdIaFZfcURMRHJlREZYamEybG84dDluU1VHMTJPb1BROGV5aEtueTFjak5nWjFuR2xya3plTUdvc2tDUFJEcERYVnh6ckFXNDJ0cGRUV1hRLUZ5SXZsZjhvQXBINUdpbmk?oc=5": {
-      "title": "アコム[8572]：オリックス銀行株式会社との個人ローン保証業務提携開始のお知らせ 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlTTdDMHRfUk1KM2xyM3ZrSVFJRmUtMTI3clVFMEpDUzMwSExtby1IQURZMVNpSU1scU5Ob2VLaFpPSjBia00ydVNQVjJRb1RHNGhxQ3o0ODM0c3BlenhEOVJjVHBpSGtZRnc?oc=5": {
-      "title": "三井不動産商業ファンド投資法人[8964]：GRESBリアルエステイト評価結果に関するお知らせ 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE45VXZoVzJ0bUVCZGRFaE5xV2RFc3JjbENoTkN1MTJubG5YbDQtMElJdl9xMEhJeTdTaU04Szk3U1UzNUkyWkxRWlhfR0g2aW5UTWRvUVRHOWlkaHNtamhvXzNRWDU5R2NQdUE?oc=5": {
-      "title": "三井不動産ロジスティクスパーク投資法人[3471]：資金の借入れ及び返済に関するお知らせ 2026年10月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qaTkwWnhwcFhLdU10Vkxtb0dfaUpYUGlkN0FMVjMwWXBLODhpc292WU1ocUw5Y0ttbmNXYkF4aHJEd2hibEU1ZV9TV1ZVRkl4RTdFR0U4U0pudGdkZFJ4dkxKdC0wRWJDVTNv?oc=5": {
-      "title": "野村不動産・東邦ガスグループと分譲マンションで初の共同事業「プラウド名東一社ガーデン」 新発表 - 時事ドットコム",
-      "company": "野村不動産ホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-10-07T12:40:33.708790+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmX0xUbENVR0YwZ0F1WG9VeUd4Sm5jZDFYaUZmTG4tU0NZODlKM0RzS2ljem5SSmRSc3NjUEpnMXRpSXh3cXQzYm1MdUJZdzhibkNEWG1KNFAwVDZ2WE8ycEdIYW40WnoxMkk0Vg?oc=5": {
       "title": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名 - 日本経済新聞",
       "company": "三菱商事",
@@ -1751,7 +1571,25 @@
       "company": "京都中央信用金庫",
       "source": "日本経済新聞",
       "seen_at": "2026-10-14T11:12:06.828268+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55WGNnZVd2MkMyRjZEb2JhMGhBLTNTUTdBa0pwWF9FUU9LR05PWVRvM0N4eDI4N1U0dmdyVkZET2xfSFlzNGFPbENKUy1UVWVKdVdPaXY5OVhPQzlaX25TcGRB?oc=5": {
+      "title": "光電融合、製品化で後塵拝したNTT 「名を捨て実を取る」戦略転換を - 日経ビジネス電子版",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-14T16:32:03.414224+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE52T1J3aG1zaGJaWG9IUXdHMElFLVkyMHpJOE9HU0h4U3hsVHFhWVV4Wk1RQ3ZkYk56d245c0VyeEtMQ1g2bk5ETXhaMTNWOUV0a2RDVkh1amxLdFE4UW9DSlhKOGl0M2lnWUE?oc=5": {
+      "title": "日本情報クリエイト[4054]：日本情報クリエイトが提供する「電子入居申込」と株式会社NTTドコモの「ドコモのあんしん賃貸保証」との提携開始のお知らせ 2026年10月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-14T16:32:03.414224+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jSDFiVHVKMk0zWEIxdUtWNEhsMHBWbWgxOXNDT2MtenRtSkt2S3BYckxDMXRkeDdUMF90RnJzUEZLNS13a0ZHS2psSk9VVHI3TVJxRnhQeFh4WEhNaVFRaUJRYVRIRV9wOHo0Tw?oc=5": {
+      "title": "野村ホールディングス[8604]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-14T16:32:03.414224+00:00"
     }
   },
-  "last_updated": "2026-10-14T11:12:06.828639+00:00"
+  "last_updated": "2026-10-14T16:32:03.414723+00:00"
 }

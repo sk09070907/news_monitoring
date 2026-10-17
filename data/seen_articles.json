@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIV0k2c1dET0ZlSk9mcFA5alB4Y29nYlFjMWZpemhORThZM2NheGgtR2NYMGVHSGg1ODc1Nm0wNEstdFZOVzBHclNGMzBZZkRRNXFlWE9ScENjVXFDWThiQk5vUF9MbGp5TVVOZw?oc=5": {
-      "title": "大日精化工業[4116]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "大日精化工業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T11:55:11.300735+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmc4Q19tYTR0SzExbFRfcDQwNFFtQlB0TTA5V1AtLVI5Q2FWajNVSk96Q0laSERrMmlHenRLUFQ2T01zbkFOc0wwYTlTMlNNWUZDam83THp6N09wazJFLU1zemhJMzRvZC1ON05EYTNCSlAweFlqWWdOcW5IbGQ2bzNySlg?oc=5": {
-      "title": "関電、原発PPA始動 AI普及によるデータセンター急増で電源接続10年待ちも - 日経ビジネス電子版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T11:55:11.300735+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5": {
       "title": "トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1693,5 +1681,5 @@
       "seen_at": "2026-10-17T02:59:19.865873+00:00"
     }
   },
-  "last_updated": "2026-10-17T07:41:07.449509+00:00"
+  "last_updated": "2026-10-17T12:41:25.052986+00:00"
 }

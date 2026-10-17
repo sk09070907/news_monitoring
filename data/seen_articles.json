@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oY1VCUklyQXlfcmRzbUlGbFY2MnF4LVlYdWUwYWpaN1lIdlFGSzRKSnIyanQtRWI4QUdnekVoemNwSnlfZU9maHZ0ZDJFcS1GaE5fWjZRc3ltWGI2QTliS250ajhpSGZEODNzXw?oc=5": {
-      "title": "NTT株が2年半ぶり高値圏 ドコモの値上げ好感、データセンター焦点に - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbzBFU0NDaTZHNXpLVHh5MkJlYUxTSGV6WGc1WTllVElBaTZNUDdOM3BpdWpiNHdKb0UwQnVNekRRQ1hEYzZzMHRMNmJGX01UY05Od25vWDNhemsycjQxZzgxMkJnR1V6cWMybA?oc=5": {
-      "title": "NTT東日本CHROが語る働き方「仕事も私生活も両方諦めない」 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubWJCWExaUm03ZkZQTjhCWTg2X0w0Wkt2NXV0MnVnR2YycDVvYlZ2c0U0aG5uLWM3aFZYQlQ4V0gwSnB2eDNrQmFiYU9jQzlaUVhONlp1ZS1EZ2xzTlF1X1ktNnUtdXNrTklfQw?oc=5": {
-      "title": "アサヒGHD社長、カルテル疑惑も「値上げ自体は妥当」 販促継続の意向 - 日本経済新聞",
-      "company": "アサヒグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50V0pqMHNBbjJFU0ZmSDF1a1phSXA3dWd4Q2JlRWhlWGJ2V2tZSVVWRXktcjBYTFF0T093VzZzUGktdUF0NzVRM2tRMDJTaDRMeXowTzZ2LS0yOWdOb3J3MVBLdER2cFlDRnNfOQ?oc=5": {
-      "title": "米新興が「高純度鉄」生産で200億円調達 国防総省とトヨタ系出資 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vNm5MTDNUY3ZpQ3p1NDZwdW5KaGs5SmIwTTZpUVl3bVl3RXZYZGJ2YTl4OHUyT1BPWDFzTVFyQ0V5STNKZllfTHo1S2I5Zmo0aE1SMVZYeHdJbEtBVmhaNEwyaDhEMUNrcHc?oc=5": {
-      "title": "イオンモール熊本爆発事故…：日本の重大事件・事故（２０００年以降） 写真特集：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01MWJJWmtVXzNBT3o4ZUQwRWNtNmJESHYxbU9YTG11aUdJeUxCcXZncGswUzl3YjhqM1JPcGhfVFRHOXBZSXNQNVFzd0staEt1NEQ5ZFRDWkhRNFRUYWVHU3dsdUZ4dWZ6TThn?oc=5": {
-      "title": "東京センチュリー、「社内報アワード2026」において2企画がブロンズ賞を受賞 - 時事ドットコム",
-      "company": "東京センチュリー",
-      "source": "時事通信",
-      "seen_at": "2026-10-10T00:27:31.029893+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIV0k2c1dET0ZlSk9mcFA5alB4Y29nYlFjMWZpemhORThZM2NheGgtR2NYMGVHSGg1ODc1Nm0wNEstdFZOVzBHclNGMzBZZkRRNXFlWE9ScENjVXFDWThiQk5vUF9MbGp5TVVOZw?oc=5": {
       "title": "大日精化工業[4116]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "大日精化工業",
@@ -1721,7 +1685,13 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-10-16T23:12:49.301294+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMS1RajBWeEFzM0NvbzdPVk9mdUdqY2xOMUoya1daUTZkMHFsWHRhSlJEQlp4ZE1KUmNWMEg0Rm1wUTA5Y3N4WnlZcGlSN2tjRWxEQ0E4VVhhYjRYVWg3ZFhaVmtXN1BaVXF2Tw?oc=5": {
+      "title": "日本株ADR16日、買い優勢 トヨタや武田が高い - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-17T02:59:19.865873+00:00"
     }
   },
-  "last_updated": "2026-10-16T23:12:49.301463+00:00"
+  "last_updated": "2026-10-17T02:59:19.866113+00:00"
 }

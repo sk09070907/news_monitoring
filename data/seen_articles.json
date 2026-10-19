@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VV2JBbENWMnI0VnNKYWtfUURLbGRrV3VERWk4d0J3dDdiQmVIN1hzTkEzVEFPMzBQXzFhMEtNX00yUE9adkdXVThWR2VFSzdXX2ozWmlmQjFZOWxPbDJBdk1sVFExNlZmOWVLRg?oc=5": {
-      "title": "トヨタ、助手席位置に載せられる車いす開発 福祉車両ミニバンも改良 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-12T04:19:56.738386+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXI2WTdndWJYMzcwTWFCMldkc3hlMHc3ZlBxZGNSa3VWRXRqWWVNa2xSUzdRSWZaQ2V5d2M0aG1kWFVXSWNVNzhVbjVIS2RPVm1VUTZhX2ZoN1ppRmhnelFNZlNwN3hwS1NrTFJnV0dCTXV3Q09QelVXaUtfUktqOERCUWs?oc=5": {
-      "title": "関電、原発PPA始動 AI普及によるデータセンター急増で電源接続10年待ちも - 日経ビジネス電子版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-12T04:19:56.738386+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mU1JkWklmU2U0NlZvOWNabEVlVXB4WGRYMUZJUFROVlZFSVdOX2FNQ3ZVUGhFSmNmUkw4SVBJZFVpS1hCTkczd0xMRm11b1BENUsyRXJ2VDd3TjY5SndqUmZYNTM3UDlLOXJr?oc=5": {
       "title": "「楽天市場限定！最安値挑戦」Headwolf Titan1 Android16 タブレット 8.8インチ MTK8300 4GLTE simフリー 144Hz 24+256GB 47999円！ - 時事ドットコム",
       "company": "楽天",
@@ -1787,7 +1775,109 @@
       "company": "SBIホールディングス",
       "source": "時事通信",
       "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acG5QbmFDLUZFNDBrV1BYY1k4WTk4b3dGUU53ZHVCQVZTN3Q2QXA0UmdjeVZnN3psczdrQnNkVEtPRW1nOW9TOWFXeGh6MzlGWS1PdQ?oc=5": {
+      "title": "◎ＪＸ金属と三菱商事の子会社、リネットジャパンと資本業務提携 - 時事通信ニュース",
+      "company": "三菱商事",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PVEVmOEhXV1VCT3loOFFBS0Y3am1HYVpoeWZ4aEQwcFZFUWtVdDNpLU5qUF9VamdRYU4wclIza0tETlFkS0RYZEIxMnFJSzJDdlJHOXZMWGp2b2hk?oc=5": {
+      "title": "安藤ハザマとNTTなど、IOWNによるトンネル建設現場の遠隔施工管理を実証 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE15WkdtcDh1eXRNS2w2NXpXM3h6R3FqQUtmVmVydTYxT21OYmtsWm1yWXFNR1FQa0l3S0dMeFlSWS1QUUtaX0FNWE9VQW5iLWhYbm1ONXJtaGF0c3FocUhTYk9qN0RLZjB6U3dzVA?oc=5": {
+      "title": "NTT都市開発、Taseco Land社と共同でベトナム北部・ニンビン省における住宅プロジェクトを開発 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cVFGX05xUzI2dGtURXhvalA2OXZBb3lWdmxvTXhMSkx6QzF3NTNoMjlNMkhEOXRqTTVqbGhhWEticEVVdFA3MUhuLUlSdXdUVzlxMHpqNzZwc1FLTENwVlAtUVFRajBTWTlnZw?oc=5": {
+      "title": "安藤ハザマ・NTT・1Finity、IOWN技術を活用した山岳トンネルでの大容量高速データ通信の実証実験を実施 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rTnJfSzhLZW1JRnJaenowSTE4TXQ3WVNrczJTM2hPV0hpdEFmMXh5eU9HYU9NUXpUQXZUSmVhS3BYc1VtNVA3LVpDOGpIcy1RYXJfclpxQmNCaWpSQkFKdXFxYVRtQ25NZ2lNVg?oc=5": {
+      "title": "NTT東系、群馬・高崎のバイオガス施設で食品残りかすの受け入れ拡大 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uY0ZIbkRLcnVLblVweFRhbmx4VzFWUFUyUmdlRW94NXRZR2dKZnkySi1US2tIQTBxZWZTNWRXRVR3LWxVNXUxMlgwbmJyYWR5TkxyVkFHSXZfT0duUFNPRmM5bkEwSGM0cDZv?oc=5": {
+      "title": "NTTタウンページ、福岡市と特殊詐欺の被害防止に向けた連携協定を締結 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0cWNKUTc5ZFBodldlNmRVOTJfWEJhMXBVSEtxbXFJeTMtdDc4SjNZTzA5dWxhZWQ4TGphdTZ0SWxBWEtBYXczWE0tVmoxaExBV0ZtbVhXZ2x2ekhwNWpMN1FTOTdFOHJCREg2TQ?oc=5": {
+      "title": "東京ガス・出光興産・みずほ銀行、JCMクレジット創出に向けたアライアンスを形成 - 日本経済新聞",
+      "company": "東京瓦斯",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wU1VSOV9MRDJzQktITGJCVmxUREZQVDNocnpnOHhTVDFnY3A5dmhBUVVqdC01eGxmZ1pFUDJrVEJMR2F5RExvM3JoMzNsRVdGQUVkSHFnU296NGFmNE5pWmEteUZNbmRiNW5WeQ?oc=5": {
+      "title": "トヨタ株価が反落 「全50車種をSDVに」報道、投資負担を見極め - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VY2g5NE5XT0dMdnlld2t6d2xxeTg5QkxMYXJ1UTVUOWVwM2RaQjVMaDhwcHIwNzZRQ1ZyUHREclZvVlE2OUVNVjZwWWVSalJUSzE5Z29WZ0NIMmYtY1Z6SE5SQjFlQzhMSWtWOA?oc=5": {
+      "title": "タイ豪雨被害から回復、トヨタ生産再開 1週間混乱の航空は検証急ぐ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE92QjQxbWxHVjY4U25CZll1c2dLZU5vOFN2Y1pYUGx5QW5ua0VxRDlLLUdRNzlkZ0M1OXBTcHZLOW52WEhaVGpkSGxVRnZBX1VQY3QzMHcyZjBheWU4QUVDY0ZBQjJSRU9SOGFz?oc=5": {
+      "title": "生成AIが選ぶ「クレジットカード」、1位は楽天カード（言及率63.0%）【2026年9月調査】 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tNGV4bzNRcDV2MVJDWUFqNG1zYmx3ZWNreWNjWl94Q2xxa3lnOVk2LTZoeVJwWURRTjkxRmJ4OVQ3X0xZckdxMk1iRDA3YTZtenhFNVNvTUpBUmVGZnByNDVkaGtDX3dnbEZ3?oc=5": {
+      "title": "日本最適化栄養食協会がイオンモール鶴見緑地で開催されたウォーキングイベント『モールで健活！地元の元気ウォーク』～地域一番の健康拠点を目指して～に出展 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lZS03RjM5NGtyZ1J2NVpxSUJPMHpPNzliVFBaSXI5Q1N5eGtHdk03XzNfRzFnc0M2cTkxSnBmUmVHckV1RFgtQ0RIdFBIWjBUd1pRVm5fbHVVUDVkY2RLM1JEbjRLU0JtQWdJ?oc=5": {
+      "title": "JR東日本スタートアッププログラム2026春の採択企業について：時事ドットコム - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWwxTllBek43SDQyNWFSWmJQczgzMnRMTzlvMDYxTjVFWTF6VTZ5UzViRzV2OGZCdWFTNElXMGh6ZU5TelVPelc1ZDlDWmtCQktDNFQwQkIwOXAtSV9KM2RQOEFibC1XUW5ZaQ?oc=5": {
+      "title": "西武プリンス、1棟利用の新ブランド「ヴィラプリンス」 まず軽井沢に - 日本経済新聞",
+      "company": "西武ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUHd3RmlMUFVzNmVWNU11RUFwTXVuQV9CQm9QaG54Z3ZfVktpX0R2eUd5RkZKdGVzUl9rOFVPQTk1Q3dCZXlVcnl6OGJOZm9ZcDdtSVZ4MjdwcVlPc3RNeXJuRFhhaXozRkZzQg?oc=5": {
+      "title": "関西電力の姫路第一火力、28年2月に設備廃止 新型に33年度にも更新 - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tWlo1dHJfN0J3dG5YUXFJRllYdE9UZUIxX1U3TnlZZUg5WTJoYzc2MkNKTmlJb3EwZ0ZuT1BCT3dienVNWXZ6c2xNb0FVTkZzNG1aOGNzdGlKOVZjcXQxZ1Y2eU9xTDl3Q2pmSA?oc=5": {
+      "title": "あおぞら銀行、「あおぞら銀行BANK預金口座WEB開設サービス」における本人認証方法を公的個人認証サービスへ変更 - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySEdoX3h6bURKdVNES3BxUTF0ZklzNFo4TmhfRXMwN0NwbXB6V29iTFYwNlRqcEhRaHJxdzMzSFBnUktrZ0ZZTmt1cDkxbE9XejVhV3hQSGVvTFNrZjFTaVFVMGNzQmFha29r?oc=5": {
+      "title": "“想い”を未来の子どもたちへ。Learning for All と三井住友信託銀行が「遺贈寄付」の可能性を語る - 時事ドットコム",
+      "company": "三井住友信託銀行",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UjNQTUlJd0VGbkNWV3FLOGdiQk9vOEVDZWM0aHlXRnBjRkc2NUFuc1BzLXZVeDNQRnJfNFFuZmNDSzhGLVZMbUwwNE9FWnVCTXd4b3VQYjI4QUNSR01UTjNEVHpzMWhPSmc?oc=5": {
+      "title": "芙蓉総合リース[8424]：介護施設向けAI×BPaaS「みんなえがお」提供開始 －おたより作成～発送をまるごと効率化、現場負担とコストを削減－ 2026年10月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "芙蓉総合リース",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T12:08:30.203364+00:00"
     }
   },
-  "last_updated": "2026-10-19T03:15:34.590181+00:00"
+  "last_updated": "2026-10-19T12:08:30.203737+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sTGVQUUpHRldEUTgxYXk2V3hsbElTbmNiYkpVbks5N3VvRDFYMGs1eU9IREI2WlNwcXFiUnZOUEJUTEd4QmZQeDVqaUVWVlpDRF8zd09WTmV1Ukt3d19oTGMtbE1oYXZQVHU3bQ?oc=5": {
-      "title": "みずほ楽天カードが還元拡充 「ダブルポイント」で常時最大2%還元 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-12T00:09:08.796792+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VV2JBbENWMnI0VnNKYWtfUURLbGRrV3VERWk4d0J3dDdiQmVIN1hzTkEzVEFPMzBQXzFhMEtNX00yUE9adkdXVThWR2VFSzdXX2ozWmlmQjFZOWxPbDJBdk1sVFExNlZmOWVLRg?oc=5": {
       "title": "トヨタ、助手席位置に載せられる車いす開発 福祉車両ミニバンも改良 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1727,7 +1721,73 @@
       "company": "東京電力ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-10-18T22:43:19.034162+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdHhtR2lTZzlTUTVHQ0pWOTUtWHdjeUZvVnlHc1Q4RUpZTFpRc2tRY2o4ZGdTQVQxbjVhVkRFcldpTUZMRmRpUWtHVVRXUVNVZjhMcGZRNTEwY2ZTRE5HZVJ1SkVCOTVzRGdR?oc=5": {
+      "title": "QunaSysメンバー参画のチームKvN、NEDO量子懸賞金事業で「三井物産株式会社スポンサー賞」を受賞 - 時事ドットコム",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ab2s0SzVOUlhPdDRqck9tdDJBOXVHdm0yaGJrbW9Qc0I3eGpkYWc2QWk4bFBIcGVsVzZWV1JaTThTYldMVVlMejhscDZWWmdBSTQ1MUhzSHV3ejFQS2thTzk1WHVjYzFxWUlv?oc=5": {
+      "title": "ソコテック、NTTデータのGHG排出量可視化プラットフォーム妥当性確認を実施～Scope3カテゴリ15の金融排出量にも対応～ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwS21OTk1RNWd0dVgtUXhvX1ByY0xZeC1FcFVibWdGNHdWZXlsYlE1cFR2cDY2ZG5HdG5CZXdISVpKcV9Qb1lQbTNXdDJWRG9YdTVHSERRNFhxNnJ5cHRvMGFQZ2hzeE8xZEZn?oc=5": {
+      "title": "ミツウロコ北海道北広島第一・第二蓄電所、需給調整市場「一次調整力（オフライン枠）」へ新規参入。さらなる市場領域の拡大を推進 - 時事ドットコム",
+      "company": "ミツウロコグループホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qWEJnSjd6TW9RWVYya0wyR2g3N3BwRVBycnFyTVltRjg2emI1V2YySmo5QUVTYTRsYVNTZzVjdzYtR3FLNXo2YzhfVjJMZVNBSzFHbFBKTnJkcnFfT1Z0dFFUTFMxSWpUNGRtYQ?oc=5": {
+      "title": "日立・東京ガスなど4社、AI需要を支える電源併設型グリーンデータセンター実現に向けた協業を開始 - 日本経済新聞",
+      "company": "東京瓦斯",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MUUhlV3Z0dDU0a0d2cnFaaHFhaWJGYk4tRlIwU1lkWFZoa1ppb2hIZGlOd2sxbGZYTGU1ZkNKSFM3S2g2ZS1hSEphZjJ6ZW1SbUlfSHhhaGtOckdMcHBvaUpMYmF5Z1dRY3Bj?oc=5": {
+      "title": "『本気で稼ぎたい出店者のためのYahoo!ショッピング販売攻略法』を10月26日に発売！元楽天ECC・元LINEヤフーの著者が、売上を動かす施策を体系化 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUHFobmVtR1BPUnZ6TnR5MHFyX1hhTGV4S3hWekYwNUhJQXBETVVuSlozSUVLcUpnVWtJUEhSbi0zaGU1S2ljS3BPUkN1MXk5V3BlcDJNcjhhTW5ENU9IZGZwOTVHQ2pkaWc?oc=5": {
+      "title": "イオンファンタジー[4343]：『たまごっち』から「たまファーム収穫祭」デザインのプライズが登場！ 10月 23 日（金）よりモーリーファンタジー・PALO にて展開開始 2026年10月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DQWNXelZUSHRZUmZObl9jaUQtWnZ3UWJSblE4dTRQYVVtOFRhMTBJR19qWG9HMnYwdjNCNmVmZTVJTXpMVTZibXlubzZiNzRpWEJOaUNtN1I4V0p3cXhmWE5NTmtaLTBwQ0E?oc=5": {
+      "title": "イオンファンタジー[4343]：小銭ポケット＆チェーン付き「サンリオキャラクターズレトロかわいい！フォトケース」を10月21日（水）より「かぷえぼ」にて展開開始 2026年10月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE92VmpMbFluMHJEcHVqQldUT2x5M0FKbFY2V1Q2SE1oT2lKMV9LRjlZcUV6MWZWMFZsR1dpVVN0RXk3VEhZS0YxVDRHV3RtbG5PN1FwR0VYRTh3Nk0yZjQ5NzZkR0ZaaXgxTnZn?oc=5": {
+      "title": "【仙台初出店】昭和25年創業・老舗の極上餡で作り1日3,000個売れる浅草今川焼き「月のうさぎ」がイオンモール名取に2026年10月30日（金）グランドオープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3X0NHYTI1OGZzOXFLaml2LW04WEoxMVczdjBzVkZWSlhxb0hoQUJ6ekhReHBlMkJ6NmU4T3I3cHh4Tm84SFU1MGl0NUxnd2lvaW9UVmdRSmZZNU9IWHJ0cFktVUhMQ0Z2WTNycA?oc=5": {
+      "title": "商船三井やJALが「空飛ぶ船」商用化へ、海面すれすれを時速300キロで飛行（3ページ目） - 日経クロステック",
+      "company": "商船三井",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WEc1czFCc3dMSEVQZ19MbjlUbnMzYnpqT0hSQWU2WjQyQXRTMlprOGEzWWRfV01kTWs3dzFPVFBzVWZ0dEFOcGkxYzRYbHVKR0U0T0pYNHFKS3dESVNKbUFCclFOdVhEUUdz?oc=5": {
+      "title": "東京ガス、出光興産、みずほ銀行JCMクレジット創出に向けたアライアンスを形成 - 時事ドットコム",
+      "company": "みずほ銀行",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SS2dKaG10X2dLNjhJemRQeG5UYUIwTHQwYVVBcjlsSnB6MmszRWNiYnBYX2V1d0luSTRQM1RRYVRpMzdBdHIyeDhGVnpYNGhCLUQwSE95U1c3SVhhck12eEIzMzAyY0h1WS1J?oc=5": {
+      "title": "【大阪の夜にゾンビ襲来！】カンテレXR×日本XRセンター、SBI主催「EXPO NIGHT PARK 2026」で没入型VR「ゾンビストーム」を提供！ - 時事ドットコム",
+      "company": "SBIホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-10-19T03:15:34.589741+00:00"
     }
   },
-  "last_updated": "2026-10-18T22:43:19.034330+00:00"
+  "last_updated": "2026-10-19T03:15:34.590181+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mU1JkWklmU2U0NlZvOWNabEVlVXB4WGRYMUZJUFROVlZFSVdOX2FNQ3ZVUGhFSmNmUkw4SVBJZFVpS1hCTkczd0xMRm11b1BENUsyRXJ2VDd3TjY5SndqUmZYNTM3UDlLOXJr?oc=5": {
-      "title": "「楽天市場限定！最安値挑戦」Headwolf Titan1 Android16 タブレット 8.8インチ MTK8300 4GLTE simフリー 144Hz 24+256GB 47999円！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-12T14:25:27.579983+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPLUJDOUpVSTlUZmJxVjM0ZkYtdFdXOW5XQ1Q0RW5ZSWV1UGFKNWt5Q29ET0lQZ2xxRWJzMXV4UlJoVnJIQ21PZk12UVc5bHVPUF9TY05tYUdOWWVPdTJkZ0dnSkNYcGROby1z?oc=5": {
       "title": "三井物産インシュアランスとhokan、AI電話一次受付システム構築に向けた共同実証実験を開始 - 時事ドットコム",
       "company": "三井物産",
@@ -1877,7 +1871,25 @@
       "company": "芙蓉総合リース",
       "source": "日本経済新聞",
       "seen_at": "2026-10-19T12:08:30.203364+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDeTRmQmhPWE15WGkxRkpaZnJ2dlRNZzJqVnJneEFHSVNJZ19JMFFsR0d6ZFlmTjBadEh6LThReEpxSTRiaDJaQWxPSGxQX1NHcDBJYTlYVm0yYl9PdVEtV242VU9YMGZYVWt0Wg?oc=5": {
+      "title": "名古屋銀行がNTTデータと情報流出対策でタッグ 27年度本格始動へ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-20T00:04:38.359909+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54c3lmYTYzcE10Tk1mRXlLbUdiV1o1bGtvU2N5S2ZEbXNLbnRLbVU4RV9VTzI4ME8yRWJ0QU1hQW5lSWo4bzZlNDh4clF2dTRBdUZUUmxQMk1kUWdPSkNkS2ZFeGdxV1hBTngxQw?oc=5": {
+      "title": "東京応化工業、半導体擦り合わせで参入障壁 時価総額は三井化学超え - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-20T00:04:38.359909+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnNmEyWHdQdnpRclRJdkpPT1Z1MTFIeW5MMnFtVFVTLVM4c1pZSFVaaTNBb1BiM2MwX1hybXRRYU5pUUVnd0NIdjBUQlNQQVlud19ETVAwUDdZMVcxT2NMaURUcG5pME5FRV9kQw?oc=5": {
+      "title": "AI自動運転レースに650人参戦 トヨタやホンダ、敏腕技術者に熱視線 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-20T00:04:38.359909+00:00"
     }
   },
-  "last_updated": "2026-10-19T12:08:30.203737+00:00"
+  "last_updated": "2026-10-20T00:04:38.360342+00:00"
 }

@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03RFR2UEt4UGt5LVZrVW5zMHN3SksxMmQxaHJRaDdjZUQ2b3pLVF9DUVo0V1ZWUnhqNmNQSXBvcmtjT3FrS0lDV1A2MWxBU1VhMEZWUmF5VHpvZUN4T3AxT1V1eXp5TjFXZEZrNQ?oc=5": {
-      "title": "伊藤忠がITコンサル3強に迫る 新興ソラミチ出資、AI勃興が再編の目 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE82R2RRdDEtZ2FlQ2Z2d21PZEowU1pCckp2MzFqN2pXZks5RmN4NFBpeld3ekl5WnFONU85dEk1NHpPQjJWYmh1YVNDRHJFd0dZd2dpYWp4ZXh5UERoZUdaZ1RzTndRNFRhZERROFVhMGMwTTV0THJqRkFEaEM3dw?oc=5": {
-      "title": "日本での先端AI開発に弾み?「NTTがアンソロピック向け拠点新設へ」など3本をお届けします - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTnVwbGpzSGF2ZDlZVjg1b1NOa0Z5Y3dlNWMyTVlfTFJwWERlNzVjRzBpbUdDSTZoSDd4RU5Zblo2RTBjMmtfNWxXREpjYTh1eEpMY1puUHlmQzR6NFFrOTFoVnVPd1NPWHpLRQ?oc=5": {
-      "title": "アグリゲーター老舗・東芝に聞く、系統用蓄電池の将来 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFByNDliVEJVNHBzdmFvTFV4YjVNdk1PWDBaQkNQSlE0WWppdlA3RlU1WGQ3eGZvSFU4NUxLZ09LZmFsdW50ekZTbG84bG1kTmI1VHpYOGVmU3F6Ym1IdzhSSHM5eWYtZFZRNFB3Rw?oc=5": {
-      "title": "「金型無償保管」問題に現実解 トヨタと連携、イノアック2万個削減 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYlNCSVNYTDlqcElnLWk2WWJxbmVsSjJJMjhMRUZaOWlFbjBSU2lTR0RVbzRWVlF0NDZYeGpNWGZxTi1Lc19IWU1BWTN3MXlTMkhMUm0yd2VNWVNyTFZOdFpjWjctV1lTQ2gtMw?oc=5": {
-      "title": "突進のエゾシカ避けるレンタカー、トヨタが開発 北海道で事故防ぐ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wX2k0aEtlNE1ieEVQS052bzNqZjVfY0otMzJXcG1PMkktMmJJTjBldGJTQ2haM0lsOW1yS0dIb1JnZU9IZDVlOGJ6RWZKNm1yXzJFN1lBS3JtUVV6WXV2eTFJUUpVeHBEZERabWltVkowQ2I0TXFwMUh0RGxVZw?oc=5": {
-      "title": "中部電力に「会社秘書役」を 自浄作用に限界 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvcjhWSVk5Wk0yVFpfNko0dnlLbFYwcGlyWjk5SUV4OVNwMDRNMUxCOFppRWhKWDM4a3RxWmJrbXdSWHBCZ3JwcjF5RVhackFLakxGREpRbU81emFnTEFXSjdOUmp2M05RRHN1WQ?oc=5": {
-      "title": "「パレスホテル箱根」29年秋開業 九州電力やクラフティアと新会社 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VNHdEQ3FiVmd6Z2J0QjVySTZVZUg1YTN6R1pMckRSVDhxTDZ4T0lVdGRRc1ZDeWhTVVdCU0ptLWU1andYN1RrM3VxT2x6QXFRTjM1NjN2NlZnNElQeHdaQ2x5ajlLMU0?oc=5": {
-      "title": "「東京ミッドタウン日本橋」竣工、284mタワーに野村HD本社など入居 - 日経クロステック",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-14T00:04:54.373308+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVmFjVDl1ejRKVmdOZ0VWeG0xRF9MVmt2V1RqbUY1OUFmeGJ4QkZsT24yWVJ6WWhMSmlzbS1pN0lIZmU2bUJIQ3dHWnZzT0RiSWk3cW5jM2EtRUdnSUJ0OWZfM3VySGZpeTRtMA?oc=5": {
       "title": "豊田通商[8015]：臨時報告書 臨時報告書の訂正および発行条件の決定など (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "豊田通商",
@@ -1769,7 +1721,67 @@
       "company": "ジェーシービー",
       "source": "日本経済新聞",
       "seen_at": "2026-10-20T23:36:07.731422+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hbHlWVXFVUjd5LTZkZTFscUhvX3REcUFaYWVLcGZRTDlDOUROSW1La1RUQlotWVhDODhVMzg5bUQ0Q1FkXzJuV1U5Q0J2ZVFqRTFIalVoY3VZVHpURXhRdmpYalA0cjVCOEhhdw?oc=5": {
+      "title": "NTT、福岡市管工事協同組合と共同で光ファイバセンシング技術を活用した給水管漏水位置特定の実証に成功 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzQ01EaTQ0OHkwNlAwZ0J6UDVFdjBvYXZGZ3VlRkY4WHd1aExJMlF6OEZWNkM2eE1ZOXctNERZX2NNeWQ2c0VENmFHSG1BLXhjOUswak5nNEZPTXhTLWdZb3RsS0RmS0QzcWxnWg?oc=5": {
+      "title": "東芝子会社元社員ら再逮捕、架空発注で4600万円詐取疑い - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZDNkUU5lVjRLbk9CYXh6TmRweUJCMENOQlBwWGFZclE5VmVVZXdWaW1mSXhHaS1TUDRzbnBQb3lqQkRFdHhOOUJUcjdqWVVDelRreHQ4aUduLXRIaVJtMFRHbWtXdnZ4Unlj?oc=5": {
+      "title": "眠っている時間を“美しさを育てる時間”へ。サロンクオリティの美容ナイトケアソックス「CHERA by peu a beaute」、10月21日より楽天市場に出店 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13YVBHdzYzbjltV3JSY0tFS2JqSHo3QXhHaWYtUkowNktaQmlKV2xCTzBkcHY1aWdrczRROXpyeEZ0eXdyVURSS1RLbmNEZy1DRXRlS05TWkxydGVsbVlQWUZKOEF5ZG1WbTZr?oc=5": {
+      "title": "【SwitchBot】最大58％OFF！公式サイト・楽天市場で秋の大感謝祭セール開催中。スマートロック・ロボット掃除機・季節家電など最大70,020円OFF - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XekxjMVByVzMzTTM4Nk1DS2luNWhCcGZJRExVSFhaenE0ZFZfYXhmNExPSDlSa1hTRDlqMVZDUjAxd0xFNERLMTRXU0owcTR6LWRjYWU2c2tjVnFmdlRKZzVrMHY0NTBEN2o2Uw?oc=5": {
+      "title": "イオン、増収増益 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TTzlhaVR3QW81YWVMQm8xU3U5dXYyS1ZoYkVxaC1ZQklTT0MtSnpKUnVsb3NzMGNuZGNWNmd3RE1MXzJjczNFYXVqWGNSY3doeVJVQWhSNjJlYXFfVV9Ycy01eTA3UzNLU0JB?oc=5": {
+      "title": "「バスタオル卒業宣言」イオン九州で全27色展開が好調。 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ta2hiS1pYaGNiOXNlbXZlcW1YVVdoYVl5azB1cTV0V1BBdURlWFRmZUlIcER1enpRV1ZWdWNybFdoYlNPVjlKODRET0M3ajlsQlpEVlk5RVZzUGlIQWRkS2ptMUdaa3dpaHZR?oc=5": {
+      "title": "JR東日本が展開する複合アウトドア施設「リトデポ」とONE BREATH（ワンブレス）が初コラボ - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TRkxIakcta3dBbEFKQURiOXhtVWM4dTJ3R2xYd1g2UlNsZ0xiM2MxT0lpdmg0bnEtb1pPZHNneDMzSEZFcnRlVHk1RTB6V1BhNjM5RkZqYTNMM0liYVMxYUM3d1FmQlVOWWxn?oc=5": {
+      "title": "キャリア教育支援のエンカレッジ、28卒向け大型オンラインイベント「CAREER THEATER」を11月21日に開催 JR西日本、森ビル、バンダイなどが登壇 - 時事ドットコム",
+      "company": "西日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSDhUSlFROHFrVFhlUFZPaE1pbUVFdjFQM0Z4T1I4cUFOYmIwTnFkU3BGWm9obWFkdEdsZzBaVmJqQVBVUmJ6LWdxTzM4eUp2T1FFWE95MC1vNXlnUXN3bGNrMFBwb3gwUWtjSnFvZU40TzR4LUx3?oc=5": {
+      "title": "関西電力の原発PPA、10月中に受付開始 外資ITが関心 - 日経GX - 日本経済新聞",
+      "company": "関西電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1hWQk9LUktDMTU1WDQwbC1IZkQ5S25tMXJRNXg0ZExoNWFGMWlCVWNER3hqWkJmS09UM0ZLRkJ4V2xSUnFVdGlaTVh5a0J1eFNCS0RCLVVtbWxiRGQ3c2ZmVTduZHRxVWJB?oc=5": {
+      "title": "ｕｇｏ、みずほ銀行・横浜銀行・日本政策金融公庫から総額10億円のデットファイナンスを実施 - 時事ドットコム",
+      "company": "みずほ銀行",
+      "source": "時事通信",
+      "seen_at": "2026-10-21T03:19:08.494406+00:00"
     }
   },
-  "last_updated": "2026-10-20T23:36:07.731604+00:00"
+  "last_updated": "2026-10-21T03:19:08.494836+00:00"
 }

@@ -1,65 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IUDcxYmRkMnpCNmNLZEJ0WU91clJnMWVOWnBxODFiMHVzanhlUDhRblJvTl9aaU4zNlM0TzlmbUlaYjczUmozUE5OM3JzaXB0TWVWVm9PcjA1dVB2eDRKb2RNWlNxUTJHdEpJ?oc=5": {
-      "title": "三井物産セキュアディレクション、セキュリティ監視運用（SOC運用）を高度化する脅威ハンティングサービス「MBSD-SOC Proactive Hunt」を提供開始 - 時事ドットコム",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NVGNBWHdpdVRSM3I1QXF4aUZiRHNPOXVSclZ3TWs3SVRlUEV4Qko5UngwaGJsdzF3V3lwN05lOWp1dGl2OGwzZk1iTzV3ZW5TdjU3Z21PSTRnOTVYRXBXM2lwbXpFUnJFMlZB?oc=5": {
-      "title": "豊田通商 金属資源部、Notion CRM Agent Systemを先行導入 - 時事ドットコム",
-      "company": "豊田通商",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRnBtOWt1Y3JWa0Z1U0xpaUgyWVpVbjhTV0Z0cHdCdElIeW1RMjhlakRrT0wtS29BdVNrVW9NS2I0aXc5SERQS3JSVGM0eXI3NDhRTERkMFRXazdxQ1R1Q3BxVlJwb2ZDYmFz?oc=5": {
-      "title": "製造現場の「疲労」と「睡眠」に水素風呂は貢献できるか──SUISO JAPAN、トヨタ自動車本社工場・下山工場で実証研究を11月10日より実施 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0T2VEYVk2NWw3UkZzQWhCWVAtWm81cHhfLVIxQVMtUGZzU1czY2ZuazRmQXF1blV0RlpPRkdrVVN3emFxU19xNm5ZVmI4TnJBYW9hcEtkcEdKU3U1RE1BNmlaQk5QZFp1a0E?oc=5": {
-      "title": "ＭＵＳＣＡＴ ＧＲＯＵＰ[195A]：フォロワーの声から生まれたROCO NAILS 星柄の2WAYリュックが楽天市場デイリーランキング「男女兼用バッグ」ジャンルで1位※を獲得 2026年10月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE85MDl6UXBLTGVGZWNfYUNES3pHdDJXeFNpMEEtZ3pWMlVQX2sxSGpFMEExYy01S2FfYWpMN3Y4aV9pTFhtc0pGcDQ4Rms4U0E3Wm94UDZMX3pXNERVUGhFcGlpbFdDRlZmYjFZ?oc=5": {
-      "title": "「北のフルーツ王国」青森県南部町で育った「冷凍ブルーベリー」を楽天市場T-BOXで発売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RQ0J2WDA2Q1puc3dHRXR3aVpDYXdJNnBxUUtFMFhuYjRfc3JMQWdKdzFlSWhqRnE3ODhlMVVNdzJKdk8xc2NFMGdqOUp0R1V1bHkwaU42RmM5VEFZcTlLSFBtbXRBaUFMRXo0?oc=5": {
-      "title": "荒らされる心配より、庭を楽しむ毎日へ。超音波と光の猫よけ「ALTENA アニマルバスターズ アシュラ2(AMB-06)」がALTENAとして生まれ変わり。楽天お買い物マラソンはポイントアップ対象！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWFBtRnkwN2t1T21TZ2V1cm00UzZHempONmt6T1Y2c2QwaEZVWi14R0hpS3lrYmZqTVF2UlZ1bTBNNWdUdWRid1ltekU1bEZDUmRoejh6bVExNk8tS1cxN1Z4N3JIOWRxZ3c?oc=5": {
-      "title": "イオンファン - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqbjQzTkhYU2dsZkpOVnJHME1LOVpUbUtKcXRwWGl1Q1BoMEFucFFYaEwtTElaWFdYdkl4aUxYTjNVckx6eWt4NTJkcllSUUpJQ0VybDFKbVp4WXZCS3lUMFZKRFA0VnJVNko4?oc=5": {
-      "title": "Ms.Engineerと関西電力、女性のAI・IT分野へのキャリアチェンジを後押し - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GTEdvQ2VEX3BVdHczU1JaRm1sSGJ0c29CZElhSmJLYTFySnpGZF9IbGpNUUZZbzBZdzVwR0NhaVg0T2xrYU8tOThFa3ZqVkRmXzVqalVwSVhyZ3hlVUotTDAwdWJ4LTN0V0Mw?oc=5": {
-      "title": "ダイコク電機、三井住友銀行「ソーシャル円定期預金」への預け入れを実施 - 時事ドットコム",
-      "company": "三井住友銀行",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5azhjOTBBaVZkX1poa2xJaHVzN0hMNEY2WGpqcGRwM3ROUE5CbUNETWNpbS1oY2hVVlNhbk5fdE82RkRVQ204aVVjOFJZdFloRGhxWER0dWN6R2ZWXzNURERYNXA4RWQ1TmNr?oc=5": {
-      "title": "みずほFG、リスキリングプログラム「みずほAI Bootcamp」の本格運用を開始 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T03:12:18.618344+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DckpFYzM5REItTGUyOG1FMi1HM28wVkJoSFZZUFAtVkx0Ulg1S1BmYXhKcTRmbjRTdllrWk50ald2eE9sWXNOM1JjWXNhN1VuQnFMM1dOS2JqWDg1eEdKYzQ5eUFka25CV3dz?oc=5": {
       "title": "伊藤忠商事株式会社と資本業務提携契約を締結 - 時事ドットコム",
       "company": "伊藤忠商事",
@@ -1685,7 +1625,79 @@
       "company": "関西電力",
       "source": "日本経済新聞",
       "seen_at": "2026-10-21T23:52:48.227942+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ME1RdzlQV2pkd0FNTkNySGt1SXFnMkkzYzRWb3RFcDJCQmNxbU9DcXpwU1o0T1NwZ2dpdXo4UXFfZWpNdHV3SE12bFpRWVdEdDR1blV1OGlGREx1QUJfT0pidDVfQ0tLRU5QSA?oc=5": {
+      "title": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WWWtKWW4ydnJsUDV2eGZwOG5vNmtNWVplRmdUbEZmZHNIbFFoZUp6ZmJRcE1WS2RXMThKWjgtTXlaZFQ4azdpdF9xa19tMmg4UFF2WGtRTFBoTUYtZzNxMkNoU1pFOGkteDU0?oc=5": {
+      "title": "NTTドコモ、大規模フロントエンド基盤「LAMP」にKongを採用 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpb1VsUDRrWGRZbWh6dFM5RHY0RzdVRUI3S0NXWDdEcFVlRVZuMF9GOWI4a0lONHBvaTBPQUpOUmoya2FMTExOUy1kU3hiMTBsLVEtVGNMQkpzQlhkNEtxNUYyQ0YwVUVEVEZF?oc=5": {
+      "title": "楽天ROOMで3年連続受賞のインフルエンサーsonocaさんとコラボ！「まるで“履くおふとん”」親子で履ける機能性ソックスを10月24日発売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKSzZHT1dra2dLNDlWTHlfWnJZaXpuRXpBME1FaUo0Y0dVdUJQNkVobGNkWk5HODFZVzNrbXV5SzJzMG8tVU1lS0thT18wRDFXRXpyaWhlbE9KbzcySEFXWlJDN1NxMXp6XzhN?oc=5": {
+      "title": "ホテル代の支払いに使うクレジットカードは「楽天カード」が54%で最多。メリットは「ポイントが貯まる」が約8割【200人実態調査】 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SdVJ2OVZfd0prSU9VWFFxRVdvSlNOS3VpbDRWOVAxbEZUSV9zQ3lqUW5heWU4amMtYmwyVUtDQm9aYmlpWEQyTm1kY2Y3VTkyLTBycHRnRHM2MEJLZ0U4YUJoS1RyMmplZTNj?oc=5": {
+      "title": "イオンモールかほく パブリックビューイング開催記念 スペシャル企画実施 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Q0JkZllMX0Y2LUdHSjN5OGpBR2tIWUFIaHIyRlFxa0E3M2VjVEt0MDlDNmxWYTQyRXlySkVwdzJBMy1rUWx0WWJYVmN4Z19UQWp1TTZ1cXluSUhwdUx1WTVuUkllcHJHS044?oc=5": {
+      "title": "【インフルエンザ・新型コロナ・ノロ・O-157】4種のウイルス・細菌で効果を確認した銀イオン水「CERAS」、冬の衛生管理に飲食・介護施設向け提案を開始 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSlJhMWxVWUtSUldhQlU3d0FqQjFnTWwwWWJkbjNNekR1U0Y0RndwZmtoanZPRk9xaFVqM1JTZWczeENVQzFidUpvSVplTmZpdUNlb0U1SXVJTXg2SExRUllVZkw0STdIbWlv?oc=5": {
+      "title": "NECのJR東日本向け顔認証改札機が、2026年度「グッドデザイン金賞 経済産業大臣賞」を受賞 - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSjN1X0NUR05jSW11cktWSXFBcERBZmxKRWF0QU5henM2clRtbmlqcWhkejZxbU9nVzJfcnJ2OU14cW5TZzhTQXMwU1ZCdlQzdU9xWHhZYVpBYkZDbVZQN1Z2RnFQN1lOT3c?oc=5": {
+      "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年10月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RVFdvdkZFelhkTWRnaUJVXzRXcnRjRnlXNTllbEFqcTBDUzY4MEZrV0UyRngwdWhibXdfYXZaT1ozMEkwTTZVNmZ5N2lNdlhVdEtpeUVnWkI3aW9qenNpanZVOE1venVfbXFr?oc=5": {
+      "title": "【続報】「Conference X 2026」みずほフィナンシャルグループをはじめ、登壇者が続々決定！ TECH PLAYのメディアスポンサー、ZEALSのスポンサーも決定 - 時事ドットコム",
+      "company": "みずほフィナンシャルグループ",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lM0NSckN2OWhOWTR2OHJMUEpPZFV0cE1HcmxRRHVMUzUwUzZtVlpjZGNLRndTOWxodW9PTjQ0dllKVXlobmlycWU1dC1yWlltTGF0UHVlXzJyTS1mTVREdnR1ZktoYzhVY0E?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：BASE 株式会社株式（証券コード：4477）に対する公開買付けの結果に関するお知らせ 2026年10月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFd3F2dmtWVlNib1pwRTJGVm1NcGtQZ05yWllfN2ZDUGtHQi1CZTJrd01lMGZiQlFmNk5Ibm9CZkhOaS1hNjZaSzFVaFRrRUNoYWoyV3JaaUtDbFRuR2NOQmRtblM3QWxiRjBTNg?oc=5": {
+      "title": "江戸英雄（三井不動産会長）私の履歴書（1）土いじり - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jT2xLVmNRWGt0MXFHd1dITlZXZm1EaW5WLTc4bTB2bzNnMUF4aDZzOWMwQXVzX29xandSamgxVEUtbGI5UTFlalAzVWpIUWV0ZW9NMWo2NDRvbzBiMl9jdg?oc=5": {
+      "title": "江戸英雄さん（三井不動産会長）が綴る半生 私の履歴書 1980年5月3日～6月2日掲載 - 日本経済新聞",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T03:18:06.739308+00:00"
     }
   },
-  "last_updated": "2026-10-21T23:52:48.228389+00:00"
+  "last_updated": "2026-10-22T03:18:06.739732+00:00"
 }

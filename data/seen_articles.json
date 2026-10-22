@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYXNELV9NZzNZbV9kLXVDQU9qemIwM1p5dElzSmpnTHRPYUtfLWJOZVg1WUZMY1kwaTdqTnJLdWNjMS1YbTZMV0Z2c2N1VlNlc0VQcHpQSkZLaUJWMjJ6RklleEhUQkszcW55WQ?oc=5": {
-      "title": "三井物産、米車販売大手に追加出資2400億円 親会社と株式を非公開化 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOEdqVW5sUkhNZ1pZemFLb3FKa0xETDN6SVFjcjFSbFc0YkE1ejRjdkxUcG1kRlBMYWwzSHBYcEFrYzVvM0F1NjlLbUIzWER0eDE4Yy13S1dRVVZObGc0RXhwM2ZIclBBR2VzTg?oc=5": {
-      "title": "NTTソルマーレの「コミックシーモア」閲覧停止に 不正アクセスか - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMVWxDYUVvVnp6NVRrWnlBSHBwSzQtSjR6NjBWekZhNUFYTmFtQjZEWkxvbW9WNkJOQTNXZFFha21iWFZGV0hXemEtenRNeU5NNUJaZkRMazhUVDdSaV9UcnZ0Zw?oc=5": {
-      "title": "東芝側の逆転敗訴が確定 不正会計、旧経営陣の責任認めず―最高裁 - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWd6U1Nnc0dqU0tWeXlVckJFOE5tVG96WVNMOWZTMG8yVER2a0hvM0RiaWJmYkNERnFTbEVjS3FQdDZZeDJPMHJidEpYRjRnMHlKUzFSSDBXWmVab2k1WXRUWFM5T2U5VXNSRzgzdFpLS1NQRGZTUDJMTmNweHN2Nw?oc=5": {
-      "title": "東芝側の逆転敗訴が確定 不正会計、旧経営陣の責任認めず―最高裁 - 時事ドットコム",
-      "company": "東芝",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XNkU4TlhWQ3VNVXFFU1pjYUVSYldWcUYxYXcxaVZqZEZYODBMcE80VnNoVnV3Xzg4YnhjM2RFbkgyYi1JV3prYXlZaHUtdjl30gFWQVVfeXFMTW5kWWhCUFBMSGZpUmI1blExM0dKZWR1WnhhWGo5NVF2N1AyeFRlRll0WUo4YkxSdHZ1LUxLQUdvNmhGMnJyQmVheGtSenREQ3hlZTBaWnc?oc=5": {
-      "title": "植物の力を、もっと身近に。アビオス「ベジパワープラス」サンプリングを10月16日イオンボディ イオンレイクタウンにて実施 - 時事メディカル",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83MmVWdE9aYktNbG1LeUcyVFBka1BoVUE1R3o5LWYtVURaRG9zME85cjluZ3NTR2ZpYkt0LVB3eHU4MldHUjBYNEN0dzhKRzgyUU1UNENaQzZXQ3I1Mm1zaHFUYWVJQnFwYkRTVw?oc=5": {
-      "title": "りんくうタウンで「夜の消費」創出 16〜31日、SBIが実証実験 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T16:18:47.304091+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMGdHVHlJZnFURzNvMnNHa3RfZ2dLQlFDMlRFdmFuQUp5Q1BwOTVIWl9UTjJQZ3VCSUFCLTV4aXhOWEkzOTdKZUkxZjhoQmJ2MWEzR3BjVHlvaTJaeGNuMHBYMU1XYlA5VmdkMw?oc=5": {
       "title": "三井物産、世界数千万社を15段階で格付け 地政学リスク反映 - 日本経済新聞",
       "company": "三井物産",
@@ -1733,7 +1697,61 @@
       "company": "東映",
       "source": "時事通信",
       "seen_at": "2026-10-22T11:11:21.742448+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxaFR6UEVfbTNQNFBneW9PYkcwR2NIbm5keTJKLXg0Y2VmeEFWREtWYkJBTDVVRWlsQzU2OWpmczhqQ1FsN2tiUGhMWW5rSjBabWo5QWhWemVUcHp5NGtraFFHMlZvaUU?oc=5": {
+      "title": "三菱商事、AI活用と「考える力」を両立 誤情報と格闘させる新人向け法務研修 - 日経ビジネス電子版",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIQVZ0MThxZ2taZ21oWDM4Vmo5R2R5Y01vaXJlNUtobzNPVEFUTS02N0s1b2w2bXJGNEE5NzJGcWs0NWozOE51aVQ5RnpacGtKbVpiTE42bWVLQl85RGJqcEJSV3duZHU4NWh3dA?oc=5": {
+      "title": "三菱自動車、オフロード車をホンダに供給 非トヨタ陣営が鮮明に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFRVlFdlIteXNzS2tOa2NXekowT3N2T1h0amQ5TTU3TjVUUmxSQnphNHhzOVltN09XZHliV3RPczZUeHlESmJKczFkUVJUWDM5ZkdIeUd1cXlzeWZrNHU4OG1DdEotTGdTM3E0bQ?oc=5": {
+      "title": "イオン、ネット通販でAIエージェント導入 対話しながら商品購入 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sWlE2cmpock5mX05ZeXhhT3hmYkQ3S2tlTnkzRjk4WFNpSEU1Umdvekc5eDRIZTA3YUotNmp3M2JPVHZ2Szlwc1owMi1JRFpiTnBDdw?oc=5": {
+      "title": "鈴木菜巴、予選前半４位＝新体操イオン杯 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcjZldmpGYU5Yal9tVU05ZER6emh6aTdEX0cyWTdLalF6Yzg1MUltVVVZOVdjSWVoSVJqeXBwQ214SU1USVVON2FXampoQzNNS2ZjZA?oc=5": {
+      "title": "◎イオン子会社、ネットスーパーでＡＩと対話し注文 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZVW9pYXFLRmZTVDN0bl9jUjVIakZWczFpUjlQRGpiNWtSTG5PSUFDbE9rZEFnTVpiYzNER1RrTGdrcFkxLVozbnBCMzVOMWRfVkJNT2VZTEVEUVRpSGl1aEFMZw?oc=5": {
+      "title": "鈴木菜巴、予選前半４位 新体操イオン杯 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xWl9lZmxsRG9od2lnaHpwal9BZ1pOTkJfTTBIcEhTa09sMjNWaDZvOWV5WUZpV19saFVicElvcWhldkpfRWdaemxVQ3VLTVpQTlhJNDdBV0tMQVVxNUE0eGsxd2pSTjBON1I5dg?oc=5": {
+      "title": "PHP脆弱性、東北地銀がホームページ停止 東北電力や自治体も影響 - 日本経済新聞",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YNnV6bTVudmlYR3A3eFYtVEEtTTYxeHFHQlppTFozX3gyRUVDTUdnaS0wRmN0UWwwSkhzU2QzeHYyVzVHYkpDT0h5YThPeC1pWVU4cTdQdUdKRml3TUwxQ2tfSFk?oc=5": {
+      "title": "画像・写真：オリックス１位の角田：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vVkVydDlOaGVHc2pRR1B3QXNZQ0FDOUdaMGlUdkdBb0dqQUVHYnNPaVM2OXFmQi1PM3FLTlhycFFCWlRDZjZyQUJocFJVVEhRMzdpNTdDMVhVVlJaVVZJbWpCU0Q?oc=5": {
+      "title": "画像・写真：記者会見するオリックス１位指名の角田：時事ドットコム - 時事ドットコム",
+      "company": "オリックス",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T16:38:14.595883+00:00"
     }
   },
-  "last_updated": "2026-10-22T11:11:21.743002+00:00"
+  "last_updated": "2026-10-22T16:38:14.596375+00:00"
 }

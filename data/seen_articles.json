@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMGdHVHlJZnFURzNvMnNHa3RfZ2dLQlFDMlRFdmFuQUp5Q1BwOTVIWl9UTjJQZ3VCSUFCLTV4aXhOWEkzOTdKZUkxZjhoQmJ2MWEzR3BjVHlvaTJaeGNuMHBYMU1XYlA5VmdkMw?oc=5": {
-      "title": "三井物産、世界数千万社を15段階で格付け 地政学リスク反映 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aX2MwSEJJMzd3RXQtYm4yZG9qcDV1Y3NXMFVWNExud0VOS0t6d0JLd1ZRNTVfTWtVU0pmYnplYmI5dWlXQmlreXNlcmV4MEpxQjRqZmdRUW9vaFdEYjIxZ1F1eWxRd3NGRjRMUA?oc=5": {
-      "title": "データセンター誘致へ総力戦、大阪は官民組織 NTT新設の許認可支援 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzRlM2VpSWlkbF9ad2oyQ09Hc2dlLU1jVGMyMkJkMDVhSF9PeDVTMmRueXVLNlBYSjFIUW0zWkJERGJoX0I3Zk5RYlFsbGJ0RFcyakhWckF3V3Qxc3NVYWhzbnZpV0tlTWI2Z1JqOXctR0ZxX1FqdDlObEN5bzZocURqRUFMN2JidFhaZw?oc=5": {
-      "title": "AI暴走どう防ぐ NTTが新暗号、エヌビディアは企業連合 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWGNwV3hjOUN1dzZHQko2UUVVNkNGdHhxby1JU2J5WHI4bk1Ub1VNZmg0RXVyRDZYYTZEMlFyWHVQQ0Q5Wjd0VmVpcWRENFNjdzZGY1o0QzJpWHRpczFrcGdWYWhsclRzaktVYg?oc=5": {
-      "title": "スズキ・マツダが好調、トヨタ・ホンダがマイナス 8月の自動車生産 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaC1DTWNzcFE2eVJPQzE1aFBOakZQMTJKQTRmakI2LUU3M2ZYX0hjdE9UeVhPTHJqRzZQZkladHlhMEg2YnhnWkpPdU16UDlpSHRld2hFMy01VW1nZXA4cVBBcmtFVHlrS1dKTnI2NGR2OE55Unp1QWNxNGxvcjZrZnBfVlJoWGk0RUM0WkxIY1UwdXpJ?oc=5": {
-      "title": "成長へ中核領域「回す」 楽天提携で預金獲得狙う - NIKKEI Financial",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWcklzcEU5WmF4WDFoT19NNng4c2RIVkxIWmgwcWtUcE1CMmZFV3VydnRrOU9Iak91QnFNTUpGQ1dCem1vSmFIU3JYNlNPcU1Ed2VYYXlwRjB1a2hzYndOTy1nVUFsWkFWWHJJSg?oc=5": {
-      "title": "都市部でKDDIローミング縮小、楽天モバイルに問われる通信品質と収益改善 - 日経クロステック",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE82b3hIQ0E5Tnk2c1VtR19HY01OR2J5TXZGSzFvOWx6OUR6NTl2NW1iYnRvR283aDdKZWc1ckJTc05kZEhvRjJhLTZ1TWswT3o5MjBZVE9WVEFXQnNNb1lxTFRGRjI0VGF3Q3Vv?oc=5": {
-      "title": "JR東日本スタートアップとany styleが資本業務提携：時事ドットコム - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKblNxWTBBUEpQc1p4a0gxanBYUWtrRWxteEZ5WXNnWTNodVIzZjVYbjhGaXlfMTdLVnBLbUxNcFQtdWhzR0xMcHFXa01QMXlIbUYtaU5VVENaWDJmaXRteTZNeW1ZVDFDWTJVQQ?oc=5": {
-      "title": "島根銀行が100億円増資へ、SBI新生銀行が引き受け 連携を拡大 - 日本経済新聞",
-      "company": "SBI新生銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-15T23:30:33.286906+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HU2pvZ190bFVuZXRLZ3pmT2tORmNuYWZyVWJRRGlsTUJoc0Z6S2NVQjdIRmRDRkN1XzlmNWo2M3ByUWFRUmZFVEp4TzkyM2hqaGE0T3hnWUh3cTY2T2JmQjhCUkdDa2xQZXBZ?oc=5": {
       "title": "住友商事のCVCが、電池製造の共通インフラをつくるBeffへ出資 - 時事ドットコム",
       "company": "住友商事",
@@ -1751,7 +1703,25 @@
       "company": "オリックス",
       "source": "時事通信",
       "seen_at": "2026-10-22T16:38:14.595883+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dUJURC1NZmljR0ZDZWFkWWQ2dkdITmxsSHdTX3NOUEg3STd6TEUtcVlQLVNlTDBIS2NNc0J0OWhUT2FoQnBuRWM0cnlaNmlzNnNUc0thc1BpWUNVUUg2c2FsOTBIQ3RVVmFVRw?oc=5": {
+      "title": "アイシンが脳を模した周辺認識、デンソーが産業向けLiDAR ITS技術を披露 - 日経クロステック",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T23:49:42.936072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DejRVVmRJc1VfME5zbkhoQW5Gc0lXSzhNREJtT1d1Nm1pWEhQWFl6X3RYSmx6YVlxNTFVZnNEMXh1UmVJbkZVMUoweGo3R0p3MHBCMXBhVTBwN2NhUG5yU240QWlzRzRNcDZwYVVKOA?oc=5": {
+      "title": "鈴木菜巴、予選前半４位＝新体操イオン杯 - iJAMPポータル",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-22T23:49:42.936072+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnRTcHM0eTdTOXZKMExISmZWQjVJcDg5aU5HdFlHeDBweGV4UXVkQVktZzlZMzBlQnNkNGRoSzBEVVlJME5QZXMtNmRwQUI2NTJJTEk3dGZDNVRFUGFOWXNuRm9CVF9aN1pfNQ?oc=5": {
+      "title": "日本株ADR22日、高安まちまち ソニーG上昇、みずほFGは下落 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-22T23:49:42.936072+00:00"
     }
   },
-  "last_updated": "2026-10-22T16:38:14.596375+00:00"
+  "last_updated": "2026-10-22T23:49:42.936494+00:00"
 }

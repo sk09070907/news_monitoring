@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2aWZ0M25LRngzZXB5bk04TVcwZ2ZWLTZKbXZBUjc2UmVyTE55dzhHbTNzakY0U2xBLWcxcUNmREliaTR4NzZTcUpGYTlVU24zTUwxRXFKQ0g0LVRSSmxETEpodG1EX3Q4UlMyeQ?oc=5": {
-      "title": "「完璧な通信網」ズタズタ、3･11戒めのNTT東日本 現場×AIで備え - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-16T23:12:49.301294+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sOUhHU2RqV2U3U3dub21MNHVkbXQyWk1lZ0ZNSkMyZm0wak9zdURjSmZiZExLYmpaMHNVVWZqTkt4ZE9YaVFRaHVLaWhrSW9CbTBUZE16ZnFWaDhCWnRUeGF6blhwOUVSWlFoLQ?oc=5": {
-      "title": "睡眠不足、2泊3日18万円の合宿で改善 NTT東日本系が事業支援 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-16T23:12:49.301294+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmRkFDdGtDYl82ZWZ4UHpENU9Va19YcHZtY2ZfQlJnTHVLdTExV1JZaGw5WFFDY1dHTkNpLWx4NmZWbjkwV1U2LVVybEYxWld3RHRtbEozT1hMS2dVVnp4bm5NMXBPTXkyaEg2dw?oc=5": {
-      "title": "トヨタ全車SDV化、「産業ピラミッド」再編迫る ソフト軸に垂直統合 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-16T23:12:49.301294+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMS1RajBWeEFzM0NvbzdPVk9mdUdqY2xOMUoya1daUTZkMHFsWHRhSlJEQlp4ZE1KUmNWMEg0Rm1wUTA5Y3N4WnlZcGlSN2tjRWxEQ0E4VVhhYjRYVWg3ZFhaVmtXN1BaVXF2Tw?oc=5": {
       "title": "日本株ADR16日、買い優勢 トヨタや武田が高い - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -1601,7 +1583,13 @@
       "company": "愛媛銀行",
       "source": "時事通信",
       "seen_at": "2026-10-23T16:28:15.606243+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNdi1faE9JMnBJeURzZGFINm1yR3ZBNDRJUzhZR3l3U29nazdZRjFTdVB5aTlKZmstVnp4ZGRzNjJHUzV4Sjh3NlhKdE5wQVNrM0dCRHhOaHBZNTVSSTVXUWFuNzVLSTYtVDRuYw?oc=5": {
+      "title": "イオン株、営業最高益でも下げ止まらず 本業の稼ぐ力低迷 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-23T23:43:37.294850+00:00"
     }
   },
-  "last_updated": "2026-10-23T16:28:15.606508+00:00"
+  "last_updated": "2026-10-23T23:43:37.295142+00:00"
 }

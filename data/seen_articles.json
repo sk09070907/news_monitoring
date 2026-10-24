@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMS1RajBWeEFzM0NvbzdPVk9mdUdqY2xOMUoya1daUTZkMHFsWHRhSlJEQlp4ZE1KUmNWMEg0Rm1wUTA5Y3N4WnlZcGlSN2tjRWxEQ0E4VVhhYjRYVWg3ZFhaVmtXN1BaVXF2Tw?oc=5": {
-      "title": "日本株ADR16日、買い優勢 トヨタや武田が高い - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-17T02:59:19.865873+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZHFuNXJEN1RxcnZoaEJsSjloaGE2ZWl3SGVhbGdLa1o3UlJCeTNSMW0zVkx6LTluemxtdzNvdnhlM0lzRnhMLTZJc1hHUmU1Z1QzUk1STkhtbkwxZmFlWnVzM2pfUjNwRE5TWVpB?oc=5": {
       "title": "法人営業～JR西日本グループ～ - 日経転職版",
       "company": "西日本旅客鉄道",
@@ -1589,7 +1583,37 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-10-23T23:43:37.294850+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbzJsQWJPWUx1SXdjWjhieDZxQ1VLcEo3UGMzUUZvN3ZaejQ2ZEtoQkFTYXRFck5Bemt0cDRNQ3VSanJxZ2VTT0VTU0FldXdaTXo1dkhYbkN1ZHF0cXQxWk1WNTJCbmNqUno0?oc=5": {
+      "title": "『まさか！トヨタがあんなものを作っていたなんて…』トヨタのマリン事業を紹介する特別ショートドラマを3本連続公開！こどもが、大人の悩ましく複雑な人間関係を熱演 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-10-24T03:17:10.901784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ISi1haFlsbGZsY0g5b3gxUXBkeXQ1Uk9FcU4ta3RmcFhtOERlMlRnNXdNVXdMMW5HaWJqcXV5TEc2V3ZJUWQ0SWJtTWk2QlQtY0F1SEdVS1AxT0RKeWlSZmhJQnBrS0kyRDJJ?oc=5": {
+      "title": "GMKtec、楽天市場「お買い物マラソン」に参加！人気ミニPCを最大30％OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-24T03:17:10.901784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5waV9QUDZmSTM5MlZ6d3BNZC1sSWstbWkzR0RfeGVJYmhfbzVWN1FQMHJ1WVB0THpjb2RMX0pncWthbnFHVnpBd2FQM0FKRlVfSzVRdWdEaC13bGNWeXMxTUFYbnZkRDVCV0hn?oc=5": {
+      "title": "【岡山県内初】瀬戸内市営駐車場とイオンモール岡山・岡山一番街・さんすて岡山などが連携！JR赤穂線を利用したお出かけがさらに便利に[岡山県瀬戸内市] - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-24T03:17:10.901784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYThHbDJfNTF4NVBnNUNpRGVMaFJ3Q2Y5cW5sMFFJR2N0eDhDT2lreHc4NmUtNjdkeGN1eS0tTDJ3NnI3UF92SmN5XzJYV2dXQjJXVmJFdDJ0R1dVVndhckhxOFNpUEZWUWdF?oc=5": {
+      "title": "芥川怜子特別防犯支援官がイオンモール京都桂川にて広報啓発を実施。 自身の体験を交えながら、防犯対策の重要性を語る。 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-24T03:17:10.901784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUnp5UXVVMkpubVc2bTBLazJrSldmaVE3TXdYUEo3WC1tVm50QmVFUWF0NWlSSERTTXNyRHd4OC1KakNrb2U1SGphNmxrVVY3TEVVdlR3QXdfY2tST1Z5NHZ5b2dyaXRPWGVZ?oc=5": {
+      "title": "【緊急開催・全国初】人気ゲーム『めっちゃカメレオン』公式のARかくれんぼ「ARめっちゃカメレオン」、10月24日・25日にイオンモール高知で開催。スマホでぬったカメレオンを会場の景色にかくす新体験 - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-10-24T03:17:10.901784+00:00"
     }
   },
-  "last_updated": "2026-10-23T23:43:37.295142+00:00"
+  "last_updated": "2026-10-24T03:17:10.902033+00:00"
 }

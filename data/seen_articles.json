@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZHFuNXJEN1RxcnZoaEJsSjloaGE2ZWl3SGVhbGdLa1o3UlJCeTNSMW0zVkx6LTluemxtdzNvdnhlM0lzRnhMLTZJc1hHUmU1Z1QzUk1STkhtbkwxZmFlWnVzM2pfUjNwRE5TWVpB?oc=5": {
-      "title": "法人営業～JR西日本グループ～ - 日経転職版",
-      "company": "西日本旅客鉄道",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-18T15:22:56.686062+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybVRYSkFwYmdKdHdLWjdwaEI1QlJTUnJqMVhnS3FFR1Ztb0NZbk4tYjJyUW1XYVJSYzc4MmJCX2thSTBZTHJfVVNxVkdRYUEySlZwelgxWXgwalFEbGF5anozMDM0ZFE3Vzl3Yg?oc=5": {
       "title": "光電融合の27年、NTT正念場 NVIDIAはGPU間を光で - 日経クロステック",
       "company": "NTT",
@@ -1667,7 +1661,25 @@
       "company": "近畿日本鉄道",
       "source": "日本経済新聞",
       "seen_at": "2026-10-25T10:43:16.000676+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTlg0aEpkUE5QaXpsRmhRQ1FVUjJkYXYtQXFLcVYyWlVXMXQ2UDZGTmQ4RmNhcmFKU0hXUnFOaC1hTUZmUG5VekNmZU1SWmc1bllPMHR5Z2hWSGVncVpYMnFNVQ?oc=5": {
+      "title": "【ECモール（楽天市場）運用担当】 - 日経転職版",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-25T15:33:09.693279+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40NzF2LXlVeVpwOWtTMG9idHZZRDFLbkdZZThlWTN5V0QtYVFjU3NsckJ4YmNDM1FMQk05SjV6dldMVzBFcW5yaUpuaFNpc1J0X3QwRV9hdThDLXQ5dUE?oc=5": {
+      "title": "鈴木菜巴は個人総合１１位＝新体操イオン杯 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-25T15:33:09.693279+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vbmdicmNxQnFKNzZrbGRZZjdHalM3WDFibTJwZk4teDJQVW1BSXdQbXRqNDMydmVVMzJBY3FqdUFzVG9XcXBaNWhmLThaOXR1TFN4dGVldDlDcWloeU1kbE9aRQ?oc=5": {
+      "title": "鈴木菜巴は個人総合１１位 新体操イオン杯 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-25T15:33:09.693279+00:00"
     }
   },
-  "last_updated": "2026-10-25T10:43:16.000843+00:00"
+  "last_updated": "2026-10-25T15:33:09.693554+00:00"
 }

@@ -1,179 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93aUNxd2lwQ3VuYm0xYjlwcFpHWWg0bzVlUEdzYU5XRFZ4UG8yNF9nOHB6N3hlaF9XS2ZZR25FdVpZUXY1RE5VaG5TanlRd3dhM1Rlag?oc=5": {
-      "title": "◎豊田通商、米スタートアップに出資 - 時事通信ニュース",
-      "company": "豊田通商",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySzJPWG5iWjh2Umc1Ry00bEJoNVk3UHRqcDNZc1g5bEZrd2pMSHU0VzJkMG9VRFY1bzFKYjYxZHhWeFFqRUwzVjl4T0hWbG45ckdsSm9IUnA1bDl2T3VfVktfWUF2dkdhQUVj?oc=5": {
-      "title": "豊田通商グループの「メッセナゴヤ2026」への出展について：時事ドットコム - 時事ドットコム",
-      "company": "豊田通商",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Sk1lZlRtQ19PZTdjcHBHRFBRNUhoMzN6c0h2Q2lVbVVYa3hnMzVPZlZmRXd3S0dGQzBZVldDZW1DMDZNUVZmYmtEaXQ2WmNWRFJHNHV2cjVFZW1JWnlaUUVLT3FPc3JKRzdpaQ?oc=5": {
-      "title": "豊田通商、米半導体材料の新興に出資 研磨剤レスで生産改善 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQmtiMzdQbEhISDlBM0xzUkJ3andNNk8xRWlibjFDM3FENlVoRHVOWHN2QnhIcGlueEc4Z3Mwbzk5bS1IRmpXR3VNNElNSTNDWXpTWmgwODd3dXdFMHhBbVdsWUtWZkM4RklfYQ?oc=5": {
-      "title": "福井県、NTT東・インテージと連携協定 関係人口の拡大策など探る - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BX0RfSzBTQ2VQcmRxeHQ0ZmVlNHAwQlpNYk5OcndOLXlueVhQRHc0Vk1fZjQwaEV3eXotd0tIUnhsWUVVY2lLbkp4UXdXaTd5OVdsb09VUVRiaHdtbG1LRFp0VFk0X09SUnlV?oc=5": {
-      "title": "福井県、NTT東日本、インテージが「関係人口の拡大に係る相互協力協定」を締結 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lbmc3bkxuZ2Z3WW1tUUpkX1NJY3pTX3F1WUszbFh3VkVHRGZ3MXZTaEdacXVhbGFOVUVZalFJdGpNcldOdFdjZG10aVljV1lVYmpvUVo3UF82NWx2MVdFWHNjaVFVT1AwVXhF?oc=5": {
-      "title": "福井県、NTT東日本、インテージが「関係人口の拡大に係る相互協力協定」を締結 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiN0ZUdjFlY244czFqLVV0MHlNRVRON0ptR1dka2RKaVBJd2tlcWtGdGgzTjk2bWFaTldRNC1kT0t5UnllajgybngtTzQ2WGdEdE5pM08yZXJaT0NJUDYybVl2MFlkbzdNeHRV?oc=5": {
-      "title": "クオンティア、NexTech Week 2026【秋】に出展NTT東日本の全社横断データドリブン推進の実践知見を、共同特別講演で公開 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3TnpTWWNmVUw0NFZnajYtUkIzYk50YzFGVWkzeUNnTGpMQ1VzSUVrY0RYS2p0MmNCVC1fYUUwd3JCUGh1VndMcmZxQjVUNmNHUkhYM2c0YTRDLTdJN1NqZHMtcjNWaVJJZExn?oc=5": {
-      "title": "「ZETA DIVISION」APEX LEGENDS部門『ZETA-SITE APEX FAN MEETING 2026 Winter Powered by NTT EAST』を開催！ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYzBhdjRsc3doYkN2T0ZlYllEYjhzSjhxYUxmYUo1bktzaVhOYUpzT1ppN21nUTNrZG1BMGN5Y2x3dENmRTFKMkJwR0c4MjVHcmM5YXdxQ19tSVVzVXFtZW0tMGVYQjdzV2VnUA?oc=5": {
-      "title": "GSユアサの宇宙用リチウムイオン電池、火星衛星探査機「MMX」に搭載 - 日本経済新聞",
-      "company": "ジーエス・ユアサコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uNzdYTEhkbEQ5Sk1uZ3FZSTR1N3UxbEZGYkU4MGhCdV90VE8zM21rZy05bnExUmRQSERTSTYteDlxRlJTa1RQQ0dlcl9LbHRhRjhVMldaWF9EcHNHMUNPeFVQajd5MUwwd2Rzeg?oc=5": {
-      "title": "東芝、大規模な量子セキュア通信を実現する「QSNプラットフォーム」の提供を開始 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE96R3hVbU9PVDMzSTFKVjZaaTRVWE0zOVZ1VFRxbjJ1clpFRE16RTFienlKbnJRdTNaMnNZdmRpRmtvaWU5cXFRNURUdWRMeG5iV3NGNFh1TnhwSFhsRkprajVMdVcyMVpJb2Q0Ug?oc=5": {
-      "title": "米GMが最後発のHV参入 トヨタが追い上げ、EVシフト修正の難路 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRXFuc0RRQmlsS2dCaHp1ZnIzQ0czTFRyMFJUWDJVRzljZ2hEX2tUTURGSFZmZERhbnJYU3M5SUdHNkx4ZTJMNFh1eDBib1JnZlR3VkN4NUVMTFc4eXdjUVdEOUlzY2c?oc=5": {
-      "title": "トヨタ米国販売トップSUV、なぜ突如として入手困難に？ - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKX0t2SEg4YlVpZzl2dTlBa010Y3ozcERKbUF3a2RkOXVnVW8wUGh5eURwT3F3WDFkOEV0TVNTb3pseW1WQWtjdlVJSTJZb2M4TGlyV1JORXRQUmFRSU0wUk9EMGhobzFXOVFz?oc=5": {
-      "title": "ランドクルーザーの原点を愛車の顔に、ランドクルーザー“250”向け「ヘッドランプデザインカスタマイズ(丸目)」をトヨタ アップグレード ファクトリーでご提供開始 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQ1VCLWV0SEx6SFMtTDNWSzFZYXVzUUIzU0VNTFk2LW1taXlzeWZCN3pmclFBQi1WR0lPVEVQZnJQMXR1UFRTSHNfVk5XYzRDNm9TWHRtQlZQdmdVMFV6cFhiUDIwMl8zVE9Z?oc=5": {
-      "title": "【山崎18年を3口封入】山崎12年・白州12年も狙える、楽天市場限定「超みくじ 第2弾」466口限定で10月21日発売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N3BCSFg1S0dlb25fRndndFZ1TXF1c09rSnQ5R3RRQ05CRWRlZmF4aWdZZnd0UGZmM1FFaU9tWnp3SWQ5N2oxSWlKcDUtVnpUaGRsUHJwUElGa0k1RHlpTEZCdkViN1BlWVc1eA?oc=5": {
-      "title": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxTWNPaG9TTEhmeXp5YnlMVU9MYW93cXVMbTducWRYMVpQcndmREpjaWZsQ0s2MDRhYlhNR1RTWjZfOW1CNm8tNElfTkpscmc5c2lCTnV6eUVKbGczNWFqMFFYbVVZazBxRl9V?oc=5": {
-      "title": "「フルーツギャザリング イオンモール福岡店」にて2026年10月23日（金）よりアテニア製品の販売を開始 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNHRXWGlrSENRdjl4eW9wd01OTjNQZlNZUXJZNTF0Si12eEpGV3A1SnB2ZC01ZkhKcFBqMG14MGFOSVdfUF9kWXZfemxEamRxVWx2SWY0eUJCWFRKTjdZS0JaQ0t4ZG9YWFhJ?oc=5": {
-      "title": "韓国120店舗の行列チュロスが神奈川県大和市初出店！！神奈川2店舗目へ！「STREET CHURROS」10月23日(金)イオンモール大和にOPEN｜16種の穀物×金賞ソフトの\"罪悪感ゼロ\"スイーツ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oLWV2MENFdTkxMXhqek4xY1ZVVWUwaUV4QlZRd19Va2NRZkhQUFprT2lDUlJPYmh1VDE3QnE0WkhINWNxNE5vbWVOS25pa3J3aGtWaHV3NEtGcDlOR3NMQ2pQSm10eHl6cDZj?oc=5": {
-      "title": "【JR東海】「コートヤード・バイ・マリオット新横浜駅」2026年12月18日開業 - 時事ドットコム",
-      "company": "東海旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OOV9vTTNuTnFGS2ZxYjFxak1naEk4RjhZUXBEX1VxVm9kYUI5dVZGbG9MWlpPSDliZjhVQ1h5LUpFTURjeXNnVGJ2TnVmbDN6N3Ytb05mMlo5ZzJzZVZWUkRZN01zTk83?oc=5": {
-      "title": "九州電力の最新ニュース。 - 日本経済新聞",
-      "company": "九州電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OQ2xOdWU2SVB1V2dVdDdJN050YlU3MmEwQXlURXloMmZLSzRvSXh3VEZjejdqM2RWdGpZNDhLQlloaDJ6cWZBRGVRbEZtdXd6cXhqWXR2T09XMmgyMGNDbHdJb1RDSUFvQ2V1Tg?oc=5": {
-      "title": "札幌市、スタートアップ支援で三井住友銀行と連携協定 - 日本経済新聞",
-      "company": "三井住友銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdlhDRkpEbTY3UVFBMy0wNGtJakphc2htNnhvTV9mSXFSSGZKLVFBM2UzdmJkVkpfU0hFVHd0MmtvWEpCbXh2S1hQMko0cE4tdG45Nll2cmZ2NWw5eFU2ZHhqdHoyU25LZ3FSaw?oc=5": {
-      "title": "岩手県八幡平市、みずほ銀行と連携協定 地熱発電生かした企業誘致へ - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tTWtaYjlkaHF5Y1MxV2U5VG9RakxqZVM5WVpmNnFDTUdCRHNxYjBQN0JsRVY5VTY3S1BDS0VkN0V2M2VScnpsaVYwdkZRcVpLRGhkODk1bEpkMDRCMU1GaVN0SGlSYlo3Ym5fTg?oc=5": {
-      "title": "三井住友信託銀行：変更報告書（特例対象株券等） 提出者：三井住友信託銀行株式会社：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qblRBQXlaRUg4dk93WF9zTi11QVlFRHpDdEpFc25jWm5ZLUNudFhER0czNDlwYThlcGxxbHlyMnRFRUtSQ1J5YmZ3TGpNUGRTdXJ5c0ZFTzFYUy1ZenJhbDBBWlJKVWg4TUF5Tg?oc=5": {
-      "title": "三井住友信託銀行：変更報告書（特例対象株券等） 提出者：三井住友信託銀行株式会社：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Skx0aEpvdXE4djU3OWlSNkVrUWlqbVVNSUZWdkVaNGpsV19zZHVEcnZsblMxb0tzcmdiN2U3T2RybTc1bTVRTmVsTWhsSzNSMXY1cXVNTFJ4OWkyQ2hoaHNsZmlBWGtZbEtr?oc=5": {
-      "title": "SBI XDC Network APAC・SBI VCトレード、Shinhan Cardとの基本合意書を締結 - 時事ドットコム",
-      "company": "SBIホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSHA2Rm10MVBnX1RXa0ZpZlZyQUVQQm9RVDNHaWVqUXNsQTFGbGJVaVpja3dvZ1N1Z1BZblh5Y3NBWWRGLUxrY2N0bG1NM05ycG9DUVpQQlNveTRJaTBWTzhURlB5d1NiZWc?oc=5": {
-      "title": "日本ＢＳ放送[9414]：【BS11リリース】「BS11 presents 昭和100周年記念 昭和ゴールデンHITS 100 in Orchestra」大阪 オリックス劇場 12月6日開催 2026年10月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tSGlPMXdDTzE2ZnVwZ1djSHdNUnBRcFZWXzBjMGdic2ItT2k4bWhjbHZXZ2M0THhrTzZ0M3NpallXYlBBTFhKZnZDMWZKVnF6RkRsbWRaT1ZUWmVCbG1CVGpxMDNjWkc1bUE?oc=5": {
-      "title": "東京センチュリー[8439]：連結子会社からの配当金受領に関するお知らせ 2026年10月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京センチュリー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSLWNaTEU3SUdualk5cmZDeVB5Rko1VHZfdnRKdlFUMW93cUdWbnFYdzB4VkJ4dHBpYTBBblRMLVZMVnpwVkpDbU9pMzhwMjBjcnc3eENCUEVrQnd1eTJIVzFEZF9BYnRHU3NJ?oc=5": {
-      "title": "トヨタファイナンスの加盟店デスクにおいて対話AIプラットフォーム「アイブリー」の商用環境における実証実験（PoC）を開始 - 時事ドットコム",
-      "company": "トヨタファイナンス",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSXR2U0stcWo4eWo1TkhXeEllQUg3LUtsck5nRks2ZDlwdGZRcnFPTk1vaWxoZnhwa1FsT0dhYWh4RUtnaHlzTlQ0a0RkWmtBT3o1VUFyTVJsYzB6SkNBajJyNG54ZWNOZUE?oc=5": {
-      "title": "三井不動産商業ファンド投資法人[8964]：投資法人債の発行登録書提出に関するお知らせ 2026年10月21日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDNpWkFoeHo0ZUYyY0VzNG5McGM5RGxraGhXcjhVX1NCRF9QZUIxUEtvVkdhcHRPZE56ck1nVktfY3RkZjRJRGQwY05CMlo5cWZCMS1IU3pHR3luX2NWb19JQTBTWFhvc3czcA?oc=5": {
-      "title": "三井不動産商業ファンド投資法人[8964]：発行登録書（内国投資証券） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T11:10:42.129283+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LY0p4QlJIZzZiY093QkY4NzVJRENsczJrNVBnaEpwWjhCQU9BZkkxVmNzMEZ6MGRLMzhJVkRGdjdiVnZOOUFPSlppd1B3UE5PRkx1QzNBOEN3V1hQN3A0SE1HRmRHWEFjcHhCTg?oc=5": {
       "title": "JX金属と日本製鋼所、AIサーバー向けに銅合金5割増産 耐熱性に需要 - 日本経済新聞",
       "company": "日本製鋼所",
@@ -1883,7 +1709,265 @@
       "company": "東京センチュリー",
       "source": "日本経済新聞",
       "seen_at": "2026-10-28T03:59:53.734196+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbE96MkZPZVNDY050cGhkYVNXdXRwcjZKaFlrcklCTjRrVHdfcnNfZ1l1YUpIUVduOE9TQ09hMGpQTXFNQVR6X1hqWC12dU01c19rNUQ3MkpuQ3ZHZkNYT09mRGlERUFSTDhV?oc=5": {
+      "title": "伊藤忠商事を親会社に持つ米国ITOCHU Building Products Holdings, Inc.、AI採用プラットフォーム「Blucor」を導入 - 時事ドットコム",
+      "company": "伊藤忠商事",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HODFpcWhEV1M2aUctR2ZxU0VDNDZ1N284bFQ4SENHblVIYWRmaXBkZUF4T3l6NUdtdUF0UFZKOWdZTFBMWXlqZ0FfcUtoUmxHYmM5N285U2dpVHlyZmZjcUtqbFRwXzhXTTFDSg?oc=5": {
+      "title": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働 - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SQTR6ek5tNG5GSjB4OWN5TnRUdEhTN1Qzd095WW5RYmxySzZ4cTMzZGxYRUI4UnNPNmNJUFdwMWlKNG5aZ05pWlc3ZGxZYkEzV25DNklWSmZGTUZkdms5ZzEwbnc4b3BYZFlWbjRn?oc=5": {
+      "title": "法人営業（設備予備品）【愛知県豊田市】 ◎豊田通商グループ - 日経転職版",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZQUYwQ3FBZkxOVVV3aTZOc3N2Ni02bC1IdTJGel9VVG5jZmhpVG9hejQ0Vm40bGFqdVczb3kyLUFTS1hGeW1pZlhSYmJDNExTdi02S2hWRWFzRk5IX01WeWV3MEljOE9Lb1Zubg?oc=5": {
+      "title": "NTT、SAPとソブリンAIで連携 機密情報を管理しやすく - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSanA5OVBnUHMwWUtib25pWlFxdDR4U3NUdkkzU2VlQ0ZNVi1nZHFqWVVNdHBNbXpaYUdhUk9MSTgwLW5YX1VLRUlsZ2pGRk1Uc0QzdkhhUzVDZUFZVkFkRTdobjVUaEE0NGZEYw?oc=5": {
+      "title": "NTT、AI関連の目標開示検討 PER向上に生かす - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZmQ4SHlHNHFjZmtZQkpwWHpDM2hpSXNLb2JvRnpmUjRGOVYtcFk1VFhrMnRxMWRMS1M2WGJGYlJCVVlIM0lfaHgyMDM3SjVYMlB6ZkZfalcyNTVBX3UyWDdNdUREN0NkYzZzUw?oc=5": {
+      "title": "香川県三豊市、NTT西日本と自動運転バス実証 バス利用多い地域で - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lb3Y1X3J1ekdwYjZjS3l0X0pKb3QzLVZteVJNNndjeWtuYkxnbFpHU0pzZDBFNm9nY0trQWRHUFVQX3pLdzR2UVlyZGtWR0c2QWM4S2d1b2dEcjZDSnBHa0lpcFlCdVNGODNn?oc=5": {
+      "title": "NTTインターコミュニケーション・センター [ICC]「わたしの身体（しんたい）はだれのもの？」の開催について - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xZmNZWDNLUWJpcTNEeWRXeXZsZ2p6N21oQTZIcjJuNnhZcDdBZmRyTm1fZUFaU3h5dmptZ215bEhoMVh3Ty02UV9iQUZydXd0a3FWUmo5a21Eak5xSjJGTWlPSjhIejJDRXhr?oc=5": {
+      "title": "SynapXion、NTTデータ先端技術と協業開始 ～現状と目指す姿のギャップを8つの軸で可視化し、企業のAI利活用拡大を共同推進～ - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PdnlIYUZUSFowWDdzUkNvOUhqNG5WeE1QeEpPWVJwRXVqUGozOG4xR3Zwbzl3ekdXajZrRUplbHd1a3FaQ2p5MHc4YjU1cDlWNUlXSDlTNFE0cE9ybXpvaS1QUzdOeFJZRkZj?oc=5": {
+      "title": "SAPとNTT、信頼性の高いソブリンクラウドとSAP(R) Business AIの機能提供に向けて連携供に向けて連携 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BNjk4Vjc2MlBGa0g5TkM4dGo5VGltWklVZkRUenlBM21Cb3ExLTd3QXA1T1NySkdYcGFBd0V6c2hPR3dfVmxQdEJtcDhVLU5kUEZMenItUEw1LUFqdDFVYzVjbGxacXlZcnN4MA?oc=5": {
+      "title": "日本製紙、物流子会社3社を統合 人材や拠点の再配置で輸送効率化 - 日本経済新聞",
+      "company": "日本製紙",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KUGp3Z3lfcVlhMUdjaGF5VktUNXYyOG5RcmdwX0VKSHRfNGhlRnlzRFFxX2FHdVFuV1dhRi1Edk5SYkFHNDJQbS1vUmoxVzFMcjZGdGM0cUFCcWdxTERqZE95dmlXR1NrbWc?oc=5": {
+      "title": "フジクラ[5803]：連結子会社からの配当金受領に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91RGVteGxSZTlVcVlnRThrS3RxNnFnRjJXMlQwWThjbG1SVDNFenpoTFNhajFNNTBsVWNFVjlmX0s1Tk9wWmJmZXM5SWNZZDFNSDU0S0JCS0xKd0VUT0Q4eUY3cmVJTzlMYzZV?oc=5": {
+      "title": "IHIとシンガポール・ST Engineering社が、原子力分野における協業検討に関する覚書を締結 - 時事ドットコム",
+      "company": "IHI",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcWN3RDdaRFQxaEktN3hiSUliUjJlU0VEaE5RRlEyNnU3OWhmOFJUZkRwa1Y0amhFLVNiMGJ2NXdJTXlIdlRPek5YdW9kZkF1ZGcwTk1sLVRyQWladzdCQ2hDUC02S0xKa3FtRA?oc=5": {
+      "title": "IHI、原発事業でシンガポール防衛大手と協業検討 AI・ロボ活用 - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMmd4NVdRVjNvRGh4alVVcHpCQmZnYXFBQUJqbU50VTdQRGN2elh2dTdpWjBocmJHTldjZEdEY1l5MkRDX2ZDNk5EbS05WlRHcW1SMjlFdkY4UkhXenp1YXlqTG9OejJOR3B5dg?oc=5": {
+      "title": "◇IHIの長期発行体などを格上げ・JCR - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQXRVRTlSUVp2dktlajRVYmJseW9WZFFiSk1SSU9BNnA5WmZ3SkZwbHNKckZXZi03MXpoNW8zVFJOYk0zdlJaWFRadW9rd01VOHFTMVZnWHdzRk5xWnFCQkJzMFNOVVBwR3o4TA?oc=5": {
+      "title": "トヨタ系中堅5社､2社が今期下方修正 原料高｢今までにないレベル｣ - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE15dGxCd2hFT1NwMjl6SUVES2l0UnFEOVJtMUIxOXc1eGJjT3IxSDN5ZkRFcVhrbHJqRXo5YkZIVkhmNFRmV0p6TzZmamgybkJWeVR2YnVDT19JYXJmRk9LQXNrNXBXX2FIRU00?oc=5": {
+      "title": "楽天カード、「Google Pay(TM)」のタッチ決済に対応開始 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE92TzMtSnk0S3hvT0dSVVVrOVdQQmUtM1RoNDRPbjV1MlA0eUFsNk9PYk5YZkYwckZBSnh1a2tZdHdDX1lMcU5GTHhSSmRVdzBhTUZCQkFpRGFxcFE5SXd2b2RuVDVIM3ZnY09V?oc=5": {
+      "title": "「楽天市場」、2026年冬のトレンド予測を発表：時事ドットコム - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xc3RKRmRmN1M0OENEU2JXVmZIcXU1MHlzMEJhbG1hdjdWcFJFdlFKaWRrOUczWTMwb3ZFRWVzT1JFY20tcW1ndE0yY3F3c21SampxN09rR1JLMEJjdi1DR2pjMzgtRE9KczRV?oc=5": {
+      "title": "「楽天ポイントカード」、NEXCO中日本のサービスエリアや パーキングエリア内の約400店舗で順次利用可能に - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqZG5KUEVDWmxIVjdablZjbFlBSXltb01pOU5zUE5QZWJNY2tVdDJJMHI0WnV0YTJyYkxCWnFyMVB4RDFieUJOSHotUEdBMG9CQ2FPa2dWQ2U0VU1OTFRGODhySmtrZmQ4c3BJ?oc=5": {
+      "title": "パソコンのセレクトショップ and pc（旧 PC SHOP BEST）が公式オンラインストアを正式オープン。楽天ショップ・オブ・ザ・マンス（ジャンル賞）2度受賞の店が、購入から下取りまで一つに - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKbWllTmUyWWNGNG91QUUwdVlES2R2QWNHSE4wMlQwcWVJWUs2WVI5TGFfcVlxQWg1dUZZRlpadDRhSXpmdU1CYkFuNndhRnlRN0N4Q3YxWHpJQ1FwUkc4bGdtRDhXNjR5MHlz?oc=5": {
+      "title": "Opensignal、楽天モバイルの契約数1,100万回線突破を受け、ネットワーク品質と競争力を分析 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CY081THdGcklBMGRSQWl4U1JVcmxoWUZUVDl1UWpUX2Y0MHk4bzNieldYcmVmeWswQjRSbUxpdEZ3d2RKaGdTYlVmZHN2bld1VWJ2VlduZGtuS0tLcVRFRk54WFQ0b184aDRlTQ?oc=5": {
+      "title": "イオンフィナンシャルサービス、最終減益 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lZlY2RXl4ZENuQUhibHVQS3ZubktuTXBNX2l6NEIxemFXTXdncVE5R3loOFV4czNPa0JkXzJaWWVEMUxLX1VMWGhmcENCdkNqa1hnXy16bkIzcEdvWC0ya1M0MVltaVczUUJST3dR?oc=5": {
+      "title": "リチウムイオン電池製造工場での工程プロセス改善【徳島】 - 日経転職版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRWExRHh2MlpHRzhna3hrZm5KQzdtMjAwOVBEWjQzWERYQkhwckl1WXQzVFlPRWE2dFZaV1IxZWtPRy1Gd2ZtNDdabjBxM3VJWngtUA?oc=5": {
+      "title": "◎イオンモール熊本、一部再開意向 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUTg2T05Rd3F0dS1wN2FQTUwwS2lpX01LOURCRU9pX1I0WXBIT3EzVUFnZDhRSEJZSTNheDFNWEkyZTZZaHl5WHdVeENIeHRHX0cteg?oc=5": {
+      "title": "イオンモール熊本、一部再開意向＝「年内に」、爆発事故遺族に打診 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wa2pRUDhhWHdsdUV6Ni1hY2d0Sy12emhLRW5iS2dZZTh0aFA2Wlo0SmpzWWxBRUlrNlBtMDJ5SDZOTUEyeDZkb2hmRlBNRi1IREF2Wmh5dlZwc240Yzc0QUtRaw?oc=5": {
+      "title": "イオンモール熊本、一部再開意向 「年内に」、爆発事故遺族に打診 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqU1Q5dC1VeHpCd3lNUE80Sml5NmV6VjRVdDdfYUdDRUVJNUp6RWt1cENITjFLMk5RWUNEY0I1eUp3OHdJUkxCOWIzSzFtaXFjQVZubA?oc=5": {
+      "title": "◎イオンモール熊本、一部再開意向 - 時事通信ニュース",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZTER5TnQ0bktvVTZfTDZlNDVfTUlUS2ozaXB2aDFabk03NmV6UUt3TEJQVl9Wc1ZISnoyNWxFM3ZycmRFOG1DRms4ZUpqcjBTRWNKX19naXo3NU9WM2pyeXBBaVY?oc=5": {
+      "title": "画像・写真：イオンモール熊本、一部再開意向：時事ドットコム - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ld3ZhZmNTWVRKRWZMVXpBdTY2NS1oZVJDVENGWnRLWTRlVmo3SlpNMDdseGFrdk9wRE5aOU5wRFBHb0NualBGcVhJWkp0VW9GTmg3WWxCdURiaUNoeG9sZFk5VTR1QVdDNVhZ?oc=5": {
+      "title": "１０月１７日 「イオン チアーズクラブ カスミつくば」稲刈り・落花生収穫体験 開催レポート - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5seEM0ZEZrNUlHWmdKazBzejJOU2lkNkFDZ0dyMXh3V3p0UXRRSlRzM2hzUjhueG1mN2JiLVNpaE5RcExzOW43dmQyQ3ZhWnNLUVlUR1B2VzZGeUtJUDk2MDJBY1NlQWVhOF9r?oc=5": {
+      "title": "～2030年度までに社有地約1億平方メートル の30%を環境保全地区に～ 森林保全プロジェクトとして全国18地区で展開中の「西武の森」活動開始2年で目標を10％超上回り推移 - 時事ドットコム",
+      "company": "西武ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSHJ4eXVTVW9zdzZQMmdUY1BlWEVBZEd5VzR3WGJYVWZybUVJS0xFQmNGOFBaWlNaMFoxX3dlR25LSHBaRlBfT3NUTF9ZOU0ycGo3VUhNYllQRF95eFJRZVptbnY3TXBJZnVLWA?oc=5": {
+      "title": "中部電力、波力発電の試験設備など展示 29日から技術開発本部を公開 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rZmd4cXdINlV1ZUZFN0VFM0tMMVpTQ1h4VldsZEFDbWJ3c0tyNlZDZ0RNbjJuRlBJeWIyMDJISXl0aDl1Q3N6Q2ZxZy1QY0RNb3NqSnZYcndiMmRSMnFPdlFmYWh5amFKQWVR?oc=5": {
+      "title": "波力発電をテーマにした体験型インスタレーション『RIPPLESCAPE』を、中部電力「テクノフェア2026」にて展示 - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11czlxVzYwcGM2WTRsek9iWGcxc1daNThMSWJKbDVPZ1AxNW41QjZ3R1E5eXkxVWFQUHRJblJiZjJLTnpnN1RmeWx5djV1WXNKdFhHZ0s0SlBFWWlNZjhDRThHVFVCTmRZSU05eg?oc=5": {
+      "title": "三菱UFJ銀行、神戸市から感謝状 スタートアップ支援に3億円寄付 - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUUU2RU9pN2NObzBjbXZpMldDLUUyV2QwNkRsRDVjWF9temtoUExVcXVtdEFpcDVSOEUyY0ZRb0pyNTllakNTUHVGOXUxQVQxbFV3dnVmNWdDZGFXUFNEaEQwLVYzdmtPLUdTdQ?oc=5": {
+      "title": "京都中央信用金庫、京都府宇治田原町と地域共創推進で連携協定 - 日本経済新聞",
+      "company": "京都中央信用金庫",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQ2VtbmxfUzVkVFVjYkdwUzA0bEJOMFZhMUk0dmJYZXRtNDVpT3NsSnBxdXVZam1wWG9xR0U2RGVPQWVvb19IbnJubDd5MG8xR3BteEhjakU4U1U2NXlCcXVmaFNUbzlmQjE1Ng?oc=5": {
+      "title": "野村HDの4〜9月期、純利益27%増 個人向け部門が好調 - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRVhQajdXQWt0aWg3aHA2OXBvMHcyd3loWHlxSU5JeDF3d0x1WDJFMVdBNjVuaTRnbEt0dktpTEFWZ2hBam56Tno2QkstaEVuMUtSZVM4QklQUFFHUlVOWk9pamY0TmlXLVE?oc=5": {
+      "title": "野村ホールディングス[8604]：剰余金の配当に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zc25RSW5oMlB0eEN4VEg0ZDliRG5rdXdaYS1zSTJrNDg5RFNqdF81WFV2NkF2NTl0OG5Gd1ZnQU9qNGtFQjA5RDI1d2lqU3RsSGtkTnY3UjlfRXJHa05GaERRR2VWdEZUaWc?oc=5": {
+      "title": "野村ホールディングス[8604]：2027年３月期 第２四半期（中間期）決算短信〔米国基準〕（連結） 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWhUNFB5YS1qR3ZQVV9RMDE1LV9GSEdCd3VCd2s1QUlxbE9NM0JZdHg4c0liQkJja25oaWZuYW90QnNhSERBLUpmU2c4UERhc1U2RmlHcEJTQ3p5Q0FuYjF3TUhVb3g2cGlKOWhma2h6WC1vS1JPRHEtREltYUJSTEJXSEY2Ry14dk40TGpCZlFjQVg0WXhMRllUTjc0WHhIWGV5ODZHTkxVSndGcG9EVnNheFVscTVid0VaLXBWQUw4SG5SOUlqV3RsTlQ?oc=5": {
+      "title": "野村ホールディングス[8604]：奥田グループCEO決算コメントおよびハイライト（2027年3月期第2四半期 連結決算） 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "野村ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDU2M0Ykpkd3g1NVM0Yks3Qk02ekNDQ1hSRHhNaElibF9ZVFBDTklfenJVb3I5ZEZZOXlUTnZUQXBHUjNFa0RvZHNCOHZBdmtTYV80Sg?oc=5": {
+      "title": "◎〔決算〕野村ＨＤ、２６年９月中間は増収増益 - 時事通信ニュース",
+      "company": "野村ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE55LXozdzJaSGpRR1ppOXFKZFEwUTF4MG9MNnBXXzExclRMc19TZ3dubVd4QUtyakRHVnhfb2V2WkhOZEJjdmFQaHJLaGUzWGdwbEN1TjRSMjdMTzJEYW96bTg5VXpwYnVpWU1V?oc=5": {
+      "title": "ジャックス、貧困層の子ども・若者への中長期的な教育支援を継続 - 時事ドットコム",
+      "company": "ジャックス",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aWWM5Sm9XUW5ELTVxSl9RZW84OVpVZVZCejB0bExXSy1hZnFvb0RmcHJaMmpfVE9rd2t3NDdZZ1liOFl5NFQyM1lDYXJueW05UmZsU2d1QnJ6clg0WncxVk8xc1pzMG1xX2tN?oc=5": {
+      "title": "JCB、韓国・新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」を実施 - 時事ドットコム",
+      "company": "ジェーシービー",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KMEFxcDc5MHBQMGF4eEoyZEZlVkhTaWxpZTBSNXFUODd4WHV6Y0VmeHNMZGRtbERpQ2IySHVoY3pEX1pWZW43aHlZdGNuRGk4MDRWdExWWDBpMFZGSE1Ob2tBY2lKXzJvc0pz?oc=5": {
+      "title": "JPR、芙蓉総合リース主催の物流効率化ウェビナー第二回に登壇～荷役・荷待ち時間短縮と積載率向上を実現した「5つの現場改革アプローチ」を解説～ - 時事ドットコム",
+      "company": "芙蓉総合リース",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95SVVTa29ubGZXbFA5QnpWVGxELXo1dFFOTDRfRllwX0t4akVCdlBzaENOUGs4aXczeEZnU1paTEVFX1NhM3NjMWNWWHplcl9qcEhwWXFtenhoMFY1cFY2WV95VDd3TXUwMzFF?oc=5": {
+      "title": "AI時代、オフィスに“アトリエ”を。 「WORK WITH ARTIST」第一弾、三井不動産で常駐アーティストが制作活動を開始 - 時事ドットコム",
+      "company": "三井不動産",
+      "source": "時事通信",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE43clIxNVVlQ0ZESnJGRDJqMUxpcU8yXzVIR1VkbVVGQVBIWllZMUFSTkhOanZRRVNFOGs5Nmc2Xzd4aHI3Z3pRZk10bGJYT1I3VlBSSXZXZVM3c0x4YjRITS1FMWRkZkI2LVE?oc=5": {
+      "title": "東映アニメーション[4816]：業績予想の修正に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T12:08:45.788509+00:00"
     }
   },
-  "last_updated": "2026-10-28T03:59:53.734488+00:00"
+  "last_updated": "2026-10-28T12:08:45.788925+00:00"
 }

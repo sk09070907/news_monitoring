@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVUmN4dlRydVVNeVBvc2l0b3NKTHo2TnExOUVac20zbTU5WHVJdldMd2tyMm1fS2JxV2MwVzZWdGhMalZmOU9yV1hGeXF5ZWJBTWZOcHVpN0d1WFRCemZ5Y2VRQlk5NkhseGRjSg?oc=5": {
-      "title": "BS放送ニッチ攻め伸長 三井物産やジャパネット、IPや通販と連動 - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEM24wNXBSYzFZTHFVRFQ5QmQyOU9lSTFIXzdORUZOek9QcGZvbk90TXJ3eS10QWpiQW5YQkNiYWo1NG50TE1qVldSR00tN3p6WEF0V2NObVhlbjdIUU80bWJR?oc=5": {
-      "title": "【静岡】技術職（機械器具設置・カスタマーサービス部）※伊藤忠商事の100％子会社／年休122日 - 日経転職版",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Vc3lFUHdQcnktMXpYc0RPUldoa1pUdFlkR0pubzBKRm5KWnJaZWpSNnkzOFBqbUNrTEpZYmUxZzFjUkZRdmxHVU5LM2tpUzJqVnNQMVduMmp0bE5ZcnduZ1Z0VnotUnhaZVNlbA?oc=5": {
-      "title": "日本の価値問うメッセージ 日経広告賞大賞に伊藤忠 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOb3JNbnE5QTVwLVk0NHc5ZzBiOWt6Nzk5WGlOV0tlX0llMzN0SzZnVTlJRmdndzFsOEZJV1ZDd1prY21IbFBpOVBLNXpMaE9PUXJGOFhwRnN6SHFMVmZYU19pNHRTbFBCMXlUZg?oc=5": {
-      "title": "NTT、光電融合「光チップレット」を31年量産 東芝系や新光電気と連合 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FXzNxYXlub2lmdE5LcHdUdTJJeGtzRUJNMURMRFo4SjRsQ2ZnYk9MM2dfajZKb194N1dYbGtBYmpIOUU5VGhDc2tlaG1UN0thYnlhX04wUWk5WVptLXBQdDIwM2xaVktkajd2MA?oc=5": {
-      "title": "NTTドコモがミリ波の普及で協業拡大、2波800MHz幅の利用は大きな武器 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeThoZElYMUU2dnNCRW9nV2xEZVJwNEtnMkVPcll6SWFReE4yWUhyTkVZcnZVZjdSZ01QMEgwOWNCMUx4M0wybVl5aHZyVlFzOVlWS3RKVHFrRDVYU3U0RmpLaFFCek1KZEltaWtoakRQWGwwd3dOb21lcUxJdkRXRFU0MFZENFk?oc=5": {
-      "title": "NTTの光電融合 光チップレットを31年国内量産、4社連合 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YSnhqRnI5OWIwakY2dkQ4bmFoM0p6ZEZXbGJ3dEZSU2FiUjZiN0RYRWNPdEtDUDdGQnEwelNFWkxIRzJOU2lrTXdJWV9ubXd0SXpubTgxRjlYTnBILVc1UkF4SldLN0E?oc=5": {
-      "title": "東芝、次世代エネルギー貯蔵に「岩石」 製紙工場で蓄熱技術の実証 - 日経クロステック",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEQ4TTFsWmdHS3pSanBjQW9xWEV0Sy1BUl9McWx0OEdYQ2dtbmZBcWppeEtuTkhDSlBrMUVkWEFGQUlZblZyczVJeVdYRlk0R2FmSEREMHBoNkJUNGVUaWJBR3hvT0Y3MldmaUViOW1VdmhTZ0hzZzBnX3U4aWRDTFpPM3hhZFM3MGJhMFpBNUtQLS1HNEtLN3RGVW1XV2IwMm5tNg?oc=5": {
-      "title": "移動･医療の空白､MaaSで埋める トヨタ･SB出資のモネ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXVYLXZSczVIM0poQUp1WHoyaWpSSUhHdndvYkJjRzBadFJpOGVJVlowR3BDTkRHX3loMTJOdGJkaTVfaWF1N1J2WWdnMnFicVhzUUdESW83OHk1cjhYeU1JNktIOWdxWVh2anhfWW5OTDhaQm13aldQdUYwTk9jV3pPQVBraC1xRVVPUHBNLWpsTkZ5bTBYX1hkN0swZGJhMGp5Sw?oc=5": {
-      "title": "トヨタがタイでFCV生産 27年末から､欧州･豪州に輸出 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByRmZ5WWxTT05qY29PTlk5aXgzWU9nbndPWFFEN0dLeFlfYThSOFpvVGY2Q1NBeDJYYVQ5eUFiVUhQbmRkbjRuLVhZbV9GZUE4aWJhRDVDREhJSnFrYUZpbGZrNjZiTjQ?oc=5": {
-      "title": "関西電力E-Second社名決定の転機 多数決をやめたら自分たちの言葉になった - 日経ビジネス電子版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmpzbU9rMWs0ZWUyZzNWTDJWYVVCVzRjVlEydVFiM2NjZmVNNVVxSnNFbGV4V1d4cXZ0Y3FxWXlNTGxGaWgtZkZyRG1iTVUtN0FvSkRnVTNhNjduU2FNMjNlU29NcDZsQXlhTm9GSnZPWklKWWxIeUx0SGV5amN6V1Z1c1NHZkVSemVGbFF6aTRzcWhrd2lBeG9zNDQ?oc=5": {
-      "title": "関西電力の原発PPA、10月中に受付開始 外資ITが関心 - 日本経済新聞",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTU1pQm84QWwxc3FEcE5oVGotUHdIMUl3N3h4X3dJVFkwVmxNMjBZV3pKQ0J4akFXRi1pNUpKZ1pUUC1TNlNqVU9zdU1EdzRCWEZEbmJrTlRZQUNZc3dncU1UQlZ3QnBDOGZIeg?oc=5": {
-      "title": "円相場、26年末に1ドル=154円 野村系の宮崎氏 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3pHOWN2eUM2WWl5MkxNeU5FdmZlQWxLMHAxLTl1WGEzaFVjX0NjNWZJbGxKXzVEWnFKMlMtSjAzMndBMmhCOVktMTNmZ21fREhYRTZGWUFlOHN5LUQ5ZS1OUmZHYndWYTlSOFBGWjdHbmRnR0FGT2x4NVJubG4tMWVjOXhsR2p0ZU9nWldfYzk?oc=5": {
-      "title": "決済技術で購買体験の摩擦軽減へ、金融の変化に対応するJCB二重会長兼社長 - 日経クロステック",
-      "company": "ジェーシービー",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-20T23:36:07.731422+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hbHlWVXFVUjd5LTZkZTFscUhvX3REcUFaYWVLcGZRTDlDOUROSW1La1RUQlotWVhDODhVMzg5bUQ0Q1FkXzJuV1U5Q0J2ZVFqRTFIalVoY3VZVHpURXhRdmpYalA0cjVCOEhhdw?oc=5": {
       "title": "NTT、福岡市管工事協同組合と共同で光ファイバセンシング技術を活用した給水管漏水位置特定の実証に成功 - 日本経済新聞",
       "company": "NTT",
@@ -1901,7 +1823,19 @@
       "company": "森ビル",
       "source": "日本経済新聞",
       "seen_at": "2026-10-27T17:28:13.689173+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNXYycHNhdHhKaVl5QjBiZkhLRUs1RVFRcEExdXFkcGlNWXQyV0JVMTMxNWZkaldNQXFQVXQ0Q212Wmd1dHdfUTg4NHNUSHlGbW9MOEpOdkdFUEl6N2VWNWlyM01FMk04STdWMUotVmJxbEdHdXFyTVZua1BvN2c?oc=5": {
+      "title": "27年1月以降のEV補助､車種別一覧 トヨタbZ4Xは78万円 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T00:12:57.677995+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHdYM1hHVDNKaHZEX2t1WklZenBsdzJERkdqT2dBcUdURXNXaWJ5am9PemlTbU1qYmY2aXF6cnEwdFlyM2d1bXlMQTZEQmxVOEk3Ul9JZGdHZVIzZ0p0VEQtT0ZxVEhlM2J4V2ExbC1ZN2hOcUpzc3MycDBfRDM4ZEU4UGtTZXM?oc=5": {
+      "title": "東京科学大学など、低温下で高イオン伝導の材料 SOFC向け - 日経テックフォーサイト - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-28T00:12:57.677995+00:00"
     }
   },
-  "last_updated": "2026-10-27T17:28:13.689351+00:00"
+  "last_updated": "2026-10-28T00:12:57.678287+00:00"
 }

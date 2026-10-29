@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ME1RdzlQV2pkd0FNTkNySGt1SXFnMkkzYzRWb3RFcDJCQmNxbU9DcXpwU1o0T1NwZ2dpdXo4UXFfZWpNdHV3SE12bFpRWVdEdDR1blV1OGlGREx1QUJfT0pidDVfQ0tLRU5QSA?oc=5": {
-      "title": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WWWtKWW4ydnJsUDV2eGZwOG5vNmtNWVplRmdUbEZmZHNIbFFoZUp6ZmJRcE1WS2RXMThKWjgtTXlaZFQ4azdpdF9xa19tMmg4UFF2WGtRTFBoTUYtZzNxMkNoU1pFOGkteDU0?oc=5": {
-      "title": "NTTドコモ、大規模フロントエンド基盤「LAMP」にKongを採用 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpb1VsUDRrWGRZbWh6dFM5RHY0RzdVRUI3S0NXWDdEcFVlRVZuMF9GOWI4a0lONHBvaTBPQUpOUmoya2FMTExOUy1kU3hiMTBsLVEtVGNMQkpzQlhkNEtxNUYyQ0YwVUVEVEZF?oc=5": {
-      "title": "楽天ROOMで3年連続受賞のインフルエンサーsonocaさんとコラボ！「まるで“履くおふとん”」親子で履ける機能性ソックスを10月24日発売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKSzZHT1dra2dLNDlWTHlfWnJZaXpuRXpBME1FaUo0Y0dVdUJQNkVobGNkWk5HODFZVzNrbXV5SzJzMG8tVU1lS0thT18wRDFXRXpyaWhlbE9KbzcySEFXWlJDN1NxMXp6XzhN?oc=5": {
-      "title": "ホテル代の支払いに使うクレジットカードは「楽天カード」が54%で最多。メリットは「ポイントが貯まる」が約8割【200人実態調査】 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SdVJ2OVZfd0prSU9VWFFxRVdvSlNOS3VpbDRWOVAxbEZUSV9zQ3lqUW5heWU4amMtYmwyVUtDQm9aYmlpWEQyTm1kY2Y3VTkyLTBycHRnRHM2MEJLZ0U4YUJoS1RyMmplZTNj?oc=5": {
-      "title": "イオンモールかほく パブリックビューイング開催記念 スペシャル企画実施 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Q0JkZllMX0Y2LUdHSjN5OGpBR2tIWUFIaHIyRlFxa0E3M2VjVEt0MDlDNmxWYTQyRXlySkVwdzJBMy1rUWx0WWJYVmN4Z19UQWp1TTZ1cXluSUhwdUx1WTVuUkllcHJHS044?oc=5": {
-      "title": "【インフルエンザ・新型コロナ・ノロ・O-157】4種のウイルス・細菌で効果を確認した銀イオン水「CERAS」、冬の衛生管理に飲食・介護施設向け提案を開始 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSlJhMWxVWUtSUldhQlU3d0FqQjFnTWwwWWJkbjNNekR1U0Y0RndwZmtoanZPRk9xaFVqM1JTZWczeENVQzFidUpvSVplTmZpdUNlb0U1SXVJTXg2SExRUllVZkw0STdIbWlv?oc=5": {
-      "title": "NECのJR東日本向け顔認証改札機が、2026年度「グッドデザイン金賞 経済産業大臣賞」を受賞 - 時事ドットコム",
-      "company": "東日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSjN1X0NUR05jSW11cktWSXFBcERBZmxKRWF0QU5henM2clRtbmlqcWhkejZxbU9nVzJfcnJ2OU14cW5TZzhTQXMwU1ZCdlQzdU9xWHhZYVpBYkZDbVZQN1Z2RnFQN1lOT3c?oc=5": {
-      "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年10月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RVFdvdkZFelhkTWRnaUJVXzRXcnRjRnlXNTllbEFqcTBDUzY4MEZrV0UyRngwdWhibXdfYXZaT1ozMEkwTTZVNmZ5N2lNdlhVdEtpeUVnWkI3aW9qenNpanZVOE1venVfbXFr?oc=5": {
-      "title": "【続報】「Conference X 2026」みずほフィナンシャルグループをはじめ、登壇者が続々決定！ TECH PLAYのメディアスポンサー、ZEALSのスポンサーも決定 - 時事ドットコム",
-      "company": "みずほフィナンシャルグループ",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lM0NSckN2OWhOWTR2OHJMUEpPZFV0cE1HcmxRRHVMUzUwUzZtVlpjZGNLRndTOWxodW9PTjQ0dllKVXlobmlycWU1dC1yWlltTGF0UHVlXzJyTS1mTVREdnR1ZktoYzhVY0E?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：BASE 株式会社株式（証券コード：4477）に対する公開買付けの結果に関するお知らせ 2026年10月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFd3F2dmtWVlNib1pwRTJGVm1NcGtQZ05yWllfN2ZDUGtHQi1CZTJrd01lMGZiQlFmNk5Ibm9CZkhOaS1hNjZaSzFVaFRrRUNoYWoyV3JaaUtDbFRuR2NOQmRtblM3QWxiRjBTNg?oc=5": {
-      "title": "江戸英雄（三井不動産会長）私の履歴書（1）土いじり - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jT2xLVmNRWGt0MXFHd1dITlZXZm1EaW5WLTc4bTB2bzNnMUF4aDZzOWMwQXVzX29xandSamgxVEUtbGI5UTFlalAzVWpIUWV0ZW9NMWo2NDRvbzBiMl9jdg?oc=5": {
-      "title": "江戸英雄さん（三井不動産会長）が綴る半生 私の履歴書 1980年5月3日～6月2日掲載 - 日本経済新聞",
-      "company": "三井不動産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T03:18:06.739308+00:00"
-    },
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sX0hJS3JkWmUxVkpUNEZKVzM1ZnR1dmVEU1dnZUQ0LW50enlCT1hvQzlIVmVNSnZVaUpyTVJYMDYxb3l0MDlqOUtGeHI3Rl9HaUV3Slc1RXRiMGQzMUJaLXFRUll0YnZWR25tN1VNWDhibEVTcUlZbldoNVY?oc=5": {
       "title": "三菱商事、AI活用と「考える力」を両立 誤情報と格闘させる新人向け法務研修 - 日経ビジネス電子版",
       "company": "三菱商事",
@@ -1949,7 +1877,151 @@
       "company": "イオン",
       "source": "日本経済新聞",
       "seen_at": "2026-10-29T00:33:26.119003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzSmN0TjBrUGI1OVY2NGczbEJyRG1BSjI4ZW9vVmxlODhLY2ZlOFdDMndWVVY3V0J5YjRjcEJVY0JPZVR5MkVsNS02dUJtaVhyZmFreE9pb2JKMm5CQThhbGxOaUlRS01qbEwwYg?oc=5": {
+      "title": "NTTテクノクロス、「ForeSight Voice Mining」に「AIナビゲーション」機能を追加 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bU1iMmU2dkxIMlFkNDRCZUlNa1NZZEM0bGI5YU4yM1BEV1NMeHhCSDliNDgyV2o5d0I5Sy1zN1pYby1pMlJfb0ZyekpPZzhPVzU5YkttLVhub2pkNXZXOHdrUGdIUjZVR25N?oc=5": {
+      "title": "NTTテクノクロス、「ForeSight Voice Mining(R)」に「AIナビゲーション」機能を追加 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTTVpfRUtNM1ZKWXY0Uk10SUlmS0hVZHhEVmp0NU1ia3hlcFpNUFlBZGN1dnlsTEZwTEppZFNxaUJpSW5YcjdMWXNJa0RqZk56bkNwVy1jZ1JsUWhnQ0J4SWRNbDBCZzlnYmM4?oc=5": {
+      "title": "NTTドコモビジネスX、「MDM（マスターデータ管理）実態調査」を発表。回答者の約4人に3人が「シャドーマスタ」の存在を認識 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TNEptM3dRSms2ZWtEZlFMbEFJNmFjM20xZDBsNUV4bHRGRVoyQTE1YUpERDNuWUkwemJpV3pGbVp3aVd4SXBfT0pLbnA2VXZ2YUZWb0NsZGl3VDN6STVIbmE3X0JYREtJTGdz?oc=5": {
+      "title": "フジクラ、Proxima Fusion社とドイツにおける高温超電導線材の製造拠点に関するMOUを締結 - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE84X2xiNXlhQnNCUFBvbVhtYk1pX28yU3J5anBJcGgtRGdHVDdSLXNhd1Y4RktFS1k2ZUZFNFhTYkVxNGFlU25pOGNjRkRYZDdhQnNjQ3RpUkNGbzRLSGVWM00xTXVSd1VXdmZF?oc=5": {
+      "title": "TOPPAN・神田カレー街活性化委員会・東芝、「神田カレーPay(R)」×「どこチケ(R)」を連携し神田エリアの再来訪を促す実証を開始 - 時事ドットコム",
+      "company": "東芝",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvdjQ1OXRqRmxkYmVsRGtvQUxhZGZCT3lGcHZEV3hJelVSVk9fLUNwaEwxQlhfVlg0S3lLbjNPdjBzX3I4ZERJUVdEZDNqaVJqLThQRWRYUzVWOVZGMXdTYk1zTTNGTGktQVJacA?oc=5": {
+      "title": "マツダ系2社、トヨタ紡織とシート開発の集約検討 共同出資会社設立 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXBrbjJVTFhsSTQ4UngtMEU0RGE5SGF3by1KV2IwbTk0RFBtczJEZEx0QzVka1NuQ0VGNTBlNHNESTF2UnA0cnpORlZYVGR1YmEtSnJETklqWE1yZGYwQlBmSDdsbWV2NG5reFl3SlRuOXRwNzBLdExjTC1ZTjVaSFRXeU9fcWVBUW4zbmoxVWlMQURLQnFSZ3Q4LUsxMG5US3I3WkVfcnRkOHgyWU9vTkNLVVNRTkxqcDM5X2FZZlBkZWFFYUwwd2NpeXA?oc=5": {
+      "title": "アイシン[7259]：2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結) 2026年10月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TR2E0dFpPV1ZMbmpNT0VTT1BDVGpERTlpZkRMUkxLbFhhZW5meEJoeVQxWkFHTEZIUGh1bHZQUXNOWlRwOWZUeENPWmVWdGI2cVlkY2wtWDA0aEFyalkwZjBKdGkwd3lvSUE?oc=5": {
+      "title": "楽天Ｗベア - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5waENvQTc5NWh2ZzczTFpTMzF1MUlJc2dkQlRyQ19OLUFoUnRuWWxOdGNYdUVleE5YMVRtcHB0RVRtWlRXd0hBRVRULVB6LTVWTnlHdi1Wc0VZWmxIMms3bVQ3YmpKZnBDbkE?oc=5": {
+      "title": "楽天ＥＴＦ－日経レバレッジ指数連動型[1458]：2027年3月期 中間決算短信（2026年3月16日～2026年9月15日） 2026年10月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5VThGSVRhcGVncEVQSE9vcHBrc29nOU9SU0xldy1YamRlNVlhVlpqdEtnTUFHNDVpZkZ2Z1FxNVl6dFdSX3JXazVXTVAyTXhaY1N0VzhSLWs3TmxEQTRUYkpoTUh0SVZIZm1V?oc=5": {
+      "title": "●新商品●「日産スカイライン GT-R（BNR34）」を立体的に再現した新作キーリング、楽天市場に登場。シリアルナンバー入り、 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsaTVYTWNBcUk5ZGlLaGFVWDltWkJ1aEI1NVVqNmVqeTdUSktReng5UkZzZUpuRUR5WGtoNkFuTUY2ZFVOU3A5a3Bqbnd5cVJXR2Q0RkFIRkV4ek1nTTJVV1M1cGNBOE93QzNn?oc=5": {
+      "title": "イオン物流構造改革の次世代自動化モデルセンター「イオン川口東XD」稼働 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YbmRSY29GTEwxZjBGNmp6dTJxRVd0T0NZYmZ5MGNrRkxpVUpCTWswNU5iMFppZHhRSzhuR2JHSjJnZTQ0eExSV1BqMGtrZ1hTSGw4bGhWSWtYZ3hMdFE3R2VUZU4xdHhyZFZr?oc=5": {
+      "title": "NITE講座で、エレコムのリチウムイオン電池搭載製品における安全対策と品質管理の取り組みを紹介 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSEt4RkJDWHM2ODIzNGdvWVdXTUYzNEljdW85ZnFtZ2diNlh1bHk5a2pSVlJEbzk1NmRPYndmNzIwVHE0amxFX0RheGtnZU5jOVV2bTJfc1pXNVUxSGZGa1htRWFvS3RsSXhv?oc=5": {
+      "title": "＜宮城県 仙台市＞「保険見直し本舗 イオンタウン仙台泉大沢店」が2026年10月30日 金曜日オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaUt6Q0tLaEQxZGZtbkYzMm5ERUd6aVZ4Y2d2VktrMTJsU09wZ0xGMEZnanpsTWxmQ3daVnR3Mk5hU2pPMHRxd3hVUzJ2X0o1SjFtanR0Ym5wTUdGb3RvZmw3UEpzWHlsQXlN?oc=5": {
+      "title": "イオンファンタジー、「こども車いす」の社会認知を目指す取り組みが、「プレスリリースアワード2026」にて 『ヒューマン賞』 を受賞！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUDNhSUgxWDlnY09rNG1tdG95bG5lbnFVVlBQZTZBV0ZadExJQ0JKQ0FvOURNcWV6X3FfSVJpTm5EanduWVFJMFRxWTNFRXZBMjkwZ2lNVi05dzE0WmxzOHU3YURoblpZdDlz?oc=5": {
+      "title": "絵本専門店「MOGUえほんランド」が、イオンタウン吉川美南に2026年11月1日（日）グランドオープン。人気キャラクターの撮影会＆握手会イベントも開催！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zWFhRZ3lPMWRMWllES2NaaFFQdUk3WnlZdGdFYWx0bHdPUHY1QmhnQ09YaS1zNVJzYXVTZkp1NDQwdjJ2bDV5czhLNFNhMVlSajRoR0FIZTNxa1JTTlBUXzJkU1l2QWRwdVU4?oc=5": {
+      "title": "〈Kodak Apparel〉11月5日（木）イオンモールKYOTOに新店舗オープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WdmY2bXlvN3J6eUtTQnhEUXBNa2dFcXB2U1B4QzFabG53RDUxdTBjQkYxdFQ0V3JfZzVoZDFFeWtQWWMxZVdPTGFqa2pIdkFuZmQ4WklweE9jQUFobkhJcFRIMnhIeFJKNWJV?oc=5": {
+      "title": "【山梨県初出店】1日滞在型こどもの遊び場「のびっこジャンボ 石和店」イオン石和店に12月３日(木)オープン！笛吹市最安級！低価格で丸一日のびのび過ごせる屋内型プレイグラウンド - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYUJHY18wVlNJN2VOVkpZblZXUVExTm15UEFGSndWczJiSWhnZVVPT0FWa040QlhXNWVLM0FOVmJjSDNVU21ZOW8yWGZwaEN2cDdpR0k1OThxTDVobGxHTUNRWVVKRXpuRkE?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdnFEV3JiMm4xSjZtc1BoUm1za0NZTHFNbG05Zlk5dnk0aVpscW1PTGwtVW1XLW5ibTFCMVVDQy04OUhUTEtPOHBZWTl0LXZCaDBuallPclQtdFdnSmlZaUdSSWxDUVQ4eFE?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMang0dWtJUk5SUUk2V3BWUHIwa2o1TG5pQzVpS09HamhLY3o1VDNnamJKbUlzbEF2eUdITGZBMW5TamxWSy1RNEtMZ2ZTYnVLY1o1Ti1PS0lhQU9lMjl0UnRRVmZSU0Y2WlE?oc=5": {
+      "title": "イオンファンタジー[4343]：山梨県初出店！ クレーンゲーム専門店「クレーン横丁 極(きわみ) 石和店」 12 月上旬にグランドオープン予定 2026年10月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KZzRDcDdTUVhXTXJ2WmFvWWZFajJNZy1HVDFGTGpZSHFxMGVkRExXLW9aSGtPMmw4R0h1TTZabWJEWk9DZEpSNGozY0ZNUzRwamFGLXFDdmF2Y0l0WVdrLXFtaVk3MXZXOXVB?oc=5": {
+      "title": "【JR東日本おみやげグランプリ2026 エリア賞（東京エリア）を受賞】東京でしか出会えない、抹茶と苺の“和”チーズタルトグランスタ丸の内店 限定「焼きたて和チーズタルト 抹茶いちご」 - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PWGFFb2lsWEFDVFJLQmFfakdmVUF0T0F2VXNndEhyQlE4aURvVjhrVXQtV1ZubElYbnJPWEZSX3ZpbXVQRXU4YmdaZ0tGbWFnUDByVmREUlMybzVUbVEtUnZ2cjJUMkUwcHZB?oc=5": {
+      "title": "近畿日本鉄道の観光列車「Les Saveurs 志摩」の車両外装に当社塗料が採用 - 時事ドットコム",
+      "company": "近畿日本鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oYVdncXJjZDE3cTUwbm92ajE0UWJqN2FxSG93Mlh3ZXpkYnlPSTNZcFhzNnp1VGRmVmQ2Z1d3cW1idV8ySG1hb0pULTRjUmZYaEdMT1RWMHdaM3psU3QzUEtMekdCTzFiTzdF?oc=5": {
+      "title": "三井倉庫、韓国 釜山新港にて新倉庫「釜山新港第二倉庫」稼働開始 - 時事ドットコム",
+      "company": "三井倉庫ホールディングス",
+      "source": "時事通信",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBydzM5YV83R1I4eWNidnI4Z2JHOVdzNnBrTThzOEk1ZWtQMlhLbnZfLVJTd3FObVB3cUZjdHJEam50eUEwR2lkUG9kRXVTX3l5QlhqZlJiRGo4cUFGUG1DekNOcmtaUmcyM09vSw?oc=5": {
+      "title": "東北電力ネットワークと日立、「変電設備状態管理システム」の機能追加について発表 - 日本経済新聞",
+      "company": "東北電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T04:23:17.701814+00:00"
     }
   },
-  "last_updated": "2026-10-29T00:33:26.119284+00:00"
+  "last_updated": "2026-10-29T04:23:17.702137+00:00"
 }

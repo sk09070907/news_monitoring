@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LY0p4QlJIZzZiY093QkY4NzVJRENsczJrNVBnaEpwWjhCQU9BZkkxVmNzMEZ6MGRLMzhJVkRGdjdiVnZOOUFPSlppd1B3UE5PRkx1QzNBOEN3V1hQN3A0SE1HRmRHWEFjcHhCTg?oc=5": {
-      "title": "JX金属と日本製鋼所、AIサーバー向けに銅合金5割増産 耐熱性に需要 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T16:36:52.505275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0t5VUZaOVdETFZsOEk2YWZka3g5cEVwYXh5Z255SHdfbWtFamFzY3V3dkF6R2NvQ3dHT2Z3VkNibmNYYTZYV2ROeXBPbDgzVUFDWFozTWUxNVgtYlRvSkdIZEZhaWI0WGIwNy11T1VaU19vU1RkTGRHcU82aUliUmNIWDNNanFtZXNCd0w5YWt0Tlo3YWtmUlNfVVl3cUo4dFhVcG1NOEtLa0ZXbUVqU2FCTjhEOGVGaUcyZFA0WFU?oc=5": {
-      "title": "IHI「アンモニア燃焼」開発物語 - 日経クロステック",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T16:36:52.505275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSHQ1QnlMVExXT2ZPYWROWDhscFU2VVpxcUdhZV9EaE1ad0dSVlV0Q0FiZlpzTDBBYkJCRS16eEtVNnQzTkE1V3dYbl8xTUJvY0dQYg?oc=5": {
-      "title": "◎イオン、不正アクセスを検知 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-21T16:36:52.505275+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PM0VzbmdLRFRBMzA5cndYdHJSWkwzbVRzRWpMV3g2WXZMbmtxY0hsVmJFbWZUVGxUTFR0M1ZKUndCS3JTMU5jS3V0NUlZMmcxRF9vRmoybW5XSmFNbFBTZ2h4VENjSEM4THhSMw?oc=5": {
-      "title": "NTT、10万人対象にグループ会社間の異動制度 40年来の縦割り打破へ - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T23:52:48.227942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUUhEdHhKXzNzaHNBbkZqeXRxaVBOZ01RZjc3aE9FQ0dnSDhiZEtZRjFqNGxzZHExM3NyQ05GNkotVFdzZXZCVUF3eFRzaW9zQm8xMFJpV01nVmtFTEYzQUNYNWMyQUpCeUE?oc=5": {
-      "title": "アルプスアルパイン、光電融合用レンズの生産10倍／人工光合成、30年代にも家庭・産業へ 光でつくる水素とギ酸 - 日経クロステック",
-      "company": "アルプスアルパイン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T23:52:48.227942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUhtNURTYVpsMGtPcmpWZ0N4aEhnZXBwNUdUX1B1RmZtU3JydlAwUWRzS2hyaDhHc3BZenZGaVllN3JMU2tIb2lDbmhWSE1HSU9RbG0xTzdyTktJVUVFdXE5OHg0d29aSDlKNlNHQTg0Mkd2dXpoUGlKSjA5aWFhQ0ZJTmRQSEpNR1NSUTBLbUN4Snl6N2Q3WTlVWjdsNFI0OUthMTdFdGM2bVg2cjRoQmNfZzJ6eHZaSXNOelFhUF9XZw?oc=5": {
-      "title": "IHI「アンモニア燃焼」開発物語 - 日経クロステック",
-      "company": "IHI",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T23:52:48.227942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMFgtOGJQWHFzdktfdnNOR1RwSFZaZUd2TTJKZTVSQm8yTVF1VXV1bm9pM0pVS09ZZGtlX1dYdVJiMzE0aENkUTV6Q2JJaTJaVTk4YnZOUDUtWVBXVzQ3ZXFlTFVJWFp0Y2dhUg?oc=5": {
-      "title": "トヨタの次期カローラ、電子基盤は4ドメイン テスラや中国勢と一線 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T23:52:48.227942+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Jdy1HejA0c3lsZEhUUUZ4NXo5d2xCaC1jRGxobUZLZmxyTFpfXzVDTVNoaU0tN2kxTTA5QkNZRTNydkJSa0NUZ1FPbzJXOVpyeWlqb2xyT3RJN3Z0eHdKTW13eG5HUlE?oc=5": {
-      "title": "「短期は数字で、長期は言葉で」 関西電力・E-Secondが得た経営の軸 - 日経ビジネス電子版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-21T23:52:48.227942+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ME1RdzlQV2pkd0FNTkNySGt1SXFnMkkzYzRWb3RFcDJCQmNxbU9DcXpwU1o0T1NwZ2dpdXo4UXFfZWpNdHV3SE12bFpRWVdEdDR1blV1OGlGREx1QUJfT0pidDVfQ0tLRU5QSA?oc=5": {
       "title": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 - 日本経済新聞",
       "company": "三菱商事",
@@ -1967,7 +1919,37 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-10-28T12:08:45.788509+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MaXdaNXpESXBFSE0ybVhEYy00aUdVdjE1WXdrT3BGQ2dFU1BFanhtTDY1YkhwRzRWTzZta0xUaUVmUDlYb203cHF0UjRuTlFGR1kzRDZyTkhrdmFxWnZ3aVV0S0M3TG5haDVQQg?oc=5": {
+      "title": "大企業年収、非製造業1位は三菱商事の2112万円 2位に三井物産 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T00:33:26.119003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ickNEbmhRRXQ1VXpSQkVYcmNCV2Y4cUNzcmJ3VkhRaG13bm4yRU9ORmRQVTM4OVJSTy1BZklCZHFfWmdmWmZjVkxWcFdMdHR0SFZmSWQzNnRwUWtsU3hTOThOVVhCSnB5cmhhNA?oc=5": {
+      "title": "アサヒGHD、国内の中核事業会社で新卒一括採用 28年春入社から - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T00:33:26.119003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1idzJSSG4yX2JacWxjcWt5bnRaaEpPb1lqRndhNVlmZ0VKQ2V0Y05xQW01ME53ZWNMdFcyT2txR0pmZ3NrX1BaUlVWY2VwWlJWRHRRMDFXc01KeDRPMUJkWk1lN1ZaWjlPZHpieQ?oc=5": {
+      "title": "JFE、高炉の12時間後を仮想空間で予測 不具合はAIが原因特定 - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T00:33:26.119003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBadTdmRmR4ZkZBamg3MTNtd1hmQm1XTjZQaTFRMFFiaXVlOWVUQkV6cktnY3FYMS1tYkVvT2p0aE80Vkh4SjJGbjVqV21SWmhSck5kaXVfbDF2M2h4TE9faGJyamZxQQ?oc=5": {
+      "title": "イオンがネットスーパーにエージェンティック・コマースを実装 - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T00:33:26.119003+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXBKUkNUckpjMHh1Y21TVmJoUlU0R3JiNGxQUW4zSEw0UmE4OXVtYU9JSW9MS2hPRFh1RjZsVjUyX0h4RGtSbUVma1I3SDZvX1FhdUhZRnhYZnRNVXNkYk9kLUpWXzM5MHhsNlF3MkxEWmU0aWVZUXBBVlV3LUFKRUJFX1FUcl9CNy15QkdId2ZhVFVVV3c?oc=5": {
+      "title": "イオンがネットスーパーにエージェンティック・コマースを実装 - 日経クロストレンド",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-29T00:33:26.119003+00:00"
     }
   },
-  "last_updated": "2026-10-28T12:08:45.788925+00:00"
+  "last_updated": "2026-10-29T00:33:26.119284+00:00"
 }

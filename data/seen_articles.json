@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxaFR6UEVfbTNQNFBneW9PYkcwR2NIbm5keTJKLXg0Y2VmeEFWREtWYkJBTDVVRWlsQzU2OWpmczhqQ1FsN2tiUGhMWW5rSjBabWo5QWhWemVUcHp5NGtraFFHMlZvaUU?oc=5": {
-      "title": "三菱商事、AI活用と「考える力」を両立 誤情報と格闘させる新人向け法務研修 - 日経ビジネス電子版",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIQVZ0MThxZ2taZ21oWDM4Vmo5R2R5Y01vaXJlNUtobzNPVEFUTS02N0s1b2w2bXJGNEE5NzJGcWs0NWozOE51aVQ5RnpacGtKbVpiTE42bWVLQl85RGJqcEJSV3duZHU4NWh3dA?oc=5": {
-      "title": "三菱自動車、オフロード車をホンダに供給 非トヨタ陣営が鮮明に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFRVlFdlIteXNzS2tOa2NXekowT3N2T1h0amQ5TTU3TjVUUmxSQnphNHhzOVltN09XZHliV3RPczZUeHlESmJKczFkUVJUWDM5ZkdIeUd1cXlzeWZrNHU4OG1DdEotTGdTM3E0bQ?oc=5": {
-      "title": "イオン、ネット通販でAIエージェント導入 対話しながら商品購入 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sWlE2cmpock5mX05ZeXhhT3hmYkQ3S2tlTnkzRjk4WFNpSEU1Umdvekc5eDRIZTA3YUotNmp3M2JPVHZ2Szlwc1owMi1JRFpiTnBDdw?oc=5": {
-      "title": "鈴木菜巴、予選前半４位＝新体操イオン杯 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcjZldmpGYU5Yal9tVU05ZER6emh6aTdEX0cyWTdLalF6Yzg1MUltVVVZOVdjSWVoSVJqeXBwQ214SU1USVVON2FXampoQzNNS2ZjZA?oc=5": {
-      "title": "◎イオン子会社、ネットスーパーでＡＩと対話し注文 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZVW9pYXFLRmZTVDN0bl9jUjVIakZWczFpUjlQRGpiNWtSTG5PSUFDbE9rZEFnTVpiYzNER1RrTGdrcFkxLVozbnBCMzVOMWRfVkJNT2VZTEVEUVRpSGl1aEFMZw?oc=5": {
-      "title": "鈴木菜巴、予選前半４位 新体操イオン杯 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xWl9lZmxsRG9od2lnaHpwal9BZ1pOTkJfTTBIcEhTa09sMjNWaDZvOWV5WUZpV19saFVicElvcWhldkpfRWdaemxVQ3VLTVpQTlhJNDdBV0tMQVVxNUE0eGsxd2pSTjBON1I5dg?oc=5": {
-      "title": "PHP脆弱性、東北地銀がホームページ停止 東北電力や自治体も影響 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YNnV6bTVudmlYR3A3eFYtVEEtTTYxeHFHQlppTFozX3gyRUVDTUdnaS0wRmN0UWwwSkhzU2QzeHYyVzVHYkpDT0h5YThPeC1pWVU4cTdQdUdKRml3TUwxQ2tfSFk?oc=5": {
-      "title": "画像・写真：オリックス１位の角田：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vVkVydDlOaGVHc2pRR1B3QXNZQ0FDOUdaMGlUdkdBb0dqQUVHYnNPaVM2OXFmQi1PM3FLTlhycFFCWlRDZjZyQUJocFJVVEhRMzdpNTdDMVhVVlJaVVZJbWpCU0Q?oc=5": {
-      "title": "画像・写真：記者会見するオリックス１位指名の角田：時事ドットコム - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T16:38:14.595883+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dUJURC1NZmljR0ZDZWFkWWQ2dkdITmxsSHdTX3NOUEg3STd6TEUtcVlQLVNlTDBIS2NNc0J0OWhUT2FoQnBuRWM0cnlaNmlzNnNUc0thc1BpWUNVUUg2c2FsOTBIQ3RVVmFVRw?oc=5": {
-      "title": "アイシンが脳を模した周辺認識、デンソーが産業向けLiDAR ITS技術を披露 - 日経クロステック",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T23:49:42.936072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DejRVVmRJc1VfME5zbkhoQW5Gc0lXSzhNREJtT1d1Nm1pWEhQWFl6X3RYSmx6YVlxNTFVZnNEMXh1UmVJbkZVMUoweGo3R0p3MHBCMXBhVTBwN2NhUG5yU240QWlzRzRNcDZwYVVKOA?oc=5": {
-      "title": "鈴木菜巴、予選前半４位＝新体操イオン杯 - iJAMPポータル",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-22T23:49:42.936072+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnRTcHM0eTdTOXZKMExISmZWQjVJcDg5aU5HdFlHeDBweGV4UXVkQVktZzlZMzBlQnNkNGRoSzBEVVlJME5QZXMtNmRwQUI2NTJJTEk3dGZDNVRFUGFOWXNuRm9CVF9aN1pfNQ?oc=5": {
-      "title": "日本株ADR22日、高安まちまち ソニーG上昇、みずほFGは下落 - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-22T23:49:42.936072+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iV2V3MFM5bk0wQmROdGh6dFVSWDVRWWVLdWNuSGlMS0k0SzdDTTU1RW9pMzQ5YTNTMFBUY0Fic3EyX04tSUpkRmI5b3UzWHlXeHZ2TlZmQUtBV2ZqaDNXcDdB?oc=5": {
       "title": "【グローバルモビリティ本部】★三菱商事100％子会社 - 日経転職版",
       "company": "三菱商事",
@@ -2201,7 +2129,43 @@
       "company": "森ビル",
       "source": "時事通信",
       "seen_at": "2026-10-29T12:20:24.031222+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mYXlaeW1STk5BUm9DZlhBQkJmQlJHQ3RaU2Q3NDdudXpDUVdrcXFNZmtYRGpteXB0ZzBneUFuLVJ1amt2UEtoY0oxU1dGTUx0Wk1XS0RXR01uWVhNTFFKZmJEUHpzMU5fd011ZA?oc=5": {
+      "title": "電通総研の岩本浩久社長「伊藤忠グループと連携、投資を加速」 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFc2Rxa1N2dkV0ZGZBWkIxeHoxVHB6NnhZcUhRQnB3Vi1SVmhvMmYzd1ctdFoxQi1RVWhLVkhkVDZzMWg4ZmZYWXpDMk0xQ29KbWg4SzJQZERqZVdnMEQ5U0drRFp2T2dNMkxRWWxsRU1NUFBXZFh3?oc=5": {
+      "title": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも - 日本経済新聞",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJYnpHcFVoLTVKemVpd2xzaXZTNjNTeWJ1cWhUU2F1NmstRG9xQTUyN1k4dWpHNnJOQTZyb2Y2bGRtSnVmN3ktUnpvV0lrcGc2TkxvdXptT00xLVlNUHQ2cTFmS1k?oc=5": {
+      "title": "来たるべき大量廃棄に備えよ AGCも住商も「掘る」、未来の資源囲い込み - 日経ビジネス電子版",
+      "company": "住友商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZjQ5Vmh4ejdJa3hhZzRLczZDNHEzMEx2UEVZc3JRQ3JZU3hrUnlpbDktenB2U3loRkJZUm9WaFlPaFlRNjNBYUVNWUdtaVJZMG13Smhmd1U0c09ndEszZmFWUXFRNnp3eE9xVA?oc=5": {
+      "title": "日本製鋼所の射出成型機、AI搭載で温度補正を支援 11年ぶり刷新 - 日本経済新聞",
+      "company": "日本製鋼所",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYWk1MG9CYUlxbnhITU9Uc3Zxc2c2ODVIQlhLNzVVbDVQZ3BFMjVDeHd4Q2hLS1AzQnVEVWxVVEJMMlQwbjZUWUdHX3dvaDc2Sy1pT210WThfanBzMHlac0NwWnBZbExJQVM2aw?oc=5": {
+      "title": "「トヨタ御三家」で働けないなら東京へ ものづくり愛知を選ばぬ新卒 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zMnVreHJYM09CQ3hqR21fSGI3X3draWxVVExqT3dFdGVuaThrOVktVTJqNV9lcklXQ1p4ZEJ1ZWJkSWZzck5oS1pNc3pDTTJGbjVLRC1OQUN3b1RRV0ZiektBZ2V6WGll?oc=5": {
+      "title": "アイシン、ギガキャスト対抗に分割構造 投資抑え高剛性と修理・交換性を両立 ほか - 日経クロステック",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-30T00:33:19.176121+00:00"
     }
   },
-  "last_updated": "2026-10-29T12:20:24.031621+00:00"
+  "last_updated": "2026-10-30T00:33:19.176471+00:00"
 }

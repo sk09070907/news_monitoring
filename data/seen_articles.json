@@ -1,35 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbzJsQWJPWUx1SXdjWjhieDZxQ1VLcEo3UGMzUUZvN3ZaejQ2ZEtoQkFTYXRFck5Bemt0cDRNQ3VSanJxZ2VTT0VTU0FldXdaTXo1dkhYbkN1ZHF0cXQxWk1WNTJCbmNqUno0?oc=5": {
-      "title": "『まさか！トヨタがあんなものを作っていたなんて…』トヨタのマリン事業を紹介する特別ショートドラマを3本連続公開！こどもが、大人の悩ましく複雑な人間関係を熱演 - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T03:17:10.901784+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ISi1haFlsbGZsY0g5b3gxUXBkeXQ1Uk9FcU4ta3RmcFhtOERlMlRnNXdNVXdMMW5HaWJqcXV5TEc2V3ZJUWQ0SWJtTWk2QlQtY0F1SEdVS1AxT0RKeWlSZmhJQnBrS0kyRDJJ?oc=5": {
-      "title": "GMKtec、楽天市場「お買い物マラソン」に参加！人気ミニPCを最大30％OFFで販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T03:17:10.901784+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5waV9QUDZmSTM5MlZ6d3BNZC1sSWstbWkzR0RfeGVJYmhfbzVWN1FQMHJ1WVB0THpjb2RMX0pncWthbnFHVnpBd2FQM0FKRlVfSzVRdWdEaC13bGNWeXMxTUFYbnZkRDVCV0hn?oc=5": {
-      "title": "【岡山県内初】瀬戸内市営駐車場とイオンモール岡山・岡山一番街・さんすて岡山などが連携！JR赤穂線を利用したお出かけがさらに便利に[岡山県瀬戸内市] - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T03:17:10.901784+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYThHbDJfNTF4NVBnNUNpRGVMaFJ3Q2Y5cW5sMFFJR2N0eDhDT2lreHc4NmUtNjdkeGN1eS0tTDJ3NnI3UF92SmN5XzJYV2dXQjJXVmJFdDJ0R1dVVndhckhxOFNpUEZWUWdF?oc=5": {
-      "title": "芥川怜子特別防犯支援官がイオンモール京都桂川にて広報啓発を実施。 自身の体験を交えながら、防犯対策の重要性を語る。 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T03:17:10.901784+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUnp5UXVVMkpubVc2bTBLazJrSldmaVE3TXdYUEo3WC1tVm50QmVFUWF0NWlSSERTTXNyRHd4OC1KakNrb2U1SGphNmxrVVY3TEVVdlR3QXdfY2tST1Z5NHZ5b2dyaXRPWGVZ?oc=5": {
-      "title": "【緊急開催・全国初】人気ゲーム『めっちゃカメレオン』公式のARかくれんぼ「ARめっちゃカメレオン」、10月24日・25日にイオンモール高知で開催。スマホでぬったカメレオンを会場の景色にかくす新体験 - 時事ドットコム",
-      "company": "イオンモール",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T03:17:10.901784+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DaDhoRXpVYWt6VTgxNGNfbzJGR19EeHBNZy1XNmZGZm11OTBwMS1wWGxJb3M0M0tpMDF2ZEZNTlpDX0poQWhHeFNjZ0FCRlFvYUZXM1R1Z3BJYjVEZVVMYVFGdFA5R0tMcEpF?oc=5": {
       "title": "サイプレス・ホールディングス、11月27日開業の「イオンモール伊達」に5ブランドを同時出店。焼き鳥テイクアウトの「炭火焼鳥 銀座惣菜店」も - 時事ドットコム",
       "company": "イオン",
@@ -2459,7 +2429,13 @@
       "company": "北海道電力",
       "source": "日本経済新聞",
       "seen_at": "2026-10-31T00:19:03.714137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WUHRJdFpENXRMakllN1lsVldaYmd1MF91VS1VTlRHVzJtLWc5QThNSGpnUWtPWnlDX2ZlMFh5WEZRZGZxWWVjRkhTSndiS0RXV2pwUllsbE9UWDJpcXdXMlo5cHljTzBscGM0?oc=5": {
+      "title": "【岐阜県大垣市に初出店】無人カフェ「セルフカフェ イオンタウン大垣店」10月31日オープン。学校帰りの自習やテスト勉強に、Wi-Fi・電源完備で駐車場あり。個室ブース・会議室も開設予定 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-10-31T04:01:51.688869+00:00"
     }
   },
-  "last_updated": "2026-10-31T00:19:03.714511+00:00"
+  "last_updated": "2026-10-31T04:01:51.689161+00:00"
 }

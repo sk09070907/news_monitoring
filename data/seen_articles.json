@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qLTJNOEFSS21TRE9xQWU5ZjF3dG9mRUhrVlh3T2ZCMUEwNTlCcndfQzRJd0pwMTZFZkdrQllYNWJXam95VFFDLWNiUS1kZXdBdzIzR2pyeUJla0pxOEZDdXZUZC1CazZid2lnaExPVQ?oc=5": {
-      "title": "鈴木菜巴が前半１０位＝新体操イオン杯 - iJAMPポータル",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T22:49:41.117162+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MENqTGRRYWoxNW4xeVVfNjdDQTVValZyM1MzSTE0cHptbnlJamtlMEQyWFQ2Q19XUjJ1MVdrTGgzU3lfVmRhcWdpWGxRSWJiRXR3Nlk0Qk1MTkxjWmJuNjBtR0wtU1dTM0Ew?oc=5": {
       "title": "【MOTTERU】10/24（土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
       "company": "楽天",
@@ -2417,7 +2411,25 @@
       "company": "東京計器",
       "source": "日本経済新聞",
       "seen_at": "2026-10-31T16:49:10.920274+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11LTBRMU9NSzhvLVE2UHBBT2Z3UlpoZE9lY0RCVExhaGJsRmZSSHRYbkdRX0RqaE1XUXc4aGNydHh2T0tEZ3c2dEp5bmhOUlN2cDlPb0V1bDQzQkJleTJpYnllNExNbGVkaUlXVQ?oc=5": {
+      "title": "伊藤忠、訪日客購買データに照準 免税新制度向けシステム会社に出資 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T23:54:58.690940+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZX1hJSlkxMHBsMkRVdF9QYkdfcTdmSU5yWENfZllBcmFMc2Y2enJ4YlNkYmk0ZnlKczNuSzlfeTZ2TE5VT2Mzd2lCQnFUdy16M2UzekdMeFEyV2RKMTBTQUhCejUxb0NHM18zWQ?oc=5": {
+      "title": "NTT、サイバー防御へ企業の老朽システム刷新 国内6割が保守難しく - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T23:54:58.690940+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE94SU5neEVFb25FcTlZaHlEY0F2b1QwSTVyaGJ6c0NWSzhvbS1UQnZpSVVXNjNySVh2RkZCM0xSaG03NjN3c0U2Xy1YckVCVjZVUlZSaG1UNl9Yclh0UlhBOGZQMWNyYy1qZFFMLQ?oc=5": {
+      "title": "トヨタが5日に4〜9月決算発表 中国販売苦戦、堅調なHVが補えるか - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T23:54:58.690940+00:00"
     }
   },
-  "last_updated": "2026-10-31T16:49:10.920571+00:00"
+  "last_updated": "2026-10-31T23:54:58.691290+00:00"
 }

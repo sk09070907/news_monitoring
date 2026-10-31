@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYktRVTNNZUZXaHAydE80VlNGZ0VUUHhfNTZtSUE4bXM0TG84LUlNWjdOYVFHMTBEVGlDYll3UU5MOE5TX2FwTHRHZVVjNUZuX1RXYWphQWFFdDBJS2pjbTNjbG1TX2U4eW9wUg?oc=5": {
-      "title": "「なぜうちが？」と驚きも 三井化学が「子育てしやすい会社」2位に躍進 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-24T15:23:11.300073+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lazJQSG9wdmtyRHpOa3VZcmw3NS01WVFyTC1pLVZuTTVDeDFBRGVCb1FDdkFQb0g3eXRKX1ZNbEJ1TkZsNGRxbmgwdWVieUpjUndCdA?oc=5": {
-      "title": "鈴木菜巴が前半１０位＝新体操イオン杯 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T15:23:11.300073+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wZ2V6dVM5S0VUYjhUZHBjV0pYdVh3NHlaSHR1VW81ZDQ2X0UwTlFqMzNmcjFVTTAyWTFTamVGZnRzcTlTUzNFLURVNkF6R096Rm4zUDZPN2VFOE9fUXd6YmRxMA?oc=5": {
-      "title": "鈴木菜巴が前半１０位 新体操イオン杯 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-24T15:23:11.300073+00:00"
-    },
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qLTJNOEFSS21TRE9xQWU5ZjF3dG9mRUhrVlh3T2ZCMUEwNTlCcndfQzRJd0pwMTZFZkdrQllYNWJXam95VFFDLWNiUS1kZXdBdzIzR2pyeUJla0pxOEZDdXZUZC1CazZid2lnaExPVQ?oc=5": {
       "title": "鈴木菜巴が前半１０位＝新体操イオン杯 - iJAMPポータル",
       "company": "イオン",
@@ -2429,7 +2411,13 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-10-31T04:01:51.688869+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDdmU0hSbEtXREpYQnpBWElzSzVnaE4zVzhOY0RmVFRuelBmeTFSZzB5XzJ5RHN2OXZhMFVUNjEwRlp2c1RfUk9tU0dpd0tGVGQ4dmN4S25hNUFybDJMYlM5T3dvN1BFZm1vZDkwVFJqQ1ltMm1CTXo4S2hqcjltS0pZaV9NRnlDWjBSTGhKaFF1dHlpYWRjaUZjckFNMzFxUjY1TEg2T3dQOVh1aGxzR2wxeDl3ZGhDRXZsNmJNVEY4UVBZdjJocl92NEY?oc=5": {
+      "title": "東京計器[7721]：東京計器レポート2026（統合報告書） 2026年11月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京計器",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T16:49:10.920274+00:00"
     }
   },
-  "last_updated": "2026-10-31T11:41:03.018219+00:00"
+  "last_updated": "2026-10-31T16:49:10.920571+00:00"
 }

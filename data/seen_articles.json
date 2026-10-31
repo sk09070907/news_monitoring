@@ -1,83 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NHFvZEZtSkhRRThDUG1JZTYwYmpzUHg4OGxBcjlMVXRGUzVrMXZuSVdCVTBLYUEtTXBGanlMMnVlMTRRRVBXaUdDdU83Wlhya1R6ZHREYUJBcFJyUHJvQU92WDdEMmtIUS1N?oc=5": {
-      "title": "三井物産セキュアディレクション株式会社、脆弱性診断の知見とAIを組み合わせた「AI DevSecOps」のトライアルプログラムを開始 - 時事ドットコム",
-      "company": "三井物産",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rcjVPbTk3ay1NaTJtckpLS0dCRUdaQVJDaVZYMTdVTG1PVURfQ2FCSUtVS0ZRSXhOaTFrYW9JUmZ6empIOUYwR1QxZ2MtYnY3a054UQ?oc=5": {
-      "title": "国交省、大成と鹿島を営業停止１２０日＝リニア談合有罪で - 時事通信ニュース",
-      "company": "鹿島建設",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzLURFX0ZSZF9LY3ZNdldIeTA1RzVlbVZYVC1GNVZCM0wxVjJhNWxJWU83Q1lrakg0OHZ3d0kxbmJvS0liWG9mWGg3MEdaRmw1NmJ0bw?oc=5": {
-      "title": "◎大成と鹿島、営業停止１２０日 - 時事通信ニュース",
-      "company": "鹿島建設",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFFQd2pNMVNNUW1lSHBIWUZsdU5Fbnk0bzJJUjZZQmQ3RGlkUjlVajk1cXU3M2JZb2VfUnZvSDZZYXRWd19ONl9WR3hJNUwyenhQRHFScUpWcXA0VDN0SG11cEJ3QnNjblhpb0xPeldfNzdVMkh1WnQ2dThKUUxYWA?oc=5": {
-      "title": "国交省、大成と鹿島を営業停止１２０日 リニア談合有罪で - 時事ドットコム",
-      "company": "鹿島建設",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EOWl4TFZ3eFhnSzd0eVRsYTd4cDN5TjJ1c1ptRnpFSV9CTGd2blQxUlU1MDFDcmdZVnJrR1pTTFJCYnY2emRwcnpSTWtjWV9iaWNNc1pyUVdsYmd2VmlUXzlsTUduaHVLcGdEdw?oc=5": {
-      "title": "ENEOS、道路舗装のNIPPOを完全子会社に 競争激化で上場方針を転換 - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PN3Z4RlFVNXRuLUk4UTE0cHFYcjY4MGhETzJjU2R0RFVnQzUzWUZDS1BuZjQzRnJZWjBVaFRNcVhfaHh4aE91eV95RmZlQ1J2OEczRTRNZnVtS1k4VFp2NXBtZHZLYmRoZFpkOQ?oc=5": {
-      "title": "JFEスチール、インド合弁に大型高炉を新設 30年に生産能力を倍増 - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNGxPMnY0bjZLZ0VsU3RPTE1nLW1mR2YzcW03VlFDa3MtRUtBc0FNYTZjUDFqa20zNFhpVHlERi00VlUzQnBNU1FaakY1WVVGWGF4ZGMyQzdzcFVVY3c?oc=5": {
-      "title": "アリシエ兵庫が決勝へ＝新体操イオン杯 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hNHYwcmw5RlJjUnBjMlFLd01nVG5XS0Jvd1pqTzhQVlhhTUpHQ3Y5dkd1cXBSaWU2S25KNjFrblpBcV9YSFA1ZW1lWGhpWV83TEpCcDRKSEliZXBSNVJVMllaVQ?oc=5": {
-      "title": "アリシエ兵庫が決勝へ 新体操イオン杯：時事ドットコム - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vdHJJbWx4cnBoRm9vYTNrM1ZsRERpTWV4M3l2bTZfU1ZyNVVIcnBmM3QxYmRrc1NxeGk2eHNIX1c2enRnRV90cE81aFNXTk9JZmljRG84OUx0UHhxSzA4X2Rmak8xQTgwbmF5eQ?oc=5": {
-      "title": "東電社員、「信頼性」有効期限切れ状態で柏崎原発防護区域に15回入る - 日本経済新聞",
-      "company": "東京電力ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTnZVaWJhd3EzWEhoSTVTVTctQWNOTGQ3X2JIZG45OWhId0NiMTlwdG9hQk4zZHZLTTJoa0lwMzdLaHJ5U2JQUk9HWGVibEE2VVZRM3YzQ1p2N1lNSHdIYTg0SExPRXZERFlGZg?oc=5": {
-      "title": "中部電力、浜岡原発の不正問題で地元説明会 静岡・御前崎市で - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04YmdReFZRT0txYUM2YmFVUW9oYlNybXZKR1I2QndVeE9aWGJVY3BCcEZ1ODNDSVotY3FTMjRQYlVRUGQwQ2JZSENYOWdqeWY5MklEYw?oc=5": {
-      "title": "◎〔決算〕西京銀行、連結純利益２０．９％増 - 時事通信ニュース",
-      "company": "西京銀行",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2d3pURUFfWURYenNZQzBPbW41bWw4emg5c3Bpb3IzcmVZcHljRnFwbnJnVFpET1A3Z2l4dTlGdUlyd1Y5eHA1TTVfblNTWUdseGV2Rw?oc=5": {
-      "title": "◎〔決算〕愛媛銀行、連結純利益予想７７億円に上方修正 - 時事通信ニュース",
-      "company": "愛媛銀行",
-      "source": "時事通信",
-      "seen_at": "2026-10-23T16:28:15.606243+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNdi1faE9JMnBJeURzZGFINm1yR3ZBNDRJUzhZR3l3U29nazdZRjFTdVB5aTlKZmstVnp4ZGRzNjJHUzV4Sjh3NlhKdE5wQVNrM0dCRHhOaHBZNTVSSTVXUWFuNzVLSTYtVDRuYw?oc=5": {
-      "title": "イオン株、営業最高益でも下げ止まらず 本業の稼ぐ力低迷 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-23T23:43:37.294850+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbzJsQWJPWUx1SXdjWjhieDZxQ1VLcEo3UGMzUUZvN3ZaejQ2ZEtoQkFTYXRFck5Bemt0cDRNQ3VSanJxZ2VTT0VTU0FldXdaTXo1dkhYbkN1ZHF0cXQxWk1WNTJCbmNqUno0?oc=5": {
       "title": "『まさか！トヨタがあんなものを作っていたなんて…』トヨタのマリン事業を紹介する特別ショートドラマを3本連続公開！こどもが、大人の悩ましく複雑な人間関係を熱演 - 時事ドットコム",
       "company": "トヨタ自動車",
@@ -2525,7 +2447,19 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-10-30T12:10:36.838215+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZ3hPSnJNdUl4b3hYZV9YZjVWTjBtNzJ2bmROZzFjaUphRXFMeW0xVHVJTWJsdEluLVlHN2VBUS1aTXRJVkZUaUMwNlhRZWdnMFlicDBta1h6ajVMbXcxZlozNUVpSjQ2Zk5SQQ?oc=5": {
+      "title": "デンソーやNGK、初任給トヨタ超えで新卒獲得 採用ライバルはAI企業 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T00:19:03.714137+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMDFldVEzOURNSTdRX0h0SkZvVnYyNWoyXzgzWWdXaW5sQmFselRSVF95MGczZ0pJa1U2TDIwV0FLU3c4Q0xtZDg5Nm5XXzNfM2VodXNFVnhNNzFXYV9UZ1RUVmhBSFAtWXc?oc=5": {
+      "title": "北海道電力[9509]：ほくでんグループレポート2026 2026年10月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-10-31T00:19:03.714137+00:00"
     }
   },
-  "last_updated": "2026-10-30T12:10:36.838562+00:00"
+  "last_updated": "2026-10-31T00:19:03.714511+00:00"
 }

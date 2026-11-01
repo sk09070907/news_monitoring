@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MENqTGRRYWoxNW4xeVVfNjdDQTVValZyM1MzSTE0cHptbnlJamtlMEQyWFQ2Q19XUjJ1MVdrTGgzU3lfVmRhcWdpWGxRSWJiRXR3Nlk0Qk1MTkxjWmJuNjBtR0wtU1dTM0Ew?oc=5": {
-      "title": "【MOTTERU】10/24（土) 20:00スタート「楽天お買い物マラソン」にて新商品・人気商品を最大約50%OFFで販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-25T03:11:55.036838+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUkk5VS1ORzdEWGhTU3czWjZRS2g4NXhuWER4MjlQZWxsVW1Qd1YwdzNtV0g3UEw3OWtubUhLQXUtVkZIZFZGSGJKUm1Rb1Y3UnhvdmJwekI1UW5SQkZsaG5JNUxTUDJIVV93?oc=5": {
-      "title": "“電気の安心”と“探せる安心”を届ける「Apple Find My搭載LEDライト＋大容量ポータブル電源 特別セット」が楽天お買い物マラソン連動限定販売 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-10-25T03:11:55.036838+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tbzhjSGdTMEd6Z0JMbnhxUXJTY3lnSWhseFpZYVlFWHFBUmIxSldJakVjaWpZRmxjN3JFekIyY1ZNWkZ5Rjlmci1fblVlazFUT0JUVVJJOUMybHM0bGhDS3lKMTBDR2s3QVltNA?oc=5": {
       "title": "高まる社債発行コスト、上乗せ金利15年ぶり水準 トヨタ系も「苦戦」 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -2429,7 +2417,13 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-10-31T23:54:58.690940+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSDdrNmtfdFFzeGRBdFVEd0VsUlExaC1ZYVNXTzBSYlpzWTZWczBVelpiYVdSdjMyNHJKYUxIaDhxWVczZGRWY3ZQaGZWLVpHZGhaYnRTY01XR1FxZEpqei14ZVg0ZllSaXRwYw?oc=5": {
+      "title": "NTTデータ、委託先IT企業に不正アクセス 社債向けサービスで - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-01T04:24:16.460912+00:00"
     }
   },
-  "last_updated": "2026-10-31T23:54:58.691290+00:00"
+  "last_updated": "2026-11-01T04:24:16.461304+00:00"
 }

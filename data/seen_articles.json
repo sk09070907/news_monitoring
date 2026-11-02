@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTlg0aEpkUE5QaXpsRmhRQ1FVUjJkYXYtQXFLcVYyWlVXMXQ2UDZGTmQ4RmNhcmFKU0hXUnFOaC1hTUZmUG5VekNmZU1SWmc1bllPMHR5Z2hWSGVncVpYMnFNVQ?oc=5": {
-      "title": "【ECモール（楽天市場）運用担当】 - 日経転職版",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T15:33:09.693279+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40NzF2LXlVeVpwOWtTMG9idHZZRDFLbkdZZThlWTN5V0QtYVFjU3NsckJ4YmNDM1FMQk05SjV6dldMVzBFcW5yaUpuaFNpc1J0X3QwRV9hdThDLXQ5dUE?oc=5": {
-      "title": "鈴木菜巴は個人総合１１位＝新体操イオン杯 - 時事通信ニュース",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-25T15:33:09.693279+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vbmdicmNxQnFKNzZrbGRZZjdHalM3WDFibTJwZk4teDJQVW1BSXdQbXRqNDMydmVVMzJBY3FqdUFzVG9XcXBaNWhmLThaOXR1TFN4dGVldDlDcWloeU1kbE9aRQ?oc=5": {
-      "title": "鈴木菜巴は個人総合１１位 新体操イオン杯 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-25T15:33:09.693279+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FdUIyZVBPSzVDTW9uSnZDT1hXMEFKSnRsdDE5OFRMb0FFcmhmcWlNY3czN1pZNjBpVVFFQjhwcjNxU01seVZESHozT2FhTUVKOE5lbHFKUFp0UTRhSU1CeDRzMkhieE4zWThteg?oc=5": {
-      "title": "女性登用は「結果」か「機会」か 伊藤忠は課長から執行役員に - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xT3NRLWxwanpLYlRPbG53Z0dIMmdsMHl2VElZZGhDazljbkJBUmdxb0tkeUpDaEQ1MEltaHhqWVB1M2JpNXhFdUpGaTMwRlBiaURTaWQ5NlNIbXBEWnNhRk9ZLTFNMllqM3c?oc=5": {
-      "title": "光電融合の27年、NTT正念場 NVIDIAはGPU間を光で／印旛沼の破堤、原因は異例の「パイピング」か 注目記事を音声化 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wSzBjdm96eUNrRWFDX0pQSTYxc21ST19FNjNTQXBPaXZTMld2Q2RFbXR2TkwyLWJqbHFZWURYSkREWExreWJpVEJUVjRsckZMbnh6U205cG5xazlIVDBYR2lmNDA2SkE?oc=5": {
-      "title": "NTT東日本や鹿島がコンソーシアム、光ファイバーで道路管理を高度化 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aU01KbDJhbUVXanFqT3JocUpkemUtc3p4OGhPWjZESmlFdGU1ODBkclYzVGpZNFlkc29PM2d2Z084YldvTzNLYkpiWUliNTZMSy0wRURFZlh3ZFYxa1VaV3JHaDJzZDQ?oc=5": {
-      "title": "高速光通信網でトンネル工事の施工管理を遠隔化 安藤ハザマとNTTなど - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZkZDY29CTVNKUVRDTGl3bFQ4MUdzSm9UU1JhRXlNQUd1NWJkRFo5ODhlQklwaWpiSHlTREt5RTA1ODNBZ1BJSk1KTUhHLWpBMnpoOXBjamlGVFRIbFNsSWhPc0xaR3EzcHRNUk9PV3loUk5OdkxkWDdZRTNVUDA?oc=5": {
-      "title": "トヨタの独拠点ルポ レース車開発、技術者育てる場に - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqc3NLNU5HcnNLSmNCWnFBSFdScGRhdDd0UkdCaDRkY1pFRUw3MXlfOTdacERDcjdPYVdRZmhFcjN4R2xaVnJtRldMVVAtN1BYVTRMS19WZnZoS3oxVHE5TEttai1OdVZDYm9UUg?oc=5": {
-      "title": "トヨタ皿田開発センター長「追いつく可能性やっと見えた」、E2E自動運転で - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zVmVIdmx1X2lqQTBaVU5kcGgyaEhQREtRdnRBUnZTeXE0dHZFUXRuQTJjN0gtVFFFTHFTcVdNMm5qWG9yQzBxdHFPTmtFd3VFOVNpdTA5dnBYM0tadGNDMTJpWnZCazV2b3RzRg?oc=5": {
-      "title": "川崎重工のフィジカルAIロボ、戦略を2軸分析 ファナック・トヨタと違い - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXlNRkpPRjNtOXNSQmdPU0IxQlZnQWx3bVNrVlhpRjAyVjh6NVJSTWJXVFFOWnM5Mjc4TmNJcUU4b3QyRDM1SWdDRkM1NmRma0p3b3laODEySmQyZHFkay0zNTF1R2dobXctUEYxRGI4dHJMWm1CSTF6c2taakhxOGxtTXVsYVI1dXc?oc=5": {
-      "title": "「短期は数字で、長期は言葉で」 関西電力・E-Secondが得た経営の軸 - 日経ビジネス電子版",
-      "company": "関西電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-25T23:00:02.083443+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yTGdnaVpJeVBua2ZtTWp0ZzZMeldpN3I3eDFZRmN0OWdzLVRlbF92cU9RNmw0YkVfbmZBZnJ3dm1ZbjNKYzRWZHY3TmRuSzA2NUNzR2hmT212eEEyWFFleEJpaWFkRU9raFpn?oc=5": {
       "title": "三菱商事ロジスティクス株式会社、「Mazrica」で目指すデータに基づく営業組織づくり - 時事ドットコム",
       "company": "三菱商事",
@@ -2435,7 +2369,55 @@
       "company": "近畿日本鉄道",
       "source": "日本経済新聞",
       "seen_at": "2026-11-01T12:40:37.988472+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdDlVT0ZTQ0ZzWUd4c0RmYzNoMkF2YjEyNUZ2am1NeWU1eE9iWXY1Y0RLOG15Snd4RWhJRXR1X2QzdlFFSEY0QW9BckJRT2xnN2Z6Rzl3SkRLa0RDOGtVTEZKXzNfX2dWT0E?oc=5": {
+      "title": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWmRETkk2bmpoLW5rWFdzMi1ycUNlQm81Z25fQjJxWTJOT05idGp6ZVRIRU9aMUhNLVUzeVVhNmJLbGdqMW5qSzg2R0MyYkw0OEJoMzF4MzdacEpKVkhfTU1YS1FNZlZMcFE?oc=5": {
+      "title": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RcWpkdTM1UlJJS29YUU5Va0Vua1lWb2FQT0dmSzFBRlZXT1l5Q1Z0bTFUS0lnd01Bd1JEeF9JRHlVejEtOVVaQWRKN21sNHhkTHI1SFAxVTZSS2NGVklTSTNRME5kdTg?oc=5": {
+      "title": "ENEOSやNTTドコモなど9社が参画 再生可能燃料の環境価値を取引 - 日経ビジネス電子版",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Xd013T2QwZDJlX0wwVVNWRWxwUjNBc0lYOHFVWUZMTi02QWRkME5tYnV3QTJsZ21HN0lBVjZIVkVYc1RXY0txLURCSi1sb0JoR2NWdG45RF9qOEpuZDJsSHNMdVRGcEE?oc=5": {
+      "title": "ENEOSがNIPPOを完全子会社化、アスファルトの需給を一体管理 - 日経クロステック",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RRThndHhYQndFczRud2RVMUJFRk1UU25fMFdkaXZFWHIxcndTNDBBTUZxZUg1RWVFOEJiRzJMRlJRTkNHVjJRc0ZVZWgxVXJ2eGJQNDRyMkpzM0RnYjByQmxMREJJVnpPY3FWaEY5WTVWaS1nUGpR?oc=5": {
+      "title": "東芝、工場廃熱発電で出力10%増 他社撤退の市場に参入 - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaGNOaGpXbDY3TWVVaHNNbzRKZWNHR0VvN1dIZ1pETGx0ZTJJbTZyNlYyeUk1Z2hZWi1Ld3Vfd1lyVk1PeDBpOFpwdUpvX2FmYWhwWnoySmR5MnB0OVhZUlI3eGZrVmRJQWRXSVZ0aWktb21tZkd1Z043VGpnUGs?oc=5": {
+      "title": "トヨタとウェイモ､27年から日本でロボタク bZ4X活用 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWjhma1kwaUlrdWktSzdUbG1JbXFNaTQ1UDkzWlE2dXNyVjlhUmNoaDVwS0dSYUZUdEZ5UkVORk00bmQwakpyd3BJWFB4T2NITGFYdExwZlRWSDl0bFJQVzJxWHlWNEw3ZFI0SA?oc=5": {
+      "title": "トヨタ、ウェイモのロボタクシー生産 中嶋副社長「ハンドル残すべきでは」 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbHphbEFpM0x6cTAxYk9fN01WUHc0Y3NpcGNXZTZxSTE0QWN4MVh5NXBpSFVzb3hZTTlkRk9FanN3cUd5TXgzQy1BYWxXTW5vOUZiOW1sa3FfREk1T1hMRHpXQzFHbkxtUE4zNzBmTlR5Y2JwU0lJOVBNcG9zR3M?oc=5": {
+      "title": "マツダ､工場と輸出拠点で太陽光発電 オリックスと組む - 日本経済新聞",
+      "company": "オリックス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-02T00:09:44.368301+00:00"
     }
   },
-  "last_updated": "2026-11-01T12:40:37.988771+00:00"
+  "last_updated": "2026-11-02T00:09:44.368623+00:00"
 }

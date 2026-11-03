@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vOVRTU1dMSnZhXzNydnRaXzNITTF4M29Ec1c0Zkl1LVpzNXV1MzY2QmQ2cDg4eVJnbTNURFJwc0hyVWd5VkphSDdhcUVfT1NyRHcxZ1JLV3dQSWdqX2toTkE3ZGhCcjVwSUE?oc=5": {
-      "title": "揚羽[9330]：揚羽、〈三菱商事マシナリ〉社員の主体的な行動を促すインナーブランディングを伴走支援 2026年10月27日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三菱商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XUG5IeHNpTDFMdHItVUlHRGVNbmNhZEJZSUdObkRscWlQSW12SUZMYko2SVU2SDltTnE5S2o0MEdiZG5Iai1XelZBckFMVGc4Y1RjdkJ4empoR2lZWlFBS1pXd1FBV05FSkVZMw?oc=5": {
-      "title": "熊本第2の都市、八代経済の地震復旧なお途上 日本製紙の動向が焦点 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUNpTzI0ZVZpSm1QMU5xa2dFNkY5NE9qRWhTWmI0cnIyb1lWam41Y3Y3Z2dsbkpOODJwWUJaM2tzLXU4c2RXNVRWZFBMNnpqN2t6NnA4X1VlUVBTR3pMTnRUSlV6eHUycjJmSEJpQVhFQ1FmY0o4c0gySTIteU5CMFU0NERPSDFCajNMNXlDbHI0Nnd5X3N0a2RGOHR4VVdrM0tJMDB5WXY5WDVxbUdsMGJ4MXk4RUFfWkd0OWtIWlZYV2YwaFFhVF9ZNVk?oc=5": {
-      "title": "ＥＮＥＯＳホールディングス[5020]：TPC Holdings, Inc.の買収完了に関するお知らせ 2026年10月27日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAybVBIb1piX1VCWnZTTkJSRE5PMFZRX0dHcG1xaGxzWXd4OFU4dzdtMlY3RjJwQ3haLXJqQWV0QTV4VlkzS0tOeHZ3UjRnc1U2OHl0bi14cmlIeHZVM3ZPMXB6SHBEX28?oc=5": {
-      "title": "フジクラ岡田CEO「時短が顧客価値に」 AI向け光ケーブルで3000億円投資 - 日経ビジネス電子版",
-      "company": "フジクラ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxWEk3bEZETUp5X2pubnNiRm9fVVNnTWx6a1B5VlBUYzhUd21kNGRXSzFQUkhjNkxEZVJSUjFDMUFDemdPWVdVd3hhTUJTSl9NSU9TN3BCeHRJU18wNFBndkwxTQ?oc=5": {
-      "title": "保険コンサルティング営業（イオンモールむさし村山店） - 日経転職版",
-      "company": "イオンモール",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFUm5oTk9FeHNwUkZSMnA5OGFBT19TX2Z2MDZGc185WEJGZ0xJTDJpUm82aHJlb2RaNm16RExFSVRrOEpoVEhBV05lVXRQSDBhd19RdmJYelFHNUhLZmFVdC1YTU96WEx1R1RaMA?oc=5": {
-      "title": "アンソロピックIPO、みずほとMUFGが幹事証券団に 日本でも公募へ - 日本経済新聞",
-      "company": "三菱UFJフィナンシャル・グループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdm80Zkw5QWZzMTlxNS1HajJOdElPbDJYX3hIM3BrSkI0TXhGOUV5WXI2TlM1cjNJREZqcHlaTmU4LVlHOTRlZGpWZ2JmX1ZUNkcxYVJSUHB6bDZoNGt5d05FYU5fZUZvWEhBYw?oc=5": {
-      "title": "オリックス、曽谷龍平・藤川敦也ら戦力外 育成契約へ - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T00:11:33.181853+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6YmQ0a1Y0Z05sNllBZGVVZWNUSzVQX2dqVlpRU09BUUlwTkxqRDV3ZUFFNU9iMHRkUDZ0UnI2NmowdlFyX0llc1RlamhjQmhqQWQyN2Q2TEhCLThvMy15eEV3cW9wNkd2V2J3?oc=5": {
       "title": "〈三菱商事マシナリ〉パーパス浸透で社員が自走する組織へ変革 - 時事ドットコム",
       "company": "三菱商事",
@@ -2555,7 +2513,43 @@
       "company": "東映",
       "source": "時事通信",
       "seen_at": "2026-11-02T14:47:52.840507+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMTZlNnJSenRhZHBYR3B2clpQMUtIY0tVLU5sS2h5aXZWWnZmSjRzNWpaV1JlNi14WmtKTjUyQWh4T1dQX19XU2RJbk9JTzNhOGlnc2R1RUVOTDlPS05HdGs0a3FKRkI2bzNweQ?oc=5": {
+      "title": "秋の叙勲、喜びの声 トヨタ自動車会長の豊田章男氏 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TRlJzbExjOGJqQUNaSGRfUkFmUHhqcmVXTWVUQU9wTjNESlUxRW1wSHhKTkhsS2VRdmJySFg4Q3JTY05PM0VjMmV4dVFIdGxodUlWQQ?oc=5": {
+      "title": "旭日大綬章はトヨタ会長ら＝河野元統幕長瑞大、俳優松坂さん旭小―秋の叙勲 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aR1VpMHBwRHpuZFkxMXpfRXRJUWFCOFU2ZTQ4NHZjQWRpcUJ2YjV2bGVIZkRXdzZFX24zQnk4TEtGY3BSclZsNEdlcmVpR050djl5N2pVRS16d2VuampIZENUWENJRFhDeDFiTDFsMA?oc=5": {
+      "title": "旭日大綬章はトヨタ会長ら＝河野元統幕長瑞大、俳優松坂さん旭小―秋の叙勲 - iJAMPポータル",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LOURvUnB4RU5rTmN3QWhUVGtwOXF2SW9YZUQwUE9aNXZzejhVWnNGUkJKYUp5S29wUFY3ZWV1ZkRJbTVNSDNLSTR4Y0t5d0hQYjhNbQ?oc=5": {
+      "title": "◎旭日大綬章はトヨタ会長ら - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdlNSelRQaGN1MTU2UUtUQU9qSkp1N3hkdnBHT1JvMnVuNVp2UG9LLTJuRXRYcDNZVENRdzBzc2huWmtKQWU0MVY0RzB5RDVDVl9mU1dtZjJlUjA3ZVE1a2JjQm8?oc=5": {
+      "title": "画像・写真：旭日大綬章はトヨタ会長ら：時事ドットコム - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zLWVveWJEOWNSTWc1U2lsMlB0b2tKYVVWdGx6OS1pa1VHYXo1dUo0bmdGM2x1N2V4VXBCc2NhVGc4SEZqSk1pMF9yenlaYWZyai1hRFhVeHlxb3JRTFVYc3d3TUZ0TENpSFRn?oc=5": {
+      "title": "●新●「JIMNY ウェットティッシュケース」新仕様商品、楽天市場にて予約販売開始！ティッシュケースとしても使用可能になりました！ - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-03T02:44:43.615309+00:00"
     }
   },
-  "last_updated": "2026-11-02T14:47:52.840907+00:00"
+  "last_updated": "2026-11-03T02:44:43.615622+00:00"
 }

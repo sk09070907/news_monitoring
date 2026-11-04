@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMWRBVXBEOUppa2FTWFFIaU45T2xZUF9PcTIxN0hiQ2w5VGVWTm5hQ0xFZTE0LWJoRVJlVDJaTWljdVYxc3g2QjIwTTF0ZWZNX1Q2Q0NWN3dxWlZpY3ExOC1rQzJwRHZVWEVuXw?oc=5": {
-      "title": "伊藤忠商事、航空機エンジン整備に参入 英IAG系に出資 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T17:28:13.689173+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSU4xaXFKYVB4bXZjbk95dEtZYW9LT0RfaVlLdTlqZTU2eFFfeTV2dF9IWlBDZlhacEVqZTJ3aTFhdVdETGctaXk1TVMyVkkxVnYzdmxVUk8ycnNQcFl0Y3Nwd3dELUUwNHVZ?oc=5": {
-      "title": "【JR西日本×日本旅行】「ふたつの花嫁のれんでめぐる能登」共同企画商品の発売について - 時事ドットコム",
-      "company": "西日本旅客鉄道",
-      "source": "時事通信",
-      "seen_at": "2026-10-27T17:28:13.689173+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySWlmRlBBNnJQZUNWdWF6ZXRUd3YydU1KZXd4cU9pdW10UkN1QXF4TV9XSzZGS24yeXE4WC03eHJfMkNkcUdwNFdMSUtwSDJmV0M5el9uTVZoazBzdXFCTXRnYW9fN1o1UmlKRg?oc=5": {
-      "title": "ドコモSMTB、AI主導の顧客対応 回答時間は10分の1に短縮 - 日本経済新聞",
-      "company": "三井住友信託銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T17:28:13.689173+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mdDZhR3RLZmpka1hOUmFhSllfLVZtc2otU2llRWNwUU92dVhORnZvYUppQUxld3NtQ240THdTc283aWg3bTFCSlN2aEZzRFZ0d0VFdmJjb0dxM1FCMkp0LWxFSWxubWFvSXNJ?oc=5": {
-      "title": "森ビル、六本木ヒルズなど4施設でクリスマスグルメを販売 - 日本経済新聞",
-      "company": "森ビル",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-27T17:28:13.689173+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNXYycHNhdHhKaVl5QjBiZkhLRUs1RVFRcEExdXFkcGlNWXQyV0JVMTMxNWZkaldNQXFQVXQ0Q212Wmd1dHdfUTg4NHNUSHlGbW9MOEpOdkdFUEl6N2VWNWlyM01FMk04STdWMUotVmJxbEdHdXFyTVZua1BvN2c?oc=5": {
-      "title": "27年1月以降のEV補助､車種別一覧 トヨタbZ4Xは78万円 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-28T00:12:57.677995+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHdYM1hHVDNKaHZEX2t1WklZenBsdzJERkdqT2dBcUdURXNXaWJ5am9PemlTbU1qYmY2aXF6cnEwdFlyM2d1bXlMQTZEQmxVOEk3Ul9JZGdHZVIzZ0p0VEQtT0ZxVEhlM2J4V2ExbC1ZN2hOcUpzc3MycDBfRDM4ZEU4UGtTZXM?oc=5": {
-      "title": "東京科学大学など、低温下で高イオン伝導の材料 SOFC向け - 日経テックフォーサイト - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-28T00:12:57.677995+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IdlNxaW1ZejVJVjJrZUI5YlpjbFMzc2dYa1FncWNQT1FZVk1qcXFreVVyanI2eFpURkZXaFdWc1M2M2Jrc3pKQnpiU3IxSXloRFRtM0NPVDc3WnFfakZjLVB4VGlqQTNwSjJDelVR?oc=5": {
       "title": "金融機関向けIT営業【オープンポジション／住友商事グループ】 - 日経転職版",
       "company": "住友商事",
@@ -2315,7 +2279,73 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-11-03T13:38:18.219113+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yV2RJU2lpMkNTY01SdVZUWUFERjBPMHc0djRCTnAtbXFWdUtjSVR6bHlBa29mZThvTjFkQmVIb2FtQ2RpUURJcE13ZVRodk5GLXN5T3JnRlFndG1aSG04Qjd6MERNRGRrSmZKdg?oc=5": {
+      "title": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン - 日本経済新聞",
+      "company": "三菱商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRGtRd0N4UkNyaEZQdzZPVWRJQzNZS2k2Y0tWOFlQOF9INjJ6dDJZdDJUYnlhWUQ4SDJYNVB6ZzJSZDdqa3d3ZDZJQTRPVzBlMzZPWlEyVXc0Q0NlLVpQZ0k4OUh0LWlWQ1QzUQ?oc=5": {
+      "title": "第2の経営の師 三井化学会長・橋本修 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IUENDd3kyM1Y0QXJjNVZmZlhZdE5CN1VmRWJFOGFWV192S3NSQ1cycktVVVBVNWRpLVJLTzQ1WjA1c0dfNjB6aEcyb25NVnRiZFY0Yk9sQVRid2NiQUptdW9jYXhwVlRJZHAteUxLS2JkUWVYY1hB?oc=5": {
+      "title": "フジクラ、欧で超電導線材の工場検討 核融合発電所向け - 日本経済新聞",
+      "company": "フジクラ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wOFh1TWwxeFVNOG1QNURlSWZCY1F0OGtvdFFwMkNuMnFKUzI4aU9EM0F5Yy1UVjkwS1VvNXU1S3dHdUZ0TXVsN2VqekIxMnlId1RfTmhaWnVGTEk0QUJJOUJLRTJocGsxeDRsZw?oc=5": {
+      "title": "日本車4社、10月米新車販売は8%増 トヨタは電動車が3割増 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVHQzSHpQbk0ybWFjNW85cU9zYnhEWUs4NmFsdTZ5TVhvMVFVS2h3VHNrTDZ5YzhheFpnSkpvOW4xS2tldzFYN2xmLXZrWmE4Y0thbS02TGlFd05fN2VjbTR0clIwa2VOOFI5Vg?oc=5": {
+      "title": "「20年来の悲願」、トヨタ・東京海上・山陰合同が挑むオンチェーン金融 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE91TFBXVW1kakwzanh2eVFMR0pkXzJPRjVDVFBqVG85aThDRlV6cExZM3d5cl9ObEc0UV9PUXR0UlBmd1pDdGNMdmZsczE0SmpXSEUzSUZfcmpBclJxY2VTRlhWZllVWTNIQk9JZA?oc=5": {
+      "title": "トヨタが総合首位、全部門でトップ 日経BP「ESGブランド調査」 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCTDlCdjJ0Z2lsYkJzT2ZWYXc5OFZPeUxOeVZ0ZkkwelBoRUdzaXlDa1hOalhBQWJsR0syRU0wdWttUWQ5SF94NzZGNWhtMkFFY3FhVA?oc=5": {
+      "title": "トヨタグループ創始者の顕彰祭 静岡県湖西市 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uand2NTRwWXhhYWZHVDh6ZUItV19qX3FiUkNGdEE5NnRSUVA4V3hCRUIzVnlRTkNyZU0zYzR5MkR3TktPekJZVHc5dE44TXpJMFpQcDAydnYtVWRuWmF3TDYtTGpZWU92d1VnVEl4a2lsTkl4aG02WkREd1lUdw?oc=5": {
+      "title": "アイシン株が年初来安値圏 中国でガソリン車部品苦戦、還元も見劣り - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdEFaN2pmN3JUZF90NnNRMzIxOU14Z2Q3NVNLMHo4VENITzBxOWZmcDkxSy1oSTJVeWh6TnZNeE1KcUZJTmFiUkVDVXh4UFlwVXdfM2Q4aXViU2lPVDdtaVFOR1prT09HNWVhdA?oc=5": {
+      "title": "洋上風力、動き出す人材育成 北海道電力や日本郵船が拠点 - 日本経済新聞",
+      "company": "北海道電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tQ1hwLVJMRUZBazNqcGVCbmk5YkdTc3BMNXRHY0JDRmxDWE5iTG9yRFJlWTRIeHAxdnlST2h1cTFmd0QxVkVWUjNmaGJySjZqbk42ZnlyNVFueUNuOHI0UW5DQWc3a3o2V0pxcA?oc=5": {
+      "title": "円相場、27年3月末に1ドル=157円 三井住友信託銀行の島津氏 - 日本経済新聞",
+      "company": "三井住友信託銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1h0UHprd3BnUGRjM3J0S3RrRUZoZnZDY3hxNXhJd1dFdWo1ZjMtdkpDdEVHZEVxcVBteVlqN3dSc0NQX1R2a1lSMHZnajV0MC1hamNiWWtuWDk4SjVyZTd4c2lPMkw5RFhoNWtDV1ZoUUlyUEFnaGdTbWc3VWNvdHFMWjlNVUpyTzVv?oc=5": {
+      "title": "三井不動産が挑むデジタルの新たな価値創造 DX人材育成の裏側 - 日経クロストレンド",
+      "company": "三井不動産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-04T01:00:42.254727+00:00"
     }
   },
-  "last_updated": "2026-11-03T13:38:18.219437+00:00"
+  "last_updated": "2026-11-04T01:00:42.255027+00:00"
 }

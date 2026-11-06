@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mYXlaeW1STk5BUm9DZlhBQkJmQlJHQ3RaU2Q3NDdudXpDUVdrcXFNZmtYRGpteXB0ZzBneUFuLVJ1amt2UEtoY0oxU1dGTUx0Wk1XS0RXR01uWVhNTFFKZmJEUHpzMU5fd011ZA?oc=5": {
-      "title": "電通総研の岩本浩久社長「伊藤忠グループと連携、投資を加速」 - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFc2Rxa1N2dkV0ZGZBWkIxeHoxVHB6NnhZcUhRQnB3Vi1SVmhvMmYzd1ctdFoxQi1RVWhLVkhkVDZzMWg4ZmZYWXpDMk0xQ29KbWg4SzJQZERqZVdnMEQ5U0drRFp2T2dNMkxRWWxsRU1NUFBXZFh3?oc=5": {
-      "title": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも - 日本経済新聞",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJYnpHcFVoLTVKemVpd2xzaXZTNjNTeWJ1cWhUU2F1NmstRG9xQTUyN1k4dWpHNnJOQTZyb2Y2bGRtSnVmN3ktUnpvV0lrcGc2TkxvdXptT00xLVlNUHQ2cTFmS1k?oc=5": {
-      "title": "来たるべき大量廃棄に備えよ AGCも住商も「掘る」、未来の資源囲い込み - 日経ビジネス電子版",
-      "company": "住友商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZjQ5Vmh4ejdJa3hhZzRLczZDNHEzMEx2UEVZc3JRQ3JZU3hrUnlpbDktenB2U3loRkJZUm9WaFlPaFlRNjNBYUVNWUdtaVJZMG13Smhmd1U0c09ndEszZmFWUXFRNnp3eE9xVA?oc=5": {
-      "title": "日本製鋼所の射出成型機、AI搭載で温度補正を支援 11年ぶり刷新 - 日本経済新聞",
-      "company": "日本製鋼所",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYWk1MG9CYUlxbnhITU9Uc3Zxc2c2ODVIQlhLNzVVbDVQZ3BFMjVDeHd4Q2hLS1AzQnVEVWxVVEJMMlQwbjZUWUdHX3dvaDc2Sy1pT210WThfanBzMHlac0NwWnBZbExJQVM2aw?oc=5": {
-      "title": "「トヨタ御三家」で働けないなら東京へ ものづくり愛知を選ばぬ新卒 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zMnVreHJYM09CQ3hqR21fSGI3X3draWxVVExqT3dFdGVuaThrOVktVTJqNV9lcklXQ1p4ZEJ1ZWJkSWZzck5oS1pNc3pDTTJGbjVLRC1OQUN3b1RRV0ZiektBZ2V6WGll?oc=5": {
-      "title": "アイシン、ギガキャスト対抗に分割構造 投資抑え高剛性と修理・交換性を両立 ほか - 日経クロステック",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-30T00:33:19.176121+00:00"
-    },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanB6Y3JFbkxUY0FIUHJnUmFIQkVrU3V1aTFHY2pmUk1NYjU3YS04UWttTHR1dEtnWmxsTnJ4eWxxcW80cTVNTGp5Z0pFLWxjQVdMUlV5NVdBN0VxMXJTSzJMNnVtN0poWDBZTmk2NWstdnVER3RWcDhCQm5MU0piMkVVTUpXVUpOYVNTWVdqT1FtSUE1eVRpUzFqeWdLbEJENEdyY1FhOFJmVERjNU5MeElfZkJrWmVBRVBSeWVYU0txYm04a085bFpBc3c?oc=5": {
       "title": "豊田通商[8015]：特定子会社の異動に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "豊田通商",
@@ -2483,7 +2447,73 @@
       "company": "三井不動産",
       "source": "時事通信",
       "seen_at": "2026-11-05T14:01:42.935974+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1dC1UQ09rOWNscDVsdXFva3pydEp2a0NhcFdHQ0MtYUthUzhlbk9kMDZoSXZfRGFWd0lVSW1HVGJRWFpHbFhCeGYyTzRtdk9qZGhzVXoza21pZGZvYlE4SmJB?oc=5": {
+      "title": "三井物産・堀社長「地道な事業運営に光、『ミドルゲーム』でも稼ぐ」 - 日経ビジネス電子版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE90UnQzckstQ2hxOXVwd1d0M2NmRkJMY3l1Wk82UlpNUFd6eHEwRGRBQ005RG11bUIxU053UzVGUzFySGJ6dzdZaWJzenBFUjhHM3FYQVV6Uy1OWWI2LXVUOWkwRnVfdV9Cc1FZ?oc=5": {
+      "title": "医学書院、NTT、NTTドコモビジネス、医療現場での「信頼できるAI」の 実現に向け、Ubieと医療AI情報プラットフォームの共同実証を開始 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ZWg3dU9aS0VIYVJBM3MzS2VnWVJBemdhMHNLRTdhblI3MVBRd1paRWpibVVTMFVGckRFOTV3dHkxdFpHdzdoNUd3SzVBMDcxVzFGVg?oc=5": {
+      "title": "○日本製紙、八代工場の紙生産再開断念へ - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11amR2UXFZbFJIeTlOdkZjVmZ4dG9ERGhHcC1CdmZVYWNrcFhMbU91S3M3ZE52Nk1sUkhKelJlY3BtLXZzYVFvNnFfN2w0RldFcDFrMFd3M2E0dWI2SUE?oc=5": {
+      "title": "◎八代工場の紙生産再開断念へ＝熊本地震で被災、拠点は維持の方向―日本製紙 - 時事通信ニュース",
+      "company": "日本製紙",
+      "source": "時事通信",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTzFxcG5weGQ1bTkzT2o2WUFiLUQyZk4yYTFMYm1JWWNwbFlmdUZ6SzlVMDJ1WHBYZGJCblA1ZFp5dXlSX0hYZGw2VHJ6WUFGUWcxUi11LTJZaTZxSExhbXhhTQ?oc=5": {
+      "title": "中国不振、２７年に反転攻勢へ 体制再編でＥＶ開発強化―トヨタ - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTXA2M1haTml0VXdMejYwVlI1WW92dTAwRGY0NnRNLWk2LU9mdDNQQmo1MXZ4LWM3NVgwZ2JIRnc4REhYOGJXbFZ4R3RxLThZQ1ljOVNtWDJiQTR0STlVVFUyUkkyc1ZaNy1iVjZ4bGFXVGkwVDg0TG5paEdIUQ?oc=5": {
+      "title": "揺れる米国に動じるな 「トヨタ、米国好調で営業益上方修正」など3本をお届けします - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82UFh0dWJRb25MWjJCcVR4TlR6M2RtZHNyQ0tMTl91MXFCQjliS19Cc2hFWEFTRWVLRnNzaThZRmc2dURyOFl1aHBRbHBRZzBFeUx6NjFUam1IU1hXcktiTjJQaFJOU1Q0YTN5eQ?oc=5": {
+      "title": "ソニーG発の新興が楽天回線を本格提供、携帯4社対応に踏み込んだ狙いを探る - 日経クロステック",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtTEFORzcyVFFmdzk4VGZjY0VuZDFWXzN1Rkhhc1VZM1Rfd3djNEphd0lKQ1Nhck54S05pV0prRkFVTWJlbHNkZFZJRnpsNHBtZGZLNnd1WW1fV3c5eXR5TWlyd1RQNDV0SkE?oc=5": {
+      "title": "イオンファン - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Ykdhb1o0QUlIdTRHYjUxdnFlTUFYSnhEYzVTN2VvTEQ5T21hYUpSemhEbXZkcjJoa1QyZnlKNG1vTkNsd1RtaGlkMEQxZnZMNG1wLW1VTGFta2R6TFhDX1ctMDRNZ2lXR2pDdA?oc=5": {
+      "title": "中部電力に業務改善命令 経産省、浜岡原発不正で組織改革要求 - 日本経済新聞",
+      "company": "中部電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Y2FQUVZBWWQwYTZRUEpQUFdMVl9qa1JyWjlEdW9XQjA3alRncGtiN3VhTmQzVzg4MmZzWEtyVUZVRzFPb1NUek5yODNjT2J4TzlSRjBaSlRwQTU5NG1fQk9MWVh6UQ?oc=5": {
+      "title": "【速報】経済産業省は浜岡原発のデータ不正問題を巡り、中部電力に業務改善命令を出した：時事ドットコム - 時事ドットコム",
+      "company": "中部電力",
+      "source": "時事通信",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uaGRKQjcyUGNtYWs1T05kcFRnZHh4TGN5T094blhENFpDSnVJb3o1M1lOZTlFYlhDT2J3ZUtNMjZZcWtuUkw0d1pnMFY1LTktV2Y1ak9YQ3k0azVoeWQtNDVUOTJkY1pmazJPUA?oc=5": {
+      "title": "アララ不正アクセス、影響広がる カカクコムや三井住友銀行でも漏洩 - 日本経済新聞",
+      "company": "三井住友銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-06T01:20:24.222785+00:00"
     }
   },
-  "last_updated": "2026-11-05T14:01:42.936352+00:00"
+  "last_updated": "2026-11-06T01:20:24.223221+00:00"
 }

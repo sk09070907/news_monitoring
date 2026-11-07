@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WUHRJdFpENXRMakllN1lsVldaYmd1MF91VS1VTlRHVzJtLWc5QThNSGpnUWtPWnlDX2ZlMFh5WEZRZGZxWWVjRkhTSndiS0RXV2pwUllsbE9UWDJpcXdXMlo5cHljTzBscGM0?oc=5": {
-      "title": "【岐阜県大垣市に初出店】無人カフェ「セルフカフェ イオンタウン大垣店」10月31日オープン。学校帰りの自習やテスト勉強に、Wi-Fi・電源完備で駐車場あり。個室ブース・会議室も開設予定 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-10-31T04:01:51.688869+00:00"
-    },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDdmU0hSbEtXREpYQnpBWElzSzVnaE4zVzhOY0RmVFRuelBmeTFSZzB5XzJ5RHN2OXZhMFVUNjEwRlp2c1RfUk9tU0dpd0tGVGQ4dmN4S25hNUFybDJMYlM5T3dvN1BFZm1vZDkwVFJqQ1ltMm1CTXo4S2hqcjltS0pZaV9NRnlDWjBSTGhKaFF1dHlpYWRjaUZjckFNMzFxUjY1TEg2T3dQOVh1aGxzR2wxeDl3ZGhDRXZsNmJNVEY4UVBZdjJocl92NEY?oc=5": {
       "title": "東京計器[7721]：東京計器レポート2026（統合報告書） 2026年11月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "東京計器",
@@ -2429,7 +2423,13 @@
       "company": "JFEホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-11-07T00:34:15.238387+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NekluT091Ul84ay13Y0pXQ2RFbGphNXAzZWZ0V25VQ2REbXZzRmV5U040eTMyS0dMMmdUYmc4a3RXbmpTbFhSVVdrckoyeU1UN2h2d1JRVGNWczhjWF9WdThvamU4b245V1pV?oc=5": {
+      "title": "【Hothwal】EMS・赤青LED・マイナスイオンを搭載した多機能スカルプブラシが「Amazon 第6回Smile SALE」に登場！最大80％OFFの特別価格で販売 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-07T04:39:29.893076+00:00"
     }
   },
-  "last_updated": "2026-11-07T00:34:15.238715+00:00"
+  "last_updated": "2026-11-07T04:39:29.893365+00:00"
 }

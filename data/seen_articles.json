@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZ3hPSnJNdUl4b3hYZV9YZjVWTjBtNzJ2bmROZzFjaUphRXFMeW0xVHVJTWJsdEluLVlHN2VBUS1aTXRJVkZUaUMwNlhRZWdnMFlicDBta1h6ajVMbXcxZlozNUVpSjQ2Zk5SQQ?oc=5": {
-      "title": "デンソーやNGK、初任給トヨタ超えで新卒獲得 採用ライバルはAI企業 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-31T00:19:03.714137+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMDFldVEzOURNSTdRX0h0SkZvVnYyNWoyXzgzWWdXaW5sQmFselRSVF95MGczZ0pJa1U2TDIwV0FLU3c4Q0xtZDg5Nm5XXzNfM2VodXNFVnhNNzFXYV9UZ1RUVmhBSFAtWXc?oc=5": {
-      "title": "北海道電力[9509]：ほくでんグループレポート2026 2026年10月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "北海道電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-10-31T00:19:03.714137+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WUHRJdFpENXRMakllN1lsVldaYmd1MF91VS1VTlRHVzJtLWc5QThNSGpnUWtPWnlDX2ZlMFh5WEZRZGZxWWVjRkhTSndiS0RXV2pwUllsbE9UWDJpcXdXMlo5cHljTzBscGM0?oc=5": {
       "title": "【岐阜県大垣市に初出店】無人カフェ「セルフカフェ イオンタウン大垣店」10月31日オープン。学校帰りの自習やテスト勉強に、Wi-Fi・電源完備で駐車場あり。個室ブース・会議室も開設予定 - 時事ドットコム",
       "company": "イオン",
@@ -2429,7 +2417,19 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-11-06T13:46:36.885400+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWV9Ca0N4M2xIR1hEWVM5cHhKNHJuQzItRlJuQ0dEYk1GNGlTRkpFdUFDNkFmVExlRXFYRUV0WHVWaEZDRFYzblA2WFFmcGFOZTRDckJQUGpZbnVQRm8ySHVTS0Q3bjI1a0IwTw?oc=5": {
+      "title": "ＪＦＥホールディングス[5411]：半期報告書－第25期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-07T00:34:15.238387+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eDUzQVlENnNpT0hEd3hkYkctRDc2N1Q4blZWVXhReFNIZlhOMjZkZXhyelBvWXVrMWxYUGdCRnYtSzZJSWFFbTA0bkRaclVjVVVmbzM3UlRiYWZPT19NZXlSRHBRS3ZHbVU4Mw?oc=5": {
+      "title": "ＪＦＥホールディングス[5411]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "JFEホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-07T00:34:15.238387+00:00"
     }
   },
-  "last_updated": "2026-11-06T13:46:36.885830+00:00"
+  "last_updated": "2026-11-07T00:34:15.238715+00:00"
 }

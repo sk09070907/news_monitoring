@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSDdrNmtfdFFzeGRBdFVEd0VsUlExaC1ZYVNXTzBSYlpzWTZWczBVelpiYVdSdjMyNHJKYUxIaDhxWVczZGRWY3ZQaGZWLVpHZGhaYnRTY01XR1FxZEpqei14ZVg0ZllSaXRwYw?oc=5": {
-      "title": "NTTデータ、委託先IT企業に不正アクセス 社債向けサービスで - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-01T04:24:16.460912+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sbzlqLW5lSnZsMXhkb1NMdnhIMUhId3E4QVBjYVFuMkxfMHRjaEhyQ1NxWUpnXzFzZTV6b0VXS0VRa3V5aHB5bkhsWmRIeXVlN1VxZXV5alc0Mi1JVTlvX0oydUZYUUI3djJuNw?oc=5": {
       "title": "カローラ60年「時代に合わせて名前以外は変化」 トヨタが記念式典 - 日本経済新聞",
       "company": "トヨタ自動車",
@@ -2429,7 +2423,13 @@
       "company": "クレディセゾン",
       "source": "日本経済新聞",
       "seen_at": "2026-11-08T00:08:45.195679+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oWGlJUXNXZ3R5TFpfSjJmbTVxbWlRLWtMNUFjSG9WaHJOYmJMSTdWOGMzb0djcTAza2p3M21oT3FNUjd2RXk1Sl9SSU1mMThQckY0NThoOG9NY18xczFMRnRUN2RpOXJXZDVv?oc=5": {
+      "title": "【イオンカード会員406人に調査】イオンの抽選販売、51.0％が「あることを知らない」 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-08T04:27:18.208720+00:00"
     }
   },
-  "last_updated": "2026-11-08T00:08:45.195967+00:00"
+  "last_updated": "2026-11-08T04:27:18.209081+00:00"
 }

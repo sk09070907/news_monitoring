@@ -1,53 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdDlVT0ZTQ0ZzWUd4c0RmYzNoMkF2YjEyNUZ2am1NeWU1eE9iWXY1Y0RLOG15Snd4RWhJRXR1X2QzdlFFSEY0QW9BckJRT2xnN2Z6Rzl3SkRLa0RDOGtVTEZKXzNfX2dWT0E?oc=5": {
-      "title": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWmRETkk2bmpoLW5rWFdzMi1ycUNlQm81Z25fQjJxWTJOT05idGp6ZVRIRU9aMUhNLVUzeVVhNmJLbGdqMW5qSzg2R0MyYkw0OEJoMzF4MzdacEpKVkhfTU1YS1FNZlZMcFE?oc=5": {
-      "title": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "伊藤忠商事",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RcWpkdTM1UlJJS29YUU5Va0Vua1lWb2FQT0dmSzFBRlZXT1l5Q1Z0bTFUS0lnd01Bd1JEeF9JRHlVejEtOVVaQWRKN21sNHhkTHI1SFAxVTZSS2NGVklTSTNRME5kdTg?oc=5": {
-      "title": "ENEOSやNTTドコモなど9社が参画 再生可能燃料の環境価値を取引 - 日経ビジネス電子版",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Xd013T2QwZDJlX0wwVVNWRWxwUjNBc0lYOHFVWUZMTi02QWRkME5tYnV3QTJsZ21HN0lBVjZIVkVYc1RXY0txLURCSi1sb0JoR2NWdG45RF9qOEpuZDJsSHNMdVRGcEE?oc=5": {
-      "title": "ENEOSがNIPPOを完全子会社化、アスファルトの需給を一体管理 - 日経クロステック",
-      "company": "ENEOSホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RRThndHhYQndFczRud2RVMUJFRk1UU25fMFdkaXZFWHIxcndTNDBBTUZxZUg1RWVFOEJiRzJMRlJRTkNHVjJRc0ZVZWgxVXJ2eGJQNDRyMkpzM0RnYjByQmxMREJJVnpPY3FWaEY5WTVWaS1nUGpR?oc=5": {
-      "title": "東芝、工場廃熱発電で出力10%増 他社撤退の市場に参入 - 日本経済新聞",
-      "company": "東芝",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaGNOaGpXbDY3TWVVaHNNbzRKZWNHR0VvN1dIZ1pETGx0ZTJJbTZyNlYyeUk1Z2hZWi1Ld3Vfd1lyVk1PeDBpOFpwdUpvX2FmYWhwWnoySmR5MnB0OVhZUlI3eGZrVmRJQWRXSVZ0aWktb21tZkd1Z043VGpnUGs?oc=5": {
-      "title": "トヨタとウェイモ､27年から日本でロボタク bZ4X活用 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWjhma1kwaUlrdWktSzdUbG1JbXFNaTQ1UDkzWlE2dXNyVjlhUmNoaDVwS0dSYUZUdEZ5UkVORk00bmQwakpyd3BJWFB4T2NITGFYdExwZlRWSDl0bFJQVzJxWHlWNEw3ZFI0SA?oc=5": {
-      "title": "トヨタ、ウェイモのロボタクシー生産 中嶋副社長「ハンドル残すべきでは」 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbHphbEFpM0x6cTAxYk9fN01WUHc0Y3NpcGNXZTZxSTE0QWN4MVh5NXBpSFVzb3hZTTlkRk9FanN3cUd5TXgzQy1BYWxXTW5vOUZiOW1sa3FfREk1T1hMRHpXQzFHbkxtUE4zNzBmTlR5Y2JwU0lJOVBNcG9zR3M?oc=5": {
-      "title": "マツダ､工場と輸出拠点で太陽光発電 オリックスと組む - 日本経済新聞",
-      "company": "オリックス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-02T00:09:44.368301+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sc0FrMHNXMGpWTkZva3M4Q1NBVzJZckpiQXBiY0ZfMHdHQ3JtNGNIanRhUmpaWDB5dllUYjFZNGlFNnhWdjBkOUFzOXdSTzU1SDc2Q1paTEhHUDZYNmJ3YV9UUWQ2VXhiZnc?oc=5": {
       "title": "Ｆｉｎａｔｅｘｔホールディングス[4419]：ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "三菱商事",
@@ -2405,7 +2357,43 @@
       "company": "イオン",
       "source": "時事通信",
       "seen_at": "2026-11-08T04:27:18.208720+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVdSNDh4ZzhTbkNkTFRXVXJrY3RVVllUZDVhU1drZ2FCYlZLVFZpU3BqSkhkOC03RUwteWIzYmZSOFhZZUZ1RGtjY0k3T2RSUktNd2lwRTVVS2RrVy05aGYyUU5TWFBwcTZKRWgxdmFRbWFCdVRfY0ZoRXFZa1BoSWl2N2tkRlhSWjJzanFVRWk2dkRzbG5IbTdtRDJjZDh6UlZV?oc=5": {
+      "title": "低迷IHI株に底入れの気配 民間航空機エンジン再始動の「買い場」待ち - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YY21nbDliTndTRTE4Tm9VbUFFbm1ZbERGX3FzTVNCTEdPT29PaXV2T1NBdXljV0k5N00zZjJkZFEteFpHZEhyQVBaLU5Ub0R5cHpEQ3Y1SFlXcmgzNUFQS1Fxb3FoTl9hTlJsTQ?oc=5": {
+      "title": "トヨタが中長期方針、ロボット市場に参入 AからCセグに共通PF - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SclY1UVEyRzh3MmZnOVRGTDkySW9NeE95U3c1VmhkMTQzWmhjN2drX0QtaEh0dWU0QWZicmNmUmdDR193RUZlX0VDZjNwY3NRODVwM1I0anRablR0d2oyNDVEZk9PNnIwamUxTXlKSm5idDduWWxReU1NV0wydjQ?oc=5": {
+      "title": "三菱電機モビ社長｢鴻海EVにeアクスル」 アイシンと開発 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xcWwySXNZR3pMOGl3V0RpbktWWGZoX3pDSkdscDZBMlFHZVhnajRIQnFwdjNlN2NWeWQzZ2Y4Q2hPRHpwZWVKR0FqM1gtdFVac1phNzRjcnk?oc=5": {
+      "title": "証券口座乗っ取り、楽天証券や野村証券などで被害相次ぐ 最新ニュース - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GNWZ3eThYdTB6U25ad2NDOFlPMnJtVS1IT1NYVTZsX1lacWdUVkFjQ3BVWnRSMnZQQ2ZvYl9YeU5CODhZdXdQQlhSeHJueFVoX0V3My1wMUpkQjlJSjhpSFItOGVSOFJMTmJjOA?oc=5": {
+      "title": "「配当狙いなら今は中小型の高配当株が魅力的」 個人投資家が参考にする識者・楽天証券の窪田真之氏に聞く - 日本経済新聞",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wQWFha3hNWVpjYXFwcV9kcWYwMlVrYUlsRVZ4SEU1bHdDRmZXVHg2ZU9jMUZLNDlnNkFEelFsWFRialRrNVVrWFZVZW9qRTR4dWtlMFFUOGxkRzJwQ0RpcXRkZ0RDeElPLVpMag?oc=5": {
+      "title": "リチウムイオン電池の負極材、アルミ箔で低コスト化 東北大学 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-09T00:26:09.507128+00:00"
     }
   },
-  "last_updated": "2026-11-08T12:45:19.550907+00:00"
+  "last_updated": "2026-11-09T00:26:09.507508+00:00"
 }

@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMTZlNnJSenRhZHBYR3B2clpQMUtIY0tVLU5sS2h5aXZWWnZmSjRzNWpaV1JlNi14WmtKTjUyQWh4T1dQX19XU2RJbk9JTzNhOGlnc2R1RUVOTDlPS05HdGs0a3FKRkI2bzNweQ?oc=5": {
-      "title": "秋の叙勲、喜びの声 トヨタ自動車会長の豊田章男氏 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TRlJzbExjOGJqQUNaSGRfUkFmUHhqcmVXTWVUQU9wTjNESlUxRW1wSHhKTkhsS2VRdmJySFg4Q3JTY05PM0VjMmV4dVFIdGxodUlWQQ?oc=5": {
-      "title": "旭日大綬章はトヨタ会長ら＝河野元統幕長瑞大、俳優松坂さん旭小―秋の叙勲 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aR1VpMHBwRHpuZFkxMXpfRXRJUWFCOFU2ZTQ4NHZjQWRpcUJ2YjV2bGVIZkRXdzZFX24zQnk4TEtGY3BSclZsNEdlcmVpR050djl5N2pVRS16d2VuampIZENUWENJRFhDeDFiTDFsMA?oc=5": {
-      "title": "旭日大綬章はトヨタ会長ら＝河野元統幕長瑞大、俳優松坂さん旭小―秋の叙勲 - iJAMPポータル",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LOURvUnB4RU5rTmN3QWhUVGtwOXF2SW9YZUQwUE9aNXZzejhVWnNGUkJKYUp5S29wUFY3ZWV1ZkRJbTVNSDNLSTR4Y0t5d0hQYjhNbQ?oc=5": {
-      "title": "◎旭日大綬章はトヨタ会長ら - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdlNSelRQaGN1MTU2UUtUQU9qSkp1N3hkdnBHT1JvMnVuNVp2UG9LLTJuRXRYcDNZVENRdzBzc2huWmtKQWU0MVY0RzB5RDVDVl9mU1dtZjJlUjA3ZVE1a2JjQm8?oc=5": {
-      "title": "画像・写真：旭日大綬章はトヨタ会長ら：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zLWVveWJEOWNSTWc1U2lsMlB0b2tKYVVWdGx6OS1pa1VHYXo1dUo0bmdGM2x1N2V4VXBCc2NhVGc4SEZqSk1pMF9yenlaYWZyai1hRFhVeHlxb3JRTFVYc3d3TUZ0TENpSFRn?oc=5": {
-      "title": "●新●「JIMNY ウェットティッシュケース」新仕様商品、楽天市場にて予約販売開始！ティッシュケースとしても使用可能になりました！ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-11-03T02:44:43.615309+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wTW0yVWcwNndBbHhTZGJYcUk3ajh0TVQteFlJZ2JJNVBpdzJIekFQWEUtQjE4dHBYWkRsN2lLSlVYcUU3Rm5XMUlnMnBkYlB4dXF1cVJpeTVtOEdzY00zekUxLWtNeWI0Y1dZ?oc=5": {
       "title": "中高生10チームがモデルロケットで全国・世界へ挑戦！「EPSILON CUP 2026 OSUMI-KIMOTSUKI supported by IHI Group」を11月7日に鹿児島県肝付町で開催 - 時事ドットコム",
       "company": "IHI",
@@ -2423,7 +2387,109 @@
       "company": "東京センチュリー",
       "source": "日本経済新聞",
       "seen_at": "2026-11-09T15:12:21.488623+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCWjZJRVlPd0lzdVpIaEM5VmpQM1Z1SUdrVjRzeTVCbVU2cml4RDJnNlp1YUcxUlQ5eVpfeXJhRV84NUlFWUVSeVp5QkdLNUVjVmxRZWNEZGxtM2YwRkVibl81aC1JSGw5cS1GZQ?oc=5": {
+      "title": "三井物産、レガッタで磨く商社力 部門・国境超えて社員大会に700人 - 日本経済新聞",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMbnBKS05NNGFKV192YXJWWkw5UHNVY0ZwSEFacXpnVTRLMjRjYmlyWDhWV0R5cWhtVTVudElHT0pWQVM2SXBzZkxhMjA2R081bGtmamJROG8zcmt2MmFWcWhZeVVuT29FdVNz?oc=5": {
+      "title": "【28卒就職人気企業ランキング】文理別/文系1位は9年連続で伊藤忠。理系1位は10年連続味の素、伊藤忠2位に急浮上。トップ50激変、「マスコミ」が11社 - 時事ドットコム",
+      "company": "伊藤忠商事",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40Vi1CMHB6bUVEQW52bzJKYkcxbExLdm4tbXJteXRpa0JtNlFkNVl6OFBjWVppRjljTU9HRUFNR3Fxa3A0WU9idXl4VldlNTZfc0FKbG9WVEVHa3ZsN2VVc216eGh4MUZSVXcyNA?oc=5": {
+      "title": "NTTドコモと北海道上ノ国町、クマ対策電気柵の遠隔監視を実証 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE0zR0VHWFhjaDNWWVRaSHhkVTVTUENCdWZIWnJSZnBUckJIazFKTHpIU0FDdFh2d2ZsbFVjSndQSWlEYWR2Y3RQbHBmRWItR2NWR3ZXaGQ3U3VqY3h5c0M2RjZ2WFRSVGhPY0pnSDR3bVJvQQ?oc=5": {
+      "title": "NTTデータと日立 FDEで人月脱却へ - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTkZyS2FhZjZmMEVVNmI4Yjh3UXBwYkIwYmdON0tYbVhaMDNWTmdhLXBFV0tncmdyckNwZmxvcVBBOEFvNFJPTm9jaEl0QTFKVC15UWczbFh5YktaREttS3B4RGRZNGJDN1lzUw?oc=5": {
+      "title": "NTT「電電ファミリー」に幕 NEC株売却、利益1900億円でAI投資重点 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44TTFkYXd1MFp0ZWpDejZRemJLSDY5N3ZYcUxTajUwY1VRRS0wTFlHSDdvSlI3cHZud0xQQTB5SzM4TTcxbzE4SExWS3NMcmZ2c2ZEb1R3c1lIZ25pZExSbTM4TWFIS2c?oc=5": {
+      "title": "アサヒグループ、2025年サイバー攻撃下の出荷作戦～その時、物流現場は？（前編） - 日経ビジネス電子版",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc3UtbGVleHg2R1JHOVJGTjY5N0toeTZCOTFGbVU5QVFVaEFoNEN6Zmd5Z0syUXJ6REpwRXdQMkJkWWp1VVhqeml1RmhLSGQ0aHZLc1dTbzRiM0xMX1VXdFNkOTJCdFJicUE?oc=5": {
+      "title": "ダイセル - 日本経済新聞",
+      "company": "ダイセル",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wSElDMTZFaURKRlFGTUhoUDdjRTlVT0d0eUlGYnVjYUNiVXZLZDZ2WTY5TVotMWY1Q1JiOUlySjJVcWU5dExqeHRud0JIeXBTV3BSdi1OaTlya3pYMGx6QldHTQ?oc=5": {
+      "title": "半導体素材、業界再編へ一里塚 三井化学・ＪＳＲ、海外勢に対抗 - 時事ドットコム",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rOEhxZGpPRHFwT0J5TUVMcWxaSFFEczRRU3Q3S0NzVFB6SWR3ZGxrTThjQUNiY0RUVzhUdy1DMklPSGpBV0hVNEkzS2NQd29mTUhpeFpCNzhvZk9QZFBnT0IydUJQZ0VzSkp2X082NA?oc=5": {
+      "title": "業界再編を後押し＝三井化学のＪＳＲ買収で―経産相 - iJAMPポータル",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XSkxuU1RULWhKalZDZXN1SHBrX3FoRUZ3cDhlejFRNnpYZ21NNmtSNEg4bXFkbGJwS0tRWXhmaC00WENCQWRRNDd0cmN2aVl6RkFiYnA1bi04c1JBTW4wS3Jtcw?oc=5": {
+      "title": "業界再編を後押し 三井化学のＪＳＲ買収で―経産相 - 時事ドットコム",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcjZxa0tYdGNhRjNmaFVZX25qV25hNmtYRDd0dWtWbDRUZFhMdExVN2tPQXZQNFU1RHo4SVlHU09JRVZyZmhjZV90SUhRNkE2c2RSMUhoaWo4eVhjNUtmeDZrRzE1Q0tiS1hVY0c4dFBwVWpXcC1Ec3FjX1BxNkJQRFdn?oc=5": {
+      "title": "半導体素材、業界再編へ一里塚 三井化学・ＪＳＲ、海外勢に対抗 - 時事ドットコム",
+      "company": "三井化学",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zUnQ5QVljQXYzTlctSU5qR0hTQ2d3NFA4c21BanN3cHAwRDQ1RVRxXzlkM3c3Q0VpYlh6clQwNlJmRWIyendKd2l0cWtwSVlUQ0hhakZSemp5UU4yRTE1RTVyTEVGWVE?oc=5": {
+      "title": "トヨタ次期カローラは4ドメイン テスラと一線、あえて集約せず - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zMkYtRHFlYTRTSFVDQUFQRW4zcUNnVXhuaHhhbjhfRGhSOFlOSDI0Q3VSVEZGbkMtb21hTC1yNFVHOXZkRHpaYWNpQldsWkc5SEVuM0JQMkcySUR4SGxQY0xfSEF1WUdPb1R3?oc=5": {
+      "title": "CoLabの開発技術、トヨタ自動車株式会社の量産ラインで稼働開始 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dTAwcUNFUWE5U0tUQmtHV0FYMFJpekQycHNmbHdXOWxFZG9nZnI0eHFtNlNJeXAxNi02RVlYUkNwV2FNYmFibHVIM2ZaN3VvS0pKalpYa0dVWDdLVXh5cjBkSHI3Y3owTGNj?oc=5": {
+      "title": "日本絨氈のオンラインショップ「joiterior」が楽天市場に出店 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmckdmVW1JM1BGSmVBU05GZ2k0QWd3WXVIajUxNTdSU3A2TG8ydU9FOFpjdmZ2NmtrRHRETUNDdXJGWXlNLVJseHJJUXBTaUxOQTBvdUtJVEVTSHhkaU5GMzkzNVlZLTdqampF?oc=5": {
+      "title": "【楽天年末商戦】ECPRO RPP、自社運用店舗向けに「内製化／運用代行プラン」の年末商戦支援の受付を開始。仕様変更で難しくなったRPP広告の前年超えを伴走 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOb2xiaUVkR3Azd1RZZi00Nlo5dnQ2azM4RW9sVC0xam9LNlNTQXZlQTJJZ1d1enE5WEdzY3c3S185Q1FKYmVsVEg4Zml3YTJvS1h2bnI4V3dQWFBWenB0elpZT3ZuNHE2UnBHTQ?oc=5": {
+      "title": "エクサウィザーズ、グループ会社が中国電力の水力発電計画業務システムにおいてAI駆動開発による再構築を推進 - 日本経済新聞",
+      "company": "中国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hZVRfOHBxU0lYNV83RXpsbmxhSURsNXV0VVRGZTFsalJ2aG44Ykh0eks3MmR6Vk15aUU4RjFiRjBYcDlPY21KRVRvTGpTUEl5SUZwNWdqRVVOZ3I5TFlHUG9OWUw4ajhJdC1TSQ?oc=5": {
+      "title": "総額1.2兆円、50億以上のIT投資約60件を独自調査で一覧に 最多はMUFG - 日経クロステック",
+      "company": "三菱UFJフィナンシャル・グループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-10T03:07:00.190834+00:00"
     }
   },
-  "last_updated": "2026-11-09T15:12:21.488953+00:00"
+  "last_updated": "2026-11-10T03:07:00.191167+00:00"
 }

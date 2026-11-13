@@ -1,71 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1dC1UQ09rOWNscDVsdXFva3pydEp2a0NhcFdHQ0MtYUthUzhlbk9kMDZoSXZfRGFWd0lVSW1HVGJRWFpHbFhCeGYyTzRtdk9qZGhzVXoza21pZGZvYlE4SmJB?oc=5": {
-      "title": "三井物産・堀社長「地道な事業運営に光、『ミドルゲーム』でも稼ぐ」 - 日経ビジネス電子版",
-      "company": "三井物産",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE90UnQzckstQ2hxOXVwd1d0M2NmRkJMY3l1Wk82UlpNUFd6eHEwRGRBQ005RG11bUIxU053UzVGUzFySGJ6dzdZaWJzenBFUjhHM3FYQVV6Uy1OWWI2LXVUOWkwRnVfdV9Cc1FZ?oc=5": {
-      "title": "医学書院、NTT、NTTドコモビジネス、医療現場での「信頼できるAI」の 実現に向け、Ubieと医療AI情報プラットフォームの共同実証を開始 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ZWg3dU9aS0VIYVJBM3MzS2VnWVJBemdhMHNLRTdhblI3MVBRd1paRWpibVVTMFVGckRFOTV3dHkxdFpHdzdoNUd3SzVBMDcxVzFGVg?oc=5": {
-      "title": "○日本製紙、八代工場の紙生産再開断念へ - 時事通信ニュース",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11amR2UXFZbFJIeTlOdkZjVmZ4dG9ERGhHcC1CdmZVYWNrcFhMbU91S3M3ZE52Nk1sUkhKelJlY3BtLXZzYVFvNnFfN2w0RldFcDFrMFd3M2E0dWI2SUE?oc=5": {
-      "title": "◎八代工場の紙生産再開断念へ＝熊本地震で被災、拠点は維持の方向―日本製紙 - 時事通信ニュース",
-      "company": "日本製紙",
-      "source": "時事通信",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTzFxcG5weGQ1bTkzT2o2WUFiLUQyZk4yYTFMYm1JWWNwbFlmdUZ6SzlVMDJ1WHBYZGJCblA1ZFp5dXlSX0hYZGw2VHJ6WUFGUWcxUi11LTJZaTZxSExhbXhhTQ?oc=5": {
-      "title": "中国不振、２７年に反転攻勢へ 体制再編でＥＶ開発強化―トヨタ - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTXA2M1haTml0VXdMejYwVlI1WW92dTAwRGY0NnRNLWk2LU9mdDNQQmo1MXZ4LWM3NVgwZ2JIRnc4REhYOGJXbFZ4R3RxLThZQ1ljOVNtWDJiQTR0STlVVFUyUkkyc1ZaNy1iVjZ4bGFXVGkwVDg0TG5paEdIUQ?oc=5": {
-      "title": "揺れる米国に動じるな 「トヨタ、米国好調で営業益上方修正」など3本をお届けします - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82UFh0dWJRb25MWjJCcVR4TlR6M2RtZHNyQ0tMTl91MXFCQjliS19Cc2hFWEFTRWVLRnNzaThZRmc2dURyOFl1aHBRbHBRZzBFeUx6NjFUam1IU1hXcktiTjJQaFJOU1Q0YTN5eQ?oc=5": {
-      "title": "ソニーG発の新興が楽天回線を本格提供、携帯4社対応に踏み込んだ狙いを探る - 日経クロステック",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtTEFORzcyVFFmdzk4VGZjY0VuZDFWXzN1Rkhhc1VZM1Rfd3djNEphd0lKQ1Nhck54S05pV0prRkFVTWJlbHNkZFZJRnpsNHBtZGZLNnd1WW1fV3c5eXR5TWlyd1RQNDV0SkE?oc=5": {
-      "title": "イオンファン - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Ykdhb1o0QUlIdTRHYjUxdnFlTUFYSnhEYzVTN2VvTEQ5T21hYUpSemhEbXZkcjJoa1QyZnlKNG1vTkNsd1RtaGlkMEQxZnZMNG1wLW1VTGFta2R6TFhDX1ctMDRNZ2lXR2pDdA?oc=5": {
-      "title": "中部電力に業務改善命令 経産省、浜岡原発不正で組織改革要求 - 日本経済新聞",
-      "company": "中部電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Y2FQUVZBWWQwYTZRUEpQUFdMVl9qa1JyWjlEdW9XQjA3alRncGtiN3VhTmQzVzg4MmZzWEtyVUZVRzFPb1NUek5yODNjT2J4TzlSRjBaSlRwQTU5NG1fQk9MWVh6UQ?oc=5": {
-      "title": "【速報】経済産業省は浜岡原発のデータ不正問題を巡り、中部電力に業務改善命令を出した：時事ドットコム - 時事ドットコム",
-      "company": "中部電力",
-      "source": "時事通信",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uaGRKQjcyUGNtYWs1T05kcFRnZHh4TGN5T094blhENFpDSnVJb3o1M1lOZTlFYlhDT2J3ZUtNMjZZcWtuUkw0d1pnMFY1LTktV2Y1ak9YQ3k0azVoeWQtNDVUOTJkY1pmazJPUA?oc=5": {
-      "title": "アララ不正アクセス、影響広がる カカクコムや三井住友銀行でも漏洩 - 日本経済新聞",
-      "company": "三井住友銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-06T01:20:24.222785+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMERmdmt1S1B3aFpmdnlRbHlUdkNaOThvUUdQcE1XMjRrRGZWWXVuRGt5OERfQU1maXFFV19aRWFLMnNMYldJVkxsemdUSkdUR3NGU0pIdHlfeGt4NGVOQ1ZEZDBPMlFTWlY1Rg?oc=5": {
       "title": "三井物産、株価一段安 ロシア事業の地政学リスクで連想売り - 日本経済新聞",
       "company": "三井物産",
@@ -2603,7 +2537,31 @@
       "company": "ジェーシービー",
       "source": "時事通信",
       "seen_at": "2026-11-12T14:39:13.337377+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLVVRZUGgtR2djUG5xdlpJTWxqSVczVEY2Rm51Z3NFRU5jWGRUZnpfdllOMERnX19ndlV5aEdGMlBpQmlLWHNSWGlEUUJQeHp5UkRzbHdUZWNpc2JSTVh5S3hCMndBNEotMmZkLQ?oc=5": {
+      "title": "「ドコモ MAX」で業績回復のNTTドコモ、なお残る通信品質の課題 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-13T01:38:03.190321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNTBpV05BazNiN0ozR0JhYnR1TV96STJpTkRsQnJRVVF6Wi1rU3BJOG44cUJuaUt1NEVsMnZqZnZUcy1qMkRpS0tuenVwcFNOZ19ZbkNRNXpJUlpvVlhtc21VS1BNTFVCTUE?oc=5": {
+      "title": "光電融合の27年、NTT正念場 NVIDIAはGPU間を光で／量子コンピューター、スパコン連携で実用化に迫る 理研やNVIDIAが先行 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-13T01:38:03.190321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VTENxc2VLd2V4WGk2WExxUlA0ZTZtbW12SXhTYlYwcE5GaFptdUxJOEdWQ2c5S2RXNnlYVVZGc29GMlFjaVBISmN0dUZHaW9rVnh3U2lIYWdKMk9YaW9zN2t3?oc=5": {
+      "title": "【岡山県】電気設備管理・施工管理職 ≪三井金属グループ／年間休日125日／賞与実績5.78ヶ月分≫ - 日経転職版",
+      "company": "三井金属鉱業",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-13T01:38:03.190321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTElmWFBjb1NNZ2VXN3VmOHdXbXRudzhPVDhzcE1UbnJsQnY4a0VLWTI3TGU3NXFmbXYxdHV5N1puSjczaFlYUkc5N09tQVpWcHdPMV9CVDZYM2VLUmJVeW1hUmpLMTlIcm53VA?oc=5": {
+      "title": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待 - 日経クロステック",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-13T01:38:03.190321+00:00"
     }
   },
-  "last_updated": "2026-11-12T14:39:13.337797+00:00"
+  "last_updated": "2026-11-13T01:38:03.190688+00:00"
 }

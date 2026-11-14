@@ -1,17 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fWV9Ca0N4M2xIR1hEWVM5cHhKNHJuQzItRlJuQ0dEYk1GNGlTRkpFdUFDNkFmVExlRXFYRUV0WHVWaEZDRFYzblA2WFFmcGFOZTRDckJQUGpZbnVQRm8ySHVTS0Q3bjI1a0IwTw?oc=5": {
-      "title": "ＪＦＥホールディングス[5411]：半期報告書－第25期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-07T00:34:15.238387+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eDUzQVlENnNpT0hEd3hkYkctRDc2N1Q4blZWVXhReFNIZlhOMjZkZXhyelBvWXVrMWxYUGdCRnYtSzZJSWFFbTA0bkRaclVjVVVmbzM3UlRiYWZPT19NZXlSRHBRS3ZHbVU4Mw?oc=5": {
-      "title": "ＪＦＥホールディングス[5411]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "JFEホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-07T00:34:15.238387+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NekluT091Ul84ay13Y0pXQ2RFbGphNXAzZWZ0V25VQ2REbXZzRmV5U040eTMyS0dMMmdUYmc4a3RXbmpTbFhSVVdrckoyeU1UN2h2d1JRVGNWczhjWF9WdThvamU4b245V1pV?oc=5": {
       "title": "【Hothwal】EMS・赤青LED・マイナスイオンを搭載した多機能スカルプブラシが「Amazon 第6回Smile SALE」に登場！最大80％OFFの特別価格で販売 - 時事ドットコム",
       "company": "イオン",
@@ -2717,7 +2705,31 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-11-13T13:58:19.347015+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZR3lPZXJaZXA3RWpZSVdiYlNTSzJEeW9pejZuOWYxRjFFa0FoNHZOZmtCRzJobGZ4cXh5bTNGS21rYjE0ZUNxUEI0NDFLR2xPbXo3OUFaRHNpemVDYVFzTFB1YWpVX3lxb0EtZQ?oc=5": {
+      "title": "三機工業[1961]：半期報告書－第103期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "三機工業",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-14T01:11:49.791303+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LenFiZXNLN25MSFdPZ0h6ZFJ1U3AtRFZXeXdBdVBUWUYzRjE0UVREdVZ1TkJ5ZjN0dWRmeGxjNmNEVksyNkdsZ2RlN0h4V0N0UzR3U1hNaUNjNlE1VHJ6a0p3T0pkYTJ0aUgxVA?oc=5": {
+      "title": "三井化学会長「JSR買収で半導体軸に事業再構成」 債務減へ売却急ぐ - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-14T01:11:49.791303+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dzAxX1dPLXdDRzB5enhoelgxX2lOaXBUMk1nZTFkVTVaRV92WF81Q1ZrUUk3WEpmVFQwNDZHSzRMNHFmb21FSGZiTkh6Nk85eHduREVabmlyVjdjMzNNTEVwNjg5UkpOZEM4Xw?oc=5": {
+      "title": "低迷IHI株に底入れの気配 民間航空機エンジン再始動の「買い場」待ち - 日本経済新聞",
+      "company": "IHI",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-14T01:11:49.791303+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxclAxTGJPcWhlVmV6dFBGXzU3N1Q1LWo4N0U5RUljd1FwbTByQUdrLVl5Vm5rZG1aWmRHV0VUNjFUT2Jtd0xHZ3dhdlRqMUVHeUkxVllmemZUVU45MjRhSUNwYTVpR1RRTE5rSA?oc=5": {
+      "title": "東映[9605]：半期報告書－第104期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東映",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-14T01:11:49.791303+00:00"
     }
   },
-  "last_updated": "2026-11-13T13:58:19.347448+00:00"
+  "last_updated": "2026-11-14T01:11:49.791611+00:00"
 }

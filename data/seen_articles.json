@@ -1,23 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lNGQ1cGxGNHpESjZ6TWRTQkF1SmFqTHgzbGRVNEw1UTZvalZtU1FWVnZFTHBKWHFYeVlPSmozNU1YaGw4dE4tUnhEVWxFWm00OHFkdTVmTWpqUThMbmVnZFkyendnSG5EX2pESA?oc=5": {
-      "title": "イオン、衣料レンタル店を3倍60店に 冠婚葬祭向けを買うより安く - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-07T12:26:53.926497+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hZGhtalVvZTlJclVTcGUyQmpQSm8xZmdnSkJmZnhwaG5pZUxKSE80RnRpaGI2d2haQnNBQ0c3T0lLSGhFaExPTl8wSkl1ekhZT0ZrREhwdlBROTRk?oc=5": {
-      "title": "「イオンリテール」のニュース・最新情報 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-07T12:26:53.926497+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FT2hEU2dNWGhMNWNZZmZSc0l5WGdCT0E3Tkh2dlFjWE9pSXJkTnp0MjhhaWE0M2RtVFpteHc0Mnh6STY0dWlPaU9vRVZ1X1pzcExsb29GdUFkNTNiSGtqMU1jbUk2Rl9XUTM0?oc=5": {
-      "title": "TinyTAN公式ライセンス「Tiny LEAGUE」シリーズ発売！イオン7店舗で販売中！ノート、ポーチ、ステッカーなど、日常で推し活を楽しむ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-07T12:26:53.926497+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE90X0NTZlpGbFcyUlJIZzFGQUl3NmtHaFhaZTdKNEJhTGZuekJiR0xHSUpseG5KRld2ZHZXd29rdzREaGlqbTVKVmZsbG52NWVMVG9rNEpaaldZN1B0clk4VjI1d0ktYVpReVNSOA?oc=5": {
       "title": "クレディセゾン、アジア開発銀行と提携 新興国で中小企業融資800億円 - 日本経済新聞",
       "company": "クレディセゾン",
@@ -2723,7 +2705,19 @@
       "company": "東映",
       "source": "日本経済新聞",
       "seen_at": "2026-11-14T01:11:49.791303+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95QkZaN2phOVdJSzF5V25GYW82blNCX1o5LUtHYVBpczNpTmhXMV9aNXdCcFhNWTd5dXA5ZGFUN2w3UV82QkhsV21EZ0Ezc1FqY2FCWmN6cEZZd241RlhDVnJ6MWhFYnVQRzVn?oc=5": {
+      "title": "トヨタとBMWが水素のある豊かなライフスタイルを体験できるイベントを開催『BMW×TOYOTA H2 DAY』 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-14T12:57:55.203321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TRk10eEF5TWVnTzNxeTBqV1VmRTNGZUFrUzhiZ3hJMlJNOTNqU1J2QXNpblM5dkxqUjN3cERZNUNkZDhVemxsZ3F3a3VLcFd0T3VfRkxNbE1Ya2k0ODdidE9SQWNWU2JEM1dnMQ?oc=5": {
+      "title": "トヨタ、競技用カートに新型車 親子レース初開催で次世代人材育む - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-14T12:57:55.203321+00:00"
     }
   },
-  "last_updated": "2026-11-14T04:55:36.411145+00:00"
+  "last_updated": "2026-11-14T12:57:55.203735+00:00"
 }

@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90X0NTZlpGbFcyUlJIZzFGQUl3NmtHaFhaZTdKNEJhTGZuekJiR0xHSUpseG5KRld2ZHZXd29rdzREaGlqbTVKVmZsbG52NWVMVG9rNEpaaldZN1B0clk4VjI1d0ktYVpReVNSOA?oc=5": {
-      "title": "クレディセゾン、アジア開発銀行と提携 新興国で中小企業融資800億円 - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-08T00:08:45.195679+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oWGlJUXNXZ3R5TFpfSjJmbTVxbWlRLWtMNUFjSG9WaHJOYmJMSTdWOGMzb0djcTAza2p3M21oT3FNUjd2RXk1Sl9SSU1mMThQckY0NThoOG9NY18xczFMRnRUN2RpOXJXZDVv?oc=5": {
       "title": "【イオンカード会員406人に調査】イオンの抽選販売、51.0％が「あることを知らない」 - 時事ドットコム",
       "company": "イオン",
@@ -2717,7 +2711,13 @@
       "company": "トヨタ自動車",
       "source": "日本経済新聞",
       "seen_at": "2026-11-14T12:57:55.203321+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQjY2bzkzTWpWaDhmTGtzZ1lIb2xBUW9yQlBZejB2X0p4SWJoV3BKR2RuanBmRDlJaVhIcGNyLU1td3RtOXEzLWpxWm1Yck8xdzQtY3F0SGxXcHI0V3dvWjNGUDJSdHJ6ZTVqaQ?oc=5": {
+      "title": "サッポロ黒ラベルCM、2本柱に 「格好いい」に加え「飲みたい」訴求 - 日本経済新聞",
+      "company": "サッポロホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-15T00:38:29.933796+00:00"
     }
   },
-  "last_updated": "2026-11-14T12:57:55.203735+00:00"
+  "last_updated": "2026-11-15T00:38:29.934135+00:00"
 }

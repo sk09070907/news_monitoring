@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Q1ZWQ3Zxc1A0TTNEUU1xM2RLclpkQXI3MWFKeF9IUl84V3paTXFwSGxoeUo5d2tzS2pmckRObFdVa3dudTFWOWQxMXZBaFhaU3d3bFI2eHRJS1JQbW5kaTl5MzZzNmc?oc=5": {
-      "title": "三井化学のJSR買収、中国勢追い上げに危機感 EUV軸に半導体材料強化 - 日経クロステック",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZDFQelhYS3JzbVN5S1RNT0xqMWttdFJ2TVJobkk2am1iRDlITEh5YlBXYUxYcU5pUFZQLWRSbkxjVFlkVkl4Y3I4ckw5UFFHQkg4bmVVRjBoQzYyeU9nMHNqRENTaElGZWt6Ug?oc=5": {
-      "title": "広島ガス[9535]：半期報告書－第173期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "広島ガス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNXowQ19wUlhxNEtNQ0Q2am5KTkI4MjllMk14THVxblQ5SmtoM1haSzRRdjRRaEpoN3VRMDZadlJTTWZNVDVVekVQUEFPU3NPS2UxekEzUEY3bnJoWDJhanBmMEtyY1IwSUw3RWtYc3ZhNlc3b0M3ME1rSU8ydzg?oc=5": {
-      "title": "編集者の視点 ｢トヨタとスバル､米国EV市場で勝ち組｣ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eERSOWxXRURDNUJseC1jWlY4ZjZQeGM2X0t3R2hjZHRXR0N0U0dvdnQxRzVrclIxV0gwYnQ0LXNqR3M5cDFBb2pJTHpTc1ZUVkhjZUU0VVhFVENkX00tODJScmc4YVFXRTlGMQ?oc=5": {
-      "title": "トヨタ、軽トラを27年に米国販売 現地生産で小型低燃費需要に対応 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQ1JRRWdKSzdSQ2MydlJpa1g1R3ZTSEhwYURpVVk3TzBmejREeC0zcC1fd2ExN25BcHZLRTJBOGQ4VmVzUGd1QzZDclZiQlA5b2h0SXV5TldGcDhyOTgyUTl6aw?oc=5": {
-      "title": "トヨタ、米で軽トラ発売 その名も「ＫＥＩ―０１」：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40UGRzVXc4ejA1YldmUW5qUDJzN19fWTVPVVAwdnVEbWEyUzdrRUEwQ3ozemJqM1hNclNvYmJsTXlYQlVlS2x4R0pjUngtVG5YTk5tWmx1dWJfZVI0VWpWY1F4UVc?oc=5": {
-      "title": "画像・写真：トヨタ、米で軽トラ発売：時事ドットコム - 時事ドットコム",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNHU1a0dQa2o5MTdWZW9kTTA3OV9hWVBYNTcwMkpqSzBhSXVFeWRNRUVLYkdvdVhiUFNTRktmNFdzNDVjNGJNc1BxNE1zc1Z6b2FpbA?oc=5": {
-      "title": "トヨタ、米で軽トラ発売＝その名も「ＫＥＩ―０１」 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GcUo5VFR5VmhWTDdtUFhiM1dFdjhybEg4d0xzdEZPZ283ejg0RFdTZXJlcFFkUHNuclFiSXF3Ym1VS05WRGJlc0o5bE1pVHJaaE1aZw?oc=5": {
-      "title": "◎トヨタ、米で軽トラ発売 - 時事通信ニュース",
-      "company": "トヨタ自動車",
-      "source": "時事通信",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iRTRKYU55ZU9lTWdtamVDR1dvd1F0QVlJU3NPUkx0Z0Y5WHczcmt5aVh0SjgxcnpuUjlYd3lJc3cxN2lwZmUxeXlLRWpHemRzbjctOFhJc0VyNThkVzhWdy1Hcw?oc=5": {
-      "title": "リチウムイオン電池生産設備導入計画の立案・管理【徳島】 - 日経転職版",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11NVJmQ3dyQ19YeVY0dHdjbVZicU8xeXBSSzhoRkxrR3FWbnlnSjNDNmV4YmktR0RVVDNLT0ZDN3hnUEdvSXBhbVdiX1I1S1dXcW5MQlBsMVV0QmJrRzlnQWkzdlMwNzRxUzV1bA?oc=5": {
-      "title": "中国電力[9504]：確認書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "中国電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlRd09MUkVVdVFxY0RiUUJLa3Bad3cxODR2V1l1Sk81ck9GRXBmUS1lRVZjQ2N0bUJOUUtUejJ4MFJrUVVRanU0WHM5S1IzSGd0Tmt4NDRubXQ5OVc5LXk3NzhUNVVMVEMwUHRZSmpKSGt3YXdweHZJRmVKVmVzaGtpZzdqYUVmTkRIXzBMRmNLMWJKWWZ2dFhSV1liVUJTUlRhcUxTYUlZT3FfUEdYSkJ0Zzl1V19OYUFpeDJfNjk4MlZCdUJmbV84Rzg?oc=5": {
-      "title": "Ｓｐｅｅｅ[4499]：三井住友銀行によるオンチェーン金融インフラ構築に向け、中長期を見据えた技術検討を支援 2026年11月11日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "三井住友銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjSm5TM29hQ3V4aWd4bDlzeGUxVmNucFBkZmlQeU43U0dxdElNSDA5ZWF5aDBZWVJ5YWdvNG9IeTNJU1p0bnJFMTAya0pUbVBWYjdfQVJ1TTJLLXE3ZWVvSHpnLVVKaWhvcWJueg?oc=5": {
-      "title": "みずほFGやライオン、中国AIで独自LLM オープンウエートで低コスト - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-11T00:59:14.134722+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOUhBRXFQZndFV0lYUGo1Z01CT3BZekdfd3JTSVcxcFFuLUQ0cFFjVW9aQWhvdkoxUHRUZ2J2LW01blRDX2R1WVRWRjRwV0tjU1pJeXBWS1MtQ3lKemo1T1NkVFh6WUkyRVVB?oc=5": {
       "title": "NTT CPaaS Voice、電話と生成AIをリアルタイムにつなぐ「音声AIコネクト」により企業向けVoice API基盤を拡張 - 時事ドットコム",
       "company": "NTT",
@@ -2447,7 +2375,91 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-11-17T18:09:32.745808+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vc0ZnQmpjRWE1Tkd1VGlFeHpZOXV3ellfTUY1SWd2M3ZNSU1OeWJYck8xc3ZzbVh2SXpYODhuNy1oVEMzM1Fyd2l5SU5VVkE2T2w0dFo3SGJuSjFScUIxWUpYZ3hfSWQ4ZENvSg?oc=5": {
+      "title": "NTT、次の稼ぎ頭はデータセンター 「持たざる経営」にジレンマ - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Vc1QxV3pYT2hPWmZCNUc0VWhEMy1yekRLZlBPSThnODVZOGJmY01zY1o3WlhqcGc4ellfeThTTGZHeHBvWGNPQlZubE5oX245cE9Jb0RHNmwtYlVLQkpGcEY5TTV2RUx1WENpUA?oc=5": {
+      "title": "業績好調でもトラブル多発のNTTドコモ、12月の値上げ直前に非常事態 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16d1BSY0Nza0pUWnBQN2hhX2RPV2xNQ2xlc1BIZ0FDdlhEb3pHNHFJYm96TXZlZGZVMTZldDExWktHbWRVVE0wcUtmWDdXVHozQUNuVDFNN3A1aEhVa01vZHIzTHhaZTQ?oc=5": {
+      "title": "NTT系病院が医療AIの実証、医師も頼る医学書大手のデータで精度向上へ - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WYUhmbWZYVy1DOVRrYUd5MGJqNlFNOHFLZXJYZGNGSGJYd1BKSmRjTHRPLUl1eEZ4ZDBUUnZrZzFNUXlIVkgyblVkMldaNHRsN3N3aFRLUmZpRm85RUZtWmFmdUNHMmxQRlZVNA?oc=5": {
+      "title": "NTTデータ・ウィズ、さいたま市大宮区に障がい者専用サテライトオフィスの第2拠点を開設 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnNWt3M0g3TEZ1UkZGbXZSdWYyVEdULTBPUUF1ZnQ5dUlCZEpyU3pJcTM0WVVzTnVyb2ZTY0NveE5tcWZuRkRYbDRLVEttYmVqM01Edjg5MVNEVFd6VjFtajJ1TTVGQ19CTmow?oc=5": {
+      "title": "NTTコノキューデバイス、「イプロスAI-産業World 2026」でXRグラスMiRZAによる現場DXソリューションを出展 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUExIX1JsRTZxcVo3OVNLYm1vaGFlQm1oQ1BVU01qdDY2NmVsNXAtUnFwMWJQMk9TWXAwT2VpbmI4SVVNYW1kQnBqTmU0cEpGUjFUeGdiYUg1RVpIQUI2RXpaME9nekZfc0NFVWpOckVlUWVqN0tqLVk5bm1HejdBdUU1Z0tGN2c?oc=5": {
+      "title": "三菱電機常務 ローム・東芝とのパワー半導体統合を語る - 日経テックフォーサイト - 日本経済新聞",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uM2JIR2RjUTdtdzZYdGZjS05FNFBYRWFhalNPWVZSV2tYZ2JZeVNhOGFsM2RHa25lQ1R1azBocDRrRzkzRG41WVR2aXNJejNWd3NSQXdWbl9yOEIyVnlpLVZXeWNVYmhqYnhV?oc=5": {
+      "title": "トヨタ発・物流インフラ変革に挑むOneStream、大企業の新規事業開発の裏側に迫るイベントに登壇 - 時事ドットコム",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zYnBTWWVMc0FacUIwcUtpTFR0bVVMQ3hoM1A1VUduRUJnSXNtZlRCZnhYbml2Y0JzQmF6eEFOWEM0UFRiNzlQa3c3MzdjNlNzLVl0MTFGVTNOdEln?oc=5": {
+      "title": "楽天証券に不正アクセス、テスト環境から最大1570万口座分漏洩 資産情報も - 日経クロステック",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HUDBKd2dyaWxlTERtNHotQk84WEU2UGJTQUJpZmJBWFNHbTM0cmh4Q29jR29RZ1ZkWEZZODFIMURjZjdpS04wOFNLLXhNYVYtcV9TRXJCSTA3WTRacWpIeUtoQQ?oc=5": {
+      "title": "【本町駅3分】ECサイト運営・Web販促企画◆自社EC・楽天モール/経験者募集/完全土日祝休/残業無 - 日経転職版",
+      "company": "楽天",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnejN3RWFQa2FSUk1RRWlpcjdwbW13dm9DdVYwX3FXT0Q5Y0FWaTZqQTNoWHNzRkRNQnN3dHRjTzJ0cFBtb0hrMnE3dkVvWVVHYUU4eVpaRUlqUk83Z1pTODF0MWh6eHk4Uk9v?oc=5": {
+      "title": "「日本一のさつまいも」を幕張で試食！京丹後市が「楽天超ふるさと納税祭2026」に出展 ビンゴ・Instagramで特産品が当たる - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FVFN4X21UaW94bV9xbzZMajZKRVo0UmRzUXZfZDFzcXN0bXNrTFRHUUxuMzF6WW1kWlU4ZFhCVjZxWXhtYWxWWDF2bEFsQktLNTlreWJkUHM2NHFKSDUwdFZudHZhQ183YnRpMw?oc=5": {
+      "title": "イオンモールが避難訓練 避難後の再入館防止、熊本地震教訓に - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRzd5SHp2UWE5OWRCYWtSa1JIemhsamg3NXhueFNXMTJxb0ZvZF9Udms3a1RBNlNGTnpJZERCdWQ0Q2MwUDR4VEEwZ0x6WDBFNXJWRHlvVm43SlpZdzVaZFNISHY4ZGlMLXc?oc=5": {
+      "title": "イオンファンタジー[4343]：世界中で愛される『PINGU（ピングー）』の限定カプセルトイ第三弾！「フェイススクイーズ」を 11月25日より「かぷえぼ」限定で展開開始 2026年11月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcndabG5ESC1KYktTT1hXeE1mcnFPb3I4dHhxX3BLNUw4VmwzWXFLRDU1aUkyTVBHWXRJNnJyS3RUUDNlb0ZVZ0ZCaGFPay1FbFlQd2toOTVOMkhLMVEzNVhEQzllTmF5V0pPRWhMWmpNMEx6MmIwaVJacnkzYklNRWh4cXBkdUk?oc=5": {
+      "title": "横浜国立大学など、Liイオン電池の高出力化に多孔性グラフェン - 日経テックフォーサイト - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Yl81dmN4djFiX3RtRGRQbTNHS24ya0hMWUwtSlE1eEVnTEhJaDd2dGlsV28ybTRQcHV1MEVXWlRHeklMcVVmS2NKTHloMlJsbC01bWxwT3JCY2JIWll2N2xpOA?oc=5": {
+      "title": "【福島（いわき）】製造課長／新規リチウムイオン電池再生事業立上メンバー募集！ - 日経転職版",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-18T02:42:24.619002+00:00"
     }
   },
-  "last_updated": "2026-11-17T18:09:32.746347+00:00"
+  "last_updated": "2026-11-18T02:42:24.619349+00:00"
 }

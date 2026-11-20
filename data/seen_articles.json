@@ -1,29 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLVVRZUGgtR2djUG5xdlpJTWxqSVczVEY2Rm51Z3NFRU5jWGRUZnpfdllOMERnX19ndlV5aEdGMlBpQmlLWHNSWGlEUUJQeHp5UkRzbHdUZWNpc2JSTVh5S3hCMndBNEotMmZkLQ?oc=5": {
-      "title": "「ドコモ MAX」で業績回復のNTTドコモ、なお残る通信品質の課題 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-13T01:38:03.190321+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNTBpV05BazNiN0ozR0JhYnR1TV96STJpTkRsQnJRVVF6Wi1rU3BJOG44cUJuaUt1NEVsMnZqZnZUcy1qMkRpS0tuenVwcFNOZ19ZbkNRNXpJUlpvVlhtc21VS1BNTFVCTUE?oc=5": {
-      "title": "光電融合の27年、NTT正念場 NVIDIAはGPU間を光で／量子コンピューター、スパコン連携で実用化に迫る 理研やNVIDIAが先行 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-13T01:38:03.190321+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VTENxc2VLd2V4WGk2WExxUlA0ZTZtbW12SXhTYlYwcE5GaFptdUxJOEdWQ2c5S2RXNnlYVVZGc29GMlFjaVBISmN0dUZHaW9rVnh3U2lIYWdKMk9YaW9zN2t3?oc=5": {
-      "title": "【岡山県】電気設備管理・施工管理職 ≪三井金属グループ／年間休日125日／賞与実績5.78ヶ月分≫ - 日経転職版",
-      "company": "三井金属鉱業",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-13T01:38:03.190321+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTElmWFBjb1NNZ2VXN3VmOHdXbXRudzhPVDhzcE1UbnJsQnY4a0VLWTI3TGU3NXFmbXYxdHV5N1puSjczaFlYUkc5N09tQVpWcHdPMV9CVDZYM2VLUmJVeW1hUmpLMTlIcm53VA?oc=5": {
-      "title": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待 - 日経クロステック",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-13T01:38:03.190321+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oVHVGOFNjWTNZNXR0cU5wNEJSRGJhcEJaVUloMTNLdTlpbUtrUnpfUWpTYnNqNFhYX1R0V3BYeG80eVk5WFRXeEtQWHE2QWVJbHg0U3B2RkVRTE9RbFVKVG8zS3dtRUx1WVZ3eg?oc=5": {
       "title": "NTT東日本、電話窓口や会員サイトに影響 マイクロソフト障害で - 日本経済新聞",
       "company": "NTT",
@@ -2171,7 +2147,115 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-11-19T15:16:18.864842+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwT1pYV2xVSUdmd21HRlVhWnFFc1hVNnNPOHZ5ajZBWW12RmNuY25RTV9xZEFDM2x3U0picG4xS3RoUTZBdXBKT053QmNkRV83dmdTd0JTbmJBZEVNMHZEQU1yTWNMbFJiWlltbw?oc=5": {
+      "title": "NTTデータG社長、データセンター投資で合弁設立「まず米国から」 - 日本経済新聞",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjR3gtY25iYWxDaEZYa09KUTU1Sk1xZnNuZlFGaFp3cVBxY2dzU0VtR2l0a09XMEM0NzEtSEY5YUlMTnVmUklWMGNvcVpubmI2Rjh6X24zMkUxZFM1?oc=5": {
+      "title": "NTTのフィジカルAI技術、ロボットが動く前に失敗回避 棚積み成功率9割超 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTE5rcGZCeEFqRlFkeEFqVHpLSTd6UWFYMVJ4VXRtcFVRTjREbVJCZk5FMjZoQ2RZU2J5dEZ1VTFQWTFpRGpCNjVmOXJJZmZzV3BBakdQZWRHNUJsWVJkUEdGYXpra1pQZ2VSag?oc=5": {
+      "title": "ランサム被害のアサヒGHD、135億円を投資 AIで侵入・攻撃検知 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYdkVwTUpnUmlvWWU5a3kxTnpNR3NBMXBWWlNXR2xfU1VBZVVDX0JsYUdkZFNxNE16dUdGTVlSc0czaGM1ZGF5R0E0YkZ4ZHN3aV85NFNjYnpkSDUtQmlaUDc0SzlmMm50bTF0Zg?oc=5": {
+      "title": "決算:三井化学、「小が大のむ」JSR買収 のれん9000億円の重圧 - 日本経済新聞",
+      "company": "三井化学",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oREtMQ043T3hHRWJ0Q1VnQ0Q1MWZ6N1d1ZUJoUUJXVlNRcHRnRzZDZHdtZGJ3cW85TE8xWXJVdGJGcjFFYVY3a0h6Z2lvYWZYQldUSk50cWxBNUVSMlVPNnBseFd0UlZ3OEtKdg?oc=5": {
+      "title": "VMware顧客3社の決断、東芝は離脱・OSGは旧版で節約 福岡ひびきは新版選択 - 日経クロステック",
+      "company": "東芝",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZVTZfTEllNnhpUEszQ21LcHg3anEyRnZ0S0NLVlRpaWpwSWhHMk9ORU83c0FPVlVGcG0xOEFKNWQ5aVRsSWVBN3cwT0dRejJ6T1NzdHhrelA5UkMyU0V1ODNXMEk3MlNnR19oVEVhclRPM01QNzFr?oc=5": {
+      "title": "循環経済の開示枠組み「GCP」 パナやトヨタ、先行実施 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OekZ2WDBQamd1Y3RCTnZIcEJOenVSRklqNWdBRGRBWUluTDk5T1Q2bmdyWldYVHFMLXBNb3BuekVEbVd4OWdHOTlFNlktRjJFZGk1UnNQN2NiV1VHQ0RCakpjazRYNXhVWkdKeA?oc=5": {
+      "title": "日本車の世界販売が26年度一転マイナスへ、中東不安でガソリン車減速 トヨタは2％減予想 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzRk4yN0pzeUFGSVk5MzFqUGtFMFlLLW1RRTNYQjJCTnRNaGdrNjU5aUlKa0F4SGhvRktzTDhGU3hWS1BRUUFxdFNjRGRjeDBCU3VPNHJXVEtTZElORnN1TzBnem4yQTJTZWRPdEZJSQ?oc=5": {
+      "title": "楽天証券の情報流出「遺憾」＝片山金融相、再発防止徹底求める - iJAMPポータル",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reExYVXBzWnhjUG5NRDVlMEdnVVhLSU9VdURMQWl2ZUswZXg5SEFWMmVJU18xVnNqd0tpUW9RcmoyQlZNampNOFkwbWJjOWFFRG1JbmlhUXdPRmdLUHktZnVuSQ?oc=5": {
+      "title": "楽天証券の情報流出「遺憾」 片山金融相、再発防止徹底求める - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rcUhiTXRING1WQ2JMZ3p6SURpVlFLTHZCZlluZWl0dWVPWV9FX2pOLTMzb2lpZzQ3eFEyNDBFQzZOOUhrdjBUSk9OYnpadEE5M1VBVkgyWHV5RmlnRzVZQmRFZFFsS3llUllr?oc=5": {
+      "title": "AGM、Android 17・256GB搭載の8インチタブレット「AGM PAD P5」を発表。11月27日よりAmazon・楽天市場で予約販売開始予定 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zVlJsMjZOcFVmeW80UGNiTGRWVlR4bjk5cXRiX0VkOXBobkUxZWc0SVBCbDI0enQwZ1BRU0traC15SDItUEVNR1VWS1p5ZjAwcW40a0dKaHpfY2FmVl8xQzNDd3FmM0pHRkFj?oc=5": {
+      "title": "【MOTTERU】11/19（木) 20:00スタート「楽天ブラックフライデー」にて新商品・人気商品を最大約60%OFFで販売 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEtFR3VOR2t0QUdJQUMtVzlCWFotZHpiR3hoTzk2TC1qVU9uOUp5cHJ2U1FuYURxMEFwR3JmZUVGMmRQNG11c01qN05EQnpTRGdRSG5YVEtid284d19SYmN4YmlHaGF2elItRThqbDJXaE5STFdHQUJ0M1dZRGpnQXB6WmxleXhHSVFtSXBPTTczZUNnYXo4NHVfdXpkeUFmZVo4YWE2bWpuQklnY04zYmNJRHhNTnNZX0I5RUhrSUZFc3FMcHlfcU5Dck0?oc=5": {
+      "title": "イオンファンタジー[4343]：山梨県初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ) 石和店」 12月3日（木）にグランドオープン 2026年11月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WQVB6c3BaUk55VFBhZEdHQVdDQWdwZ2tDRHpkVExWUEpwZXctcGZyeDJaRHdrS2Q1NnI2YlZuTzZyNGpQejMtRmVhVmg0VmtINGVOaERCdTl0NHpudE5Id3VpWmZxM2RqYXc?oc=5": {
+      "title": "イオンファンタジー[4343]：株式会社イオンファンタジー 統合報告書2026 2026年11月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFWklRVkNlRmlCTEVJMkpWSlc1alNuRmxMaVhWLU5YQUhnZFkzQm5iRWtKaGFIaVNYdGpsZ3ZUUEUyQlNjR2I1aXNmM1preVE4a0FDR0RodG5fM1V0Z0N0WFNrekFYb2tDdjZkVQ?oc=5": {
+      "title": "みずほフィナンシャルグループ、最高益 - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12TVNkZTVyYkQ1V1NjWVB0OGJwT0FBcmJ0OHFkb3BVVUtTd0ZwdzEyLVh4UnJLbXFJeWZMd2hWTk1RZS1VYTg3c3JPTkp1WEJqYTNnN2lKaFRvZi0zLXdCb1hhTVhrSnpkOHRyTw?oc=5": {
+      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "みずほ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWGJ1MDIyS1pOUmdLOWw4dHRKNHoyd2t3R1Y5WHNNTklhWk1iSUNUOExqdGFfU2xkT2NhUjZsN0dJbDNOdTlHYWhDWjlvck5ISUhDRnhFbEVLbUZ2ekcyVmZzNVkycTUtSnNtLQ?oc=5": {
+      "title": "三井住友トラストグループ、最高益 - 日本経済新聞",
+      "company": "三井住友トラストグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5heldUeWV4NlB3ZFhTeFZvLTZNeEJoSU9QTXRsNi1FNktKTTRHaHZaSDQ4UzRpVXRsZ3BOMVd3bjJGbHJIdXdmRnVuZmE0MDhtQS1mWE1SaTFFaUowTUh1QkVNcHJ3UlVCbUE?oc=5": {
+      "title": "大和証券グループ本社[8601]：AIエージェントによるオンチェーン取引の実証実験に成功 2026年11月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OLVRwLWdtVy13TlVmZkpLWjYxUElFcFQ2bTRJRlRzM0N3V1pwNkdxUlh2bnpPeFVwZXFpeUxscDJZNmI1YktoZ0J1dW5USDNqV3A0Q3BaNlBTMzA4VmN3UVBydXRQQVNNMHc?oc=5": {
+      "title": "ＳＢＩホールディングス[8473]：2033年満期ユーロ円建転換社債型新株予約権付社債の発行条件等の決定に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "SBIホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-20T02:00:01.037216+00:00"
     }
   },
-  "last_updated": "2026-11-19T15:16:18.865223+00:00"
+  "last_updated": "2026-11-20T02:00:01.037574+00:00"
 }

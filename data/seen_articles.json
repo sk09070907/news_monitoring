@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQjY2bzkzTWpWaDhmTGtzZ1lIb2xBUW9yQlBZejB2X0p4SWJoV3BKR2RuanBmRDlJaVhIcGNyLU1td3RtOXEzLWpxWm1Yck8xdzQtY3F0SGxXcHI0V3dvWjNGUDJSdHJ6ZTVqaQ?oc=5": {
-      "title": "サッポロ黒ラベルCM、2本柱に 「格好いい」に加え「飲みたい」訴求 - 日本経済新聞",
-      "company": "サッポロホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-15T00:38:29.933796+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ySl9zQkowR3lHYjNlbjRfc0NRUnFWTnloWUhFalVPOUdqQlpsMEUtNXZ5cUFBc3BuNFgxU1hLVUI0M21HbTlNXzZhQUhZdU5LcTNkSVVwQmMyOXg3SU9XYzY0OUpsYzU1TXFB?oc=5": {
       "title": "【楽天市場で販売開始】しっぽを引くと柴犬がぷるぷる。カプセルトイ「しっぽぷるぷる」が、おうちに届く\"ガチャ\"に（1個660円） - 時事ドットコム",
       "company": "楽天",
@@ -1991,7 +1985,19 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-11-21T05:38:20.341061+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DbVVsREd4TWZtcjN2eDZzUV83Rkc5ajN5akdOeF9Fem5lYzhmX0h4eFAtN0xOMzB2cUt5V3JKS21sWXV1RlRnSlVTRUZmRXp5RERBNDlSd0E5Q3hpbjJuVjBCQktvTmNJVjN2Zg?oc=5": {
+      "title": "ミドリムシからリチウムイオン電池の正極材料を開発 産総研 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-22T00:51:54.139183+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81MzBZRy05WEJhbVZBOXUyMUF5ZFlRT3hLMDlzdFFHanNjMVNkdnlLdzQ3cnVqMFA5RjdweVdBUWhSQnpndnByUURTTFZqaTA?oc=5": {
+      "title": "DBJ証券株式会社【日本政策投資銀行グループ】の転職・求人情報 - 日経転職版",
+      "company": "日本政策投資銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-22T00:51:54.139183+00:00"
     }
   },
-  "last_updated": "2026-11-21T14:12:00.953884+00:00"
+  "last_updated": "2026-11-22T00:51:54.139491+00:00"
 }

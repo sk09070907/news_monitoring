@@ -1,119 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MnYxcHlhY2EzdUQ3R1hjckdjT2dGSkhsNjFKbEZwV2ZlekxfcmpUT2xwT2ljbjQ0VW50UHQ3YXB0dEVhVzdkNDlIMWMwTWhmc2xYM0FXZ1FZcXJzZzVQdU1UNVhjWThPOU4xZA?oc=5": {
-      "title": "豊田通商、車載ソフトウェア事業の強化に向け「豊通デフィネックス」を設立しデンソーが出資参画 - 日本経済新聞",
-      "company": "豊田通商",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TdUxIWGNrOUNwZmg1ZnVHazdhX0NnakRBa1JNdHRXNDQ4cEV1SGQzY1NKQjExZmZ2ZzlGYlJWd1FCeldnYVNzME9xNjhTMG85d0U3OXIwOXpvZHlOdlRSdVhaZnB3UHJjX0JZ?oc=5": {
-      "title": "豊田通商とデンソー、車載ソフトウェア事業の強化に向け協業 - 時事ドットコム",
-      "company": "豊田通商",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsUDUwSzFtZmVUYmZTSFRiZ0c0N2J0bmNWQ0ZaTlFvTFdmNE1yb21LdjhLcTY4REcyU0JpbXFndUFodW40djlFQ2ZwbGRYT2FWZlpac3NjNzVaTDhyTGZjWllLRnpVQnhOclVxdw?oc=5": {
-      "title": "アイリスオーヤマとNTT西日本、「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13U2dKc1ByNWRlZk1hYjd0NFhlY1JGak9HcXFuWlhiTklpSVdPcnQyNmsxZXJOUGIwdi1lczB4V3J2MVN2WVVkZXlTSGxDU09NekNaRFU0b002NGRYLXVJTU11LTZlckpmM3JNQg?oc=5": {
-      "title": "NTT、光量子コンピュータの普及展開に向けたソフトウェア技術の研究開発を推進 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oQmlxcmRDLVRLemxKaEhrMEI2WUEzd3BCYWFuazRvc19VSUpaaXFJVUlUeUdzZGluNUNRQTQyWVZKbjhwMUF5Umw1N0JkNUNYTXFzZkZHZmRaOVVlNFk4Um1TUWlfTzIyWVk3bw?oc=5": {
-      "title": "NTT、検査対象のソースコードを外部AIサービスに送信せず高度な脆弱性解析を行うAI技術を開発 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKejlfRGhZOTZHbWNrV28yTHVBWlM1UUstVnVTOXFhUmpCQTFaQTFCMjE4cDlOYlJxTjVZbm5vSzlXV2t2X045LVU4eFNYQVkxdjVoYkVYeUI2UmQzLTFpNTRrUENNZWlmSFJz?oc=5": {
-      "title": "アイリスオーヤマとNTT西日本「マルチロボティクスプラットフォーム」※1を活用したフィジカルAIの共同実証成果を発表 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CR2lsbjZxc0lzdzU1QWg4ZGQ5dWFvNUlyQXFDd2NhckZjNHJaR1ZtSkpVOTh3eTJQdFNRZUx4Y184LVRiUmQyckFkN2xCYjZrcG9WaWFDVlVMVHZLa1kxdTJhZHAwS015MkM4?oc=5": {
-      "title": "NTT西日本に「ugo Nova」を導入、「NTT R&D FORUM 2026」で公開 - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE54WkY4TnpVOHQxNkdvRVBYWmVyTFl1bkhUYnhCZEpBV0pLc0czUFd4c3BvcVRKSjlRVXlLb1cwbnRuQmtuQVpON0xXaDNhd21QVUZWWEtZd3RVNFdXTWJESVgzTFNMVHE2SnpRaQ?oc=5": {
-      "title": "王子ホールディングス、最終減益 - 日本経済新聞",
-      "company": "王子ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rWnlPSkdqWDNkQzRXOHhMZHBsMjE2QjlZbEhGb1NLY0dnczhIWFd6V3NqdWxuSG5uLWF6aW1TM2JUOFdMbjdrN3JTSnFMd2Q5cENYcGNIX21iR2xlbVFfeGw5Zld0d3NPUDhLMg?oc=5": {
-      "title": "日本製紙、最終赤字 - 日本経済新聞",
-      "company": "日本製紙",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlUGI1TV9hM1I1NFBrSXo0RTJaNG1UYndHcDB4QXYwWko3R0JlZl84UUtpRENzZXZ6MlUxQVRPT3d3X081cmtmMEQ0bk1OOUFxcXZRazNCenRReUJfYzVCT0hnSUNFMHdoY0JsYQ?oc=5": {
-      "title": "東京ガス、エチオピアで電動モビリティ事業を展開するDodai社へ出資 - 日本経済新聞",
-      "company": "東京瓦斯",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcWI0UExfalMxSmVuNFprc0ZSVmg5NXNtaWxRX1d4bWZBUGozTXFKN3BQemJSSXc4aFhrNUQ3eU5zOXpXXzhFYVc0VFIxdlB1dmxPUzJCYXJPX3dPdEJ2TlJSTHZYbVp6Y0xUVQ?oc=5": {
-      "title": "太平洋セメント、下方修正 - 日本経済新聞",
-      "company": "太平洋セメント",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVJfT2dJNzBHNklObXNxQWlmY3pPblM1MC15QXhtS0xJb2MzVkIwenkwQnRWTV84OVh3M2t1ZUtMTXY5SXZKTlllTDZfYWdoUUFQc0wyZzhES0NDTTRySkVXR0NsVF9RdjFUYUxVTzhHcDZYVlo1a2IxNV92UmpjUGZFMHQwdGtZRnljS3Z3RUxwdnhHc1BndmhoZG13aXNBblBWbXhVaTZxSlFsNkNIaVptMWpOOXEwWG9xRDRvY3BzQVB5cEFoWXVwMFA?oc=5": {
-      "title": "イオンファンタジー[4343]：ファミリー向けアミューズメント施設「モーリーファンタジー」 屋内遊び場「のびっこ」がそよらひたち野うしくに 11月18日(水)オープン！ 2026年11月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HcE9fVUJNRE5EeVdaWlZZWDdnWHpBX2FhWUZsNE5BSHZ4aHhzTmZLSUtpOGNubFJqSjBxSWs1VzZqbnBnbVRqdVRFU2dKU0ZSNk1WX3JsYnA4cVZlSjdIRFlCY3F6QkRjWmdn?oc=5": {
-      "title": "【銀だこが、半額！？】イオングループ「イオン 超！ＢＬＡＣＫ ＦＲＩＤＡＹ ＦＥＳ」企画に、築地銀だこも参加！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdHZZaWF2Nl80Tk1oWUNJdXJuWktiY3JKc3o4dVBoYnQ3NlcyYkQ0ZFpQbXZ4d3RjbTF2SmF6ZWJuVFQyZFZ4LVBIeVFDM0xmOE5FZmpCSlpqclJpclNmT2k5eTBOcTlvckRJ?oc=5": {
-      "title": "「リチウムイオン電池等の製造・販売事業者等と連携した回収体制構築実証事業」に参画 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sUUpYcUZ3Y3Q3Vkc1SWQxWUI1b0dwWG5nNGpnalRhZGFuaDY0TlZnajdHaHFETy1iVEg1NHV5b1Bac3JYRjZkaHRhTzB5bGV0ZkxwMjJFYnlUZkJ5QVhoTzRhZjNXbkkzSVRn?oc=5": {
-      "title": "【福島県初出店】話題のりんご飴専門店「代官山Candy apple」が11月27日、イオンモール伊達にグランドオープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STFRFWGFDdXVfSEkwNDhwT1YtWUROV0c0S0k3TWdBZHpSdHNTN0xrSmx5N3dEM29UdmhhVnJPc1padEFSYnktOTU2YXZCbDQ0NXp4SWQ3QnFDZkhZTzQyOElWZktWTkhmVm5J?oc=5": {
-      "title": "電力会社はなぜ自ら蓄電所を建てるのか――関西電力と中国電力の2事例を読み解くウェビナーを開催 - 時事ドットコム",
-      "company": "関西電力",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OdHJZM1dtSjFhLTlSS3FzdEVOdmNrQV9PVkxwWkdaOWIyZDUyU0dkREQ3bWxVakZocmkxVmdaWnF3azZXUTJkYlA4S3BfdFpKQ2tzTjFFQjZFY250RnJiUWZtQXNWd09wRG1UMA?oc=5": {
-      "title": "村田製作所、北陸電力と陸上風力発電を活用したオフサイト型のフィジカルPPAを締結 - 日本経済新聞",
-      "company": "北陸電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQcjhkNXlob2Z6ZlplZWFremtyZTY1SmVERmNGb1AzY3dHOGd2RzEwaGVLRFhfUWJhdnNYekFTV3ZXSGw1cHppWnFkbGRFYzFkLTl6dmVqQUoyVDBDc1lSLUJpbDJEOW5DdEpF?oc=5": {
-      "title": "リコーと東北電力、GPUクラウドサービスを活用したAI環境の検証を開始 - 日本経済新聞",
-      "company": "東北電力",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFByOVpRZnlnc29fUUhaZG5nanBZajZ6UFZHYVBFamM2VHl2eUVpQmVna2xyMzJkVm14eVNpM0xEMkhLR0Z3Q2ZIQ3dzbjAxOEJkSGxPOXRpaDVwZ0d3enRkNFFQX2NEN050LVJz?oc=5": {
-      "title": "Tensor Cloud、オリックスが管理する太陽光発電所の発電量予測に採用。AI予測と需給管理業務の自動化で、精度とスケーラビリティの両立を実現 - 時事ドットコム",
-      "company": "オリックス",
-      "source": "時事通信",
-      "seen_at": "2026-11-16T04:45:39.435920+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80TV8yV2JXZHk4YXpTUnRSTEx1YWhRTFhjVk5vV0FaRlI1cW5qQWlhdm5QWXFndnhjR2k3akNGanhmMHNrSzJfR21LUnRxcWduTHdVVw?oc=5": {
       "title": "◎豊田通商、車載ソフトで新会社 - 時事通信ニュース",
       "company": "豊田通商",
@@ -1949,7 +1835,13 @@
       "company": "東京電力ホールディングス",
       "source": "日本経済新聞",
       "seen_at": "2026-11-23T01:20:55.796621+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cWZCcDJzZG9FQlE4dElLYmRhYUdqZFRDVFpFRDY0U2I3cGVuYktPUk5SOEVwLVYyQ3JxYU5yV01HTFhXX01Bdl9qNm9qbVYtV0lDMmNlVmdpMlZxZUhHekFON2F4Nms0akk1Xw?oc=5": {
+      "title": "トヨタ、レースで人と車をつくる 「ルーキー」が国内最高峰で6位に - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-23T05:45:40.138000+00:00"
     }
   },
-  "last_updated": "2026-11-23T01:20:55.796782+00:00"
+  "last_updated": "2026-11-23T05:45:40.138257+00:00"
 }

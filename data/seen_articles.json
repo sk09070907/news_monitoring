@@ -1,47 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oSFZPRmtST3dHNVpRZFJYQ1lBc1N5cTBmcEIwTjVETFg2VVl5TUc3Y2p5S2JhTlZOdUh5S0JvcDBka1lic2RKYkxMaVp1VDJuVTl0b3ZwN0xLTklTNWJDOXh4dE9FX2FEOUZLRw?oc=5": {
-      "title": "NTTファシリティーズ本社オフィスの改修効果、年間1億円以上と試算 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kX29nTVVDc2hPMlFUa3JwclZDc2VwS24yQ3JtTlozM016NEdCdDZ5bWotRVduRFR1VFhtWVFMbTJMd2dUb3VDcUdaVVh3VHRnYUljYmduTFhIc01nT1QxcGJtYVdwbmkybVhQRw?oc=5": {
-      "title": "NTT系、データセンター排熱を陸上養殖に活用 共同実証開始 - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EamlOaW9jaDFTRGVlUUFmUTFpV1B3NEdZLU9tQWFwa2Zna2dCNXhlRVl3cnZlVUlSX3JrMDJ3SFFlUnRyVGF5MmVXMUkwNkQ3STF0UG1ISXhVakMwc0laLVFVb0g1dmRjTkh4M1psSW56NU9LMC0tQUFiczg1dw?oc=5": {
-      "title": "三井化学株、JSR1.8兆円買収に揺れる 時価総額の2倍超 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03VFhhZ3JHM29vYjJmYnp3LUs1c0RFcHpXajRrRmpwRTFQTXpWS2ppZzU3OFBha3FQaXdGZUtzVGFnQjJwaUctM3lnNGNwNGlhRXRmQ2FlLU5rb2t4S1JZSjI3dHhwcFk?oc=5": {
-      "title": "［徹底予測2027 自動車］中国EVが世界席巻 日本勢は輸出減でトヨタなど国内生産に影響懸念 - 日経ビジネス電子版",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NRjQxM3FGUHdpNVNxaXp3MDJGUGxXTXhoSWRNSkRZRkJFdjYxZU02bkUzZFNIakNZY01ZT05VZWF2V0F4S2tGTnNaVC10VkF1eERGT1RuQ0VDMnVLOXFYUmR0V1JyY2VJYnlJTg?oc=5": {
-      "title": "三河みりんのカクテル、飲んでみりん？ トヨタ車の設計会社が製造 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TdTFpa3htSS1wTmpXcnpXa3VMRU9rUEFKVjVFMTRqNDN1TldGaU9jWUJJOGRTVlIwUmxRZmJhb0xGTzYzLU9vSFFXellLOE91b2xVcC1McGlxMEh5b2JJajJhWnJ0a0d0aEpqcA?oc=5": {
-      "title": "工場現場で障害者働く アイシンやトヨタ紡織、電動化部品で就労拡大 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yNGNrUS04cHNfeHVVUGhuYjRVYnZobHBiTlY5eC1wRVc3M3JxWjUydEV6TXRoR3BnMVRTVnpTSFlNOFlaR1N6NzFsT1RpUnBUSjAwTllHNXdSS2EzZUQ4ZlE1eFAxcm5fRHJhNQ?oc=5": {
-      "title": "アイシン系の音響器具ブランドTAOCに熱い支持 鋳鉄が生む忠実な音 - 日本経済新聞",
-      "company": "アイシン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-16T00:38:41.791807+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MnYxcHlhY2EzdUQ3R1hjckdjT2dGSkhsNjFKbEZwV2ZlekxfcmpUT2xwT2ljbjQ0VW50UHQ3YXB0dEVhVzdkNDlIMWMwTWhmc2xYM0FXZ1FZcXJzZzVQdU1UNVhjWThPOU4xZA?oc=5": {
       "title": "豊田通商、車載ソフトウェア事業の強化に向け「豊通デフィネックス」を設立しデンソーが出資参画 - 日本経済新聞",
       "company": "豊田通商",
@@ -1985,7 +1943,13 @@
       "company": "楽天",
       "source": "時事通信",
       "seen_at": "2026-11-22T05:03:41.443721+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWV0pxc2VuOUFqSjJCLU5BZ0hzMTVPU3VVQUxpc2dHX1JKb0NMS3VzU3k5Z2xhRmU1alJxVHhQbVZLQkYwTlFpMUl2c1pJWEhmaDhPUFphbW9UXzNCSzJuNWFwSDVndFpmTEg1OQ?oc=5": {
+      "title": "東電、柏崎刈羽原発で死亡事故 安全確認まで全工事を中止 - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-23T01:20:55.796621+00:00"
     }
   },
-  "last_updated": "2026-11-22T14:01:57.929761+00:00"
+  "last_updated": "2026-11-23T01:20:55.796782+00:00"
 }

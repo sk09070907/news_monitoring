@@ -1,77 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PU0JlY2xJWFdpUnRpMHVYYVFpOTVYYm9ZZGlzQjBzbWhjTHQ4R2tRUEg5QWFfOXYwbkFGQ3g4WkpDdDRMalNxaldSOTZIWjM4WTlXVTl6emNQVFZVMi1LWWY3YTYxVTA?oc=5": {
-      "title": "NTTが光チップレットを31年量産、東芝系や新光電気と連合 - 日経クロステック",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxORERjSUdrdzE2S2Mwd2YzdTBzaHREb2x3ZlRlWFJLR05LODVtdnpLOGVveVVURm1UV0VlZ2hqQ0hRU2NMTi01MzJsaHk1aEhuZWw0UjBLSC1tR1FCSUQwUklYMFA5ZWdDa2VBdVJiUWdHeW92Z1RNdDQxOGdBYzdvTm1jUGw1Rzg?oc=5": {
-      "title": "東京大学とNTT、物理深層学習を省資源で 計算量最大90％減 - 日経テックフォーサイト - 日本経済新聞",
-      "company": "NTT",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Qm45bG1sU0ljc1BHY1AySWpZcEVYTTZ1Slp1MkZZdlZqNElHdDVTejNLTDlSUWxXZWNHd29hV1Z4SW8xLXpkdWlGdUtTTFZhQVZOS2RTSkp2RXNLb0lYTzBLOEl4dks2TGNv?oc=5": {
-      "title": "SOKUYAKUがNTT西日本の自動運転EVバス実証に参画。車内でオンライン診療を案内し、移動と医療をつなぐ新たな医療アクセスの実現へ - 時事ドットコム",
-      "company": "NTT",
-      "source": "時事通信",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNTFxUXJpWkZETXZQamhxeWJkRHNOQWpIYTlZcVI2Q3RlM3hYaFFCem1kUU5SR2NySFZQZWV2Wnc5eWZXSUpISHVfTEZvdkQyaURVWHlWV1VTdExLWTFhSlVfMTF5eVluZXIyTA?oc=5": {
-      "title": "東京ガス[9531]：発行登録追補書類（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "東京瓦斯",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMmhFYllWWnYzd3NZRWFEQUFjVHBHYzVldkhkTks3blVtaXlIc28tNVcwNi1nZ0tnNTluMHp1emI5S2FTSF9oWG85UHNzdXJvenlaYkVqYUpXUTcyQWtldnd5bzNPblBpLVVCbw?oc=5": {
-      "title": "ヒト型ロボ、普及の現実解は「車輪式」 トヨタは世界の工場に導入へ - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xaGg3Y21aQkV5QTNNeUdMNVpFc19yUTVRLVNSSEh3SlZ2TS1NNEppbHVjWVlQYVhnV0NPUWxtNmY2OEtBaEEzMzRvUEdvdjRuY0V1aFJ1ZDVvTUljWGRuaF96azZZZXA5MmYwZw?oc=5": {
-      "title": "ミャンマーで中国車躍進、EV優遇乗じ新秩序 トヨタ・スズキ再起に壁 - 日本経済新聞",
-      "company": "トヨタ自動車",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oMDRPYjYtWHl0cWZzVGk1UHg2UnZ4Ump2alFBaU5UWDIxdnFvTlgxMlcySlJnWWtXdlFKYnhkeUFQb2I5UVBFVWk2TU9BTDlnWWlxcFB3MnFTWGlYdEFLQ2R4LUp0djZrdUE?oc=5": {
-      "title": "イオンファンタジー[4343]：SNSで大人気「ペルビアンモルモット」の『ディカプリオ』のプライズが初登場！モーリーファンタジー・PALOにて11月27日（金）より展開開始 2026年11月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iVzVaTUwtTEJJbm14Tm81ZUNEWHJmQ0gtcWlrNHowR0Y4cVZScmx6Wi1wZy1aYnZFVTJyZXRfZ3dkT1pvS1BkSXhjS2lHZjdxTVdmbF83ZkNXYXY3al94NFAwOW44ZUwxUDNqSw?oc=5": {
-      "title": "ボージョレ解禁、冷める熱 イオンは「コーラ割」で若年層にワイン訴求 - 日本経済新聞",
-      "company": "イオン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WNFVEOWpYVXRiYWkzQkJETmdLaVpiMk9UQ0l4dlE1RHRwY2pKUVBwcktVTlhXMGhBa1VtWU9qRm0tSG5oeXNDT3JRTE91UE8xUlg1TzA3Y1JGcElvSjg2anVIRmhpOF83eDNv?oc=5": {
-      "title": "【近江ちゃんぽん亭】イオンモール松本店 2026年11月19日（木）グランドオープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Cbjc2bWlNZHBrZXRNSF9yS2E0N1NDd0VkRmhoZWljcTQxc0QxMTVickpaU1dwNEJ0N3hKbmY4X3JLN01KU2ZYek4wVV92RFBzbkFLUk1QVlpIOXVDZVM1MHlDOVktQjB0TUNB?oc=5": {
-      "title": "【NEW OPEN】2026年11月27日(金) aimerfeelイオンモール伊達店がグランドオープン。オープンを記念してオープニングセールも期間限定で開催中。 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJT2VfY3pEVU1DSlBraUpHeWFEdFY3cmk5UTFUYzNTZ1k0U085TjVabF95WVBTX2xldm43R3BoUUpDRjZOaktKRGduZzdqTGJVcWk5cVotdXNhWlpSdHZ3Vm1SdFlQaWhLTk9uWA?oc=5": {
-      "title": "センコーグループホールディングス[9069]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "センコーグループホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ScWttbm5NSDFSZHV2N2YwSlltVldOWGdjd3pCNm9fYTd4Rkd4VTl2U3drcEc1MmtJRHk0aDZEVTRmZUx3SzBLclNyWkQ5VTAzd3lLbGVXbF9BUDVFZlBicDNHTG9XWVF0LTU4eg?oc=5": {
-      "title": "「透明性の高い貿易が重要」商船三井の池田特別顧問 深圳CEO会議 - 日本経済新聞",
-      "company": "商船三井",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-19T02:12:25.231593+00:00"
-    },
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrLVJkOG1HQ0ppb0lVa0xtM2JBeXM2WEJYOGpqNTZ0Nk1BeWZIcnViVzBmZGpycUZMemhEZ2E1VnN6SHVpcWhWNndkeXhhcEJXRDBTcXQ1c1ZfQnZ1Z01OcTVieURuZVN2Tnc?oc=5": {
       "title": "ジェイフロンティア[2934]：SOKUYAKUがNTT西日本の自動運転EVバス実証に参画 車内でオンライン診療を案内し移動と医療をつなぐ新たな医療アクセスの実現へ 2026年11月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "company": "NTT",
@@ -1757,7 +1685,103 @@
       "company": "三井不動産",
       "source": "日本経済新聞",
       "seen_at": "2026-11-25T18:59:29.340515+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IM01uLVlYWmhuZ1lFV1RJcS1HOFNaTGZkUnFGUGk3c05XUjNDbVVYSXFDSVgzVnlwUEFnelVGcUFTR19UbWJfM2psT3dnQXZ4T2NKa0dZMk4xeWtnR19uTXlJTE1EQzg?oc=5": {
+      "title": "［徹底予測2027 商社］三菱商事に三井物産、DC需要でエネルギー市況は好調続く - 日経ビジネス電子版",
+      "company": "三井物産",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGV2WW14Zk9ydW14dEQwQ08tR1lVM2I1bFNzaUhsY214ZmdadnZ3Q2twRHg2c2xTZWpCQ2I0UjQ4RFIzMVQ0b2c2ZGo3cFM0SExnWGlzclBMZ0xFZjVucDRVRk8yOERRTHl5YU8xSDUwV1lXbHdOTF9yUVFvQTZKYXQyU05zTDR4cTh2Mw?oc=5": {
+      "title": "アプリからサーバー侵入「攻撃の重要な一因」 伊藤忠系 - 日本経済新聞",
+      "company": "伊藤忠商事",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTnRNVmJoa0tsX0lBSTZtRHYzTEhFUXdXYjBIaEU3U05zYXBteVd2dlg5enRaVGg1Wnp1UnBETktZcTdtOUJMcUZfM0lKOU1Ec1h2Y2RLWU44SmxfZExyNXE3U2NuNnBMZUhMZA?oc=5": {
+      "title": "ゆうちょ銀が勘定系をオープン化へ、2574億円でNTTデータが落札 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1UVTFlczVLekp5R2U1ZVM2SHpPSVhrdmVXTkxRbFNiZDNXVVhFWUc1T2xiNlR5Qjk3eGVqYTM4bTJVOUwyaEExSEt2cEhwWFBDZm93TlFTU1RHc3dfaHBkcEhvTDVNcVV3aHVkMkpYYmN3QQ?oc=5": {
+      "title": "NTTドコモ、不正アクセスで迷走 情報流出の確認前にサービス再開 - 日経クロステック",
+      "company": "NTT",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QaTg2TkZtcno1LWZCRHk0SGpiYzl4eGJzWUhzYzUwYUh4enBzYTkweDVfSjdJV1dJQ05BdkNNeHZCeExrOG5lYmNWUnJRN1Jkam1meHg3NFZzM0liaW4tOUlESlJwVVVBbWR3?oc=5": {
+      "title": "持続可能な社会の実現をめざした教育の実践に向けて東洋大学とNTT東日本が連携協定を締結 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VZlR4aHNZc2ZzbTVOQ1ZINXNjNGo3MEhVZmE0b245VVlHSXp6WWIzLWtjWmpWQUM1amdLMFdoMnc3UGpXdndOV1NLZl80LXNQSUdicC1LWEZqbE8xejNvZnE1TGxGY0p6NnpUNg?oc=5": {
+      "title": "アサヒグループジャパン役員「多様な経験積んだリーダー育成」 - 日本経済新聞",
+      "company": "アサヒグループホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yM2F3M0lHZW5YSXZRTUk5aThBd0l4aDdXb1hFSnJFcWR2bTh2Sm9HRTZKMkE0Z2FQdUJzR0N5WmtaUlRVVzB0cXZwbFBENV9KQUFuNEsxMVBQYnItQlNSbWxEdHdNVWgzeVZ0MQ?oc=5": {
+      "title": "トヨタ、自動運転「ほぼ操作せず走行」28年投入 開発車に記者が試乗 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTZidkEwRlN0cThsSGVqbGctX2ZiM3otNVBBMTVvNXlzY2J4N09xSklvQ3NqYnhCSlZtMk9QLUt4WVBBUV92OWp5UjlpQV91bmRRQlQ2a0lnU1ZiTS1zcU9IOE00VGNjRXVmcnVuS0dzZGZ2ZTJkZ203Z0VyWlZzMDhNZlY5SUE?oc=5": {
+      "title": "フィジカルAIもカイゼン トヨタの力点、半年で性能15倍 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtaFZKZ1YyV0tSYzlFaUp6Ni11bGRFUlJ4N19RbnZnMnEwUTExYjVObklzWm1OeUx4LU1LM192TDhpVmEzZDcyTUJRUkZyemhmQ0pGM0ZHZXNKX25zNFVrZC00bkxvTUhCamlV?oc=5": {
+      "title": "楽天市場の利益管理を自動化。EC特化型AIエージェント「ECPRO BRAIN」が、店舗・商品ごとの利益が日ごとに分かる「販促費・利益管理」機能をリリース - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUljY2ZNdnFvSW1WY2xweTVCNDI1VEVFcUlybE1Jb3hXOWxxRjktekFGLUprMEdLM18xd0x5LUh6UFdVOENzTDNNd2FIUlFza0laQmtBQzkxbTV2eDBZVW1PTmtUWXlQdmlBNDVsSlBOYjBZSHlUNnRLNkNvVzhnamRvUVdia1E?oc=5": {
+      "title": "東北大学、電池内イオンの「居場所」解明 脱リチウムへ - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxSVNaNmx3Rkt4TEFJX21saUhsUXFBS1dpV1BaYUM5M1puajVTV3BZWkk2dGN6ZmdZMWI2WXljOVN5VG9mcjNRZzM4U1BmY3EtNmREOW9FRzI1SVpuR3pUbkZvcDhKMzFMWVE?oc=5": {
+      "title": "Ｌｉｂｅｒａｗａｒｅ[218A]：Liberaware、イオンモール熊本における爆発事故の現場調査を実施～狭小空間点検ドローン「IBIS2」等を活用し、経済産業省の事故原因究明を支援～ 2026年11月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MeU9ndGRvZWJYSjJScWlJaktiSVdlMEtTQzdjNWZ4Yk1Damh0X2dxU2ZQejFUaklpOEVkZ3pGRS1lRjYwSWNyNE4zT0ZlRmM3WXAtV2w2M3h0di1kSmNPRnNpcnpMSUEyWlpj?oc=5": {
+      "title": "LOWRYS FARMが2026年11月27日（金）に福島県に新店「イオンモール伊達店」をオープン - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KZ29EaGluS0ROVDJqWU5sdXA2Znh2emkxYmU3X1BGa3VxdGVpV1JQRGxYamxRVDZfUjQ3SXVVYjVreEFDVlAzOEk5TTJKY1FzU0NUaDdpbWFhTGhGcUxQaW5Ddkw4Ulh6TUU0?oc=5": {
+      "title": "昨年来場180名超！JR東海運営の「FUN+TECH LABO」にてアシストスーツ比較体験会／講演会を開催 - 時事ドットコム",
+      "company": "東海旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJZnJjeThBM3BHa2NiWDFUX05NN2VkRGxJMkgwSDQ0b0F6VG5ZcHJQY01VUEdUUU5lUnRWOEY1TVhtZU0wdS1nVWdXSkprSFlyMGlWdUhMZWQxS3lpc1ZnNGVEXy1CMFpYS3c?oc=5": {
+      "title": "東京電力ホールディングス[9501]：柏崎刈羽原子力発電所 特定重大事故等対処施設の工事工程見直しについて 2026年11月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "東京電力ホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EMDROSHNvVWxlbHBhMnVCOXB0SEhuX3laNkcxaWN2a2JVck10QVNrQ2FMdV9tWGs1a3RDMDJUOU1sZ1dMTWh2M3BTUUVtcXdVb3RyWWVrUm5rNWNsVldmbTUwQlBvT19xalJHNQ?oc=5": {
+      "title": "あおぞら銀行[8304]：半期報告書－第94期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "あおぞら銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KYzJrd0tKczFLQkRGMURkd2pMNk1TbENtUktsUUp3NDk2UlJSNDM2YjIyVVd4ODNGSnlZOFJ2N2t1d19iUTZzTHRjcUtjeFFFTTIxRDdBY0Q1b192QlBMaS16TkVySWN6TndtQw?oc=5": {
+      "title": "◇大和（8601）第5、6回永久劣後債発行 - 日本経済新聞",
+      "company": "大和証券グループ本社",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-26T03:21:22.452660+00:00"
     }
   },
-  "last_updated": "2026-11-25T18:59:29.340792+00:00"
+  "last_updated": "2026-11-26T03:21:22.452949+00:00"
 }

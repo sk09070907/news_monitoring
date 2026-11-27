@@ -1,161 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WXzZLaHlmM09vYmZOLUlTazAwcHk3cG9vSFZJT3k5c3kzMFFFeW9SblhGaC1kcXdfZTF6N3lJdl9sTVVrSUwyT0VmbGRzVHVkTFNrRDlIQnNuMXcycWlTb0VfREhnbDk0ZldOSg?oc=5": {
-      "title": "楽天証券の情報漏洩「厳正に対応」、片山金融相 - 日本経済新聞",
-      "company": "楽天",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tbUpzZExta25rRHR0SnpZSGZPdmhuNmdweTRpVHd1VG9hQ1FJczNSekR0SURfTHFDcHdfLURyS1VQX2Rwc3VUSjFFSWdza1k2cVJDcGw5T3VvUXVHakZ4SGo1Mzg2b1FZWUE0?oc=5": {
-      "title": "推し活双眼鏡「.LIVE Coco」が楽天年間ランキングに2年連続入賞。2026 TV・オーディオ・カメラジャンル第11位入賞──2025年間ランキングに続く。 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50Q243bUlna2lYQ1AwMEZEcGg5dEdGUDBYd05SckR2WEt3Z0lpdDAwTFRXMWxLR2V2NlE1TU52RUVYanFYdGVERDlNOEY2UUstQ1o2YnZLV1F2eEJkNDhCb2Q1YmozclV4MFZz?oc=5": {
-      "title": "【福島県郡山市】「楽天超ふるさと納税祭2026」に初出展！返礼品を通して郡山市の魅力をPRします［福島県郡山市役所］ - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eGM5MUxsZ3lwN3BEWW9scVcyVGNmSHF3S3ltZ1J2X1NjcmlSQzk2aEZoNEhEZm5LM2d2NENKUTdIQ2diXy12T2I3SGhUV0lZY1V2cWlJRFVjZDdYNXB6clJiSTZ6Snk4LUlj?oc=5": {
-      "title": "わずかな光でニオイの元を分解！新発想の「光触媒消臭スプレー」が楽天市場フォレストカートで販売開始 - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpb25zZndyVHVxT0NyeVdPWlhNdEhJcmVqa05Yal9jbS1tcVZUenpaVV9ad010NzgtRTJTcklSSk8xSEFRdEJsbTZFVVU1T1ppdE5pV2daQWxWMG5WSmJwenlyXzUzTHFQMzVr?oc=5": {
-      "title": "【ペッパーランチ】11月27日(金)にイオンモール伊達店がオープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sYVVnSEhuRndrcU9pR3plWXUtVzZMc3dmdnROem85TlNoQ01BdG1vci1aVDNfd2VYZzVpU0tERklfSFl3SGxJZTcxNEFreXhJd3o5ekhOLWdKUk1sV2lfcGtmbklJbGZLOXZB?oc=5": {
-      "title": "メガネブランド「Zoff」がイオンモール伊達に出店 福島県産杉材を取り入れた地域密着型店舗をオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWnZqRXBkdjZWN25rMFJLNVZLUzBMcjlsdGZFdE5WQ29ZeVI4d0ZsUnZnQVM3RXVmUmMyLTdVS0lLdFZPcFdzQ216V3Zsa3Y1WUY4X3NRSjVmNDFVU0RDOVNIdjlFeGxKUk13?oc=5": {
-      "title": "【イオン限定】「BT21」デザインのプルオーバー・ＺＩＰパーカ・スウェットパンツを１１月２７日（金）発売 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xaTExUE5uYmNwSFR2SmpDV2JjOHpYa0h3dFBvZ0NHLUJlb192c2R6Y3Q1WEV3M2UtV3hxQUl3ZWg1a2FqQ04wWlcySmZib0N1MGY0T0ZPMVc2QmRBcTVvN09hTXhxNE9BUnMw?oc=5": {
-      "title": "イオングループによる寄付総額７億５,２３５万７,０１４円 首里城復興へ向けたイオンの取り組み - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zUU1BeEVZb3pZZDhiRnJlY0VKVkZnZTNvNUhzaU53UHRhWk5zR2hIcmdKSk1pdEVpWWV6bFV1Mkx0ZDhqZTJ3X05mbzd0VXRvY081dnd1U2kzZFU0T2Eyb2RkeUVJXzdXUUdz?oc=5": {
-      "title": "「メガネの愛眼 イオンモール日根野店」が2026年11月20日(金)にリニューアルOPEN！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BeXBEUXh2cG9rZjNMUHFDV0J3QnNuYmoxcGJiV0VOSzlBaTRRWHJJZk1jQnNRSDI5UDhDYWRqZ0xMdlFkMnJPQm1MUEpvRVhqZWlpaEU0OGwyLUZJYW1NUnRGdElvYWJIMGhz?oc=5": {
-      "title": "『保険クリニック(R)』イオン西台店11月27日（金）オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWk81VjgwR2tJaG1SQTRGYUQ2YUlSYTQ5MDZCa2lDNDFtczlwVHVrcEhwRTNCN2ZRZlhlUDByNlNObXFiRXZkQUN6Nk5ITnloclhGTGYyWEVXMjktR19nZE5pNDBkUmJ0V2lj?oc=5": {
-      "title": "ABC-MART/ABC-MART SPORTS イオンモール八千代緑が丘店2026年11月20日（金）よりオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4VnlIVW8xbjFPSzhIQ0tod2RtV09FN2FhRHF1dGxScFBFdHlvZ3lma0Z2U2Z2enE0bTVJNmNXcXQtS1d0TXVsbWhyeVZTbnQ0c3ZaeVZ1V0JMdlpuVEZWSndlejM1Qm9Yb05z?oc=5": {
-      "title": "ABC-MART GRAND STAGE イオンモール甲府昭和店2026年11月20日（金）オープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LWTJpWERQS1J3RUhMLUJHOVRSX1VpNU10ZUhSb1VlU2tMaWRqS3BsZjVnTjk2R0N3RTNPZG9OVExETmdaam96UnA3U2FOSlJ3OWl6TzZrS1FxUnNBRWcxZktTZmtDQ2kwM1BJ?oc=5": {
-      "title": "横浜・三ツ境の皆さまに、もっと身近に。かっぱ寿司「イオン三ツ境店」２０２７年１月２９日（金）オープン予定ファミリーからシニアまで、地域の皆さまに親しまれる店舗を目指して - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZHA4RlNXck9zcG5sMXVfOENHY2VQVXBhWEVoTTU1WGdkLWJGUE9jUElaZF9OTjR2Z3UxeHpjYWZUdm8xLVNUcy1hUHIwQjhmeXppUVZiR3Zabzgtcy0tTkhFTDQwVUxLM3ow?oc=5": {
-      "title": "＼福島初の直営店／11月27日（金）グランドオープン！SHOWA NISHIKAWAがイオンモール伊達に誕生～ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWEZiVXJ0eVJGVUUwWXViX0FqOWI4VnA0VWVFOFRFa0N0Z1dJNm5CNlBpWE1ZdEJIaEdFb3NweGZIYVVqUnk0Qy1FQThyakIxaVdseXlDbEtZUlRTYlIwbHZTVS1wNklOUVNF?oc=5": {
-      "title": "イオンモール草津にアクセサリーショップ『LUNA EARTH』が2026年11月27日（金）オープン！330円（税込）から楽しめる、金具の素材やデザインにこだわったアクセサリーが豊富な全国展開 - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sZnA1Y2RJZW1xdEhwTVFoOTNHUEJxUkVZNkdLNlJOQXl3d1NmWkc1TWlpdGFGRDZvUm1FNGM0dnFLa2FhVEJkY0V5X2FxVG9zc0pPalFScDl3emc3dWJldE95b3c3QUxVUngw?oc=5": {
-      "title": "サブウェイが5年ぶりに福島県へ帰ってくる！県内最大級の商業施設「イオンモール伊達」に出店。『イオンモール伊達店』11月27日（金）グランドオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZFJHVlh0RHNMbFBZMXoxRXVPaXZ3UHc5b0lWeXZudkRMT2J3Y0NFNlRrVnpJN3FENUNQWjFQaWpkZ0ZuT1NtMzU1N1FodkQ3WUU4M2YxT0xQZlBpZmM1U2YxVVFUT0EwQ21N?oc=5": {
-      "title": "低価格で丸一日過ごせる屋内型プレイグラウンド「のびっこジャンボ 木更津店」イオンモール木更津に12月16日(水)オープン！ - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZVDNPSE9YdVZYX1Z6YVhiUTNucGJnUi1YQlNGS3llVmNwUzRYbDhZelgtSkxBTzY3S3JXMFF1aTJjQjZral8weUZyWFAzZWlFQVJqMWRYMUZlMzhERjIxTTNDT3pYeE1EQk9VWg?oc=5": {
-      "title": "みずほ銀行：変更報告書（特例対象株券等） 提出者：株式会社みずほ銀行：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "みずほ銀行",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FZlNNUkNuekFYTDI4WjNROE42R2ZlUXlBWHNVeEFFUFQ4VWdGX09qR21DaFA4Ui1GWFVvTk5UeXRzeHpRTzBWRW9HeUlVLXJlODN3MUdERFZmTDk4N0c2THdvcHozc3daRUc0SQ?oc=5": {
-      "title": "野村ホールディングス、増益 - 日本経済新聞",
-      "company": "野村ホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRGRTcVZsQ1ZnNXB5Q0lCYXVLWjN5aUJFQUplYnJxd2tSOEdiT05mM1FCdWx2clN4WUl3aVg1YmVzdUxsWkhvQWdzcHhNbWQwRWtGTTIyU1FVTmprRThEVGMzMnBMZ3B0MGw2OQ?oc=5": {
-      "title": "大和証券グループ本社・大和証券・大和総研、AIエージェントによるオンチェーン取引の実証実験に成功 - 日本経済新聞",
-      "company": "大和証券グループ本社",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QdkpjV2xKWWNJX21GUXJueHhmVk9fLXk2WWs1dW9IdGpVcUFGQlNMTFFTa0FOdkwyak1hdGtXNndnd21zeUdiek9EZjRTd1NoZnNTQzFJVWRnRHB5bUwtUjU0N2sycXpxY1FSLQ?oc=5": {
-      "title": "ＳＢＩホールディングス[8473]：臨時報告書 臨時報告書の訂正および発行条件の決定など (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVaVZxM0dzbXpjWWZaYXlqdFpDSnN5VDM3d1I0Vk1qUExrMW94Y3pVbDRSZ003ZllvdVVIekczUWtTVU1JVHFUZXV3dDZKSGl3UF9JZVpjVVNXaXJ4Zzlfek1OVXI3Um1BdXlncw?oc=5": {
-      "title": "◇SBI（8473）海外円CBの転換価格決定 - 日本経済新聞",
-      "company": "SBIホールディングス",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nS1poNlFrdm5VYmJsLWJmM0l2Y0UtdnNNTHdFU0lScUpNZlFVbTZxM0Y5cm1wVXhTTnJONm1pVnVaOHgtM2M4X2c5NHVFNlhFTElpVm1JR3p5MHhPdi0wbHZUeUY5T0xRSWln?oc=5": {
-      "title": "SBI FXトレードから公式キャラクター「レバッカさん」誕生！：時事ドットコム - 時事ドットコム",
-      "company": "SBIホールディングス",
-      "source": "時事通信",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HOWV2blpXb1ZLY3VYRUtXbnhkWHFaRzk4QS1oM1BEakt0X2dEaGNJUTBTdUpQVXNNMnBDMGQxNUlKTVpvMEJHVm4zZVh0cDJIbUZqYUZTbUFoeTR2WEZ2OThBWVNpSjRzQTRhOA?oc=5": {
-      "title": "クレディセゾン、増収増益 - 日本経済新聞",
-      "company": "クレディセゾン",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eTA1NTUzX25icVRSeF9Oc1kxclFhUUswSHdmbHdwTVcxOWZjR1R1cnJjNGZuZW9MN1JEdGc2czd3TXJxMHJ3TkpCa1ozSTVadWNRX3BKb2I2LUVfbnM0Y3RfZEtKWTMwdG15NA?oc=5": {
-      "title": "オリエントコーポレーション、増収増益 - 日本経済新聞",
-      "company": "オリエントコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSWpyNkNZYWxLT0lyVUhKMC1RdEhraUFweXNFUmZDQ19TZnZGSU0tdUtlWkdDeGVrcGdxOWFqa0RQRWdCN1RodjBpc2w1dzE3MERZa1lkc2pRaFJxQzBTRG4tUDI4a2F3SGdFUw?oc=5": {
-      "title": "◇アコム（8572）第93回社債発行 - 日本経済新聞",
-      "company": "アコム",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-20T05:44:14.382585+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbm5hazNSS2RBcjRlYkFsSXhrbmFSa2c0UW10bUE2WUFhQk5wZTBPUnlHaWQ4RzZnRTVHNEJGcTMydmdpRkJEVU9FWDlJY1UxUjBYbEU5WGp6c3QyN3JBOXJNckRtNnR5SkpFVw?oc=5": {
       "title": "かどや製油TOB、大株主の三井物産がJオイル案を支持 - 日本経済新聞",
       "company": "三井物産",
@@ -1703,7 +1547,163 @@
       "company": "ジェーシービー",
       "source": "時事通信",
       "seen_at": "2026-11-27T03:27:04.892468+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbzdGMzg1eTRpVktSXzIxTnFsbVU3UFRfeUJBR0loV2ZtZERvQl93RGN6ZDE1a2loWHlvMzlHX2tUTThCUm9IUzUxcjlvRG1tbXljOXVHcjE3bnJjdzYzcnZzcEVnY3g5bENyUm02UVRqUFN4dlE?oc=5": {
+      "title": "三井物産デジタルＡＭ、「個人向けデジタル社債」に取り扱い領域を拡大＝数年以内に累計販売金額１０００億円を目指す - 時事フィナンシャルソリューションズ",
+      "company": "三井物産",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsXzEwejFmYVpkLXhyZVFkZkhnSURuOHZiMHg2UXc4M1ZqcG9ZbDJnSTlxOTVvamN6VGdyWVRRSm9NUlJ1RHhkVkNaWjhRMi1aTGRxb2puNUVTMWVWV1FCU2lKY1J6SG5SSU5lNg?oc=5": {
+      "title": "◇ENEOS（5020）第6回社債発行 - 日本経済新聞",
+      "company": "ENEOSホールディングス",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmhKUl9vRVZCODc4bHJSaTQ3UlJscUQ1T0xWYjJpU2FiY1NSU25KSnZYMC1sdHR1Yk5VX1FvTXdzUEkwUEo5OVFZWG4wQWQ1WjlSekxldHJzNFF5elZLUDF4cnlFMW43R0I2NQ?oc=5": {
+      "title": "福岡県、我慢のトヨタEV電池工場 自動車・半導体誘致で難局続く - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBd2NWaFd5UVpmZXRnQnhIZ3JVMUpmQnFLLS01QlZHWlBtR3FyYWpLM01HaTFhd1ZoRG5VNjFuT0dTMkZzTTFJLV8tWkZYZ3ljYno4WGt5SGR1a2E0NE1famQ1OS1hZmtNNFhUTw?oc=5": {
+      "title": "トヨタ、福岡のEV電池工場延期を県に報告 知事「やむを得ない」 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kbGh5NjR1WFpoVEFqMGs1WXkxSDloMlB2YVdRTnUxYU5QeDRBWGNEemZfU05XdFhvRTZQUDBOb2VWRWVkb3JnLWdVazNPcHVKWmJTQlRKSzdzRkt4cFh5a1RaZFhEN3pLR3VJNw?oc=5": {
+      "title": "トヨタ、10月の生産・販売・輸出実績を発表 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba3hQYTZGYl9uSEUtRUU4N3pRc3k2amxRZ2o2OWFNYVViUG9VdXdLQ3pJaVdRQU5IMU0yTGM4MlNRU2JLQjZZTm0wSWVPNmdFZWNUdHFtUG9ob2VELWZYX2hjRnNjRVR0VzVBaA?oc=5": {
+      "title": "トヨタ、中国で新たな電動車「EREV」を投入へ 挽回狙う日本車 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XcUVLLVdhTjlFbGU5UmJFeGJ1Ti10Q0RweklHSk9JX0ZEdTl3a2hMQnNpaEtuWS01aVgzX3UwQThMSko0Z2FFcC1HaTQxU2Y1dHZMQ19sY2NWUEJHZXR1bEtCYXFXRVc1WkJONg?oc=5": {
+      "title": "トヨタ、10月世界販売5%減 電動車シフトで中国は9カ月連続減少 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BNGI5cUtvVHpPb3ZVUWZmQU05YUJnN3NfOGdjc1ZMU0tCZkdBRVZzX2xXV2dwdUhfdG0yeGRxQllHM3FPOG1iM241algxQ25ES1hpeQ?oc=5": {
+      "title": "◎トヨタ、電池工場計画を再検討 - 時事通信ニュース",
+      "company": "トヨタ自動車",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE56cHMteFRQcjAyMmxJMzZpVnRYMDQ5QnU2Ukx1ZEJTWEJfTXJkMkNqZW1hUmpuakNZUWVRYkVjTnZqMzRGdG9lZ2RNS2NyMXpGUjNWVGVSS2l0RXA1d1FHUHprd3p6ejBqcWRwSg?oc=5": {
+      "title": "◇アイシン（7259）第20回社債発行 - 日本経済新聞",
+      "company": "アイシン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYnBhN1FOZkh5WWs3QWhTYWhlcTVxTFozeVNWRTlSdVlVd2d6d0NnenFSNURyQ1lYV3lqQzMxUm1NaTZtNUt3MDdySjQ1eEt0amdIVzVabVp2OW1ncW1zaGJqNjJGU09uUWVv?oc=5": {
+      "title": "函館発「生とば」の冷凍タイプ「冷とば」、11月28日・29日に新千歳空港で試食販売。楽天ふるさと納税でも28日から受付開始予定 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rb0ZnWDdLY21xUVlLb29rRWdJaDZvNFRDdGQxWjFsQ1RkeUFzXzdPVzU0UE03U3FyMkJSLUlDU2M3LWdhUzlNRmRhTFg5OEFyUHptX0dqelhFUVB2RUoyVkFtWU5hYmg1VDRN?oc=5": {
+      "title": "東北エリア唯一の店舗として出店！「Perfect Suit FActory イオンモール伊達店」が２０２６年１１月２７日（金）にグランドオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKM3FxVUpEanUyalk1R2tNZ015LVhWYWdBTG41NWtWYVNqWmZXVC1UVGd1VTBfeWhwWVFZR2hhRXdQUURwVjl1YkM0OTZva0RZV3pLZXp0YmNacGpmREZ4VFlCVXIyazZrbFFn?oc=5": {
+      "title": "島村楽器「イオンモール伊達店」が11月27日（金）にグランドオープン！～オープンを記念して多彩なイベントを開催～ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UUE5tOFQ5MVVyLUJJVFJwRHZITkktYXFWUGlzYmVwTXMxeVI1cm9qZ0lBbkdrZElWZnNSLWhVMDFPd1dmQVA4SjR4clp1LXFLVDhFNHFPQUtMUkhHMklKMllTeVAtMm9kUTI4?oc=5": {
+      "title": "【福島県伊達市】タイムステーションNEO福島県初上陸。イオンモール伊達店が11月27日(金)オープン、G-SHOCKなど国産3大ブランドのオープン記念フェアを開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE93SjVxWkhrZWxBVjhtRnotOVR1blhZTU5LZ25Qc3BseGJwblQ2bnYwNmxxY1lUb3BBaTVfbmt0RkVWazlTS2ZmTDZQM2ZqT1lSZmxvR3Y3NjRCYWdLSFp2Wl9ZeTFmakRhU2pB?oc=5": {
+      "title": "「ミモザ イオンモール北大路店」にて、2026年11月27日（金）よりアテニア製品の販売を開始 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HaDAxM2t6ZmR5aUd3RHAzQkpBbGxCNmxUMzFSeDFPdG5yT0NhX3VWRGh4d3M1OHM3eVJ3ZktsR19sZWI4bnFCd0JrVjBSazU1UHAwWFo0YmYteUpVYWtnZ1l2ei1ma3lxMnlZ?oc=5": {
+      "title": "『保険クリニック(R)』イオン松任店12月4日（金）オープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91QXkyM0s4b0VwQXNncUxFS2NJcTB5bEZfX0Z1Q3ktMy13QkhRRFR2bUszSjJaZXlTQUhoaW8xYXE4ZWQ4eXRJOG5jME96OGMyMDdSeXAyb3RuYjNiTEN1MW4tcnZWdS1HblFj?oc=5": {
+      "title": "福島県内初のスケッチャーズストアが誕生！「スケッチャーズ イオンモール伊達店」本日グランドオープン - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HVG1NZUNNQ3d6Z19SQWVNRTFhck9kd0xMVnBqNWNLelc4bG1KcjVfUmNsTldoTElKX24zdjNReTR2S3BXZzByYUtKQVE1ZTgxMUtuSHA2a2UxemhfUWNYYnBVUUYycVNRR0dz?oc=5": {
+      "title": "ファミリー向けアミューズメント施設「モーリーファンタジー 伊達店」11月27日(金)イオンモール伊達にグランドオープン！ - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybmJ3S0lZQlluWU9nWVRXU1NxRUpHNUZxRXJ6czg5UmxXQlJDX2RnNFdMQ2VmU3ZfLUx6b3lvQXZOcVdaWkNhUjBsVGIzbWhwODVTajJSeDEwamhLYWJBN1ZwQUZGV25Jb3pn?oc=5": {
+      "title": "地元企業の若手社員が仕事と暮らしを語る「高岡しごと・企業魅力発見フェア」、12月19日にイオンモール高岡で開催 - 時事ドットコム",
+      "company": "イオン",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMRXl1SmVwc2NfNEFndm1KY3FkSTkzT000ZUVRX3g0Rllld3kwMHJrYl92OTRWVHZ5aVZlTFpCQWs1bHhWS0k3X0cxTkl4NjB3M2RWb2RZOXNTbzBfNkE5eWx5QzRZTkdaLUl3?oc=5": {
+      "title": "一条工務店が展開する新形態の店舗「ICHIJO PLAZA」、「イオンモール伊達」内に2026年11月27日(金)オープン - 時事ドットコム",
+      "company": "イオンモール",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wd3dxUWZBOTQwUnl1UHZ6QV9ZaVhkVXNwUld4ZjU5eHpHbDZ3ekNvQmd3TUtFcVZsYkRCS0U4em5yVGcyZ291WjJWa191MGVPMTdpWEJ4WWs0bk9EZmN6d0RzZ2tSM3R6cndr?oc=5": {
+      "title": "JR東日本グループの駅ビル・商業施設55施設へ「落とし物クラウドfind」 導入! - 時事ドットコム",
+      "company": "東日本旅客鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYeFBYOWRPUUZSd0NmdkgxYUZKdk9kZ3VHd3FnRnpTaHZhUTJXSHdqYm40NUQ0cmJFUzh3cnJqTlBRbmZ4WGdYdXZIYlFEeG5Uek5fRmh6cDlEa05mNGJyMXd2QnBTV1FPaWhj?oc=5": {
+      "title": "近鉄の最新観光列車をひもとく『近鉄観光列車のすべて Les Saveurs 志摩 登場』を11月28日に発売 - 時事ドットコム",
+      "company": "近畿日本鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTWdsMjdveTdsZEE5RGcwLTF1VDNVM1pOb01nU1o3eVA2UEtPdy1PdXRDUXlhMG9Fd052UDBaZ2dVRl9RQ2VkNEFlcXJmYjBfdTVvaDEzRk1nTU5qMmpyY2E1MEVMbWdPeGc?oc=5": {
+      "title": "四国電力[9507]：株式報酬制度に係る追加拠出に伴う自己株式の処分に関するお知らせ 2026年11月27日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "四国電力",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JS3Y1RllaSG9BaEh3OVoxRl94S1JBbXRpbjlhakRHMzRNNDVuTXNja25mRTQ3RExROEF1M2tTaUxhWEVuVXJDbVVkcU9SUGZXX01laHBUamp2cEw0NkRVb2tmVDBhUi1Iekc1UA?oc=5": {
+      "title": "三菱UFJ銀行、Equity Group HDと業務協力に関する覚書（MOU）を締結 - 日本経済新聞",
+      "company": "三菱UFJ銀行",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRXzFMZGtLXzZEQnFiU0VGRDZLVUd4dHBtQzBFNlVBa0VLYUJOdjcwZWdqUVA0SkladF92ZkdvMXE1TzdMTFQ3eXItdDRpRl9rWi1OazRWc0lxQjVMekl3LWFBWVROZHdTaVZRMQ?oc=5": {
+      "title": "みずほフィナンシャルグループ[8411]：半期報告書－第25期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+      "company": "みずほフィナンシャルグループ",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50c2llU0NiOVlYSlN6RF85dEI1MUNqTHJMSmR1TUJjejVLbVVGc0NaQzJMb2JpTFZhRjZKQ2NsVnNNelZ0SlpQTVlrYUx4X0hWYWNzQ1FncG1qRXFzSEktQTRSM1drcWRnSDRR?oc=5": {
+      "title": "マネーフォワードエックス、オリコの『mitosel』に新機能を開発・実装、請求書ファクタリング専用「審査モデル」を共同開発 - 時事ドットコム",
+      "company": "オリエントコーポレーション",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9heW8waHBkNFBaSFBWdE9RMGp4d0Q1ZlYtWEUxeERJdjN1czhLcTVRVjh6LWtxMFFLX010SFJMV2hPSFBmWmVhN05NbEs3NWJsRGYwLXhiUjhUd0VKb1E4ME54bkVobGljU1o0?oc=5": {
+      "title": "オリコ、請求書ファクタリングにおける事業者審査業務に「SimpleCheck」を活用 - 時事ドットコム",
+      "company": "オリエントコーポレーション",
+      "source": "時事通信",
+      "seen_at": "2026-11-27T06:44:45.865784+00:00"
     }
   },
-  "last_updated": "2026-11-27T03:27:04.892806+00:00"
+  "last_updated": "2026-11-27T06:44:45.866075+00:00"
 }

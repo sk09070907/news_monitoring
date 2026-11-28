@@ -1,41 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOGdkcng4RFVXdXNBMVRScGl3dFg0WjYySEtpRWVLT2hPYjh4NzdnYWZaT0dzd2FRYzFWOUdCTlBrOU12ZGN3T2Y5cVlYd1RiUnk1UEVjRjhjTEpJSGtFQ2hnTTFoVWRJVVl4WQ?oc=5": {
-      "title": "三井化学株、JSR1.8兆円買収に揺れる 時価総額の2倍超 - 日本経済新聞",
-      "company": "三井化学",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9icjBjYU5lZUVnMjRhcDZYZHZPNFdOMmdwb0dybER0ZVV1WkNMekJiRnpQQkxvMERFOWYxd1IzZmN5NklUeTV0UlVUempiV2FzYko5R1NWQlh2empBWEYycVFmU2NGOWVySmJV?oc=5": {
-      "title": "ダイセルが構造解析技術「結晶スポンジ法」を出展。「品質管理・検査の高度化」に関する注目の出展企業を紹介【イプロスAI-産業World 2026】 - 時事ドットコム",
-      "company": "ダイセル",
-      "source": "時事通信",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GMlBZRGZZY2x1QXJwZlFBSGczbUtENDhQZ2Q0d0Q5d3ZucWw3cHJrZGpNMlY1NTZYZGlreU9UOVlvV2ZzWHduVEF0Zmp5N3R4YWtXWk81TFptSUtQSk1WZXljT0pmOFo0cDhHaQ?oc=5": {
-      "title": "GSユアサ阿部社長「宇宙用電池、量産へ検査工程の自動化進める」 - 日本経済新聞",
-      "company": "ジーエス・ユアサコーポレーション",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzVjl2RnFWcTVPdjVsSS1pY05wZU1pb2x0ZVpwX2V3d3Z2LWNXeGdOYS1RcmlMcktSMUFtbld1b05Dd0w5YkVkWkJkOVN3dWtvUm5ZbDIxdEo4MlBVYzlxNHZTZWZWb3lveFc0?oc=5": {
-      "title": "【京都府】タイムステーションNEO イオンモール京都桂川店が2026年11月19日（木）リニューアルオープン - 時事ドットコム",
-      "company": "イオン",
-      "source": "時事通信",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUdVdFNoQmpuNERQMFdNT25XWDZKUFZKU3JEWDlZYWl0eVR2a0NiWVIwUXJjUmJuSlZDSWJIZjJVTnlkQ3ZMWTdocFg5U3FBdThkX08tTjFvMlY5NE5kNXpYZkZxSjY0YjdMYw?oc=5": {
-      "title": "三井住友フィナンシャルグループ、最高益 - 日本経済新聞",
-      "company": "三井住友フィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNmV6NVlCNjFYbll6YjRzdS1XYmNraUw0cmtiSXcxLUZPbE1LTWJjXzFuS2IwcG1UNXFOcElQR2V1YXVEM29zY1ppc1JRQ2JSY1BLbmczYkJVbVNER3Z2VllVeUNpRWFfQU51Uw?oc=5": {
-      "title": "日本株ADR20日、売り優勢 野村やみずほFGが安い - 日本経済新聞",
-      "company": "みずほフィナンシャルグループ",
-      "source": "日本経済新聞",
-      "seen_at": "2026-11-21T01:56:18.444911+00:00"
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUkxwUUlqNkxtXzNkbTZ5dDRXYnZFT21zZ1ZhTzhrY09RVWJPYkZiYW1jV2NLeVFZc0FXbVNMNTJLY1EtaFRGZXI2VWRrVzVlSFBpVDBqN25JOTJYY25oQ3NKd0w2N245Vm9n?oc=5": {
       "title": "楽天ブラックフライデーでスズキ公認「ジムニー」型ウェットティッシュケースがポイント10倍に｜CAMSHOP楽天市場店で11月25日1:59まで - 時事ドットコム",
       "company": "楽天",
@@ -1661,7 +1625,25 @@
       "company": "オリックス",
       "source": "日本経済新聞",
       "seen_at": "2026-11-27T18:42:00.466985+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWVNoN1ItVTJ0a090NUJQMm03UzZKTWs3NE1FSEtpeURXMU1FeUFham4ta1M4Mlc2ZUNJVzZ5aXNHQzFkaWpqSlliSlNhblFxNmF5MXp2UFVFM3hQNEZSZUVpY0hPemNkNGZxTA?oc=5": {
+      "title": "社内炭素価格､「GX500」上位20社9割超が設定 豊田通商は3万円 - 日本経済新聞",
+      "company": "豊田通商",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-28T03:02:01.241358+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rd2lFTDJ1VlNuQ3d3RFpfU0ZFTngwc3NzV0Vkd0ZlQmc3Zm1PWnlFSlZhUXR0d0ZXeUJvc0ZxTURHS3g0VXJhX3VBNmtlTkdPSnNBUmdOZEdEb3NVV3RVdWRGVXJ5YXFlc1F3?oc=5": {
+      "title": "NTTデータMSE社員が「2026年度グッドデザイン・ニューホープ賞」に2年連続入選 - 時事ドットコム",
+      "company": "NTT",
+      "source": "時事通信",
+      "seen_at": "2026-11-28T03:02:01.241358+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Oa1RWUjFoa0VaQU85UHZ1bWpxcTJjTkd1WElOcmlBbDdENFphMTNybkVlM1pNcENjZW5OaHpmYm1HNFJWMWxWQnBPMWF2YVdMVEl4Ri1MY2FlWHk0WGhXWDl1ckZidzBDSngw?oc=5": {
+      "title": "移動時間も、旅の楽しみに。studio15、近鉄「名阪特急」の魅力を伝えるショートドラマを制作 - 時事ドットコム",
+      "company": "近畿日本鉄道",
+      "source": "時事通信",
+      "seen_at": "2026-11-28T03:02:01.241358+00:00"
     }
   },
-  "last_updated": "2026-11-27T18:42:00.467330+00:00"
+  "last_updated": "2026-11-28T03:02:01.241623+00:00"
 }

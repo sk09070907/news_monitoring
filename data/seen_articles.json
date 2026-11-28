@@ -1,11 +1,5 @@
 {
   "articles": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUkxwUUlqNkxtXzNkbTZ5dDRXYnZFT21zZ1ZhTzhrY09RVWJPYkZiYW1jV2NLeVFZc0FXbVNMNTJLY1EtaFRGZXI2VWRrVzVlSFBpVDBqN25JOTJYY25oQ3NKd0w2N245Vm9n?oc=5": {
-      "title": "楽天ブラックフライデーでスズキ公認「ジムニー」型ウェットティッシュケースがポイント10倍に｜CAMSHOP楽天市場店で11月25日1:59まで - 時事ドットコム",
-      "company": "楽天",
-      "source": "時事通信",
-      "seen_at": "2026-11-21T05:38:20.341061+00:00"
-    },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DbVVsREd4TWZtcjN2eDZzUV83Rkc5ajN5akdOeF9Fem5lYzhmX0h4eFAtN0xOMzB2cUt5V3JKS21sWXV1RlRnSlVTRUZmRXp5RERBNDlSd0E5Q3hpbjJuVjBCQktvTmNJVjN2Zg?oc=5": {
       "title": "ミドリムシからリチウムイオン電池の正極材料を開発 産総研 - 日本経済新聞",
       "company": "イオン",
@@ -1643,7 +1637,37 @@
       "company": "近畿日本鉄道",
       "source": "時事通信",
       "seen_at": "2026-11-28T03:02:01.241358+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1R4N25VdGVhQXJYNmJ0NHdlNEpaeUx0OE54NjdtRnpPb21GWkJtb1JJcU1ha2g5ejllUnhHekpOdmc0cTV1QUhwNk5remdVZWlSM19NcGJQcTlrbmkzWmZtTExoVXVOWThpeVlBNVhGdjFoVko3WmNRQlNIaTdvS0sxMUMxVEltWWR1NzhhWGtfekxUZUI5WWtpeXlFLURPdU40Q1RhcWJIcEdu?oc=5": {
+      "title": "「トヨタのフィジカルAI」「光電融合で標準化」 注目5本 - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-28T06:18:04.937501+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hblAtSXdZVEVfT2pFWG4wYWFHN0JGdjhFSUE0U3pzUWVzY0gxTnpzdjhVZXdzZE42Q0x1M1FWM29tQjd4MEFZakZnajhsUUlpbk01Qll2QXZ5ckNjTDFHazJ6ZXlhWFJIdi1qUQ?oc=5": {
+      "title": "トヨタやデンソー「からくり」設備で工場カイゼン 展示会で生産性競う - 日本経済新聞",
+      "company": "トヨタ自動車",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-28T06:18:04.937501+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Rb0ZkNURsSXRRd2lkOXhpd3RpdzduTHFtdmpzT2xkZUVtTTRrZ3BXc05lZWh4d0lDZ0lHc1lCdnZ6Skp5N0dSN3gwZTNJa2tPRjFtRWx0aXhXcDhrdmZrZERYYS1RbTFxUjhR?oc=5": {
+      "title": "【楽天スーパーSALE】Novilla「律」10cm三つ折り高反発マットレスが14％OFF！2層の高反発フォームで身体を支え、快適な眠りと楽ちん収納を実現 - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-28T06:18:04.937501+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PYUdzWFJPYS14bTFMT205d1ltUHRBUEtTYVZpVFhiQXBOaDZpTDJDU2dPUGpnenYxazNzQnlacDdYdlVzU29reGN5WHV6bEdiUG9uRExPeENtWlAzVGo3SER5M2FtMF9welQ4?oc=5": {
+      "title": "【楽天スーパーSALE】Novilla「律｜エッジサポート」20cmマットレスが14％OFF！端まで安定した寝心地を支える補強エッジサポート - 時事ドットコム",
+      "company": "楽天",
+      "source": "時事通信",
+      "seen_at": "2026-11-28T06:18:04.937501+00:00"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMzNTZTYxNWdqWmJTWEJrLTZJNW9OSU4wZV9ETzJMckFQbGZnRElBU196ZEdpNk1ScWxaYW43X0FhcEptallTT3hxNTBPa2J1SGx1eVhNUC1QQmFRYzdZRFZaWG5naE96MzdCbg?oc=5": {
+      "title": "イオンやキユーピー、「フレイル予防」の独自認証 レシピなど提案 - 日本経済新聞",
+      "company": "イオン",
+      "source": "日本経済新聞",
+      "seen_at": "2026-11-28T06:18:04.937501+00:00"
     }
   },
-  "last_updated": "2026-11-28T03:02:01.241623+00:00"
+  "last_updated": "2026-11-28T06:18:04.937780+00:00"
 }
